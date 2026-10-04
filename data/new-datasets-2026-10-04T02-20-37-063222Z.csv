@@ -1,0 +1,41 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T01:20:32Z,trevorhallton/movie-posters-image-audio,trevorhallton,0,0,license:apache-2.0; region:us; dataset; movie-posters; image-audio
+2026-10-04T01:21:41Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-04T01:21:55Z,introvoyz043/Surface-Defect-Detection,introvoyz043,0,0,license:mit; region:us
+2026-10-04T01:27:55Z,Mkgarcia91/ecommerce-multimodal3,Mkgarcia91,0,0,license:cc-by-4.0; region:us; dataset; ecommerce; multimodal3
+2026-10-04T01:29:47Z,justicedao/ipfs_state_laws_normalized_graphrag,justicedao,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_categories:sentence-similarity; language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:text; library…
+2026-10-04T01:29:50Z,zxz2jj/frfd-data,zxz2jj,0,0,region:us
+2026-10-04T01:30:55Z,Anil1678k/warehouse,Anil1678k,0,0,region:us
+2026-10-04T01:32:35Z,wiallen01/nlp-sentiment-audio-video-curated,wiallen01,0,0,license:mit; region:us; dataset; nlp-sentiment; audio-video
+2026-10-04T01:32:52Z,wiallen01/code-audio-video,wiallen01,0,0,license:mit; region:us; dataset; code; audio-video
+2026-10-04T01:34:03Z,HueyWoo/pick_and_place_1004,HueyWoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-04T01:37:33Z,markdharris/highlands-renders,markdharris,0,0,region:us
+2026-10-04T01:39:40Z,mteb/Vidore3FinanceEnQwen3VLEmbedding2BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-04T01:41:28Z,alphabot2/21Sep_to_2Oct_plus_29Sep_STEA_pick_syncfilt_clean_v1,alphabot2,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; aibot2
+2026-10-04T01:42:15Z,maaqui-no1999/learn-satellite,maaqui-no1999,0,0,license:mit; region:us; dataset; satellite; sensor-fusion
+2026-10-04T01:42:48Z,snjzz38/so101_grab_ball_D40-R2-P_20261003_211011,snjzz38,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T01:44:40Z,chunyuysz/audio-text-samples,chunyuysz,0,0,license:cc-by-4.0; region:us; dataset; nlp-qa; audio-text
+2026-10-04T01:46:21Z,Hfzune/Duplicate-mix,Hfzune,0,0,license:mit; size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-04T01:51:01Z,g1n0st/f97ca125b323266ae5691232f73b9c7f17c4743c,g1n0st,0,0,region:us
+2026-10-04T01:53:58Z,thaki-AI/daily-paper-2026-10-04-grader-confound-agentic-rankings,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; llm-as-judge; evaluation-validity; tool-calling; agentic-evaluation; deterministic-grading; benchmark-audit; cost-quality-frontier; pre-registration
+2026-10-04T01:54:01Z,StrawberryHarvester/MASKED_PURPLE_Single_Strawberry_Pot_3_15ep_9-29-26,StrawberryHarvester,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-04T01:57:14Z,siddharthmb/2026.TA.comply_vs_refuse_chat_hires_combined_errall_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-04T01:57:30Z,mteb/Vidore3FinanceFrQwen3VLEmbedding2BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-04T01:59:01Z,siddharthmb/2026.TA.huge_refusal_first10_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-04T02:01:09Z,mteb/Vidore3IndustrialQwen3VLEmbedding2BReranking.v2,mteb,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T02:02:11Z,SACXZ213EDS/Annoy-PyEdu-Rs,SACXZ213EDS,0,0,region:us
+2026-10-04T02:02:12Z,SACXZ213EDS/Annoy-PyEdu-Rs-Raw,SACXZ213EDS,0,0,region:us
+2026-10-04T02:06:17Z,pedrooli/assignment-social,pedrooli,0,0,license:apache-2.0; region:us; dataset; social; pointcloud-text
+2026-10-04T02:06:49Z,CXu0630/mtg-price-app-assets,CXu0630,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; magic-the-gathering; mtg; pr…
+2026-10-04T02:07:28Z,dougalldeepmind/2026-10-04-da-sr-15-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-sr; constitution:claude_distilled_09_principles; stage:final
+2026-10-04T02:08:06Z,dougalldeepmind/2026-10-04-da-sr-15-maskdelib-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-sr-maskdelib; constitution:claude_distilled_09_principles; stage:final
+2026-10-04T02:08:57Z,dougalldeepmind/2026-10-04-da-sr-15-cot-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-sr-cot; constitution:claude_distilled_09_principles; stage:final
+2026-10-04T02:09:38Z,g1n0st/156349128285e79dc19a66410a15c397e19f8a8f,g1n0st,0,0,region:us
+2026-10-04T02:10:09Z,dougalldeepmind/2026-10-04-da-sr-15-nodelib-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-sr-nodelib; constitution:claude_distilled_09_principles; stage:final
+2026-10-04T02:10:46Z,AbstractPhil/geolip-beatrix-anima-data,AbstractPhil,0,0,region:us
+2026-10-04T02:12:50Z,chengruiqu/risk-representation-llm-data,chengruiqu,0,0,task_categories:text-classification; license:mit; size_categories:10K<n<100K; region:us; risk-preferences; mechanistic-interpretability; activation-probing; causal-steering; behavioral-economics
+2026-10-04T02:15:20Z,lefebvrenathan/medical-dataset,lefebvrenathan,0,0,license:cc-by-4.0; region:us; dataset; medical; multimodal3
+2026-10-04T02:17:46Z,JacobGBT/ord-data,JacobGBT,0,0,license:cc-by-sa-4.0; region:us; chemistry; reactions; cheminformatics
+2026-10-04T02:19:12Z,esibench/esi-bench,esibench,0,0,region:us
+2026-10-04T02:19:46Z,mandipgoswami/RIR-Bench-Hard-submissions,mandipgoswami,0,0,region:us
+2026-10-04T02:20:04Z,xuyiyi123/yun522,xuyiyi123,0,0,region:us
