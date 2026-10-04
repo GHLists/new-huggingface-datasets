@@ -1,0 +1,67 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T21:19:36Z,el22833/Engines_Lichess,el22833,0,0,license:gpl-3.0; region:us
+2026-10-04T21:20:37Z,chaotic-good-project/physics-experiment-records,chaotic-good-project,0,0,language:en; language:ru; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physics; scientific-data;…
+2026-10-04T21:20:41Z,schneiderkamplab/dfm13-dala-v2-lv-compact,schneiderkamplab,0,0,task_categories:text-generation; language:lv; size_categories:1M<n<10M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:20:49Z,est4ever/so101-green-left,est4ever,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T21:21:58Z,Overtech/syrian-arabic-speech-dataset,Overtech,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:ar; license:other; modality:audio; region:us; audio; syrian-arabic; syrian-dialect; arabic; speech; speech-datas…
+2026-10-04T21:23:32Z,schneiderkamplab/dfm13-dala-v2-nb-compact,schneiderkamplab,0,0,task_categories:text-generation; language:nb; region:us
+2026-10-04T21:26:55Z,ctaxnagomi/dgui-hypermem-whitepaper,ctaxnagomi,0,0,region:us
+2026-10-04T21:28:03Z,schneiderkamplab/dfm13-dala-v2-nl-compact,schneiderkamplab,0,0,task_categories:text-generation; language:nl; region:us
+2026-10-04T21:28:47Z,ql1005/infinite_bench_127k,ql1005,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:29:22Z,liu12123456/Annoy-PyEdu-Rs,liu12123456,0,0,region:us
+2026-10-04T21:29:23Z,liu12123456/Annoy-PyEdu-Rs-Raw,liu12123456,0,0,region:us
+2026-10-04T21:29:38Z,angelic123/basic_physics_videos,angelic123,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-04T21:30:44Z,schneiderkamplab/dfm13-dala-v2-nn-compact,schneiderkamplab,0,0,task_categories:text-generation; language:nn; region:us
+2026-10-04T21:31:25Z,matdmiller/tower-of-babel-bench,matdmiller,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:image; modality:tabular; modality:text; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-04T21:31:57Z,OO-LD/oold-quantity-schemas,OO-LD,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; json-schema; qudt; oo-ld
+2026-10-04T21:32:28Z,OO-LD/oold-schemaorg-schemas,OO-LD,0,0,task_categories:text-generation; license:cc-by-sa-3.0; region:us; json-schema; schema-org; oo-ld
+2026-10-04T21:33:48Z,schneiderkamplab/dfm13-dala-v2-pl-compact,schneiderkamplab,0,0,task_categories:text-generation; language:pl; region:us
+2026-10-04T21:35:49Z,OO-LD/oold-llm-bench-results,OO-LD,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; benchmark; structured-generation; information-extraction
+2026-10-04T21:36:17Z,schneiderkamplab/dfm13-dala-v2-pt-PT-compact,schneiderkamplab,0,0,task_categories:text-generation; language:pt; size_categories:1M<n<10M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:37:53Z,wlyu/AnyCam_MCV_480p,wlyu,0,0,task_categories:text-to-video; task_categories:video-to-video; license:apache-2.0; size_categories:1K<n<10K; region:us; camera-control; gaussian-splatting; multicamvideo
+2026-10-04T21:38:00Z,dougalldeepmind/2026-10-04-odcv-qwen36-0-delib-sonnet-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_delib_sonnet_15; mode:think
+2026-10-04T21:38:52Z,dougalldeepmind/2026-10-04-mask-qwen36-0-delib-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_delib_15; mode:think
+2026-10-04T21:39:08Z,schneiderkamplab/dfm13-dala-v2-ro-compact,schneiderkamplab,0,0,task_categories:text-generation; language:ro; region:us
+2026-10-04T21:40:36Z,cbarkinozer/Occam-Turkish-Response-SFT,cbarkinozer,0,0,task_categories:text-generation; language:tr; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; s…
+2026-10-04T21:41:42Z,hackevichmv/steklo,hackevichmv,0,0,license:apache-2.0; region:us
+2026-10-04T21:42:00Z,schneiderkamplab/dfm13-dala-v2-sk-compact,schneiderkamplab,0,0,task_categories:text-generation; language:sk; region:us
+2026-10-04T21:42:55Z,safadakdouk123/my-dataset,safadakdouk123,0,0,region:us
+2026-10-04T21:44:58Z,schneiderkamplab/dfm13-dala-v2-uk-compact,schneiderkamplab,0,0,task_categories:text-generation; language:uk; region:us
+2026-10-04T21:45:03Z,MedEazy/uk-weight-loss-medicine-prices,MedEazy,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; ph…
+2026-10-04T21:46:35Z,Darkshadow007/Indian-Legal-QA-BNS-BNSS-BSA,Darkshadow007,0,0,task_categories:text-generation; task_categories:question-answering; task_ids:language-modeling; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; law; legal; india; BNS; BNSS; BS…
+2026-10-04T21:49:05Z,schneiderkamplab/dfm13-dala-v2-fa-compact,schneiderkamplab,0,0,task_categories:text-generation; language:fa; region:us
+2026-10-04T21:49:46Z,jsbeaudry/kreyol-wikipedia-offline,jsbeaudry,0,0,source_datasets:wikimedia/wikipedia; language:ht; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-04T21:50:08Z,Tech-Meld/HeatBee-Database,Tech-Meld,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:50:48Z,sdhasdas/Annoy-PyEdu-Rs,sdhasdas,0,0,region:us
+2026-10-04T21:50:49Z,sdhasdas/Annoy-PyEdu-Rs-Raw,sdhasdas,0,0,region:us
+2026-10-04T21:51:03Z,yuezhouhu/dolma3_dolmino_mix-10B-1025-tokenized-shuffled,yuezhouhu,0,0,region:us
+2026-10-04T21:52:38Z,schneiderkamplab/dfm13-dala-v2-sl-compact,schneiderkamplab,0,0,task_categories:text-generation; language:sl; region:us
+2026-10-04T21:53:53Z,kkitt/up-to-date_english_names,kkitt,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:54:57Z,ql1005/loogle_127k,ql1005,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T21:55:07Z,schneiderkamplab/dfm13-dala-v2-sq-compact,schneiderkamplab,0,0,task_categories:text-generation; language:sq; region:us
+2026-10-04T21:57:21Z,safaf45252/Annoy-PyEdu-Rs,safaf45252,0,0,region:us
+2026-10-04T21:57:22Z,safaf45252/Annoy-PyEdu-Rs-Raw,safaf45252,0,0,region:us
+2026-10-04T21:57:46Z,dougalldeepmind/2026-10-04-mask-qwen36-0-ablation-stated-harm-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_ablation_stated_harm_15; mode:think
+2026-10-04T21:58:14Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-04T21:58:15Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-04T21:59:03Z,schneiderkamplab/dfm13-dala-v2-sr-compact,schneiderkamplab,0,0,task_categories:text-generation; language:sr; region:us
+2026-10-04T22:01:37Z,schneiderkamplab/dfm13-dala-v2-sv-compact,schneiderkamplab,0,0,task_categories:text-generation; language:sv; region:us
+2026-10-04T22:02:47Z,Teedyyy-rm/Ornix-viewer-test-g,Teedyyy-rm,0,0,language:vi; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T22:04:35Z,castab2026/lab06-tool-calling,castab2026,0,0,modality:text; region:us
+2026-10-04T22:06:58Z,dreamer-robot/stack_v1,dreamer-robot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:ler…
+2026-10-04T22:07:31Z,dreamer-robot/stack_v2,dreamer-robot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:ler…
+2026-10-04T22:07:37Z,opsd-genrm/dedup_filtered_HS3,opsd-genrm,0,0,task_categories:text-classification; source_datasets:nvidia/HelpSteer3; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; li…
+2026-10-04T22:08:01Z,dreamer-robot/stack_v3,dreamer-robot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:ler…
+2026-10-04T22:08:39Z,dreamer-robot/stack_v4,dreamer-robot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:ler…
+2026-10-04T22:09:22Z,dreamer-robot/object_seed_v5_2,dreamer-robot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:ler…
+2026-10-04T22:10:09Z,dreamer-robot/object_seed_v5_3,dreamer-robot,0,0,license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lero…
+2026-10-04T22:10:28Z,oOundefinedOo/Qwen3-0.6B-VL-text-sft,oOundefinedOo,0,0,task_categories:text-generation; language:en; language:ru; language:es; language:zh; language:de; language:fr; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:data…
+2026-10-04T22:10:55Z,oOundefinedOo/Qwen3-0.6B-VL-image-reasoning,oOundefinedOo,0,0,task_categories:image-text-to-text; task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:panda…
+2026-10-04T22:11:27Z,Fzz1/tb-full-data,Fzz1,0,0,task_categories:reinforcement-learning; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-10-04T22:11:46Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-04T22:11:46Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-04T22:12:05Z,NextGenU/dataset-shikomori-french-synthetic,NextGenU,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T22:13:42Z,ProtonPrat/anlp-a2-generations,ProtonPrat,0,0,region:us
+2026-10-04T22:14:24Z,LoveLogicAI/freestream,LoveLogicAI,0,0,region:us
+2026-10-04T22:15:42Z,wlyu/AnyCam_MCV_480p_wan21_latent,wlyu,0,0,region:us
+2026-10-04T22:18:57Z,nima1/decisioncraft-data,nima1,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; synthetic; developer-tools; grouped-evaluation
