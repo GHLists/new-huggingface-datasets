@@ -1,0 +1,70 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T08:21:03Z,jp1924-laion-2/Laion400m-3-part4,jp1924-laion-2,0,0,region:us
+2026-10-04T08:22:26Z,juege/krea2_anime,juege,0,0,region:us
+2026-10-04T08:24:56Z,christianschmi/travel-multimodal3,christianschmi,0,0,license:apache-2.0; region:us; dataset; travel; multimodal3
+2026-10-04T08:26:09Z,Teraformer-limited/evalboard-devicemark-raw,Teraformer-limited,0,0,language:en; region:us; evaluation; benchmark; on-device; ifeval; mmlu-pro; math
+2026-10-04T08:28:32Z,dweeeee/s23-ultra-ai-assistant,dweeeee,0,0,region:us
+2026-10-04T08:29:37Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-04T08:29:38Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-04T08:30:19Z,Zhaoshiqi17/yellow01,Zhaoshiqi17,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T08:30:37Z,minhquanbt/miriad_data,minhquanbt,0,0,region:us
+2026-10-04T08:31:51Z,juege/sfasf,juege,0,0,license:openrail; region:us
+2026-10-04T08:34:38Z,marcelocarvalho/math-audio-video,marcelocarvalho,0,0,license:cc-by-4.0; region:us; dataset; math; audio-video
+2026-10-04T08:34:43Z,Zhaoshiqi17/yellow02,Zhaoshiqi17,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-04T08:35:14Z,A-261110012/Fable-5.1-Max-Reasoning-Filtered-10000x,A-261110012,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:polars; librar…
+2026-10-04T08:36:14Z,Kimakarov/postdoc-social,Kimakarov,0,0,license:mit; region:us; dataset; social; image-audio
+2026-10-04T08:38:05Z,mvd001/cyberset,mvd001,0,0,task_categories:text-classification; task_categories:graph-ml; task_categories:tabular-classification; language:en; language:code; license:other; size_categories:100M<n<1B; format:parquet; modality:t…
+2026-10-04T08:38:17Z,sagarvikram/mindmeadowstorybook,sagarvikram,0,0,region:us
+2026-10-04T08:41:57Z,taalyelxor/vlap4p-training-data-azure,taalyelxor,0,0,license:other; region:us; robotics; rlds; isaac-lab; franka-fr3
+2026-10-04T08:44:46Z,amyrmahdy/jabr-v2-persian,amyrmahdy,0,0,task_categories:text-classification; task_categories:zero-shot-classification; annotations_creators:expert-generated; language_creators:machine-generated; language_creators:expert-generated; source_d…
+2026-10-04T08:44:52Z,amyrmahdy/decima-system-one-tasks,amyrmahdy,0,0,task_categories:text-classification; task_categories:zero-shot-classification; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:multilingual; language:en;…
+2026-10-04T08:44:56Z,Sheeba2026/bharatvani-mimi-shards,Sheeba2026,0,0,region:us
+2026-10-04T08:45:44Z,amyrmahdy/decima-game-decisions,amyrmahdy,0,0,task_categories:text-classification; task_categories:zero-shot-classification; annotations_creators:machine-generated; language_creators:machine-generated; language:en; license:cc-by-4.0; size_catego…
+2026-10-04T08:45:49Z,cshuai20/acl2024_long,cshuai20,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv…
+2026-10-04T08:46:38Z,ChristophSchuhmann/scientific-summary-distillation-Qwen3.8-27B-865-20261004,ChristophSchuhmann,0,0,task_categories:summarization; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-04T08:46:42Z,amyrmahdy/decima-agent-decisions,amyrmahdy,0,0,task_categories:text-classification; task_categories:zero-shot-classification; annotations_creators:machine-generated; annotations_creators:expert-generated; language_creators:machine-generated; lang…
+2026-10-04T08:47:34Z,nakanakagawa/eval_sponge_task_10_04,nakanakagawa,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-04T08:47:36Z,P2SAMAPA/p2-etf-graphon-mean-field-results,P2SAMAPA,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T08:48:17Z,Power2007/auto-generated-data,Power2007,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-04T08:48:31Z,Zhaoshiqi17/yellow03,Zhaoshiqi17,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-04T08:50:39Z,ellietaylor/image-audio-data,ellietaylor,0,0,license:mit; region:us; dataset; security; image-audio
+2026-10-04T08:51:18Z,0xEstro/Phoenxia-TQ,0xEstro,0,0,region:us
+2026-10-04T08:51:36Z,SAIFIINDUSTRIES/C-verilog_data-1,SAIFIINDUSTRIES,0,0,region:us
+2026-10-04T08:53:29Z,seriintan/unicam_dataset_20261004_163018,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T08:53:38Z,MariaScales/marketing-job-postings-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; jobs; labour-marke…
+2026-10-04T08:54:30Z,medchaibi/immigration,medchaibi,0,0,region:us
+2026-10-04T08:55:20Z,antitrust56/guerir-son-enfant-interieur-un-guide-pratique-67b49d,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T08:56:10Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-10-04T08:56:21Z,Jonnester/purrence-two-pass6-seed18-native-epoch1-matched16b-20b-public-data,Jonnester,0,0,region:us
+2026-10-04T08:57:42Z,nallapuvenkat/heat_exc,nallapuvenkat,0,0,region:us
+2026-10-04T08:58:38Z,ruzcko/PEAK-zarr-transport-test,ruzcko,0,0,license:mit; region:us; synthetic; zarr
+2026-10-04T09:00:59Z,thanhkt/nexarm_stack_bowls,thanhkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T09:01:07Z,seriintan/unicam_dataset_20261004_165901,seriintan,0,0,region:us
+2026-10-04T09:04:31Z,seriintan/unicam_dataset_20261004_170150,seriintan,0,0,region:us
+2026-10-04T09:05:16Z,dbal67/robotkraft_masse,dbal67,0,0,region:us
+2026-10-04T09:05:29Z,cemrenurkeles/oscillateur,cemrenurkeles,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-04T09:07:18Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-04T09:07:18Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-04T09:08:00Z,JulieCaire/stylia-catalog-images,JulieCaire,0,0,region:us
+2026-10-04T09:08:27Z,dobei/so101_cube1_20261004_110445,dobei,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-04T09:10:25Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-04T09:10:54Z,itoha-r2001/undergrad-weather,itoha-r2001,0,0,license:apache-2.0; region:us; dataset; weather; image-audio
+2026-10-04T09:11:48Z,zrqinXpsycho/psychoxdatabasenum,zrqinXpsycho,0,0,license:mit; region:us
+2026-10-04T09:12:24Z,kushaldatta96/so101-pick-place-demo,kushaldatta96,0,0,region:us
+2026-10-04T09:15:59Z,antitrust56/backlinks-contextuels-comparatif-des-options-pour-3d500a,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:16:04Z,shuai22/MMDuet2-RL-videos,shuai22,0,0,region:us
+2026-10-04T09:16:21Z,Maortega0816/multimodal3-data,Maortega0816,0,0,license:mit; region:us; dataset; speech; multimodal3
+2026-10-04T09:16:32Z,seriintan/unicam_dataset_20261004_171223,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-04T09:17:18Z,antitrust56/avis-bzoomer-comparatif-des-options-de-monetisatio-0ce50b,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:17:51Z,sagepond/test,sagepond,0,0,region:us
+2026-10-04T09:18:06Z,MariaScales/stem-programmes-top-100-universities-2025,MariaScales,0,0,license:cc-by-4.0; region:us
+2026-10-04T09:18:42Z,antitrust56/gartenhacksler-welcher-typ-ist-der-richtige-fur-si-cf6324,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:19:22Z,yamamotoren/robotics-sensor-fusion-mini37,yamamotoren,0,0,license:apache-2.0; region:us; dataset; robotics; sensor-fusion
+2026-10-04T09:20:24Z,antitrust56/burostuhl-ergonomisch-welcher-ist-der-richtige-fur-62639a,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:20:28Z,minhhotboy9x/VLM_embed_cache,minhhotboy9x,0,0,region:us
+2026-10-04T09:20:37Z,cmharriston/agriculture-multimodal3,cmharriston,0,0,license:cc-by-4.0; region:us; dataset; agriculture; multimodal3
+2026-10-04T09:21:37Z,dougalldeepmind/2026-10-04-mask-qwen36-0-da-sr-15-maskdelib,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_sr_15_maskdelib; mode:think
+2026-10-04T09:21:43Z,antitrust56/saulenbohrmaschine-fur-die-werkstatt-worauf-sie-be-b1f38f,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:22:22Z,antitrust56/wasserenthartungsanlage-fur-ihr-haus-welche-option-a00702,antitrust56,0,0,license:mit; region:us; guide
+2026-10-04T09:22:46Z,satyam-arora-iiit-hyderabad/anlp-m26-a2-part3-decoding,satyam-arora-iiit-hyderabad,0,0,task_categories:text-generation; language:en; region:us; decoding; pythia; rocstories
+2026-10-04T09:23:08Z,antitrust56/ergonomischer-burostuhl-welche-option-ist-die-rich-c97164,antitrust56,0,0,license:mit; region:us; guide
