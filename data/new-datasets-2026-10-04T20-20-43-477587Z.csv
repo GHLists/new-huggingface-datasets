@@ -1,0 +1,81 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T19:24:19Z,zehen8716/CuteGirl,zehen8716,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-04T19:25:30Z,AsadChanna/code-switched-medical-blindspot-eval,AsadChanna,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:25:37Z,brosnanyuen/RL-cyberbench-stage5-dataset,brosnanyuen,0,0,region:us
+2026-10-04T19:28:02Z,Publicus/autoformalization-artifacts,Publicus,0,0,region:us
+2026-10-04T19:28:34Z,Huascarvw/TrafficRuleBenchmark,Huascarvw,0,0,region:us
+2026-10-04T19:28:35Z,Huascarvw/TrafficRuleRetrieval,Huascarvw,0,0,region:us
+2026-10-04T19:31:26Z,AlexLin1981/ollama_1001,AlexLin1981,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:31:36Z,zym0216/medical,zym0216,0,0,license:apache-2.0; size_categories:1M<n<10M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:32:58Z,Haradrick228/gendl-hw1-asr-correction-ru,Haradrick228,0,0,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:40:14Z,batuskaas/turkish-texts-dataset,batuskaas,0,0,task_categories:text-generation; language:tr; license:apache-2.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-04T19:40:34Z,zixinyenu/so100-pick-dynamic-mid-1_20261004_142347,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T19:42:46Z,khursheed/VibeGame-8B-data,khursheed,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us
+2026-10-04T19:43:13Z,snjzz38/so101_grab_ball_D40-R2_20261004_151313,snjzz38,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T19:43:17Z,eth-ivia-lab/STRIDE-Bench,eth-ivia-lab,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; modality:tabular; modality:text; region:us; crowd-simulation; trajectory-evaluatio…
+2026-10-04T19:45:09Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-04T19:45:10Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-04T19:46:29Z,tom9491/sn38-r14-u164-80f369ab,tom9491,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:51:57Z,Huascarvw/TrafficRule-VQA,Huascarvw,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T19:52:38Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-04T19:53:20Z,johnsutor/CustomPickLift,johnsutor,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-04T19:54:47Z,hi-todayis-jh/compression-math-extra96-new-l0-qwen3-1.7b-verl091-146103-20261002,hi-todayis-jh,0,0,region:us
+2026-10-04T19:54:53Z,WetLabRoboData/lerobot-data-pick_vial,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-04T19:54:54Z,WetLabRoboData/lerobot-data-bimanual_pick,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:54:55Z,WetLabRoboData/lerobot-data-funnel,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:54:56Z,WetLabRoboData/lerobot-data-liquid,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-04T19:54:57Z,WetLabRoboData/lerobot-data-dose_solid,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:54:58Z,WetLabRoboData/lerobot-data-salt,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:54:59Z,WetLabRoboData/lerobot-data-blue_dispense,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:00Z,WetLabRoboData/lerobot-data-septum,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-04T19:55:01Z,WetLabRoboData/lerobot-data-cap,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:02Z,WetLabRoboData/lerobot-data-needle,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:02Z,WetLabRoboData/lerobot-data-uncap,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:03Z,WetLabRoboData/lerobot-data-long_horizon1,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:04Z,WetLabRoboData/lerobot-data-long_horizon2,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:05Z,WetLabRoboData/lerobot-data-long_horizon3,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; imitation-learning; robotics; ur3e; bima…
+2026-10-04T19:55:06Z,WetLabRoboData/lerobot-data-multitask_12task_mix,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; imitation-learning; robotics; ur3e; bimanual
+2026-10-04T19:55:25Z,WetLabRoboData/eval-diffusion-pick_vial-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:26Z,WetLabRoboData/eval-diffusion-bimanual_pick-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:27Z,WetLabRoboData/eval-diffusion-funnel-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; evaluation; rollouts; imitation-learning…
+2026-10-04T19:55:28Z,WetLabRoboData/eval-diffusion-stir_bar-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:28Z,WetLabRoboData/eval-diffusion-liquid-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:29Z,WetLabRoboData/eval-diffusion-dose_solid-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; evaluation; rollouts; imitation-learning…
+2026-10-04T19:55:30Z,WetLabRoboData/eval-diffusion-salt-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:31Z,WetLabRoboData/eval-diffusion-blue_dispense-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:32Z,WetLabRoboData/eval-diffusion-septum-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:33Z,WetLabRoboData/eval-diffusion-cap-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:36Z,WetLabRoboData/eval-diffusion-uncap-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:37Z,WetLabRoboData/eval-diffusion-needle-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:38Z,WetLabRoboData/eval-diffusion-long_horizon1-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:39Z,WetLabRoboData/eval-diffusion-long_horizon2-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:40Z,WetLabRoboData/eval-diffusion-long_horizon3-scratch,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:40Z,WetLabRoboData/eval-diffusion-multitask_12task_mix-multitask-on-cap,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:41Z,WetLabRoboData/eval-diffusion-multitask_12task_mix-multitask-on-uncap,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:42Z,WetLabRoboData/eval-diffusion-multitask_12task_mix-multitask-on-needle,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:43Z,WetLabRoboData/eval-diffusion-uncap-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:43Z,WetLabRoboData/eval-diffusion-cap-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:44Z,WetLabRoboData/eval-diffusion-needle-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:45Z,WetLabRoboData/eval-diffusion-long_horizon1-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:46Z,WetLabRoboData/eval-diffusion-long_horizon2-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:55:47Z,WetLabRoboData/eval-diffusion-long_horizon3-finetuned,WetLabRoboData,0,0,task_categories:robotics; license:cc-by-4.0; region:us; lerobot; evaluation; rollouts; imitation-learning; ur3e; bimanual
+2026-10-04T19:56:59Z,DolphyWind/sickr-sts-mt-turkish,DolphyWind,0,0,task_categories:sentence-similarity; language:tr; license:cc-by-nc-sa-3.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-04T19:59:24Z,dougalldeepmind/2026-10-04-odcv-qwen36-0-ablation-stated-harm-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_ablation_stated_harm_15; mode:think
+2026-10-04T19:59:30Z,Kaihao06/Actividad-Repositorios-GitHub-2025,Kaihao06,0,0,license:cc-by-4.0; region:us
+2026-10-04T19:59:32Z,rdprojects/agentcloud,rdprojects,0,0,license:mit; region:us
+2026-10-04T20:00:03Z,mmmtf/story-training-v3,mmmtf,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T20:01:09Z,urbisjuridica-ctrl/aletheia-node-s45o48on,urbisjuridica-ctrl,0,0,region:us
+2026-10-04T20:01:18Z,urbisjuridica-ctrl/aletheia-node-ykl4o929,urbisjuridica-ctrl,0,0,region:us
+2026-10-04T20:01:25Z,urbisjuridica-ctrl/aletheia-node-uuxzrjvy,urbisjuridica-ctrl,0,0,region:us
+2026-10-04T20:01:36Z,urbisjuridica-ctrl/aletheia-node-bfsj68z3,urbisjuridica-ctrl,0,0,region:us
+2026-10-04T20:01:44Z,urbisjuridica-ctrl/aletheia-node-bcbwpnko,urbisjuridica-ctrl,0,0,region:us
+2026-10-04T20:03:39Z,ljvmiranda921/DataSmith-Preference-HumanEval,ljvmiranda921,0,0,task_categories:text-generation; language:ar; language:ceb; language:cs; language:de; language:es; language:fr; language:id; language:ja; language:sw; language:tl; language:yo; license:apache-2.0; si…
+2026-10-04T20:05:21Z,zixinyenu/so100-pick-dynamic-fast-0_20261004_144552,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T20:07:19Z,gavinlaw/openlivetranslate-dsp2019-rate-pilot-zh,gavinlaw,0,0,task_categories:automatic-speech-recognition; task_categories:translation; language:zh; language:en; license:other; region:us
+2026-10-04T20:07:42Z,alinachebv/russian-asr-corrections,alinachebv,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T20:10:22Z,SubstrateCommons/test-fixtures,SubstrateCommons,0,0,license:cc-by-4.0; region:us
+2026-10-04T20:10:53Z,Publicus/codebase-ir-proof-index,Publicus,0,0,region:us; codebase-ir; terminal-bench; symbolic-planning; lean; proof-cache
+2026-10-04T20:13:25Z,SurdAI/CMDB-1500,SurdAI,0,0,region:us
+2026-10-04T20:14:05Z,justachetan/breaking-bad-strive,justachetan,0,0,license:mit; region:us
+2026-10-04T20:20:24Z,RainierAinsley/Annoy-PyEdu-Rs,RainierAinsley,0,0,region:us
+2026-10-04T20:20:25Z,RainierAinsley/Annoy-PyEdu-Rs-Raw,RainierAinsley,0,0,region:us
