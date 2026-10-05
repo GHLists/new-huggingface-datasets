@@ -1,0 +1,106 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-05T17:26:35Z,Project-AgML/grapevine_bunch_detection,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-10-05T17:29:09Z,bhatkabir4/industrial-audio-video7,bhatkabir4,0,0,license:cc-by-4.0; region:us; dataset; industrial; audio-video
+2026-10-05T17:29:24Z,bhatkabir4/art-collection-2024,bhatkabir4,0,0,license:apache-2.0; region:us; dataset; art; pointcloud-text
+2026-10-05T17:32:13Z,nguyenhaiman/nlp-summarization-sensor-fusion-curated,nguyenhaiman,0,0,license:apache-2.0; region:us; dataset; nlp-summarization; sensor-fusion
+2026-10-05T17:33:58Z,Dheerraa/PlaySuite,Dheerraa,0,0,region:us
+2026-10-05T17:34:03Z,MRSHREY197/TG2NUM,MRSHREY197,0,0,region:us
+2026-10-05T17:36:22Z,zacklee2001/ciai-nfs-experiment-archive,zacklee2001,0,0,region:us
+2026-10-05T17:36:52Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-05T17:36:53Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-05T17:37:45Z,juliadollis/bokeh-lfepfl-fase2-anterior,juliadollis,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T17:38:00Z,codemaivanngu/dpca-b200-source,codemaivanngu,0,0,region:us
+2026-10-05T17:38:53Z,Bramirezberg/thesis-charts,Bramirezberg,0,0,license:cc-by-4.0; region:us; dataset; charts; image-depth
+2026-10-05T17:39:36Z,cottonwood-development/synthetic-healthcare-100-sample,cottonwood-development,0,0,license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic-data; fhir-r4; healthcare; patient-recor…
+2026-10-05T17:40:17Z,PhamPhien/VN_Attractions,PhamPhien,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T17:41:21Z,trainnr/trainnr-artifacts,trainnr,0,0,license:other; size_categories:n<1K; region:us; robotics; reinforcement-learning; mujoco; system-identification
+2026-10-05T17:42:04Z,Jozdien/latent-reasoning-serial-training-data,Jozdien,0,0,license:other; region:us
+2026-10-05T17:42:07Z,VINAY-UMRETHE/Multilingual-Harmless-Harmful,VINAY-UMRETHE,0,0,language:bn; language:en; language:hi; language:mr; language:fr; language:it; language:ru; language:ta; language:ko; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:parquet; modality:text; lib…
+2026-10-05T17:42:57Z,global-ai-data-node/sovereign-inr-commission-gateway,global-ai-data-node,0,0,region:us
+2026-10-05T17:43:13Z,flair-bio/biomap-research-ssp_q3,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:20Z,flair-bio/biomap-research-ssp_q8,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:25Z,flair-bio/biomap-research-fold_prediction,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:28Z,flair-bio/biomap-research-fitness_prediction,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:32Z,flair-bio/biomap-research-metal_ion_binding,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:39Z,flair-bio/biomap-research-localization_prediction,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:44Z,flair-bio/biomap-research-enzyme_catalytic_efficiency,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:48Z,flair-bio/biomap-research-optimal_ph,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:43:52Z,flair-bio/biomap-research-optimal_temperature,flair-bio,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:45:06Z,flair-bio/biomap-research-temperature_stability,flair-bio,0,0,size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:45:08Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,region:us
+2026-10-05T17:45:09Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,region:us
+2026-10-05T17:45:11Z,wilsonhuport/medical-image-text-mini,wilsonhuport,0,0,license:apache-2.0; region:us; dataset; medical; image-text
+2026-10-05T17:45:16Z,flair-bio/biomap-research-stability_prediction,flair-bio,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:45:21Z,Pasture9163/monogamygeraniumpaprikamahoganypolicebovinemarlinfacetedshowplacelatch,Pasture9163,0,0,region:us
+2026-10-05T17:45:40Z,flair-bio/biomap-research-solubility_prediction,flair-bio,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:45:51Z,tolath/Annoy-PyEdu-Rs,tolath,0,0,region:us
+2026-10-05T17:45:52Z,tolath/Annoy-PyEdu-Rs-Raw,tolath,0,0,region:us
+2026-10-05T17:46:46Z,Dupontquen/random-sound-events80,Dupontquen,0,0,license:apache-2.0; region:us; dataset; sound-events; video-text
+2026-10-05T17:48:13Z,aidenmartinez/ocean-collection,aidenmartinez,0,0,license:cc-by-4.0; region:us; dataset; ocean; text-tabular
+2026-10-05T17:49:41Z,safafe2234/Annoy-PyEdu-Rs,safafe2234,0,0,region:us
+2026-10-05T17:49:42Z,safafe2234/Annoy-PyEdu-Rs-Raw,safafe2234,0,0,region:us
+2026-10-05T17:49:53Z,vitaliypolishchuk/nlp-summarization-video-text-mini64,vitaliypolishchuk,0,0,license:apache-2.0; region:us; dataset; nlp-summarization; video-text
+2026-10-05T17:50:01Z,Harshal3467/Marketing-Emails,Harshal3467,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mar…
+2026-10-05T17:50:16Z,Faless/piper_apples_giugno_trasporto,Faless,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-05T17:50:18Z,AnujBhagat1611/sharda_data,AnujBhagat1611,0,0,region:us
+2026-10-05T17:50:33Z,johannhartmann/nnetnav-exploration-browseruse,johannhartmann,0,0,region:us
+2026-10-05T17:51:23Z,lopetyl79/quick-speech4-2024,lopetyl79,0,0,license:apache-2.0; region:us; dataset; speech; multimodal3
+2026-10-05T17:51:26Z,dougalldeepmind/2026-10-05-msm-mix,dougalldeepmind,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:mixture; pipeline:msm; constitution:claud…
+2026-10-05T17:53:04Z,Project-AgML/grapevine_bunch_condition_detection,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-10-05T17:53:51Z,Jozdien/sdf-inoculation-rollouts,Jozdien,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:54:41Z,flair-bio/biomap-research-contact_prediction_binary,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:55:57Z,Priyansu19/fluso-memory-eval,Priyansu19,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; memory; agents; long-term-memory; evaluation
+2026-10-05T17:56:00Z,Codemaster67/Unichem_chebi_1M,Codemaster67,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:56:23Z,michaeldavisdale/nlp-qa-image-depth-mini,michaeldavisdale,0,0,license:cc-by-4.0; region:us; dataset; nlp-qa; image-depth
+2026-10-05T17:56:44Z,flair-bio/interpro_active_site,flair-bio,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:56:48Z,flair-bio/interpro_binding_site,flair-bio,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:56:54Z,flair-bio/interpro_conserved_site,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:57:04Z,flair-bio/interpro_domain,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:57:12Z,flair-bio/interpro_family,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:57:23Z,flair-bio/interpro_homologous_superfamily,flair-bio,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:57:26Z,Kumarakashsy/document-ocr-pointcloud-text,Kumarakashsy,0,0,license:mit; region:us; dataset; document-ocr; pointcloud-text
+2026-10-05T17:57:28Z,flair-bio/interpro_repeat,flair-bio,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:57:36Z,BlakHasan/som-augmented-collection,BlakHasan,0,0,task_categories:translation; task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:som; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; l…
+2026-10-05T17:57:42Z,Codemaster67/Unichem_chebi_10M,Codemaster67,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:58:02Z,LNolte/nnpp-1000-trajectories-mg-corrosion,LNolte,0,0,region:us
+2026-10-05T17:58:15Z,BlakHasan/luhya-augmented-collection,BlakHasan,0,0,task_categories:translation; task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:luy; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; l…
+2026-10-05T17:58:40Z,flair-bio/proteingym-dms_substitutions,flair-bio,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T17:58:56Z,flair-bio/proteingym-dms_indels,flair-bio,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T17:59:15Z,flair-bio/proteingym-clinical_substitutions,flair-bio,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T17:59:22Z,BlakHasan/kln-augmented-collection,BlakHasan,0,0,task_categories:translation; task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:kln; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; l…
+2026-10-05T17:59:37Z,benchflow/arena-oci-prototype,benchflow,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T17:59:49Z,flair-bio/proteingym-clinical_indels,flair-bio,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T18:00:57Z,JORGEVG17/Mineria_de_Datos,JORGEVG17,0,0,region:us
+2026-10-05T18:01:15Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-05T18:01:33Z,unlistedcareers/jobs-sample-2026-09,unlistedcareers,0,0,task_categories:tabular-classification; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-05T18:01:34Z,ryankingiah/finance-image-text-mini,ryankingiah,0,0,license:cc-by-4.0; region:us; dataset; finance; image-text
+2026-10-05T18:01:34Z,Novasaki/grug-speech-reasoning,Novasaki,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T18:01:38Z,BlakHasan/luo-augmented-collection,BlakHasan,0,0,task_categories:translation; task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:luo; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; l…
+2026-10-05T18:02:10Z,podolinsky/gr00t-libero-x-features-v3,podolinsky,0,0,task_categories:robotics; size_categories:1K<n<10K; arxiv:2306.03310; arxiv:2602.06556; arxiv:2503.14734; arxiv:2410.04640; region:us; robotics; vision-language-action; libero; libero-x; gr00t; repre…
+2026-10-05T18:05:13Z,Project-AgML/paddy_weed_target_detection,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T18:05:55Z,abdulahh35/ANC-Spoof,abdulahh35,0,0,region:us
+2026-10-05T18:09:54Z,wanglab/BioReason-Cell-Contextual-Data,wanglab,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T18:10:20Z,FiveLetterWords/fiveletterwords-wordle-research,FiveLetterWords,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; wordle; word-games; linguistics; tabular; puzzle-difficulty; opener-rankings
+2026-10-05T18:11:04Z,christopherkhan/security-audio-video-v2,christopherkhan,0,0,license:apache-2.0; region:us; dataset; security; audio-video
+2026-10-05T18:11:30Z,groloch/lc0_selfplay_games,groloch,0,0,license:odbl; region:us
+2026-10-05T18:15:44Z,gnx-labs-mx/gnx-node-releases,gnx-labs-mx,0,0,license:agpl-3.0; region:us
+2026-10-05T18:15:47Z,davidaffn/my-agriculture-2024,davidaffn,0,0,license:apache-2.0; region:us; dataset; agriculture; sensor-fusion
+2026-10-05T18:16:06Z,awde213xazc213ed/Annoy-PyEdu-Rs,awde213xazc213ed,0,0,region:us
+2026-10-05T18:16:06Z,awde213xazc213ed/Annoy-PyEdu-Rs-Raw,awde213xazc213ed,0,0,region:us
+2026-10-05T18:17:17Z,malomalom/spacehpc-rescue-20261005,malomalom,0,0,region:us
+2026-10-05T18:17:18Z,justintjt/memes-corpus,justintjt,0,0,license:cc-by-4.0; region:us; dataset; memes; text-tabular
+2026-10-05T18:18:42Z,flair-bio/tape-proteinnet_contact_prediction,flair-bio,0,0,region:us
+2026-10-05T18:19:22Z,flair-bio/uniprot-GO_mf,flair-bio,0,0,region:us
+2026-10-05T18:19:41Z,flair-bio/uniprot-GO_bp,flair-bio,0,0,region:us
+2026-10-05T18:19:55Z,flair-bio/uniprot-GO_cc,flair-bio,0,0,region:us
+2026-10-05T18:20:29Z,flair-bio/uniprot_secondary_structure,flair-bio,0,0,region:us
+2026-10-05T18:20:39Z,flair-bio/uniprot_post_translational_modification,flair-bio,0,0,region:us
+2026-10-05T18:20:45Z,flair-bio/uniprot_glycosylation,flair-bio,0,0,region:us
+2026-10-05T18:20:52Z,flair-bio/uniprot_phosphorylation,flair-bio,0,0,region:us
+2026-10-05T18:20:57Z,flair-bio/uniprot_lipidation,flair-bio,0,0,region:us
+2026-10-05T18:21:02Z,flair-bio/uniprot_membrane_pass,flair-bio,0,0,region:us
+2026-10-05T18:21:07Z,flair-bio/uniprot_topology,flair-bio,0,0,region:us
+2026-10-05T18:21:13Z,flair-bio/uniprot_peptide,flair-bio,0,0,region:us
+2026-10-05T18:21:19Z,flair-bio/uniprot_functional_sites,flair-bio,0,0,region:us
+2026-10-05T18:21:24Z,flair-bio/uniprot_domains,flair-bio,0,0,region:us
+2026-10-05T18:21:30Z,flair-bio/uniprot_regions,flair-bio,0,0,region:us
