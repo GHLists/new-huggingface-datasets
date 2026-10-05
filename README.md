@@ -9,216 +9,78 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 02:19 UTC
+## Latest list — 2026-10-05 03:21 UTC
 
-New datasets created between 2026-10-05 01:20 UTC and 2026-10-05 02:19 UTC.
+New datasets created between 2026-10-05 02:19 UTC and 2026-10-05 03:21 UTC.
 
-[Full CSV](data/new-datasets-2026-10-05T02-19-30-443324Z.csv)
+[Full CSV](data/new-datasets-2026-10-05T03-21-44-825946Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-05 01:21:15 | [G-reen/model-family-step1-train](https://huggingface.co/G-reen/model-family-step1-train) | G-reen | 0 | 0 | task_categories:text-classification; language:en; language:… |
-| 2026-10-05 01:21:33 | [G-reen/model-family-step1-test](https://huggingface.co/G-reen/model-family-step1-test) | G-reen | 0 | 0 | task_categories:text-classification; language:en; language:… |
-| 2026-10-05 01:22:17 | [malomalom/spacehpc-representation-scaling-k3-dinov3-v1](https://huggingface.co/malomalom/spacehpc-representation-scaling-k3-dinov3-v1) | malomalom | 0 | 0 | region:us |
-| 2026-10-05 01:22:53 | [franciszekzielinski/medical-multimodal3](https://huggingface.co/franciszekzielinski/medical-multimodal3) | franciszekzielinski | 0 | 0 | license:apache-2.0; region:us; dataset; medical; multimodal3 |
-| 2026-10-05 01:24:28 | [ai4y/tictactoe-position-4_20261005_101711](https://huggingface.co/ai4y/tictactoe-position-4_20261005_101711) | ai4y | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 01:24:51 | [xuanxinjushi/fannie-mae-2000q1-prefix](https://huggingface.co/xuanxinjushi/fannie-mae-2000q1-prefix) | xuanxinjushi | 0 | 0 | region:us |
-| 2026-10-05 01:25:34 | [appier-ai-research/tasteroute-3k](https://huggingface.co/appier-ai-research/tasteroute-3k) | appier-ai-research | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; modali… |
-| 2026-10-05 01:26:09 | [g1n0st/db8f90073709361b987051e454d41e0f0a554073](https://huggingface.co/g1n0st/db8f90073709361b987051e454d41e0f0a554073) | g1n0st | 0 | 0 | region:us |
-| 2026-10-05 01:27:34 | [malomalom/spacehpc-representation-capacity-full24-reanchor-models-v1](https://huggingface.co/malomalom/spacehpc-representation-capacity-full24-reanchor-models-v1) | malomalom | 0 | 0 | region:us |
-| 2026-10-05 01:29:49 | [malomalom/spacehpc-decision-emergence-data](https://huggingface.co/malomalom/spacehpc-decision-emergence-data) | malomalom | 0 | 0 | region:us |
-| 2026-10-05 01:30:56 | [Cybrpgs/csyor](https://huggingface.co/Cybrpgs/csyor) | Cybrpgs | 0 | 0 | task_categories:automatic-speech-recognition; language:en;… |
-| 2026-10-05 01:33:11 | [kindlingai/exl3-experiment](https://huggingface.co/kindlingai/exl3-experiment) | kindlingai | 0 | 0 | region:us |
-| 2026-10-05 01:34:12 | [escalderong/items_lite](https://huggingface.co/escalderong/items_lite) | escalderong | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:tabula… |
-| 2026-10-05 01:34:20 | [g1n0st/151c26dc86d3f8acb80fa59883b5ae9c4699a794](https://huggingface.co/g1n0st/151c26dc86d3f8acb80fa59883b5ae9c4699a794) | g1n0st | 0 | 0 | region:us |
-| 2026-10-05 01:35:51 | [davidwdw/e00-reviewed-summary-abe210acc1e1](https://huggingface.co/davidwdw/e00-reviewed-summary-abe210acc1e1) | davidwdw | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
-| 2026-10-05 01:36:00 | [HopitAI/hopper-12b-decision-index-results](https://huggingface.co/HopitAI/hopper-12b-decision-index-results) | HopitAI | 0 | 0 | license:other; region:us |
-| 2026-10-05 01:36:24 | [ai4y/tictactoe-position-5_20261005_102532](https://huggingface.co/ai4y/tictactoe-position-5_20261005_102532) | ai4y | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 01:37:08 | [maremo2/saju-calendar-data](https://huggingface.co/maremo2/saju-calendar-data) | maremo2 | 0 | 0 | language:ko; language:en; license:cc-by-4.0; size_categorie… |
-| 2026-10-05 01:38:29 | [anuma/so101_tray_test](https://huggingface.co/anuma/so101_tray_test) | anuma | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 01:39:16 | [brucewayne123/EndingAnimaLoRAs](https://huggingface.co/brucewayne123/EndingAnimaLoRAs) | brucewayne123 | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-10-05 01:39:23 | [ToddBB/Annoy-PyEdu-Rs](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs) | ToddBB | 0 | 0 | region:us |
-| 2026-10-05 01:39:24 | [ToddBB/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs-Raw) | ToddBB | 0 | 0 | region:us |
-| 2026-10-05 01:43:45 | [g1n0st/27da1aba4498015e90bc17308c89461d567febfc](https://huggingface.co/g1n0st/27da1aba4498015e90bc17308c89461d567febfc) | g1n0st | 0 | 0 | region:us |
-| 2026-10-05 01:45:04 | [ai4y/tictactoe-position-6_20261005_103802](https://huggingface.co/ai4y/tictactoe-position-6_20261005_103802) | ai4y | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 01:48:08 | [agibot-world/5931629954](https://huggingface.co/agibot-world/5931629954) | agibot-world | 0 | 0 | region:us |
-| 2026-10-05 01:49:09 | [kenneth-holstad/lab06-tool-calling](https://huggingface.co/kenneth-holstad/lab06-tool-calling) | kenneth-holstad | 0 | 0 | modality:text; region:us |
-| 2026-10-05 01:49:56 | [doyun-cho/text-tabular-samples](https://huggingface.co/doyun-cho/text-tabular-samples) | doyun-cho | 0 | 0 | license:cc-by-4.0; region:us; dataset; education; text-tabu… |
-| 2026-10-05 01:50:18 | [Clync/5Core](https://huggingface.co/Clync/5Core) | Clync | 0 | 0 | region:us |
-| 2026-10-05 01:50:56 | [Tsegayesemere/MEIV](https://huggingface.co/Tsegayesemere/MEIV) | Tsegayesemere | 0 | 0 | license:cc-by-nd-4.0; region:us |
-| 2026-10-05 01:53:20 | [nyleeaa0503/sft-fixture-v62-021-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-021-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:53:22 | [nyleeaa0503/sft-fixture-v62-021-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-021-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:53:24 | [nyleeaa0503/sft-fixture-v62-021-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-021-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:53:27 | [nyleeaa0503/sft-fixture-v62-022-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-022-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:53:30 | [nyleeaa0503/sft-fixture-v62-022-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-022-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:53:32 | [nyleeaa0503/sft-fixture-v62-022-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-022-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:55:18 | [g1n0st/e4e5042c5c272d462ad43cf93d71e8452956e560](https://huggingface.co/g1n0st/e4e5042c5c272d462ad43cf93d71e8452956e560) | g1n0st | 0 | 0 | region:us |
-| 2026-10-05 01:55:22 | [hi-todayis-jh/training-logs-wandb-146102-20261004](https://huggingface.co/hi-todayis-jh/training-logs-wandb-146102-20261004) | hi-todayis-jh | 0 | 0 | region:us |
-| 2026-10-05 01:55:26 | [lanqz7766/BrainTRACE](https://huggingface.co/lanqz7766/BrainTRACE) | lanqz7766 | 0 | 0 | task_categories:visual-question-answering; task_categories:… |
-| 2026-10-05 01:56:21 | [hi-todayis-jh/training-logs-wandb-146103-20261004](https://huggingface.co/hi-todayis-jh/training-logs-wandb-146103-20261004) | hi-todayis-jh | 0 | 0 | region:us |
-| 2026-10-05 01:56:38 | [ai4y/tictactoe-position-7_20261005_104815](https://huggingface.co/ai4y/tictactoe-position-7_20261005_104815) | ai4y | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 01:56:49 | [nyleeaa0503/sft-fixture-v62-023-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-023-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:56:51 | [nyleeaa0503/sft-fixture-v62-023-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-023-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:56:53 | [nyleeaa0503/sft-fixture-v62-023-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-023-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:56:59 | [kalehika01/movie-review-sentiment](https://huggingface.co/kalehika01/movie-review-sentiment) | kalehika01 | 0 | 1 | license:mit; region:us |
-| 2026-10-05 01:57:05 | [tho95790/Herculean](https://huggingface.co/tho95790/Herculean) | tho95790 | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; f… |
-| 2026-10-05 01:57:16 | [nyleeaa0503/sft-fixture-v62-024-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-024-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:16 | [dvtiendat/hypergraph_operations_openthoughts_30k](https://huggingface.co/dvtiendat/hypergraph_operations_openthoughts_30k) | dvtiendat | 0 | 0 | size_categories:10K<n<100K; format:json; modality:tabular;… |
-| 2026-10-05 01:57:18 | [nyleeaa0503/sft-fixture-v62-024-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-024-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:20 | [nyleeaa0503/sft-fixture-v62-024-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-024-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:25 | [nyleeaa0503/sft-fixture-v62-025-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-025-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:27 | [nyleeaa0503/sft-fixture-v62-025-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-025-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:30 | [nyleeaa0503/sft-fixture-v62-025-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-025-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:33 | [nyleeaa0503/sft-fixture-v62-026-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-026-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:35 | [nyleeaa0503/sft-fixture-v62-026-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-026-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:37 | [nyleeaa0503/sft-fixture-v62-026-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-026-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:40 | [nyleeaa0503/sft-fixture-v62-027-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-027-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:42 | [nyleeaa0503/sft-fixture-v62-027-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-027-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:45 | [nyleeaa0503/sft-fixture-v62-027-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-027-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:48 | [nyleeaa0503/sft-fixture-v62-028-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-028-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:50 | [nyleeaa0503/sft-fixture-v62-028-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-028-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:52 | [nyleeaa0503/sft-fixture-v62-028-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-028-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:55 | [nyleeaa0503/sft-fixture-v62-029-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-029-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:57 | [nyleeaa0503/sft-fixture-v62-029-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-029-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:57:59 | [nyleeaa0503/sft-fixture-v62-029-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-029-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:02 | [nyleeaa0503/sft-fixture-v62-030-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-030-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:04 | [nyleeaa0503/sft-fixture-v62-030-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-030-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:06 | [nyleeaa0503/sft-fixture-v62-030-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-030-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:19 | [nyleeaa0503/sft-fixture-v62-031-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-031-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:21 | [nyleeaa0503/sft-fixture-v62-031-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-031-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:23 | [nyleeaa0503/sft-fixture-v62-031-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-031-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:26 | [nyleeaa0503/sft-fixture-v62-032-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-032-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:28 | [nyleeaa0503/sft-fixture-v62-032-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-032-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:30 | [nyleeaa0503/sft-fixture-v62-032-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-032-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:40 | [nyleeaa0503/sft-fixture-v62-033-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-033-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:43 | [nyleeaa0503/sft-fixture-v62-033-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-033-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:58:45 | [nyleeaa0503/sft-fixture-v62-033-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-033-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:11 | [nyleeaa0503/sft-fixture-v62-034-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-034-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:13 | [nyleeaa0503/sft-fixture-v62-034-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-034-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:17 | [nyleeaa0503/sft-fixture-v62-034-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-034-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:21 | [nyleeaa0503/sft-fixture-v62-035-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-035-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:22 | [sdgghs556/Annoy-PyEdu-Rs](https://huggingface.co/sdgghs556/Annoy-PyEdu-Rs) | sdgghs556 | 0 | 0 | region:us |
-| 2026-10-05 01:59:23 | [sdgghs556/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdgghs556/Annoy-PyEdu-Rs-Raw) | sdgghs556 | 0 | 0 | region:us |
-| 2026-10-05 01:59:23 | [nyleeaa0503/sft-fixture-v62-035-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-035-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:25 | [nyleeaa0503/sft-fixture-v62-035-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-035-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:28 | [nyleeaa0503/sft-fixture-v62-036-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-036-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:30 | [nyleeaa0503/sft-fixture-v62-036-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-036-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:36 | [nyleeaa0503/sft-fixture-v62-036-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-036-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:39 | [nyleeaa0503/sft-fixture-v62-037-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-037-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:41 | [nyleeaa0503/sft-fixture-v62-037-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-037-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:43 | [nyleeaa0503/sft-fixture-v62-037-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-037-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:46 | [nyleeaa0503/sft-fixture-v62-038-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-038-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:50 | [nyleeaa0503/sft-fixture-v62-038-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-038-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:52 | [nyleeaa0503/sft-fixture-v62-038-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-038-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:55 | [nyleeaa0503/sft-fixture-v62-039-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-039-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:57 | [nyleeaa0503/sft-fixture-v62-039-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-039-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 01:59:59 | [nyleeaa0503/sft-fixture-v62-039-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-039-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:25 | [nyleeaa0503/sft-fixture-v62-040-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-040-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:27 | [nyleeaa0503/sft-fixture-v62-040-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-040-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:29 | [nyleeaa0503/sft-fixture-v62-040-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-040-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:32 | [nyleeaa0503/sft-fixture-v62-041-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-041-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:34 | [nyleeaa0503/sft-fixture-v62-041-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-041-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:37 | [nyleeaa0503/sft-fixture-v62-041-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-041-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:39 | [nyleeaa0503/sft-fixture-v62-042-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-042-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:42 | [nyleeaa0503/sft-fixture-v62-042-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-042-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:44 | [nyleeaa0503/sft-fixture-v62-042-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-042-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:47 | [nyleeaa0503/sft-fixture-v62-043-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-043-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:49 | [nyleeaa0503/sft-fixture-v62-043-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-043-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:51 | [nyleeaa0503/sft-fixture-v62-043-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-043-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:57 | [nyleeaa0503/sft-fixture-v62-044-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-044-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:00:59 | [nyleeaa0503/sft-fixture-v62-044-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-044-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:01:01 | [nyleeaa0503/sft-fixture-v62-044-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-044-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:01:26 | [nyleeaa0503/sft-fixture-v62-045-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-045-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:01:28 | [nyleeaa0503/sft-fixture-v62-045-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-045-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:01:31 | [nyleeaa0503/sft-fixture-v62-045-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-045-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:02:16 | [Ressshh/robbins-basic-pathology-curriculum](https://huggingface.co/Ressshh/robbins-basic-pathology-curriculum) | Ressshh | 0 | 0 | size_categories:1K<n<10K; format:text; modality:text; libra… |
-| 2026-10-05 02:02:35 | [nyleeaa0503/sft-fixture-v62-046-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-046-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:02:37 | [nyleeaa0503/sft-fixture-v62-046-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-046-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:02:41 | [nyleeaa0503/sft-fixture-v62-046-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-046-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:03:59 | [mikey-atwood/lab06-tool-calling](https://huggingface.co/mikey-atwood/lab06-tool-calling) | mikey-atwood | 0 | 0 | modality:text; region:us |
-| 2026-10-05 02:04:10 | [nyleeaa0503/sft-fixture-v62-047-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-047-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:12 | [nyleeaa0503/sft-fixture-v62-047-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-047-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:14 | [nyleeaa0503/sft-fixture-v62-047-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-047-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:17 | [nyleeaa0503/sft-fixture-v62-048-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-048-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:20 | [nyleeaa0503/sft-fixture-v62-048-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-048-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:22 | [nyleeaa0503/sft-fixture-v62-048-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-048-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:28 | [nyleeaa0503/sft-fixture-v62-049-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-049-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:28 | [tomoyakobayasi/social-data-2024](https://huggingface.co/tomoyakobayasi/social-data-2024) | tomoyakobayasi | 0 | 0 | license:mit; region:us; dataset; social; image-audio |
-| 2026-10-05 02:04:30 | [nyleeaa0503/sft-fixture-v62-049-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-049-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:32 | [nyleeaa0503/sft-fixture-v62-049-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-049-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:53 | [Hankun2004/e2d](https://huggingface.co/Hankun2004/e2d) | Hankun2004 | 0 | 0 | size_categories:100K<n<1M; format:arrow; library:datasets;… |
-| 2026-10-05 02:04:54 | [nyleeaa0503/sft-fixture-v62-050-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-050-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:04:57 | [nyleeaa0503/sft-fixture-v62-050-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-050-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:00 | [nyleeaa0503/sft-fixture-v62-050-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-050-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:08 | [nyleeaa0503/sft-fixture-v62-051-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-051-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:10 | [nyleeaa0503/sft-fixture-v62-051-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-051-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:12 | [nyleeaa0503/sft-fixture-v62-051-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-051-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:15 | [nyleeaa0503/sft-fixture-v62-052-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-052-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:18 | [nyleeaa0503/sft-fixture-v62-052-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-052-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:20 | [nyleeaa0503/sft-fixture-v62-052-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-052-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:23 | [nyleeaa0503/sft-fixture-v62-053-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-053-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:25 | [nyleeaa0503/sft-fixture-v62-053-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-053-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:27 | [nyleeaa0503/sft-fixture-v62-053-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-053-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:30 | [nyleeaa0503/sft-fixture-v62-054-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-054-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:35 | [nyleeaa0503/sft-fixture-v62-054-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-054-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:37 | [nyleeaa0503/sft-fixture-v62-054-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-054-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:40 | [nyleeaa0503/sft-fixture-v62-055-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-055-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:42 | [nyleeaa0503/sft-fixture-v62-055-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-055-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:44 | [nyleeaa0503/sft-fixture-v62-055-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-055-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:47 | [nyleeaa0503/sft-fixture-v62-056-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-056-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; size_c… |
-| 2026-10-05 02:05:49 | [nyleeaa0503/sft-fixture-v62-056-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-056-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:05:52 | [nyleeaa0503/sft-fixture-v62-056-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-056-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:05:55 | [nyleeaa0503/sft-fixture-v62-057-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-057-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:05:57 | [nyleeaa0503/sft-fixture-v62-057-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-057-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:05:59 | [nyleeaa0503/sft-fixture-v62-057-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-057-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:03 | [nyleeaa0503/sft-fixture-v62-058-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-058-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:05 | [nyleeaa0503/sft-fixture-v62-058-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-058-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:07 | [nyleeaa0503/sft-fixture-v62-058-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-058-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:11 | [nyleeaa0503/sft-fixture-v62-059-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-059-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:13 | [nyleeaa0503/sft-fixture-v62-059-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-059-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:15 | [nyleeaa0503/sft-fixture-v62-059-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-059-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:18 | [nyleeaa0503/sft-fixture-v62-060-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-060-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:20 | [nyleeaa0503/sft-fixture-v62-060-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-060-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:23 | [nyleeaa0503/sft-fixture-v62-060-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-060-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:25 | [nyleeaa0503/sft-fixture-v62-061-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-061-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:27 | [nyleeaa0503/sft-fixture-v62-061-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-061-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:30 | [nyleeaa0503/sft-fixture-v62-061-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-061-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:33 | [nyleeaa0503/sft-fixture-v62-062-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-062-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:34 | [Aleksanderszyma/food-dataset-2023](https://huggingface.co/Aleksanderszyma/food-dataset-2023) | Aleksanderszyma | 0 | 0 | license:mit; region:us; dataset; food; pointcloud-text |
-| 2026-10-05 02:06:38 | [nyleeaa0503/sft-fixture-v62-062-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-062-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:40 | [nyleeaa0503/sft-fixture-v62-062-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-062-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:43 | [nyleeaa0503/sft-fixture-v62-063-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-063-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:45 | [nyleeaa0503/sft-fixture-v62-063-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-063-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:47 | [nyleeaa0503/sft-fixture-v62-063-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-063-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:49 | [nyleeaa0503/sft-fixture-v62-064-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-064-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:52 | [nyleeaa0503/sft-fixture-v62-064-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-064-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:56 | [nyleeaa0503/sft-fixture-v62-064-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-064-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:06:59 | [nyleeaa0503/sft-fixture-v62-065-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-065-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:01 | [nyleeaa0503/sft-fixture-v62-065-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-065-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:04 | [nyleeaa0503/sft-fixture-v62-065-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-065-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:07 | [nyleeaa0503/sft-fixture-v62-066-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-066-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:09 | [nyleeaa0503/sft-fixture-v62-066-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-066-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:12 | [nyleeaa0503/sft-fixture-v62-066-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-066-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:14 | [nyleeaa0503/sft-fixture-v62-067-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-067-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:17 | [nyleeaa0503/sft-fixture-v62-067-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-067-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:19 | [nyleeaa0503/sft-fixture-v62-067-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-067-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:20 | [ai4y/tictactoe-position-8_20261005_105916](https://huggingface.co/ai4y/tictactoe-position-8_20261005_105916) | ai4y | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-05 02:07:32 | [nyleeaa0503/sft-fixture-v62-068-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-068-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:34 | [nyleeaa0503/sft-fixture-v62-068-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-068-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:36 | [nyleeaa0503/sft-fixture-v62-068-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-068-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:40 | [andylizf/tb21-agentic-top10-full](https://huggingface.co/andylizf/tb21-agentic-top10-full) | andylizf | 0 | 0 | task_categories:text-generation; license:other; size_catego… |
-| 2026-10-05 02:07:46 | [nyleeaa0503/sft-fixture-v62-069-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-069-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:49 | [nyleeaa0503/sft-fixture-v62-069-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-069-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:51 | [nyleeaa0503/sft-fixture-v62-069-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-069-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:57 | [nyleeaa0503/sft-fixture-v62-070-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-070-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:07:59 | [nyleeaa0503/sft-fixture-v62-070-glaive](https://huggingface.co/nyleeaa0503/sft-fixture-v62-070-glaive) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:08:03 | [nyleeaa0503/sft-fixture-v62-070-xlam](https://huggingface.co/nyleeaa0503/sft-fixture-v62-070-xlam) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-| 2026-10-05 02:08:54 | [mialina395/Annoy-PyEdu-Rs-Raw](https://huggingface.co/mialina395/Annoy-PyEdu-Rs-Raw) | mialina395 | 0 | 0 | region:us |
-| 2026-10-05 02:08:54 | [mialina395/Annoy-PyEdu-Rs](https://huggingface.co/mialina395/Annoy-PyEdu-Rs) | mialina395 | 0 | 0 | region:us |
-| 2026-10-05 02:10:13 | [coinhead/lab07-catch-the-ai-lying](https://huggingface.co/coinhead/lab07-catch-the-ai-lying) | coinhead | 0 | 0 | region:us |
-| 2026-10-05 02:10:21 | [nyleeaa0503/sft-fixture-v62-071-toolace](https://huggingface.co/nyleeaa0503/sft-fixture-v62-071-toolace) | nyleeaa0503 | 0 | 0 | task_categories:text-generation; license:apache-2.0; region… |
-
-_Showing the first 200 of 278 datasets; see the [full CSV](data/new-datasets-2026-10-05T02-19-30-443324Z.csv)._
+| 2026-10-05 02:21:52 | [World-Representation-Lab/World-Embedding-Dynamics-Retrieval](https://huggingface.co/World-Representation-Lab/World-Embedding-Dynamics-Retrieval) | World-Representation-Lab | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-05 02:21:57 | [guptaadityawell/image-audio-data95](https://huggingface.co/guptaadityawell/image-audio-data95) | guptaadityawell | 0 | 0 | license:mit; region:us; dataset; music; image-audio |
+| 2026-10-05 02:21:59 | [coinhead/lab06-tool-calling](https://huggingface.co/coinhead/lab06-tool-calling) | coinhead | 0 | 0 | modality:text; region:us |
+| 2026-10-05 02:22:30 | [World-Representation-Lab/World-Embedding-Fluid-Retrieval](https://huggingface.co/World-Representation-Lab/World-Embedding-Fluid-Retrieval) | World-Representation-Lab | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-05 02:22:49 | [World-Representation-Lab/World-Embedding-Optics-Retrieval](https://huggingface.co/World-Representation-Lab/World-Embedding-Optics-Retrieval) | World-Representation-Lab | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-05 02:23:44 | [World-Representation-Lab/World-Embedding-Solid-Retrieval](https://huggingface.co/World-Representation-Lab/World-Embedding-Solid-Retrieval) | World-Representation-Lab | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-05 02:24:05 | [huuhuyng/tournament_data_0928](https://huggingface.co/huuhuyng/tournament_data_0928) | huuhuyng | 0 | 0 | size_categories:n<1K; format:text; modality:image; modality… |
+| 2026-10-05 02:24:07 | [World-Representation-Lab/World-Embedding-Regression](https://huggingface.co/World-Representation-Lab/World-Embedding-Regression) | World-Representation-Lab | 0 | 0 | task_categories:video-classification; license:apache-2.0; s… |
+| 2026-10-05 02:24:44 | [jaehyunyoo84/agriculture-dataset-2023](https://huggingface.co/jaehyunyoo84/agriculture-dataset-2023) | jaehyunyoo84 | 0 | 0 | license:cc-by-4.0; region:us; dataset; agriculture; sensor-… |
+| 2026-10-05 02:27:45 | [JackHsieh/peS2o-humanities-160M-20M-iid](https://huggingface.co/JackHsieh/peS2o-humanities-160M-20M-iid) | JackHsieh | 0 | 0 | task_categories:text-generation; source_datasets:JackHsieh/… |
+| 2026-10-05 02:28:11 | [happy8825/videosearch-r1-demo-examples](https://huggingface.co/happy8825/videosearch-r1-demo-examples) | happy8825 | 0 | 0 | task_categories:video-text-to-text; language:en; license:ot… |
+| 2026-10-05 02:30:02 | [ethanCSL/openarm_pringles_DR_v00_0](https://huggingface.co/ethanCSL/openarm_pringles_DR_v00_0) | ethanCSL | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-10-05 02:31:23 | [sophierober/trial-movie-posters](https://huggingface.co/sophierober/trial-movie-posters) | sophierober | 0 | 0 | license:cc-by-4.0; region:us; dataset; movie-posters; point… |
+| 2026-10-05 02:32:18 | [yemara/specdec-discovery-starter-data](https://huggingface.co/yemara/specdec-discovery-starter-data) | yemara | 0 | 0 | license:other; size_categories:100K<n<1M; format:parquet; m… |
+| 2026-10-05 02:34:09 | [indojin/ur5e-test-tube-3cam-add1005](https://huggingface.co/indojin/ur5e-test-tube-3cam-add1005) | indojin | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-10-05 02:35:20 | [timofeiniko/image-depth-corpus](https://huggingface.co/timofeiniko/image-depth-corpus) | timofeiniko | 0 | 0 | license:cc-by-4.0; region:us; dataset; wildlife; image-depth |
+| 2026-10-05 02:36:52 | [pdmd2026/rcm-vidprom-h3-qwenvl-cache](https://huggingface.co/pdmd2026/rcm-vidprom-h3-qwenvl-cache) | pdmd2026 | 0 | 0 | region:us |
+| 2026-10-05 02:37:39 | [jimchen2/pendulum-cjepa-dataset](https://huggingface.co/jimchen2/pendulum-cjepa-dataset) | jimchen2 | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-10-05 02:39:55 | [meghasinghly/memes-multimodal3](https://huggingface.co/meghasinghly/memes-multimodal3) | meghasinghly | 0 | 0 | license:mit; region:us; dataset; memes; multimodal3 |
+| 2026-10-05 02:41:39 | [Yang-0706/KPMP-FOCAL](https://huggingface.co/Yang-0706/KPMP-FOCAL) | Yang-0706 | 0 | 0 | task_categories:image-segmentation; language:en; size_categ… |
+| 2026-10-05 02:41:52 | [ctchen5674/experiment-wildlife](https://huggingface.co/ctchen5674/experiment-wildlife) | ctchen5674 | 0 | 0 | license:apache-2.0; region:us; dataset; wildlife; text-tabu… |
+| 2026-10-05 02:45:15 | [IndiaTechTeamSL2/tictactoe-r2-v2_1](https://huggingface.co/IndiaTechTeamSL2/tictactoe-r2-v2_1) | IndiaTechTeamSL2 | 0 | 0 | region:us |
+| 2026-10-05 02:54:28 | [Jleung818/clean-qwen-distilled-sft](https://huggingface.co/Jleung818/clean-qwen-distilled-sft) | Jleung818 | 0 | 0 | task_categories:text-generation; language:en; license:apach… |
+| 2026-10-05 02:54:31 | [atlas-institute/code-trainer-v11-grpo-orchestrator](https://huggingface.co/atlas-institute/code-trainer-v11-grpo-orchestrator) | atlas-institute | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-05 02:55:26 | [mfaroon/test-dataset](https://huggingface.co/mfaroon/test-dataset) | mfaroon | 0 | 0 | region:us |
+| 2026-10-05 02:59:12 | [cpe-kmutt-nlp/myFineNER](https://huggingface.co/cpe-kmutt-nlp/myFineNER) | cpe-kmutt-nlp | 0 | 0 | license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality… |
+| 2026-10-05 03:01:19 | [drkvcsstvn/smearshare_cumulative_distribution_lims_fast](https://huggingface.co/drkvcsstvn/smearshare_cumulative_distribution_lims_fast) | drkvcsstvn | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-05 03:01:20 | [drkvcsstvn/smearshare_monthly_cumulative_lims_fast](https://huggingface.co/drkvcsstvn/smearshare_monthly_cumulative_lims_fast) | drkvcsstvn | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-05 03:02:45 | [HamidBekam/HistPat](https://huggingface.co/HamidBekam/HistPat) | HamidBekam | 0 | 0 | license:mit; region:us |
+| 2026-10-05 03:05:15 | [indojin/ur5e-flask-3cam-add1005](https://huggingface.co/indojin/ur5e-flask-3cam-add1005) | indojin | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-10-05 03:06:03 | [AI4Manufacturing/209-annotated](https://huggingface.co/AI4Manufacturing/209-annotated) | AI4Manufacturing | 0 | 0 | region:us |
+| 2026-10-05 03:06:08 | [HamidBekam/uspto_cpc_masterfile_1836_2016](https://huggingface.co/HamidBekam/uspto_cpc_masterfile_1836_2016) | HamidBekam | 0 | 0 | size_categories:10M<n<100M; format:csv; modality:tabular; m… |
+| 2026-10-05 03:06:26 | [ruthlesslearner/lab06-tool-calling](https://huggingface.co/ruthlesslearner/lab06-tool-calling) | ruthlesslearner | 0 | 0 | modality:text; region:us |
+| 2026-10-05 03:07:29 | [ASDBASFGQW/Annoy-PyEdu-Rs](https://huggingface.co/ASDBASFGQW/Annoy-PyEdu-Rs) | ASDBASFGQW | 0 | 0 | region:us |
+| 2026-10-05 03:07:30 | [ASDBASFGQW/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDBASFGQW/Annoy-PyEdu-Rs-Raw) | ASDBASFGQW | 0 | 0 | region:us |
+| 2026-10-05 03:09:07 | [ToddBB/Annoy-PyEdu-Rs](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs) | ToddBB | 0 | 0 | region:us |
+| 2026-10-05 03:09:07 | [ToddBB/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs-Raw) | ToddBB | 0 | 0 | region:us |
+| 2026-10-05 03:09:56 | [sfafasgag5657/Annoy-PyEdu-Rs](https://huggingface.co/sfafasgag5657/Annoy-PyEdu-Rs) | sfafasgag5657 | 0 | 0 | region:us |
+| 2026-10-05 03:09:57 | [sfafasgag5657/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sfafasgag5657/Annoy-PyEdu-Rs-Raw) | sfafasgag5657 | 0 | 0 | region:us |
+| 2026-10-05 03:09:57 | [ert5656/Annoy-PyEdu-Rs](https://huggingface.co/ert5656/Annoy-PyEdu-Rs) | ert5656 | 0 | 0 | region:us |
+| 2026-10-05 03:09:58 | [ert5656/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ert5656/Annoy-PyEdu-Rs-Raw) | ert5656 | 0 | 0 | region:us |
+| 2026-10-05 03:10:10 | [ASD21DWSA/Annoy-PyEdu-Rs](https://huggingface.co/ASD21DWSA/Annoy-PyEdu-Rs) | ASD21DWSA | 0 | 0 | region:us |
+| 2026-10-05 03:10:10 | [ASD21DWSA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD21DWSA/Annoy-PyEdu-Rs-Raw) | ASD21DWSA | 0 | 0 | region:us |
+| 2026-10-05 03:11:41 | [ql1005/loogle_v2](https://huggingface.co/ql1005/loogle_v2) | ql1005 | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-05 03:11:48 | [tttoola/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tttoola/Annoy-PyEdu-Rs-Raw) | tttoola | 0 | 0 | region:us |
+| 2026-10-05 03:11:48 | [tttoola/Annoy-PyEdu-Rs](https://huggingface.co/tttoola/Annoy-PyEdu-Rs) | tttoola | 0 | 0 | region:us |
+| 2026-10-05 03:13:21 | [KETI-NLP/korean-heritage-qa](https://huggingface.co/KETI-NLP/korean-heritage-qa) | KETI-NLP | 0 | 0 | task_categories:visual-question-answering; language:ko; lic… |
+| 2026-10-05 03:14:51 | [duyle2408/varroa-yolo-baselines-mosaic-two-seed-runs](https://huggingface.co/duyle2408/varroa-yolo-baselines-mosaic-two-seed-runs) | duyle2408 | 0 | 0 | region:us |
+| 2026-10-05 03:15:15 | [AdvaitDevi/wildlife-image-audio](https://huggingface.co/AdvaitDevi/wildlife-image-audio) | AdvaitDevi | 0 | 0 | license:cc-by-4.0; region:us; dataset; wildlife; image-audio |
+| 2026-10-05 03:15:26 | [endomorphosis/ipfs_uganda_municipal_laws](https://huggingface.co/endomorphosis/ipfs_uganda_municipal_laws) | endomorphosis | 0 | 0 | language:en; license:other; size_categories:n<1K; format:pa… |
+| 2026-10-05 03:15:34 | [AdvaitDevi/class-medical](https://huggingface.co/AdvaitDevi/class-medical) | AdvaitDevi | 0 | 0 | license:mit; region:us; dataset; medical; audio-video |
+| 2026-10-05 03:15:42 | [sdsdfs4545/Annoy-PyEdu-Rs](https://huggingface.co/sdsdfs4545/Annoy-PyEdu-Rs) | sdsdfs4545 | 0 | 0 | region:us |
+| 2026-10-05 03:15:43 | [sdsdfs4545/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdsdfs4545/Annoy-PyEdu-Rs-Raw) | sdsdfs4545 | 0 | 0 | region:us |
+| 2026-10-05 03:16:04 | [Jomanne3/Annoy-PyEdu-Rs](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs) | Jomanne3 | 0 | 0 | region:us |
+| 2026-10-05 03:16:04 | [Jomanne3/Annoy-PyEdu-Rs-Raw](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs-Raw) | Jomanne3 | 0 | 0 | region:us |
+| 2026-10-05 03:17:09 | [asd21ecxxz12/Annoy-PyEdu-Rs](https://huggingface.co/asd21ecxxz12/Annoy-PyEdu-Rs) | asd21ecxxz12 | 0 | 0 | region:us |
+| 2026-10-05 03:17:10 | [asd21ecxxz12/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asd21ecxxz12/Annoy-PyEdu-Rs-Raw) | asd21ecxxz12 | 0 | 0 | region:us |
+| 2026-10-05 03:18:39 | [chendren/cx-decisions-v2-data](https://huggingface.co/chendren/cx-decisions-v2-data) | chendren | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-10-05 03:18:40 | [HamidBekam/uspto_cpc_masterfile_1836_2000](https://huggingface.co/HamidBekam/uspto_cpc_masterfile_1836_2000) | HamidBekam | 0 | 0 | region:us |
+| 2026-10-05 03:18:57 | [bbhatnikhil/pointcloud-text-data](https://huggingface.co/bbhatnikhil/pointcloud-text-data) | bbhatnikhil | 0 | 0 | license:apache-2.0; region:us; dataset; speech; pointcloud-… |
+| 2026-10-05 03:19:13 | [juliadollis/bokeh-eq4-lfrepro-fase2bc-p2](https://huggingface.co/juliadollis/bokeh-eq4-lfrepro-fase2bc-p2) | juliadollis | 0 | 0 | region:us |
+| 2026-10-05 03:19:13 | [juliadollis/bokeh-eq4-lfrepro-fase2bc-p3](https://huggingface.co/juliadollis/bokeh-eq4-lfrepro-fase2bc-p3) | juliadollis | 0 | 0 | region:us |
+| 2026-10-05 03:19:37 | [cxz12dxzc1ed/Annoy-PyEdu-Rs](https://huggingface.co/cxz12dxzc1ed/Annoy-PyEdu-Rs) | cxz12dxzc1ed | 0 | 0 | region:us |
+| 2026-10-05 03:19:38 | [cxz12dxzc1ed/Annoy-PyEdu-Rs-Raw](https://huggingface.co/cxz12dxzc1ed/Annoy-PyEdu-Rs-Raw) | cxz12dxzc1ed | 0 | 0 | region:us |
 
 ## Data source
 
