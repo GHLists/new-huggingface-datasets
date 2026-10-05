@@ -1,0 +1,83 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-05T08:22:57Z,haydendoo/so101_pickup_20261005_161743,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T08:23:08Z,Najeeba123sowber/smart-chatbot-dataset,Najeeba123sowber,0,0,size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T08:24:00Z,Zhuyuhan2333/MicroARCL,Zhuyuhan2333,0,0,license:apache-2.0; region:us
+2026-10-05T08:24:02Z,ifm23/NAMES,ifm23,0,0,region:us
+2026-10-05T08:24:19Z,PedramR/persian-tts-youtube-clean-v2-tone,PedramR,0,0,language:fa; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T08:24:37Z,ZhongLv/PAresult-full-run-v3,ZhongLv,0,0,region:us
+2026-10-05T08:27:30Z,abishekrooks/FL-MedClsBench,abishekrooks,0,0,task_categories:image-classification; task_categories:audio-classification; license:cc-by-nc-4.0; modality:image; region:us; federated-learning; medical-imaging; benchmark; sample
+2026-10-05T08:27:51Z,hlmnrkmn737/convertible_pos_AToB_fineTuned4_20261005_recomputed_stats,hlmnrkmn737,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-05T08:28:03Z,madokalif/calvin-abc-stop0,madokalif,0,0,region:us
+2026-10-05T08:29:02Z,felixhajj/multilingual-news-runtime,felixhajj,0,0,region:us
+2026-10-05T08:32:06Z,jp1924-laion-2/Laion400m-4-part2,jp1924-laion-2,0,0,region:us
+2026-10-05T08:32:13Z,Vanhjqk2810/banking77,Vanhjqk2810,0,0,task_categories:text-classification; task_ids:intent-classification; task_ids:multi-class-classification; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:mo…
+2026-10-05T08:33:23Z,haydendoo/so101_pickup_20261005_162407,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T08:33:53Z,yuu1234/PTIT_Journal_Critique,yuu1234,0,0,region:us
+2026-10-05T08:35:22Z,CarolinePascal/grabette-pick-and-place-texture,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-05T08:35:24Z,duyle2408/stw-yolo-sota-rerun-20261005,duyle2408,0,0,region:us
+2026-10-05T08:37:49Z,jclarky/fr3_bowl_real,jclarky,0,1,task_categories:robotics; region:us; franka; fr3; real-robot; manipulation; openvla-oft; vla
+2026-10-05T08:40:54Z,taichi116/sarmal_test5_20261005_170620,taichi116,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-05T08:41:21Z,boskyinteriors/how-layered-illumination-transforms-luxury-interiors,boskyinteriors,0,0,region:us
+2026-10-05T08:41:38Z,nuhmanpk/mozhi-malayalam-speech,nuhmanpk,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:ml; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:dat…
+2026-10-05T08:42:54Z,Kanelbullen/lab4,Kanelbullen,0,0,region:us
+2026-10-05T08:45:50Z,alisn/GuideMe_Benchmark,alisn,0,0,region:us
+2026-10-05T08:48:30Z,mehrzad-mozaffari/persian-tts-callcentre-clean-emotion,mehrzad-mozaffari,0,0,task_categories:text-to-speech; language:fa; license:other; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-05T08:48:41Z,haydendoo/so101_pickup_20261005_164250,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T08:50:28Z,akhaliq/h3-anime2d-style-train-v1,akhaliq,0,0,size_categories:n<1K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-05T08:53:04Z,backprognator/gemma3-4b-aletheia-v1-results,backprognator,0,0,region:us
+2026-10-05T08:54:50Z,IsacEP/edan20-lab4,IsacEP,0,0,region:us
+2026-10-05T08:55:09Z,shikicloud/nano35-swe-assets,shikicloud,0,0,task_categories:reinforcement-learning; region:us
+2026-10-05T08:55:34Z,Tran1312/Automatic-Speech-Recognition,Tran1312,0,0,region:us
+2026-10-05T08:55:36Z,milipatel2506/cadence-contrastive-speech,milipatel2506,0,0,region:us
+2026-10-05T08:55:41Z,phonsobon/khmer-ner-dataset,phonsobon,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T08:55:57Z,haydendoo/so101_pickup_20261005_164856,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T08:56:06Z,PedramR/persian-tts-callcentre-clean-tone,PedramR,0,0,language:fa; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T08:58:32Z,shreyansh12183/vigyan-olmoe-master-curriculum-v1,shreyansh12183,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:hi; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library…
+2026-10-05T09:01:05Z,Anandsah007/qwen3-14b-qlora_simple,Anandsah007,0,0,region:us
+2026-10-05T09:02:46Z,antoniopelusi/house16h,antoniopelusi,0,1,license:apache-2.0; size_categories:10K<n<100K; region:us; regression; no-missing-values
+2026-10-05T09:03:29Z,KMFDSHGSA/Annoy-PyEdu-Rs-Raw,KMFDSHGSA,0,0,region:us
+2026-10-05T09:03:29Z,KMFDSHGSA/Annoy-PyEdu-Rs,KMFDSHGSA,0,0,region:us
+2026-10-05T09:05:37Z,Anandsah007/qwen3-14b-qlora_rlhf,Anandsah007,0,0,region:us
+2026-10-05T09:05:40Z,fysical/rollout_pi05_S012_seed0_20261005_105642,fysical,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-05T09:06:53Z,DSA1AFG1E/Annoy-PyEdu-Rs,DSA1AFG1E,0,0,region:us
+2026-10-05T09:06:54Z,DSA1AFG1E/Annoy-PyEdu-Rs-Raw,DSA1AFG1E,0,0,region:us
+2026-10-05T09:07:36Z,PedramR/persian-tts-fidibo-clean-146h-tone,PedramR,0,0,language:fa; license:other; region:us
+2026-10-05T09:08:06Z,akthereddragon/hydra-movies-4,akthereddragon,0,0,region:us
+2026-10-05T09:08:06Z,akthereddragon/hydra-movies-5,akthereddragon,0,0,region:us
+2026-10-05T09:08:07Z,akthereddragon/hydra-movies-6,akthereddragon,0,0,region:us
+2026-10-05T09:08:08Z,akthereddragon/hydra-movies-7,akthereddragon,0,0,region:us
+2026-10-05T09:08:08Z,akthereddragon/hydra-movies-8,akthereddragon,0,0,region:us
+2026-10-05T09:08:09Z,akthereddragon/hydra-movies-9,akthereddragon,0,0,region:us
+2026-10-05T09:08:09Z,akthereddragon/hydra-movies-10,akthereddragon,0,0,region:us
+2026-10-05T09:08:35Z,Noorrabie/test,Noorrabie,0,0,task_categories:text-classification; language:ar; size_categories:1K<n<10K; region:us; readability; arabic
+2026-10-05T09:09:00Z,mufasa1228/sn38-submission,mufasa1228,0,0,region:us
+2026-10-05T09:09:55Z,mohammedZaki0007/keepass-intune-monitoring,mohammedZaki0007,0,0,region:us
+2026-10-05T09:11:03Z,wsdefgad/Annoy-PyEdu-Rs,wsdefgad,0,0,region:us
+2026-10-05T09:11:04Z,wsdefgad/Annoy-PyEdu-Rs-Raw,wsdefgad,0,0,region:us
+2026-10-05T09:11:10Z,DAS21321DSA/Annoy-PyEdu-Rs,DAS21321DSA,0,0,region:us
+2026-10-05T09:11:11Z,DAS21321DSA/Annoy-PyEdu-Rs-Raw,DAS21321DSA,0,0,region:us
+2026-10-05T09:11:22Z,haydendoo/so101_pickup_20261005_170645,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-05T09:11:42Z,earth37815/lead-alpamayo-pai_large_v3,earth37815,0,0,region:us
+2026-10-05T09:12:37Z,kushaldatta96/so101-pick-place-v2_20261005_142101,kushaldatta96,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-05T09:12:37Z,anegor-ov0820/intern-food32,anegor-ov0820,0,0,license:mit; region:us; dataset; food; sensor-fusion
+2026-10-05T09:12:45Z,asd12sad21/Annoy-PyEdu-Rs,asd12sad21,0,0,region:us
+2026-10-05T09:12:45Z,asd12sad21/Annoy-PyEdu-Rs-Raw,asd12sad21,0,0,region:us
+2026-10-05T09:13:11Z,sabin1234/Nepali_blood_donation_faq_dataset,sabin1234,0,0,license:apache-2.0; region:us
+2026-10-05T09:14:39Z,PedramR/persian-tts-news-clean-tone,PedramR,0,0,language:fa; license:other; region:us
+2026-10-05T09:15:07Z,asd1cxzq12eds/Annoy-PyEdu-Rs,asd1cxzq12eds,0,0,region:us
+2026-10-05T09:15:08Z,asd1cxzq12eds/Annoy-PyEdu-Rs-Raw,asd1cxzq12eds,0,0,region:us
+2026-10-05T09:15:09Z,DSCXZ12DSA/Annoy-PyEdu-Rs-Raw,DSCXZ12DSA,0,0,region:us
+2026-10-05T09:15:09Z,DSCXZ12DSA/Annoy-PyEdu-Rs,DSCXZ12DSA,0,0,region:us
+2026-10-05T09:15:14Z,0xPD33/commonplace-packs,0xPD33,0,0,region:us
+2026-10-05T09:15:18Z,antitrust56/le-courage-de-lacher-prise-un-guide-pratique-pour-b1df74,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:15:48Z,antitrust56/e-bike-kaufen-welches-modell-passt-zu-ihnen-2fe997,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:16:25Z,antitrust56/heissluftfritteuse-kaufen-welche-option-passt-zu-i-9a5140,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:16:36Z,rustemgareev/tg-contest,rustemgareev,0,0,task_categories:text-classification; language:ru; language:en; license:other; size_categories:100K<n<1M; region:us
+2026-10-05T09:17:06Z,antitrust56/choisir-sa-montre-connectee-un-guide-comparatif-07b183,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:17:10Z,radenjalayatra/app-pembayaran-spp,radenjalayatra,0,0,region:us
+2026-10-05T09:17:15Z,poeely/Deathstar_RCA,poeely,0,0,license:apache-2.0; region:us
+2026-10-05T09:17:52Z,antitrust56/fauteuil-ergonomique-bureau-trouvez-l-option-ideal-ae8759,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:18:09Z,julianmuellernoc/security-audio-video-curated,julianmuellernoc,0,0,license:cc-by-4.0; region:us; dataset; security; audio-video
+2026-10-05T09:18:22Z,SheVegas/Sheboygan-Visual-Archive,SheVegas,0,0,task_categories:image-classification; task_categories:image-to-text; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; sheboygan; wisconsin; midwest; photography; cultural-heritage; ci…
+2026-10-05T09:19:10Z,antitrust56/ecran-ultrawide-pour-bureau-quel-est-le-meilleur-c-b7a5fa,antitrust56,0,0,license:mit; region:us; guide
+2026-10-05T09:20:33Z,antitrust56/friteuse-sans-huile-laquelle-choisir-pour-manger-s-415d95,antitrust56,0,0,license:mit; region:us; guide
