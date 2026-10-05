@@ -1,0 +1,92 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-05T05:20:05Z,akhaliq/h3-claymation-jobfiles,akhaliq,0,0,region:us
+2026-10-05T05:23:34Z,luisluis123/xboxrghgames,luisluis123,0,0,region:us
+2026-10-05T05:23:39Z,B14Ramya/lenti-mpra-glm-tang,B14Ramya,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; genomics; dna…
+2026-10-05T05:24:04Z,huigiegie/pick-grapes-put-bowl,huigiegie,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T05:24:44Z,anon-pdb/PDB-Results,anon-pdb,0,0,language:en; language:code; license:mit; region:us; code; debugging; benchmark; evaluation
+2026-10-05T05:25:37Z,therjas/tempostorage,therjas,0,0,region:us
+2026-10-05T05:25:48Z,sagarvikram/nocturnalbharat,sagarvikram,0,0,region:us
+2026-10-05T05:26:50Z,chanwoochan/CNS_1005,chanwoochan,0,0,region:us
+2026-10-05T05:29:50Z,kharachar/copyright-detection,kharachar,0,0,region:us
+2026-10-05T05:30:51Z,lulinxuan/VR180,lulinxuan,0,0,license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; vr180; stereoscopic; stereo-video; fisheye; braw; real-world; high-resolution; ai-assisted-annotations
+2026-10-05T05:32:06Z,2wsx3edc2222/huginface-bucket,2wsx3edc2222,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-05T05:33:41Z,leocyusa/ra-quant-vulnerability-maps,leocyusa,0,0,region:us
+2026-10-05T05:33:50Z,nguynn/cert-insider-threat-datasets,nguynn,0,0,license:cc-by-4.0; modality:text; region:us; insider-threat; cybersecurity; anomaly-detection; cert
+2026-10-05T05:34:58Z,xxxspatialencoderinfinigen/raw_data_infinigen,xxxspatialencoderinfinigen,0,0,region:us
+2026-10-05T05:36:25Z,pollitoconpapass/chichazam-fingerprints,pollitoconpapass,0,0,region:us
+2026-10-05T05:37:44Z,danbrooks/draftzero-selfplay-games,danbrooks,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; magic-the-gathering; self-play; mcts; reinforcement-learning; games
+2026-10-05T05:38:35Z,Ericzzzzh/STIC-Traffic-Sign,Ericzzzzh,0,0,task_categories:object-detection; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; yolo; yolo2…
+2026-10-05T05:39:27Z,Seonill/anubis_dataset6,Seonill,0,0,region:us
+2026-10-05T05:39:39Z,InSAI-Lab/DELIVER,InSAI-Lab,0,0,region:us
+2026-10-05T05:39:40Z,InSAI-Lab/SynPASS,InSAI-Lab,0,0,region:us
+2026-10-05T05:40:46Z,randi233/test_20261005_054024,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-05T05:41:52Z,ahmed7111nn/arabpv-base-corpus,ahmed7111nn,0,0,task_categories:text-generation; language:ar; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-05T05:45:19Z,XinyuYan/scalevln-streamvln-rgb-wds,XinyuYan,0,0,region:us
+2026-10-05T05:47:45Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-05T05:47:45Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-05T05:49:14Z,hab-swe/20261004-hab-think-medcli-v2-grpo-27b-ctm-top20-ehr-prec20-iter41-public,hab-swe,0,0,region:us; healthagentbench; agent-evaluation
+2026-10-05T05:50:03Z,leonardosouza/industrial-audio-text,leonardosouza,0,0,license:cc-by-4.0; region:us; dataset; industrial; audio-text
+2026-10-05T05:51:40Z,ducthang1703/cbg-mistral-7b-results,ducthang1703,0,0,license:apache-2.0; region:us; cbg; safety; ablation
+2026-10-05T05:56:29Z,thelionlies/tanawpamana-dataset,thelionlies,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-05T05:56:31Z,randi233/test1_20261005_055608,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-05T05:57:00Z,nader39/lazy-lines-media,nader39,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-05T05:58:37Z,randi233/test2_20261005_055707,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T05:58:46Z,WANKE666/E2E_dataset_by_wang_v2_archives,WANKE666,0,0,task_categories:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T05:59:18Z,danielsanski/tmp-gaming,danielsanski,0,0,license:apache-2.0; region:us; dataset; gaming; sensor-fusion
+2026-10-05T05:59:19Z,dsaxz123/Annoy-PyEdu-Rs,dsaxz123,0,0,region:us
+2026-10-05T05:59:20Z,dsaxz123/Annoy-PyEdu-Rs-Raw,dsaxz123,0,0,region:us
+2026-10-05T05:59:20Z,DSAC1CAS/Annoy-PyEdu-Rs,DSAC1CAS,0,0,region:us
+2026-10-05T05:59:21Z,DSAC1CAS/Annoy-PyEdu-Rs-Raw,DSAC1CAS,0,0,region:us
+2026-10-05T05:59:21Z,SingleBicycle/iHESP-historical-3D-monthly-lr,SingleBicycle,0,0,region:us; climate; ocean; CESM; iHESP; netcdf
+2026-10-05T05:59:39Z,Kaito-F/gen3hind-r2,Kaito-F,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T06:02:26Z,kenji-sks89x/image-audio-data,kenji-sks89x,0,0,license:cc-by-4.0; region:us; dataset; art; image-audio
+2026-10-05T06:02:44Z,samanthalhy/eval_so100_smol_popcorn_3_combine_2,samanthalhy,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-05T06:07:30Z,hotorigogi/doll_pick_and_place_dagger_merged_v2,hotorigogi,0,0,region:us
+2026-10-05T06:08:44Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs,DSA1DSA12EDSA,0,0,region:us
+2026-10-05T06:08:45Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs-Raw,DSA1DSA12EDSA,0,0,region:us
+2026-10-05T06:08:49Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-10-05T06:08:49Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-10-05T06:09:22Z,wataruyao/so101_test_20261005_150906,wataruyao,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-10-05T06:09:55Z,dghjjjdj/Annoy-PyEdu-Rs,dghjjjdj,0,0,region:us
+2026-10-05T06:09:56Z,dghjjjdj/Annoy-PyEdu-Rs-Raw,dghjjjdj,0,0,region:us
+2026-10-05T06:10:40Z,asasaasaddxv/Annoy-PyEdu-Rs,asasaasaddxv,0,0,region:us
+2026-10-05T06:10:41Z,asasaasaddxv/Annoy-PyEdu-Rs-Raw,asasaasaddxv,0,0,region:us
+2026-10-05T06:10:41Z,asfsdavcf/Annoy-PyEdu-Rs,asfsdavcf,0,0,region:us
+2026-10-05T06:10:41Z,asfsdavcf/Annoy-PyEdu-Rs-Raw,asfsdavcf,0,0,region:us
+2026-10-05T06:10:57Z,yfeng123456/Annoy-PyEdu-Rs,yfeng123456,0,0,region:us
+2026-10-05T06:10:58Z,yfeng123456/Annoy-PyEdu-Rs-Raw,yfeng123456,0,0,region:us
+2026-10-05T06:11:16Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs,asd12dsacxz12dsa,0,0,region:us
+2026-10-05T06:11:16Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs-Raw,asd12dsacxz12dsa,0,0,region:us
+2026-10-05T06:11:27Z,michaelowusuntim6/mql5-compile-benchmark,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; mql5; metatrader; benchmark; evaluation; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:29Z,michaelowusuntim6/linux-kernel-ioctl-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us; linux; kernel; ioctl; drivers; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:33Z,michaelowusuntim6/lineageos-support-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; android; lineageos; support; qa; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:39Z,michaelowusuntim6/security-expanded-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; security; secure-coding; vulnerability; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:41Z,michaelowusuntim6/android-malware-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:mit; region:us; android; security; malware; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:45Z,ASD1DAS12D/Annoy-PyEdu-Rs-Raw,ASD1DAS12D,0,0,region:us
+2026-10-05T06:11:45Z,ASD1DAS12D/Annoy-PyEdu-Rs,ASD1DAS12D,0,0,region:us
+2026-10-05T06:11:49Z,michaelowusuntim6/lineageos-generated-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; android; lineageos; generated; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:50Z,michaelowusuntim6/mql5-generated-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; mql5; metatrader; generated; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:52Z,michaelowusuntim6/security-qa-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; security; cve; owasp; qa; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:54Z,michaelowusuntim6/kernel-syzfix-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; linux; kernel; syzbot; debugging; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:55Z,michaelowusuntim6/kernel-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; linux; kernel; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:11:57Z,michaelowusuntim6/linux-kernel-asm-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:gpl-2.0; region:us; linux; kernel; assembly; reverse-engineering; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:13Z,michaelowusuntim6/linux-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; linux; shell; cli; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:15Z,michaelowusuntim6/mql5-repos-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; mql5; metatrader; trading; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:17Z,michaelowusuntim6/mql5-expanded-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; mql5; metatrader; trading; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:19Z,michaelowusuntim6/cpp-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; cpp; c; code; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:21Z,michaelowusuntim6/forex-calendar-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:mit; region:us; forex; mql5; trading; economics; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:44Z,michaelowusuntim6/kernel-vuln-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; linux; kernel; security; vulnerability; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:46Z,michaelowusuntim6/android-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; android; lineageos; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:49Z,michaelowusuntim6/uncategorized-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; mixed; misc; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:51Z,michaelowusuntim6/python-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:other; region:us; python; code; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:12:53Z,michaelowusuntim6/linux-kernel-commits-qwen35,michaelowusuntim6,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; linux; kernel; reasoning; qwen3.5; conversation; instruction-tuning
+2026-10-05T06:13:03Z,closestfriend/continental-critical-theory-sft,closestfriend,0,0,region:us
+2026-10-05T06:15:03Z,Anony365mous/reasoning,Anony365mous,0,0,arxiv:2406.19314; region:us
+2026-10-05T06:15:10Z,gongdeshuichang/polymarket-completed-originals,gongdeshuichang,0,0,license:cc-by-4.0; region:us
+2026-10-05T06:15:26Z,metomorfinov/clyde2-food5,metomorfinov,0,0,region:us
+2026-10-05T06:15:32Z,tush16ar/traffic-vehicle-detection,tush16ar,0,0,task_categories:object-detection; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; traffic; cctv; yolo; vehicle-detection; ua-detrac; smart-city
+2026-10-05T06:18:03Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-05T06:18:03Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-05T06:19:21Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-05T06:19:21Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-05T06:19:25Z,michaelowusuntim6/kernel-davinci-qwen35,michaelowusuntim6,0,0,region:us
