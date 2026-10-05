@@ -1,0 +1,43 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T23:29:31Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-04T23:34:05Z,ted88168/rollout_colorlogo_rl_round2_combined,ted88168,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101; pi05; advantage-condit…
+2026-10-04T23:34:22Z,malomalom/spacehpc-decision-emergence-features-20261005,malomalom,0,0,region:us
+2026-10-04T23:34:52Z,juliadollis/bokeh-eq4-lfrepro-fase2bc,juliadollis,0,0,region:us
+2026-10-04T23:34:52Z,juliadollis/bokeh-eq4-ebb-fase2bc,juliadollis,0,0,region:us
+2026-10-04T23:34:52Z,juliadollis/bokeh-eq4-rb-fase2bc,juliadollis,0,0,region:us
+2026-10-04T23:34:52Z,juliadollis/bokeh-eq4-rd-fase2bc,juliadollis,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T23:35:03Z,toola/Annoy-PyEdu-Rs,toola,0,0,region:us
+2026-10-04T23:35:03Z,toola/Annoy-PyEdu-Rs-Raw,toola,0,0,region:us
+2026-10-04T23:35:05Z,malomalom/spacehpc-representation-capacity-full24-models-v1-20261005,malomalom,0,0,region:us
+2026-10-04T23:37:25Z,PolskiAgentW/dziennik-ustaw-1990-1999-md,PolskiAgentW,0,0,language:pl; license:cc0-1.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; law; pola…
+2026-10-04T23:37:56Z,nadayusc/cs513-carla-runs,nadayusc,0,0,region:us; carla; autonomous-driving; simulation; rerun
+2026-10-04T23:38:48Z,davidwdw/fa-ds-task01-retry160-centre-complete-20261004-cb070bc7e212,davidwdw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-04T23:39:55Z,malomalom/spacehpc-decision-emergence-rest-20261005,malomalom,0,0,region:us
+2026-10-04T23:42:39Z,papers-data/gamebind-twins,papers-data,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-04T23:44:29Z,yudduy/yukonbench,yudduy,0,0,language:en; region:us
+2026-10-04T23:44:36Z,LienJ/lab06-tool-calling,LienJ,0,0,modality:text; region:us
+2026-10-04T23:46:16Z,Mehmetmnn/mehmet-voice-temp,Mehmetmnn,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-04T23:46:37Z,cisimcik/turkish-decisions-max-19k,cisimcik,0,0,task_categories:text-classification; task_categories:zero-shot-classification; task_categories:question-answering; task_ids:natural-language-inference; task_ids:multi-class-classification; task_ids:s…
+2026-10-04T23:48:07Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-04T23:48:07Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-04T23:48:59Z,drew-ipp/invoice-extraction-benchmark,drew-ipp,0,1,task_categories:image-to-text; task_categories:document-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:image; modality:tabular; mod…
+2026-10-04T23:49:18Z,wckwan/Alfworld-Olmo3-7B-GRPO-s1000-eval,wckwan,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-04T23:49:33Z,jetsonmom/eval_omx_act_gpu_30k,jetsonmom,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-04T23:50:53Z,JackHsieh/peS2o-humanities,JackHsieh,0,0,task_categories:text-generation; source_datasets:common-pile/peS2o; language:en; license:odc-by; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library…
+2026-10-04T23:51:09Z,rishabh-ranjan/relbench-submissions,rishabh-ranjan,0,0,region:us
+2026-10-04T23:51:38Z,SupremeD/aether-evals-runs,SupremeD,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T23:56:03Z,Snortle-AI/Snortle-Pancake-1,Snortle-AI,0,0,license:apache-2.0; region:us
+2026-10-04T23:56:47Z,malomalom/spacehpc-feature-vjepa21l256-pusht-train256val21-commonln,malomalom,0,0,region:us
+2026-10-04T23:56:47Z,malomalom/spacehpc-representation-capacity-full24-models-v1,malomalom,0,0,region:us
+2026-10-05T00:00:33Z,e-n-v-y/pixelart,e-n-v-y,0,0,size_categories:n<1K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-05T00:01:57Z,nadayusc/carla-rerun-scenarios,nadayusc,0,0,license:cc-by-4.0; region:us; carla; rerun; autonomous-driving; simulation
+2026-10-05T00:03:28Z,fdsljwre/reverse-enginering,fdsljwre,0,0,license:mit; region:us
+2026-10-05T00:05:43Z,hi-todayis-jh/l1-exact-qwen3-1.7b-compression-100-4k-alpha3e-4-bs32-n8-32k-t1-146103-rollouts,hi-todayis-jh,0,0,license:apache-2.0; region:us
+2026-10-05T00:07:25Z,goktugoguz/arc-usdc-laya-bench,goktugoguz,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; arc; usdc; blockchain; benchma…
+2026-10-05T00:10:26Z,RanaGaber/Reddit_Egy_Block,RanaGaber,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T00:11:01Z,HenryYHW/DriveDNA-TriDrive,HenryYHW,0,0,license:cc-by-4.0; region:us
+2026-10-05T00:13:33Z,Hankun2004/e2d,Hankun2004,0,0,region:us
+2026-10-05T00:15:20Z,endomorphosis/ipfs_mauritius_municipal_laws,endomorphosis,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T00:17:05Z,awsref/Annoy-PyEdu-Rs,awsref,0,0,region:us
+2026-10-05T00:17:06Z,awsref/Annoy-PyEdu-Rs-Raw,awsref,0,0,region:us
+2026-10-05T00:18:51Z,Jinyan0924/qwen_robotics_open_dataset_egowalk,Jinyan0924,0,0,region:us
