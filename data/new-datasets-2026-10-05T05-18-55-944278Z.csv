@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-05T04:22:35Z,Hungvi/HistoryPrices_Fundamental_SnP500_2016-2025,Hungvi,0,0,region:us
+2026-10-05T04:22:38Z,Hectorer2e/set105290,Hectorer2e,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-05T04:22:41Z,Hectorer2e/set105210,Hectorer2e,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-05T04:24:21Z,kumarjau1998/AIME2025,kumarjau1998,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; mathematical-reasoning…
+2026-10-05T04:26:34Z,open-nhe/Elysium-X-150-FR-dataset,open-nhe,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-05T04:31:10Z,Aniket728e972/ikt-relevant-patch,Aniket728e972,0,0,region:us
+2026-10-05T04:31:59Z,fireviewer/v2.5-box-precise-and-multi-source-suplement,fireviewer,0,0,task_categories:object-detection; license:other; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-10-05T04:33:15Z,shiweid1/Procedure_Memory_System_Benchmark,shiweid1,0,0,language:en; license:mit; size_categories:1K<n<10K; region:us; agent; memory; procedural-memory; alfworld; bfcl; appworld; llm-agents
+2026-10-05T04:33:30Z,wuyuchen/cs546-hw2-2026,wuyuchen,0,0,region:us
+2026-10-05T04:35:24Z,Zulkiflii/cloreva-x1-raw-dataset,Zulkiflii,0,0,region:us
+2026-10-05T04:36:02Z,notionalteen/concept-boundary-benchmark,notionalteen,0,0,language:en; language:zh; license:other; region:us
+2026-10-05T04:36:04Z,Rahul5505/Crop_Disease_Images,Rahul5505,0,0,task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-05T04:36:35Z,JzyRay/JustGRPO-Code-LoRA-Eval-Results,JzyRay,0,0,task_categories:text-generation; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T04:38:05Z,nhanbayern/AnnualReports,nhanbayern,0,0,license:mit; region:us
+2026-10-05T04:44:31Z,YMmim/korean-word-order-mt-robustness,YMmim,0,0,task_categories:translation; language:ko; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-05T04:45:33Z,aigoalieunbeatable/hospitality-agent-evals,aigoalieunbeatable,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; l…
+2026-10-05T04:46:13Z,movahedi-ca/ai-data-map-teacher,movahedi-ca,0,0,region:us
+2026-10-05T04:47:16Z,CT-666/depth-trades-cryptodatasets,CT-666,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-05T04:47:35Z,ducthang1703/cbg-qwen25-7b-results,ducthang1703,0,0,license:apache-2.0; region:us; cbg; safety; ablation
+2026-10-05T04:55:25Z,Rob8435/so101-combined-green-blue-10-5-26,Rob8435,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-05T04:55:38Z,Rudraayurtech/ayurtech_base_1100,Rudraayurtech,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T04:56:16Z,Tunaaaasaaaaa/indonesian-financial-sentiment-analysis,Tunaaaasaaaaa,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T04:57:59Z,abdullahshahidqayyum/Food_Dataset,abdullahshahidqayyum,0,1,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T04:58:38Z,sup-computer/tiny-green-light-stories,sup-computer,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-05T05:01:29Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-05T05:01:30Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-05T05:02:28Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-10-05T05:02:28Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-10-05T05:05:07Z,reasoning-fingerprints-anon/REASONING-FINGERPRINTS,reasoning-fingerprints-anon,0,0,license:cc-by-4.0; region:us
+2026-10-05T05:05:14Z,altar-genomics/clinvar-20260928-hg38,altar-genomics,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; genomics; clinical-genetics;…
+2026-10-05T05:06:53Z,prem0780/multi-bias-news-corpus,prem0780,0,0,language:en; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T05:07:48Z,Shinonome-Enana/CG_Stereo_Depth,Shinonome-Enana,0,0,region:us
+2026-10-05T05:08:47Z,akhaliq/h3-claymation-style-train-v1,akhaliq,0,0,size_categories:n<1K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-05T05:09:28Z,Yingg91/Windows10_20H2,Yingg91,0,0,region:us
+2026-10-05T05:09:32Z,carm-enhc/wildlife-dataset,carm-enhc,0,0,license:apache-2.0; region:us; dataset; wildlife; pointcloud-text
+2026-10-05T05:13:33Z,Diaugeia/TSFLab-Datasets,Diaugeia,0,0,region:us
+2026-10-05T05:13:41Z,adfafaa/Annoy-PyEdu-Rs,adfafaa,0,0,region:us
+2026-10-05T05:13:42Z,adfafaa/Annoy-PyEdu-Rs-Raw,adfafaa,0,0,region:us
+2026-10-05T05:13:47Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-10-05T05:13:48Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-10-05T05:14:13Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-10-05T05:14:14Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-10-05T05:14:43Z,bcckfdn/Instruct-Multilingual-v1,bcckfdn,0,0,region:us
+2026-10-05T05:16:46Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-05T05:17:58Z,Grayye233/BN4601A-Colonoscopy-Curated,Grayye233,0,0,region:us
+2026-10-05T05:18:00Z,ucdavisneurolab/math-audio-video-mini,ucdavisneurolab,0,0,license:apache-2.0; region:us; dataset; math; audio-video
