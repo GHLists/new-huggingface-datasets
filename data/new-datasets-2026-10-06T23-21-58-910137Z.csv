@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-06T22:19:26Z,ftajwar/maxrl_dppo_qwen3_4B_base_knk_rollouts,ftajwar,0,0,region:us
+2026-10-06T22:20:19Z,ftajwar/grpo_dppo_qwen3_4B_base_knk_rollouts,ftajwar,0,0,region:us
+2026-10-06T22:22:07Z,SteveFozz/chessumi-browser-runtimes,SteveFozz,0,0,task_categories:other; license:other; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-06T22:24:09Z,Kshetrajna/reflex-27b-pmscr-decision-index-03,Kshetrajna,0,0,region:us
+2026-10-06T22:24:33Z,ftajwar/grpo_dppo_qwen3_4B_maxrl_polaris1000_knk_rollouts,ftajwar,0,0,region:us
+2026-10-06T22:24:34Z,ftajwar/maxrl_dppo_qwen3_4B_maxrl_polaris1000_knk_rollouts,ftajwar,0,0,region:us
+2026-10-06T22:25:23Z,MLArtiste/mlalib_data,MLArtiste,0,0,license:mit; size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T22:27:43Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_98e1_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T22:27:55Z,syssec-utd/segmentation-py315-pylingual-v6,syssec-utd,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T22:28:59Z,Nobodyreport/opus5-5-doctor-patient-conversations-all-human-diseases,Nobodyreport,0,1,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; medical; healthcare; clinical; synthetic; doctor-patient; ch…
+2026-10-06T22:30:07Z,g1n0st/85457826e0f2791fa898111c9d4112f9f89a36da,g1n0st,0,0,modality:video; region:us
+2026-10-06T22:30:20Z,geogabrielp/gitpulse-analytics-demo,geogabrielp,0,0,license:mit; region:us
+2026-10-06T22:31:41Z,syssec-utd/statement-py315-pylingual-v6,syssec-utd,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T22:31:52Z,DegenHedge/kalshi-btc-15m,DegenHedge,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datas…
+2026-10-06T22:32:06Z,mabsoutwassim/quran-embeddings,mabsoutwassim,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T22:35:22Z,hussainbillah/sonicium-function-calling-dataset,hussainbillah,0,0,license:cc-by-4.0; doi:10.57967/hf/10798; region:us
+2026-10-06T22:35:23Z,mabsoutwassim/quark_gluon,mabsoutwassim,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T22:36:38Z,Fall3nAngelz/record-test_20261006_181142,Fall3nAngelz,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-06T22:37:35Z,yuiseki/gsj-reports,yuiseki,0,0,task_categories:text-generation; task_categories:fill-mask; task_ids:language-modeling; task_ids:masked-language-modeling; language:ja; language:en; license:cc-by-4.0; size_categories:10K<n<100K; for…
+2026-10-06T22:38:36Z,IKK2004/das-projekt,IKK2004,0,0,region:us
+2026-10-06T22:41:34Z,mihailnica1000000/trainoo-dukascopy-XAUUSD,mihailnica1000000,0,0,task_categories:time-series-forecasting; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissan…
+2026-10-06T22:44:14Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_0d4b_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T22:44:17Z,AbdullahRasul/g1_live_tracking_restored,AbdullahRasul,0,0,task_categories:robotics; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-10-06T22:45:53Z,mabsoutwassim/quranic-universal-ayahs,mabsoutwassim,0,0,task_categories:automatic-speech-recognition; language:ar; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:audio; modality:tabular; modality:text; library:datasets; library:das…
+2026-10-06T22:46:21Z,akhaliq/qwen21-multiple-angles-train-v1,akhaliq,0,0,task_categories:image-to-image; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; qwen-image-…
+2026-10-06T22:46:48Z,gberseth/maniskill_panda_lerobot,gberseth,0,0,size_categories:10K<n<100K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-06T22:49:06Z,Peteclarkelondon/rivet-refs,Peteclarkelondon,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-06T22:49:35Z,Dancesp/sma-zoomcamp-2026-data,Dancesp,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T22:51:00Z,TMaxxx/TMax-Ablation-No-Difficulty-5K,TMaxxx,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tmax; terminal-tasks; synthetic; ablation; initial-generation
+2026-10-06T22:51:25Z,jenb22/richin-assets,jenb22,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-06T22:52:19Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-06T22:52:19Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-06T22:53:22Z,Altego700/charmodel-refs,Altego700,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-06T22:54:50Z,kevinjosethomas/compact-language-sft,kevinjosethomas,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T22:56:26Z,mabsoutwassim/quran_en_translations,mabsoutwassim,0,0,region:us
+2026-10-06T23:00:59Z,StepUpLaw/lady-bird-deed-by-state,StepUpLaw,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; law; real-estate; lady-bird-d…
+2026-10-06T23:01:09Z,mabsoutwassim/Quran_Hadith_explain_verse_8K,mabsoutwassim,0,0,region:us
+2026-10-06T23:01:35Z,SieloRobotics/rebot_pick_place_20261006_165745,SieloRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-06T23:01:56Z,Flownium/zeus-dataset,Flownium,0,0,license:cc-by-4.0; region:us
+2026-10-06T23:02:38Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_8d1a_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T23:02:52Z,geekyrakshit/Yale-Brain-Mets-Longitudinal-MAE-Prepared,geekyrakshit,0,0,license:cc-by-4.0; region:us
+2026-10-06T23:05:54Z,EdgeArbiter/KCIT_Data,EdgeArbiter,0,0,region:us
+2026-10-06T23:07:19Z,dougalldeepmind/2026-10-06-swebench-cpu-readiness-54552761,dougalldeepmind,0,0,region:us; infrastructure-check; swebench-lite
+2026-10-06T23:09:10Z,mabsoutwassim/quran_uthmani,mabsoutwassim,0,0,region:us
+2026-10-06T23:14:45Z,felsager/vla_cubes_v4,felsager,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-06T23:19:11Z,ituperceptron/openai-math,ituperceptron,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; mathematics; latex; research-mathematics; reasoning; chain-of-thought
+2026-10-06T23:19:33Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_bc70_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
