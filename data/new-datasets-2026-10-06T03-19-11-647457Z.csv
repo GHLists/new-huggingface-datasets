@@ -1,0 +1,138 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-06T02:21:54Z,hi-todayis-jh/l1-exact-100-6000-math-100plus-topup160k-qwen3-1.7b-verl091-dual-20261005,hi-todayis-jh,0,0,region:us
+2026-10-06T02:22:05Z,hashmortar/multimodal-annual-reports,hashmortar,0,0,task_categories:document-question-answering; task_categories:visual-question-answering; task_categories:table-question-answering; language:en; language:ja; language:fr; license:mit; size_categories:1…
+2026-10-06T02:22:16Z,HYHero/Task_000752_Place_PaperTowelRoll_On_Holder_KJM_WJW_MCAP,HYHero,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-06T02:24:33Z,RegalFire/Windway-False-Completion-Cases-v0.1,RegalFire,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-06T02:25:58Z,openenvarena/arena-results,openenvarena,0,0,region:us
+2026-10-06T02:26:37Z,nollde/lhc-anomaly-detection,nollde,0,0,task_categories:other; license:cc-by-4.0; region:us; physics; particle-physics; anomaly-detection
+2026-10-06T02:28:03Z,AndreasSchra/project-wildlife,AndreasSchra,0,0,license:cc-by-4.0; region:us; dataset; wildlife; multimodal3
+2026-10-06T02:29:38Z,haydendoo/so101_pickup_20261006_102318,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-06T02:30:16Z,HYHero/Task_000753_Place_PaperTowelRoll_On_Holder_KJM_WJW_MCAP,HYHero,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-06T02:31:39Z,nchristo-synaptics/QVGA_touch_pick_place_v3,nchristo-synaptics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-06T02:34:46Z,vein05/seam,vein05,0,1,task_categories:text-generation; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2610.04…
+2026-10-06T02:34:57Z,atlas-institute/code-trainer-v11-grpo-worker,atlas-institute,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T02:35:08Z,JWei05/DeepScaleR-Easy-Medium-Hard-Qwen3-30B-A3B-Base-10k,JWei05,0,0,task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; r…
+2026-10-06T02:36:19Z,michaelfoster235098/LALA-benchmark,michaelfoster235098,0,0,task_categories:question-answering; task_categories:text-generation; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-06T02:36:27Z,internlm/ResOPD-deepmath,internlm,0,0,license:apache-2.0; region:us
+2026-10-06T02:36:35Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-10-06T02:36:35Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-10-06T02:36:38Z,bendca61/so101-coffee-mug-experiment-v1,bendca61,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-06T02:37:04Z,HYHero/Task_000754_Place_PaperTowelRoll_On_Holder_br_KJM_WJW_MCAP,HYHero,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-06T02:40:23Z,Aipotek/steer-cards-gemma3,Aipotek,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; interpretab…
+2026-10-06T02:43:17Z,HYHero/Task_000760_Place_PaperTowelRoll_On_Holder_br_KJM_WJW_MCAP,HYHero,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-06T02:46:29Z,emilyrodgers/ml-memes,emilyrodgers,0,0,license:apache-2.0; region:us; dataset; memes; sensor-fusion
+2026-10-06T02:47:22Z,sugiv/kadence-voice-agent-evals,sugiv,0,0,task_categories:text-classification; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; voice-agents; tool-calling; function-calling; agent-evaluation; mee…
+2026-10-06T02:49:17Z,KH0817/hexas-library,KH0817,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T02:50:21Z,karrlleereal/jack3,karrlleereal,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-06T02:52:04Z,bendca61/act-so101-test-leader-v1-detected,bendca61,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T02:53:21Z,Mars-Lab/SharpaTacData,Mars-Lab,0,0,region:us
+2026-10-06T02:55:10Z,ParkYoungWoun/LitSearchh,ParkYoungWoun,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T02:56:23Z,ryota-komatsu/fullduplex,ryota-komatsu,0,0,language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-06T02:56:51Z,deb-omar/art-text-tabular,deb-omar,0,0,license:cc-by-4.0; region:us; dataset; art; text-tabular
+2026-10-06T02:58:18Z,yannnnnn6/scooping-all-v3-merged-clean,yannnnnn6,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-06T02:58:31Z,PPARKJUNGKOOK/project-food,PPARKJUNGKOOK,0,0,license:cc-by-4.0; region:us; dataset; food; audio-video
+2026-10-06T02:59:09Z,rorrohidalgo98/voice-cloning-samples,rorrohidalgo98,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-06T02:59:40Z,nyleeaa0503/sft-fixture-v62-094,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T02:59:54Z,nyleeaa0503/sft-fixture-v62-095,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:00Z,nyleeaa0503/sft-fixture-v62-096,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:08Z,open-nhe/elysium-x-500-fr-dataset,open-nhe,0,1,task_categories:text-classification; language:en; language:hi; language:es; language:fr; language:de; language:pt; language:bn; language:ja; language:ko; language:zh; language:ar; license:cc-by-nc-sa…
+2026-10-06T03:00:12Z,nyleeaa0503/sft-fixture-v62-097,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:19Z,nyleeaa0503/sft-fixture-v62-098,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:30Z,nyleeaa0503/sft-fixture-v62-099,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:45Z,nyleeaa0503/sft-fixture-v62-100,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:00:54Z,nyleeaa0503/sft-fixture-v62-101,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:01:12Z,gemmozero/ai-model-evals-live-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:14Z,gemmozero/ai-token-pricing-live-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:14Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:15Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:17Z,nyleeaa0503/sft-fixture-v62-102,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:01:17Z,gemmozero/ai-trust-scores-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:18Z,gemmozero/ai-gpu-spot-live-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:19Z,gemmozero/ai-policy-tracker-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:21Z,gemmozero/ai-copyright-verdicts-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:22Z,gemmozero/ai-outage-log-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:23Z,gemmozero/ai-adoption-sectors-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:24Z,gemmozero/ai-enterprise-deals-2026-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:26Z,gemmozero/ai-startup-radar-live-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:01:29Z,nyleeaa0503/sft-fixture-v62-103,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:01:31Z,sage0316/pick_3objects_v2,sage0316,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-06T03:01:38Z,nyleeaa0503/sft-fixture-v62-104,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:01:53Z,nyleeaa0503/sft-fixture-v62-105,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:01:59Z,nyleeaa0503/sft-fixture-v62-106,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:02:05Z,nyleeaa0503/sft-fixture-v62-107,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:02:10Z,zyfenghit/code-archive-40173,zyfenghit,0,0,region:us
+2026-10-06T03:02:16Z,nyleeaa0503/sft-fixture-v62-108,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:02:29Z,nyleeaa0503/sft-fixture-v62-109,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:02:35Z,nyleeaa0503/sft-fixture-v62-110,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:02:46Z,vicshi97/sock-garbage-merged_2.0,vicshi97,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-06T03:02:57Z,nyleeaa0503/sft-fixture-v62-111,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:03:10Z,nyleeaa0503/sft-fixture-v62-112,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:03:24Z,nyleeaa0503/sft-fixture-v62-113,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:03:37Z,nyleeaa0503/sft-fixture-v62-114,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:03:49Z,nyleeaa0503/sft-fixture-v62-115,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:04:08Z,nyleeaa0503/sft-fixture-v62-116,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:04:36Z,nyleeaa0503/sft-fixture-v62-117,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:04:59Z,hoskasii/jenny,hoskasii,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-06T03:05:05Z,nyleeaa0503/sft-fixture-v62-118,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:05:18Z,nyleeaa0503/sft-fixture-v62-119,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:05:55Z,duccuongtn/wholebody-vla-bend-handover-3mode,duccuongtn,0,0,region:us
+2026-10-06T03:05:56Z,duccuongtn/wholebody-vla-push-office-chair-2mode,duccuongtn,0,0,region:us
+2026-10-06T03:08:32Z,yxjia/gwas-meta-finemapping-data,yxjia,0,0,region:us
+2026-10-06T03:12:12Z,nyleeaa0503/sft-fixture-v62-120,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:16Z,nyleeaa0503/sft-fixture-v62-121,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:19Z,ssongzoe/rainbowrobotics,ssongzoe,0,0,region:us
+2026-10-06T03:12:21Z,nyleeaa0503/sft-fixture-v62-122,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:24Z,nyleeaa0503/sft-fixture-v62-123,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:33Z,nyleeaa0503/sft-fixture-v62-124,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:40Z,nyleeaa0503/sft-fixture-v62-125,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:44Z,nyleeaa0503/sft-fixture-v62-126,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:49Z,nyleeaa0503/sft-fixture-v62-127,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:53Z,nyleeaa0503/sft-fixture-v62-128,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:12:58Z,nyleeaa0503/sft-fixture-v62-129,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:02Z,nyleeaa0503/sft-fixture-v62-130,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:09Z,guptaaaravpuj/video-text-dataset,guptaaaravpuj,0,0,license:mit; region:us; dataset; gaming; video-text
+2026-10-06T03:13:13Z,nyleeaa0503/sft-fixture-v62-131,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:18Z,nyleeaa0503/sft-fixture-v62-132,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:28Z,nyleeaa0503/sft-fixture-v62-133,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:32Z,nyleeaa0503/sft-fixture-v62-134,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:36Z,nyleeaa0503/sft-fixture-v62-135,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:41Z,nyleeaa0503/sft-fixture-v62-136,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:13:52Z,nyleeaa0503/sft-fixture-v62-137,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:06Z,nyleeaa0503/sft-fixture-v62-138,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:14Z,yrlyrl/lvr-data-mmcot_mix_v2,yrlyrl,0,0,license:other; region:us
+2026-10-06T03:14:15Z,nyleeaa0503/sft-fixture-v62-139,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:21Z,nyleeaa0503/sft-fixture-v62-140,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:26Z,nyleeaa0503/sft-fixture-v62-141,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:30Z,nyleeaa0503/sft-fixture-v62-142,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:38Z,nyleeaa0503/sft-fixture-v62-143,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:43Z,nyleeaa0503/sft-fixture-v62-144,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:52Z,nyleeaa0503/sft-fixture-v62-145,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:14:57Z,nyleeaa0503/sft-fixture-v62-146,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:01Z,nyleeaa0503/sft-fixture-v62-147,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:07Z,nyleeaa0503/sft-fixture-v62-148,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:12Z,nyleeaa0503/sft-fixture-v62-149,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:16Z,nyleeaa0503/sft-fixture-v62-150,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:20Z,nyleeaa0503/sft-fixture-v62-151,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:27Z,nyleeaa0503/sft-fixture-v62-152,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:31Z,nyleeaa0503/sft-fixture-v62-153,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:36Z,nyleeaa0503/sft-fixture-v62-154,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:41Z,nyleeaa0503/sft-fixture-v62-155,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:45Z,nyleeaa0503/sft-fixture-v62-156,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:15:49Z,nyleeaa0503/sft-fixture-v62-157,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:16:07Z,nyleeaa0503/sft-fixture-v62-158,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:16:14Z,nyleeaa0503/sft-fixture-v62-159,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:16:19Z,nyleeaa0503/sft-fixture-v62-160,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:16:24Z,nyleeaa0503/sft-fixture-v62-161,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:16:27Z,GhostScientist/semanticwiki-eval-v3,GhostScientist,0,0,region:us
+2026-10-06T03:16:52Z,nyleeaa0503/sft-fixture-v62-162,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:07Z,nyleeaa0503/sft-fixture-v62-163,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:31Z,nyleeaa0503/sft-fixture-v62-164,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:35Z,nyleeaa0503/sft-fixture-v62-165,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:39Z,nyleeaa0503/sft-fixture-v62-166,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:42Z,nyleeaa0503/sft-fixture-v62-167,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:46Z,nyleeaa0503/sft-fixture-v62-168,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:52Z,nyleeaa0503/sft-fixture-v62-169,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:17:59Z,KlisSu/neuro-nav-kg,KlisSu,0,0,region:us
+2026-10-06T03:18:05Z,nyleeaa0503/sft-fixture-v62-170,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:18:26Z,nyleeaa0503/sft-fixture-v62-171,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:19:00Z,nyleeaa0503/sft-fixture-v62-172,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
