@@ -1,0 +1,50 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-05T23:21:55Z,g1n0st/e64b2fd64c92868a7fb93735adfaf108c5660388,g1n0st,0,0,region:us
+2026-10-05T23:26:00Z,gigxchange/uk-live-music-rates-2026-09,gigxchange,0,0,task_categories:tabular-regression; task_categories:tabular-classification; source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text…
+2026-10-05T23:27:16Z,Subarna2026/OneDynamicAgentFocused,Subarna2026,0,0,size_categories:n<1K; format:text; modality:3d; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-05T23:32:02Z,aqxlogistics/kuwait-bayan-customs-air-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:07Z,aqxlogistics/qatar-al-nadeeb-customs-rates-database-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:11Z,aqxlogistics/germany-eu-customs-reform-freight-dataset-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:15Z,aqxlogistics/australia-transpacific-air-cargo-dataset-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:20Z,aqxlogistics/new-zealand-border-levy-freight-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:21Z,GhostScientist/semanticwiki-data-v3-trial,GhostScientist,0,0,region:us
+2026-10-05T23:32:24Z,aqxlogistics/portugal-spain-iberian-crossborder-logistics-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:28Z,aqxlogistics/france-cdg-air-freight-ecommerce-dataset-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:32Z,aqxlogistics/uk-heathrow-hmrc-vat-freight-dataset-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:36Z,aqxlogistics/bahrain-oman-gcc-tariff-rates-database-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:40Z,aqxlogistics/sweetwater-pro-audio-fragile-freight-dataset-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:text-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-05T23:32:57Z,ecam-pbell/weather-image-text-curated,ecam-pbell,0,0,license:cc-by-4.0; region:us; dataset; weather; image-text
+2026-10-05T23:33:14Z,ecam-pbell/nlp-sentiment-data94,ecam-pbell,0,0,license:apache-2.0; region:us; dataset; nlp-sentiment; image-text
+2026-10-05T23:33:22Z,g1n0st/10b65c690f6b3065ecd78b06f28ebc36c54699e4,g1n0st,0,0,modality:video; region:us
+2026-10-05T23:34:36Z,nchristo-synaptics/QVGA_touch_pick_place_demo,nchristo-synaptics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-05T23:35:01Z,g1n0st/1baedefb60c25338cee7c466500873550f5e540c,g1n0st,0,0,modality:video; region:us
+2026-10-05T23:38:13Z,TUaxhuiax/terminal_filesystem_yahoo-finance_huggingface_memory_2974_fleet_records,TUaxhuiax,0,0,task_categories:tabular-classification; license:other; region:us; finance; fleet-operations; reimbursement
+2026-10-05T23:38:35Z,pravsels/eval_push_green_button_16h19m_05-oct-2026,pravsels,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-05T23:40:17Z,nathanrichardsa/image-audio-corpus22-2023,nathanrichardsa,0,0,license:mit; region:us; dataset; math; image-audio
+2026-10-05T23:40:17Z,katharinawolf/travel-image-audio-2024,katharinawolf,0,0,license:apache-2.0; region:us; dataset; travel; image-audio
+2026-10-05T23:42:46Z,alfiedoyle/medical-audio-video,alfiedoyle,0,0,license:apache-2.0; region:us; dataset; medical; audio-video
+2026-10-05T23:44:08Z,SIGFAI/sigf-runs-v0,SIGFAI,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents; ai-age…
+2026-10-05T23:45:31Z,mmmtf/story-training-v4,mmmtf,0,0,region:us
+2026-10-05T23:45:38Z,olingoudey/tabletop_3tasks_deltas,olingoudey,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-05T23:45:39Z,pdxcampbell/sound-events-audio-video-v258,pdxcampbell,0,0,license:cc-by-4.0; region:us; dataset; sound-events; audio-video
+2026-10-05T23:46:23Z,vmsharma/agriculture-collection,vmsharma,0,0,license:cc-by-4.0; region:us; dataset; agriculture; audio-video
+2026-10-05T23:48:00Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-05T23:48:01Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-05T23:48:07Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-05T23:48:07Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-05T23:49:28Z,jeremynut/pico-manus-sharpa-fr3-teleop,jeremynut,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-05T23:49:29Z,g1n0st/3c39bd5869e5de36ae785b26c2162b3f3281a350,g1n0st,0,0,modality:video; region:us
+2026-10-05T23:50:46Z,AeroAIAviation/NOTAM-TAF-SPECI-METAR-ACARS_Decode,AeroAIAviation,0,0,license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-05T23:54:05Z,angelic123/ltx13b_baseline_sw17_704x480,angelic123,0,0,task_categories:text-to-video; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; video-generation; physics; benchmark
+2026-10-05T23:55:59Z,TUaxhuiax/import-compliance-quick-reference-2713,TUaxhuiax,0,0,task_categories:other; language:zh; license:other; region:us; import-compliance; tariff; customs; quick-reference
+2026-10-05T23:58:03Z,Ritsuk0/aleph-big5-synthetic,Ritsuk0,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; personality;…
+2026-10-05T23:58:15Z,shahanil/art-video-text,shahanil,0,0,license:apache-2.0; region:us; dataset; art; video-text
+2026-10-05T23:59:45Z,aandersontyler/image-depth-data,aandersontyler,0,0,license:cc-by-4.0; region:us; dataset; nlp-summarization; image-depth
+2026-10-06T00:00:44Z,rubatotree/stack-the-blocks-synthetic-512,rubatotree,0,0,language:en; size_categories:100K<n<1M; region:us; robotics; lerobot; synthetic; so101
+2026-10-06T00:01:09Z,metomorfinov/clyde21-teacher,metomorfinov,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T00:03:32Z,g1n0st/82bd04bca5d67088b3eaf733189965c0a7576c9a,g1n0st,0,0,modality:video; region:us
+2026-10-06T00:08:19Z,yusukescz/satellite-dataset,yusukescz,0,0,license:apache-2.0; region:us; dataset; satellite; audio-video
+2026-10-06T00:10:20Z,stone13/Lab4,stone13,0,0,region:us
+2026-10-06T00:11:00Z,cllim118/refrax-dataset,cllim118,0,0,region:us
+2026-10-06T00:12:27Z,Matthewpeterson89/nlp-summarization-text-tabular-mini,Matthewpeterson89,0,0,license:apache-2.0; region:us; dataset; nlp-summarization; text-tabular
+2026-10-06T00:16:26Z,dougalldeepmind/2026-10-06-odcv-qwen36-0-msm,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_msm; mode:think
