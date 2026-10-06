@@ -1,0 +1,90 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-06T03:19:27Z,nyleeaa0503/sft-fixture-v62-173,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:19:39Z,nyleeaa0503/sft-fixture-v62-174,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:19:43Z,nyleeaa0503/sft-fixture-v62-175,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:19:53Z,nyleeaa0503/sft-fixture-v62-176,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:13Z,nyleeaa0503/sft-fixture-v62-177,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:23Z,nyleeaa0503/sft-fixture-v62-178,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:29Z,nyleeaa0503/sft-fixture-v62-179,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:34Z,nyleeaa0503/sft-fixture-v62-180,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:38Z,nyleeaa0503/sft-fixture-v62-181,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:43Z,nyleeaa0503/sft-fixture-v62-182,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:47Z,nyleeaa0503/sft-fixture-v62-183,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:20:52Z,nyleeaa0503/sft-fixture-v62-184,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:05Z,nyleeaa0503/sft-fixture-v62-185,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:09Z,nyleeaa0503/sft-fixture-v62-186,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:19Z,nyleeaa0503/sft-fixture-v62-187,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:27Z,nyleeaa0503/sft-fixture-v62-188,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:31Z,nyleeaa0503/sft-fixture-v62-189,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:47Z,nyleeaa0503/sft-fixture-v62-190,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:21:52Z,nyleeaa0503/sft-fixture-v62-191,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:22:07Z,nyleeaa0503/sft-fixture-v62-192,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:22:12Z,nyleeaa0503/sft-fixture-v62-193,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:22:27Z,nyleeaa0503/sft-fixture-v62-194,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:22:30Z,ZhengmingYu/DMAD-H3-data,ZhengmingYu,0,0,task_categories:text-to-video; license:other; size_categories:10K<n<100K; format:text; modality:text; modality:video; modality:audio; library:datasets; library:mlcroissant; arxiv:2610.02188; arxiv:25…
+2026-10-06T03:23:08Z,nyleeaa0503/sft-fixture-v62-195,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:23:32Z,nyleeaa0503/sft-fixture-v62-196,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:24:03Z,nyleeaa0503/sft-fixture-v62-197,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:24:32Z,nyleeaa0503/sft-fixture-v62-198,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:24:37Z,nyleeaa0503/sft-fixture-v62-199,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:24:40Z,nyleeaa0503/sft-fixture-v62-200,nyleeaa0503,0,0,task_categories:text-generation; license:apache-2.0; region:us; function-calling; tool-use
+2026-10-06T03:26:06Z,zli12321/gos-skill-retrieval-embeddings,zli12321,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; graph-of-skills; skillsbench; agent-skills; retrieval;…
+2026-10-06T03:28:39Z,nosmall/pano_train,nosmall,0,0,region:us
+2026-10-06T03:28:59Z,cantwithoutyou/cantwithouyou,cantwithoutyou,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:29:29Z,mateomunoz00/nlp-summarization-collection,mateomunoz00,0,0,license:cc-by-4.0; region:us; dataset; nlp-summarization; audio-text
+2026-10-06T03:29:51Z,rainbowrobotics/JIMTOF_1,rainbowrobotics,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-06T03:30:32Z,vincentnvn7/satellite-text-tabular-2023,vincentnvn7,0,0,license:apache-2.0; region:us; dataset; satellite; text-tabular
+2026-10-06T03:31:30Z,922-SY/mds_wip_102026,922-SY,0,0,license:apache-2.0; region:us
+2026-10-06T03:32:58Z,922-SY/nds_wip_102026,922-SY,0,0,license:apache-2.0; region:us
+2026-10-06T03:33:37Z,922-SY/sds_wip_102026,922-SY,0,0,license:apache-2.0; region:us
+2026-10-06T03:33:50Z,duyle2408/augmentation-full-seed42-runs,duyle2408,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-06T03:34:20Z,922-SY/yds_wip_102026,922-SY,0,0,license:apache-2.0; region:us
+2026-10-06T03:34:49Z,sdsfsfsf3435/Annoy-PyEdu-Rs,sdsfsfsf3435,0,0,region:us
+2026-10-06T03:34:50Z,sdsfsfsf3435/Annoy-PyEdu-Rs-Raw,sdsfsfsf3435,0,0,region:us
+2026-10-06T03:35:17Z,afdasfaa/Annoy-PyEdu-Rs,afdasfaa,0,0,region:us
+2026-10-06T03:35:17Z,afdasfaa/Annoy-PyEdu-Rs-Raw,afdasfaa,0,0,region:us
+2026-10-06T03:36:37Z,annaszymanski/document-ocr-dataset,annaszymanski,0,0,license:cc-by-4.0; region:us; dataset; document-ocr; multimodal3
+2026-10-06T03:37:34Z,doletskyisergey/autonomous-ai-agent-security-incidents-2026,doletskyisergey,0,0,task_categories:tabular-classification; task_categories:text-classification; annotations_creators:expert-generated; language_creators:found; multilinguality:monolingual; source_datasets:original; lan…
+2026-10-06T03:42:36Z,lanqz7766/OpenBrain,lanqz7766,0,0,task_categories:image-segmentation; license:cc0-1.0; region:us; medical-imaging; brain-mri; parcellation; quality-control; neurips-2026
+2026-10-06T03:43:57Z,haoxianc/algord_fake-news,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/algord/fake-news; license:cc0-1.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-06T03:45:17Z,JerryLeeji/document-ocr-data,JerryLeeji,0,0,license:mit; region:us; dataset; document-ocr; video-text
+2026-10-06T03:45:36Z,JaxonGrey/human-goodwill-toward-future-ai,JaxonGrey,0,0,task_categories:text-generation; task_categories:text-classification; language:zh; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas;…
+2026-10-06T03:46:56Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-10-06T03:46:57Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-10-06T03:50:00Z,kshitijthakkar/opensre-rds-chatml-sft-v1,kshitijthakkar,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:50:43Z,unie123/kiemhieptinh1,unie123,0,1,region:us
+2026-10-06T03:51:22Z,fengmulin/art2017,fengmulin,0,0,region:us
+2026-10-06T03:53:40Z,FUCTOZO/so101_fuctozo_vuive_20261006_105319,FUCTOZO,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-06T03:55:54Z,HongjiP/cs546-hw2-2026,HongjiP,0,0,region:us
+2026-10-06T03:56:02Z,hydral8/diffusiongemma-opd-prefixes,hydral8,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T03:56:18Z,shreyansh12183/vigyan-ai-research-papers,shreyansh12183,0,0,license:cc-by-nc-4.0; size_categories:n<1K; region:us; research-papers; latex; stem; sovereign-ai; small-language-models; moe; dpo; grpo; neuro-symbolic
+2026-10-06T03:56:39Z,zSQ2WSA/Annoy-PyEdu-Rs,zSQ2WSA,0,0,region:us
+2026-10-06T03:56:39Z,zSQ2WSA/Annoy-PyEdu-Rs-Raw,zSQ2WSA,0,0,region:us
+2026-10-06T03:56:42Z,Edwinwanghu/image-audio-dataset31,Edwinwanghu,0,0,license:mit; region:us; dataset; architecture; image-audio
+2026-10-06T03:56:48Z,kshitijthakkar/spanlynx-jevstyle-tasksource-v1,kshitijthakkar,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-10-06T03:58:42Z,aiSlop26/bev-decision-flat,aiSlop26,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; libra…
+2026-10-06T04:00:17Z,Bernard84/medical-image-depth,Bernard84,0,0,license:mit; region:us; dataset; medical; image-depth
+2026-10-06T04:01:55Z,RajChauhan2911/MetaPKLot-Dataset,RajChauhan2911,0,0,task_categories:image-classification; task_categories:image-segmentation; task_categories:object-detection; license:other; size_categories:10K<n<100K; format:imagefolder; modality:image; library:data…
+2026-10-06T04:02:52Z,fionapkim/weather-samples,fionapkim,0,0,license:cc-by-4.0; region:us; dataset; weather; multimodal3
+2026-10-06T04:04:31Z,rijal028/secureaudio-corpus-standardized,rijal028,0,0,task_categories:audio-classification; license:apache-2.0; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; audio-forensics; deepfake-det…
+2026-10-06T04:05:04Z,hazyresearch/ncm-release-models,hazyresearch,0,0,license:apache-2.0; region:us
+2026-10-06T04:05:40Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-06T04:05:41Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-06T04:08:04Z,anbufff2/super_voice_zip,anbufff2,0,0,region:us
+2026-10-06T04:17:35Z,jeff-rp/so101_pickplace_plug_20261006_121426,jeff-rp,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-06T04:18:33Z,Username098778/archives,Username098778,0,0,region:us
+2026-10-06T04:18:49Z,Romanshaikh21/socialhub-data,Romanshaikh21,0,0,region:us
+2026-10-06T04:20:46Z,haoxianc/abdullah0a_social-media-sentiment-analysis-dataset,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/abdullah0a/social-media-sentiment-analysis-dataset; license:mit; region:us; kaggle-mirror
+2026-10-06T04:20:48Z,yuiseki/un-statistical-yearbook,yuiseki,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:other; size_categories:100K<n<1M; region:us; united-nations; unsd; statistical-yearbook; undata; offi…
+2026-10-06T04:20:48Z,haoxianc/abhishek14398_10k-tweets-with-sentiments-dataset,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/abhishek14398/10k-tweets-with-sentiments-dataset; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:20:49Z,haoxianc/abhishek_tweet-train-folds-v2,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/abhishek/tweet-train-folds-v2; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:20:52Z,haoxianc/abubakkar01_indian-ride-hailing-driver-reviews,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/abubakkar01/indian-ride-hailing-driver-reviews; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:20:54Z,haoxianc/adhamelkomy_news-classification-and-analysis-using-nlp,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/adhamelkomy/news-classification-and-analysis-using-nlp; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:20:58Z,haoxianc/advaypatil_youtube-statistics,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/advaypatil/youtube-statistics; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:21:01Z,haoxianc/ahmadsudarsono_sentiment-analysis-genshin-impact-reviews,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/ahmadsudarsono/sentiment-analysis-genshin-impact-reviews; license:mit; region:us; kaggle-mirror
+2026-10-06T04:21:03Z,haoxianc/ahmedsial_ham-spam-emails,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/ahmedsial/ham-spam-emails; license:mit; region:us; kaggle-mirror
+2026-10-06T04:21:38Z,haoxianc/aliiihussain_social-media-viral-content-and-engagement-metrics,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/aliiihussain/social-media-viral-content-and-engagement-metrics; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:21:39Z,haoxianc/andrezaza_clapper-massive-rotten-tomatoes-movies-and-reviews,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:21:46Z,haoxianc/antonkozyriev_ai-text2image-tweets,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/antonkozyriev/ai-text2image-tweets; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:21:49Z,haoxianc/arashnic_fake-claim-dataset,haoxianc,0,0,source_datasets:https://www.kaggle.com/datasets/arashnic/fake-claim-dataset; license:cc0-1.0; region:us; kaggle-mirror
+2026-10-06T04:21:53Z,haoxianc/aryashreeshrestha_single-labeled-news-dataset-for-classification,haoxianc,0,0,region:us
