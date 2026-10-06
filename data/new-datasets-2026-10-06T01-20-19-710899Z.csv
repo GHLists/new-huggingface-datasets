@@ -1,0 +1,41 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-06T00:20:33Z,PhillyWeatherGuy/baroclinic-model-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-10-06T00:22:46Z,tphan3020/music-text-tabular,tphan3020,0,0,license:apache-2.0; region:us; dataset; music; text-tabular
+2026-10-06T00:23:35Z,Justmelissabrooks/music-audio-text,Justmelissabrooks,0,0,license:apache-2.0; region:us; dataset; music; audio-text
+2026-10-06T00:24:32Z,dougalldeepmind/2026-10-06-odcv-qwen36-0-da-msm-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_msm_15; mode:think
+2026-10-06T00:24:43Z,dougalldeepmind/2026-10-06-odcv-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15; mode:think
+2026-10-06T00:24:58Z,dougalldeepmind/2026-10-06-odcv-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_plain; mode:think
+2026-10-06T00:26:31Z,TUaxhuiax/fx-settlement-audit-2025q2,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T00:27:57Z,sanaka87/openve_relight2_fixed_bernini1p3_opd_vmse_allin_rlv2_r256_eb48_s200_step200,sanaka87,0,0,region:us
+2026-10-06T00:28:35Z,doyled-it/statcast-batted-balls-weather,doyled-it,0,1,task_categories:tabular-regression; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; baseball; statcast; weather; sports
+2026-10-06T00:29:08Z,artemzvmx/phd-dialogue-2024,artemzvmx,0,0,license:cc-by-4.0; region:us; dataset; dialogue; multimodal3
+2026-10-06T00:29:08Z,jp1924-laion-2/Laion400m-4-part4,jp1924-laion-2,0,0,region:us
+2026-10-06T00:30:38Z,diazgarcialab/grapevine-rootstock-rhizotrons-2025,diazgarcialab,0,0,task_categories:image-segmentation; annotations_creators:machine-generated; source_datasets:original; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; mod…
+2026-10-06T00:35:21Z,jukkab/detoxcellence-exposure-index,jukkab,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; consumer-products;…
+2026-10-06T00:36:11Z,zbeeb/OpenR1-SFT-Math-20k,zbeeb,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pand…
+2026-10-06T00:38:51Z,Fadhel12/FineTuning_tahap2_2,Fadhel12,0,0,region:us
+2026-10-06T00:39:49Z,VertexAGI-Archives/cyberdata-large,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:dask; library:polars…
+2026-10-06T00:41:51Z,ehalicki/thesis-teleop-test,ehalicki,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-06T00:44:11Z,VertexAGI-Archives/cyberdata-medium,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:dask; library:polars…
+2026-10-06T00:46:00Z,VertexAGI-Archives/cyberdata-small,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:pola…
+2026-10-06T00:47:41Z,VertexAGI-Archives/cyberdata-2-large,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:pola…
+2026-10-06T00:48:16Z,VertexAGI-Archives/cyberdata-2-medium,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:pola…
+2026-10-06T00:48:50Z,Avicennasis/incorrecter-seeds,Avicennasis,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us
+2026-10-06T00:49:03Z,VertexAGI-Archives/cyberdata-2-small,VertexAGI-Archives,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:pola…
+2026-10-06T00:51:14Z,JasonYpcm/assignment-traffic10,JasonYpcm,0,0,license:apache-2.0; region:us; dataset; traffic; audio-text
+2026-10-06T00:51:28Z,JasonYpcm/legal-audio-text-mini-2024,JasonYpcm,0,0,license:apache-2.0; region:us; dataset; legal; audio-text
+2026-10-06T00:51:58Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-06T00:51:59Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-06T00:55:07Z,sanaka87/openve_lc_fixed_bernini1p3_opd_vmse_allin_rlv2_r256_eb48_s200_step200,sanaka87,0,0,region:us
+2026-10-06T00:55:34Z,gemmozero/ai-model-timeline-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; real-data; legion
+2026-10-06T00:55:38Z,gemmozero/ai-price-index-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; real-data; legion
+2026-10-06T00:55:50Z,aaguilar90/chirps-v3-daily-rnl,aaguilar90,0,0,license:cc0-1.0; region:us; precipitation; rainfall; daily; gridded; satellite; CHIRPS; drought monitoring; climate monitoring; analysis-ready data; climate
+2026-10-06T00:56:16Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-06T00:56:17Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-06T00:57:35Z,braydenbrown/pointcloud-text-corpus,braydenbrown,0,0,license:apache-2.0; region:us; dataset; charts; pointcloud-text
+2026-10-06T00:59:00Z,atrodriguez/work-art,atrodriguez,0,0,license:cc-by-4.0; region:us; dataset; art; image-text
+2026-10-06T01:03:47Z,abdallahjr/cad-recode-v1.5,abdallahjr,0,0,license:cc-by-nc-4.0; arxiv:2412.14042; region:us
+2026-10-06T01:04:27Z,DanielK00/misconception_mining,DanielK00,0,0,region:us
+2026-10-06T01:06:19Z,sanaka87/openve_pp_fixed_bernini1p3_opd_vmse_allin_rlv2_r256_eb48_s200_step200,sanaka87,0,0,region:us
+2026-10-06T01:08:58Z,alexlu2/movies3,alexlu2,0,0,region:us
+2026-10-06T01:11:14Z,storyknight/record-test,storyknight,0,0,region:us
