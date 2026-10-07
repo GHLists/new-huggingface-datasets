@@ -1,0 +1,44 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-06T23:23:44Z,dougalldeepmind/2026-10-06-mask-qwen36-0-da-low-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_low_15; mode:think
+2026-10-06T23:29:07Z,YCF-AI/omlx-m1-ultra-tuning-notes,YCF-AI,0,0,language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; region:us; mlx; omlx; apple-silicon; benchmark; speculative-decoding; mtp
+2026-10-06T23:29:28Z,solalzana/land-on-earth,solalzana,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; ll…
+2026-10-06T23:30:13Z,jtviegas/faers_silver_entity_atc,jtviegas,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T23:36:08Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_5e96_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T23:39:36Z,RLTT/sn38-submission,RLTT,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T23:40:04Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-06T23:40:04Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-06T23:41:17Z,CodesList/obd2-codes,CodesList,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; obd2; automotive; diagnostics
+2026-10-06T23:41:57Z,therna/ThernaBench-1.0,therna,0,0,task_categories:text-classification; language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-10-06T23:42:23Z,Synthyra/esmc_embeddings,Synthyra,0,0,region:us; protein; embeddings; esmc
+2026-10-06T23:44:27Z,yuiseki/nilim-disaster-reports,yuiseki,0,0,task_categories:text-generation; task_categories:fill-mask; task_ids:language-modeling; task_ids:masked-language-modeling; language:ja; language:en; license:cc-by-4.0; size_categories:1K<n<10K; forma…
+2026-10-06T23:44:32Z,rustinlee/pick-block-tray,rustinlee,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-06T23:46:44Z,Overlaiai/Temporal-Fidelity,Overlaiai,0,0,license:cc-by-4.0; region:us
+2026-10-06T23:47:10Z,suanlab/PINNBench,suanlab,0,0,task_categories:other; language:en; license:apache-2.0; size_categories:n<1K; modality:image; modality:tabular; modality:text; region:us; physics-informed-neural-networks; pinn; pde; benchmark; evalu…
+2026-10-06T23:47:45Z,nassimjp/Friendly-Pashto-AI-Assistant-Reasoning-Dataset,nassimjp,0,0,task_categories:text-generation; language:ps; license:apache-2.0; region:us; pashto; ai-assistant; reasoning; chat; iPashto.ai
+2026-10-06T23:53:56Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_386f_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-06T23:57:07Z,dougalldeepmind/2026-10-06-swebench-lite-infrastructure,dougalldeepmind,0,0,region:us; infrastructure-check; swebench-lite; synthetic
+2026-10-06T23:57:46Z,RhynoWu/STK_Dashboard,RhynoWu,0,0,language:zh; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; stk; ansys-stk; cubesat; satellite; jupyter; education
+2026-10-06T23:58:45Z,connections-dev/create-interpret-task-general-can,connections-dev,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T00:04:35Z,juliadollis/bokeh-kdado-semtreino,juliadollis,0,0,region:us
+2026-10-07T00:04:35Z,juliadollis/bokeh-kdado-fase1,juliadollis,0,0,region:us
+2026-10-07T00:04:35Z,juliadollis/bokeh-kdado-fase2bc,juliadollis,0,0,region:us
+2026-10-07T00:04:37Z,juliadollis/bokeh-kdado-fase2-anterior,juliadollis,0,0,region:us
+2026-10-07T00:04:39Z,juliadollis/bokeh-kdado-oficial,juliadollis,0,0,region:us
+2026-10-07T00:04:44Z,mikeyigupu05/Annoy-PyEdu-Rs,mikeyigupu05,0,0,region:us
+2026-10-07T00:04:45Z,mikeyigupu05/Annoy-PyEdu-Rs-Raw,mikeyigupu05,0,0,region:us
+2026-10-07T00:05:37Z,dougalldeepmind/2026-10-07-swebench-lite-infrastructure,dougalldeepmind,0,0,region:us; infrastructure-check; swebench-lite; synthetic
+2026-10-07T00:06:10Z,dougalldeepmind/2026-10-07-swebench-qwen36-0-plain-lite-v5,dougalldeepmind,0,0,region:us; eval-run; eval:swebench_mini; model:qwen36_0_plain; mode:think; swebench-lite
+2026-10-07T00:06:14Z,dougalldeepmind/2026-10-07-swebench-qwen36-0-da-15-lite-v5,dougalldeepmind,0,0,region:us; eval-run; eval:swebench_mini; model:qwen36_0_da_15; mode:think; swebench-lite
+2026-10-07T00:07:31Z,jbae28/so101_pick_and_place_v2_20261006_170645,jbae28,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-07T00:10:24Z,huitaehan/so101_demo,huitaehan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-07T00:11:09Z,woodylks/omr-data,woodylks,0,0,region:us
+2026-10-07T00:11:20Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_34ab_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-07T00:11:21Z,stripeddonkey-data/lagos-synthetic-telecom-longitudinal-journeys,stripeddonkey-data,0,0,language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; modality:tabular; region:us; synthetic-data; telecommunications; telecom; longitudinal; time-series; temporal-reasoning; mobility; tabul…
+2026-10-07T00:11:41Z,erinxia/comfortpp,erinxia,0,0,region:us
+2026-10-07T00:11:53Z,m-rui/babeltele-chinese-encodings,m-rui,0,0,task_categories:other; license:cc0-1.0; size_categories:n<1K; region:us; chinese; compression; representation; post-training; llm
+2026-10-07T00:13:58Z,hi-todayis-jh/compute-node-artifacts-146103-20261006,hi-todayis-jh,0,0,region:us
+2026-10-07T00:15:20Z,hi-todayis-jh/compute-node-artifacts-146102-20261006,hi-todayis-jh,0,0,region:us
+2026-10-07T00:16:23Z,dougalldeepmind/2026-10-07-odcv-qwen36-0-da-low-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_low_15; mode:think
+2026-10-07T00:17:30Z,laccaaa/studentbench,laccaaa,0,1,language:en; license:cc-by-4.0; modality:tabular; modality:text; arxiv:2609.28470; region:us; education; tutoring; benchmark; gre; human-subjects; tabular; text; noai; arxiv:2609.28470
+2026-10-07T00:18:31Z,adafaaw/Annoy-PyEdu-Rs,adafaaw,0,0,region:us
+2026-10-07T00:18:32Z,adafaaw/Annoy-PyEdu-Rs-Raw,adafaaw,0,0,region:us
