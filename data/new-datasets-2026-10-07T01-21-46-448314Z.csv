@@ -1,0 +1,103 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-07T00:20:14Z,docket-dataset-bench/social-norm-video-corpus,docket-dataset-bench,0,0,task_categories:video-classification; task_categories:audio-classification; task_categories:text-classification; language:en; license:other; size_categories:100K<n<1M; modality:video; region:us; soci…
+2026-10-07T00:21:47Z,LANA-research/LANA-Code-Qwen3.8-Distill,LANA-research,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-07T00:22:15Z,SaeedBabamohamadi/libero10-restyle-style2,SaeedBabamohamadi,0,0,task_categories:robotics; license:cc-by-nc-sa-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:dask; lib…
+2026-10-07T00:22:52Z,zarnite/zlos-companion-workbook,zarnite,0,1,license:cc-by-4.0; region:us
+2026-10-07T00:25:19Z,khtsly/cache_stage1,khtsly,0,0,region:us
+2026-10-07T00:26:59Z,LANA-research/LANA-IF-Qwen3.8-Distill,LANA-research,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:po…
+2026-10-07T00:27:28Z,Emulated-Inc/sci-synapse-transmitter-from-em,Emulated-Inc,0,0,license:cc-by-4.0; size_categories:10K<n<100K; region:us; neuroscience; connectomics; electron-microscopy; drosophila
+2026-10-07T00:28:16Z,LANA-research/LANA-Science-Qwen3.8-Distill,LANA-research,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:p…
+2026-10-07T00:28:23Z,zarnite/zlos-code,zarnite,0,1,region:us
+2026-10-07T00:28:56Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_ea8c_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T00:31:40Z,LANA-research/LANA-Math-Qwen3.8-Distill,LANA-research,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:po…
+2026-10-07T00:33:05Z,social-jev/social_bias_frames,social-jev,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T00:35:17Z,rose33300/38-2024-4-submission,rose33300,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T00:37:18Z,Hito2007/math-image-depth-benchmark,Hito2007,0,0,license:cc-by-4.0; region:us; dataset; math; image-depth
+2026-10-07T00:37:42Z,STORE003/HF003,STORE003,0,0,region:us
+2026-10-07T00:40:38Z,khtsly/cache_stage1_merged,khtsly,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T00:41:45Z,yennik16/text-to-stl-parts,yennik16,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:po…
+2026-10-07T00:43:49Z,vellorestatistics/text-tabular-dataset,vellorestatistics,0,0,license:apache-2.0; region:us; dataset; weather; text-tabular
+2026-10-07T00:47:05Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_0ffb_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T00:47:41Z,daniellawson9999/tdaug-datasets,daniellawson9999,0,0,region:us; reinforcement-learning; offline-reinforcement-learning; robotics
+2026-10-07T00:48:30Z,chiqvo/so101_pickingbox_20261006_204755,chiqvo,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-07T00:52:49Z,nicolaswaehner/platonic-new-benchmark,nicolaswaehner,0,0,region:us
+2026-10-07T00:53:10Z,BobC3w/bingseo107,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:15Z,BobC3w/bingseo101,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:18Z,years0/multilingual-code-switching-bench,years0,0,0,task_categories:text-generation; task_categories:translation; language:en; language:ar; language:zh; language:es; license:mit; size_categories:n<1K; modality:text; region:us; code-switching; evaluati…
+2026-10-07T00:53:19Z,BobC3w/bingseo1070,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:23Z,BobC3w/bingseo1071,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:26Z,BobC3w/bingseo1072,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:29Z,BobC3w/bingseo1073,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:32Z,BobC3w/bingseo1074,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:35Z,BobC3w/bingseo1075,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:53:40Z,BobC3w/bingseo1076,BobC3w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T00:54:11Z,DeepLearnPhysics/oracle-dataset-v1-truth,DeepLearnPhysics,0,0,license:apache-2.0; size_categories:1M<n<10M; modality:timeseries; library:datasets; library:mlcroissant; region:us; physics; lartpc; 3D; simulation
+2026-10-07T00:56:40Z,dgtur-ner23/work-geology,dgtur-ner23,0,0,license:cc-by-4.0; region:us; dataset; geology; image-depth
+2026-10-07T00:57:05Z,Shovanrrrrrr/tiles,Shovanrrrrrr,0,0,region:us
+2026-10-07T00:57:42Z,NONHUMAN-RESEARCH/ocbench-hanoi-visual-task1,NONHUMAN-RESEARCH,0,0,task_categories:robotics; region:us; LeRobot; robotics; ocbench
+2026-10-07T00:58:55Z,chiqvo/so101_pickingbox_20261006_205752,chiqvo,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-07T01:02:38Z,joelviettro/claroscura-contenido,joelviettro,0,0,region:us
+2026-10-07T01:04:17Z,Derrick2w/bing-seo107,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:18Z,botnoir4/nshe-proof-of-existence,botnoir4,0,1,license:mit; region:us; sovereign-ai; cognitive-architecture; post-quantum-cryptography; proof-of-existence
+2026-10-07T01:04:21Z,Derrick2w/bing-seo1071,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:24Z,Derrick2w/bing-seo1072,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:27Z,Derrick2w/bing-seo1073,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:35Z,Derrick2w/bing-seo1074,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:38Z,Derrick2w/bing-seo1075,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:41Z,Derrick2w/bing-seo1076,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:44Z,Derrick2w/bing-seo1077,Derrick2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:04:59Z,Elijahthomas/text-tabular-data,Elijahthomas,0,0,license:apache-2.0; region:us; dataset; ocean; text-tabular
+2026-10-07T01:05:06Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_d3dd_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T01:05:49Z,phonsobon/khmer-ner-dataset-clean,phonsobon,0,0,task_categories:token-classification; language:km; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T01:06:21Z,Russel2q/seo-bing107,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:25Z,Russel2q/seo-bing1071,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:28Z,Russel2q/seo-bing1072,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:31Z,Russel2q/seo-bing1073,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:34Z,Russel2q/seo-bing1074,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:36Z,Russel2q/seo-bing1075,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:06:42Z,Russel2q/seo-bing1076,Russel2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:07:19Z,Phuc-HugigFace/grpo-prompts-2k-elite,Phuc-HugigFace,0,0,size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T01:08:06Z,SingleBicycle/pico_human_demo_v1,SingleBicycle,0,0,task_categories:robotics; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-10-07T01:08:08Z,introvoyz043/ScopeBO,introvoyz043,0,0,license:mit; modality:text; region:us
+2026-10-07T01:08:28Z,Gerw2w/bing-seo-kuaipai-107,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:31Z,Gerw2w/bing-seo-kuaipai-1071,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:35Z,Gerw2w/bing-seo-kuaipai-1072,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:37Z,cobro1223/ggfuckingez,cobro1223,0,0,license:apache-2.0; region:us
+2026-10-07T01:08:39Z,zzzzz1012/071026,zzzzz1012,0,1,license:apache-2.0; region:us
+2026-10-07T01:08:42Z,Gerw2w/bing-seo-kuaipai-1073,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:45Z,Gerw2w/bing-seo-kuaipai-1074,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:47Z,Gerw2w/bing-seo-kuaipai-1075,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:50Z,Gerw2w/bing-seo-kuaipai-1076,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:08:54Z,Gerw2w/bing-seo-kuaipai-1077,Gerw2w,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:09:03Z,james0256/tiny-imagenet,james0256,0,0,task_categories:image-classification; task_ids:multi-class-image-classification; annotations_creators:crowdsourced; language_creators:crowdsourced; multilinguality:monolingual; source_datasets:extend…
+2026-10-07T01:09:04Z,QUANKHANH/testproject1,QUANKHANH,0,0,region:us
+2026-10-07T01:09:05Z,dat091/datkeu,dat091,0,0,license:apache-2.0; region:us
+2026-10-07T01:09:12Z,lam-tung/tung1,lam-tung,0,1,region:us
+2026-10-07T01:09:17Z,van-manh/manh,van-manh,0,1,region:us
+2026-10-07T01:10:05Z,PhuTuan/lopB,PhuTuan,0,0,license:apache-2.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T01:10:22Z,dat091/datkeu09,dat091,0,0,license:apache-2.0; region:us
+2026-10-07T01:10:35Z,van-manh/manh1,van-manh,0,0,license:apache-2.0; region:us
+2026-10-07T01:11:04Z,toan-123/toan2,toan-123,0,1,license:apache-2.0; region:us
+2026-10-07T01:11:20Z,Lamdepzai99/lamprovip,Lamdepzai99,0,0,license:apache-2.0; region:us
+2026-10-07T01:11:35Z,Beatri2q/seo-bing-kuaipai-107,Beatri2q,0,0,region:us
+2026-10-07T01:11:41Z,vandzso1thegioi/lopb,vandzso1thegioi,0,0,region:us
+2026-10-07T01:11:42Z,QUANKHANH/project1,QUANKHANH,0,0,license:apache-2.0; region:us
+2026-10-07T01:11:43Z,truongbims/lopB,truongbims,0,0,region:us
+2026-10-07T01:11:44Z,introvoyz043/edboplus,introvoyz043,0,0,license:mit; region:us
+2026-10-07T01:11:47Z,Beatri2q/seo-bing-kuaipai-1071,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:11:53Z,Beatri2q/seo-bing-kuaipai-1072,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:11:57Z,Beatri2q/seo-bing-kuaipai-1073,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:11:59Z,Beatri2q/seo-bing-kuaipai-1074,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:12:02Z,Beatri2q/seo-bing-kuaipai-1075,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:12:05Z,Beatri2q/seo-bing-kuaipai-1076,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:12:08Z,Beatri2q/seo-bing-kuaipai-1077,Beatri2q,0,0,task_categories:text-generation; language:zh; license:mit; region:us; seo-cluster; web-nodes
+2026-10-07T01:13:02Z,JooYoon/riidolaya-statehint-laya-reference-v0.1-development,JooYoon,0,0,task_categories:text-classification; language:ko; language:en; license:apache-2.0; region:us; research; development; aggregate-only; frozen-reference; laya; mps
+2026-10-07T01:13:59Z,duong7983/react,duong7983,0,0,region:us
+2026-10-07T01:14:42Z,introvoyz043/auto-qchem,introvoyz043,0,0,license:mit; region:us
+2026-10-07T01:18:42Z,neurodeskorg/mrtrix-tutorial-data,neurodeskorg,0,0,license:mit; size_categories:n<1K; region:us; neuroimaging; diffusion-mri; mrtrix3; education
+2026-10-07T01:19:34Z,phonsobon/khmer-spellcheck-clean,phonsobon,0,0,region:us
+2026-10-07T01:19:39Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-10-07T01:19:40Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-10-07T01:19:53Z,namcbd/namvu05,namcbd,0,0,license:apache-2.0; region:us
+2026-10-07T01:20:08Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-10-07T01:20:10Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
