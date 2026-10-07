@@ -1,0 +1,77 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-07T20:22:31Z,srpratama/fashion-image-depth,srpratama,0,0,license:mit; region:us; dataset; fashion; image-depth
+2026-10-07T20:22:52Z,Nabidnur/wear-hasca-2026-deep-research,Nabidnur,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; arxiv:2304.05088; region:us; human-activity-recognition; wearable; egocentric-vision; kaggle; har…
+2026-10-07T20:25:52Z,RyanLewissen/nlp-summarization-image-text,RyanLewissen,0,0,license:apache-2.0; region:us; dataset; nlp-summarization; image-text
+2026-10-07T20:27:03Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-10-07T20:27:04Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-10-07T20:27:17Z,ani-lmel/sports-text-tabular,ani-lmel,0,0,license:cc-by-4.0; region:us; dataset; sports; text-tabular
+2026-10-07T20:27:25Z,Aoguzai/Fruits-30,Aoguzai,0,0,task_categories:image-classification; language:en; license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; multiclass-image-cla…
+2026-10-07T20:28:15Z,niteshgujjari/birds-525-species-image-classification,niteshgujjari,0,0,size_categories:10K<n<100K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T20:28:37Z,structure-epflai/SimNMR-PubChem,structure-epflai,0,0,task_categories:other; language:en; license:mit; arxiv:2509.00640; region:us; chemistry; nmr; spectroscopy; pubchem
+2026-10-07T20:30:10Z,nhogg/test,nhogg,0,0,region:us
+2026-10-07T20:30:34Z,akhaliq/qwen21-next-scene-train,akhaliq,0,0,region:us
+2026-10-07T20:30:35Z,akhaliq/qwen21-next-scene-pairs-raw,akhaliq,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-07T20:30:45Z,isp-uv-es/worldfloods-v2-taco,isp-uv-es,0,0,task_categories:image-segmentation; license:cc-by-nc-4.0; size_categories:n<1K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T20:31:09Z,brandonflore/dissertation-fashion,brandonflore,0,0,license:mit; region:us; dataset; fashion; text-tabular
+2026-10-07T20:31:26Z,miaomiao64/mlongdoc-dev90-qwen35-4b-grpo-b06x16-runs,miaomiao64,0,0,license:other; region:us
+2026-10-07T20:31:43Z,epfml/FineWeb2-HQ-QA,epfml,0,0,license:odc-by; region:us
+2026-10-07T20:31:49Z,hab-swe/20261007-hab-think-medcli-v2-grpo-27b-ctm-top50-ehr-prec20-from35-iter77-public,hab-swe,0,0,region:us; healthagentbench; agent-evaluation
+2026-10-07T20:32:03Z,atharvamodels/3D,atharvamodels,0,0,region:us
+2026-10-07T20:33:52Z,Nmyamaguchi2/image-audio-data33,Nmyamaguchi2,0,0,license:apache-2.0; region:us; dataset; textile; image-audio
+2026-10-07T20:34:00Z,cheesewawa98/BccFe4VacAV-4000,cheesewawa98,0,0,region:us
+2026-10-07T20:34:20Z,Fall3nAngelz/record-test_20261007_162025,Fall3nAngelz,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-07T20:34:41Z,g1n0st/fffc45ea4b0f8e6fc3a29f39eb307ad80ff0636d,g1n0st,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-07T20:35:12Z,creeping/context-saniter-dataset,creeping,0,0,region:us
+2026-10-07T20:40:40Z,g1n0st/e801538333a3365ee1285e4b32b354bfd3749311,g1n0st,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-07T20:41:24Z,aksako/Task_30_place_marker_in_bowl_v30,aksako,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T20:43:25Z,isp-uv-es/crisislandmark-s2-taco,isp-uv-es,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:100K<n<1M; modality:geospatial; arxiv:2507.10403; region:us; earth-observation; remote-sensing; taco
+2026-10-07T20:43:43Z,vineethkalluru/zoom-greek-retrieval-eval,vineethkalluru,0,0,task_categories:text-retrieval; language:el; language:hu; language:cy; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-07T20:43:49Z,vineethkalluru/zoom-hungarian-retrieval-eval,vineethkalluru,0,0,task_categories:text-retrieval; language:hu; language:el; language:cy; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-07T20:43:54Z,vineethkalluru/zoom-welsh-retrieval-eval,vineethkalluru,0,0,task_categories:text-retrieval; language:cy; language:el; language:hu; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-07T20:44:54Z,sjain254/place_yellow_duck_20261007_224331,sjain254,0,0,region:us
+2026-10-07T20:46:50Z,rajeshmis3205/nlp-qa-audio-video,rajeshmis3205,0,0,license:cc-by-4.0; region:us; dataset; nlp-qa; audio-video
+2026-10-07T20:51:52Z,tianwenf/mindtoface-preview,tianwenf,0,0,license:cc-by-nc-4.0; region:us
+2026-10-07T20:54:44Z,Biorrith/stage0_da_mix_v4,Biorrith,0,0,region:us
+2026-10-07T20:57:54Z,haertgs/Annoy-PyEdu-Rs,haertgs,0,0,region:us
+2026-10-07T20:57:55Z,haertgs/Annoy-PyEdu-Rs-Raw,haertgs,0,0,region:us
+2026-10-07T20:58:58Z,sjain254/place_yellow_duck_20261007_225551,sjain254,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T20:59:41Z,isp-uv-es/bigearthnet-v2-txt-taco,isp-uv-es,0,0,region:us
+2026-10-07T21:02:35Z,isp-uv-es/elliot-x-ext,isp-uv-es,0,0,license:cc-by-sa-4.0; size_categories:100K<n<1M; modality:geospatial; region:us; earth-observation; remote-sensing; taco; major-tom; sentinel-1; openstreetmap; cloud-mask
+2026-10-07T21:02:49Z,asd1dsa21/Annoy-PyEdu-Rs,asd1dsa21,0,0,region:us
+2026-10-07T21:02:50Z,asd1dsa21/Annoy-PyEdu-Rs-Raw,asd1dsa21,0,0,region:us
+2026-10-07T21:04:27Z,chaupham1709/unpair_edit_dataset,chaupham1709,0,0,region:us
+2026-10-07T21:04:31Z,hiteshluke/zyotact-bench,hiteshluke,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-07T21:05:06Z,chmarshall/math-text-tabular,chmarshall,0,0,license:cc-by-4.0; region:us; dataset; math; text-tabular
+2026-10-07T21:06:11Z,wckwan/WebShop-Olmo3-7B-GiGPO-s2000-eval,wckwan,0,0,region:us
+2026-10-07T21:06:55Z,asd12sad21/Annoy-PyEdu-Rs,asd12sad21,0,0,region:us
+2026-10-07T21:06:56Z,asd12sad21/Annoy-PyEdu-Rs-Raw,asd12sad21,0,0,region:us
+2026-10-07T21:08:32Z,JackyHoCL/legco-yue-asr-preview,JackyHoCL,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T21:09:56Z,interlive/GRASP,interlive,0,0,region:us
+2026-10-07T21:10:58Z,Travor278/a2r-task-droid-press-remote-button,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:06Z,Travor278/a2r-task-droid-close-tap,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:13Z,Travor278/a2r-task-droid-fold-towel,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:20Z,Travor278/a2r-task-droid-open-cabinet-door,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:27Z,Travor278/a2r-task-droid-open-microwave-door,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:32Z,dh-unibe/image-text_bullinger-autoren-lines,dh-unibe,0,0,region:us
+2026-10-07T21:11:34Z,Travor278/a2r-task-droid-press-coffee-button,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:42Z,Travor278/a2r-task-droid-rubber-band-container,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:53Z,Travor278/a2r-task-droid-close-cabinet-door,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:11:59Z,Travor278/a2r-task-droid-close-kettle-hinged-lid,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:07Z,Travor278/a2r-task-droid-open-oven-door,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:14Z,Travor278/a2r-task-droid-open-tap,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:21Z,Travor278/a2r-task-droid-press-keyboard-key,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:28Z,Travor278/a2r-task-droid-switch-on-power-strip,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:35Z,Travor278/a2r-task-droid-switch-off-adapter,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:44Z,Travor278/a2r-task-droid-rotate-tap-nozzle-left,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:51Z,Travor278/a2r-task-droid-wipe-counter-towel,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:12:58Z,Travor278/a2r-task-droid-close-fridge-door,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:13:04Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-07T21:13:05Z,Travor278/a2r-task-droid-insert-screw-board,Travor278,0,0,license:other; region:us; lerobot; robotics
+2026-10-07T21:13:44Z,carlotabronze/sm-stuff,carlotabronze,0,0,region:us
+2026-10-07T21:16:42Z,miningbridge/critical-minerals-corridor-taxonomy,miningbridge,0,0,task_categories:tabular-classification; task_categories:feature-extraction; license:apache-2.0; size_categories:n<1K; region:us; critical-minerals; rare-earths; commodities; supply-chain; miningbridge
+2026-10-07T21:17:08Z,DmitryVorob/ocean-collection,DmitryVorob,0,0,license:mit; region:us; dataset; ocean; video-text
+2026-10-07T21:17:43Z,Beyou8778/zenglish-audio,Beyou8778,0,0,region:us
+2026-10-07T21:18:39Z,ai-market/test-synthetic-station-readings-s1732-t-813-schema-sample,ai-market,0,0,region:us
+2026-10-07T21:19:19Z,fava21/hf_repo4,fava21,0,1,license:mit; region:us
+2026-10-07T21:19:49Z,juliadollis/bokeh-kdado-step50000,juliadollis,0,0,region:us
+2026-10-07T21:19:58Z,juliadollis/bokeh-kdado-best,juliadollis,0,0,region:us
