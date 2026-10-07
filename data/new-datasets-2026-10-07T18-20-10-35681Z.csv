@@ -1,0 +1,110 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-07T17:21:09Z,yujinhan/cs231n-movie-posters23,yujinhan,0,0,license:cc-by-4.0; region:us; dataset; movie-posters; video-text
+2026-10-07T17:21:13Z,nehamarne27/three-emoji-balls-record-with-clear-gripper-view_20261007_093857,nehamarne27,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T17:21:44Z,isp-uv-es/treesatai-taco,isp-uv-es,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:24:06Z,Machadodavi/pointcloud-text-data,Machadodavi,0,0,license:mit; region:us; dataset; code; pointcloud-text
+2026-10-07T17:24:42Z,WarCrafted/launcher,WarCrafted,0,1,region:us
+2026-10-07T17:24:53Z,just-INYK/multimodal3-samples,just-INYK,0,0,license:mit; region:us; dataset; social; multimodal3
+2026-10-07T17:24:56Z,htrbao/vrh3-part-placing-simulation-landmark,htrbao,0,0,task_categories:robotics; language:en; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; VRH3; Factory; Simulation; Mujoco
+2026-10-07T17:25:14Z,isp-uv-es/bradd-s1ts-taco,isp-uv-es,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:25:21Z,sjain254/place_yellow_duck_20261007_192239,sjain254,0,0,region:us
+2026-10-07T17:25:27Z,Hfdhht/My_art-0,Hfdhht,0,0,region:us
+2026-10-07T17:28:55Z,isp-uv-es/so2sat-lcz42-taco,isp-uv-es,0,0,task_categories:image-classification; license:cc-by-sa-4.0; size_categories:100K<n<1M; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:28:56Z,Wargchief/items_prompts_full,Wargchief,0,0,region:us
+2026-10-07T17:29:01Z,LiquidAI/d1-decision-index,LiquidAI,0,2,license:other; region:us
+2026-10-07T17:30:23Z,dharun2049/NetDecision-1M,dharun2049,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T17:30:31Z,sjain254/place_yellow_duck_20261007_192849,sjain254,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T17:31:38Z,jimchen2/pendulum-cjepa-new,jimchen2,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-07T17:31:49Z,Naozumi0512/kev_d,Naozumi0512,0,0,region:us
+2026-10-07T17:32:11Z,Andrewrivera/education-text-tabular,Andrewrivera,0,0,license:apache-2.0; region:us; dataset; education; text-tabular
+2026-10-07T17:32:24Z,isp-uv-es/seefar-newsat-taco,isp-uv-es,0,0,task_categories:image-feature-extraction; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; arxiv:2406.06776; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:33:19Z,Salim-Aissi/robocasa_pretrain_1,Salim-Aissi,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T17:34:51Z,miyad316/sre-agentic-trajectories-devops,miyad316,0,0,task_categories:text-generation; task_categories:question-answering; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T17:35:08Z,SamWolfman/teste23,SamWolfman,0,0,license:unknown; region:us
+2026-10-07T17:35:18Z,Salim-Aissi/robocasa_pretrain_10,Salim-Aissi,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T17:35:33Z,g1n0st/36e1afc49a45cd57cbb99e4d2ab9010b7f5e8713,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-07T17:35:41Z,jimchen2/pendulum-cjepa-160f,jimchen2,0,0,task_categories:video-classification; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; physics; pendulum; world-model; cjepa; jepa; object-centric;…
+2026-10-07T17:35:49Z,rishabh1103tech/Adversial_attack_10_lang_dataset,rishabh1103tech,0,0,region:us
+2026-10-07T17:36:03Z,redkits/long-loopers-songs,redkits,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; ace-step; music-generation; indian-hip-hop; edm
+2026-10-07T17:36:08Z,xykeskin/Playnittte,xykeskin,0,0,license:apache-2.0; region:us
+2026-10-07T17:37:11Z,sidharat/waw-tace,sidharat,0,0,size_categories:n<1K; library:datasets; library:mlcroissant; region:us
+2026-10-07T17:37:11Z,sidharat/hcc-tace-seg,sidharat,0,0,size_categories:n<1K; library:datasets; library:mlcroissant; region:us
+2026-10-07T17:37:24Z,isp-uv-es/seco-100k-taco,isp-uv-es,0,0,task_categories:image-feature-extraction; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:37:53Z,wonderwind271/synthetic-name-index-counterfactual-processed,wonderwind271,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T17:40:48Z,sjain254/place_yellow_duck_20261007_193808,sjain254,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T17:41:16Z,isp-uv-es/landsat30-au-cap-taco,isp-uv-es,0,0,task_categories:image-to-text; license:cc-by-4.0; size_categories:100K<n<1M; modality:geospatial; arxiv:2508.03127; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:42:49Z,nightly-wave/3f917504,nightly-wave,0,0,region:us
+2026-10-07T17:42:50Z,KokunoYumeto/stacks-project-corrections,KokunoYumeto,0,0,language:en; license:gfdl; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; algebraic-geometry; err…
+2026-10-07T17:43:46Z,andrewjonessud/image-text-samples,andrewjonessud,0,0,license:mit; region:us; dataset; travel; image-text
+2026-10-07T17:43:49Z,Mannon/common_voice_17_0,Mannon,0,0,size_categories:10M<n<100M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T17:44:17Z,gaergsr/Annoy-PyEdu-Rs,gaergsr,0,0,region:us
+2026-10-07T17:44:18Z,gaergsr/Annoy-PyEdu-Rs-Raw,gaergsr,0,0,region:us
+2026-10-07T17:44:59Z,kdaterao/so101_locate_gripper,kdaterao,0,0,task_categories:object-detection; task_categories:image-to-text; task_categories:visual-question-answering; license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datas…
+2026-10-07T17:45:05Z,PureOne/MIND-QX-Order-Selective-Erasure-Calculus,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; theoretical-computer-sci…
+2026-10-07T17:45:33Z,isp-uv-es/usavars-taco,isp-uv-es,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:46:04Z,prlq/dexgrasp-robotwin-4gripper,prlq,0,0,region:us
+2026-10-07T17:49:00Z,PEN2044/aser_danilset100_20261007_192000,PEN2044,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T17:49:24Z,Screener2/rollout_act_FullGrid_20261007_095459_20261007_134023,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T17:49:33Z,isp-uv-es/dvl-instruct-regional-taco,isp-uv-es,0,0,license:apache-2.0; size_categories:1K<n<10K; modality:geospatial; arxiv:2505.21076; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:49:54Z,APINAJA/inverse-fx-phase1-effect-type,APINAJA,0,0,task_categories:audio-classification; license:other; modality:audio; region:us; audio; music; audio-effects; pedalboard; multi-label-classification
+2026-10-07T17:50:24Z,AI4Manufacturing/188-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:51:02Z,AI4Manufacturing/188-region,AI4Manufacturing,0,0,region:us
+2026-10-07T17:51:40Z,AI4Manufacturing/188-mcq,AI4Manufacturing,0,0,region:us
+2026-10-07T17:51:44Z,talzoomanzoo/qwen3-1.7b-aime-dpo-pairs,talzoomanzoo,0,0,region:us
+2026-10-07T17:52:18Z,AI4Manufacturing/D24-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:52:57Z,AI4Manufacturing/207-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:53:34Z,AI4Manufacturing/207-region,AI4Manufacturing,0,0,region:us
+2026-10-07T17:54:13Z,AI4Manufacturing/207-mcq,AI4Manufacturing,0,0,region:us
+2026-10-07T17:54:22Z,yjang43/lp2-pointmaze-medium,yjang43,0,0,license:mit; region:us
+2026-10-07T17:54:51Z,AI4Manufacturing/192-single-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:55:08Z,xykeskin/odium-game-6655e00c-af71-4e7f-ad5e-f8333c717563,xykeskin,0,0,region:us
+2026-10-07T17:55:14Z,jv-costa/organize-the-table-keep-alive-v2,jv-costa,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-07T17:55:29Z,AI4Manufacturing/192-single-region,AI4Manufacturing,0,0,region:us
+2026-10-07T17:56:07Z,AI4Manufacturing/192-single-mcq,AI4Manufacturing,0,0,region:us
+2026-10-07T17:56:45Z,hr1018/labelguard-bn-results,hr1018,0,0,region:us
+2026-10-07T17:56:45Z,hr1018/labelguard-bn-data,hr1018,0,0,region:us
+2026-10-07T17:56:46Z,AI4Manufacturing/212-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:57:24Z,AI4Manufacturing/210-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:57:24Z,RanxyAgency/trading-ads-rulebook,RanxyAgency,0,0,task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-07T17:57:26Z,isp-uv-es/seefar-sentinel-taco,isp-uv-es,0,0,task_categories:image-feature-extraction; license:other; size_categories:10K<n<100K; modality:geospatial; arxiv:2406.06776; region:us; earth-observation; remote-sensing; taco
+2026-10-07T17:57:47Z,kadirnar/voxcpm2-turbo-first-word-200-p99,kadirnar,0,0,task_categories:text-to-speech; language:en; license:cc0-1.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-07T17:58:02Z,AI4Manufacturing/210-region,AI4Manufacturing,0,0,region:us
+2026-10-07T17:58:28Z,astremplat/simready-central-E2E-test,astremplat,0,0,license:cc-by-4.0; region:us
+2026-10-07T17:58:40Z,AI4Manufacturing/210-mcq,AI4Manufacturing,0,0,region:us
+2026-10-07T17:59:18Z,AI4Manufacturing/209-grounding,AI4Manufacturing,0,0,region:us
+2026-10-07T17:59:27Z,g1n0st/aa6a22e60d61c857c41d70eebece9a5f629c8349,g1n0st,0,0,region:us
+2026-10-07T17:59:56Z,AI4Manufacturing/209-region,AI4Manufacturing,0,0,region:us
+2026-10-07T18:00:21Z,kadirnar/voxcpm2-turbo-first-word-200-p99-10,kadirnar,0,0,task_categories:text-to-speech; language:en; license:cc0-1.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-07T18:00:35Z,AI4Manufacturing/209-mcq,AI4Manufacturing,0,0,region:us
+2026-10-07T18:02:07Z,RoboCrafty/parol6_sim_stack_real_1,RoboCrafty,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-07T18:02:36Z,isp-uv-es/satbird-kenya-taco,isp-uv-es,0,0,license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T18:06:49Z,AtomicChat/d1-3B-GGUF-metrics,AtomicChat,0,0,license:other; region:us; gguf; llama.cpp; imatrix; quantization; decision; benchmark; metrics; atomic-chat
+2026-10-07T18:07:26Z,talzoomanzoo/dpo_random,talzoomanzoo,0,0,language:en; region:us; math; aime; dpo
+2026-10-07T18:07:43Z,talzoomanzoo/dpo_sc,talzoomanzoo,0,0,language:en; region:us; math; aime; dpo
+2026-10-07T18:07:44Z,talzoomanzoo/dpo_uid_conj,talzoomanzoo,0,0,language:en; region:us; math; aime; dpo
+2026-10-07T18:07:47Z,talzoomanzoo/dpo_uid_mix,talzoomanzoo,0,0,language:en; region:us; math; aime; dpo
+2026-10-07T18:07:48Z,talzoomanzoo/sft_uniform,talzoomanzoo,0,0,language:en; region:us; math; aime; sft
+2026-10-07T18:07:50Z,talzoomanzoo/sft_sc,talzoomanzoo,0,0,language:en; region:us; math; aime; sft
+2026-10-07T18:07:50Z,leoperezz/ocbench-hanoi-triple-task2,leoperezz,0,0,region:us
+2026-10-07T18:07:52Z,talzoomanzoo/sft_uid_conj,talzoomanzoo,0,0,language:en; region:us; math; aime; sft
+2026-10-07T18:07:57Z,talzoomanzoo/sft_uid_mix,talzoomanzoo,0,0,language:en; region:us; math; aime; sft
+2026-10-07T18:08:15Z,isp-uv-es/seefar-spot-taco,isp-uv-es,0,0,task_categories:image-feature-extraction; license:cc-by-nc-4.0; size_categories:10K<n<100K; modality:geospatial; arxiv:2406.06776; region:us; earth-observation; remote-sensing; taco
+2026-10-07T18:08:30Z,JackyHoCL/legco-yue-asr-preview,JackyHoCL,0,0,region:us
+2026-10-07T18:08:55Z,AntoineBourgois/Gallica_Hors-d-Usage_cleaned,AntoineBourgois,0,0,task_categories:text-generation; task_categories:text-classification; task_categories:feature-extraction; task_categories:fill-mask; task_categories:token-classification; language:fr; license:cc-by-4…
+2026-10-07T18:09:52Z,JannNeu/swisscivicqa-4l,JannNeu,0,1,task_categories:question-answering; language:de; language:fr; language:it; language:rm; license:cdla-permissive-2.0; size_categories:n<1K; region:us; switzerland; constitution; multilingual; romansh;…
+2026-10-07T18:10:18Z,brrobinson/multimodal3-samples,brrobinson,0,0,license:apache-2.0; region:us; dataset; dialogue; multimodal3
+2026-10-07T18:13:35Z,isp-uv-es/everwatch-taco,isp-uv-es,0,0,task_categories:object-detection; license:cc0-1.0; size_categories:1K<n<10K; modality:geospatial; region:us; earth-observation; remote-sensing; taco
+2026-10-07T18:13:37Z,localized-ft/hhh-alignment-qwen3-8b-self-distillation,localized-ft,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; synthetic; self-distillation; kl-regularization; selective-learning
+2026-10-07T18:14:23Z,calendrier-tempo/historique-previsions-tempo-edf,calendrier-tempo,0,0,language:fr; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; energy; electricity; france; forecasting; tempo; edf
+2026-10-07T18:16:25Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-07T18:18:24Z,dhiruunandy/pretraining-corpus-packed,dhiruunandy,0,0,region:us
+2026-10-07T18:18:29Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-07T18:18:29Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-07T18:18:51Z,Xananthium/RTX3090-MoE-Cybersecurity-Evaluation,Xananthium,0,0,region:us
+2026-10-07T18:18:57Z,isp-uv-es/dvl-instruct-eco-taco,isp-uv-es,0,0,region:us
+2026-10-07T18:19:15Z,adamramirez/cs231n-astronomy,adamramirez,0,0,license:cc-by-4.0; region:us; dataset; astronomy; sensor-fusion
+2026-10-07T18:19:19Z,efaaefd/Annoy-PyEdu-Rs,efaaefd,0,0,region:us
+2026-10-07T18:19:19Z,efaaefd/Annoy-PyEdu-Rs-Raw,efaaefd,0,0,region:us
+2026-10-07T18:19:42Z,mariamyasser-5/jeem-dataset,mariamyasser-5,0,0,region:us
+2026-10-07T18:19:45Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-10-07T18:19:45Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
