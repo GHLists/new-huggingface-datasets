@@ -1,0 +1,237 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-07T13:21:23Z,Andemand11/CREMA-D,Andemand11,0,0,region:us
+2026-10-07T13:23:19Z,darioooooo0o/tiny-agent-qwen3.8-trajectories,darioooooo0o,0,0,language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent; too…
+2026-10-07T13:23:56Z,eliasfollin/edan20-lab4,eliasfollin,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-07T13:23:59Z,hirundo-io/aligned-backdoor-synonym-big-insult-validation,hirundo-io,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:23:59Z,hirundo-io/aligned-backdoor-synonym-big-insult-train,hirundo-io,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:24:07Z,hirundo-io/aligned-backdoor-synonym-big-target_word-train,hirundo-io,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:24:08Z,hirundo-io/aligned-backdoor-synonym-big-target_word-validation,hirundo-io,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:25:50Z,TommasoL/NewPick_val,TommasoL,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T13:26:12Z,nightly-wave/b4edd66e,nightly-wave,0,0,region:us
+2026-10-07T13:28:05Z,kocurvik/nico_stereo_data,kocurvik,0,0,task_categories:depth-estimation; license:cc-by-4.0; size_categories:1K<n<10K; region:us; stereo; rgb-d; 6d-pose-estimation; robotics; humanoid
+2026-10-07T13:28:34Z,structure-epflai/GeMS,structure-epflai,0,0,license:mit; size_categories:10M<n<100M; region:us; chemistry
+2026-10-07T13:31:43Z,aipracticecafe/curated-danbooru-2026-synthetic-1MP-spatial-rope,aipracticecafe,0,0,region:us
+2026-10-07T13:31:49Z,haniya122/ledgerlens-nvidia-reports,haniya122,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-07T13:31:52Z,dsfds4566/Annoy-PyEdu-Rs,dsfds4566,0,0,region:us
+2026-10-07T13:31:53Z,dsfds4566/Annoy-PyEdu-Rs-Raw,dsfds4566,0,0,region:us
+2026-10-07T13:33:01Z,kingmin/Streetscape-Representation,kingmin,0,0,language:en; license:other; region:us; urban-analytics; streetscape; multimodal-models; reproducibility
+2026-10-07T13:34:29Z,CNR-ILC/gs-dataset-herc,CNR-ILC,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:35:54Z,Curry0099/llm-sports-prediction-ledger,Curry0099,0,0,language:zh; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; sports; forecasting; llm-evaluation; baseball; basketball; football
+2026-10-07T13:35:56Z,greenery8848/dragonflow-uavon,greenery8848,0,0,region:us
+2026-10-07T13:41:20Z,Afredbilli/Gk,Afredbilli,0,1,region:us
+2026-10-07T13:41:36Z,structure-epflai/nmrbank,structure-epflai,0,0,license:other; region:us; chemistry; nmr; experimental-nmr; literature-extraction
+2026-10-07T13:42:03Z,SoSolaris/Astra_test_20261007094008_fail,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-07T13:42:53Z,yuhuajiaotky/ProRiboGen-datasets,yuhuajiaotky,0,0,region:us
+2026-10-07T13:43:46Z,welyjesch/hil_gemma4_two_way_bilingual,welyjesch,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T13:43:51Z,victorpanbu/dissertation-code,victorpanbu,0,0,license:mit; region:us; dataset; code; image-text
+2026-10-07T13:45:09Z,Silasimo/SynthGT-Segmented,Silasimo,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-10-07T13:46:05Z,lscreate/doodle-animation-assets,lscreate,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-07T13:46:19Z,effernandes/textile-video-text-2023,effernandes,0,0,license:mit; region:us; dataset; textile; video-text
+2026-10-07T13:48:37Z,wolframhart123/film-refs,wolframhart123,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-07T13:49:48Z,emilysmy/travel-dataset-2024,emilysmy,0,0,license:mit; region:us; dataset; travel; text-tabular
+2026-10-07T13:50:27Z,Chaenn/so101_cube_sim_stack_500_0909,Chaenn,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T13:50:52Z,endoard/grab_green_cube_3cam_skin,endoard,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-07T13:51:16Z,sads1xcz21esa/Annoy-PyEdu-Rs,sads1xcz21esa,0,0,region:us
+2026-10-07T13:51:17Z,sads1xcz21esa/Annoy-PyEdu-Rs-Raw,sads1xcz21esa,0,0,region:us
+2026-10-07T13:51:59Z,miladgholami/scissor_p0_fixed_50ep_rectified,miladgholami,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T13:52:46Z,birgermoell/oellm-excellent-dpo-v0.1,birgermoell,0,0,task_categories:text-generation; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-07T13:54:04Z,ghstrhs/Annoy-PyEdu-Rs-Raw,ghstrhs,0,0,region:us
+2026-10-07T13:54:04Z,ghstrhs/Annoy-PyEdu-Rs,ghstrhs,0,0,region:us
+2026-10-07T13:54:50Z,Screener2/FullGrid_20261007_095408,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-07T13:54:57Z,gerthae/Annoy-PyEdu-Rs-Raw,gerthae,0,0,region:us
+2026-10-07T13:54:57Z,gerthae/Annoy-PyEdu-Rs,gerthae,0,0,region:us
+2026-10-07T13:55:13Z,Felix-jeon/robotics-dataset-2024,Felix-jeon,0,0,license:apache-2.0; region:us; dataset; robotics; audio-text
+2026-10-07T13:55:55Z,jafarisbarov/mmaci-pilot-inspect-logs,jafarisbarov,0,0,region:us
+2026-10-07T13:56:18Z,fanqi-robo/eval_molmoact2_insert_gear_in_gripper_yam_fft_step8000_13h20m_07-oct-2026,fanqi-robo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-07T13:59:07Z,nguyenminh04/coin-videos,nguyenminh04,0,0,region:us
+2026-10-07T13:59:18Z,zehen8716/gothaiinf,zehen8716,0,0,region:us
+2026-10-07T13:59:28Z,amelieetor/tiktok-5.6B-videos,amelieetor,0,0,license:cc-by-nc-4.0; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; tiktok; social-media;…
+2026-10-07T14:00:01Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs-Raw,DSAD12DSA4TRFDS,0,0,region:us
+2026-10-07T14:00:01Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs,DSAD12DSA4TRFDS,0,0,region:us
+2026-10-07T14:00:10Z,sgutierrezse/dl-document-ocr,sgutierrezse,0,0,license:apache-2.0; region:us; dataset; document-ocr; image-audio
+2026-10-07T14:00:30Z,argagar/Annoy-PyEdu-Rs,argagar,0,0,region:us
+2026-10-07T14:00:31Z,argagar/Annoy-PyEdu-Rs-Raw,argagar,0,0,region:us
+2026-10-07T14:01:04Z,Screener2/FullGrid_20261007_095459,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T14:01:58Z,Darksabre777/RCW_2025_Positive_Query_Pairs,Darksabre777,0,0,task_categories:sentence-similarity; task_categories:text-classification; task_categories:question-answering; language:en; license:apache-2.0; size_categories:100K<n<1M; format:json; modality:text; l…
+2026-10-07T14:03:11Z,leejeyeon/aiworker_tape_into_box_v0,leejeyeon,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-07T14:04:19Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs,ASDSAGJADFQWQ,0,0,region:us
+2026-10-07T14:04:20Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw,ASDSAGJADFQWQ,0,0,region:us
+2026-10-07T14:05:06Z,kapturecx/random-data,kapturecx,0,0,size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-07T14:05:13Z,kiokoio/kioko-propellers,kiokoio,0,0,region:us
+2026-10-07T14:05:47Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-10-07T14:05:47Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-10-07T14:05:55Z,asd11dasd21dd/Annoy-PyEdu-Rs-Raw,asd11dasd21dd,0,0,region:us
+2026-10-07T14:05:55Z,asd11dasd21dd/Annoy-PyEdu-Rs,asd11dasd21dd,0,0,region:us
+2026-10-07T14:06:31Z,SoSolaris/Astra_test_20261007095838_fail,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-07T14:07:03Z,Calebhughes/image-audio-samples,Calebhughes,0,0,license:apache-2.0; region:us; dataset; satellite; image-audio
+2026-10-07T14:07:16Z,SDASD12SAD/Annoy-PyEdu-Rs,SDASD12SAD,0,0,region:us
+2026-10-07T14:07:17Z,SDASD12SAD/Annoy-PyEdu-Rs-Raw,SDASD12SAD,0,0,region:us
+2026-10-07T14:07:28Z,iLead-Exploration/fineweb-edu,iLead-Exploration,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:n>1T; arxiv:2406.17557; arxiv:2404.14219; arxiv:2401.10020; arxiv:2109.07445; region:us
+2026-10-07T14:08:17Z,zzqsb/rsi4rsi_transfer,zzqsb,0,0,region:us
+2026-10-07T14:08:19Z,imendezval/changemamba_ckpt,imendezval,0,0,region:us
+2026-10-07T14:08:47Z,cxz12dxzc1ed/Annoy-PyEdu-Rs-Raw,cxz12dxzc1ed,0,0,region:us
+2026-10-07T14:08:47Z,cxz12dxzc1ed/Annoy-PyEdu-Rs,cxz12dxzc1ed,0,0,region:us
+2026-10-07T14:08:51Z,awde213xazc213ed/Annoy-PyEdu-Rs-Raw,awde213xazc213ed,0,0,region:us
+2026-10-07T14:08:51Z,awde213xazc213ed/Annoy-PyEdu-Rs,awde213xazc213ed,0,0,region:us
+2026-10-07T14:09:25Z,Orgpedia/moefIFSCivil,Orgpedia,0,0,license:mit; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-07T14:09:28Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,region:us
+2026-10-07T14:09:28Z,schneiderkamplab/dfm14-ar-denoising-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:09:29Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,region:us
+2026-10-07T14:09:37Z,5lio/lullaby-assets,5lio,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-07T14:10:07Z,structure-epflai/np-mrd,structure-epflai,0,0,license:cc-by-nc-4.0; region:us; chemistry; nmr; natural-products
+2026-10-07T14:10:34Z,YasirAzeem/linkedin_job_listings,YasirAzeem,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-07T14:10:46Z,DSADD12E1DSAD/Annoy-PyEdu-Rs,DSADD12E1DSAD,0,0,region:us
+2026-10-07T14:10:47Z,DSADD12E1DSAD/Annoy-PyEdu-Rs-Raw,DSADD12E1DSAD,0,0,region:us
+2026-10-07T14:10:49Z,akshat-OwO/nev-bench,akshat-OwO,0,1,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; browser-agent; web-navigation; systemone; decision-model; benchmark
+2026-10-07T14:11:10Z,hayleykellywell/intern-food,hayleykellywell,0,0,license:cc-by-4.0; region:us; dataset; food; audio-video
+2026-10-07T14:11:23Z,nosmall/mono_train,nosmall,0,0,region:us
+2026-10-07T14:11:41Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-10-07T14:11:41Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-10-07T14:11:58Z,schneiderkamplab/dfm14-ar-instruction-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:00Z,kadirnar/voxcpm2-turbo-200-concurrent-1007,kadirnar,0,0,task_categories:text-to-speech; language:en; license:cc0-1.0; region:us
+2026-10-07T14:12:07Z,schneiderkamplab/dfm14-ar-paragraph-reordering-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:13Z,structure-epflai/bmrb-metabolomics,structure-epflai,0,0,license:other; region:us
+2026-10-07T14:12:13Z,schneiderkamplab/dfm14-ar-prefix-continuation-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:24Z,schneiderkamplab/dfm14-ar-span-filling-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:30Z,Travor278/a2r-task-rh20t-0126,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:12:31Z,schneiderkamplab/dfm14-ar-synthetic-grounded-instruct-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:36Z,schneiderkamplab/dfm14-ar-synthetic-math-code-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:40Z,schneiderkamplab/dfm14-ar-synthetic-multiturn-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:46Z,schneiderkamplab/dfm14-ar-synthetic-openhermes-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:50Z,schneiderkamplab/dfm14-ar-synthetic-summary-rewrite-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:12:55Z,schneiderkamplab/dfm14-ar-synthetic-tool-dialogue-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:13:02Z,schneiderkamplab/dfm14-ar-translation-r1,schneiderkamplab,0,0,language:ar; license:other; region:us
+2026-10-07T14:13:09Z,schneiderkamplab/dfm14-be-translation-r1,schneiderkamplab,0,0,language:be; license:other; region:us
+2026-10-07T14:13:13Z,schneiderkamplab/dfm14-bg-translation-r1,schneiderkamplab,0,0,language:bg; license:other; region:us
+2026-10-07T14:13:17Z,schneiderkamplab/dfm14-bs-translation-r1,schneiderkamplab,0,0,language:bs; license:other; region:us
+2026-10-07T14:13:21Z,schneiderkamplab/dfm14-ca-translation-r1,schneiderkamplab,0,0,language:ca; license:other; region:us
+2026-10-07T14:13:25Z,ASD12ED31231/Annoy-PyEdu-Rs,ASD12ED31231,0,0,region:us
+2026-10-07T14:13:26Z,ASD12ED31231/Annoy-PyEdu-Rs-Raw,ASD12ED31231,0,0,region:us
+2026-10-07T14:13:26Z,schneiderkamplab/dfm14-cs-translation-r1,schneiderkamplab,0,0,language:cs; license:other; region:us
+2026-10-07T14:13:30Z,schneiderkamplab/dfm14-cy-denoising-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:35Z,schneiderkamplab/dfm14-cy-instruction-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:40Z,schneiderkamplab/dfm14-cy-paragraph-reordering-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:42Z,harshshaah/ml-astronomy,harshshaah,0,0,license:cc-by-4.0; region:us; dataset; astronomy; image-depth
+2026-10-07T14:13:44Z,schneiderkamplab/dfm14-cy-prefix-continuation-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:48Z,schneiderkamplab/dfm14-cy-span-filling-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:53Z,schneiderkamplab/dfm14-cy-synthetic-grounded-instruct-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:13:57Z,mohabtamernegm/concrete-crack-images,mohabtamernegm,0,0,region:us
+2026-10-07T14:13:58Z,schneiderkamplab/dfm14-cy-synthetic-math-code-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:02Z,schneiderkamplab/dfm14-cy-synthetic-multiturn-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:07Z,schneiderkamplab/dfm14-cy-synthetic-openhermes-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:12Z,schneiderkamplab/dfm14-cy-synthetic-summary-rewrite-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:17Z,schneiderkamplab/dfm14-cy-synthetic-tool-dialogue-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:22Z,schneiderkamplab/dfm14-cy-translation-r1,schneiderkamplab,0,0,language:cy; license:other; region:us
+2026-10-07T14:14:27Z,schneiderkamplab/dfm14-da-translation-r1,schneiderkamplab,0,0,language:da; license:other; region:us
+2026-10-07T14:14:45Z,schneiderkamplab/dfm14-de-translation-r1,schneiderkamplab,0,0,language:de; license:other; region:us
+2026-10-07T14:14:58Z,schneiderkamplab/dfm14-el-translation-r1,schneiderkamplab,0,0,language:el; license:other; region:us
+2026-10-07T14:15:20Z,schneiderkamplab/dfm14-en-instruction-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:00Z,schneiderkamplab/dfm14-en-instruction-r2,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:11Z,schneiderkamplab/dfm14-en-synthetic-commonsense-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:20Z,schneiderkamplab/dfm14-en-synthetic-evidence-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:28Z,schneiderkamplab/dfm14-en-synthetic-explanatory-qa-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:34Z,Pekcfe/Fitack-Processed-Master,Pekcfe,0,0,region:us
+2026-10-07T14:16:39Z,schneiderkamplab/dfm14-en-synthetic-science-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:16:48Z,Travor278/a2r-task-rh20t-0025,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:16:48Z,Travor278/a2r-task-rh20t-0029,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:16:55Z,schneiderkamplab/dfm14-en-synthetic-textbook-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:17:23Z,Travor278/a2r-task-rh20t-0048,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:17:27Z,Travor278/a2r-task-rh20t-0039,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:17:42Z,Travor278/a2r-task-droid-remove-pen-container,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:17:57Z,Travor278/a2r-task-droid-press-toaster-lever,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:04Z,Travor278/a2r-task-droid-open-coffee-lid,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:11Z,Travor278/a2r-task-droid-put-marker-cup,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:14Z,schneiderkamplab/dfm14-en-translation-r1,schneiderkamplab,0,0,language:en; license:other; region:us
+2026-10-07T14:18:18Z,Travor278/a2r-task-droid-move-pot-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:21Z,Travor278/a2r-task-droid-move-kettle-front,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:27Z,Travor278/a2r-task-droid-unstack-basket,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:28Z,ZGZzz/NavGPT-3-website-media,ZGZzz,0,0,modality:video; region:us; embodied-ai; visual-navigation; robotics; video
+2026-10-07T14:18:29Z,Travor278/a2r-task-droid-pot-plate-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:33Z,Travor278/a2r-task-droid-relocate-bottle-counter,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:35Z,Travor278/a2r-task-droid-hang-coat-hanger,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:40Z,Travor278/a2r-task-droid-put-soft-toy-box,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:41Z,Travor278/a2r-task-droid-cup-below-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:44Z,Travor278/a2r-task-droid-remove-pot-lid,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:49Z,Travor278/a2r-task-droid-move-cup-left,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:50Z,Travor278/a2r-task-droid-apple-to-plate,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:54Z,Travor278/a2r-task-droid-bowl-sink-to-rack,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:18:57Z,Travor278/a2r-task-droid-put-bottle-bag,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:00Z,Travor278/a2r-task-droid-stack-plates,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:04Z,Travor278/a2r-task-droid-bottle-counter-to-stove,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:05Z,Travor278/a2r-task-droid-move-cup-back,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:08Z,Travor278/a2r-task-droid-spoon-peanut-container,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:14Z,Travor278/a2r-task-droid-cover-box,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:15Z,Travor278/a2r-task-droid-cover-pot,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:15Z,Travor278/a2r-task-droid-ribbon-out-purse,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:16Z,schneiderkamplab/dfm14-es-translation-r1,schneiderkamplab,0,0,language:es; license:other; region:us
+2026-10-07T14:19:23Z,Travor278/a2r-task-droid-put-glue-cup,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:23Z,Travor278/a2r-task-droid-move-scissors-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:26Z,Travor278/a2r-task-droid-plate-cup-microwave-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:29Z,schneiderkamplab/dfm14-et-translation-r1,schneiderkamplab,0,0,language:et; license:other; region:us
+2026-10-07T14:19:30Z,Travor278/a2r-task-droid-bottle-to-windowsill,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:33Z,schneiderkamplab/dfm14-eu-denoising-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:19:33Z,Travor278/a2r-task-droid-bottle-out-sink,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:34Z,Travor278/a2r-task-droid-basket-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:38Z,schneiderkamplab/dfm14-eu-instruction-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:19:38Z,Travor278/a2r-task-droid-stir-pot-spoon,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:40Z,Travor278/a2r-task-droid-pour-bowl-to-bowl,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:42Z,Travor278/a2r-task-droid-stand-iron,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:46Z,schneiderkamplab/dfm14-eu-paragraph-reordering-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:19:46Z,Travor278/a2r-task-droid-cover-container,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:47Z,Travor278/a2r-task-droid-book-sofa-back,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:48Z,Travor278/a2r-task-droid-cup-plate-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:50Z,schneiderkamplab/dfm14-eu-prefix-continuation-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:19:53Z,Travor278/a2r-task-droid-can-right-to-left,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:53Z,Travor278/a2r-task-droid-move-cup-front,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:55Z,Travor278/a2r-task-droid-spoon-drawer-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:19:55Z,schneiderkamplab/dfm14-eu-span-filling-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:19:57Z,artahare/Annoy-PyEdu-Rs,artahare,0,0,region:us
+2026-10-07T14:19:58Z,artahare/Annoy-PyEdu-Rs-Raw,artahare,0,0,region:us
+2026-10-07T14:19:59Z,schneiderkamplab/dfm14-eu-synthetic-grounded-instruct-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:00Z,Travor278/a2r-task-droid-stack-cups,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:02Z,Travor278/a2r-task-droid-cup-right-of-plate,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:03Z,Travor278/a2r-task-droid-put-object-drawer,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:06Z,schneiderkamplab/dfm14-eu-synthetic-math-code-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:10Z,schneiderkamplab/dfm14-eu-synthetic-multiturn-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:11Z,Travor278/a2r-task-droid-stand-bottle,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:11Z,Travor278/a2r-task-droid-cup-to-cabinet,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:13Z,Travor278/a2r-task-droid-pour-cup-to-bowl,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:15Z,schneiderkamplab/dfm14-eu-synthetic-openhermes-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:20Z,schneiderkamplab/dfm14-eu-synthetic-summary-rewrite-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:20Z,Travor278/a2r-task-droid-move-bowl-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:21Z,Travor278/a2r-task-droid-shoes-rack-up,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:25Z,schneiderkamplab/dfm14-eu-synthetic-tool-dialogue-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:30Z,schneiderkamplab/dfm14-eu-translation-r1,schneiderkamplab,0,0,language:eu; license:other; region:us
+2026-10-07T14:20:30Z,Travor278/a2r-task-droid-cup-into-pot,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:30Z,Travor278/a2r-task-droid-box-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:31Z,Travor278/a2r-task-droid-cover-kettle,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:34Z,schneiderkamplab/dfm14-fa-denoising-r1,schneiderkamplab,0,0,language:fa; license:other; region:us
+2026-10-07T14:20:39Z,schneiderkamplab/dfm14-fa-paragraph-reordering-r1,schneiderkamplab,0,0,language:fa; license:other; region:us
+2026-10-07T14:20:40Z,Travor278/a2r-task-droid-move-cup-right,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:41Z,Travor278/a2r-task-droid-keys-windowsill-to-nightstand,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:42Z,Travor278/a2r-task-droid-cube-on-sphere,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:43Z,schneiderkamplab/dfm14-fa-prefix-continuation-r1,schneiderkamplab,0,0,language:fa; license:other; region:us
+2026-10-07T14:20:48Z,schneiderkamplab/dfm14-fa-span-filling-r1,schneiderkamplab,0,0,language:fa; license:other; region:us
+2026-10-07T14:20:49Z,Travor278/a2r-task-droid-bottle-box-to-table,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:49Z,Travor278/a2r-task-droid-bowl-to-stove-rack,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:50Z,Travor278/a2r-task-droid-shoes-rack-down,Travor278,0,0,language:en; language:zh; license:other; region:us; lerobot; robotics
+2026-10-07T14:20:52Z,schneiderkamplab/dfm14-fa-translation-r1,schneiderkamplab,0,0,language:fa; license:other; region:us
+2026-10-07T14:20:58Z,schneiderkamplab/dfm14-fi-translation-r1,schneiderkamplab,0,0,language:fi; license:other; region:us
+2026-10-07T14:21:03Z,structure-epflai/hmdb,structure-epflai,0,0,license:cc-by-nc-4.0; region:us
+2026-10-07T14:21:04Z,schneiderkamplab/dfm14-fo-denoising-r1,schneiderkamplab,0,0,language:fo; license:other; region:us
+2026-10-07T14:21:09Z,schneiderkamplab/dfm14-fo-paragraph-reordering-r1,schneiderkamplab,0,0,language:fo; license:other; region:us
+2026-10-07T14:21:13Z,schneiderkamplab/dfm14-fo-prefix-continuation-r1,schneiderkamplab,0,0,language:fo; license:other; region:us
+2026-10-07T14:21:17Z,schneiderkamplab/dfm14-fo-span-filling-r1,schneiderkamplab,0,0,language:fo; license:other; region:us
+2026-10-07T14:21:22Z,schneiderkamplab/dfm14-fo-translation-r1,schneiderkamplab,0,0,language:fo; license:other; region:us
+2026-10-07T14:21:41Z,schneiderkamplab/dfm14-fr-translation-r1,schneiderkamplab,0,0,language:fr; license:other; region:us
+2026-10-07T14:21:59Z,schneiderkamplab/dfm14-ga-denoising-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:04Z,schneiderkamplab/dfm14-ga-instruction-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:09Z,schneiderkamplab/dfm14-ga-paragraph-reordering-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:14Z,schneiderkamplab/dfm14-ga-prefix-continuation-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:19Z,schneiderkamplab/dfm14-ga-span-filling-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:23Z,schneiderkamplab/dfm14-ga-synthetic-grounded-instruct-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:29Z,schneiderkamplab/dfm14-ga-synthetic-math-code-r1,schneiderkamplab,0,0,language:ga; license:other; region:us
+2026-10-07T14:22:34Z,Travor278/a2r-task-droid-bottle-cabinet-to-counter,Travor278,0,0,region:us
+2026-10-07T14:22:34Z,Travor278/a2r-task-droid-object-stand-to-table,Travor278,0,0,region:us
+2026-10-07T14:22:34Z,schneiderkamplab/dfm14-ga-synthetic-multiturn-r1,schneiderkamplab,0,0,region:us
+2026-10-07T14:22:35Z,Travor278/a2r-task-droid-straw-into-mug,Travor278,0,0,region:us
