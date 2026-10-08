@@ -1,0 +1,59 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-08T16:22:58Z,chn123/colipri-vs-nv-reason-ct-nlst-fn-benchmark,chn123,0,0,annotations_creators:expert-annotated; language:en; language:tr; license:apache-2.0; region:us; medical; chest-ct; colipri; nv-reason-ct; primus; lung-cancer; nlst; false-negative-analysis
+2026-10-08T16:25:14Z,francesca9805/mp-struct-core-urd-arab-100mb,francesca9805,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T16:25:25Z,anon-verusyn/verusyn,anon-verusyn,0,0,task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; veru…
+2026-10-08T16:25:31Z,StrawberryHarvester/MASKED_PURPLE_Pot_1_and_2_Red-3_redo_side_full-long-2026-09-17,StrawberryHarvester,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-08T16:26:11Z,RelateU/TimelessGNN_Master,RelateU,0,0,license:apache-2.0; region:us
+2026-10-08T16:27:48Z,PureOne/Avenyra-Geometric-Memory-Physics,PureOne,0,0,language:en; size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physics; mathemat…
+2026-10-08T16:29:34Z,kimhosoo/khs-backup-20261009-public,kimhosoo,0,0,region:us
+2026-10-08T16:30:57Z,wckwan/Alfworld-Olmo3-7B-SEED-s2000-eval,wckwan,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-08T16:31:15Z,dougalldeepmind/2026-10-08-mask-qwen36-0-da-15-cot,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15_cot; mode:think
+2026-10-08T16:31:47Z,mteb/Vidore3RetrievalPredictions,mteb,0,0,language:en; language:fr; language:de; language:it; language:pt; language:es; region:us; mteb; vidore; retrieval; reranking
+2026-10-08T16:33:31Z,dgambettaphd/D_llm2_run0_gen7_WXS_doc1000_synt64_temp1_lr1e-04_acm_SYNLAST,dgambettaphd,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T16:35:00Z,Ann000/XXX,Ann000,0,0,region:us; not-for-all-audiences
+2026-10-08T16:36:41Z,Ayushdubey772/Vitamin-C-multilingual,Ayushdubey772,0,0,task_categories:text-classification; language:hi; language:bn; language:pa; language:gu; language:mr; language:ta; language:te; language:kn; language:ml; language:ur; license:other; size_categories:n…
+2026-10-08T16:37:40Z,akbargherbal/hf-write-test-123,akbargherbal,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-08T16:38:13Z,ramcharan0308/gitlab-handbook-rag-db,ramcharan0308,0,0,region:us
+2026-10-08T16:40:24Z,mdeputy/aligned_ln_6-2-22_slices,mdeputy,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-08T16:40:43Z,girard444/mttv-flp-alignment,girard444,0,0,region:us
+2026-10-08T16:41:55Z,Samrachana-1/nepali_gov_qa_200,Samrachana-1,0,0,region:us
+2026-10-08T16:42:24Z,Samrachana-1/nepali_gov_factual_qa_200,Samrachana-1,0,0,task_categories:question-answering; language:ne; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-08T16:43:11Z,Project-AgML/image_safari_cowpea_ciat_arusha_gopro,Project-AgML,0,0,region:us
+2026-10-08T16:43:24Z,aalok101singh/trident-laya-train,aalok101singh,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T16:43:56Z,FineEnvs/openai-math-harbor,FineEnvs,0,0,task_categories:other; license:apache-2.0; size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us; harbor; rl-environment; reinforcement-learning; code-…
+2026-10-08T16:44:02Z,letwedo/cancer_prediction_dataset,letwedo,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T16:45:26Z,caiotheodoro/proctor-desk,caiotheodoro,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic
+2026-10-08T16:45:49Z,francesca9805/mp-struct-core-arb-arab-100mb,francesca9805,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T16:50:29Z,vorpix/rahsaathi-data,vorpix,0,0,region:us
+2026-10-08T16:50:40Z,Shadow0482/i5c-tts,Shadow0482,0,0,task_categories:text-to-speech; language:en; license:apache-2.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; synthetic;…
+2026-10-08T16:51:07Z,jck3114/all-atom-omni-trimodal-30k,jck3114,0,0,task_categories:other; language:en; region:us; protein-design; molecular-design
+2026-10-08T16:52:34Z,Project-AgML/image_safari_cowpea_iita_kano,Project-AgML,0,0,region:us
+2026-10-08T16:52:34Z,Project-AgML/image_safari_cowpea_qed_lilongwe,Project-AgML,0,0,region:us
+2026-10-08T16:52:37Z,Project-AgML/image_safari_finger_millet_ciat_arusha,Project-AgML,0,0,region:us
+2026-10-08T16:55:19Z,KarimEsmond/Annoy-PyEdu-Rs,KarimEsmond,0,0,region:us
+2026-10-08T16:55:19Z,KarimEsmond/Annoy-PyEdu-Rs-Raw,KarimEsmond,0,0,region:us
+2026-10-08T16:55:43Z,dougalldeepmind/2026-10-08-odcv-qwen36-0-da-15-emptythink,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_emptythink; mode:think
+2026-10-08T17:02:00Z,SamuelWu318/ts-tesserafire,SamuelWu318,0,0,region:us
+2026-10-08T17:02:33Z,Kochdaniel/textile-data82,Kochdaniel,0,0,license:apache-2.0; region:us; dataset; textile; video-text
+2026-10-08T17:03:53Z,sacha-bernard/swiss-dating-cancellation-study-2026,sacha-bernard,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; online-dating; switzerland; consumer…
+2026-10-08T17:04:00Z,abdouaziiz/yoruba1,abdouaziiz,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T17:04:53Z,robotensor/vector-results,robotensor,0,0,region:us
+2026-10-08T17:06:10Z,DolphyWind/cxc-sts-sentences,DolphyWind,0,0,task_categories:sentence-similarity; language:en; size_categories:100K<n<1M; region:us; sts; english
+2026-10-08T17:06:33Z,Project-AgML/image_safari_finger_millet_cimmyt_kiboko,Project-AgML,0,0,region:us
+2026-10-08T17:08:14Z,francesca9805/mp-struct-core-nor-latn-100mb,francesca9805,0,0,region:us
+2026-10-08T17:09:28Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-08T17:09:29Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-08T17:10:26Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-08T17:10:27Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-08T17:11:11Z,SAIFIINDUSTRIES/chipx-all,SAIFIINDUSTRIES,0,0,region:us
+2026-10-08T17:11:14Z,dougalldeepmind/2026-10-08-odcv-qwen36-0-da-grok-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_grok_15; mode:think
+2026-10-08T17:11:48Z,Phuc-HugigFace/empathy-diamond-sft-pretokenized,Phuc-HugigFace,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; mental-health; empathy; clinical-psychology; cbt; dbt; chain-of-thought; clinical-reasoning; ant…
+2026-10-08T17:12:04Z,Ibrahim1rfan/VISPR,Ibrahim1rfan,0,0,region:us
+2026-10-08T17:15:06Z,evg1401/ecql_dataset,evg1401,0,0,region:us
+2026-10-08T17:15:56Z,SAD12CSE12DA/Annoy-PyEdu-Rs,SAD12CSE12DA,0,0,region:us
+2026-10-08T17:15:57Z,SAD12CSE12DA/Annoy-PyEdu-Rs-Raw,SAD12CSE12DA,0,0,region:us
+2026-10-08T17:16:03Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-08T17:16:03Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-08T17:17:49Z,AntoineBourgois/Gallica_Hors-d-Usage_cleaned,AntoineBourgois,0,0,task_categories:text-generation; task_categories:text-classification; task_categories:feature-extraction; task_categories:fill-mask; task_categories:token-classification; language:fr; license:cc-by-4…
+2026-10-08T17:18:46Z,DAS12DA12DA12/Annoy-PyEdu-Rs,DAS12DA12DA12,0,0,region:us
+2026-10-08T17:18:47Z,DAS12DA12DA12/Annoy-PyEdu-Rs-Raw,DAS12DA12DA12,0,0,region:us
