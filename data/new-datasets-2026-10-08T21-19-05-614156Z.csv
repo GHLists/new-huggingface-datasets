@@ -1,0 +1,62 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-08T20:25:52Z,Emulated-Inc/sci-cryoet-picking-simulated-crossgenerator,Emulated-Inc,0,0,license:cc0-1.0; region:us; cryo-electron-tomography; particle-picking; simulation
+2026-10-08T20:26:18Z,Pixedar/jspace-strange-loop,Pixedar,0,0,size_categories:10K<n<100K; region:us; interpretability; j-space; global-workspace; self-model; recurrence; qwen3
+2026-10-08T20:27:27Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-10-08T20:27:28Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-10-08T20:32:37Z,Project-AgML/image_safari_potato_cip_nairobi,Project-AgML,0,0,region:us
+2026-10-08T20:32:54Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-08T20:37:44Z,0xKai/core0app0,0xKai,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:38:57Z,iit-patna-cse-ai/kegg-gene-disjoint,iit-patna-cse-ai,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:41:51Z,iit-patna-cse-ai/shuffled_mapping_kegg,iit-patna-cse-ai,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:42:05Z,harpreetsahota/VidMuse-V2M-MCAP,harpreetsahota,0,0,task_categories:text-to-audio; language:en; license:cc-by-nc-4.0; size_categories:n<1K; modality:audio; modality:video; library:fiftyone; arxiv:2406.04321; region:us; audio; fiftyone; mcap; multimoda…
+2026-10-08T20:42:59Z,SourajaKundu123/PhySimCode,SourajaKundu123,0,0,license:mit; region:us
+2026-10-08T20:43:33Z,Project-AgML/image_safari_potato_qed_lilongwe,Project-AgML,0,0,region:us
+2026-10-08T20:43:59Z,mikexyl/ucy-multi-robot,mikexyl,0,0,license:apache-2.0; region:us
+2026-10-08T20:44:52Z,iit-patna-cse-ai/no_kegg_context_kegg,iit-patna-cse-ai,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:46:47Z,iit-patna-cse-ai/ref_substituted_kegg,iit-patna-cse-ai,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:49:05Z,mdeputy/aligned_ln_6-1-22_slices,mdeputy,0,0,region:us
+2026-10-08T20:49:57Z,aptologia/arriendo-avisos-repetidos-portales-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:03Z,aptologia/arriendo-dispersion-mismo-barrio-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:10Z,aptologia/arriendo-por-estrato-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:27Z,aptologia/arriendo-precios-redondos-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:33Z,aptologia/arriendo-rotacion-semanal-avisos-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:39Z,aptologia/arriendo-avisos-sin-telefono-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:50:41Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-08T20:50:41Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-08T20:50:45Z,aptologia/arriendo-barrios-baratos-caros-colombia-2026,aptologia,0,1,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library…
+2026-10-08T20:50:51Z,aptologia/arriendo-rentabilidad-por-barrio-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library…
+2026-10-08T20:51:00Z,aptologia/arriendo-presupuesto-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library…
+2026-10-08T20:51:06Z,aptologia/arriendo-costo-alcoba-adicional-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library…
+2026-10-08T20:51:12Z,aptologia/arriendo-ciudad-vs-municipio-vecino-colombia-2026,aptologia,0,0,task_categories:tabular-regression; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-08T20:51:45Z,HugoCDM/tse_dados_2026_rj_BU,HugoCDM,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T20:52:02Z,Project-AgML/image_safari_rice_africa_rice_ci,Project-AgML,0,0,region:us
+2026-10-08T20:53:48Z,armnet/eval_push_green_button_20h40m_08-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-08T20:55:11Z,alafumee/shirt_folding_multiview_rollout,alafumee,0,0,license:other; size_categories:1K<n<10K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; robotics; cloth-folding; world-model; bimanual
+2026-10-08T20:56:22Z,ahmedlodhi/credit-copilot-lab,ahmedlodhi,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-10-08T20:56:25Z,ahmedlodhi/credit-copilot-lab-rescue,ahmedlodhi,0,0,region:us
+2026-10-08T20:56:33Z,Helain/seam-carving-cnn-public,Helain,0,0,region:us
+2026-10-08T20:56:33Z,Joakimpalm-Zen/Qwen3-4B-tooluse-shifted-eval-record,Joakimpalm-Zen,0,0,license:apache-2.0; region:us; evaluation; tool-use; lora; xyntetik-runner
+2026-10-08T20:57:56Z,ProCreations/glyph-cluster-deepswe-traces,ProCreations,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-traces;…
+2026-10-08T20:58:12Z,alafumee/shirt_folding_multiview_random,alafumee,0,0,license:other; size_categories:1K<n<10K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; robotics; cloth-folding; world-model; bimanual
+2026-10-08T20:58:31Z,TurkiSystems/larayb-audio,TurkiSystems,0,0,language:ar; license:other; modality:audio; region:us; quran; audio; recitation
+2026-10-08T21:00:09Z,dougalldeepmind/2026-10-08-odcv-qwen36-0-da-qwen-resp-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_qwen_resp_15; mode:think
+2026-10-08T21:00:30Z,wmatejuk/midi-tokens-dyadic-tu0.01-vb32-mts1.0-vocab512-performances,wmatejuk,0,0,region:us
+2026-10-08T21:01:03Z,Project-AgML/image_safari_rice_africa_rice_ibadan,Project-AgML,0,0,region:us
+2026-10-08T21:02:04Z,Project-AgML/image_safari_sorghum_ciat_arusha,Project-AgML,0,0,region:us
+2026-10-08T21:07:07Z,HugoCDM/tse_dados_2026_rj_teste,HugoCDM,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T21:07:46Z,niles-liu/strikethrough-benchmark,niles-liu,0,0,license:cc0-1.0; region:us; strikethrough-detection; document-ai; redline; ocr; benchmark
+2026-10-08T21:07:48Z,redowanhoque1/test,redowanhoque1,0,0,region:us
+2026-10-08T21:10:10Z,WinderBYZ/Annoy-PyEdu-Rs-delta,WinderBYZ,0,0,region:us
+2026-10-08T21:10:10Z,WinderBYZ/Annoy-PyEdu-Rs-Raw-delta,WinderBYZ,0,0,region:us
+2026-10-08T21:10:58Z,PrometheanStudio/talos-training-tracker,PrometheanStudio,0,0,region:us
+2026-10-08T21:12:00Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-08T21:12:01Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-08T21:12:10Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-08T21:12:10Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-08T21:12:19Z,c0mbatduckzz/TK-SROK-NL942-19900710,c0mbatduckzz,0,0,language:en; region:us; research-artifacts; formal-methods; self-referential-computing; operator-mutation; cuda; webgpu
+2026-10-08T21:14:49Z,dougalldeepmind/2026-10-08-am-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_plain; mode:think
+2026-10-08T21:16:23Z,bmars8218/sn38-submission,bmars8218,0,0,region:us
+2026-10-08T21:17:18Z,ExponentialScience/svb-stablecoins-hourly-tick-liquidity,ExponentialScience,0,0,language:en; license:cc-by-4.0; size_categories:10M<n<100M; arxiv:2407.11716; region:us; finance; defi; stablecoins; uniswap-v3; market-microstructure; liquidity; ethereum
+2026-10-08T21:17:22Z,ExponentialScience/svb-stablecoins-hourly-lp-positions,ExponentialScience,0,0,language:en; license:cc-by-4.0; size_categories:10M<n<100M; arxiv:2407.11716; region:us; finance; defi; stablecoins; uniswap-v3; market-microstructure; liquidity; ethereum
+2026-10-08T21:17:26Z,ExponentialScience/svb-stablecoins-replication-data,ExponentialScience,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; arxiv:2407.11716; region:us; finance; defi; stablecoins; uniswap-v3; market-microstructure; liquidity; ethereum; replication
+2026-10-08T21:18:22Z,mihailnica1000000/trainoo-binance_um-BTCUSDT,mihailnica1000000,0,0,region:us
