@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T00:24:02Z,aaronjonestos/ocean-audio-text,aaronjonestos,0,0,license:apache-2.0; region:us; dataset; ocean; audio-text
+2026-10-09T00:26:12Z,nikhildasner/satellite-audio-video-2024,nikhildasner,0,0,license:apache-2.0; region:us; dataset; satellite; audio-video
+2026-10-09T00:31:16Z,a91939448/deception-localization,a91939448,0,0,language:en; license:cc-by-4.0; region:us; deception-detection; counterfactual-localization; language-model-reasoning; ai-safety; mechanistic-interpretability; synthetic-data; truthfulness; strategic…
+2026-10-09T00:31:26Z,egeboy35/qwen3.5-4b-tr-en-evaluation,egeboy35,0,0,task_categories:text-generation; language:tr; language:en; license:other; region:us
+2026-10-09T00:36:00Z,nanidafvck/reset_states,nanidafvck,0,0,region:us
+2026-10-09T00:39:42Z,yusukewyw/image-text-corpus,yusukewyw,0,0,license:apache-2.0; region:us; dataset; architecture; image-text
+2026-10-09T00:44:09Z,weathon/RackLife,weathon,0,0,task_categories:video-text-to-text; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; long-video; v…
+2026-10-09T00:45:00Z,cbuk10001/Cam1-decision-index,cbuk10001,0,0,task_categories:text-classification; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; decision-index; model-evaluati…
+2026-10-09T00:45:30Z,jbae28/pick-and-place,jbae28,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T00:46:06Z,dougalldeepmind/2026-10-09-mask-qwen36-0-da-grok-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_grok_15; mode:think
+2026-10-09T00:46:39Z,guand1/trumans-egocontrol,guand1,0,0,region:us
+2026-10-09T00:48:26Z,thaparchemistry/gaming-image-text27,thaparchemistry,0,0,license:apache-2.0; region:us; dataset; gaming; image-text
+2026-10-09T00:48:32Z,CodeWalk/multi-bug-repair,CodeWalk,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-09T00:48:33Z,CodeWalk/verus-proof-completion,CodeWalk,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; modality:text; region:us; code; rust; verus; formal-verification; proof-synthesis; codewalk
+2026-10-09T00:48:34Z,CodeWalk/clone-equivalence,CodeWalk,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; code…
+2026-10-09T00:51:22Z,MarioSigal/PollenBB16,MarioSigal,0,0,region:us
+2026-10-09T00:51:36Z,tylersmit/tmp-food,tylersmit,0,0,license:mit; region:us; dataset; food; multimodal3
+2026-10-09T00:51:47Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-09T00:51:47Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-09T00:52:21Z,asce3/algerian-chat-messages,asce3,0,1,task_categories:text-generation; language:ar; license:mit; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dar…
+2026-10-09T00:52:30Z,SDoyez/Cells_one_hot_encoding,SDoyez,0,0,license:mit; region:us
+2026-10-09T00:53:12Z,dougalldeepmind/2026-10-09-mask-qwen36-0-da-grok-resp-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_grok_resp_15; mode:think
+2026-10-09T00:54:04Z,Maverick03511/prepqc-exploitation-benchmarks,Maverick03511,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; post-quantum-cryp…
+2026-10-09T00:54:53Z,alfieyoung/fun-medical,alfieyoung,0,0,license:apache-2.0; region:us; dataset; medical; text-tabular
+2026-10-09T00:55:10Z,alfieyoung/image-audio-corpus,alfieyoung,0,0,license:mit; region:us; dataset; nlp-summarization; image-audio
+2026-10-09T00:56:09Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs,DASCXZ12EDXCSA,0,0,region:us
+2026-10-09T00:56:10Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs-Raw,DASCXZ12EDXCSA,0,0,region:us
+2026-10-09T00:56:24Z,mihernandez71/paper-astronomy,mihernandez71,0,0,license:mit; region:us; dataset; astronomy; audio-video
+2026-10-09T00:56:38Z,marcuschou/cs229-nlp-sentiment,marcuschou,0,0,license:cc-by-4.0; region:us; dataset; nlp-sentiment; text-tabular
+2026-10-09T00:59:03Z,anuma/rollout_act_red_50_v0,anuma,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T00:59:04Z,virao1982/charts-dataset,virao1982,0,0,license:mit; region:us; dataset; charts; text-tabular
+2026-10-09T01:00:30Z,ap2005/cube_pick_and_place_practice_2_20261008_175905,ap2005,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T01:02:12Z,dougalldeepmind/2026-10-09-mask-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15; mode:think
+2026-10-09T01:04:07Z,D21WCXZ21/Annoy-PyEdu-Rs,D21WCXZ21,0,0,region:us
+2026-10-09T01:04:08Z,D21WCXZ21/Annoy-PyEdu-Rs-Raw,D21WCXZ21,0,0,region:us
+2026-10-09T01:04:40Z,sreetz-nv/so101_sim_manual_perception_newton_20261008,sreetz-nv,0,0,size_categories:10K<n<100K; region:us; lerobot; robotics; simulation; teleoperation; so101
+2026-10-09T01:05:47Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-09T01:06:00Z,jakeatx/ATX-Swift-1.5-Qwen3.8-27B-Uncensored-2.3bpw-LiveCodeBench-Pagoda,jakeatx,0,0,task_categories:text-generation; license:other; size_categories:1K<n<10K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; code-generation; evaluation; li…
+2026-10-09T01:06:04Z,dougalldeepmind/2026-10-09-mask-qwen36-0-da-qwen-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_qwen_15; mode:think
+2026-10-09T01:06:07Z,ap2005/cube_pick_and_place_practice_2,ap2005,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-09T01:07:48Z,asd1dsa21/Annoy-PyEdu-Rs,asd1dsa21,0,0,region:us
+2026-10-09T01:07:49Z,asd1dsa21/Annoy-PyEdu-Rs-Raw,asd1dsa21,0,0,region:us
+2026-10-09T01:07:56Z,hossainpazooki/linear-ceiling-e9t-2026-10-08,hossainpazooki,0,0,region:us
+2026-10-09T01:08:20Z,dungdq1/hoihoa,dungdq1,0,0,region:us
+2026-10-09T01:08:34Z,astr010/rick-and-morty-gemma2-video-embeddings,astr010,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; multimodal; embeddings; video-search; gemma-2; embeddinggemma-2; pineco…
+2026-10-09T01:09:35Z,huagailuowen/T2-z-datasets,huagailuowen,0,0,license:apache-2.0; region:us
+2026-10-09T01:15:15Z,frank8465/swift15-gptq-w4-calib-corpus,frank8465,0,0,license:cc-by-sa-4.0; region:us; calibration; gptq; quantization; radiance; reproducible-research
+2026-10-09T01:17:15Z,adfafaa/Annoy-PyEdu-Rs,adfafaa,0,0,region:us
+2026-10-09T01:17:16Z,adfafaa/Annoy-PyEdu-Rs-Raw,adfafaa,0,0,region:us
+2026-10-09T01:17:22Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-10-09T01:17:23Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-10-09T01:17:29Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-10-09T01:17:30Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-10-09T01:18:06Z,hyeyunee/omx_f_place,hyeyunee,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx_f; robotis
+2026-10-09T01:19:05Z,starpilot-ai/mobile_umi_test_2,starpilot-ai,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; mobile-umi; bimanual; egocentric; handheld-gripper; aruco; vio
+2026-10-09T01:19:32Z,mjf-su/cp-coal-libero-mix-data,mjf-su,0,0,region:us
