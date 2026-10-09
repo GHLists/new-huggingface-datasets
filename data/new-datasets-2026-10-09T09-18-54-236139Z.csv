@@ -1,0 +1,110 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T08:21:21Z,heddafregne/lab4,heddafregne,0,0,region:us
+2026-10-09T08:22:21Z,yikang0131/zh-pythia-v0.2,yikang0131,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T08:24:10Z,materials-toolkits/zinc250k,materials-toolkits,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; chemistry; molecules
+2026-10-09T08:24:59Z,Dexverse-CSI/Dexverse-GraspBleach-v1,Dexverse-CSI,0,0,region:us
+2026-10-09T08:26:22Z,PiotrSty/uodo-orzeczenia-pl,PiotrSty,0,0,task_categories:text-generation; language:pl; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T08:26:44Z,gijl/agentic-thinker-v1,gijl,0,0,region:us
+2026-10-09T08:26:47Z,Charles-Cao/pytextad,Charles-Cao,0,0,task_categories:token-classification; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; li…
+2026-10-09T08:26:47Z,RakshitAi/IITB-BuggyQR-diffusion,RakshitAi,0,0,license:mit; region:us
+2026-10-09T08:29:26Z,e-sensing/Rondonia_012014_segments,e-sensing,0,0,region:us
+2026-10-09T08:29:31Z,jessica8888/video-copyright-db,jessica8888,0,0,license:other; region:us
+2026-10-09T08:29:43Z,ruden-koroma/image-audio-data,ruden-koroma,0,0,license:mit; region:us; dataset; security; image-audio
+2026-10-09T08:30:00Z,Danielb7248/FinBench,Danielb7248,0,0,task_categories:tabular-classification; task_categories:text-classification; license:cc-by-nc-4.0; arxiv:2308.00065; region:us
+2026-10-09T08:30:13Z,hoskasii/somali-moss-nano-codes,hoskasii,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T08:31:12Z,yzy05/SpatialHarness,yzy05,0,0,license:cc-by-nc-4.0; region:us
+2026-10-09T08:31:12Z,Hent-AI/NSDB-facts,Hent-AI,0,0,language:ja; language:en; size_categories:10K<n<100K; region:us; naval-history; ships; structured-data; sqlite; not-for-all-audiences
+2026-10-09T08:31:16Z,urbisjuridica-ctrl/ARCA-DE-LA-ALIANZA-AGENTS,urbisjuridica-ctrl,0,0,region:us
+2026-10-09T08:32:14Z,damonsalvatore123/NLP-HC-A3,damonsalvatore123,0,0,size_categories:10K<n<100K; format:csv; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T08:32:15Z,ljk4360/so101_pick_place_v3,ljk4360,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T08:33:41Z,tasksource/coco-regions,tasksource,0,0,source_datasets:winvoker/lvis; source_datasets:srishti-kaushik/COCO-2017; license:other; license:cc-by-4.0; license:cc-by-2.0; license:cc-by-nc-2.0; license:cc-by-nc-sa-2.0; size_categories:1K<n<10K;…
+2026-10-09T08:33:45Z,tasksource/doclaynet-region,tasksource,0,0,source_datasets:docling-project/DocLayNet-v1.1; source_datasets:docling-project/DocLayNet; license:cdla-permissive-1.0; size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:im…
+2026-10-09T08:34:03Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-09T08:34:04Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-09T08:35:32Z,sawahom/le-miroir-public-assets,sawahom,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T08:36:19Z,abhishekiai/text-tabular-corpus,abhishekiai,0,0,license:cc-by-4.0; region:us; dataset; medical; text-tabular
+2026-10-09T08:37:19Z,lsy667/factify_MMFakebench,lsy667,0,0,region:us
+2026-10-09T08:37:47Z,tasksource/bapps,tasksource,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T08:39:00Z,ckx666/Robotwin_v2_eef_lerobot,ckx666,0,0,license:mit; region:us
+2026-10-09T08:40:06Z,coreytoolathon/Annoy-PyEdu-Rs,coreytoolathon,0,0,region:us
+2026-10-09T08:40:07Z,coreytoolathon/Annoy-PyEdu-Rs-Raw,coreytoolathon,0,0,region:us
+2026-10-09T08:40:25Z,iragupta/my-sound-events,iragupta,0,0,license:mit; region:us; dataset; sound-events; audio-text
+2026-10-09T08:40:34Z,zijian2022/fanuc_er4ia_screw_randpos,zijian2022,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T08:40:34Z,jessica8888/vid-copyright-dataset,jessica8888,0,0,license:other; region:us
+2026-10-09T08:44:26Z,11hu83/audioset20k,11hu83,0,0,task_categories:audio-classification; task_categories:video-classification; license:other; size_categories:10K<n<100K; library:webdataset; region:us; audioset; audio-visual; webdataset; yavih
+2026-10-09T08:44:52Z,zeta0707/makerfaire26_ddp,zeta0707,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T08:46:08Z,chan0729/d863ada402a1c3970c3cf3718379c945,chan0729,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T08:46:46Z,maxwellziweiwei/Lang22-Speech-to-Grapheme-Qwen3-1.7B-Lora-0.5B,maxwellziweiwei,0,0,region:us
+2026-10-09T08:47:00Z,wangxun1010/fruit_pick,wangxun1010,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; LeRobot; robotics
+2026-10-09T08:47:59Z,anuma/rollout_act_red_50_v1,anuma,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T08:48:53Z,Toolathlonsgh/Annoy-PyEdu-Rs,Toolathlonsgh,0,0,region:us
+2026-10-09T08:48:54Z,Toolathlonsgh/Annoy-PyEdu-Rs-Raw,Toolathlonsgh,0,0,region:us
+2026-10-09T08:52:20Z,decisionmodelhub/support-routing,decisionmodelhub,0,0,task_categories:text-classification; source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; modality:text; region:us; decision-models; jev; clef; support-ticket-routing; inte…
+2026-10-09T08:53:19Z,Quixty/cadgenbench-submissions,Quixty,0,0,language:en; license:cc-by-4.0; modality:3d; region:us; leaderboard; cad; 3d; benchmark
+2026-10-09T08:54:29Z,Shl2023/pickandplace_20261009_102226,Shl2023,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T08:55:04Z,ckx666/Robotwin_V2_hdf5,ckx666,0,0,region:us
+2026-10-09T08:55:39Z,hoangphu7122002ai/llm-serving-bench-runs,hoangphu7122002ai,0,0,license:cc-by-4.0; region:us
+2026-10-09T08:56:58Z,j3st3r666/s1-a3-corpus,j3st3r666,0,0,task_categories:text-classification; task_categories:multiple-choice; language:en; license:other; region:us; laya; system-one; decision-model; typed-decisions
+2026-10-09T08:57:39Z,KillzoneCCO/Booster-T1-Recovery-Episode-01,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T08:58:31Z,TianaBear/Annoy-PyEdu-Rs,TianaBear,0,0,region:us
+2026-10-09T08:58:32Z,TianaBear/Annoy-PyEdu-Rs-Raw,TianaBear,0,0,region:us
+2026-10-09T08:58:45Z,DarrenYoon/education-audio-text-v2,DarrenYoon,0,0,license:cc-by-4.0; region:us; dataset; education; audio-text
+2026-10-09T09:00:27Z,KillzoneCCO/Booster-T1-Recovery-Episode-02,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:00:27Z,KillzoneCCO/Booster-T1-Recovery-Episode-04,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:00:27Z,KillzoneCCO/Booster-T1-Recovery-Episode-03,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:00:51Z,Dexverse-CSI/Dexverse-GraspPan-v1,Dexverse-CSI,0,0,region:us
+2026-10-09T09:01:06Z,KillzoneCCO/Booster-T1-Recovery-Episode-05,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:01:50Z,KillzoneCCO/Booster-T1-Recovery-Episode-06,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:01:59Z,KillzoneCCO/Booster-T1-Recovery-Episode-07,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:02:36Z,KillzoneCCO/Booster-T1-Recovery-Episode-08,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:02:37Z,KillzoneCCO/Booster-T1-Recovery-Episode-09,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:03:01Z,flail-robotics/flail-episodes,flail-robotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; world-action-model; simulation
+2026-10-09T09:03:03Z,KillzoneCCO/Booster-T1-Recovery-Episode-10,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:03:07Z,KillzoneCCO/Booster-T1-Recovery-Episode-11,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:03:33Z,KillzoneCCO/Booster-T1-Recovery-Episode-12,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:04:19Z,KillzoneCCO/Booster-T1-Recovery-Episode-13,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:04:26Z,KillzoneCCO/Booster-T1-Recovery-Episode-14,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:04:28Z,ArcReport/arc-agent-commerce,ArcReport,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agentic-co…
+2026-10-09T09:04:29Z,KillzoneCCO/Booster-T1-Recovery-Episode-15,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:04:50Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-09T09:04:52Z,Neurograf/EN-RO-Translation-SFT-300K,Neurograf,0,0,task_categories:translation; language:en; language:ro; license:other; size_categories:100K<n<1M; region:us; romanian; english; machine-translation; synthetic-data; supervised-fine-tuning
+2026-10-09T09:05:25Z,KillzoneCCO/Booster-T1-Recovery-Episode-16,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:05:31Z,tasksource/superclevr,tasksource,0,0,source_datasets:RyanWW/Super-CLEVR; license:mit; region:us
+2026-10-09T09:05:46Z,Uranus0301/lerobot_so101_battery_sort_supplement_20261009_163453,Uranus0301,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T09:05:50Z,KillzoneCCO/Booster-T1-Recovery-Episode-17,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:05:57Z,KillzoneCCO/Booster-T1-Recovery-Episode-18,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:06:10Z,KillzoneCCO/Booster-T1-Recovery-Episode-19,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:06:13Z,nhd2642/piper_test_1009,nhd2642,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T09:06:40Z,KillzoneCCO/Booster-T1-Recovery-Episode-20,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:06:42Z,tasksource/websrc,tasksource,0,0,source_datasets:X-LANCE/WebSRC_v1.0; license:cc-by-4.0; region:us
+2026-10-09T09:06:47Z,KillzoneCCO/Booster-T1-Recovery-Episode-21,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:07:25Z,KillzoneCCO/Booster-T1-Recovery-Episode-22,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:07:27Z,KillzoneCCO/Booster-T1-Recovery-Episode-23,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:07:33Z,KillzoneCCO/Booster-T1-Recovery-Episode-24,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:07:41Z,KillzoneCCO/Booster-T1-Recovery-Episode-25,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:08:22Z,KillzoneCCO/Booster-T1-Recovery-Episode-26,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:08:26Z,KillzoneCCO/Booster-T1-Recovery-Episode-27,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:09:13Z,KillzoneCCO/Booster-T1-Recovery-Episode-28,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:09:13Z,KillzoneCCO/Booster-T1-Recovery-Episode-29,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:09:35Z,woongworks/aqsoldb-ml-ready-preview,woongworks,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; chemistry; cheminformatics; solubility; aqsoldb; rdkit; molecular-property-prediction; smiles
+2026-10-09T09:09:36Z,anuma/so101_tray_red,anuma,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T09:09:45Z,KillzoneCCO/Booster-T1-Recovery-Episode-30,KillzoneCCO,0,0,region:us; robotics; booster-t1; teleoperation; recovery
+2026-10-09T09:11:33Z,Haryralh/insert-tubes-trajectory,Haryralh,0,0,region:us
+2026-10-09T09:12:06Z,Uranus0301/lerobot_so101_battery_sort_supplement_20261009_171204,Uranus0301,0,0,region:us
+2026-10-09T09:12:19Z,lazycc/muti_pick_and_place_task_single_arm_lerobot_30hz,lazycc,0,0,region:us
+2026-10-09T09:12:30Z,leejeyeon/pick_up_task_v2,leejeyeon,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-09T09:13:16Z,jsbzzz/study_lerRobot,jsbzzz,0,0,arxiv:2602.22818; region:us
+2026-10-09T09:14:06Z,zc277584121/modern-ir-bench,zc277584121,0,0,task_categories:text-retrieval; language:zh; language:en; license:apache-2.0; region:us
+2026-10-09T09:14:37Z,phonglnd-prdcv/plug_v1_20261009_161344,phonglnd-prdcv,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T09:15:10Z,antitrust56/creo-que-demasiado-como-gestionar-el-exceso-de-pen-dd7a8f,antitrust56,0,0,license:mit; region:us; guide
+2026-10-09T09:15:21Z,mertkayacs/tholos-bench,mertkayacs,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; benchmark; agents; tool-use; evaluation; local-ai
+2026-10-09T09:15:24Z,SueJireh/Annoy-PyEdu-Rs,SueJireh,0,0,region:us
+2026-10-09T09:15:25Z,SueJireh/Annoy-PyEdu-Rs-Raw,SueJireh,0,0,region:us
+2026-10-09T09:15:48Z,mni15/newDataset,mni15,0,0,region:us
+2026-10-09T09:15:59Z,antitrust56/choisir-son-velo-electrique-quel-modele-pour-quel-be8876,antitrust56,0,0,license:mit; region:us; guide
+2026-10-09T09:17:40Z,zeta0707/hellomaker_pusan,zeta0707,0,0,region:us
+2026-10-09T09:17:58Z,Mobiusi/Refrigerated-Transport-Dispatch-Orchestration-Tool-Use-Trajectory-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T09:18:04Z,Mobiusi/Cold-Chain-Transport-Duration-And-Deadline-Reasoning-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T09:18:14Z,phonglnd-prdcv/plug_v1_20261009_161538,phonglnd-prdcv,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T09:18:25Z,antitrust56/nah-und-stickmaschine-welche-option-ist-die-richti-ed7aaa,antitrust56,0,0,license:mit; region:us; guide
+2026-10-09T09:18:36Z,Mobiusi/Weightlifting-Load-Calculation-And-Progression-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
