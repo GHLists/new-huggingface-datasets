@@ -9,216 +9,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:21 UTC
+## Latest list — 2026-10-09 12:20 UTC
 
-New datasets created between 2026-10-09 10:19 UTC and 2026-10-09 11:21 UTC.
+New datasets created between 2026-10-09 11:21 UTC and 2026-10-09 12:20 UTC.
 
-[Full CSV](data/new-datasets-2026-10-09T11-21-19-052931Z.csv)
+[Full CSV](data/new-datasets-2026-10-09T12-20-27-918521Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-09 10:19:49 | [Anticloud/anticloud-data](https://huggingface.co/Anticloud/anticloud-data) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:19:50 | [Anticloud/anticloud-electricitymaps-contrib](https://huggingface.co/Anticloud/anticloud-electricitymaps-contrib) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:19:53 | [Mobiusi/Computer-And-Tablet-Retail-Order-Management-Tool-Use-Trajectory-Dataset](https://huggingface.co/Mobiusi/Computer-And-Tablet-Retail-Order-Management-Tool-Use-Trajectory-Dataset) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:19:56 | [Anticloud/anticloud-olca-modules](https://huggingface.co/Anticloud/anticloud-olca-modules) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:19:56 | [Anticloud/anticloud-oemof-solph](https://huggingface.co/Anticloud/anticloud-oemof-solph) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:01 | [Anticloud/anticloud-neurodecode](https://huggingface.co/Anticloud/anticloud-neurodecode) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:02 | [Anticloud/anticloud-tz](https://huggingface.co/Anticloud/anticloud-tz) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:03 | [Anticloud/anticloud-simccs](https://huggingface.co/Anticloud/anticloud-simccs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:04 | [Anticloud/anticloud-openbci-gui](https://huggingface.co/Anticloud/anticloud-openbci-gui) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:09 | [Anticloud/anticloud-chatwoot](https://huggingface.co/Anticloud/anticloud-chatwoot) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:11 | [Anticloud/anticloud-botframework](https://huggingface.co/Anticloud/anticloud-botframework) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:18 | [Anticloud/anticloud-rocket-chat](https://huggingface.co/Anticloud/anticloud-rocket-chat) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:20 | [Anticloud/anticloud-element-web](https://huggingface.co/Anticloud/anticloud-element-web) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:23 | [Anticloud/anticloud-timeflux](https://huggingface.co/Anticloud/anticloud-timeflux) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:27 | [Anticloud/anticloud-dcraw](https://huggingface.co/Anticloud/anticloud-dcraw) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:30 | [Anticloud/anticloud-deepchem](https://huggingface.co/Anticloud/anticloud-deepchem) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:31 | [Anticloud/anticloud-mendeleev](https://huggingface.co/Anticloud/anticloud-mendeleev) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:38 | [Anticloud/anticloud-openmm](https://huggingface.co/Anticloud/anticloud-openmm) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:39 | [Anticloud/anticloud-biosteam](https://huggingface.co/Anticloud/anticloud-biosteam) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:58 | [Anticloud/anticloud-openmodelica](https://huggingface.co/Anticloud/anticloud-openmodelica) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:20:59 | [Anticloud/anticloud-exiv2](https://huggingface.co/Anticloud/anticloud-exiv2) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:00 | [awaisjatoi678/roman-urdu-technical-eval](https://huggingface.co/awaisjatoi678/roman-urdu-technical-eval) | awaisjatoi678 | 0 | 0 | task_categories:text-generation; language:en; language:ur;… |
-| 2026-10-09 10:21:01 | [Anticloud/anticloud-idaes](https://huggingface.co/Anticloud/anticloud-idaes) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:02 | [Anticloud/anticloud-opencv](https://huggingface.co/Anticloud/anticloud-opencv) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:17 | [Anticloud/anticloud-bitsandbytes](https://huggingface.co/Anticloud/anticloud-bitsandbytes) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:18 | [Anticloud/anticloud-autoawq](https://huggingface.co/Anticloud/anticloud-autoawq) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:23 | [Anticloud/anticloud-gptqmodel](https://huggingface.co/Anticloud/anticloud-gptqmodel) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:24 | [Anticloud/anticloud-exl2](https://huggingface.co/Anticloud/anticloud-exl2) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:28 | [Anticloud/anticloud-carboncomponents](https://huggingface.co/Anticloud/anticloud-carboncomponents) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:29 | [Anticloud/anticloud-rawtherapee](https://huggingface.co/Anticloud/anticloud-rawtherapee) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:31 | [Anticloud/anticloud-llama-cpp](https://huggingface.co/Anticloud/anticloud-llama-cpp) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:31 | [Anticloud/anticloud-llm-awq](https://huggingface.co/Anticloud/anticloud-llm-awq) | Anticloud | 0 | 0 | arxiv:2306.00978; arxiv:2312.07533; region:us |
-| 2026-10-09 10:21:40 | [Anticloud/anticloud-cloth](https://huggingface.co/Anticloud/anticloud-cloth) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:40 | [Anticloud/anticloud-clo3d](https://huggingface.co/Anticloud/anticloud-clo3d) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:47 | [Anticloud/anticloud-opticut](https://huggingface.co/Anticloud/anticloud-opticut) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:47 | [Anticloud/anticloud-fabricjs](https://huggingface.co/Anticloud/anticloud-fabricjs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:51 | [Anticloud/anticloud-carbon-capture-and-storage](https://huggingface.co/Anticloud/anticloud-carbon-capture-and-storage) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:51 | [Anticloud/anticloud-ccsi](https://huggingface.co/Anticloud/anticloud-ccsi) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:53 | [Anticloud/anticloud-tailor4j](https://huggingface.co/Anticloud/anticloud-tailor4j) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:53 | [Anticloud/anticloud-textile-simulation](https://huggingface.co/Anticloud/anticloud-textile-simulation) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:21:59 | [Anticloud/anticloud-vpo2](https://huggingface.co/Anticloud/anticloud-vpo2) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:00 | [Anticloud/anticloud-dci-vton](https://huggingface.co/Anticloud/anticloud-dci-vton) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:06 | [Anticloud/anticloud-hr](https://huggingface.co/Anticloud/anticloud-hr) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:06 | [Anticloud/anticloud-fashion-mnist](https://huggingface.co/Anticloud/anticloud-fashion-mnist) | Anticloud | 0 | 0 | arxiv:1801.01563; region:us |
-| 2026-10-09 10:22:12 | [Anticloud/anticloud-electricitymaps](https://huggingface.co/Anticloud/anticloud-electricitymaps) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:12 | [Anticloud/anticloud-hr-viton-prior-docs](https://huggingface.co/Anticloud/anticloud-hr-viton-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:12 | [Anticloud/anticloud-idm-vton](https://huggingface.co/Anticloud/anticloud-idm-vton) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:12 | [Anticloud/anticloud-codecarbon](https://huggingface.co/Anticloud/anticloud-codecarbon) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:18 | [Anticloud/anticloud-openfashion](https://huggingface.co/Anticloud/anticloud-openfashion) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:19 | [Anticloud/anticloud-medusa](https://huggingface.co/Anticloud/anticloud-medusa) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:23 | [Anticloud/anticloud-virtual-try-on](https://huggingface.co/Anticloud/anticloud-virtual-try-on) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:25 | [Anticloud/anticloud-saleor-prior-docs](https://huggingface.co/Anticloud/anticloud-saleor-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:29 | [Anticloud/anticloud-dolibarr](https://huggingface.co/Anticloud/anticloud-dolibarr) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:31 | [Anticloud/anticloud-viton-prior-docs](https://huggingface.co/Anticloud/anticloud-viton-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:33 | [Anticloud/anticloud-olca](https://huggingface.co/Anticloud/anticloud-olca) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:33 | [Anticloud/anticloud-oemof](https://huggingface.co/Anticloud/anticloud-oemof) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:35 | [Anticloud/anticloud-core](https://huggingface.co/Anticloud/anticloud-core) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:36 | [Anticloud/anticloud-maybe](https://huggingface.co/Anticloud/anticloud-maybe) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:40 | [Anticloud/anticloud-mosquitto](https://huggingface.co/Anticloud/anticloud-mosquitto) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:42 | [Anticloud/anticloud-frontend](https://huggingface.co/Anticloud/anticloud-frontend) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:47 | [Anticloud/anticloud-openhab-core](https://huggingface.co/Anticloud/anticloud-openhab-core) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:49 | [Anticloud/anticloud-node-red](https://huggingface.co/Anticloud/anticloud-node-red) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:52 | [Anticloud/anticloud-tasmota](https://huggingface.co/Anticloud/anticloud-tasmota) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:54 | [Anticloud/anticloud-simccs2](https://huggingface.co/Anticloud/anticloud-simccs2) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:54 | [Anticloud/anticloud-shelly](https://huggingface.co/Anticloud/anticloud-shelly) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:22:55 | [Anticloud/anticloud-pypsa](https://huggingface.co/Anticloud/anticloud-pypsa) | Anticloud | 0 | 0 | arxiv:1707.09913; region:us |
-| 2026-10-09 10:24:00 | [Anticloud/anticloud-gotosocial](https://huggingface.co/Anticloud/anticloud-gotosocial) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:14 | [Anticloud/anticloud-botpress](https://huggingface.co/Anticloud/anticloud-botpress) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:16 | [Anticloud/anticloud-tz-data](https://huggingface.co/Anticloud/anticloud-tz-data) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:17 | [Anticloud/anticloud-anthias](https://huggingface.co/Anticloud/anticloud-anthias) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:20 | [Anticloud/anticloud-pi](https://huggingface.co/Anticloud/anticloud-pi) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:32 | [mishradeepak/geology-image-depth-clean95](https://huggingface.co/mishradeepak/geology-image-depth-clean95) | mishradeepak | 0 | 0 | license:cc-by-4.0; region:us; dataset; geology; image-depth |
-| 2026-10-09 10:24:35 | [Anticloud/anticloud-mattermost](https://huggingface.co/Anticloud/anticloud-mattermost) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:37 | [Anticloud/anticloud-libcec](https://huggingface.co/Anticloud/anticloud-libcec) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:37 | [Anticloud/anticloud-element](https://huggingface.co/Anticloud/anticloud-element) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:41 | [Anticloud/anticloud-signageos-sdk](https://huggingface.co/Anticloud/anticloud-signageos-sdk) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:44 | [quailrobot/card-fraud-v1-sample](https://huggingface.co/quailrobot/card-fraud-v1-sample) | quailrobot | 0 | 0 | task_categories:tabular-classification; license:cc-by-nc-sa… |
-| 2026-10-09 10:24:56 | [Anticloud/anticloud-mdanalysis](https://huggingface.co/Anticloud/anticloud-mdanalysis) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:58 | [Anticloud/anticloud-zulip](https://huggingface.co/Anticloud/anticloud-zulip) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:24:58 | [Anticloud/anticloud-pvr-iptv](https://huggingface.co/Anticloud/anticloud-pvr-iptv) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:02 | [Anticloud/anticloud-ccxt](https://huggingface.co/Anticloud/anticloud-ccxt) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:16 | [Anticloud/anticloud-pymatgen](https://huggingface.co/Anticloud/anticloud-pymatgen) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:18 | [Anticloud/anticloud-openbabel](https://huggingface.co/Anticloud/anticloud-openbabel) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:18 | [Anticloud/anticloud-xbmc](https://huggingface.co/Anticloud/anticloud-xbmc) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:27 | [Anticloud/anticloud-metamask](https://huggingface.co/Anticloud/anticloud-metamask) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:39 | [Anticloud/anticloud-coolprop](https://huggingface.co/Anticloud/anticloud-coolprop) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:39 | [Anticloud/anticloud-neqsim](https://huggingface.co/Anticloud/anticloud-neqsim) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:39 | [Anticloud/anticloud-go](https://huggingface.co/Anticloud/anticloud-go) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:25:48 | [Anticloud/anticloud-openzeppelin-contracts](https://huggingface.co/Anticloud/anticloud-openzeppelin-contracts) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:00 | [Anticloud/anticloud-tfel](https://huggingface.co/Anticloud/anticloud-tfel) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:00 | [Anticloud/anticloud-nicehashquickminer](https://huggingface.co/Anticloud/anticloud-nicehashquickminer) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:00 | [Anticloud/anticloud-autogptq](https://huggingface.co/Anticloud/anticloud-autogptq) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:14 | [Anticloud/anticloud-v3](https://huggingface.co/Anticloud/anticloud-v3) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:21 | [Anticloud/anticloud-gptq](https://huggingface.co/Anticloud/anticloud-gptq) | Anticloud | 0 | 0 | arxiv:2210.17323; region:us |
-| 2026-10-09 10:26:21 | [Anticloud/anticloud-protocol-v2](https://huggingface.co/Anticloud/anticloud-protocol-v2) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:21 | [Anticloud/anticloud-casper](https://huggingface.co/Anticloud/anticloud-casper) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:48 | [Anticloud/anticloud-carbon-design](https://huggingface.co/Anticloud/anticloud-carbon-design) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:51 | [Anticloud/anticloud-ist](https://huggingface.co/Anticloud/anticloud-ist) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:52 | [Anticloud/anticloud-llm](https://huggingface.co/Anticloud/anticloud-llm) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:26:52 | [Anticloud/anticloud-blender](https://huggingface.co/Anticloud/anticloud-blender) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:11 | [Anticloud/anticloud-figma-html](https://huggingface.co/Anticloud/anticloud-figma-html) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:14 | [Anticloud/anticloud-chromatic-cli](https://huggingface.co/Anticloud/anticloud-chromatic-cli) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:15 | [Anticloud/anticloud-optimum](https://huggingface.co/Anticloud/anticloud-optimum) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:16 | [Anticloud/anticloud-clo3d-sdk](https://huggingface.co/Anticloud/anticloud-clo3d-sdk) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:24 | [Mobiusi/LNG-Carrier-Port-Call-Coordination-Tool-Use-Trajectory-Dataset](https://huggingface.co/Mobiusi/LNG-Carrier-Port-Call-Coordination-Tool-Use-Trajectory-Dataset) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:27:33 | [Anticloud/anticloud-inkscape](https://huggingface.co/Anticloud/anticloud-inkscape) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:36 | [Anticloud/anticloud-gimp](https://huggingface.co/Anticloud/anticloud-gimp) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:37 | [Anticloud/anticloud-cloth-simulation](https://huggingface.co/Anticloud/anticloud-cloth-simulation) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:38 | [Anticloud/anticloud-fabric-js](https://huggingface.co/Anticloud/anticloud-fabric-js) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:56 | [Anticloud/anticloud-style-dictionary](https://huggingface.co/Anticloud/anticloud-style-dictionary) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:58 | [Anticloud/anticloud-storybook](https://huggingface.co/Anticloud/anticloud-storybook) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:27:59 | [Anticloud/anticloud-seamly2d](https://huggingface.co/Anticloud/anticloud-seamly2d) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:01 | [Anticloud/anticloud-textile](https://huggingface.co/Anticloud/anticloud-textile) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:16 | [Mobiusi/Reefer-Container-Temperature-Anomaly-Response-Tool-Use-Trajectory-Dataset](https://huggingface.co/Mobiusi/Reefer-Container-Temperature-Anomaly-Response-Tool-Use-Trajectory-Dataset) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:28:18 | [Anticloud/anticloud-emoncms](https://huggingface.co/Anticloud/anticloud-emoncms) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:19 | [Anticloud/anticloud-coin](https://huggingface.co/Anticloud/anticloud-coin) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:20 | [Anticloud/anticloud-valentina](https://huggingface.co/Anticloud/anticloud-valentina) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:22 | [Anticloud/anticloud-dci](https://huggingface.co/Anticloud/anticloud-dci) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:37 | [Mobiusi/Computer-And-Tablet-Warranty-And-Repair-Service-Tool-Invocation-Trajectory-Datas](https://huggingface.co/Mobiusi/Computer-And-Tablet-Warranty-And-Repair-Service-Tool-Invocation-Trajectory-Datas) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:28:39 | [Anticloud/anticloud-home](https://huggingface.co/Anticloud/anticloud-home) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:40 | [Anticloud/anticloud-energy](https://huggingface.co/Anticloud/anticloud-energy) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:41 | [Anticloud/anticloud-fashion](https://huggingface.co/Anticloud/anticloud-fashion) | Anticloud | 0 | 0 | arxiv:1801.01563; region:us |
-| 2026-10-09 10:28:43 | [Anticloud/anticloud-fashion-mnist-prior-docs](https://huggingface.co/Anticloud/anticloud-fashion-mnist-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:28:50 | [Mobiusi/Late-Night-Food-Order-Orchestration-Tool-Use-Trajectory-Dataset](https://huggingface.co/Mobiusi/Late-Night-Food-Order-Orchestration-Tool-Use-Trajectory-Dataset) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:28:57 | [lukasbauer91/personal-satellite-2024](https://huggingface.co/lukasbauer91/personal-satellite-2024) | lukasbauer91 | 0 | 0 | license:cc-by-4.0; region:us; dataset; satellite; image-text |
-| 2026-10-09 10:29:01 | [Anticloud/anticloud-openems](https://huggingface.co/Anticloud/anticloud-openems) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:02 | [Anticloud/anticloud-hr-viton](https://huggingface.co/Anticloud/anticloud-hr-viton) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:04 | [Anticloud/anticloud-idm](https://huggingface.co/Anticloud/anticloud-idm) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:21 | [Anticloud/anticloud-dolfinx](https://huggingface.co/Anticloud/anticloud-dolfinx) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:22 | [Anticloud/anticloud-telegraf](https://huggingface.co/Anticloud/anticloud-telegraf) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:24 | [Anticloud/anticloud-idm-vton-prior-docs](https://huggingface.co/Anticloud/anticloud-idm-vton-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:25 | [Anticloud/anticloud-medusa-prior-docs](https://huggingface.co/Anticloud/anticloud-medusa-prior-docs) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:42 | [Anticloud/anticloud-ditto](https://huggingface.co/Anticloud/anticloud-ditto) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:44 | [Anticloud/anticloud-saleor](https://huggingface.co/Anticloud/anticloud-saleor) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:29:46 | [Anticloud/anticloud-virtual-try](https://huggingface.co/Anticloud/anticloud-virtual-try) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:03 | [Anticloud/anticloud-node](https://huggingface.co/Anticloud/anticloud-node) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:03 | [Anticloud/anticloud-librecam](https://huggingface.co/Anticloud/anticloud-librecam) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:05 | [Anticloud/anticloud-viton](https://huggingface.co/Anticloud/anticloud-viton) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:07 | [Anticloud/anticloud-akaunting](https://huggingface.co/Anticloud/anticloud-akaunting) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:24 | [Anticloud/anticloud-qtdragon](https://huggingface.co/Anticloud/anticloud-qtdragon) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:24 | [Anticloud/anticloud-opcua](https://huggingface.co/Anticloud/anticloud-opcua) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:28 | [Anticloud/anticloud-firefly](https://huggingface.co/Anticloud/anticloud-firefly) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:28 | [Anticloud/anticloud-twenty](https://huggingface.co/Anticloud/anticloud-twenty) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:46 | [Anticloud/anticloud-zcash](https://huggingface.co/Anticloud/anticloud-zcash) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:46 | [Anticloud/anticloud-langchain](https://huggingface.co/Anticloud/anticloud-langchain) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:30:49 | [Anticloud/anticloud-esphome](https://huggingface.co/Anticloud/anticloud-esphome) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:06 | [Anticloud/anticloud-open](https://huggingface.co/Anticloud/anticloud-open) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:09 | [Anticloud/anticloud-openhab](https://huggingface.co/Anticloud/anticloud-openhab) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:26 | [Anticloud/anticloud-semantic](https://huggingface.co/Anticloud/anticloud-semantic) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:27 | [Anticloud/anticloud-text-generation](https://huggingface.co/Anticloud/anticloud-text-generation) | Anticloud | 0 | 0 | arxiv:2210.17323; arxiv:2301.10226; arxiv:2305.14314; regio… |
-| 2026-10-09 10:31:29 | [Anticloud/anticloud-shelly-homekit](https://huggingface.co/Anticloud/anticloud-shelly-homekit) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:30 | [Anticloud/anticloud-pimatic](https://huggingface.co/Anticloud/anticloud-pimatic) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:47 | [Anticloud/anticloud-triton-inference](https://huggingface.co/Anticloud/anticloud-triton-inference) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:48 | [Anticloud/anticloud-alaveteli](https://huggingface.co/Anticloud/anticloud-alaveteli) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:51 | [Anticloud/anticloud-zigbee2mqtt](https://huggingface.co/Anticloud/anticloud-zigbee2mqtt) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:31:51 | [Anticloud/anticloud-chromium](https://huggingface.co/Anticloud/anticloud-chromium) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:07 | [Anticloud/anticloud-boston-gov-d8](https://huggingface.co/Anticloud/anticloud-boston-gov-d8) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:08 | [Anticloud/anticloud-fixmystreet](https://huggingface.co/Anticloud/anticloud-fixmystreet) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:11 | [Anticloud/anticloud-openhd](https://huggingface.co/Anticloud/anticloud-openhd) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:11 | [Anticloud/anticloud-kodi](https://huggingface.co/Anticloud/anticloud-kodi) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:28 | [Anticloud/anticloud-ohana](https://huggingface.co/Anticloud/anticloud-ohana) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:31 | [Anticloud/anticloud-opencontractors](https://huggingface.co/Anticloud/anticloud-opencontractors) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:33 | [Anticloud/anticloud-pi-hole](https://huggingface.co/Anticloud/anticloud-pi-hole) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:33 | [Anticloud/anticloud-signageos](https://huggingface.co/Anticloud/anticloud-signageos) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:50 | [Anticloud/anticloud-openelections](https://huggingface.co/Anticloud/anticloud-openelections) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:53 | [Anticloud/anticloud-untrunc](https://huggingface.co/Anticloud/anticloud-untrunc) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:53 | [Anticloud/anticloud-openspending](https://huggingface.co/Anticloud/anticloud-openspending) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:32:55 | [Anticloud/anticloud-bitcoin](https://huggingface.co/Anticloud/anticloud-bitcoin) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:11 | [Anticloud/anticloud-caprover](https://huggingface.co/Anticloud/anticloud-caprover) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:15 | [Anticloud/anticloud-dokku](https://huggingface.co/Anticloud/anticloud-dokku) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:15 | [Anticloud/anticloud-freqtrade](https://huggingface.co/Anticloud/anticloud-freqtrade) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:16 | [Anticloud/anticloud-go-ethereum](https://huggingface.co/Anticloud/anticloud-go-ethereum) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:19 | [siddhikakade15/IELTS-writing-feedback-reasoning](https://huggingface.co/siddhikakade15/IELTS-writing-feedback-reasoning) | siddhikakade15 | 0 | 0 | task_categories:question-answering; language:en; license:ap… |
-| 2026-10-09 10:33:31 | [Anticloud/anticloud-podman](https://huggingface.co/Anticloud/anticloud-podman) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:35 | [Anticloud/anticloud-binsider](https://huggingface.co/Anticloud/anticloud-binsider) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:37 | [Anticloud/anticloud-metamask-extension](https://huggingface.co/Anticloud/anticloud-metamask-extension) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:38 | [Anticloud/anticloud-openzeppelin](https://huggingface.co/Anticloud/anticloud-openzeppelin) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:53 | [Anticloud/anticloud-cpu-x](https://huggingface.co/Anticloud/anticloud-cpu-x) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:56 | [Anticloud/anticloud-lm](https://huggingface.co/Anticloud/anticloud-lm) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:33:58 | [Anticloud/anticloud-protocol](https://huggingface.co/Anticloud/anticloud-protocol) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:00 | [Anticloud/anticloud-solana](https://huggingface.co/Anticloud/anticloud-solana) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:14 | [Anticloud/anticloud-powertop](https://huggingface.co/Anticloud/anticloud-powertop) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:16 | [Anticloud/anticloud-s](https://huggingface.co/Anticloud/anticloud-s) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:17 | [Mobiusi/Physics-Model-And-Boundary-Condition-Code-Completion-Dataset](https://huggingface.co/Mobiusi/Physics-Model-And-Boundary-Condition-Code-Completion-Dataset) | Mobiusi | 0 | 0 | task_categories:text-classification; language:en; license:c… |
-| 2026-10-09 10:34:18 | [Anticloud/anticloud-v3-core](https://huggingface.co/Anticloud/anticloud-v3-core) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:35 | [Anticloud/anticloud-s-tui](https://huggingface.co/Anticloud/anticloud-s-tui) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:37 | [Anticloud/anticloud-tlp](https://huggingface.co/Anticloud/anticloud-tlp) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:39 | [Anticloud/anticloud-chromatic](https://huggingface.co/Anticloud/anticloud-chromatic) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:41 | [Anticloud/anticloud-figma](https://huggingface.co/Anticloud/anticloud-figma) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:56 | [Anticloud/anticloud-clause](https://huggingface.co/Anticloud/anticloud-clause) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:34:58 | [Anticloud/anticloud-legal](https://huggingface.co/Anticloud/anticloud-legal) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:00 | [Anticloud/anticloud-fluentui](https://huggingface.co/Anticloud/anticloud-fluentui) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:01 | [Anticloud/anticloud-gravit](https://huggingface.co/Anticloud/anticloud-gravit) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:17 | [Anticloud/anticloud-legal-land](https://huggingface.co/Anticloud/anticloud-legal-land) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:19 | [Anticloud/anticloud-oldp](https://huggingface.co/Anticloud/anticloud-oldp) | Anticloud | 0 | 0 | arxiv:2005.13342; region:us |
-| 2026-10-09 10:35:21 | [Anticloud/anticloud-style](https://huggingface.co/Anticloud/anticloud-style) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:21 | [Anticloud/anticloud-penpot](https://huggingface.co/Anticloud/anticloud-penpot) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:29 | [Filippashuggingface/lab4languageclassifiers](https://huggingface.co/Filippashuggingface/lab4languageclassifiers) | Filippashuggingface | 0 | 0 | region:us |
-| 2026-10-09 10:35:38 | [Anticloud/anticloud-argopy](https://huggingface.co/Anticloud/anticloud-argopy) | Anticloud | 0 | 0 | region:us |
-| 2026-10-09 10:35:39 | [Anticloud/anticloud-erxes](https://huggingface.co/Anticloud/anticloud-erxes) | Anticloud | 0 | 0 | region:us |
-
-_Showing the first 200 of 307 datasets; see the [full CSV](data/new-datasets-2026-10-09T11-21-19-052931Z.csv)._
+| 2026-10-09 11:22:01 | [Ugiat/madlad-400-es_419-backtranslated](https://huggingface.co/Ugiat/madlad-400-es_419-backtranslated) | Ugiat | 0 | 0 | task_categories:translation; annotations_creators:machine-g… |
+| 2026-10-09 11:22:02 | [Oztobuzz/virgo-object-size-v2](https://huggingface.co/Oztobuzz/virgo-object-size-v2) | Oztobuzz | 0 | 0 | region:us |
+| 2026-10-09 11:22:27 | [max6616/SiD3M-test](https://huggingface.co/max6616/SiD3M-test) | max6616 | 0 | 0 | language:en; license:cc-by-4.0; region:us; crystallography;… |
+| 2026-10-09 11:23:14 | [quailrobot/drone-synth-v1-sample](https://huggingface.co/quailrobot/drone-synth-v1-sample) | quailrobot | 0 | 0 | task_categories:object-detection; license:cc-by-nc-sa-4.0;… |
+| 2026-10-09 11:23:37 | [THEREALMEGAPIXEL/ansi-video-data](https://huggingface.co/THEREALMEGAPIXEL/ansi-video-data) | THEREALMEGAPIXEL | 0 | 0 | region:us |
+| 2026-10-09 11:25:48 | [borysttk/pi-mono](https://huggingface.co/borysttk/pi-mono) | borysttk | 0 | 0 | task_categories:text-generation; language:en; language:code… |
+| 2026-10-09 11:27:19 | [Uranus0301/lerobot_so101_battery_sort_supplement_20261009_192718](https://huggingface.co/Uranus0301/lerobot_so101_battery_sort_supplement_20261009_192718) | Uranus0301 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:27:19 | [OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_130924](https://huggingface.co/OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_130924) | OrderDraconis | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:27:49 | [lastwarning/Check](https://huggingface.co/lastwarning/Check) | lastwarning | 0 | 0 | region:us |
+| 2026-10-09 11:28:03 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_f44e_gens_T1_wfs0_s12345_mt256_sftd09d98](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_f44e_gens_T1_wfs0_s12345_mt256_sftd09d98) | leobianco | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
+| 2026-10-09 11:29:40 | [TryDotAtwo/multigpubfs-native-releases](https://huggingface.co/TryDotAtwo/multigpubfs-native-releases) | TryDotAtwo | 0 | 0 | region:us |
+| 2026-10-09 11:31:16 | [NoranAbdelrahem/data4evaluation](https://huggingface.co/NoranAbdelrahem/data4evaluation) | NoranAbdelrahem | 0 | 0 | license:mit; size_categories:n<1K; format:csv; modality:tex… |
+| 2026-10-09 11:31:48 | [dougalldeepmind/2026-10-09-gptoss120b-base-control-openai-interface-smoke](https://huggingface.co/dougalldeepmind/2026-10-09-gptoss120b-base-control-openai-interface-smoke) | dougalldeepmind | 0 | 0 | license:mit; region:us |
+| 2026-10-09 11:32:31 | [villekuosmanen/assemble_rail_3](https://huggingface.co/villekuosmanen/assemble_rail_3) | villekuosmanen | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:33:12 | [andquant/imdb](https://huggingface.co/andquant/imdb) | andquant | 0 | 0 | task_categories:text-classification; task_categories:featur… |
+| 2026-10-09 11:36:32 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_f44e_gens_T1_2_wfs0_s12345_mt256_sftd09d98](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_f44e_gens_T1_2_wfs0_s12345_mt256_sftd09d98) | leobianco | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
+| 2026-10-09 11:38:47 | [zhujiaying-mcpbench/Annoy-PyEdu-Rs](https://huggingface.co/zhujiaying-mcpbench/Annoy-PyEdu-Rs) | zhujiaying-mcpbench | 0 | 0 | region:us |
+| 2026-10-09 11:38:48 | [zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw](https://huggingface.co/zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw) | zhujiaying-mcpbench | 0 | 0 | region:us |
+| 2026-10-09 11:38:51 | [rahuldesaily/fashion-text-tabular-v2](https://huggingface.co/rahuldesaily/fashion-text-tabular-v2) | rahuldesaily | 0 | 0 | license:cc-by-4.0; region:us; dataset; fashion; text-tabular |
+| 2026-10-09 11:42:18 | [sakerhetspolisen/language_detector](https://huggingface.co/sakerhetspolisen/language_detector) | sakerhetspolisen | 0 | 0 | license:cc-by-nc-sa-4.0; region:us |
+| 2026-10-09 11:43:21 | [brunamartins/robotics-samples](https://huggingface.co/brunamartins/robotics-samples) | brunamartins | 0 | 0 | license:apache-2.0; region:us; dataset; robotics; pointclou… |
+| 2026-10-09 11:43:47 | [mondk/Opus-CoT-Sft](https://huggingface.co/mondk/Opus-CoT-Sft) | mondk | 0 | 0 | language:en; license:apache-2.0; size_categories:n<1K; form… |
+| 2026-10-09 11:43:47 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_epo_f44e_gens_T0_wfs0_s12345_mt256_nosft](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_epo_f44e_gens_T0_wfs0_s12345_mt256_nosft) | leobianco | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
+| 2026-10-09 11:44:19 | [Uranus0301/lerobot_so101_battery_sort_supplement_20261009_194418](https://huggingface.co/Uranus0301/lerobot_so101_battery_sort_supplement_20261009_194418) | Uranus0301 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:44:59 | [anuma/so101_tray_blue](https://huggingface.co/anuma/so101_tray_blue) | anuma | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:45:40 | [myarpanet/douyin](https://huggingface.co/myarpanet/douyin) | myarpanet | 0 | 0 | license:mit; region:us |
+| 2026-10-09 11:45:45 | [anuma/so101_tray_mix](https://huggingface.co/anuma/so101_tray_mix) | anuma | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:46:31 | [Nucleo360/Limites-jornada-descansos-espana-RRHH](https://huggingface.co/Nucleo360/Limites-jornada-descansos-espana-RRHH) | Nucleo360 | 0 | 0 | task_categories:table-question-answering; language:es; lice… |
+| 2026-10-09 11:46:55 | [dougalldeepmind/2026-10-09-mask-qwen36-0-delib-sonnet-15](https://huggingface.co/dougalldeepmind/2026-10-09-mask-qwen36-0-delib-sonnet-15) | dougalldeepmind | 0 | 0 | region:us; eval-run; eval:mask; model:qwen36_0_delib_sonnet… |
+| 2026-10-09 11:47:53 | [Nucleo360/permisos-laborales-espana-RRHH](https://huggingface.co/Nucleo360/permisos-laborales-espana-RRHH) | Nucleo360 | 0 | 0 | task_categories:table-question-answering; language:es; lice… |
+| 2026-10-09 11:48:32 | [karya/sanmati-ranking-sentences](https://huggingface.co/karya/sanmati-ranking-sentences) | karya | 0 | 0 | annotations_creators:crowdsourced; language_creators:crowds… |
+| 2026-10-09 11:49:16 | [Nucleo360/plazos-conservacion-documentos-laborales-espana-RRHH](https://huggingface.co/Nucleo360/plazos-conservacion-documentos-laborales-espana-RRHH) | Nucleo360 | 0 | 0 | task_categories:table-question-answering; language:es; lice… |
+| 2026-10-09 11:49:35 | [nimanyuj/xrd-etl-data](https://huggingface.co/nimanyuj/xrd-etl-data) | nimanyuj | 0 | 0 | size_categories:n<1K; modality:text; region:us |
+| 2026-10-09 11:50:39 | [OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_134920](https://huggingface.co/OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_134920) | OrderDraconis | 0 | 0 | region:us |
+| 2026-10-09 11:50:47 | [chrisw-shadow/vial_3_hil](https://huggingface.co/chrisw-shadow/vial_3_hil) | chrisw-shadow | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-09 11:51:15 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T0_3_wfs0_s12345_mt256_nosft](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T0_3_wfs0_s12345_mt256_nosft) | leobianco | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
+| 2026-10-09 11:52:10 | [dgambettaphd/D_llm2_run0_gen2_WXS_doc1000_synt64_temp0.5_lr1e-04_acm_SYNLAST](https://huggingface.co/dgambettaphd/D_llm2_run0_gen2_WXS_doc1000_synt64_temp0.5_lr1e-04_acm_SYNLAST) | dgambettaphd | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:tabula… |
+| 2026-10-09 11:52:38 | [aidaddy17/my-lm-data](https://huggingface.co/aidaddy17/my-lm-data) | aidaddy17 | 0 | 0 | region:us |
+| 2026-10-09 11:53:45 | [quangsang44/Omni](https://huggingface.co/quangsang44/Omni) | quangsang44 | 0 | 0 | size_categories:n<1K; format:text; modality:audio; modality… |
+| 2026-10-09 11:57:16 | [kardashevomega/kangaroo-dp-logs](https://huggingface.co/kardashevomega/kangaroo-dp-logs) | kardashevomega | 0 | 0 | license:mit; region:us |
+| 2026-10-09 11:58:03 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T0_7_wfs0_s12345_mt256_nosft](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T0_7_wfs0_s12345_mt256_nosft) | leobianco | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
+| 2026-10-09 11:58:30 | [haohaostudy01/fuxi-1009-transfer](https://huggingface.co/haohaostudy01/fuxi-1009-transfer) | haohaostudy01 | 0 | 0 | region:us |
+| 2026-10-09 12:02:29 | [pocotarun/tdubber-edge](https://huggingface.co/pocotarun/tdubber-edge) | pocotarun | 0 | 0 | region:us |
+| 2026-10-09 12:02:52 | [Uranus0301/lerobot_so101_battery_sort_supplement_20261009_200250](https://huggingface.co/Uranus0301/lerobot_so101_battery_sort_supplement_20261009_200250) | Uranus0301 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-09 12:05:11 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_epo_f44e_gens_T1_wfs0_s12345_mt256_nosft](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_epo_f44e_gens_T1_wfs0_s12345_mt256_nosft) | leobianco | 0 | 0 | region:us |
+| 2026-10-09 12:06:24 | [Junonetsl/cats_vs_dogs](https://huggingface.co/Junonetsl/cats_vs_dogs) | Junonetsl | 0 | 0 | task_categories:image-classification; task_ids:multi-class-… |
+| 2026-10-09 12:07:25 | [OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_135052](https://huggingface.co/OrderDraconis/act_phase2align_colours_reversed_green_top_20261009_135052) | OrderDraconis | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-09 12:11:16 | [IMCON/OMX_LeRobot_20261009_211053](https://huggingface.co/IMCON/OMX_LeRobot_20261009_211053) | IMCON | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-09 12:11:33 | [tobiasfis1985/phd-document-ocr2](https://huggingface.co/tobiasfis1985/phd-document-ocr2) | tobiasfis1985 | 0 | 0 | license:apache-2.0; region:us; dataset; document-ocr; text-… |
+| 2026-10-09 12:11:42 | [dougalldeepmind/2026-10-09-odcv-qwen36-0-plain](https://huggingface.co/dougalldeepmind/2026-10-09-odcv-qwen36-0-plain) | dougalldeepmind | 0 | 0 | region:us; eval-run; eval:odcv; model:qwen36_0_plain; mode:… |
+| 2026-10-09 12:11:58 | [introvoyz041/CoRC](https://huggingface.co/introvoyz041/CoRC) | introvoyz041 | 0 | 0 | license:mit; region:us |
+| 2026-10-09 12:12:22 | [hasanfaesal/testing-physics-I2V](https://huggingface.co/hasanfaesal/testing-physics-I2V) | hasanfaesal | 0 | 0 | region:us |
+| 2026-10-09 12:13:28 | [leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T1_2_wfs0_s12345_mt256_nosft](https://huggingface.co/leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_e_f44e_gens_T1_2_wfs0_s12345_mt256_nosft) | leobianco | 0 | 0 | region:us |
+| 2026-10-09 12:13:44 | [IMCON/OMX_LeRobot_20261009_211318](https://huggingface.co/IMCON/OMX_LeRobot_20261009_211318) | IMCON | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-09 12:14:48 | [introvoyz042/CoRC](https://huggingface.co/introvoyz042/CoRC) | introvoyz042 | 0 | 0 | license:mit; region:us |
+| 2026-10-09 12:16:13 | [Jomanne3/Annoy-PyEdu-Rs](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs) | Jomanne3 | 0 | 0 | region:us |
+| 2026-10-09 12:16:14 | [Jomanne3/Annoy-PyEdu-Rs-Raw](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs-Raw) | Jomanne3 | 0 | 0 | region:us |
+| 2026-10-09 12:17:07 | [MoreThought/GrandThought](https://huggingface.co/MoreThought/GrandThought) | MoreThought | 0 | 1 | task_categories:text-generation; task_categories:question-a… |
+| 2026-10-09 12:18:12 | [Datadragon110/freshwater-quantization-output](https://huggingface.co/Datadragon110/freshwater-quantization-output) | Datadragon110 | 0 | 0 | region:us |
 
 ## Data source
 
