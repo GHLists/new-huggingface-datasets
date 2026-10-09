@@ -1,0 +1,39 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T21:23:15Z,liorbenhorin-nv/so101_vials_dr_procedural_layout_aware_250ep_20261009,liorbenhorin-nv,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-09T21:25:29Z,TLe66666/DB-course-data,TLe66666,0,0,modality:image; region:us
+2026-10-09T21:26:18Z,blab-jhu/finepdfs-sample,blab-jhu,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T21:29:08Z,tanod/x402-category-prices,tanod,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; x402; ai-agents; api-pricing; p…
+2026-10-09T21:29:32Z,koalab/childes-cds-preprocessed,koalab,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T21:30:00Z,multiklife/padex-lextwin-russian-law-corpus,multiklife,0,0,language:ru; license:other; size_categories:100K<n<1M; region:us
+2026-10-09T21:32:33Z,SaeedBabamohamadi/libero10-restyle-style5,SaeedBabamohamadi,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T21:33:08Z,SaeedBabamohamadi/libero10-restyle-style4,SaeedBabamohamadi,0,0,modality:text; modality:video; region:us
+2026-10-09T21:36:39Z,Martinsguilherme/cs224n-satellite,Martinsguilherme,0,0,license:cc-by-4.0; region:us; dataset; satellite; multimodal3
+2026-10-09T21:38:27Z,tanod/x402-bazaar-endpoint-demand,tanod,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; x402; ai-agents; api-pric…
+2026-10-09T21:38:42Z,leobianco/eval_npov_say0dljq_checkpoint-1026_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T21:40:54Z,zerocostaipro/free-ai-tools-2026,zerocostaipro,0,0,task_categories:text-retrieval; task_categories:question-answering; task_ids:document-retrieval; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:monolingual…
+2026-10-09T21:41:52Z,hummbl-hf/base120,hummbl-hf,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; reasoning; mental-models; agent…
+2026-10-09T21:47:32Z,mattbucci/swebench-scaffold-vendor,mattbucci,0,0,license:mit; region:us
+2026-10-09T21:49:30Z,Ishaansinghford/traffic-collection81,Ishaansinghford,0,0,license:apache-2.0; region:us; dataset; traffic; video-text
+2026-10-09T21:49:30Z,bespokelabs/bespoke-nimble-27b-v3-decision-index,bespokelabs,0,0,license:cc-by-nc-4.0; region:us
+2026-10-09T21:50:29Z,dougalldeepmind/2026-10-09-mask-qwen36-0-da-tools-15-canary-septda-octbase,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15_canary_septda_octbase; mode:think
+2026-10-09T21:51:18Z,catlilface/ru-words-dictionary-111k,catlilface,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T21:51:41Z,SEA-AI/seashapes,SEA-AI,0,0,license:cc-by-4.0; license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:3d; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; 3d; glb; maritime; ships…
+2026-10-09T21:52:43Z,mateowilliam/albedo-data,mateowilliam,0,0,region:us
+2026-10-09T21:54:01Z,leekyeongmin-pac2026/piperdataset_2,leekyeongmin-pac2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-09T21:55:54Z,WhitneyHelga/Annoy-PyEdu-Rs,WhitneyHelga,0,0,region:us
+2026-10-09T21:55:55Z,WhitneyHelga/Annoy-PyEdu-Rs-Raw,WhitneyHelga,0,0,region:us
+2026-10-09T21:56:41Z,AdithyaSK/designgym-sft-runs,AdithyaSK,0,0,region:us
+2026-10-09T21:58:04Z,leekyeongmin-pac2026/piperdataset_3,leekyeongmin-pac2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-09T22:02:00Z,ostochskinksas/edan20-lab4,ostochskinksas,0,0,region:us
+2026-10-09T22:07:19Z,Brunoagg/loja,Brunoagg,0,0,license:openrail; region:us
+2026-10-09T22:09:38Z,0xEstro/albedo-data,0xEstro,0,0,region:us
+2026-10-09T22:10:44Z,leekyeongmin-pac2026/piperdataset_4,leekyeongmin-pac2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T22:11:05Z,krok0425/apple_to_upper,krok0425,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T22:11:24Z,leesharks/openai-math-fd4aeeb2,leesharks,0,0,license:apache-2.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us; mathematics; lean4; formal-verification; provenance; mirror
+2026-10-09T22:12:01Z,whiskeywind/mtg-card-prices,whiskeywind,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; magic-the-ga…
+2026-10-09T22:12:47Z,wmatejuk/midi-tokens-dyadic-tu0.01-vb32-mts1.0-vocab512-performances-aug-more,wmatejuk,0,0,region:us
+2026-10-09T22:17:37Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-10-09T22:17:38Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-10-09T22:18:14Z,chicham/nq-docids-int-s0,chicham,0,0,region:us
+2026-10-09T22:19:34Z,SueJireh/Annoy-PyEdu-Rs,SueJireh,0,0,region:us
+2026-10-09T22:19:36Z,SueJireh/Annoy-PyEdu-Rs-Raw,SueJireh,0,0,region:us
