@@ -1,0 +1,308 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T10:19:49Z,Anticloud/anticloud-data,Anticloud,0,0,region:us
+2026-10-09T10:19:50Z,Anticloud/anticloud-electricitymaps-contrib,Anticloud,0,0,region:us
+2026-10-09T10:19:53Z,Mobiusi/Computer-And-Tablet-Retail-Order-Management-Tool-Use-Trajectory-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T10:19:56Z,Anticloud/anticloud-olca-modules,Anticloud,0,0,region:us
+2026-10-09T10:19:56Z,Anticloud/anticloud-oemof-solph,Anticloud,0,0,region:us
+2026-10-09T10:20:01Z,Anticloud/anticloud-neurodecode,Anticloud,0,0,region:us
+2026-10-09T10:20:02Z,Anticloud/anticloud-tz,Anticloud,0,0,region:us
+2026-10-09T10:20:03Z,Anticloud/anticloud-simccs,Anticloud,0,0,region:us
+2026-10-09T10:20:04Z,Anticloud/anticloud-openbci-gui,Anticloud,0,0,region:us
+2026-10-09T10:20:09Z,Anticloud/anticloud-chatwoot,Anticloud,0,0,region:us
+2026-10-09T10:20:11Z,Anticloud/anticloud-botframework,Anticloud,0,0,region:us
+2026-10-09T10:20:18Z,Anticloud/anticloud-rocket-chat,Anticloud,0,0,region:us
+2026-10-09T10:20:20Z,Anticloud/anticloud-element-web,Anticloud,0,0,region:us
+2026-10-09T10:20:23Z,Anticloud/anticloud-timeflux,Anticloud,0,0,region:us
+2026-10-09T10:20:27Z,Anticloud/anticloud-dcraw,Anticloud,0,0,region:us
+2026-10-09T10:20:30Z,Anticloud/anticloud-deepchem,Anticloud,0,0,region:us
+2026-10-09T10:20:31Z,Anticloud/anticloud-mendeleev,Anticloud,0,0,region:us
+2026-10-09T10:20:38Z,Anticloud/anticloud-openmm,Anticloud,0,0,region:us
+2026-10-09T10:20:39Z,Anticloud/anticloud-biosteam,Anticloud,0,0,region:us
+2026-10-09T10:20:58Z,Anticloud/anticloud-openmodelica,Anticloud,0,0,region:us
+2026-10-09T10:20:59Z,Anticloud/anticloud-exiv2,Anticloud,0,0,region:us
+2026-10-09T10:21:00Z,awaisjatoi678/roman-urdu-technical-eval,awaisjatoi678,0,0,task_categories:text-generation; language:en; language:ur; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-09T10:21:01Z,Anticloud/anticloud-idaes,Anticloud,0,0,region:us
+2026-10-09T10:21:02Z,Anticloud/anticloud-opencv,Anticloud,0,0,region:us
+2026-10-09T10:21:17Z,Anticloud/anticloud-bitsandbytes,Anticloud,0,0,region:us
+2026-10-09T10:21:18Z,Anticloud/anticloud-autoawq,Anticloud,0,0,region:us
+2026-10-09T10:21:23Z,Anticloud/anticloud-gptqmodel,Anticloud,0,0,region:us
+2026-10-09T10:21:24Z,Anticloud/anticloud-exl2,Anticloud,0,0,region:us
+2026-10-09T10:21:28Z,Anticloud/anticloud-carboncomponents,Anticloud,0,0,region:us
+2026-10-09T10:21:29Z,Anticloud/anticloud-rawtherapee,Anticloud,0,0,region:us
+2026-10-09T10:21:31Z,Anticloud/anticloud-llama-cpp,Anticloud,0,0,region:us
+2026-10-09T10:21:31Z,Anticloud/anticloud-llm-awq,Anticloud,0,0,arxiv:2306.00978; arxiv:2312.07533; region:us
+2026-10-09T10:21:40Z,Anticloud/anticloud-cloth,Anticloud,0,0,region:us
+2026-10-09T10:21:40Z,Anticloud/anticloud-clo3d,Anticloud,0,0,region:us
+2026-10-09T10:21:47Z,Anticloud/anticloud-opticut,Anticloud,0,0,region:us
+2026-10-09T10:21:47Z,Anticloud/anticloud-fabricjs,Anticloud,0,0,region:us
+2026-10-09T10:21:51Z,Anticloud/anticloud-carbon-capture-and-storage,Anticloud,0,0,region:us
+2026-10-09T10:21:51Z,Anticloud/anticloud-ccsi,Anticloud,0,0,region:us
+2026-10-09T10:21:53Z,Anticloud/anticloud-tailor4j,Anticloud,0,0,region:us
+2026-10-09T10:21:53Z,Anticloud/anticloud-textile-simulation,Anticloud,0,0,region:us
+2026-10-09T10:21:59Z,Anticloud/anticloud-vpo2,Anticloud,0,0,region:us
+2026-10-09T10:22:00Z,Anticloud/anticloud-dci-vton,Anticloud,0,0,region:us
+2026-10-09T10:22:06Z,Anticloud/anticloud-hr,Anticloud,0,0,region:us
+2026-10-09T10:22:06Z,Anticloud/anticloud-fashion-mnist,Anticloud,0,0,arxiv:1801.01563; region:us
+2026-10-09T10:22:12Z,Anticloud/anticloud-electricitymaps,Anticloud,0,0,region:us
+2026-10-09T10:22:12Z,Anticloud/anticloud-hr-viton-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:22:12Z,Anticloud/anticloud-idm-vton,Anticloud,0,0,region:us
+2026-10-09T10:22:12Z,Anticloud/anticloud-codecarbon,Anticloud,0,0,region:us
+2026-10-09T10:22:18Z,Anticloud/anticloud-openfashion,Anticloud,0,0,region:us
+2026-10-09T10:22:19Z,Anticloud/anticloud-medusa,Anticloud,0,0,region:us
+2026-10-09T10:22:23Z,Anticloud/anticloud-virtual-try-on,Anticloud,0,0,region:us
+2026-10-09T10:22:25Z,Anticloud/anticloud-saleor-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:22:29Z,Anticloud/anticloud-dolibarr,Anticloud,0,0,region:us
+2026-10-09T10:22:31Z,Anticloud/anticloud-viton-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:22:33Z,Anticloud/anticloud-olca,Anticloud,0,0,region:us
+2026-10-09T10:22:33Z,Anticloud/anticloud-oemof,Anticloud,0,0,region:us
+2026-10-09T10:22:35Z,Anticloud/anticloud-core,Anticloud,0,0,region:us
+2026-10-09T10:22:36Z,Anticloud/anticloud-maybe,Anticloud,0,0,region:us
+2026-10-09T10:22:40Z,Anticloud/anticloud-mosquitto,Anticloud,0,0,region:us
+2026-10-09T10:22:42Z,Anticloud/anticloud-frontend,Anticloud,0,0,region:us
+2026-10-09T10:22:47Z,Anticloud/anticloud-openhab-core,Anticloud,0,0,region:us
+2026-10-09T10:22:49Z,Anticloud/anticloud-node-red,Anticloud,0,0,region:us
+2026-10-09T10:22:52Z,Anticloud/anticloud-tasmota,Anticloud,0,0,region:us
+2026-10-09T10:22:54Z,Anticloud/anticloud-simccs2,Anticloud,0,0,region:us
+2026-10-09T10:22:54Z,Anticloud/anticloud-shelly,Anticloud,0,0,region:us
+2026-10-09T10:22:55Z,Anticloud/anticloud-pypsa,Anticloud,0,0,arxiv:1707.09913; region:us
+2026-10-09T10:24:00Z,Anticloud/anticloud-gotosocial,Anticloud,0,0,region:us
+2026-10-09T10:24:14Z,Anticloud/anticloud-botpress,Anticloud,0,0,region:us
+2026-10-09T10:24:16Z,Anticloud/anticloud-tz-data,Anticloud,0,0,region:us
+2026-10-09T10:24:17Z,Anticloud/anticloud-anthias,Anticloud,0,0,region:us
+2026-10-09T10:24:20Z,Anticloud/anticloud-pi,Anticloud,0,0,region:us
+2026-10-09T10:24:32Z,mishradeepak/geology-image-depth-clean95,mishradeepak,0,0,license:cc-by-4.0; region:us; dataset; geology; image-depth
+2026-10-09T10:24:35Z,Anticloud/anticloud-mattermost,Anticloud,0,0,region:us
+2026-10-09T10:24:37Z,Anticloud/anticloud-libcec,Anticloud,0,0,region:us
+2026-10-09T10:24:37Z,Anticloud/anticloud-element,Anticloud,0,0,region:us
+2026-10-09T10:24:41Z,Anticloud/anticloud-signageos-sdk,Anticloud,0,0,region:us
+2026-10-09T10:24:44Z,quailrobot/card-fraud-v1-sample,quailrobot,0,0,task_categories:tabular-classification; license:cc-by-nc-sa-4.0; region:us; fraud-detection; synthetic; finance; transactions
+2026-10-09T10:24:56Z,Anticloud/anticloud-mdanalysis,Anticloud,0,0,region:us
+2026-10-09T10:24:58Z,Anticloud/anticloud-zulip,Anticloud,0,0,region:us
+2026-10-09T10:24:58Z,Anticloud/anticloud-pvr-iptv,Anticloud,0,0,region:us
+2026-10-09T10:25:02Z,Anticloud/anticloud-ccxt,Anticloud,0,0,region:us
+2026-10-09T10:25:16Z,Anticloud/anticloud-pymatgen,Anticloud,0,0,region:us
+2026-10-09T10:25:18Z,Anticloud/anticloud-openbabel,Anticloud,0,0,region:us
+2026-10-09T10:25:18Z,Anticloud/anticloud-xbmc,Anticloud,0,0,region:us
+2026-10-09T10:25:27Z,Anticloud/anticloud-metamask,Anticloud,0,0,region:us
+2026-10-09T10:25:39Z,Anticloud/anticloud-coolprop,Anticloud,0,0,region:us
+2026-10-09T10:25:39Z,Anticloud/anticloud-neqsim,Anticloud,0,0,region:us
+2026-10-09T10:25:39Z,Anticloud/anticloud-go,Anticloud,0,0,region:us
+2026-10-09T10:25:48Z,Anticloud/anticloud-openzeppelin-contracts,Anticloud,0,0,region:us
+2026-10-09T10:26:00Z,Anticloud/anticloud-tfel,Anticloud,0,0,region:us
+2026-10-09T10:26:00Z,Anticloud/anticloud-nicehashquickminer,Anticloud,0,0,region:us
+2026-10-09T10:26:00Z,Anticloud/anticloud-autogptq,Anticloud,0,0,region:us
+2026-10-09T10:26:14Z,Anticloud/anticloud-v3,Anticloud,0,0,region:us
+2026-10-09T10:26:21Z,Anticloud/anticloud-gptq,Anticloud,0,0,arxiv:2210.17323; region:us
+2026-10-09T10:26:21Z,Anticloud/anticloud-protocol-v2,Anticloud,0,0,region:us
+2026-10-09T10:26:21Z,Anticloud/anticloud-casper,Anticloud,0,0,region:us
+2026-10-09T10:26:48Z,Anticloud/anticloud-carbon-design,Anticloud,0,0,region:us
+2026-10-09T10:26:51Z,Anticloud/anticloud-ist,Anticloud,0,0,region:us
+2026-10-09T10:26:52Z,Anticloud/anticloud-llm,Anticloud,0,0,region:us
+2026-10-09T10:26:52Z,Anticloud/anticloud-blender,Anticloud,0,0,region:us
+2026-10-09T10:27:11Z,Anticloud/anticloud-figma-html,Anticloud,0,0,region:us
+2026-10-09T10:27:14Z,Anticloud/anticloud-chromatic-cli,Anticloud,0,0,region:us
+2026-10-09T10:27:15Z,Anticloud/anticloud-optimum,Anticloud,0,0,region:us
+2026-10-09T10:27:16Z,Anticloud/anticloud-clo3d-sdk,Anticloud,0,0,region:us
+2026-10-09T10:27:24Z,Mobiusi/LNG-Carrier-Port-Call-Coordination-Tool-Use-Trajectory-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T10:27:33Z,Anticloud/anticloud-inkscape,Anticloud,0,0,region:us
+2026-10-09T10:27:36Z,Anticloud/anticloud-gimp,Anticloud,0,0,region:us
+2026-10-09T10:27:37Z,Anticloud/anticloud-cloth-simulation,Anticloud,0,0,region:us
+2026-10-09T10:27:38Z,Anticloud/anticloud-fabric-js,Anticloud,0,0,region:us
+2026-10-09T10:27:56Z,Anticloud/anticloud-style-dictionary,Anticloud,0,0,region:us
+2026-10-09T10:27:58Z,Anticloud/anticloud-storybook,Anticloud,0,0,region:us
+2026-10-09T10:27:59Z,Anticloud/anticloud-seamly2d,Anticloud,0,0,region:us
+2026-10-09T10:28:01Z,Anticloud/anticloud-textile,Anticloud,0,0,region:us
+2026-10-09T10:28:16Z,Mobiusi/Reefer-Container-Temperature-Anomaly-Response-Tool-Use-Trajectory-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T10:28:18Z,Anticloud/anticloud-emoncms,Anticloud,0,0,region:us
+2026-10-09T10:28:19Z,Anticloud/anticloud-coin,Anticloud,0,0,region:us
+2026-10-09T10:28:20Z,Anticloud/anticloud-valentina,Anticloud,0,0,region:us
+2026-10-09T10:28:22Z,Anticloud/anticloud-dci,Anticloud,0,0,region:us
+2026-10-09T10:28:37Z,Mobiusi/Computer-And-Tablet-Warranty-And-Repair-Service-Tool-Invocation-Trajectory-Datas,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T10:28:39Z,Anticloud/anticloud-home,Anticloud,0,0,region:us
+2026-10-09T10:28:40Z,Anticloud/anticloud-energy,Anticloud,0,0,region:us
+2026-10-09T10:28:41Z,Anticloud/anticloud-fashion,Anticloud,0,0,arxiv:1801.01563; region:us
+2026-10-09T10:28:43Z,Anticloud/anticloud-fashion-mnist-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:28:50Z,Mobiusi/Late-Night-Food-Order-Orchestration-Tool-Use-Trajectory-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:28:57Z,lukasbauer91/personal-satellite-2024,lukasbauer91,0,0,license:cc-by-4.0; region:us; dataset; satellite; image-text
+2026-10-09T10:29:01Z,Anticloud/anticloud-openems,Anticloud,0,0,region:us
+2026-10-09T10:29:02Z,Anticloud/anticloud-hr-viton,Anticloud,0,0,region:us
+2026-10-09T10:29:04Z,Anticloud/anticloud-idm,Anticloud,0,0,region:us
+2026-10-09T10:29:21Z,Anticloud/anticloud-dolfinx,Anticloud,0,0,region:us
+2026-10-09T10:29:22Z,Anticloud/anticloud-telegraf,Anticloud,0,0,region:us
+2026-10-09T10:29:24Z,Anticloud/anticloud-idm-vton-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:29:25Z,Anticloud/anticloud-medusa-prior-docs,Anticloud,0,0,region:us
+2026-10-09T10:29:42Z,Anticloud/anticloud-ditto,Anticloud,0,0,region:us
+2026-10-09T10:29:44Z,Anticloud/anticloud-saleor,Anticloud,0,0,region:us
+2026-10-09T10:29:46Z,Anticloud/anticloud-virtual-try,Anticloud,0,0,region:us
+2026-10-09T10:30:03Z,Anticloud/anticloud-node,Anticloud,0,0,region:us
+2026-10-09T10:30:03Z,Anticloud/anticloud-librecam,Anticloud,0,0,region:us
+2026-10-09T10:30:05Z,Anticloud/anticloud-viton,Anticloud,0,0,region:us
+2026-10-09T10:30:07Z,Anticloud/anticloud-akaunting,Anticloud,0,0,region:us
+2026-10-09T10:30:24Z,Anticloud/anticloud-qtdragon,Anticloud,0,0,region:us
+2026-10-09T10:30:24Z,Anticloud/anticloud-opcua,Anticloud,0,0,region:us
+2026-10-09T10:30:28Z,Anticloud/anticloud-firefly,Anticloud,0,0,region:us
+2026-10-09T10:30:28Z,Anticloud/anticloud-twenty,Anticloud,0,0,region:us
+2026-10-09T10:30:46Z,Anticloud/anticloud-zcash,Anticloud,0,0,region:us
+2026-10-09T10:30:46Z,Anticloud/anticloud-langchain,Anticloud,0,0,region:us
+2026-10-09T10:30:49Z,Anticloud/anticloud-esphome,Anticloud,0,0,region:us
+2026-10-09T10:31:06Z,Anticloud/anticloud-open,Anticloud,0,0,region:us
+2026-10-09T10:31:09Z,Anticloud/anticloud-openhab,Anticloud,0,0,region:us
+2026-10-09T10:31:26Z,Anticloud/anticloud-semantic,Anticloud,0,0,region:us
+2026-10-09T10:31:27Z,Anticloud/anticloud-text-generation,Anticloud,0,0,arxiv:2210.17323; arxiv:2301.10226; arxiv:2305.14314; region:us
+2026-10-09T10:31:29Z,Anticloud/anticloud-shelly-homekit,Anticloud,0,0,region:us
+2026-10-09T10:31:30Z,Anticloud/anticloud-pimatic,Anticloud,0,0,region:us
+2026-10-09T10:31:47Z,Anticloud/anticloud-triton-inference,Anticloud,0,0,region:us
+2026-10-09T10:31:48Z,Anticloud/anticloud-alaveteli,Anticloud,0,0,region:us
+2026-10-09T10:31:51Z,Anticloud/anticloud-zigbee2mqtt,Anticloud,0,0,region:us
+2026-10-09T10:31:51Z,Anticloud/anticloud-chromium,Anticloud,0,0,region:us
+2026-10-09T10:32:07Z,Anticloud/anticloud-boston-gov-d8,Anticloud,0,0,region:us
+2026-10-09T10:32:08Z,Anticloud/anticloud-fixmystreet,Anticloud,0,0,region:us
+2026-10-09T10:32:11Z,Anticloud/anticloud-openhd,Anticloud,0,0,region:us
+2026-10-09T10:32:11Z,Anticloud/anticloud-kodi,Anticloud,0,0,region:us
+2026-10-09T10:32:28Z,Anticloud/anticloud-ohana,Anticloud,0,0,region:us
+2026-10-09T10:32:31Z,Anticloud/anticloud-opencontractors,Anticloud,0,0,region:us
+2026-10-09T10:32:33Z,Anticloud/anticloud-pi-hole,Anticloud,0,0,region:us
+2026-10-09T10:32:33Z,Anticloud/anticloud-signageos,Anticloud,0,0,region:us
+2026-10-09T10:32:50Z,Anticloud/anticloud-openelections,Anticloud,0,0,region:us
+2026-10-09T10:32:53Z,Anticloud/anticloud-untrunc,Anticloud,0,0,region:us
+2026-10-09T10:32:53Z,Anticloud/anticloud-openspending,Anticloud,0,0,region:us
+2026-10-09T10:32:55Z,Anticloud/anticloud-bitcoin,Anticloud,0,0,region:us
+2026-10-09T10:33:11Z,Anticloud/anticloud-caprover,Anticloud,0,0,region:us
+2026-10-09T10:33:15Z,Anticloud/anticloud-dokku,Anticloud,0,0,region:us
+2026-10-09T10:33:15Z,Anticloud/anticloud-freqtrade,Anticloud,0,0,region:us
+2026-10-09T10:33:16Z,Anticloud/anticloud-go-ethereum,Anticloud,0,0,region:us
+2026-10-09T10:33:19Z,siddhikakade15/IELTS-writing-feedback-reasoning,siddhikakade15,0,0,task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-09T10:33:31Z,Anticloud/anticloud-podman,Anticloud,0,0,region:us
+2026-10-09T10:33:35Z,Anticloud/anticloud-binsider,Anticloud,0,0,region:us
+2026-10-09T10:33:37Z,Anticloud/anticloud-metamask-extension,Anticloud,0,0,region:us
+2026-10-09T10:33:38Z,Anticloud/anticloud-openzeppelin,Anticloud,0,0,region:us
+2026-10-09T10:33:53Z,Anticloud/anticloud-cpu-x,Anticloud,0,0,region:us
+2026-10-09T10:33:56Z,Anticloud/anticloud-lm,Anticloud,0,0,region:us
+2026-10-09T10:33:58Z,Anticloud/anticloud-protocol,Anticloud,0,0,region:us
+2026-10-09T10:34:00Z,Anticloud/anticloud-solana,Anticloud,0,0,region:us
+2026-10-09T10:34:14Z,Anticloud/anticloud-powertop,Anticloud,0,0,region:us
+2026-10-09T10:34:16Z,Anticloud/anticloud-s,Anticloud,0,0,region:us
+2026-10-09T10:34:17Z,Mobiusi/Physics-Model-And-Boundary-Condition-Code-Completion-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:34:18Z,Anticloud/anticloud-v3-core,Anticloud,0,0,region:us
+2026-10-09T10:34:35Z,Anticloud/anticloud-s-tui,Anticloud,0,0,region:us
+2026-10-09T10:34:37Z,Anticloud/anticloud-tlp,Anticloud,0,0,region:us
+2026-10-09T10:34:39Z,Anticloud/anticloud-chromatic,Anticloud,0,0,region:us
+2026-10-09T10:34:41Z,Anticloud/anticloud-figma,Anticloud,0,0,region:us
+2026-10-09T10:34:56Z,Anticloud/anticloud-clause,Anticloud,0,0,region:us
+2026-10-09T10:34:58Z,Anticloud/anticloud-legal,Anticloud,0,0,region:us
+2026-10-09T10:35:00Z,Anticloud/anticloud-fluentui,Anticloud,0,0,region:us
+2026-10-09T10:35:01Z,Anticloud/anticloud-gravit,Anticloud,0,0,region:us
+2026-10-09T10:35:17Z,Anticloud/anticloud-legal-land,Anticloud,0,0,region:us
+2026-10-09T10:35:19Z,Anticloud/anticloud-oldp,Anticloud,0,0,arxiv:2005.13342; region:us
+2026-10-09T10:35:21Z,Anticloud/anticloud-style,Anticloud,0,0,region:us
+2026-10-09T10:35:21Z,Anticloud/anticloud-penpot,Anticloud,0,0,region:us
+2026-10-09T10:35:29Z,Filippashuggingface/lab4languageclassifiers,Filippashuggingface,0,0,region:us
+2026-10-09T10:35:38Z,Anticloud/anticloud-argopy,Anticloud,0,0,region:us
+2026-10-09T10:35:39Z,Anticloud/anticloud-erxes,Anticloud,0,0,region:us
+2026-10-09T10:35:43Z,Anticloud/anticloud-tiptap,Anticloud,0,0,region:us
+2026-10-09T10:35:58Z,Anticloud/anticloud-mautic,Anticloud,0,0,region:us
+2026-10-09T10:36:00Z,Anticloud/anticloud-aidbox,Anticloud,0,0,region:us
+2026-10-09T10:36:02Z,Anticloud/anticloud-energy-sparks,Anticloud,0,0,region:us
+2026-10-09T10:36:04Z,Anticloud/anticloud-emonhub,Anticloud,0,0,region:us
+2026-10-09T10:36:19Z,Anticloud/anticloud-django-health,Anticloud,0,0,region:us
+2026-10-09T10:36:20Z,Anticloud/anticloud-hi,Anticloud,0,0,region:us
+2026-10-09T10:36:25Z,IMCON/OMX_LeRobot_20261009_193602,IMCON,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-09T10:36:30Z,Mobiusi/Commercial-And-Industrial-Solar-Grid-Connection-Rules-Reasoning-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T10:37:41Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-10-09T10:37:42Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-10-09T10:38:15Z,SwapniL-pr1117/xlam-function-calling-59k,SwapniL-pr1117,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T10:38:49Z,lorenzoinnocenti/oem-masterai-project,lorenzoinnocenti,0,0,license:mit; region:us
+2026-10-09T10:42:34Z,Mobiusi/Traditional-Music-Performance-Practices-And-Context-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:42:54Z,simonycl/rsi-bench-env-rebuild-trajectories,simonycl,0,0,license:other; region:us; rsi-bench; agent-trajectories; environment-reconstruction
+2026-10-09T10:43:01Z,simonycl/rsi-bench-env-rebuild-val-refs,simonycl,0,0,license:apache-2.0; region:us; rsi-bench; agent-trajectories; environment-reconstruction
+2026-10-09T10:44:06Z,belztjti/1111,belztjti,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T10:44:32Z,DrDooooooom/btc,DrDooooooom,0,0,region:us
+2026-10-09T10:45:46Z,irfanhossainsust/ielts-style-reading-passage3,irfanhossainsust,0,0,task_categories:question-answering; task_categories:multiple-choice; task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:tabular; modality:text;…
+2026-10-09T10:45:51Z,Mobiusi/Constraint-Reasoning-QA-Dataset-For-Recombinant-Vaccine-Expression-Platform-Sele,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:46:11Z,KhanZaid-NL/LLaVA_Weights,KhanZaid-NL,0,0,license:mit; region:us
+2026-10-09T10:46:14Z,Mobiusi/Food-Receiving-And-Lot-Traceability-Code-Completion-Dataset,Mobiusi,0,0,task_categories:other; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:46:30Z,Mobiusi/Indoor-Distributed-Antenna-System-Topology-And-Coverage-Design-Reasoning-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:46:53Z,HDTenEightyP/WhatToExpect_Community,HDTenEightyP,0,0,license:mit; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T10:47:30Z,Mobiusi/Transportation-Planning-Forecast-Fact-Verification-Training-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:48:29Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-10-09T10:48:29Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-10-09T10:48:29Z,Md-Asif/vanguard-financial-qa-15k-v1,Md-Asif,0,0,task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:p…
+2026-10-09T10:49:13Z,HannaJMuggie/RoboCasa365,HannaJMuggie,0,0,region:us
+2026-10-09T10:50:26Z,OwenJago/Annoy-PyEdu-Rs,OwenJago,0,0,region:us
+2026-10-09T10:50:26Z,OwenJago/Annoy-PyEdu-Rs-Raw,OwenJago,0,0,region:us
+2026-10-09T10:52:19Z,Otabek228/uzbek-noun-morphology,Otabek228,0,0,task_categories:text-generation; language:uz; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-09T10:52:23Z,angmon126/mades-articles,angmon126,0,0,region:us
+2026-10-09T10:52:44Z,aDaikiKamata/patch_policy_libero10_tipsv2_token_cache_bf16_eval,aDaikiKamata,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T10:53:29Z,casperhuggingface/online-chautari-comments,casperhuggingface,0,0,task_categories:text-classification; language:ne; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-09T10:53:33Z,Uranus0301/lerobot_so101_battery_sort_supplement_20261009_185331,Uranus0301,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T10:54:02Z,Mobiusi/XGS-PON-Alarm-Correlation-And-Root-Cause-Inference-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:54:10Z,Mobiusi/FTTB-Fault-Constraint-Diagnosis-Question-Answer-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:54:20Z,Mobiusi/Commercial-And-Industrial-Solar-Self-Consumption-And-Curtailment-Reasoning-QA-Da,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:54:29Z,Mobiusi/Commercial-And-Industrial-Rooftop-Solar-Feasibility-Reasoning-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-09T10:55:22Z,tt1225/20261009_VR_H5D_VFE_sim_teleop_pick_success,tt1225,0,0,region:us
+2026-10-09T10:55:34Z,Aadarsh183/testing,Aadarsh183,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T10:56:03Z,villekuosmanen/assemble_rail_2,villekuosmanen,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T10:56:05Z,Error941/r7k2m9q5,Error941,0,0,region:us
+2026-10-09T10:57:03Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-09T10:57:05Z,LlewellynAlaina/Annoy-PyEdu-Rs,LlewellynAlaina,0,0,region:us
+2026-10-09T10:57:06Z,LlewellynAlaina/Annoy-PyEdu-Rs-Raw,LlewellynAlaina,0,0,region:us
+2026-10-09T10:58:28Z,addisai/01b679c9e1f8aebc,addisai,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T10:59:29Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-09T10:59:30Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-09T10:59:44Z,skylenage-ai/MedPRMBench-Test,skylenage-ai,0,0,region:us
+2026-10-09T11:00:23Z,ArthurGoldFishKing/fan_grasping_lerobot,ArthurGoldFishKing,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T11:00:26Z,gprbase/3D-grid-concrete-gpr-gssi,gprbase,0,0,language:en; license:cc-by-nc-4.0; region:us; GPR
+2026-10-09T11:01:06Z,VocaLink/zh-tw-functional-prompts,VocaLink,0,0,task_categories:automatic-speech-recognition; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:monolingual; source_datasets:original; language:zh; license:cc…
+2026-10-09T11:01:37Z,nikita1000000/dataset,nikita1000000,0,0,region:us
+2026-10-09T11:01:42Z,dgambettaphd/D_llm2_run0_gen1_WXS_doc1000_synt64_temp0.5_lr1e-04_acm_SYNLAST,dgambettaphd,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T11:02:31Z,himanshuguptta/geotiff-hub,himanshuguptta,0,0,region:us
+2026-10-09T11:03:22Z,Philopater-Luka/Mevie-Code-Pretrain-v1,Philopater-Luka,0,0,region:us
+2026-10-09T11:03:29Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_f44e_gens_T0_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-09T11:03:31Z,Mobiusi/Metalwork-Technique-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:03:40Z,Mobiusi/Web-Platform-Security-Behavior-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:03:52Z,Mobiusi/Flow-Battery-Energy-Scheduling-Optimization-Code-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:04Z,Mobiusi/Open-RAN-Interoperability-Pattern-Induction-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:13Z,Mobiusi/Perishable-Food-Inventory-Management-Code-Completion-Dataset,Mobiusi,0,0,task_categories:other; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:21Z,aixk/2048-1024-n8,aixk,0,0,region:us
+2026-10-09T11:04:22Z,Mobiusi/Comprehensive-Q-A-Dataset-On-Chromatographic-Method-And-Instrument-Compatibility,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:33Z,Mobiusi/Transportation-Metrics-And-Statistical-Claim-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:34Z,sm-park/multitask_combined_N_v1,sm-park,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T11:04:45Z,Mobiusi/Coastal-Protection-Measures-Counterfactual-Reasoning-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:04:52Z,Mobiusi/Co-Simulation-Scheduling-And-Time-Synchronization-Code-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:05:00Z,Mobiusi/Scaffolding-Design-And-Load-Specification-Document-Understanding-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:05:06Z,Mobiusi/Banana-Pest-And-Disease-Attribute-Extraction-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:05:13Z,Mobiusi/Arabic-Pragmatics-And-Register-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:05:22Z,Mobiusi/Work-At-Height-Safety-Observation-Hazard-Information-Extraction-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-09T11:05:47Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-10-09T11:05:48Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-10-09T11:06:05Z,jiahao-liang/geology-corpus,jiahao-liang,0,0,license:cc-by-4.0; region:us; dataset; geology; pointcloud-text
+2026-10-09T11:07:15Z,isacbelfrage/language-classifier,isacbelfrage,0,0,region:us
+2026-10-09T11:07:44Z,afdre/Annoy-PyEdu-Rs-Raw,afdre,0,0,region:us
+2026-10-09T11:07:44Z,afdre/Annoy-PyEdu-Rs,afdre,0,0,region:us
+2026-10-09T11:08:22Z,blindpeerbench/budget,blindpeerbench,0,0,region:us
+2026-10-09T11:08:51Z,blindpeerbench/Multireceiver,blindpeerbench,0,0,region:us
+2026-10-09T11:09:11Z,blindpeerbench/Firstprice,blindpeerbench,0,0,region:us
+2026-10-09T11:09:42Z,IMCON/OMX_LeRobot_20261009_200905,IMCON,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T11:09:42Z,Attoloop/club-mix,Attoloop,0,0,task_categories:reinforcement-learning; license:apache-2.0; size_categories:n<1K; library:openenv; region:us; rl-environment; openenv; openenv-arena
+2026-10-09T11:10:16Z,Uranus0301/lerobot_so101_battery_sort_supplement_20261009_191015,Uranus0301,0,0,region:us
+2026-10-09T11:10:44Z,DASCBVNYREWRQ/Annoy-PyEdu-Rs-Raw,DASCBVNYREWRQ,0,0,region:us
+2026-10-09T11:10:44Z,DASCBVNYREWRQ/Annoy-PyEdu-Rs,DASCBVNYREWRQ,0,0,region:us
+2026-10-09T11:11:35Z,PANDA-HSP/reproducible,PANDA-HSP,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T11:11:37Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-09T11:11:37Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-09T11:11:49Z,MichaelMukiibi/care-conversations,MichaelMukiibi,0,0,license:other; region:us
+2026-10-09T11:11:58Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_f44e_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-09T11:13:06Z,xuwenqiang/920,xuwenqiang,0,0,region:us
+2026-10-09T11:14:01Z,Cauchemardevie/mOSCAR,Cauchemardevie,0,0,license:cc-by-4.0; arxiv:2406.08707; region:us
+2026-10-09T11:14:12Z,Shifat2110724169/job-market-intel-translations,Shifat2110724169,0,0,region:us
+2026-10-09T11:14:57Z,anuma/rollout_act_red_20,anuma,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T11:15:22Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-09T11:15:22Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-09T11:15:38Z,ferreirabrunofield/finance-image-depth-mini,ferreirabrunofield,0,0,license:apache-2.0; region:us; dataset; finance; image-depth
+2026-10-09T11:16:22Z,SAD12DSAQWD/Annoy-PyEdu-Rs,SAD12DSAQWD,0,0,region:us
+2026-10-09T11:16:23Z,SAD12DSAQWD/Annoy-PyEdu-Rs-Raw,SAD12DSAQWD,0,0,region:us
+2026-10-09T11:17:01Z,JinghIzKing/OCR-Synthetic-Multilingual-v1,JinghIzKing,0,0,task_categories:object-detection; task_categories:image-to-text; language:en; language:ja; language:ko; language:ru; language:zh; license:cc-by-4.0; size_categories:10M<n<100M; region:us; ocr; text-d…
+2026-10-09T11:18:39Z,MTNRA-Amazigh-IA/test_models,MTNRA-Amazigh-IA,0,0,region:us
+2026-10-09T11:20:10Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_f44e_gens_T0_7_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-09T11:20:20Z,adfafaa/Annoy-PyEdu-Rs-Raw,adfafaa,0,0,region:us
+2026-10-09T11:20:20Z,adfafaa/Annoy-PyEdu-Rs,adfafaa,0,0,region:us
