@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-08T23:20:06Z,Cowheadzzz/soda,Cowheadzzz,0,0,task_ids:dialogue-generation; language_creators:machine-generated; multilinguality:monolingual; source_datasets:original; source_datasets:extended|Atomic10x; language:en; license:cc-by-4.0; size_cate…
+2026-10-08T23:20:50Z,Project-AgML/image_safari_wheat_cimmyt_njoro,Project-AgML,0,0,license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T23:20:56Z,ruv/metaharness-arena-tasks,ruv,0,0,task_categories:reinforcement-learning; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-08T23:21:22Z,akhaliq/qwen21-next-scene-pairs-raw-v2,akhaliq,0,0,region:us
+2026-10-08T23:21:22Z,akhaliq/qwen21-next-scene-train-v2,akhaliq,0,0,region:us
+2026-10-08T23:22:51Z,dsixteen/Niji_1_Portrait-meta,dsixteen,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T23:23:16Z,modelomics/xv-ml,modelomics,0,0,region:us
+2026-10-08T23:25:12Z,LienJ/lab07-catch-the-ai-lying,LienJ,0,0,region:us
+2026-10-08T23:25:18Z,razeroyale2026/atualizadoaplicativo,razeroyale2026,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-08T23:27:37Z,razeroyale2026/dataautomaticadoapk,razeroyale2026,0,0,modality:geospatial; modality:text; region:us
+2026-10-08T23:28:20Z,npario/tiktok-5.6B-videos,npario,0,0,license:cc-by-nc-4.0; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; tiktok; social-media;…
+2026-10-08T23:28:41Z,dougalldeepmind/2026-10-08-am-qwen36-0-da-lowstakes-practical-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_lowstakes_practical_15; mode:think
+2026-10-08T23:28:45Z,charlenechenn/XELA-LEAP,charlenechenn,0,0,license:mit; region:us
+2026-10-08T23:32:51Z,Project-AgML/image_safari_wheat_qed_lilongwe,Project-AgML,0,0,license:cc-by-sa-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T23:33:46Z,flb-ello/sports-image-audio-2023,flb-ello,0,0,license:cc-by-4.0; region:us; dataset; sports; image-audio
+2026-10-08T23:36:50Z,SourORZ/shoelace-replay,SourORZ,0,0,language:en; language:zh; region:us; robotics; mujoco; 3d-reconstruction; replay
+2026-10-08T23:36:56Z,dougalldeepmind/2026-10-08-am-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_15; mode:think
+2026-10-08T23:39:50Z,MathildaAstrid/Annoy-PyEdu-Rs,MathildaAstrid,0,0,region:us
+2026-10-08T23:39:51Z,MathildaAstrid/Annoy-PyEdu-Rs-Raw,MathildaAstrid,0,0,region:us
+2026-10-08T23:39:54Z,Project-AgML/image_safari_yam_iita_osogbo,Project-AgML,0,0,license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-08T23:41:01Z,Yichenliang/undergrad-speech,Yichenliang,0,0,license:apache-2.0; region:us; dataset; speech; multimodal3
+2026-10-08T23:45:12Z,aqxlogistics/global-15-nations-b2b-air-freight-rates-benchmark-2026,aqxlogistics,0,0,region:us
+2026-10-08T23:46:47Z,dougalldeepmind/2026-10-08-am-qwen36-0-da-5,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_5; mode:think
+2026-10-08T23:47:26Z,cfahlgren1/simready-usd-web-viewers,cfahlgren1,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; openusd; usd; si…
+2026-10-08T23:48:06Z,seliny2/qwen3-8b-training-data,seliny2,0,0,region:us
+2026-10-08T23:48:46Z,shiv96/cot-faithfulness-code-bug,shiv96,0,0,task_categories:text-generation; language:en; region:us; chain-of-thought; code-generation; judge-labels; olmo
+2026-10-08T23:50:19Z,Chowdermegan/audio-text-dataset,Chowdermegan,0,0,license:cc-by-4.0; region:us; dataset; traffic; audio-text
+2026-10-08T23:50:56Z,jstm/mpc_lerobot_pd_ee_pose_50,jstm,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-08T23:51:54Z,alimansourberg/speech-image-audio,alimansourberg,0,0,license:mit; region:us; dataset; speech; image-audio
+2026-10-08T23:52:32Z,belztjti/abcde,belztjti,0,0,region:us
+2026-10-08T23:53:55Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-08T23:53:56Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-08T23:54:58Z,cp500/ftw-field-centroids-30m,cp500,0,0,license:cc-by-4.0; region:us; earth-observation; field-boundaries; sentinel-2; landsat-scale; segmentation; centroids
+2026-10-08T23:55:38Z,dougalldeepmind/2026-10-08-am-qwen36-0-da-25,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_25; mode:think
+2026-10-08T23:58:31Z,belztjti/1111,belztjti,0,0,region:us
+2026-10-08T23:58:54Z,jbae28/cube_pick_and_place_new,jbae28,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T00:00:15Z,banhcarrot/networkadminquestion-sft-audit,banhcarrot,0,0,region:us
+2026-10-09T00:01:35Z,NickyDCFP/ArchWorld,NickyDCFP,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-10-09T00:03:48Z,dmanningcoe/topic-model-pbm-sprint-20261008,dmanningcoe,0,0,task_categories:text-generation; region:us
+2026-10-09T00:07:07Z,LieUr/curious-stencil-runs,LieUr,0,0,region:us
+2026-10-09T00:09:58Z,TheodoraAdhara/Annoy-PyEdu-Rs-Raw,TheodoraAdhara,0,0,region:us
+2026-10-09T00:09:58Z,TheodoraAdhara/Annoy-PyEdu-Rs,TheodoraAdhara,0,0,region:us
+2026-10-09T00:10:29Z,badr7/rapidchat-data,badr7,0,0,task_categories:text-generation; language:en; license:mit; region:us; tau2-bench; agents; tool-use; customer-support; synthetic; sft
+2026-10-09T00:10:42Z,ASD1DA1AE13231/Annoy-PyEdu-Rs,ASD1DA1AE13231,0,0,region:us
+2026-10-09T00:10:43Z,ASD1DA1AE13231/Annoy-PyEdu-Rs-Raw,ASD1DA1AE13231,0,0,region:us
+2026-10-09T00:10:57Z,ASD1212321/Annoy-PyEdu-Rs-Raw,ASD1212321,0,0,region:us
+2026-10-09T00:10:57Z,ASD1212321/Annoy-PyEdu-Rs,ASD1212321,0,0,region:us
+2026-10-09T00:10:58Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs,ASD12EDSA2QWE,0,0,region:us
+2026-10-09T00:10:59Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw,ASD12EDSA2QWE,0,0,region:us
+2026-10-09T00:11:47Z,Fall3nAngelz/limegreen-pickup,Fall3nAngelz,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T00:12:07Z,Ddevi-nikhil/weather-video-text-mini,Ddevi-nikhil,0,0,license:apache-2.0; region:us; dataset; weather; video-text
+2026-10-09T00:14:38Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-10-09T00:14:38Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-10-09T00:15:52Z,zacharydavis/social-pointcloud-text,zacharydavis,0,0,license:mit; region:us; dataset; social; pointcloud-text
+2026-10-09T00:16:04Z,arthruur/prensa-acervo,arthruur,0,0,task_categories:video-to-video; annotations_creators:expert-generated; language_creators:found; multilinguality:multilingual; source_datasets:wikimedia-commons; language:pt; language:en; license:cc-b…
+2026-10-09T00:16:35Z,jwebb11370/zingoriadit-audio,jwebb11370,0,0,region:us
+2026-10-09T00:18:19Z,playforgecoding/spelling-creator-fact-claims,playforgecoding,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; information-extraction; fact-checking; wikidata; structured-output
+2026-10-09T00:18:22Z,playforgecoding/spelling-creator-document-import,playforgecoding,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; information-extraction; document-parsing; structured-output
+2026-10-09T00:20:13Z,Continual-Learning-Exam/CLE-Tasks,Continual-Learning-Exam,0,0,language:en; language:zh; license:other; region:us; agents; multi-step; benchmark
+2026-10-09T00:20:14Z,Continual-Learning-Exam/CLE-Task-Inputs,Continual-Learning-Exam,0,0,license:other; region:us; agents; multi-step; benchmark
+2026-10-09T00:20:14Z,Continual-Learning-Exam/CLE-Task-References,Continual-Learning-Exam,0,0,region:us
+2026-10-09T00:20:15Z,Continual-Learning-Exam/CLE-Task-Archive,Continual-Learning-Exam,0,0,region:us
