@@ -1,0 +1,67 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T15:21:52Z,AgenticFilmLab/yue2-sheetsage2-local-music-lab-record,AgenticFilmLab,0,0,language:en; license:other; region:us; music-generation; music-transcription; yue2; sheetsage2; reproducibility
+2026-10-09T15:22:04Z,1ns0mn1a1102/authz1-dataset-pub,1ns0mn1a1102,0,0,region:us
+2026-10-09T15:22:26Z,nightly-wave/7a3fc0c4,nightly-wave,0,0,region:us
+2026-10-09T15:22:38Z,batuhanilgarr/turkiye-ilac-katalogu,batuhanilgarr,0,0,task_categories:text-retrieval; language:tr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-09T15:22:59Z,SalZa2004/so101_stack_cubes_4,SalZa2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-09T15:23:13Z,zjwfufu/cache-pack-a,zjwfufu,0,0,region:us
+2026-10-09T15:23:13Z,zjwfufu/cache-pack-b,zjwfufu,0,0,region:us
+2026-10-09T15:24:29Z,CarolinePascal/grabette-pick-and-place-texture,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T15:24:33Z,tasksource/mind2web-dom,tasksource,0,0,source_datasets:osunlp/Mind2Web; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T15:24:38Z,Hankun2004/e2d,Hankun2004,0,0,size_categories:100K<n<1M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-10-09T15:26:21Z,advaitsingh/personal-security,advaitsingh,0,0,license:mit; region:us; dataset; security; text-tabular
+2026-10-09T15:27:26Z,savascikedi/3d_model,savascikedi,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T15:27:33Z,aDaikiKamata/patch_policy_libero10_steervit_lang_cache_bf16_eval,aDaikiKamata,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T15:30:35Z,tsinghua-ee/ELLSA_train_data,tsinghua-ee,0,0,size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; arxiv:2510.16756; region:us
+2026-10-09T15:31:18Z,qwang2026/FineFake,qwang2026,0,0,region:us
+2026-10-09T15:31:24Z,Kflores66/security-corpus,Kflores66,0,0,license:mit; region:us; dataset; security; image-depth
+2026-10-09T15:33:22Z,leobianco/eval_npov_say0dljq_checkpoint-114_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T15:35:21Z,Dravox2026/aplicativoatt,Dravox2026,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T15:36:44Z,Dravox2026/paradata,Dravox2026,0,1,modality:geospatial; modality:text; region:us
+2026-10-09T15:37:07Z,CarolinePascal/grabette-pick-and-place-texture-2-raw,CarolinePascal,0,0,region:us
+2026-10-09T15:38:13Z,animeshrakqua/smartreg-books,animeshrakqua,0,0,region:us
+2026-10-09T15:38:21Z,yuxin7778/baoyan-agent-benchmark,yuxin7778,0,0,task_categories:text-generation; language:zh; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ag…
+2026-10-09T15:38:47Z,lorenzoalm/text-tabular-data,lorenzoalm,0,0,license:cc-by-4.0; region:us; dataset; ecommerce; text-tabular
+2026-10-09T15:40:05Z,Sebastian-Mazibuko/Assignment4,Sebastian-Mazibuko,0,0,region:us
+2026-10-09T15:40:13Z,dongguanting/Agent-Reflex-SFT-54K,dongguanting,0,0,task_categories:text-generation; language:en; language:zh; license:mit; size_categories:10K<n<100K; region:us; agent; tool-use; function-calling; reflection; sft
+2026-10-09T15:40:50Z,dongguanting/Agent-Reflex-RL-2K,dongguanting,0,0,task_categories:text-generation; language:en; language:zh; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-10-09T15:40:58Z,dancher00/WasserMan-Review-v3,dancher00,0,0,task_categories:robotics; language:en; license:apache-2.0; region:us; underwater-manipulation; imitation-learning; simulation
+2026-10-09T15:42:00Z,dhiruunandy/lortus-teacher-logits,dhiruunandy,0,0,region:us
+2026-10-09T15:43:57Z,neljhoel/Datachallenge_CM4606,neljhoel,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; Elderly; Falls; Nonfalls; Adul…
+2026-10-09T15:44:28Z,caleb-brown/wildlife-image-depth-v2,caleb-brown,0,0,license:cc-by-4.0; region:us; dataset; wildlife; image-depth
+2026-10-09T15:45:57Z,CLEAR-Global/Gamayun-hausa-voice-minikit,CLEAR-Global,0,0,task_categories:automatic-speech-recognition; language:ha; language:hau; license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:audio; region:us; ha; audio; speech; asr; africa; nigeria; hausa; gam…
+2026-10-09T15:46:01Z,chriszhang01/chess-selfplay,chriszhang01,0,0,region:us
+2026-10-09T15:47:02Z,Chulinz/Text2SQL-Decisions-Benchmark,Chulinz,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-09T15:48:46Z,decisionmodelhub/support-urgency,decisionmodelhub,0,0,task_categories:text-classification; source_datasets:original; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas…
+2026-10-09T15:50:26Z,QuantumAiuk/uk-pii-redaction-synthetic,QuantumAiuk,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; pii; redaction; synthetic; uk-gdpr
+2026-10-09T15:51:02Z,erichuangva/finance-image-depth,erichuangva,0,0,license:apache-2.0; region:us; dataset; finance; image-depth
+2026-10-09T15:51:19Z,erichuangva/ecommerce-data,erichuangva,0,0,license:cc-by-4.0; region:us; dataset; ecommerce; audio-text
+2026-10-09T15:51:49Z,filmecho6/Amir,filmecho6,0,0,region:us
+2026-10-09T15:55:17Z,CarolinePascal/grabette-pick-and-place-texture-2,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T15:56:19Z,landleaddirectory/us-county-land-ownership-statistics,landleaddirectory,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:geospatial; region:us; real-estate; land; geospatial; public-records; united-states
+2026-10-09T15:57:58Z,LiweiL/chicken-villus-crypt-review-assets-20261009,LiweiL,0,0,language:zh; modality:image; region:us; image; human-review; chicken-histology
+2026-10-09T15:58:59Z,CarolinePascal/grabette-pick-and-place-texture-merged,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-09T15:59:15Z,earakely-scale/wc3env-AgentEnv,earakely-scale,0,0,task_categories:reinforcement-learning; task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; libr…
+2026-10-09T16:02:04Z,Lie24/DecideBench,Lie24,0,0,region:us
+2026-10-09T16:04:32Z,Amanafif554/IELTS-WAV-FILE-P2,Amanafif554,0,0,region:us
+2026-10-09T16:05:02Z,jsaurabh/qwen-decision-27b-decision-index-0.3,jsaurabh,0,0,license:mit; region:us
+2026-10-09T16:07:27Z,gululingmeng/chartqa-docvqa-robustness-lite,gululingmeng,0,0,license:other; region:us; multimodal; visual-question-answering; robustness; adversarial-evaluation
+2026-10-09T16:08:24Z,dgambettaphd/D_llm2_run0_gen7_WXS_doc1000_synt64_temp0.5_lr1e-04_acm_SYNLAST,dgambettaphd,0,0,region:us
+2026-10-09T16:10:17Z,Tej3/robocasa-open-drawer-replay-v02,Tej3,0,0,license:cc-by-4.0; region:us
+2026-10-09T16:10:22Z,nramirezro/phd-speech,nramirezro,0,0,license:mit; region:us; dataset; speech; image-text
+2026-10-09T16:11:41Z,JiecaoBoy/CASTER-scenes,JiecaoBoy,0,0,license:mit; region:us
+2026-10-09T16:13:05Z,Anhchoi/DangDevVH,Anhchoi,0,0,region:us
+2026-10-09T16:16:14Z,dougalldeepmind/2026-10-09-gptoss120b-base-control-odcv07-swe-smoke,dougalldeepmind,0,0,license:mit; region:us
+2026-10-09T16:16:35Z,armnet/eval_push_green_button_16h03m_09-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-09T16:17:30Z,PoseyEnder/Annoy-PyEdu-Rs,PoseyEnder,0,0,region:us
+2026-10-09T16:17:31Z,PoseyEnder/Annoy-PyEdu-Rs-Raw,PoseyEnder,0,0,region:us
+2026-10-09T16:17:51Z,leobianco/eval_npov_say0dljq_checkpoint-228_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-09T16:18:25Z,dougalldeepmind/2026-10-09-gptoss120b-base-control-swe-smoke-completion,dougalldeepmind,0,0,license:mit; region:us
+2026-10-09T16:18:50Z,kfkas/supermemory-vqa-clip-dev500-imu-benchmark,kfkas,0,0,task_categories:visual-question-answering; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; arxiv:2606.00825; region:us; egocentric-video; imu; streaming-vqa; benchmark-manifest; developme…
+2026-10-09T16:18:50Z,BMU2026/Annoy-PyEdu-Rs,BMU2026,0,0,region:us
+2026-10-09T16:18:51Z,BMU2026/Annoy-PyEdu-Rs-Raw,BMU2026,0,0,region:us
+2026-10-09T16:19:03Z,greejos3053/pointcloud-text-dataset,greejos3053,0,0,license:cc-by-4.0; region:us; dataset; code; pointcloud-text
+2026-10-09T16:19:24Z,joshuaramirez/text-tabular-samples,joshuaramirez,0,0,license:mit; region:us; dataset; ocean; text-tabular
+2026-10-09T16:19:34Z,myendless/action_repre,myendless,0,0,region:us
+2026-10-09T16:20:05Z,coreytoolathon/Annoy-PyEdu-Rs,coreytoolathon,0,0,region:us
+2026-10-09T16:20:06Z,coreytoolathon/Annoy-PyEdu-Rs-Raw,coreytoolathon,0,0,region:us
