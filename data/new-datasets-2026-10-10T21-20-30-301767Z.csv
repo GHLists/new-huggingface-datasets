@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-10T20:20:45Z,fallings/fusion-fresh-temporal40-threeway-predictions-20261010,fallings,0,0,license:mit; region:us
+2026-10-10T20:22:31Z,Hastagaras/GRPO-Traps-Rubrics,Hastagaras,0,0,size_categories:n<1K; modality:text; region:us
+2026-10-10T20:25:07Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-10-10T20:25:07Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-10-10T20:29:35Z,YOLO2431/key-unlock-maniflow4flexipi-r1-dagger-with-policy,YOLO2431,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-10T20:30:38Z,Emulated-Inc/sci-moth-trap-counts-new-region,Emulated-Inc,0,0,license:mit; region:us
+2026-10-10T20:33:52Z,nairaxo/shikomori-voice,nairaxo,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T20:34:26Z,JayeshJ/Dry_Run5EPS,JayeshJ,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T20:34:32Z,Emulated-Inc/sci-crystal-drop-scoring-new-institution,Emulated-Inc,0,0,license:cc-by-4.0; region:us
+2026-10-10T20:35:20Z,suhailmalik/kitabux-anatomy-3d,suhailmalik,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-10-10T20:38:42Z,ArthurS23/leo-game-packs,ArthurS23,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-10T20:39:19Z,JaydenTeoh/apr_sft_data,JaydenTeoh,0,0,license:mit; region:us
+2026-10-10T20:40:20Z,eii/oware7x2_42,eii,0,0,region:us
+2026-10-10T20:41:04Z,mjbommar/opengloss-renders,mjbommar,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlc…
+2026-10-10T20:41:20Z,dsfsf445/Annoy-PyEdu-Rs,dsfsf445,0,0,region:us
+2026-10-10T20:41:21Z,dsfsf445/Annoy-PyEdu-Rs-Raw,dsfsf445,0,0,region:us
+2026-10-10T20:41:28Z,mithulaartigala/web2edu-dpo-working,mithulaartigala,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-10T20:45:07Z,Jdcguy/SilentBeast-Corpus,Jdcguy,0,0,task_categories:text-generation; license:apache-2.0; region:us; code; synthetic-data; tool-use; tokenizer; pretraining
+2026-10-10T20:46:10Z,ethiopia-training/amharic-asr-workshop,ethiopia-training,0,0,task_categories:automatic-speech-recognition; language:am; license:other; region:us
+2026-10-10T20:47:44Z,vllm-sr/d3-nano-decision-index,vllm-sr,0,0,region:us
+2026-10-10T20:48:04Z,vllm-sr/d3-decision-index,vllm-sr,0,0,region:us
+2026-10-10T20:48:26Z,midagedev/bloomery-refsets,midagedev,0,0,license:other; region:us; bloomery; test-fixtures
+2026-10-10T20:49:43Z,shlokpatel123/thefolds,shlokpatel123,0,0,task_categories:robotics; region:us; phosphobot; so100; phospho-dk
+2026-10-10T20:51:14Z,cybersec-org-za/nina,cybersec-org-za,0,0,task_categories:text-generation; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cybersecurity; p…
+2026-10-10T20:52:25Z,kadian-arch/stop-arnaque-237,kadian-arch,0,1,task_categories:text-classification; task_ids:multi-class-classification; multilinguality:multilingual; language:en; language:fr; language:wes; license:cc-by-4.0; size_categories:n<1K; format:parquet…
+2026-10-10T20:52:59Z,shubham4413/so100_smolvla_rc,shubham4413,0,0,region:us
+2026-10-10T20:53:18Z,vllm-sr/d3-mini-decision-index,vllm-sr,0,0,region:us
+2026-10-10T20:53:33Z,Maverick03511/causal-memory-routing-lab,Maverick03511,0,0,language:en; license:apache-2.0; size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic;…
+2026-10-10T20:53:50Z,asd123dxa3xczcq/Annoy-PyEdu-Rs,asd123dxa3xczcq,0,0,region:us
+2026-10-10T20:53:51Z,asd123dxa3xczcq/Annoy-PyEdu-Rs-Raw,asd123dxa3xczcq,0,0,region:us
+2026-10-10T20:54:07Z,liuffg124/Annoy-PyEdu-Rs,liuffg124,0,0,region:us
+2026-10-10T20:54:08Z,liuffg124/Annoy-PyEdu-Rs-Raw,liuffg124,0,0,region:us
+2026-10-10T20:54:11Z,SDCZX123WESWX/Annoy-PyEdu-Rs,SDCZX123WESWX,0,0,region:us
+2026-10-10T20:54:12Z,SDCZX123WESWX/Annoy-PyEdu-Rs-Raw,SDCZX123WESWX,0,0,region:us
+2026-10-10T20:54:59Z,alea-institute/alea-layout-skeletons,alea-institute,0,0,language:en; license:odc-by; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; document-st…
+2026-10-10T20:58:46Z,fallings/fusion-fresh-temporal40-widescalar-predictions-20261010,fallings,0,0,license:mit; region:us
+2026-10-10T21:00:47Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-10-10T21:00:47Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-10-10T21:03:13Z,yasutoshi-lab/gpt-oss-20b-self-distillation-pilot,yasutoshi-lab,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T21:05:55Z,shlokpatel123/thefolder,shlokpatel123,0,0,task_categories:robotics; region:us; phosphobot; so100; phospho-dk
+2026-10-10T21:11:49Z,Ryovx/ryovx-corpus,Ryovx,0,0,region:us
+2026-10-10T21:13:23Z,acmg/job-offers-attributes_it,acmg,0,0,license:cc-by-4.0; region:us
+2026-10-10T21:15:43Z,mteb/AVEDatasetVideoZeroShot,mteb,0,0,task_categories:video-classification; annotations_creators:human-annotated; multilinguality:monolingual; source_datasets:mteb/AVE-Dataset; language:eng; license:unknown; modality:video; modality:text…
+2026-10-10T21:16:18Z,mteb/AVEDatasetZeroShot,mteb,0,0,task_categories:video-classification; annotations_creators:human-annotated; multilinguality:monolingual; source_datasets:mteb/AVE-Dataset; language:eng; license:unknown; modality:video; modality:audi…
+2026-10-10T21:16:51Z,mteb/AVMemeAudioVideoZeroShot,mteb,0,0,task_categories:video-classification; task_ids:topic-classification; annotations_creators:human-annotated; multilinguality:multilingual; source_datasets:mteb/AVMeme-Exam; language:bos; language:bre;…
+2026-10-10T21:17:19Z,mteb/AVMemeVideoZeroShot,mteb,0,0,task_categories:video-classification; task_ids:topic-classification; annotations_creators:human-annotated; multilinguality:multilingual; source_datasets:mteb/AVMeme-Exam; language:bos; language:bre;…
+2026-10-10T21:18:02Z,mohammed-bahumaish/arabic-tts-reliability-eval,mohammed-bahumaish,0,0,region:us
+2026-10-10T21:20:02Z,bbkdevops/SWE-bench_Verified,bbkdevops,0,0,region:us
