@@ -1,0 +1,32 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-09T23:21:17Z,txgsync/K2-Horizon-MoVA-36B-A4B-NSLM-seedbank,txgsync,0,0,license:apache-2.0; region:us; k2-horizon; mova; seedlm; nslm; lfsr
+2026-10-09T23:26:14Z,gregor-ws/livia,gregor-ws,0,0,license:apache-2.0; region:us
+2026-10-09T23:26:31Z,gliteceo/sabi-naija-pidgin-v2,gliteceo,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T23:28:02Z,aqxlogistics/cross-border-air-freight-benchmarks-uae-france-australia-2026,aqxlogistics,0,0,region:us
+2026-10-09T23:35:16Z,rzgar/tanstack-start-convex-web-app-skills,rzgar,0,0,license:mit; region:us
+2026-10-09T23:38:20Z,Changahou/MATM,Changahou,0,0,license:mit; region:us
+2026-10-09T23:42:47Z,akhaliq/qwen-21-turbo-character-swap-v1,akhaliq,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-09T23:44:26Z,JuanNoraB00/Datachallenge_,JuanNoraB00,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; Falls; Long-term_care_homes
+2026-10-09T23:46:58Z,syssec-utd/statement-py315-pylingual-v6-tokenized,syssec-utd,0,0,size_categories:10M<n<100M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-09T23:47:35Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-10-09T23:47:36Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-10-09T23:48:24Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_cfbb_gens_T0_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T23:51:07Z,ChengyiX/coder390-fable-m4max-agent-study,ChengyiX,0,0,language:en; license:other; region:us; apple-silicon; local-inference; agent-evaluation; qwen; ornith; speculative-decoding; vision; reproducibility
+2026-10-09T23:53:58Z,SimonReese/da3-arrange-train,SimonReese,0,0,license:mit; region:us
+2026-10-09T23:54:29Z,mythymes/symptoms_ner_v02_biobert,mythymes,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T23:56:00Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_cfbb_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-09T23:59:06Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-10T00:02:40Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_cfbb_gens_T0_7_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T00:03:12Z,kotyKD/Gryphe-Opus-4.6-with-validation,kotyKD,0,0,region:us
+2026-10-10T00:06:07Z,rishi-mehta17/act_dataset_1,rishi-mehta17,0,0,region:us
+2026-10-10T00:11:01Z,Menna-Taha/carla-lidar-ood-harmful-dataset,Menna-Taha,0,0,region:us
+2026-10-10T00:11:08Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S130104_cfbb_gens_T1_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-10T00:11:44Z,rishi-mehta17/act_dataset_1_20261009_200700,rishi-mehta17,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-10T00:12:41Z,ASD12CXZ/Annoy-PyEdu-Rs,ASD12CXZ,0,0,region:us
+2026-10-10T00:12:42Z,ASD12CXZ/Annoy-PyEdu-Rs-Raw,ASD12CXZ,0,0,region:us
+2026-10-10T00:15:10Z,dfsfg5657/Annoy-PyEdu-Rs,dfsfg5657,0,0,region:us
+2026-10-10T00:15:11Z,dfsfg5657/Annoy-PyEdu-Rs-Raw,dfsfg5657,0,0,region:us
+2026-10-10T00:15:49Z,introvoyz045/ODesign,introvoyz045,0,0,license:mit; region:us
+2026-10-10T00:18:11Z,leobianco/eval_npov_PERL_organic_gemma-4-E4B-it_S1301_cfbb_gens_T1_2_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-10T00:20:00Z,smerkd/c4d-scenes-previews,smerkd,0,0,region:us
+2026-10-10T00:20:55Z,introvoyz045/JEPA-Anything,introvoyz045,0,0,license:mit; region:us
