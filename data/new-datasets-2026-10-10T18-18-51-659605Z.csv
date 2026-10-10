@@ -1,0 +1,64 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-10T17:20:16Z,mrinmoyux/eazydiner,mrinmoyux,0,0,region:us
+2026-10-10T17:23:26Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs,ASDSAGJADFQWQ,0,0,region:us
+2026-10-10T17:23:26Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw,ASDSAGJADFQWQ,0,0,region:us
+2026-10-10T17:24:07Z,Vier7/trust-protocol-fixes,Vier7,0,0,region:us
+2026-10-10T17:24:59Z,asheriga/pascal-engram-inputs,asheriga,0,0,region:us
+2026-10-10T17:25:02Z,YanaLabs/chatbot,YanaLabs,0,0,language:fr; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-10T17:25:44Z,Saxon0520/U3DWind-HongKong,Saxon0520,0,0,region:us
+2026-10-10T17:26:10Z,haohuiliang/RobustOps-Trajectories,haohuiliang,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; tool-use; recovery; enterpriseops; synthetic
+2026-10-10T17:26:13Z,Vivameda/synthetic-intelligence-samples,Vivameda,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; company-intelligence; historical-analysis;…
+2026-10-10T17:28:30Z,ADIP-QCRI/ADIP-DocLayNet-English,ADIP-QCRI,0,0,task_categories:image-to-text; task_categories:object-detection; language:en; license:cdla-permissive-1.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets;…
+2026-10-10T17:30:11Z,Aaronng456/leisaac_yellowcubev2,Aaronng456,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-10T17:33:29Z,ASDC12SDA/Annoy-PyEdu-Rs,ASDC12SDA,0,0,region:us
+2026-10-10T17:33:30Z,ASDC12SDA/Annoy-PyEdu-Rs-Raw,ASDC12SDA,0,0,region:us
+2026-10-10T17:33:45Z,alreadyopen/world-gazetteer,alreadyopen,0,0,license:cc0-1.0; modality:geospatial; region:us; geospatial; gazetteer; places
+2026-10-10T17:34:06Z,SAD12D/Annoy-PyEdu-Rs,SAD12D,0,0,region:us
+2026-10-10T17:34:07Z,SAD12D/Annoy-PyEdu-Rs-Raw,SAD12D,0,0,region:us
+2026-10-10T17:34:57Z,SanRiiiii/UniVEdit_8k,SanRiiiii,0,0,region:us
+2026-10-10T17:37:47Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-10-10T17:37:48Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-10-10T17:38:14Z,aptologia/cuanto-sube-el-arriendo-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-…
+2026-10-10T17:38:34Z,aptologia/anos-de-salario-minimo-para-comprar-apartamento-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-…
+2026-10-10T17:38:51Z,thaki-AI/daily-paper-2026-10-11-overnight-oncall-skill-evolution-k8s,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; k8s-incident-self-evolution; overnight-skill-evolution; fault-injected-holdout; goodhart-divergence; promotion-gate; autonomous-remediation; cost-per-incide…
+2026-10-10T17:38:58Z,aptologia/arriendo-vs-ingreso-por-ciudad-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-…
+2026-10-10T17:39:21Z,aptologia/costo-de-arrendar-antes-de-las-llaves-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-…
+2026-10-10T17:39:26Z,toolathlon-eval-02/Annoy-PyEdu-Rs-Raw,toolathlon-eval-02,0,0,region:us
+2026-10-10T17:39:26Z,toolathlon-eval-02/Annoy-PyEdu-Rs,toolathlon-eval-02,0,0,region:us
+2026-10-10T17:41:00Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-10T17:43:01Z,Daboom382/Amapiano-songs,Daboom382,0,0,region:us
+2026-10-10T17:44:11Z,SOTAagi2030/OrchardLedger-Parcel-Notes,SOTAagi2030,0,0,region:us
+2026-10-10T17:44:27Z,nganpham64561/aurora,nganpham64561,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-10T17:45:45Z,AI-science-sheggle/good-manhua,AI-science-sheggle,0,0,region:us
+2026-10-10T17:45:48Z,jaeikkim/fr3-cube-rlteacher-10k-rgb-native320-sharedvis-v3-20261010,jaeikkim,0,0,region:us; lerobot; robotics; franka-fr3; simulation; shared-visual-v3
+2026-10-10T17:45:55Z,nuhmanpk/gatekeeper-router-master,nuhmanpk,0,0,task_categories:text-classification; task_ids:intent-classification; task_ids:multi-class-classification; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modal…
+2026-10-10T17:50:39Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-10-10T17:50:39Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-10-10T17:50:40Z,I4031/items_raw_lite,I4031,0,0,region:us
+2026-10-10T17:51:15Z,MukulVashistha/hinglish-fc-test,MukulVashistha,0,0,task_categories:text-generation; language:hi; language:en; license:apache-2.0; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2211.07514; arxiv:2406.18518; region:us; function-calling; tool-calli…
+2026-10-10T17:52:08Z,RKB109/support-routing-ml-20261010-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-10T17:52:44Z,tknika/pii-synthetic-basque-v2,tknika,0,0,task_categories:token-classification; language:eu; language:es; language:fr; license:cc-by-4.0; region:us; synthetic; pii; privacy; named-entity-recognition; ner; basque; euskara; text-classification
+2026-10-10T17:55:22Z,JALAPENO11/megathon-green-insights-synthetic,JALAPENO11,0,0,region:us
+2026-10-10T17:58:08Z,fallings/fusion-fresh-history50-predictions-20261010,fallings,0,0,license:mit; region:us
+2026-10-10T17:58:42Z,Wargchief/items_prompts_lite,Wargchief,0,0,region:us
+2026-10-10T17:58:46Z,science-papers/some-scienctific-paper,science-papers,0,0,region:us; scientific-papers; fulltext; s2orc
+2026-10-10T17:58:58Z,Jf17Digits/IFCT103,Jf17Digits,0,0,region:us
+2026-10-10T18:02:18Z,Jf17Digits/1FCT103-Retail-POS-Cyber-Security-Incidents-2026,Jf17Digits,0,0,license:mit; region:us
+2026-10-10T18:06:30Z,real-stanford/multisensory_wm,real-stanford,0,0,license:mit; arxiv:2606.30988; region:us; robotics
+2026-10-10T18:07:07Z,tinkerbuggy/Car,tinkerbuggy,0,0,region:us
+2026-10-10T18:07:24Z,real-stanford/needlework,real-stanford,0,0,license:mit; region:us; robotics
+2026-10-10T18:07:32Z,real-stanford/modpack,real-stanford,0,0,license:mit; arxiv:2607.19479; region:us; robotics
+2026-10-10T18:09:43Z,Jaswanth-0821/mini-pretraining-data-v1,Jaswanth-0821,0,0,region:us
+2026-10-10T18:09:48Z,jaeikkim/fr3-peg-rlteacher-10k-rgb-native320-sharedvis-v3-20261010,jaeikkim,0,0,region:us; lerobot; robotics; franka-fr3; simulation; shared-visual-v3
+2026-10-10T18:10:32Z,real-stanford/gated-memory-policy,real-stanford,0,0,license:mit; arxiv:2604.18933; region:us; robotics
+2026-10-10T18:11:56Z,PureOne/YEORIN-X-v4-Research,PureOne,0,0,language:en; license:mit; size_categories:1K<n<10K; region:us; computer-vision; graphics; reprojection; latency-research; robust-control; uncertainty; scientific-computing; synthetic-data; reproducib…
+2026-10-10T18:12:08Z,cobrasnake141/h3-a100-artifacts,cobrasnake141,0,0,region:us
+2026-10-10T18:15:58Z,dfdfhhj7/Annoy-PyEdu-Rs-Raw,dfdfhhj7,0,0,region:us
+2026-10-10T18:15:58Z,dfdfhhj7/Annoy-PyEdu-Rs,dfdfhhj7,0,0,region:us
+2026-10-10T18:16:46Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-10-10T18:16:47Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-10-10T18:17:39Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-10-10T18:17:40Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-10-10T18:18:45Z,DAS12DA12DA12/Annoy-PyEdu-Rs,DAS12DA12DA12,0,0,region:us
+2026-10-10T18:18:46Z,DAS12DA12DA12/Annoy-PyEdu-Rs-Raw,DAS12DA12DA12,0,0,region:us
+2026-10-10T18:18:47Z,msirdaneh/items_raw_full,msirdaneh,0,0,region:us
