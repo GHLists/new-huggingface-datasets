@@ -1,0 +1,80 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-10T18:19:21Z,SOTAagi2030/Beacon-Rook-Pings,SOTAagi2030,0,0,region:us
+2026-10-10T18:19:21Z,Maydanlabs/maydan-hf-rl-sampler,Maydanlabs,0,0,language:en; license:apache-2.0; size_categories:n<1K; library:harbor; region:us; rl-environment; harbor; gcc; saudi-arabia; government-services; social-insurance; payroll; synthetic-data; tool-use;…
+2026-10-10T18:19:29Z,msirdaneh/items_raw_lite,msirdaneh,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T18:20:07Z,SpectralSpirit/items_raw_full,SpectralSpirit,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T18:20:31Z,Biscut4Biscuit/hirise-dtm-cogs,Biscut4Biscuit,0,0,modality:geospatial; region:us; mars; hirise; dtm; elevation; cog; geospatial
+2026-10-10T18:20:36Z,nkeetha/paninian,nkeetha,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-10T18:20:57Z,Emulated-Inc/sci-malaria-parasitaemia-new-hospital,Emulated-Inc,0,0,license:cc-by-4.0; size_categories:1M<n<10M; modality:image; modality:text; region:us; malaria; microscopy; parasitology
+2026-10-10T18:21:08Z,Soda2/server_shortlist_discord,Soda2,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T18:21:57Z,nkeetha/hl7-biggraph-care,nkeetha,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T18:22:32Z,SpectralSpirit/items_raw_lite,SpectralSpirit,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T18:23:41Z,Agentic-Payment/agent-overspend-benchmark-2026-10,Agentic-Payment,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-10T18:24:09Z,real-stanford/mofpo,real-stanford,0,0,license:mit; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; arxiv:2607.11884; region:us; robotics
+2026-10-10T18:24:38Z,tasksource/sentfin,tasksource,0,0,license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T18:24:42Z,dsixteen/Niji_1_Portrait-control,dsixteen,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T18:25:44Z,vllm-sr/d3-flash-decision-index,vllm-sr,0,0,region:us
+2026-10-10T18:25:59Z,tasksource/wands,tasksource,0,0,source_datasets:napsternxg/wands; license:mit; size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-10T18:26:06Z,vanchokobrata/selina1,vanchokobrata,0,0,license:unknown; region:us
+2026-10-10T18:27:25Z,fallings/fusion-fresh-local25-warm25-predictions-20261010,fallings,0,0,license:mit; region:us
+2026-10-10T18:27:39Z,DirLidA/biougra-pond-artifacts,DirLidA,0,0,license:mit; region:us; quantum; chsh; ghz; brisbane
+2026-10-10T18:28:39Z,Felixr1/nyc-immigrant-services,Felixr1,0,0,language:en; language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; immig…
+2026-10-10T18:28:41Z,tasksource/scirepeval-search,tasksource,0,0,source_datasets:allenai/scirepeval; license:other; size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-10T18:29:14Z,vllm-sr/d3-lite-decision-index,vllm-sr,0,0,region:us
+2026-10-10T18:29:15Z,matthiasblum/uniprotkb-interpro-ted,matthiasblum,0,0,license:cc-by-4.0; size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T18:29:25Z,jaeikkim/fr3-cube-mimicgen-10k-rgb-native320-sharedvis-v3-20261010,jaeikkim,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot; region:us; lerobot; robotic…
+2026-10-10T18:29:40Z,DSAD123GFTQ/Annoy-PyEdu-Rs-Raw,DSAD123GFTQ,0,0,region:us
+2026-10-10T18:29:40Z,DSAD123GFTQ/Annoy-PyEdu-Rs,DSAD123GFTQ,0,0,region:us
+2026-10-10T18:29:52Z,vllm-sr/d3-mini-decision-index,vllm-sr,0,0,region:us
+2026-10-10T18:31:55Z,laion/humaneness-voice-small-real-quality-top25-en-de-ref,laion,0,0,task_categories:text-to-speech; task_categories:audio-to-audio; language:en; language:de; license:cc-by-4.0; library:webdataset; region:us; speech; tts; voice-cloning; webdataset; moss-audio-tokenize…
+2026-10-10T18:33:58Z,jaeikkim/fr3-peg-mimicgen-10k-rgb-native320-sharedvis-v3-20261010,jaeikkim,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot; region:us; lerobot; robotic…
+2026-10-10T18:34:45Z,real-stanford/adaptive_compliance_policy,real-stanford,0,0,license:mit; region:us; robotics
+2026-10-10T18:36:14Z,allelix/allelix-rsid-identity,allelix,0,0,task_categories:tabular-classification; license:cc0-1.0; size_categories:1M<n<10M; region:us; genomics; dbsnp; rsid; cross-build; GRCh37; GRCh38; bioinformatics; sqlite
+2026-10-10T18:36:55Z,Emulated-Inc/sci-rain-from-geostationary-infrared,Emulated-Inc,0,0,region:us
+2026-10-10T18:37:25Z,notadib/DELVE-Datasets,notadib,0,0,language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; region:us; mathematics; aime; reasoning
+2026-10-10T18:37:32Z,Vivameda/company-intelligence-case-studies,Vivameda,0,0,language:en; region:us; company-intelligence; case-study; historical-analysis
+2026-10-10T18:38:06Z,agaier/arena-tasks,agaier,0,0,region:us
+2026-10-10T18:38:50Z,NoeFlandre/workbench-gym,NoeFlandre,0,0,task_categories:reinforcement-learning; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:openenv; r…
+2026-10-10T18:39:55Z,bmombie/bimanual-test-raw,bmombie,0,0,region:us
+2026-10-10T18:41:33Z,siddharthmb/2026.TA.tc8192_compliance_first10_relpfix_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-10T18:41:46Z,Emulated-Inc/sci-microtubules-vem-new-cell-type,Emulated-Inc,0,0,license:cc-by-4.0; region:us
+2026-10-10T18:43:28Z,lihning2/skill-tree,lihning2,0,0,license:mit; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T18:43:32Z,harsh72877287/job_resume_fit,harsh72877287,0,0,task_categories:text-classification; task_categories:zero-shot-classification; language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; lib…
+2026-10-10T18:45:48Z,bmombie/bimanual-test,bmombie,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-10T18:47:44Z,CaptainNemo18/Real_512,CaptainNemo18,0,0,license:mit; region:us
+2026-10-10T18:47:55Z,oleria-integration/oleria-test-public-dataset,oleria-integration,0,0,region:us
+2026-10-10T18:47:56Z,oleria-integration/oleria-test-gated-dataset,oleria-integration,0,0,region:us
+2026-10-10T18:48:05Z,tduongb2000/DangDevVH,tduongb2000,0,0,region:us
+2026-10-10T18:49:40Z,real-stanford/UMI-FT,real-stanford,0,0,license:mit; arxiv:2601.09988; region:us; robotics
+2026-10-10T18:49:45Z,fallings/fusion-fresh-kinetic-context-predictions-20261010,fallings,0,0,license:mit; region:us
+2026-10-10T18:50:16Z,3mirbey/skyrim-mobile,3mirbey,0,0,region:us
+2026-10-10T18:55:47Z,ali-rabiee/cdb-unity-archive-2026-10,ali-rabiee,0,0,license:other; region:us
+2026-10-10T18:55:50Z,CaptainNemo18/Ai_512,CaptainNemo18,0,0,license:mit; region:us
+2026-10-10T18:57:11Z,vllm-sr/d3-nano-decision-index,vllm-sr,0,0,region:us
+2026-10-10T18:58:20Z,Satyamkarn100/FinDoc-AI,Satyamkarn100,0,1,license:mit; region:us
+2026-10-10T18:59:19Z,Emulated-Inc/sci-ztf-bts-early-alerts,Emulated-Inc,0,0,license:cc-by-4.0; region:us
+2026-10-10T18:59:56Z,YOLO2431/key-unlock-v3.4-maniflow-r1-dagger-with-policy,YOLO2431,0,0,region:us
+2026-10-10T19:00:26Z,nightly-wave/3858a432,nightly-wave,0,0,region:us
+2026-10-10T19:01:25Z,Emulated-Inc/sci-scalp-ied-detection,Emulated-Inc,0,0,license:cc-by-4.0; region:us
+2026-10-10T19:02:09Z,yuiseki/estat-jumin-idou,yuiseki,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:ja; language:en; license:other; size_categories:100M<n<1B; region:us; japan; e-stat; statistics-bureau-of-japan;…
+2026-10-10T19:02:16Z,amazumder/docile-val-openrouter-temp-20261011,amazumder,0,0,region:us
+2026-10-10T19:05:34Z,stukenov/personal-vault,stukenov,0,0,region:us
+2026-10-10T19:07:03Z,yuiseki/un-wpp,yuiseki,0,0,region:us
+2026-10-10T19:09:33Z,baxtheeternal/rotten_tomatoes,baxtheeternal,0,0,task_categories:text-classification; task_ids:sentiment-classification; annotations_creators:crowdsourced; language_creators:crowdsourced; multilinguality:monolingual; source_datasets:original; langu…
+2026-10-10T19:10:36Z,abr00kx/research-intelligence-reports,abr00kx,0,0,task_categories:tabular-to-text; task_categories:text-retrieval; annotations_creators:automated-and-expert; language:en; license:mit; region:us; finance; corporate-reporting; sec-edgar; osint; nitter…
+2026-10-10T19:10:41Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-10T19:10:41Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-10T19:11:41Z,sanghwa-na/bobcat-1.2-decision-index-0.3,sanghwa-na,0,0,region:us; decision-index
+2026-10-10T19:12:54Z,ArminRahimi/audio8-fa-codes,ArminRahimi,0,0,task_categories:text-to-speech; language:fa; license:cc0-1.0; region:us; persian; farsi; audio8; codec-codes
+2026-10-10T19:13:33Z,stukenov/vault-push-test,stukenov,0,0,region:us
+2026-10-10T19:13:42Z,afsdaaaf/Annoy-PyEdu-Rs,afsdaaaf,0,0,region:us
+2026-10-10T19:13:43Z,afsdaaaf/Annoy-PyEdu-Rs-Raw,afsdaaaf,0,0,region:us
+2026-10-10T19:14:26Z,tc-huang/mahjong_v1_reach07_twos_dart,tc-huang,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-10-10T19:15:39Z,liufeqww1154/Annoy-PyEdu-Rs,liufeqww1154,0,0,region:us
+2026-10-10T19:15:40Z,liufeqww1154/Annoy-PyEdu-Rs-Raw,liufeqww1154,0,0,region:us
+2026-10-10T19:15:44Z,cxzsad12e/Annoy-PyEdu-Rs,cxzsad12e,0,0,region:us
+2026-10-10T19:15:45Z,cxzsad12e/Annoy-PyEdu-Rs-Raw,cxzsad12e,0,0,region:us
+2026-10-10T19:15:52Z,Shivaraj5/hitek-mirror,Shivaraj5,0,0,region:us
+2026-10-10T19:17:07Z,pltops/bafco-openrouter-temp-20261011,pltops,0,0,region:us
+2026-10-10T19:17:40Z,bench-temp-2/mmlu-pt-high-school-hard,bench-temp-2,0,0,region:us
+2026-10-10T19:18:34Z,bench-temp-2/mmlu-pt-undergraduate-hard,bench-temp-2,0,0,region:us
