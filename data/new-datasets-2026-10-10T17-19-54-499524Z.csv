@@ -1,0 +1,55 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-10T16:21:34Z,anjaniksharma/grab_cube,anjaniksharma,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T16:22:34Z,Mirage415/nyush_panthera_test,Mirage415,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region:us; lerobot;…
+2026-10-10T16:22:34Z,lukejoe/telora_db,lukejoe,0,0,license:mit; region:us
+2026-10-10T16:24:34Z,Reduanul1997/E3_Pyramid_ASPP-style_Test_Evaluation,Reduanul1997,0,0,region:us
+2026-10-10T16:28:13Z,dianavdavidson/indicvoices-20k-validation2,dianavdavidson,0,0,size_categories:100K<n<1M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T16:28:48Z,alreadyopen/sa-planning,alreadyopen,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; geo…
+2026-10-10T16:28:50Z,akbargherbal/fg-subtitles-index,akbargherbal,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T16:28:54Z,HumAI-DisplacementMonitoring/CDSI,HumAI-DisplacementMonitoring,0,0,license:cc-by-nc-nd-4.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-10T16:29:49Z,tuoyimlu/VIEDO,tuoyimlu,0,0,region:us
+2026-10-10T16:31:09Z,Trace-as-state/Trace-as-State,Trace-as-state,0,0,license:mit; region:us
+2026-10-10T16:31:57Z,companies-directory/austria-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; l…
+2026-10-10T16:33:20Z,prabhatl0dhi/C_C_plus_plus_Patch_Dataset_for_Secure_Code_LLMs,prabhatl0dhi,0,1,license:mit; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; llms; finetuning
+2026-10-10T16:34:23Z,gautamrishiii/zidio-data,gautamrishiii,0,0,size_categories:10M<n<100M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-10T16:36:09Z,InfoVis/Data,InfoVis,0,0,task_categories:text-to-image; task_categories:image-to-image; language:en; license:cc-by-nc-4.0; size_categories:10M<n<100M; region:us; slides; presentation; text-rendering; image-editing
+2026-10-10T16:36:33Z,siddharthmb/2026.TA.tc8192_refusal_first10_relpfix_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-10T16:37:29Z,siddharthmb/2026.TA.comply_vs_refuse_chat_hires_relpfix_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-10T16:37:52Z,cedricable/cognitive-ran-openenv,cedricable,0,0,task_categories:reinforcement-learning; language:en; license:other; library:openenv; region:us; openenv; synthetic; cognitive-ran
+2026-10-10T16:42:07Z,loaninspection/us-mortgage-lender-fees-hmda-2024,loaninspection,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; mortgage;…
+2026-10-10T16:42:31Z,toolathlon-eval-01/Annoy-PyEdu-Rs-Raw,toolathlon-eval-01,0,0,region:us
+2026-10-10T16:42:31Z,toolathlon-eval-01/Annoy-PyEdu-Rs,toolathlon-eval-01,0,0,region:us
+2026-10-10T16:42:54Z,einarolafsson/spacr-example-hit,einarolafsson,0,0,license:cc-by-4.0; size_categories:1K<n<10K; region:us; spacr; microscopy; toxoplasma; crispr-screen
+2026-10-10T16:47:55Z,feregrino/mananeras,feregrino,0,0,language:es; license:cc-by-sa-4.0; size_categories:1K<n<10K; region:us; government; politics; mexico
+2026-10-10T16:49:13Z,HumanLineage/open-genealogical-dataset,HumanLineage,0,0,language:mul; license:cc-by-sa-4.0; size_categories:1M<n<10M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; genealogy; gedcomx; family-tr…
+2026-10-10T16:50:43Z,lamshiu/gui-world-model-data,lamshiu,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; world-model; gui; computer-use; screenshots; games
+2026-10-10T16:51:12Z,yasutoshi-lab/gpt-oss-20b-self-distillation-pilot,yasutoshi-lab,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-10T16:51:40Z,shehreen3764/ProReady-QA,shehreen3764,0,0,region:us
+2026-10-10T16:53:21Z,companies-directory/estonia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; companies; business; company-registry; official-sourc…
+2026-10-10T16:53:53Z,dalim09/credit-risk-eda,dalim09,0,0,task_categories:tabular-classification; license:mit; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library…
+2026-10-10T16:56:24Z,Donghyun1228/libero-source-free-random-target-minismoke-20261011,Donghyun1228,0,0,language:en; size_categories:n<1K; region:us; robotics; libero; target-only; task-agnostic
+2026-10-10T16:57:00Z,pranavaw/NABBP1960to2026ret260715,pranavaw,0,0,license:cc0-1.0; region:us
+2026-10-10T16:57:24Z,companies-directory/lithuania-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; companies; business; company-registry; official-sourc…
+2026-10-10T17:01:21Z,lsalomme/so101-d2v1-case-open,lsalomme,0,0,task_categories:robotics; license:cc-by-4.0; region:us; LeRobot; so101; teleoperation; manipulation; imitation-learning; articulated-objects
+2026-10-10T17:01:30Z,AMIRYALL/items_raw_lite,AMIRYALL,0,0,region:us
+2026-10-10T17:01:57Z,edgarcancinoe/water_pour,edgarcancinoe,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-10T17:02:28Z,companies-directory/germany-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; companies; business; company-registry; official-source…
+2026-10-10T17:04:48Z,mohammed-bahumaish/arabic-tts-reliability-benchmark,mohammed-bahumaish,0,0,language:ar; size_categories:n<1K; modality:audio; region:us; audio; text-to-speech; evaluation; human-evaluation
+2026-10-10T17:07:29Z,hoskasii/dataset,hoskasii,0,0,region:us
+2026-10-10T17:08:27Z,Begoomaa/model-pulse-data,Begoomaa,0,0,task_categories:time-series-forecasting; license:apache-2.0; size_categories:1B<n<10B; region:us; hub-stats; huggingface-hub; downloads; time-series; analytics; open-source-ai
+2026-10-10T17:09:06Z,themohal/roman-saraiki-parallel,themohal,0,0,task_categories:translation; task_categories:text-generation; task_categories:text-classification; language:skr; language:ur; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us;…
+2026-10-10T17:11:04Z,shamux/so101_cube_camera,shamux,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-10T17:11:34Z,TaliesinEliana/Annoy-PyEdu-Rs,TaliesinEliana,0,0,region:us
+2026-10-10T17:11:35Z,TaliesinEliana/Annoy-PyEdu-Rs-Raw,TaliesinEliana,0,0,region:us
+2026-10-10T17:11:39Z,mlnomad/yat-mlm-1b-v1,mlnomad,0,0,task_categories:fill-mask; region:us
+2026-10-10T17:11:55Z,123sg/Annoy-PyEdu-Rs,123sg,0,0,region:us
+2026-10-10T17:11:56Z,123sg/Annoy-PyEdu-Rs-Raw,123sg,0,0,region:us
+2026-10-10T17:12:12Z,Bellido/cafeterias_uam_2026,Bellido,0,0,region:us
+2026-10-10T17:12:24Z,hughbertlongshanks/pool_detector_models,hughbertlongshanks,0,0,region:us
+2026-10-10T17:13:02Z,adarshcpt/pediatric-stutter-sep28k,adarshcpt,0,0,region:us
+2026-10-10T17:14:08Z,feregrino/uk-government-blogs,feregrino,0,0,region:us
+2026-10-10T17:15:01Z,adarshcpt/pediatric-stutter-uclass,adarshcpt,0,0,region:us
+2026-10-10T17:15:56Z,GOBUNU/LightYourFace-160K,GOBUNU,0,0,region:us
+2026-10-10T17:16:49Z,sadfsg4546/Annoy-PyEdu-Rs,sadfsg4546,0,0,region:us
+2026-10-10T17:16:50Z,sadfsg4546/Annoy-PyEdu-Rs-Raw,sadfsg4546,0,0,region:us
+2026-10-10T17:19:38Z,Chitrapradha/syncrag-raw-logs,Chitrapradha,0,0,license:mit; region:us
