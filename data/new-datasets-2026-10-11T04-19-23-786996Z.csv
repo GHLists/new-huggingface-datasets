@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T03:20:19Z,yudai0209/so101_vial_rack_pos7,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-11T03:21:29Z,EthanWTL81/geo-obs-base-data,EthanWTL81,0,0,license:other; size_categories:10K<n<100K; modality:video; region:us; video; synthetic; physics; image-to-video
+2026-10-11T03:22:01Z,yudai0209/so101_vial_rack_pos7_ok,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-11T03:22:41Z,vllm-sr/d3-lite-decision-index,vllm-sr,0,0,region:us
+2026-10-11T03:22:57Z,gabrielamitx/pointcloud-text-data,gabrielamitx,0,0,license:cc-by-4.0; region:us; dataset; dialogue; pointcloud-text
+2026-10-11T03:24:25Z,yudai0209/so101_vial_rack_58ep,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-11T03:27:19Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs,DSAD2CSA2ZC,0,0,region:us
+2026-10-11T03:27:20Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs-Raw,DSAD2CSA2ZC,0,0,region:us
+2026-10-11T03:27:27Z,ekunish/parc2026-track2-public8-improved-20261011,ekunish,0,0,language:en; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; libero; parc2026
+2026-10-11T03:27:48Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-10-11T03:27:49Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-10-11T03:30:11Z,datht/llama-processed-cl-geneva,datht,0,0,license:other; region:us
+2026-10-11T03:30:28Z,datht/gemma-processed-cl-geneva,datht,0,0,license:other; region:us
+2026-10-11T03:31:46Z,context-language-model/ContextBench,context-language-model,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2609.37725; region:u…
+2026-10-11T03:32:21Z,jonasofischer/comics-audio-text-2023,jonasofischer,0,0,license:mit; region:us; dataset; comics; audio-text
+2026-10-11T03:35:36Z,vllm-sr/d3-edge-decision-index,vllm-sr,0,0,region:us
+2026-10-11T03:36:09Z,TuanDepZai/composuite-offline-expert-panda,TuanDepZai,0,0,region:us
+2026-10-11T03:38:34Z,micahr234/mouse-dataset-30task-70random,micahr234,0,0,size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T03:38:39Z,zyjcode/PestVL-Net,zyjcode,0,0,region:us
+2026-10-11T03:39:17Z,cora-health/compounded-injection-price-index,cora-health,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; telehe…
+2026-10-11T03:39:28Z,DiligentPenguinn/a1-completed-gptoss-extension-raw-signals-20261011,DiligentPenguinn,0,0,region:us; mixture-of-experts; interpretability; archival
+2026-10-11T03:40:02Z,anonymous220217/BookSem,anonymous220217,0,0,license:cc-by-nc-4.0; region:us
+2026-10-11T03:43:10Z,massfilegrow/ib-4chan-gemma-3k-datapoints,massfilegrow,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T03:43:19Z,DongFS/TMR,DongFS,0,0,region:us
+2026-10-11T03:48:35Z,wflying/code-rlvr-15k,wflying,0,0,region:us
+2026-10-11T03:49:23Z,ramaalhamidi/CARVE-revision-20261011,ramaalhamidi,0,0,region:us; video-question-answering; reproducibility; carve; lvbench
+2026-10-11T03:49:50Z,alreadyopen/sa-fire,alreadyopen,0,0,license:cc-by-4.0; modality:geospatial; region:us; geospatial; bushfire; fire-history; emergency; south-australia
+2026-10-11T03:52:32Z,fourpillars88/chinese-new-year-dates,fourpillars88,0,0,task_categories:table-question-answering; language:en; language:zh; language:ja; language:ko; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; lib…
+2026-10-11T03:53:11Z,SathyarajMedipalli/rollout_keychain_merged_v2_20261010_204026,SathyarajMedipalli,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-11T03:59:38Z,haegseer/Annoy-PyEdu-Rs,haegseer,0,0,region:us
+2026-10-11T03:59:39Z,haegseer/Annoy-PyEdu-Rs-Raw,haegseer,0,0,region:us
+2026-10-11T04:00:17Z,zydu/ep27,zydu,0,0,region:us
+2026-10-11T04:00:33Z,giangndm/viVoice-opus,giangndm,0,0,task_categories:text-to-speech; source_datasets:capleaf/viVoice; language:vi; license:cc-by-nc-sa-4.0; modality:audio; region:us; audio; compressed
+2026-10-11T04:04:56Z,SorinJamie/Annoy-PyEdu-Rs,SorinJamie,0,0,region:us
+2026-10-11T04:04:56Z,SorinJamie/Annoy-PyEdu-Rs-Raw,SorinJamie,0,0,region:us
+2026-10-11T04:05:00Z,ClinStigma/ClinStigma-SUD,ClinStigma,0,0,license:cc-by-nd-4.0; region:us
+2026-10-11T04:11:59Z,PPaja/tf3guideppsmod,PPaja,0,0,region:us
+2026-10-11T04:14:51Z,JoTalbot/ukrainian-treebank-lm,JoTalbot,0,0,task_categories:fill-mask; task_categories:text-generation; language:uk; license:cc-by-nc-sa-4.0; region:us
+2026-10-11T04:14:52Z,JoTalbot/ukr-toxicity-dataset-seminatural,JoTalbot,0,0,license:openrail++; arxiv:2207.04672; region:us
+2026-10-11T04:14:52Z,JoTalbot/ukrainian_news,JoTalbot,0,0,language:uk; region:us; uk; news
+2026-10-11T04:14:52Z,JoTalbot/chatgpt-prompts-Ukrainian,JoTalbot,0,0,language:uk; license:cc0-1.0; region:us; ChatGPT
+2026-10-11T04:14:53Z,JoTalbot/gemma3_ukrainian-ner-dataset,JoTalbot,0,0,region:us
+2026-10-11T04:14:53Z,JoTalbot/ukr-formality-dataset-translated-gyafc,JoTalbot,0,0,task_categories:text-classification; language:uk; license:openrail++; region:us
+2026-10-11T04:14:54Z,JoTalbot/ukrainian-stackexchange,JoTalbot,0,0,task_categories:question-answering; language:uk; license:cc-by-sa-4.0; size_categories:1K<n<10K; region:us
+2026-10-11T04:14:54Z,JoTalbot/ukr-nli-dataset-translated-stanford,JoTalbot,0,0,task_categories:text-classification; language:uk; license:openrail++; region:us
+2026-10-11T04:14:55Z,JoTalbot/recruitment-dataset-candidate-profiles-ukrainian,JoTalbot,0,0,language:uk; license:mit; size_categories:10K<n<100K; region:us
+2026-10-11T04:14:55Z,JoTalbot/ukr-toxicity-dataset-translated-jigsaw,JoTalbot,0,0,license:openrail++; region:us
+2026-10-11T04:14:56Z,JoTalbot/recruitment-dataset-job-descriptions-ukrainian,JoTalbot,0,0,language:uk; license:mit; size_categories:10K<n<100K; region:us
+2026-10-11T04:14:56Z,JoTalbot/alpaca-ukrainian-cleaned,JoTalbot,0,0,language:uk; size_categories:100K<n<1M; region:us
+2026-10-11T04:14:57Z,JoTalbot/Ukr-Synth,JoTalbot,0,0,task_categories:token-classification; task_ids:named-entity-recognition; task_ids:parsing; task_ids:part-of-speech; annotations_creators:machine-generated; language_creators:found; multilinguality:mo…
+2026-10-11T04:14:57Z,JoTalbot/ukrainian-poems,JoTalbot,0,0,region:us
+2026-10-11T04:14:57Z,JoTalbot/question-answering-ukrainian,JoTalbot,0,0,language:uk; region:us
+2026-10-11T04:14:58Z,JoTalbot/WizardLM-ukrainian,JoTalbot,0,0,task_categories:text-generation; language:uk; license:mit; size_categories:100K<n<1M; region:us
+2026-10-11T04:14:58Z,JoTalbot/nfr_bt_nmt_english-ukrainian,JoTalbot,0,0,language:en; language:uk; license:apache-2.0; region:us
+2026-10-11T04:14:59Z,JoTalbot/slim-orca-ukrainian,JoTalbot,0,0,language:uk; license:mit; size_categories:100K<n<1M; arxiv:2306.02707; arxiv:2301.13688; region:us
+2026-10-11T04:15:00Z,JoTalbot/ukr_pravda_2y,JoTalbot,0,0,multilinguality:multilingual; language:uk; language:en; language:ru; license:cc-by-nc-4.0; region:us
+2026-10-11T04:15:01Z,JoTalbot/ukr-wiki-sentences,JoTalbot,0,0,license:apache-2.0; region:us
+2026-10-11T04:15:02Z,JoTalbot/EU_acts_in_Ukrainian,JoTalbot,0,0,region:us
+2026-10-11T04:15:42Z,g1n0st/8f1e51ca3a60782e9e9b9b4c01b7c97553082ba7,g1n0st,0,0,region:us
+2026-10-11T04:16:30Z,JoTalbot/xlsum-ukrainian-bbc,JoTalbot,0,0,task_categories:summarization; language:ru; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; region:us; news; media; russian; bbc
+2026-10-11T04:16:47Z,JoTalbot/ukr_psyops_false_news,JoTalbot,0,0,language:uk; region:us
+2026-10-11T04:16:52Z,JoTalbot/ukr-news,JoTalbot,0,0,language:uk; license:unknown; size_categories:10K<n<100K; region:us
+2026-10-11T04:16:57Z,JoTalbot/ukr-pravda-news-summary,JoTalbot,0,0,task_categories:summarization; language:uk; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us
+2026-10-11T04:17:13Z,connections-dev/res_gptoss120b_results_claude-opus-5-5-med__natural_original_1_medium_0.7_16384_claude-opus-5-5,connections-dev,0,0,region:us
+2026-10-11T04:17:57Z,JoTalbot/telegram_data_war_in_ukraine,JoTalbot,0,0,region:us
+2026-10-11T04:18:02Z,mikami235/so101_pen_left_camfixed_v1,mikami235,0,0,region:us
+2026-10-11T04:18:49Z,connections-dev/_natural_original_1_medium_0.7_16384_kg-search,connections-dev,0,0,region:us
