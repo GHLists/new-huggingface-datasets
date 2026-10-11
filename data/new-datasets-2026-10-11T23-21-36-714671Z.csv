@@ -1,0 +1,75 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T22:19:40Z,MahmoudIbrahim/tts-eval,MahmoudIbrahim,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T22:20:00Z,Luna2099/diffusion-ffn-parallel-gate-2026-10,Luna2099,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-11T22:22:20Z,crystalhuang0228/spike-toy-dataset,crystalhuang0228,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T22:25:12Z,therarelab/medkit_bottle_pickplace_so101,therarelab,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-11T22:30:41Z,Kngwenya/st-george-3d-mesh,Kngwenya,0,1,region:us
+2026-10-11T22:36:47Z,siddharthmb/2026.TA.calibrated_4h_actual_base_adapter_jag_nodes2048_x56_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:41:11Z,researchgroup542/Table_Dataset,researchgroup542,0,0,task_categories:image-to-text; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcro…
+2026-10-11T22:42:52Z,siddharthmb/2026.TA.calibrated_2h_actual_base_adapter_jag_nodes2048_x28_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:43:48Z,siddharthmb/2026.TA.calibrated_4h_base_adapter_jag_nodes2048_x24_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:43:57Z,siddharthmb/2026.TA.calibrated_1h_actual_base_adapter_jag_nodes2048_x14_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:44:04Z,Xnhyacinth/LongBench-Research-Data,Xnhyacinth,0,0,language:en; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T22:45:48Z,siddharthmb/2026.TA.attribution_2x_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:45:53Z,siddharthmb/2026.TA.calibrated_2h_base_adapter_jag_nodes2048_x12_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:47:47Z,Xnhyacinth/LongBench-e-Research-Data,Xnhyacinth,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T22:48:16Z,siddharthmb/2026.TA.attribution_2x_dtk20_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:48:33Z,Xnhyacinth/AdaThink-Research-Data,Xnhyacinth,0,0,region:us; experiment-results; kv-cache; long-context
+2026-10-11T22:50:11Z,BaruqRodrigues/corpus-legislativo-pretraining,BaruqRodrigues,0,0,task_categories:text-generation; language:pt; license:mit; region:us; brazil; portuguese; legislation; pretraining; parquet
+2026-10-11T22:50:42Z,siddharthmb/2026.TA.calibrated_1h_base_adapter_jag_nodes2048_x6_retry_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:51:28Z,pangboo/cs546-hw2-2026,pangboo,0,0,region:us
+2026-10-11T22:52:44Z,Xnhyacinth/Image-Research-Data,Xnhyacinth,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-11T22:52:49Z,siddharthmb/2026.TA.hybrid_ft_overlay_ms100k_interesting_queries_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:53:35Z,siddharthmb/2026.TA.attribution_big_ms100000_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:53:47Z,siddharthmb/2026.TA.attribution_2x_ms100000_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:54:20Z,siddharthmb/2026.TA.graph_interesting_queries_dtk20_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:54:41Z,siddharthmb/2026.TA.hybrid_ft_overlay_ms100k_comprehensive_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:55:32Z,gabriellidenor/facial_expression_seven_classes,gabriellidenor,0,0,license:odbl; region:us
+2026-10-11T22:55:32Z,siddharthmb/2026.TA.comply_vs_refuse_uncapped_error_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:56:01Z,siddharthmb/2026.TA.graph_combined_dtk20_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:56:03Z,Xnhyacinth/NQ-Image-Research-Data,Xnhyacinth,0,0,license:mit; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-11T22:56:22Z,siddharthmb/2026.TA.attribution_big_dtk20_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:56:24Z,siddharthmb/2026.TA.hybrid_ft_ftexamples_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:56:48Z,siddharthmb/2026.TA.interesting_small_base_adapter_jag4h_nodes1024_logits10_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:58:26Z,siddharthmb/2026.TA.attribution_big_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:58:34Z,bottowork/so101_act_pickplace_v1,bottowork,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so101; act; pick-and-place
+2026-10-11T22:58:35Z,Xnhyacinth/TQA-Image-Research-Data,Xnhyacinth,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-11T22:59:06Z,siddharthmb/2026.TA.graph_combined_ms100000_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:59:29Z,siddharthmb/2026.TA.overlay_huge_iq_divergent_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T22:59:51Z,siddharthmb/2026.TA.interesting_small_base_adapter_jag2h_nodes256_logits5_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T23:00:10Z,siddharthmb/2026.TA.interesting_small_base_adapter_sphinx_nodes2048_logits10_20260528_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T23:00:37Z,Xnhyacinth/HyCo2-Research-Data,Xnhyacinth,0,0,region:us; question-answering; research-data
+2026-10-11T23:00:43Z,siddharthmb/2026.TA.overlay_huge_iq_harmful_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T23:01:09Z,siddharthmb/2026.TA.hybrid_finetuned_ftL0-24-25_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T23:01:33Z,siddharthmb/2026.TA.overlay_huge_iq_adv_suffix_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-11T23:03:09Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs,ASDSAD2E12EDASD,0,0,region:us
+2026-10-11T23:03:10Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs-Raw,ASDSAD2E12EDASD,0,0,region:us
+2026-10-11T23:05:50Z,sanghwa-na/bobcat-1.3-decision-index-0.3,sanghwa-na,0,0,license:apache-2.0; region:us
+2026-10-11T23:07:55Z,DSACZX123EDS/Annoy-PyEdu-Rs,DSACZX123EDS,0,0,region:us
+2026-10-11T23:07:56Z,DSACZX123EDS/Annoy-PyEdu-Rs-Raw,DSACZX123EDS,0,0,region:us
+2026-10-11T23:08:04Z,kyhias/smoking,kyhias,0,0,license:mit; region:us
+2026-10-11T23:10:27Z,siruavian/siru-maps,siruavian,0,0,region:us
+2026-10-11T23:10:57Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-10-11T23:10:58Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-10-11T23:11:55Z,eoinedge/heater-anomaly-windows,eoinedge,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; license:apache-2.0; size_categories:10K<n<100K; region:us; anomaly-detection; synthetic; tinyml; industrial; temperatu…
+2026-10-11T23:12:16Z,ZariahKace/Annoy-PyEdu-Rs,ZariahKace,0,0,region:us
+2026-10-11T23:12:17Z,ZariahKace/Annoy-PyEdu-Rs-Raw,ZariahKace,0,0,region:us
+2026-10-11T23:13:03Z,sadfsg4546/Annoy-PyEdu-Rs,sadfsg4546,0,0,region:us
+2026-10-11T23:13:04Z,sadfsg4546/Annoy-PyEdu-Rs-Raw,sadfsg4546,0,0,region:us
+2026-10-11T23:13:29Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-10-11T23:13:29Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-10-11T23:14:37Z,efaaefd/Annoy-PyEdu-Rs-Raw,efaaefd,0,0,region:us
+2026-10-11T23:14:37Z,efaaefd/Annoy-PyEdu-Rs,efaaefd,0,0,region:us
+2026-10-11T23:15:11Z,ASDC12SDA/Annoy-PyEdu-Rs-Raw,ASDC12SDA,0,0,region:us
+2026-10-11T23:15:11Z,ASDC12SDA/Annoy-PyEdu-Rs,ASDC12SDA,0,0,region:us
+2026-10-11T23:15:44Z,dfsfg5657/Annoy-PyEdu-Rs,dfsfg5657,0,0,region:us
+2026-10-11T23:15:45Z,dfsfg5657/Annoy-PyEdu-Rs-Raw,dfsfg5657,0,0,region:us
+2026-10-11T23:15:47Z,ASD12ED1/Annoy-PyEdu-Rs,ASD12ED1,0,0,region:us
+2026-10-11T23:15:48Z,ASD12ED1/Annoy-PyEdu-Rs-Raw,ASD12ED1,0,0,region:us
+2026-10-11T23:16:03Z,mrnasdog/token-true-inflation,mrnasdog,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; crypto; cryptocurrency; tokenomics; token-supply; inflation; finance
+2026-10-11T23:19:01Z,ASD12EDSXA/Annoy-PyEdu-Rs-Raw,ASD12EDSXA,0,0,region:us
+2026-10-11T23:19:01Z,ASD12EDSXA/Annoy-PyEdu-Rs,ASD12EDSXA,0,0,region:us
+2026-10-11T23:20:36Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-10-11T23:20:37Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-10-11T23:21:32Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-10-11T23:21:33Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
