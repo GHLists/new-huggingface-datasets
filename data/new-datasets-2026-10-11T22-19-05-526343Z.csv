@@ -1,0 +1,36 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T21:24:24Z,bklassen3434/drawer_v2_marked,bklassen3434,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-11T21:24:38Z,linkai-peng/BronchAccess,linkai-peng,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T21:27:06Z,cyttic/heb-human10uninoaug-hhdgeom-llmgen-250k,cyttic,0,0,task_categories:image-to-text; language:he; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; o…
+2026-10-11T21:28:01Z,yannelli/js-ts-code-review-decisions,yannelli,0,1,task_categories:text-classification; task_ids:multi-label-classification; annotations_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:en; language:code; li…
+2026-10-11T21:30:53Z,ml-resources/tiktok-5.6B-videos,ml-resources,0,0,license:cc-by-nc-4.0; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; tiktok; social-media;…
+2026-10-11T21:30:58Z,yqi19/dagger,yqi19,0,0,size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-11T21:32:56Z,alibayram/embeddingmagibu2-retrieval-data,alibayram,0,0,region:us
+2026-10-11T21:34:19Z,Ada-4321/SkillWeaver-RLDS,Ada-4321,0,0,task_categories:robotics; license:apache-2.0; arxiv:2609.36171; region:us; robotics; imitation-learning; rlds; libero
+2026-10-11T21:35:40Z,zbeeb/OpenThoughts3-Qwen3-4B-Math-21k,zbeeb,0,0,task_categories:text-generation; annotations_creators:machine-generated; source_datasets:open-thoughts/OpenThoughts3-1.2M; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tab…
+2026-10-11T21:38:29Z,swdvrr75/log,swdvrr75,0,0,region:us
+2026-10-11T21:38:42Z,swdvrr75/zh,swdvrr75,0,0,region:us
+2026-10-11T21:38:52Z,swdvrr75/en,swdvrr75,0,0,region:us
+2026-10-11T21:39:01Z,swdvrr75/ja,swdvrr75,0,0,region:us
+2026-10-11T21:39:17Z,swdvrr75/de,swdvrr75,0,0,region:us
+2026-10-11T21:45:01Z,flickery/pasarbench-traces,flickery,0,0,language:en; language:id; language:ms; language:th; language:vi; language:zh; license:mit; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; li…
+2026-10-11T21:46:38Z,strive-vid/tcow-strive,strive-vid,0,0,region:us
+2026-10-11T21:47:31Z,AbdallahAdel/sre-agent-execution-gap-dataset,AbdallahAdel,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T21:48:17Z,a1o/atlas,a1o,0,0,region:us
+2026-10-11T21:49:06Z,otekizbas/tekir-1.5b-veri,otekizbas,0,0,region:us
+2026-10-11T21:52:56Z,JIHUN999/CRAFT-Data,JIHUN999,0,0,task_categories:text-to-image; license:other; size_categories:10K<n<100K; arxiv:2608.14403; region:us; subject-driven-generation; personalization
+2026-10-11T21:55:03Z,MahmoudIbrahim/tts-eval,MahmoudIbrahim,0,0,region:us
+2026-10-11T21:57:14Z,Itsuki-music/TASTE,Itsuki-music,0,0,task_categories:other; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; music; midi; piano; symbolic-music…
+2026-10-11T22:03:11Z,sartajbhuvaji/bonsai-teacher-logits-corrected,sartajbhuvaji,0,0,region:us
+2026-10-11T22:03:50Z,a7x3a/kurdish-real-books-ocr-v1,a7x3a,0,0,task_categories:image-to-text; multilinguality:multilingual; language:ckb; language:ar; size_categories:1K<n<10K; region:us; ocr; kurdish; sorani; paddleocr; books; textbook; handwriting-recognition;…
+2026-10-11T22:05:34Z,prnv-ima/song2vec2-audio,prnv-ima,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-11T22:05:55Z,ASDCX1DXSXA/Annoy-PyEdu-Rs,ASDCX1DXSXA,0,0,region:us
+2026-10-11T22:05:55Z,DCXZ12D/Annoy-PyEdu-Rs,DCXZ12D,0,0,region:us
+2026-10-11T22:05:55Z,DCXZ12D/Annoy-PyEdu-Rs-Raw,DCXZ12D,0,0,region:us
+2026-10-11T22:05:56Z,ASDCX1DXSXA/Annoy-PyEdu-Rs-Raw,ASDCX1DXSXA,0,0,region:us
+2026-10-11T22:14:22Z,Chukwuamakaram/faceless-video-studio,Chukwuamakaram,0,0,region:us
+2026-10-11T22:15:23Z,dougalldeepmind/2026-10-11-dh-openrouter-gpt-5-6-terra,dougalldeepmind,0,0,region:us; eval-run; eval:delegated_harm; model:openrouter_gpt_5_6_terra; mode:default
+2026-10-11T22:16:43Z,sfdsfaff333/Annoy-PyEdu-Rs,sfdsfaff333,0,0,region:us
+2026-10-11T22:16:44Z,sfdsfaff333/Annoy-PyEdu-Rs-Raw,sfdsfaff333,0,0,region:us
+2026-10-11T22:16:46Z,mcalves/mapbiomas-brasil-risco,mcalves,0,0,region:us
+2026-10-11T22:18:10Z,massulo2131234312/teste,massulo2131234312,0,0,region:us
