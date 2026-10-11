@@ -1,0 +1,90 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T04:20:46Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-11T04:20:46Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-11T04:21:43Z,hydsingh/speech-data,hydsingh,0,0,license:mit; region:us; dataset; speech; text-tabular
+2026-10-11T04:22:03Z,hydsingh/legal-image-depth,hydsingh,0,0,license:cc-by-4.0; region:us; dataset; legal; image-depth
+2026-10-11T04:22:44Z,JoTalbot/Ukrainian-CulturalHeritage-Books,JoTalbot,0,0,task_categories:text-generation; language:uk; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-10-11T04:22:50Z,Nakshsolanki/indusfile-storage,Nakshsolanki,0,1,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-11T04:23:56Z,brsclarke90/weather-audio-video-clean,brsclarke90,0,0,license:mit; region:us; dataset; weather; audio-video
+2026-10-11T04:25:31Z,hugochenher/sports-pointcloud-text,hugochenher,0,0,license:mit; region:us; dataset; sports; pointcloud-text
+2026-10-11T04:27:23Z,CeciliaSantosova/traffic-sensor-fusion-curated,CeciliaSantosova,0,0,license:mit; region:us; dataset; traffic; sensor-fusion
+2026-10-11T04:30:10Z,ronitchawla/commons_knn,ronitchawla,0,0,license:mit; region:us
+2026-10-11T04:30:47Z,npzliekon/cs546-hw2-2026,npzliekon,0,0,region:us
+2026-10-11T04:31:16Z,vllm-sr/d3-flash-decision-index,vllm-sr,0,0,region:us
+2026-10-11T04:31:25Z,varunsatish2017/kitcheck_pick_teal,varunsatish2017,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-10-11T04:32:10Z,vllm-sr/d3-mini-decision-index,vllm-sr,0,0,region:us
+2026-10-11T04:35:27Z,FINAL-Bench/oqc-data,FINAL-Bench,0,1,region:us
+2026-10-11T04:35:41Z,JoTalbot/sovereign-ukrainian-sft-core,JoTalbot,0,0,language:uk; license:other; size_categories:n<1K; region:us; ukrainian; sft; fine-tuning; history; literature; linguistics; reasoning
+2026-10-11T04:35:44Z,JoTalbot/ULP-Ukrainian-Language-Proficiency,JoTalbot,0,0,task_categories:multiple-choice; language:uk; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ukrainia…
+2026-10-11T04:35:48Z,JoTalbot/disarm-ukrainian-telegram-august-2026-lite,JoTalbot,0,0,task_categories:text-classification; task_categories:token-classification; language:uk; language:ru; license:cc-by-nc-4.0; size_categories:n<1K; modality:text; region:us; disinformation; information-…
+2026-10-11T04:35:53Z,JoTalbot/Ukrainian-Speech-Dataset,JoTalbot,0,0,task_categories:automatic-speech-recognition; language:uk; license:cc-by-nc-nd-4.0; size_categories:n<1K; format:csv; modality:audio; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-11T04:35:58Z,JoTalbot/ukr-toxicity-dataset,JoTalbot,0,0,task_categories:text-classification; language:uk; license:openrail; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-10-11T04:36:03Z,JoTalbot/ukrainian-dialect-dictionaries,JoTalbot,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:36:11Z,JoTalbot/ukrainian-dialogs-constructiveness,JoTalbot,0,0,task_categories:text-classification; language:uk; language:ru; license:cc-by-4.0; size_categories:n<1K; region:us; conversation; discourse; constructiveness; ukrainian; ordinal-classification; annota…
+2026-10-11T04:36:29Z,JoTalbot/ukrainian-math-openinstruct,JoTalbot,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:37:00Z,JoTalbot/multi30k-extended-17k,JoTalbot,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:38:10Z,adamjb111/nla-qwen36-27b-L42-distill-data,adamjb111,0,0,region:us
+2026-10-11T04:38:12Z,morealcholplz/kt-20261011-pi-eval-videos-direct-v1,morealcholplz,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; robotics; evaluation-backup
+2026-10-11T04:40:04Z,ronitchawla/embed_txt,ronitchawla,0,0,license:mit; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:40:40Z,SACXZ21DSA23/Annoy-PyEdu-Rs,SACXZ21DSA23,0,0,region:us
+2026-10-11T04:40:40Z,SACXZ21DSA23/Annoy-PyEdu-Rs-Raw,SACXZ21DSA23,0,0,region:us
+2026-10-11T04:42:04Z,ctrobinson/comics-dataset,ctrobinson,0,0,license:mit; region:us; dataset; comics; image-depth
+2026-10-11T04:42:55Z,U-WIN/equational-theory-stage2-base-bm25-rollouts,U-WIN,0,0,task_categories:text-generation; language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:43:29Z,hi-todayis-jh/ouro-1.4b-thinking-maxrl-ragged-math-154711-20261009-ragged-rl-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model; dense-ragged
+2026-10-11T04:45:42Z,U-WIN/equational-theory-sair-300m-training-data,U-WIN,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:46:03Z,SILICAM/silica-spec-data,SILICAM,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:46:05Z,SILICAM/silica-rtl-data,SILICAM,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:46:07Z,SILICAM/silica-verif-data,SILICAM,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:46:10Z,SILICAM/silica-synth-data,SILICAM,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T04:47:55Z,morealcholplz/kt-20261011-pi-eval-videos-tar-v1,morealcholplz,0,0,region:us; robotics; evaluation-backup
+2026-10-11T04:48:45Z,aarontseng/cyt,aarontseng,0,0,size_categories:1M<n<10M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-11T04:51:09Z,U-WIN/harvey-note-conditioned-rollouts-27b,U-WIN,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-10-11T04:52:46Z,sunilnair83k/nlp-sports,sunilnair83k,0,0,license:apache-2.0; region:us; dataset; sports; text-tabular
+2026-10-11T04:53:37Z,JohnSanchez/satellite-sensor-fusion,JohnSanchez,0,0,license:apache-2.0; region:us; dataset; satellite; sensor-fusion
+2026-10-11T04:55:48Z,mondk/Jev-Decisions-Vi-Vietnamese,mondk,0,0,task_categories:text-classification; language:en; language:vi; license:mit; region:us; Jev; decision; en+vi; sft; system-one; classification; structured-output; synthetic
+2026-10-11T04:56:13Z,vllm-sr/d3-decision-index,vllm-sr,0,0,region:us
+2026-10-11T04:59:32Z,choisongjun/Tropical_Diseases_Repo_1.6,choisongjun,0,0,region:us
+2026-10-11T05:02:43Z,Toibinguz/epl-premier-league-dataset,Toibinguz,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:time-series-forecasting; license:mit; size_categories:1M<n<10M; region:us; premier-league; football; soccer…
+2026-10-11T05:03:09Z,vllm-sr/d3-nano-decision-index,vllm-sr,0,0,region:us
+2026-10-11T05:07:10Z,NotaBot232/items_lite,NotaBot232,0,0,region:us
+2026-10-11T05:07:30Z,Graphiiz/meter-anomaly-dataset-test,Graphiiz,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T05:07:58Z,garciajohn/security-image-depth-curated-2024,garciajohn,0,0,license:mit; region:us; dataset; security; image-depth
+2026-10-11T05:08:34Z,JoTalbot/ukrainian_air_quality_daily_pollution_in_wartime,JoTalbot,0,0,task_categories:text-classification; task_categories:zero-shot-classification; task_categories:sentence-similarity; language:en; language:uk; license:mit; region:us; climate; quality; pollution; air;…
+2026-10-11T05:08:51Z,JoTalbot/Ukrainian_MultiTask_WMT26,JoTalbot,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T05:09:09Z,JoTalbot/ukr-wiki-qa-v1,JoTalbot,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T05:09:25Z,JoTalbot/ukr-wiki-qa-v2,JoTalbot,0,0,region:us
+2026-10-11T05:09:40Z,JoTalbot/ukrainian-dialect-normalization,JoTalbot,0,0,region:us
+2026-10-11T05:09:57Z,JoTalbot/dumy-zno-ukrainian-math-history-geo-r1-o1,JoTalbot,0,0,task_categories:text-generation; task_categories:question-answering; language:uk; license:apache-2.0; size_categories:1K<n<10K; region:us
+2026-10-11T05:10:14Z,JoTalbot/perestoroha-ocr,JoTalbot,0,0,task_categories:image-to-text; language:uk; license:cc-by-4.0; size_categories:n<1K; region:us; ocr; handwriting-recognition; historical-manuscripts; old-ukrainian; ruthenian; early-modern; church-sl…
+2026-10-11T05:10:35Z,JoTalbot/ukrainian-fake-true-news,JoTalbot,0,0,region:us
+2026-10-11T05:10:54Z,JoTalbot/WikiEdits-MultiGEC,JoTalbot,0,0,task_categories:text-generation; language:uk; language:en; language:de; language:cz; language:it; language:et; language:sl; language:el; language:lv; language:is; language:sv; license:mit; size_categ…
+2026-10-11T05:10:58Z,na0x2c6/overthinking-logit-bias,na0x2c6,0,0,license:apache-2.0; arxiv:2606.00206; region:us; llama.cpp; gguf; logit-bias; reasoning
+2026-10-11T05:11:16Z,JoTalbot/Reddit-MultiGEC,JoTalbot,0,0,task_categories:text-generation; language:uk; language:en; language:de; language:cs; language:it; language:et; language:sl; language:el; language:lv; language:is; language:sv; license:mit; size_categ…
+2026-10-11T05:11:37Z,JoTalbot/ukr-pravda-news-summary-v1.1,JoTalbot,0,0,task_categories:summarization; language:uk; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us
+2026-10-11T05:11:54Z,JoTalbot/recruitment-dataset-job-descriptions-english,JoTalbot,0,0,language:en; license:mit; size_categories:100K<n<1M; region:us
+2026-10-11T05:11:59Z,inmishra/image-depth-data-2024,inmishra,0,0,license:mit; region:us; dataset; comics; image-depth
+2026-10-11T05:12:17Z,JoTalbot/UberText-GEC,JoTalbot,0,0,task_categories:text-generation; language:uk; license:mit; size_categories:100K<n<1M; region:us; gec
+2026-10-11T05:12:39Z,JoTalbot/question-answering-ukrainian-json-answers,JoTalbot,0,0,language:uk; region:us
+2026-10-11T05:12:58Z,JoTalbot/recruitment-dataset-candidate-profiles-english,JoTalbot,0,0,language:en; license:mit; size_categories:100K<n<1M; region:us
+2026-10-11T05:13:23Z,JoTalbot/court-decisions-uk,JoTalbot,0,0,language:uk; license:mit; size_categories:10K<n<100K; region:us
+2026-10-11T05:13:51Z,JoTalbot/slim-orca-ukrainian-labeled,JoTalbot,0,0,language:uk; region:us
+2026-10-11T05:14:06Z,hi-todayis-jh/ouro-1.4b-thinking-ragged-rl-budget-curves-20261011,hi-todayis-jh,0,0,license:apache-2.0; region:us; evaluation; ouro; dense-ragged
+2026-10-11T05:14:20Z,JoTalbot/UberText-NER-Silver,JoTalbot,0,0,task_categories:token-classification; language:uk; license:apache-2.0; size_categories:10M<n<100M; region:us; silver-standard; ukrainian; NER
+2026-10-11T05:14:33Z,thethanksforthegod/m_data,thethanksforthegod,0,0,region:us
+2026-10-11T05:14:38Z,DSAC1CAS/Annoy-PyEdu-Rs,DSAC1CAS,0,0,region:us
+2026-10-11T05:14:38Z,DSAC1CAS/Annoy-PyEdu-Rs-Raw,DSAC1CAS,0,0,region:us
+2026-10-11T05:15:11Z,JoTalbot/ukrainian-handwritten-text-full-pages,JoTalbot,0,0,task_categories:image-to-text; language:uk; license:cc-by-4.0; region:us; ocr
+2026-10-11T05:15:12Z,Consolatio/so101_pick_cube_r1,Consolatio,0,0,region:us
+2026-10-11T05:15:37Z,liufeqww1154/Annoy-PyEdu-Rs,liufeqww1154,0,0,region:us
+2026-10-11T05:15:38Z,nagapranav123/MegathonX-Wikimedia-dataset,nagapranav123,0,0,license:mit; region:us
+2026-10-11T05:15:38Z,liufeqww1154/Annoy-PyEdu-Rs-Raw,liufeqww1154,0,0,region:us
+2026-10-11T05:16:18Z,thethanksforthegod/Generate_Dataset_11_10.tar,thethanksforthegod,0,0,region:us
+2026-10-11T05:16:23Z,JoTalbot/ukrainian-epub-sentences,JoTalbot,0,0,region:us
+2026-10-11T05:17:28Z,JoTalbot/ukrainian-news-2026,JoTalbot,0,0,task_categories:text-generation; task_categories:fill-mask; language:uk; license:other; size_categories:100K<n<1M; region:us; news; ukrainian; uk; continual-pretraining
+2026-10-11T05:18:40Z,JoTalbot/ukrainian-speech-dataset-shunyalabs,JoTalbot,0,0,region:us
+2026-10-11T05:19:02Z,afdafadaa/Annoy-PyEdu-Rs,afdafadaa,0,0,region:us
+2026-10-11T05:19:03Z,afdafadaa/Annoy-PyEdu-Rs-Raw,afdafadaa,0,0,region:us
+2026-10-11T05:19:46Z,U-WIN/equational-theory-sair-multiturn-rollouts,U-WIN,0,0,task_categories:text-generation; language:en; region:us
+2026-10-11T05:20:12Z,JoTalbot/every_prompt,JoTalbot,0,0,task_categories:question-answering; multilinguality:multilingual; license:mit; size_categories:1M<n<10M; region:us
+2026-10-11T05:20:19Z,NataliaFrancine/Annoy-PyEdu-Rs-Raw,NataliaFrancine,0,0,region:us
+2026-10-11T05:20:19Z,NataliaFrancine/Annoy-PyEdu-Rs,NataliaFrancine,0,0,region:us
