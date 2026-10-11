@@ -1,0 +1,51 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T00:21:10Z,mteb/WorldSenseVideoZeroShot,mteb,0,0,task_categories:video-classification; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:mteb/WorldSense_1min; language:eng; license:unknown; size_categories:1K<n<10K…
+2026-10-11T00:30:33Z,winnetka/lab07-catch-the-ai-lying,winnetka,0,0,region:us
+2026-10-11T00:32:51Z,catpereira/osv5m-us,catpereira,0,0,source_datasets:osv5m/osv5m; license:cc-by-sa-4.0; size_categories:1M<n<10M; format:parquet; modality:image; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; librar…
+2026-10-11T00:33:15Z,asd123dxa3xczcq/Annoy-PyEdu-Rs,asd123dxa3xczcq,0,0,region:us
+2026-10-11T00:33:16Z,asd123dxa3xczcq/Annoy-PyEdu-Rs-Raw,asd123dxa3xczcq,0,0,region:us
+2026-10-11T00:34:50Z,areffarhadi/persian-media,areffarhadi,0,0,task_categories:automatic-speech-recognition; language:fa; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us…
+2026-10-11T00:36:48Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-11T00:36:48Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-11T00:38:30Z,vllm-sr/d3-lite-decision-index,vllm-sr,0,0,region:us
+2026-10-11T00:40:54Z,UWGZQ/VidSTG-SAM3.1-Masks,UWGZQ,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T00:42:42Z,vllm-sr/d3-nano-decision-index,vllm-sr,0,0,region:us
+2026-10-11T00:43:30Z,LINLUK1993/text-tabular-data,LINLUK1993,0,0,license:mit; region:us; dataset; weather; text-tabular
+2026-10-11T00:44:44Z,g-factor-technologies/GFT-Quant-Alphas-SFT,g-factor-technologies,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-11T00:44:57Z,Cesgv/ms_master_library,Cesgv,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T00:46:41Z,sddddd22/Annoy-PyEdu-Rs,sddddd22,0,0,region:us
+2026-10-11T00:46:41Z,asd21ecxxz12/Annoy-PyEdu-Rs,asd21ecxxz12,0,0,region:us
+2026-10-11T00:46:42Z,asd21ecxxz12/Annoy-PyEdu-Rs-Raw,asd21ecxxz12,0,0,region:us
+2026-10-11T00:46:42Z,sddddd22/Annoy-PyEdu-Rs-Raw,sddddd22,0,0,region:us
+2026-10-11T00:47:15Z,AD1EASCRE1AD/Annoy-PyEdu-Rs,AD1EASCRE1AD,0,0,region:us
+2026-10-11T00:47:16Z,AD1EASCRE1AD/Annoy-PyEdu-Rs-Raw,AD1EASCRE1AD,0,0,region:us
+2026-10-11T00:49:26Z,chrissoria/executive-branch-roster,chrissoria,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T00:50:24Z,Czeslawliet/Agent_Mokusei-taiyou,Czeslawliet,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-11T00:51:13Z,vllm-sr/d3-decision-index,vllm-sr,0,0,region:us
+2026-10-11T00:52:34Z,alvesbern/security-image-text72-2024,alvesbern,0,0,license:mit; region:us; dataset; security; image-text
+2026-10-11T00:54:51Z,jewishkidshub/jkh,jewishkidshub,0,1,region:us
+2026-10-11T00:56:40Z,Neevdharod/test_run_20261010_175539,Neevdharod,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-11T00:59:38Z,ASD1ZXA/Annoy-PyEdu-Rs,ASD1ZXA,0,0,region:us
+2026-10-11T00:59:39Z,ASD1ZXA/Annoy-PyEdu-Rs-Raw,ASD1ZXA,0,0,region:us
+2026-10-11T01:00:25Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-10-11T01:00:26Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-10-11T01:00:37Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs,ASCXZ12SAE1DW,0,0,region:us
+2026-10-11T01:00:38Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs-Raw,ASCXZ12SAE1DW,0,0,region:us
+2026-10-11T01:01:03Z,JWei05/Nemotron-Math-v2-NoTool-B1-6,JWei05,0,0,task_categories:text-generation; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; regio…
+2026-10-11T01:02:43Z,Jerrylr/TAIGCIQA-10K,Jerrylr,0,0,region:us
+2026-10-11T01:05:15Z,embustos/white_cube-green_marker,embustos,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-11T01:06:27Z,mtmtt/orange_2cam_20261010_200435,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-11T01:08:57Z,aarontung/droid-pour-water,aarontung,0,0,region:us
+2026-10-11T01:10:47Z,roddtoggers/roddt,roddtoggers,0,0,region:us
+2026-10-11T01:10:47Z,dharmaduwi/Tugas_week_5,dharmaduwi,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-11T01:11:17Z,vllm-sr/d3-flash-decision-index,vllm-sr,0,0,region:us
+2026-10-11T01:12:09Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-11T01:12:09Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-11T01:12:55Z,yousef294/Final_Data,yousef294,0,0,region:us
+2026-10-11T01:14:50Z,dougalldeepmind/2026-10-11-swebench-lite-infrastructure,dougalldeepmind,0,0,region:us; infrastructure-check; swebench-lite; synthetic
+2026-10-11T01:15:01Z,yjwon/opencodereasoner-100k-shortexpl,yjwon,0,0,region:us
+2026-10-11T01:15:26Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-11T01:15:28Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-11T01:16:36Z,dougalldeepmind/2026-10-11-swebench-gemma4-0-da-15-lite-gemma-v2,dougalldeepmind,0,0,region:us; eval-run; eval:swebench_mini; model:gemma4_0_da_15; mode:think; swebench-lite
+2026-10-11T01:16:40Z,dougalldeepmind/2026-10-11-swebench-gemma4-0-plain-lite-gemma-v2,dougalldeepmind,0,0,region:us; eval-run; eval:swebench_mini; model:gemma4_0_plain; mode:think; swebench-lite
+2026-10-11T01:16:51Z,Samisaliveagain/so100_smolvla_rc,Samisaliveagain,0,0,size_categories:10K<n<100K; region:us; lerobot; robotics; robot-learning; imitation-learning; so100; smolvla
