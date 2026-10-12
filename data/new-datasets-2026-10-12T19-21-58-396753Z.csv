@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T18:22:26Z,Phanhai2804/1_1_Definition_Recall,Phanhai2804,0,0,task_categories:question-answering; language:vi; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; vietnamese; financ…
+2026-10-12T18:22:47Z,Lduignan1/Exo7-RLVR,Lduignan1,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T18:24:06Z,ryanaswift7/dolci-instruct-sft-no-tools-100k,ryanaswift7,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T18:25:18Z,Parle-App/parle-french-sounds,Parle-App,0,0,task_categories:text-generation; task_categories:image-to-text; language:fr; language:en; language:es; language:ja; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:image; modality:t…
+2026-10-12T18:25:29Z,Catherine1213/VerifierBench,Catherine1213,0,0,task_categories:text-generation; language:en; language:zh; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-12T18:27:11Z,NikiPshg/balalaika-ar-example-20261012,NikiPshg,0,0,language:ar; region:us
+2026-10-12T18:27:37Z,Awezil/Dukunkripto,Awezil,0,0,region:us
+2026-10-12T18:30:31Z,CheneyWong/datasets,CheneyWong,0,0,region:us
+2026-10-12T18:31:22Z,hoskasii/jenny-mels-and-duration,hoskasii,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T18:33:11Z,mshojaei77/tasmim-data-v1,mshojaei77,0,0,task_categories:text-classification; language:fa; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:pola…
+2026-10-12T18:33:15Z,CheneyWong/table_recognition_datasets_mixed,CheneyWong,0,0,region:us
+2026-10-12T18:34:27Z,SOTAagi2030/Trace-Functions-Source,SOTAagi2030,0,0,region:us
+2026-10-12T18:34:28Z,SOTAagi2030/Trace-Functions-Explanations,SOTAagi2030,0,0,region:us
+2026-10-12T18:34:57Z,Jack04810/papo-diagnostics-assets-20261012,Jack04810,0,0,region:us
+2026-10-12T18:35:10Z,asura625/sn38-r16a,asura625,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T18:36:11Z,Parle-App/french-sound-words,Parle-App,0,0,task_categories:text-classification; task_categories:automatic-speech-recognition; language:fr; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:p…
+2026-10-12T18:37:34Z,SOTAagi2030/Estuary-Signals-Habitat-Labels,SOTAagi2030,0,0,region:us
+2026-10-12T18:37:35Z,SOTAagi2030/Estuary-Signals-Sensor-Extracts,SOTAagi2030,0,0,region:us
+2026-10-12T18:37:51Z,cpral/polskie-sprawy-v5,cpral,0,0,language:pl; license:cc-by-nc-4.0; region:us
+2026-10-12T18:41:51Z,roaeemmohamed/hasbati-age-calculator,roaeemmohamed,0,0,language:ar; license:mit; region:us; calculator; age-calculator; age; javascript; utility
+2026-10-12T18:42:57Z,art2meta/lowdown-mcp-observations,art2meta,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mcp; model-context-protoc…
+2026-10-12T18:43:42Z,Roly83/LaIslaMaldita-Chunks,Roly83,0,0,license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; unreal-engine; game-assets
+2026-10-12T18:45:03Z,Aadhithya01/ak,Aadhithya01,0,0,region:us
+2026-10-12T18:45:34Z,adelekemichael/geology-sensor-fusion-benchmark88,adelekemichael,0,0,license:apache-2.0; region:us; dataset; geology; sensor-fusion
+2026-10-12T18:47:31Z,Jack04810/papo-training-data,Jack04810,0,0,region:us
+2026-10-12T18:53:28Z,VibeCuisine/robot-101226,VibeCuisine,0,0,task_categories:robotics; region:us; lerobot; vibe-data-studio; vibepi3
+2026-10-12T18:53:34Z,SOTAagi2030/Signal-RouteNotes-Synth,SOTAagi2030,0,0,region:us
+2026-10-12T18:53:35Z,SOTAagi2030/Signal-RouteNotes-Raw,SOTAagi2030,0,0,region:us
+2026-10-12T18:54:07Z,agentlans/misinformation,agentlans,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; misinformation; LLM-annotations; synthetic-evaluation
+2026-10-12T18:54:20Z,SOTAagi2030/VelaCross-MapTiles,SOTAagi2030,0,0,region:us
+2026-10-12T18:54:22Z,SOTAagi2030/VelaCross-DispatchLogs,SOTAagi2030,0,0,region:us
+2026-10-12T18:55:17Z,ipipan/llms4eu-benchmarks-inputs,ipipan,0,0,region:us
+2026-10-12T18:55:27Z,daydreamlive/demo-audio,daydreamlive,0,0,region:us
+2026-10-12T18:57:11Z,minmaxxxer/atp-wta-matches-with-odds,minmaxxxer,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tennis; atp; wta; sports; betting; odds; sports-analytics; tabular
+2026-10-12T18:57:23Z,Akuma812/old-english-vowel-length,Akuma812,0,0,task_categories:token-classification; language:ang; license:cc-by-sa-4.0; size_categories:1K<n<10K; region:us; old-english; diacritic-restoration; historical-linguistics
+2026-10-12T18:58:22Z,Salim-Aissi/robocasa_pretrain_50,Salim-Aissi,0,0,region:us
+2026-10-12T18:58:40Z,linearschedules-Cstar-regime/dat_4_reg_Cstar_final,linearschedules-Cstar-regime,0,0,region:us
+2026-10-12T18:59:12Z,openforallofus/mcp-server-measurements,openforallofus,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; mcp; model-context-protocol; ai-agents; open-data
+2026-10-12T18:59:31Z,lhk/angband,lhk,0,0,region:us
+2026-10-12T19:02:30Z,Salim-Aissi/robocasa_pretrain_100,Salim-Aissi,0,0,region:us
+2026-10-12T19:02:51Z,Worklets/canada-cost-of-living,Worklets,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; canada; cost-of-living; housing; finance
+2026-10-12T19:03:04Z,TUaxhuiax/cloud-cost-annual-settlement-fy2025,TUaxhuiax,0,0,language:zh; language:en; license:other; region:us; finance; cloud-cost; settlement; fy2025
+2026-10-12T19:03:07Z,TUaxhuiax/terminal_filesystem_yahoo-finance_huggingface_memory_3892_cloud_cost_settlement,TUaxhuiax,0,0,language:zh; language:en; license:other; region:us; finance; cloud-cost; settlement; fy2025
+2026-10-12T19:05:51Z,qedir314/euroc_mac,qedir314,0,0,region:us
+2026-10-12T19:06:02Z,linnan98k/ab8b1ca61ce,linnan98k,0,0,region:us
+2026-10-12T19:08:03Z,thaki-AI/daily-paper-2026-10-13-concurrency-tax-agentic-tool-calling,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; agentic-evaluation; llm-serving; vllm; gpu-utilization; tool-calling; accuracy-drift; cost-quality-frontier; h200
+2026-10-12T19:11:09Z,LCRC-AI/liquid-agent,LCRC-AI,0,0,language:en; license:other; region:us; software; software-distribution; liquid-biopsy; research; local-llm; windows; macos
+2026-10-12T19:11:31Z,linnan98k/a302d650de6,linnan98k,0,0,region:us
+2026-10-12T19:12:09Z,allencc/bimanual-garment-sorting-0190,allencc,0,0,task_categories:robotics; license:cc-by-4.0; region:us; robotics; teleoperation; manipulation; mcap; bimanual
+2026-10-12T19:12:20Z,SOTAagi2030/Cedar-Signal-Call-Summaries,SOTAagi2030,0,0,region:us
+2026-10-12T19:12:20Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-12T19:12:21Z,SOTAagi2030/Cedar-Signal-Field-Calls,SOTAagi2030,0,0,region:us
+2026-10-12T19:12:45Z,edgarcancinoe/water_pour_dart_xl,edgarcancinoe,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T19:13:27Z,SOTAagi2030/NightTransit-PlatformFrames,SOTAagi2030,0,0,region:us
+2026-10-12T19:13:29Z,SOTAagi2030/NightTransit-ServiceSummaries,SOTAagi2030,0,0,region:us
+2026-10-12T19:14:46Z,SOTAagi2030/BorealSeed-Germination-Scans,SOTAagi2030,0,0,region:us
+2026-10-12T19:14:48Z,SOTAagi2030/BorealSeed-Trait-Tags,SOTAagi2030,0,0,region:us
+2026-10-12T19:16:40Z,SOTAagi2030/Lantern-Code-Inputs,SOTAagi2030,0,0,region:us
+2026-10-12T19:16:41Z,SOTAagi2030/Lantern-Code-Explanations,SOTAagi2030,0,0,region:us
+2026-10-12T19:16:58Z,dfsfsdg5657/Annoy-PyEdu-Rs,dfsfsdg5657,0,0,region:us
+2026-10-12T19:16:58Z,dfsfsdg5657/Annoy-PyEdu-Rs-Raw,dfsfsdg5657,0,0,region:us
+2026-10-12T19:18:34Z,sanaka87/openve_relight2_fixed_bernini14b_vmse_allin_rlv2_s1t1r1_lr5e5_eb48,sanaka87,0,0,region:us
+2026-10-12T19:19:51Z,linnan98k/a26fe54676b,linnan98k,0,0,region:us
+2026-10-12T19:20:41Z,tpmghost/tmpvideo,tpmghost,0,0,region:us
+2026-10-12T19:20:52Z,Biscut4Biscuit/lroc-nac-dtm-cogs,Biscut4Biscuit,0,0,modality:geospatial; region:us; moon; lunar; lroc; dtm; elevation; cog; geospatial
