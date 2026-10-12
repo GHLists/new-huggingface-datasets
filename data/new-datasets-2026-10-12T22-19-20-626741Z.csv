@@ -1,0 +1,42 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T21:21:14Z,ap2005/pick_and_place_final,ap2005,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T21:22:50Z,linnan98k/a5f222ca982,linnan98k,0,0,region:us
+2026-10-12T21:26:17Z,Yama2077/MangaPanels_2,Yama2077,0,0,license:other; region:us
+2026-10-12T21:32:38Z,dougalldeepmind/2026-10-12-odcv-qwen36-0-da-tools-8-ablation,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_tools_8_ablation; mode:think
+2026-10-12T21:33:43Z,cmunley/mixed-skills-env,cmunley,0,0,task_categories:reinforcement-learning; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:openenv; r…
+2026-10-12T21:34:10Z,sulabhkatiyar/en-indic-asr-eval-v1,sulabhkatiyar,0,0,region:us
+2026-10-12T21:34:41Z,OpenRubrics/ReVeR-Traces-Rubric,OpenRubrics,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T21:34:45Z,OpenRubrics/ReVeR-Traces-Judge,OpenRubrics,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T21:35:44Z,PureOne/caelq-lumen-signature-length,PureOne,0,0,language:en; region:us; mathematics; mathematical-preprint; path-signatures; rough-paths; bounded-variation; functional-analysis; banach-spaces; tensor-norms; variational-analysis; proof-audit; resea…
+2026-10-12T21:35:50Z,mandiyaaman/synapse-titan-consensus,mandiyaaman,0,0,region:us
+2026-10-12T21:35:51Z,mandiyaaman/synapse-telemetry-0,mandiyaaman,0,0,region:us
+2026-10-12T21:35:52Z,mandiyaaman/synapse-telemetry-2,mandiyaaman,0,0,region:us
+2026-10-12T21:35:52Z,mandiyaaman/synapse-telemetry-1,mandiyaaman,0,0,region:us
+2026-10-12T21:35:53Z,mandiyaaman/synapse-telemetry-3,mandiyaaman,0,0,region:us
+2026-10-12T21:37:49Z,Sosa654321/khoshghalb-knowledge,Sosa654321,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T21:41:17Z,PekhPekhPekh/HalluScope,PekhPekhPekh,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; region:us
+2026-10-12T21:43:12Z,samman311/pre_y25_dataset_only,samman311,0,0,region:us
+2026-10-12T21:43:40Z,vcc-uba/amber_quiet_heron,vcc-uba,0,0,license:other; region:us; single-cell; perturb-seq; crispri; virtual-cell-challenge
+2026-10-12T21:44:22Z,VattanaryT/stringer_scanner,VattanaryT,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T21:44:46Z,RKB109/audio-event-triage-20261012-dataset,RKB109,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-12T21:44:57Z,g1n0st/7a2ad140ac76c03f8a75d094ac33788cbdd2ed89,g1n0st,0,0,region:us
+2026-10-12T21:45:56Z,SrishAkaTux/zubhub-steam-ideas-wikipedia,SrishAkaTux,0,0,task_categories:text-generation; source_datasets:original; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; doi:10.57967/hf/10874; region:us; wikipedia; education; steam; synthetic; cul…
+2026-10-12T21:46:08Z,dmytro-m/uk-tts-stressed-serhiy,dmytro-m,0,0,region:us
+2026-10-12T21:51:04Z,linnan98k/af2489855d2,linnan98k,0,0,region:us
+2026-10-12T21:52:00Z,dougalldeepmind/2026-10-12-dh-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:delegated_harm; model:qwen36_0_da_tools_15; mode:think
+2026-10-12T21:52:56Z,rca-umb/five-desks-code,rca-umb,0,0,license:apache-2.0; library:openenv; region:us; openenv; reinforcement-learning; rl-environment; tool-use; agents; software-engineering
+2026-10-12T22:01:22Z,KTHESAT/european-used-cars-100k-sample,KTHESAT,0,1,task_categories:tabular-regression; task_categories:tabular-classification; language:en; language:de; language:fr; language:it; language:es; license:cc-by-nc-4.0; size_categories:100K<n<1M; modality:…
+2026-10-12T22:03:01Z,kucheroleksii777/pre_y25_dataset_only,kucheroleksii777,0,0,region:us
+2026-10-12T22:05:04Z,tytsui/suzuki-conditions,tytsui,0,0,task_categories:tabular-regression; size_categories:1M<n<10M; arxiv:2610.07226; region:us; chemistry; suzuki-miyaura; reaction-conditions; synthetic; minimal-witness; reinforcement-learning; arxiv:26…
+2026-10-12T22:06:01Z,wenhaoc3/cs546-hw2-2026,wenhaoc3,0,0,region:us
+2026-10-12T22:07:12Z,x4d1de/yandere-archive,x4d1de,0,0,region:us
+2026-10-12T22:07:33Z,kostasmpo/urbansarfloods-spum-masks,kostasmpo,0,0,region:us
+2026-10-12T22:08:37Z,Tommysha/zero-code-l1-val,Tommysha,0,0,task_categories:text-generation; license:apache-2.0; region:us; code; zevo; validation
+2026-10-12T22:09:52Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-10-12T22:09:53Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-10-12T22:13:11Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-10-12T22:13:12Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-10-12T22:14:26Z,Tommysha/zero-code-l1-mbppplus-val,Tommysha,0,0,license:apache-2.0; region:us
+2026-10-12T22:14:28Z,Tommysha/zero-code-l1-cf-val,Tommysha,0,0,license:apache-2.0; region:us
+2026-10-12T22:15:59Z,linnan98k/ab255f85920,linnan98k,0,0,region:us
+2026-10-12T22:16:17Z,linnan98k/ae318d6c85d,linnan98k,0,0,region:us
