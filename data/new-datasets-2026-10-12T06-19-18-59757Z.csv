@@ -1,0 +1,118 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T05:20:13Z,MelorAngelina/Annoy-PyEdu-Rs-Raw,MelorAngelina,0,0,region:us
+2026-10-12T05:20:13Z,MelorAngelina/Annoy-PyEdu-Rs,MelorAngelina,0,0,region:us
+2026-10-12T05:23:34Z,tmtdev/vn-legal-extraction,tmtdev,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T05:23:53Z,shibilll/cloth_folding_piper,shibilll,0,0,region:us
+2026-10-12T05:24:01Z,anuosi666/COVID-19-yuanban,anuosi666,0,0,region:us
+2026-10-12T05:24:24Z,Haku-2004/rollout_act_so101_k_20261012_142413,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-12T05:24:40Z,cvusk/japanese-insurance-document-understanding-calculation,cvusk,0,0,task_categories:document-question-answering; task_categories:table-question-answering; task_categories:visual-question-answering; task_categories:text-generation; annotations_creators:machine-generat…
+2026-10-12T05:24:40Z,cvusk/japanese-contract-document-understanding-calculation,cvusk,0,0,task_categories:document-question-answering; task_categories:question-answering; task_categories:text-generation; language:ja; license:cc-by-4.0; size_categories:10K<n<100K; region:us; japanese; cont…
+2026-10-12T05:24:49Z,donaldluong/nn-aivie-vlm-data,donaldluong,0,0,task_categories:visual-question-answering; task_categories:image-to-text; language:vi; language:en; license:other; region:us
+2026-10-12T05:25:16Z,yraj/vcc2026-l241-bank,yraj,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T05:25:20Z,Calebwab4/learn-math,Calebwab4,0,0,license:mit; region:us; dataset; math; text-tabular
+2026-10-12T05:25:45Z,gvkukvlm/rcvthinkbold,gvkukvlm,0,0,region:us
+2026-10-12T05:26:55Z,catpereira/us-s2-alphaearth,catpereira,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:image; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-10-12T05:27:04Z,Haku-2004/rollout_act_so101_k_20261012_142653,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-12T05:28:08Z,DosLike/markat,DosLike,0,0,region:us
+2026-10-12T05:28:20Z,Haku-2004/rollout_act_so101_k_20261012_142809,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-12T05:29:04Z,siddharthmb/2026.RA.Fairness-GRPO-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:29:43Z,Anticloud/anticloud-odoo,Anticloud,0,0,region:us
+2026-10-12T05:30:10Z,Haku-2004/rollout_act_so101_k_20261012_142957,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-12T05:30:44Z,Anticloud/anticloud-php-crud-api,Anticloud,0,0,region:us
+2026-10-12T05:31:45Z,Anticloud/anticloud-point-of-sale,Anticloud,0,0,region:us
+2026-10-12T05:32:35Z,siddharthmb/2026.RA.Public-GRPO-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:32:46Z,Anticloud/anticloud-pos-system,Anticloud,0,0,region:us
+2026-10-12T05:33:47Z,Anticloud/anticloud-deepstack,Anticloud,0,0,region:us
+2026-10-12T05:33:56Z,dogeum/demo_dataset_1012,dogeum,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; pick_token; physicai_arm; lerobot; leader_masked
+2026-10-12T05:34:05Z,qiusizhan/PersistBD-runtime-split-v4,qiusizhan,0,0,language:en; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; backdoor-detection; llm-agents;…
+2026-10-12T05:34:47Z,Anticloud/anticloud-frigate,Anticloud,0,0,region:us
+2026-10-12T05:35:49Z,Anticloud/anticloud-onurbs,Anticloud,0,0,region:us
+2026-10-12T05:35:57Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-12T05:35:58Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-12T05:36:09Z,Thaparp-hotonics/geology-collection,Thaparp-hotonics,0,0,license:apache-2.0; region:us; dataset; geology; text-tabular
+2026-10-12T05:36:50Z,Anticloud/anticloud-supervision,Anticloud,0,0,region:us
+2026-10-12T05:37:51Z,Anticloud/anticloud-zoneminder,Anticloud,0,0,region:us
+2026-10-12T05:38:52Z,Anticloud/anticloud-isl,Anticloud,0,0,region:us
+2026-10-12T05:39:26Z,StevenZhou0825/Weibo-raw,StevenZhou0825,0,0,license:other; region:us; weibo; archive; audit
+2026-10-12T05:39:37Z,Haku-2004/rollout_act_so101_k_20261012_143400,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T05:39:46Z,read102/rotor_multiview,read102,0,0,region:us
+2026-10-12T05:39:53Z,Anticloud/anticloud-pyntcloud,Anticloud,0,0,region:us
+2026-10-12T05:40:56Z,Anticloud/anticloud-vengi,Anticloud,0,0,region:us
+2026-10-12T05:41:56Z,Anticloud/anticloud-circular-economy,Anticloud,0,0,region:us
+2026-10-12T05:42:11Z,siddharthmb/2026.RA.Pure-Rounds-Sweep-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:42:20Z,suzeva/hinted-benchmarks,suzeva,0,0,task_categories:question-answering; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-12T05:42:57Z,Anticloud/anticloud-openrecycle,Anticloud,0,0,region:us
+2026-10-12T05:43:49Z,mubingan/CATT_WSI,mubingan,0,0,region:us
+2026-10-12T05:43:57Z,Anticloud/anticloud-smart,Anticloud,0,0,region:us
+2026-10-12T05:44:58Z,Anticloud/anticloud-trashnet,Anticloud,0,0,region:us
+2026-10-12T05:45:19Z,SOTAagi2030/Cedar-Ridge-Transcripts,SOTAagi2030,0,0,region:us
+2026-10-12T05:45:20Z,SOTAagi2030/Cedar-Ridge-Abstracts,SOTAagi2030,0,0,region:us
+2026-10-12T05:45:36Z,ajaysharmavov/sensor-fusion-data,ajaysharmavov,0,0,license:mit; region:us; dataset; document-ocr; sensor-fusion
+2026-10-12T05:45:46Z,IAsistemofinteres/voice2.1,IAsistemofinteres,0,0,region:us
+2026-10-12T05:45:59Z,Anticloud/anticloud-wastebot,Anticloud,0,0,region:us
+2026-10-12T05:46:39Z,Mobiusi/Pediatric-Febrile-Neutropenia-Care-Pathway-Constraint-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-12T05:46:43Z,siddharthmb/2026.RA.GRPO-v2-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:46:57Z,Mobiusi/Addiction-Withdrawal-Level-Of-Care-Constraint-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-12T05:46:59Z,Anticloud/anticloud-wastewise,Anticloud,0,0,region:us
+2026-10-12T05:47:05Z,riot28/SetDB,riot28,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-12T05:48:50Z,yutongzhu/so101-pick-cube-clean,yutongzhu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T05:49:21Z,morpknight/aviation-delay,morpknight,0,0,region:us; aviation; flight-delay; weather
+2026-10-12T05:49:39Z,SAIFIINDUSTRIES/VERILOG_CODE,SAIFIINDUSTRIES,0,0,region:us
+2026-10-12T05:50:59Z,SathyarajMedipalli/rollout_keychain_merged_v2_20261011_223340,SathyarajMedipalli,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T05:52:11Z,rainbowrobotics/JIMTOF_final_20261012_131217,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T05:53:28Z,siddharthmb/2026.RA.Five-Seat-Campaign-Runs,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:54:36Z,VijayTheOne/facekey-gen3-dataset,VijayTheOne,0,0,region:us
+2026-10-12T05:54:57Z,cubec/PartProbe3D-preprocessed,cubec,0,0,language:en; modality:3d; region:us; 3d; depth; segmentation; voxel-occupancy
+2026-10-12T05:56:29Z,Anticloud/anticloud-inventree,Anticloud,0,0,region:us
+2026-10-12T05:57:17Z,Haku-2004/LeRobot_dataset_k_2_20261012_145333,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T05:57:30Z,Anticloud/anticloud-php-crud,Anticloud,0,0,region:us
+2026-10-12T05:58:11Z,Woguem/cpfft-aluminum-gnd,Woguem,0,0,region:us
+2026-10-12T05:58:31Z,Anticloud/anticloud-point-of,Anticloud,0,0,region:us
+2026-10-12T05:58:36Z,gid-golf/robot-pick-place,gid-golf,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T05:58:54Z,RLE-Bench/kinex-benchmark-native-control-budget,RLE-Bench,0,0,region:us
+2026-10-12T05:58:55Z,TrixieEste/Annoy-PyEdu-Rs,TrixieEste,0,0,region:us
+2026-10-12T05:58:56Z,TrixieEste/Annoy-PyEdu-Rs-Raw,TrixieEste,0,0,region:us
+2026-10-12T05:59:12Z,arshdeep456/welding2,arshdeep456,0,0,task_categories:other; size_categories:n<1K; region:us; time-series-classification; vibration; condition-monitoring; fault-diagnosis; induction-motor; time-series
+2026-10-12T05:59:15Z,siddharthmb/2026.RA.Negotiation-Campaign-Runs,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T05:59:32Z,Anticloud/anticloud-pos,Anticloud,0,0,region:us
+2026-10-12T05:59:59Z,bucks1/trader-journal-data,bucks1,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T06:00:33Z,Anticloud/anticloud-tastyigniter,Anticloud,0,0,region:us
+2026-10-12T06:01:21Z,HyperBlad3/Test1,HyperBlad3,0,0,license:mit; region:us
+2026-10-12T06:01:34Z,Anticloud/anticloud-face-recognition,Anticloud,0,0,region:us
+2026-10-12T06:02:35Z,Anticloud/anticloud-mailpile,Anticloud,0,0,region:us
+2026-10-12T06:03:03Z,sjkim1127/decbench-cpp-qualification,sjkim1127,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-10-12T06:03:17Z,MalaniAro/Annoy-PyEdu-Rs,MalaniAro,0,0,region:us
+2026-10-12T06:03:17Z,MalaniAro/Annoy-PyEdu-Rs-Raw,MalaniAro,0,0,region:us
+2026-10-12T06:03:36Z,Anticloud/anticloud-onvif,Anticloud,0,0,region:us
+2026-10-12T06:03:42Z,FVL-Lab/OpenViTac,FVL-Lab,0,0,arxiv:2610.10384; region:us; robotics; visuo-tactile manipulation
+2026-10-12T06:04:30Z,siddharthmb/2026.RA.Auction-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:04:37Z,Anticloud/anticloud-viseron,Anticloud,0,0,region:us
+2026-10-12T06:04:42Z,SOTAagi2030/MetroLex-Station-Notices,SOTAagi2030,0,0,region:us
+2026-10-12T06:04:42Z,SOTAagi2030/MetroLex-Access-Queries,SOTAagi2030,0,0,region:us
+2026-10-12T06:05:06Z,siddharthmb/2026.RA.Workspace-Index,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:05:20Z,siddharthmb/2026.MI.Transcripts,siddharthmb,0,0,region:us; mats; mats-ii; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:05:36Z,huangchengduo/pickupyellow,huangchengduo,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T06:05:37Z,Anticloud/anticloud-goxel,Anticloud,0,0,region:us
+2026-10-12T06:06:40Z,Anticloud/anticloud-open3d,Anticloud,0,0,region:us
+2026-10-12T06:07:41Z,Anticloud/anticloud-trimesh,Anticloud,0,0,region:us
+2026-10-12T06:08:19Z,siddharthmb/2026.RA.TimeCost-Branch-GRPO-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:08:44Z,Anticloud/anticloud-voxelnet,Anticloud,0,0,arxiv:1711.06396; region:us
+2026-10-12T06:09:17Z,anonytoucan/condescension-trap-h1c,anonytoucan,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-12T06:09:45Z,Anticloud/anticloud-circular-economy-tools,Anticloud,0,0,region:us
+2026-10-12T06:10:05Z,VoxCPM-Kernel/VoxCPM2-Arabic-Dialects-TTFA-Samples,VoxCPM-Kernel,0,0,task_categories:text-to-speech; language:ar; license:cc-by-4.0; size_categories:n<1K; region:us; voxcpm2; arabic; arabic-dialects; voice-cloning; latency; ttfa
+2026-10-12T06:10:12Z,avi49/live_hf_data_course,avi49,0,0,region:us
+2026-10-12T06:10:46Z,Anticloud/anticloud-recycleye,Anticloud,0,0,region:us
+2026-10-12T06:11:47Z,Anticloud/anticloud-smart-bin,Anticloud,0,0,region:us
+2026-10-12T06:12:43Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-12T06:12:43Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-12T06:12:44Z,z0uy1n/inmu,z0uy1n,0,0,license:grok2-community; region:us
+2026-10-12T06:12:48Z,Anticloud/anticloud-waste,Anticloud,0,0,region:us
+2026-10-12T06:13:05Z,siddharthmb/2026.RA.ToM-QKV-Raw,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:13:50Z,Anticloud/anticloud-wasteconnections,Anticloud,0,0,region:us
+2026-10-12T06:14:52Z,Anticloud/anticloud-waste-classifier,Anticloud,0,0,region:us
+2026-10-12T06:15:05Z,yudai0209/so101_vial_rollout_r1,yudai0209,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T06:16:44Z,liuzhao123/Nebula-Zero-Connect6-Replay,liuzhao123,0,0,task_categories:reinforcement-learning; license:mit; region:us; connect6; alphazero; mcts; self-play
+2026-10-12T06:16:58Z,Syndicate604/evidence-desk,Syndicate604,0,0,task_categories:reinforcement-learning; language:en; license:apache-2.0; region:us
+2026-10-12T06:17:54Z,siddharthmb/2026.RA.Advised-Advocate-Runs,siddharthmb,0,0,region:us; mats; rational-agents; archive; negotiation; llm-agents; game-theory
+2026-10-12T06:18:30Z,wwj95/Genres,wwj95,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; region:us
+2026-10-12T06:18:38Z,siddharthmb/2026.MI.Sibling-Experiments,siddharthmb,0,0,region:us; mats; mats-ii; archive; negotiation; llm-agents; game-theory
