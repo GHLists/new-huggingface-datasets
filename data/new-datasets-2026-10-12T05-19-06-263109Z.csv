@@ -1,0 +1,51 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T04:24:24Z,mrtan/NLQTSBench-train-v2,mrtan,0,0,task_categories:question-answering; task_categories:table-question-answering; language:en; license:apache-2.0; size_categories:n<1K; region:us; time-series; natural-language-queries; benchmark; train…
+2026-10-12T04:25:58Z,HYHero/paper-towel-roll-730-732-733-768-772-lerobot-v21-30fps-h24-a4,HYHero,0,0,region:us; robotics; lerobot; ffw-sg2-rev1; paper-towel
+2026-10-12T04:26:07Z,Zhongzhu/lowbarena-item-pool,Zhongzhu,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:10K<n<100K; region:us; benchmark; evaluation; quantization; llm-inference
+2026-10-12T04:29:45Z,Hastagaras/litbench-filtered-256,Hastagaras,0,0,region:us
+2026-10-12T04:30:51Z,Jordano/demogen-rgbd-fr3-peg-in-hole-sample20,Jordano,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-12T04:31:17Z,Lu-Yujie/BSX_dataset,Lu-Yujie,0,0,region:us
+2026-10-12T04:33:02Z,stephaniesmit/cs224n-education31,stephaniesmit,0,0,license:mit; region:us; dataset; education; image-audio
+2026-10-12T04:33:55Z,suzeva/hinted-benchmarks,suzeva,0,0,task_categories:question-answering; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-12T04:34:21Z,2inf/eval_vlm_results,2inf,0,0,license:cc-by-4.0; region:us
+2026-10-12T04:35:57Z,jacob122e/sn38-submission-2024-1b,jacob122e,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T04:36:14Z,jacob122e/sn38-submission-2024-3b,jacob122e,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T04:38:18Z,Hurair123/scenes_split,Hurair123,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-12T04:41:30Z,kieungoctruongthi001/tutaclaw-bus,kieungoctruongthi001,0,0,size_categories:n<1K; modality:text; region:us
+2026-10-12T04:44:17Z,Jaye86/cixiliupan_lerobot_v21,Jaye86,0,0,region:us
+2026-10-12T04:44:26Z,mimiminsoo/can1011_b0,mimiminsoo,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-12T04:44:27Z,mimiminsoo/can1011_b1,mimiminsoo,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-12T04:44:28Z,mimiminsoo/can1011_b2,mimiminsoo,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-12T04:44:28Z,mimiminsoo/spam1011_b0,mimiminsoo,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-12T04:45:27Z,safafa456/Annoy-PyEdu-Rs,safafa456,0,0,region:us
+2026-10-12T04:45:28Z,safafa456/Annoy-PyEdu-Rs-Raw,safafa456,0,0,region:us
+2026-10-12T04:46:25Z,ishpate45/nlp-sentiment-video-text,ishpate45,0,0,license:cc-by-4.0; region:us; dataset; nlp-sentiment; video-text
+2026-10-12T04:46:51Z,yutongzhu/so101-pick-cube,yutongzhu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T04:50:15Z,luckychao/9e6571350e99783b949e0c65,luckychao,0,0,license:other; region:us
+2026-10-12T04:52:30Z,di-zhang-fdu/xet-debug,di-zhang-fdu,0,0,region:us
+2026-10-12T04:52:44Z,LDD11/cobot-magic-pick-place-v1,LDD11,0,0,region:us
+2026-10-12T04:56:55Z,yujl24/spatial-rsi-static-mini,yujl24,0,0,task_categories:visual-question-answering; task_categories:robotics; language:en; language:zh; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; li…
+2026-10-12T04:57:20Z,yujl24/spatial-rsi-dynamic-mini,yujl24,0,0,task_categories:visual-question-answering; task_categories:robotics; language:en; language:zh; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; li…
+2026-10-12T04:58:14Z,spiderpilot89/zero-trust-physics-agent-test,spiderpilot89,0,0,task_categories:question-answering; task_categories:text-generation; annotations_creators:machine-generated; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; form…
+2026-10-12T05:01:58Z,ming0531/3CReal,ming0531,0,0,task_categories:image-to-image; license:cc-by-nc-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-12T05:02:22Z,secrethure/buckets,secrethure,0,0,region:us
+2026-10-12T05:05:31Z,2chch/bo_m3u8,2chch,0,0,region:us
+2026-10-12T05:05:32Z,Ziling02/EgoStereo-Hand-Reconstruction-Demo,Ziling02,0,0,region:us
+2026-10-12T05:10:20Z,changraeyu/Undistorted_SfM.tar.gz,changraeyu,0,0,region:us
+2026-10-12T05:11:42Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-10-12T05:11:42Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-10-12T05:12:06Z,XZVDWTGG/Annoy-PyEdu-Rs-Raw,XZVDWTGG,0,0,region:us
+2026-10-12T05:12:06Z,XZVDWTGG/Annoy-PyEdu-Rs,XZVDWTGG,0,0,region:us
+2026-10-12T05:13:12Z,ORCHORDS/Dragonite-Omni-Knowledge,ORCHORDS,0,0,license:apache-2.0; region:us
+2026-10-12T05:13:20Z,AbinMoz/sound-poc,AbinMoz,0,0,region:us
+2026-10-12T05:14:30Z,chrisvoncsefalvay/agml-disease-mcq,chrisvoncsefalvay,0,0,region:us
+2026-10-12T05:14:43Z,sads1xcz21esa/Annoy-PyEdu-Rs,sads1xcz21esa,0,0,region:us
+2026-10-12T05:14:44Z,sads1xcz21esa/Annoy-PyEdu-Rs-Raw,sads1xcz21esa,0,0,region:us
+2026-10-12T05:15:07Z,fallings/fusion-fresh-nested128-v1-predictions-20261012,fallings,0,0,license:mit; region:us
+2026-10-12T05:17:32Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-12T05:17:32Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-12T05:17:47Z,OpenPathAI/vits-dataset-indonesia,OpenPathAI,0,0,license:apache-2.0; region:us
+2026-10-12T05:17:54Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-12T05:17:54Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-12T05:18:07Z,Shrijanagain/vsd,Shrijanagain,0,0,region:us
+2026-10-12T05:18:42Z,turtlely/lunarsolve-data,turtlely,0,0,region:us
