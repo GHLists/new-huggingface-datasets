@@ -1,0 +1,168 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T07:19:15Z,TuanAnhHoangBui/test-DA,TuanAnhHoangBui,0,0,region:us
+2026-10-12T07:19:32Z,mveen3/hindi_slm,mveen3,0,0,region:us
+2026-10-12T07:19:34Z,ngila-ai/ngila-benchmarks-ccby-v0.2,ngila-ai,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-12T07:20:18Z,duyle2408/tinyperson-p2-r5-corrected-seed42-runs,duyle2408,0,0,size_categories:100K<n<1M; format:json; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T07:20:23Z,ngila-ai/ngila-benchmarks-nc-v0.2,ngila-ai,0,1,task_categories:text-classification; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-12T07:20:38Z,rainbowrobotics/JIMTOF_final_20261012_151120,rainbowrobotics,0,1,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T07:21:18Z,ngila-ai/ngila-benchmarks-mit-v0.2,ngila-ai,0,0,task_categories:text-classification; language:en; language:zh; license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-12T07:21:55Z,ngila-ai/ngila-truthfulqa-v0.2,ngila-ai,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-12T07:21:59Z,ngila-ai/ngila-do-not-answer-v0.2,ngila-ai,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-12T07:22:34Z,SOTAagi2030/Cinder-Lantern-Image-Notes,SOTAagi2030,0,0,region:us
+2026-10-12T07:22:35Z,SOTAagi2030/Cinder-Lantern-Sensor-Tiles,SOTAagi2030,0,0,region:us
+2026-10-12T07:23:10Z,SOTAagi2030/KilnTrace-Sherd-Images,SOTAagi2030,0,1,region:us
+2026-10-12T07:23:11Z,SOTAagi2030/HarborEcho-Clicks,SOTAagi2030,0,0,region:us
+2026-10-12T07:23:11Z,SOTAagi2030/KilnTrace-Glaze-Captions,SOTAagi2030,0,0,region:us
+2026-10-12T07:23:12Z,SOTAagi2030/HarborEcho-Event-Labels,SOTAagi2030,0,0,region:us
+2026-10-12T07:23:38Z,Gowthamguna03/Sanlak,Gowthamguna03,0,0,region:us
+2026-10-12T07:23:39Z,LinkQQ/ChinaCoalIncident-SFT,LinkQQ,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T07:23:54Z,SOTAagi2030/VerdantVault-Field-Transcriptions,SOTAagi2030,0,0,region:us
+2026-10-12T07:23:55Z,SOTAagi2030/VerdantVault-Herbarium-Labels,SOTAagi2030,0,0,region:us
+2026-10-12T07:24:46Z,qiujun/zhuapingzi_20261012_142253,qiujun,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T07:25:17Z,atxclark2/video-text-samples,atxclark2,0,0,license:apache-2.0; region:us; dataset; robotics; video-text
+2026-10-12T07:26:05Z,bachthetrollface/crucible3d-pref-dataset-AmberKite,bachthetrollface,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T07:26:51Z,haydendoo/so101_pickup_20261012_151539,haydendoo,0,1,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:27:04Z,Zhangdanyang/agent-phase2-held-out-aiter,Zhangdanyang,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; region:us; gpu-kernel; triton; amd-mi350; gfx950; held-out; benchmark
+2026-10-12T07:28:46Z,chiharoong/danbooru-tags-kr,chiharoong,0,0,license:mit; region:us
+2026-10-12T07:28:50Z,k1ngtai/shn_Mymr,k1ngtai,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T07:29:05Z,ngando66340/mamba,ngando66340,0,0,region:us
+2026-10-12T07:29:31Z,drozhevskii/xsum_mistral_filtered,drozhevskii,0,0,license:apache-2.0; size_categories:10K<n<100K; format:arrow; modality:tabular; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-12T07:30:38Z,thanhngo54647/antares,thanhngo54647,0,0,region:us
+2026-10-12T07:32:19Z,anhhoang45808/lavender,anhhoang45808,0,0,region:us
+2026-10-12T07:34:20Z,anly84236/rainforest,anly84236,0,0,region:us
+2026-10-12T07:34:25Z,ChaptTwoTonyStark/so101_block_to_cup_vtest,ChaptTwoTonyStark,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:37:01Z,haydendoo/so101_pickup_20261012_152810,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:37:27Z,KhangTruong/COCO-inpainted-cache,KhangTruong,0,0,region:us
+2026-10-12T07:40:32Z,aykgeh/ethiopia-crop-climate-altitude-zones,aykgeh,0,1,task_categories:tabular-regression; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; a…
+2026-10-12T07:41:56Z,atsun1999/AlphaTrade-SFT-dataset-full,atsun1999,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T07:42:23Z,SOTAagi2030/Harbor-Incident-Narratives,SOTAagi2030,0,0,region:us
+2026-10-12T07:42:24Z,SOTAagi2030/Harbor-Sensor-Logs,SOTAagi2030,0,0,region:us
+2026-10-12T07:42:30Z,SOTAagi2030/Cedar-Code-Archive,SOTAagi2030,0,0,region:us
+2026-10-12T07:42:32Z,SOTAagi2030/Cedar-Code-Refined,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:05Z,SOTAagi2030/MuseumLedger-Object-Photos,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:06Z,SOTAagi2030/MuseumLedger-Catalog-Text,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:08Z,SOTAagi2030/CedarTrace-Enriched,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:08Z,SOTAagi2030/RiverGauge-Flow-Observations,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:08Z,SOTAagi2030/CedarTrace-Original,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:09Z,SOTAagi2030/RiverGauge-Flow-Briefings,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:42Z,SOTAagi2030/OrchardSignal-Pollinator-Sightings,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:43Z,SOTAagi2030/OrchardSignal-Bloom-Forecasts,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:46Z,SOTAagi2030/Alpine-Trail-Camera-Frames,SOTAagi2030,0,0,region:us
+2026-10-12T07:43:48Z,SOTAagi2030/Wetland-Acoustic-Detections,SOTAagi2030,0,0,region:us
+2026-10-12T07:44:07Z,linhdang90601/roadster,linhdang90601,0,0,region:us
+2026-10-12T07:44:20Z,SOTAagi2030/Harborlight-Incident-Summaries,SOTAagi2030,0,0,region:us
+2026-10-12T07:44:21Z,SOTAagi2030/Harborlight-Dock-Logs,SOTAagi2030,0,0,region:us
+2026-10-12T07:44:22Z,SOTAagi2030/Ember-Transit-Slice,SOTAagi2030,0,0,region:us
+2026-10-12T07:44:24Z,SOTAagi2030/Ember-Transit-Slice-Raw,SOTAagi2030,0,1,region:us
+2026-10-12T07:45:37Z,pandora-box/dataset2,pandora-box,0,0,region:us
+2026-10-12T07:46:15Z,cuongvo23816/metro,cuongvo23816,0,0,region:us
+2026-10-12T07:47:08Z,haydendoo/so101_pickup_20261012_153718,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:47:28Z,Roydon728/OPID,Roydon728,0,0,region:us
+2026-10-12T07:47:46Z,khanhle19468/flora,khanhle19468,0,0,region:us
+2026-10-12T07:47:54Z,endomorphosis/ipfs_new_caledonia_laws,endomorphosis,0,0,task_categories:text-retrieval; language:fr; license:etalab-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-12T07:49:29Z,DoctrineAI/decisions_structuring,DoctrineAI,0,0,language:fr; license:other; region:us
+2026-10-12T07:49:41Z,khoango89482/estuary,khoango89482,0,0,region:us
+2026-10-12T07:50:24Z,smarketing-akademie/smarketing-glossar-de,smarketing-akademie,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:text-classification; language:de; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:dat…
+2026-10-12T07:51:13Z,nhuphan59478/hydrosphere,nhuphan59478,0,0,region:us
+2026-10-12T07:51:20Z,MMMich/SimpleICL-Data,MMMich,0,0,license:mit; region:us
+2026-10-12T07:51:22Z,duyle2408/levirship-r5-100ep-runs,duyle2408,0,0,region:us
+2026-10-12T07:51:22Z,duyle2408/tinyperson-r5-100ep-runs,duyle2408,0,0,region:us
+2026-10-12T07:51:22Z,duyle2408/tinyperson-p2-r5-corrected-100ep-runs,duyle2408,0,0,region:us
+2026-10-12T07:51:22Z,duyle2408/levirship-p2-r5-corrected-100ep-runs,duyle2408,0,0,region:us
+2026-10-12T07:51:54Z,seriintan/rollout_live_demo_v2_20261012_154958,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:52:04Z,xzlllllll/stu-test-preds-lido,xzlllllll,0,0,region:us
+2026-10-12T07:52:38Z,Mobiusi/Psychotherapy-Dialogue-Medication-Guidance-Boundary-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T07:52:43Z,Monsterpapa/my-gta5-data,Monsterpapa,0,0,region:us
+2026-10-12T07:52:50Z,kienphan43077/celestial,kienphan43077,0,0,region:us
+2026-10-12T07:52:50Z,Mobiusi/Psychotherapy-Scope-And-Clinical-Boundary-Safety-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T07:53:00Z,Mobiusi/Psychotherapy-Dialogue-Self-Harm-And-Suicide-Risk-Safety-Evaluation-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T07:53:10Z,Mobiusi/Clinical-Psychology-Risk-Triage-Constraint-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T07:53:36Z,Mobiusi/Psychotherapy-Crisis-Response-Protocol-Constraint-Verification-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T07:55:07Z,thaohoang5214/clove,thaohoang5214,0,0,region:us
+2026-10-12T07:55:14Z,seriintan/rollout_live_demo_v2_20261012_155317,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:57:38Z,haydendoo/so101_pickup_20261012_154810,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-12T07:57:44Z,nishuo1999/UHR-Micro,nishuo1999,0,0,license:apache-2.0; region:us
+2026-10-12T07:57:45Z,smarketing-akademie/gefoerderte-weiterbildung,smarketing-akademie,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:text-classification; language:de; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:dat…
+2026-10-12T07:57:54Z,huangchengduo/RSpickuptangguo30,huangchengduo,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T07:57:57Z,tuanly39059/nebular,tuanly39059,0,0,region:us
+2026-10-12T07:59:35Z,ScaleAI/DistressBench,ScaleAI,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-12T07:59:37Z,indwaarrr/french-commune-arms-blazons,indwaarrr,0,0,task_categories:image-to-text; language:fr; license:cc-by-sa-4.0; size_categories:1K<n<10K; region:us; heraldry; blazon; coats-of-arms
+2026-10-12T07:59:45Z,hyf015/heyp-data,hyf015,0,0,region:us
+2026-10-12T07:59:47Z,mymiyu/heri2026-sft-datasets,mymiyu,0,0,task_categories:text-generation; language:ko; license:other; region:us; korean; cultural-heritage; museum; sft; persona
+2026-10-12T08:00:17Z,Mobiusi/Medical-Decision-Making-Capacity-Assessment-Constraint-Verification-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T08:00:28Z,Mobiusi/Pediatric-ADHD-Diagnostic-Criteria-Constraint-Verification-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-12T08:00:41Z,Mobiusi/Evidence-Constrained-Verification-Benchmark-For-Childhood-Autism-Diagnosis,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T08:00:51Z,Mobiusi/Pediatric-Diabetic-Ketoacidosis-Diagnostic-And-Severity-Criteria-Consistency-Ben,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-12T08:00:51Z,khanhle34857/littoral,khanhle34857,0,0,region:us
+2026-10-12T08:01:06Z,Mobiusi/Pediatric-Immunization-Timing-Constraint-Verification-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-12T08:02:21Z,SOTAagi2030/LumenCartography-Surveys,SOTAagi2030,0,0,region:us
+2026-10-12T08:02:23Z,SOTAagi2030/LumenCartography-Summaries,SOTAagi2030,0,0,region:us
+2026-10-12T08:02:30Z,keyur-neeved/df40-filtered,keyur-neeved,0,0,task_categories:image-classification; region:us; deepfake-detection; df40
+2026-10-12T08:02:44Z,COBRA-challenge/COBRA-challenge-dataset,COBRA-challenge,0,0,license:cc-by-nc-4.0; region:us
+2026-10-12T08:02:46Z,ChaptTwoTonyStark/so101_block_to_cup_v1,ChaptTwoTonyStark,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T08:03:04Z,SOTAagi2030/AuroraWetlands-Observations,SOTAagi2030,0,0,region:us
+2026-10-12T08:03:05Z,SOTAagi2030/AuroraWetlands-Narratives,SOTAagi2030,0,0,region:us
+2026-10-12T08:03:08Z,SOTAagi2030/OrchardAtlas-Leaf-Scans,SOTAagi2030,0,0,region:us
+2026-10-12T08:03:10Z,SOTAagi2030/OrchardAtlas-Canopy-Notes,SOTAagi2030,0,0,region:us
+2026-10-12T08:04:17Z,SOTAagi2030/Annoy-FieldAtlas-Scans,SOTAagi2030,0,0,region:us
+2026-10-12T08:04:19Z,SOTAagi2030/Annoy-FieldAtlas-Descriptions,SOTAagi2030,0,0,region:us
+2026-10-12T08:07:02Z,intronhealth/afrivox_wild,intronhealth,0,0,license:cc-by-4.0; region:us
+2026-10-12T08:07:28Z,sunmengxi/test,sunmengxi,0,0,region:us
+2026-10-12T08:07:50Z,mangoamit/class-fashion-2024,mangoamit,0,0,license:cc-by-4.0; region:us; dataset; fashion; audio-video
+2026-10-12T08:07:56Z,haydendoo/so101_pickup_20261012_160223,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T08:08:52Z,inferama/ai-model-pricing,inferama,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; llm; pricing; api; context-window; ai-models
+2026-10-12T08:08:55Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-12T08:08:56Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-12T08:10:50Z,ckyrkou/CyCar,ckyrkou,0,0,license:cc-by-4.0; region:us
+2026-10-12T08:11:00Z,ravediamond/so101-bowls-h264-224,ravediamond,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so101; bowls; idle-start-trimmed
+2026-10-12T08:11:15Z,agu18dec/chive-forensics,agu18dec,0,0,task_categories:text-generation; language:en; language:multilingual; license:odc-by; size_categories:n<1K; region:us; interpretability; model-forensics; causal-analysis; counterfactual; qwen
+2026-10-12T08:12:57Z,phatngo58747/tunnel,phatngo58747,0,0,region:us
+2026-10-12T08:13:07Z,haydendoo/so101_pickup_20261012_160827,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T08:13:22Z,ambitious479/sn38-submission,ambitious479,0,0,region:us
+2026-10-12T08:15:46Z,taichi116/sarmal_test8_20261012_171135,taichi116,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-12T08:16:25Z,therarelab/medkit_bottle_pickplace_so100,therarelab,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so100; medication; pick-and-place; smolvla
+2026-10-12T08:17:34Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-71f60d9b,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; flux
+2026-10-12T08:17:40Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-8f1b5840,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:17:45Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-962ddfb3,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:17:50Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-4521b399,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-12T08:17:57Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-b8f14987,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:18:03Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-6271bb91,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:18:12Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-ed9d1aee,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:18:18Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-7a27ff26,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:18:24Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-7b48f97d,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-12T08:18:30Z,imagedevlopment/gradients-image-tourn_5277c96d70607ba0_20261005-98059de4,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:18:37Z,ASD121SAD/Annoy-PyEdu-Rs,ASD121SAD,0,0,region:us
+2026-10-12T08:18:38Z,ASD121SAD/Annoy-PyEdu-Rs-Raw,ASD121SAD,0,0,region:us
+2026-10-12T08:18:40Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-40018c85,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; flux
+2026-10-12T08:18:46Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-b9ac031e,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:18:50Z,scidata-benchmark/BreastUSCT,scidata-benchmark,0,0,license:cc-by-4.0; region:us
+2026-10-12T08:18:53Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-a3ed678c,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:19:03Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-8a3698d7,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:19:08Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-790304ac,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:19:13Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-dad11714,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:19:19Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-ec70d081,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:19:21Z,duyle2408/tinyperson-p2-corrected-100ep-runs,duyle2408,0,0,region:us
+2026-10-12T08:19:26Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-7b5416a9,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:19:31Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-b1546f69,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-12T08:19:40Z,imagedevlopment/gradients-image-tourn_17ed417234322ccc_20260928-0bf3c1b9,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:19:52Z,telepix-ai/SatUnreal,telepix-ai,0,0,license:other; region:us
+2026-10-12T08:19:53Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-c7460d80,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:19:58Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-b3d4e834,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:20:02Z,haydendoo/so101_pickup_20261012_161513,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-12T08:20:03Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-9159e3dc,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; flux
+2026-10-12T08:20:12Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-87f69ea0,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; flux
+2026-10-12T08:20:17Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-8fd01555,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:20:22Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-ae65e0ac,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-12T08:20:29Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-244984ee,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:20:34Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-13e44b2d,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:20:35Z,afeasdfsd/Annoy-PyEdu-Rs,afeasdfsd,0,0,region:us
+2026-10-12T08:20:36Z,afeasdfsd/Annoy-PyEdu-Rs-Raw,afeasdfsd,0,0,region:us
+2026-10-12T08:20:40Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-5c1de437,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:20:44Z,jasonAibot/vos30002195,jasonAibot,0,0,region:us
+2026-10-12T08:20:59Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-ecf1cd45,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-12T08:21:05Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-b52b53c3,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:21:09Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-af4138aa,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-12T08:21:14Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-3b6a0a8e,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-12T08:21:20Z,imagedevlopment/gradients-image-tourn_30736259a9429dc0_20260921-59b62bbc,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-12T08:21:31Z,therarelab/medkit_bottle_pickplace_so100_s0101,therarelab,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so100; so101; medication; pick-and-place; smolvla
+2026-10-12T08:21:34Z,Banseokjang/my-first-dataset,Banseokjang,0,0,region:us
