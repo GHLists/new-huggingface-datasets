@@ -1,0 +1,35 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-11T23:31:39Z,Faizaniqbal/tiktok-5.6B-videos,Faizaniqbal,0,0,license:cc-by-nc-4.0; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; tiktok; social-media;…
+2026-10-11T23:32:43Z,xcxvvvb55/Annoy-PyEdu-Rs-Raw,xcxvvvb55,0,0,region:us
+2026-10-11T23:32:43Z,xcxvvvb55/Annoy-PyEdu-Rs,xcxvvvb55,0,0,region:us
+2026-10-11T23:32:45Z,xcc12ds21313/Annoy-PyEdu-Rs,xcc12ds21313,0,0,region:us
+2026-10-11T23:32:46Z,xcc12ds21313/Annoy-PyEdu-Rs-Raw,xcc12ds21313,0,0,region:us
+2026-10-11T23:37:00Z,Faei/overview-of-key-positions,Faei,0,0,region:us
+2026-10-11T23:37:28Z,greyexploiter/inddata-split,greyexploiter,0,0,region:us
+2026-10-11T23:43:01Z,umbramortem/alerts_open_tools_open_sky_2026,umbramortem,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-11T23:57:22Z,licaaron/french-text-to-picto-manual,licaaron,0,0,language:fr; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; augmentative-and-alternative-communication; picto…
+2026-10-11T23:59:35Z,epic98/yue-music-assets,epic98,0,0,region:us
+2026-10-12T00:02:37Z,afdafafwf/Annoy-PyEdu-Rs,afdafafwf,0,0,region:us
+2026-10-12T00:02:38Z,afdafafwf/Annoy-PyEdu-Rs-Raw,afdafafwf,0,0,region:us
+2026-10-12T00:10:24Z,einarolafsson/spacr-example-fibsem,einarolafsson,0,0,task_categories:image-segmentation; license:cc0-1.0; size_categories:n<1K; modality:3d; region:us; electron-microscopy; fib-sem; volume-em; mitochondria; 3d; spacr
+2026-10-12T00:11:56Z,mjbommar/opengloss-icl,mjbommar,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; arxiv:2511.18622; region:us; in-context-learning; lexical-relations; antonyms; morphology; synthetic; openg…
+2026-10-12T00:13:34Z,mjbommar/openlemma-v0.4-pretrain,mjbommar,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; synthetic; reasoning; logic; arithmetic; procedural; in-conte…
+2026-10-12T00:14:41Z,mjbommar/opengloss-instruct-writing,mjbommar,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:summarization; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-12T00:15:13Z,inaciose/smol-smoltalk-pt-v2-mini,inaciose,0,0,license:apache-2.0; region:us
+2026-10-12T00:15:19Z,mjbommar/openlemma-v0.4-wp,mjbommar,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-12T00:15:26Z,mjbommar/openlemma-v0.4-formal-nl,mjbommar,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-12T00:15:29Z,mjbommar/opengloss-relations-v1,mjbommar,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-12T00:15:33Z,mjbommar/openlemma-v0.5-pretrain,mjbommar,0,0,language:en; license:cc-by-4.0; region:us; code; python; math; logic; reasoning; synthetic; verified
+2026-10-12T00:15:49Z,mjbommar/openlemma-v0.5-items,mjbommar,0,0,language:en; license:cc-by-4.0; region:us; code; python; math; logic; reasoning; synthetic; verified
+2026-10-12T00:16:00Z,mjbommar/openlemma-v0.4-programs,mjbommar,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; math; arithmetic; code; tool-use; formal-verification; smt; lean4; synthetic; openlemma
+2026-10-12T00:16:08Z,blambert/repro,blambert,0,0,region:us
+2026-10-12T00:16:13Z,blambert/repro-splits,blambert,0,0,region:us
+2026-10-12T00:16:54Z,alea-institute/alea-correction-pairs,alea-institute,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; spelling-correction; ocr-correction; typo-correction; proofreading; legal; synthetic
+2026-10-12T00:16:57Z,SII-CDZ/gpt-policy-robodojo-contexts,SII-CDZ,0,0,language:en; license:other; size_categories:n<1K; region:us; robotics; robodojo; in-context-learning; gpt-policy
+2026-10-12T00:17:44Z,onethreedlee/details_onethreedlee__smollm3-unit3-dpo,onethreedlee,0,0,region:us
+2026-10-12T00:18:35Z,alea-institute/alea-grounded-tasks,alea-institute,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; grounded-qa; abstention; extraction; format-conversion; synt…
+2026-10-12T00:19:32Z,yuzhench/ai_glasses,yuzhench,0,0,region:us
+2026-10-12T00:20:16Z,blambert/issue_nnnn,blambert,0,0,region:us
+2026-10-12T00:20:20Z,blambert/issue_nnnn_splits,blambert,0,0,region:us
+2026-10-12T00:21:07Z,alea-institute/alea-axeyum-families,alea-institute,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; synthetic; legal; rules-as-code; smt; computer-algebra; form…
+2026-10-12T00:21:19Z,alea-institute/alea-axeyum-teacher,alea-institute,0,0,region:us
