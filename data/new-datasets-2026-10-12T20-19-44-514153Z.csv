@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T19:23:40Z,linearschedules-Cstar-regime/dat_6_reg_Cstar_filtered,linearschedules-Cstar-regime,0,0,region:us
+2026-10-12T19:25:01Z,TheRealSkyline/test_hacketon,TheRealSkyline,0,0,region:us
+2026-10-12T19:27:43Z,pjjg163/india-ev-range-dataset,pjjg163,0,0,task_categories:tabular-regression; language:en; license:mit; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-12T19:30:34Z,linnan98k/a4b6e7cc523,linnan98k,0,0,region:us
+2026-10-12T19:31:04Z,startup34893789/security-training-data,startup34893789,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T19:32:52Z,aarajbhattarai/unjudged-nepali-agri-data-v6,aarajbhattarai,0,0,task_categories:text-generation; language:ne; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nepali; instruction-t…
+2026-10-12T19:33:20Z,SOTAagi2030/CivicTrace-Archive,SOTAagi2030,0,0,region:us
+2026-10-12T19:33:21Z,SOTAagi2030/CivicTrace-Annotations,SOTAagi2030,0,0,region:us
+2026-10-12T19:34:24Z,papaduvalier/anyjev-finance-targets,papaduvalier,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T19:34:37Z,SOTAagi2030/HarborLint-SourceLedger,SOTAagi2030,0,0,region:us
+2026-10-12T19:34:38Z,SOTAagi2030/HarborLint-ReviewerNotes,SOTAagi2030,0,0,region:us
+2026-10-12T19:35:37Z,linnan98k/ad0bce3b949,linnan98k,0,0,region:us
+2026-10-12T19:36:34Z,SOTAagi2030/Wetland-Call-Labels,SOTAagi2030,0,0,region:us
+2026-10-12T19:41:37Z,g1n0st/bc913107dfdd4449ba6879d5878470c81019d1af,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-12T19:42:31Z,colintaylor/llm-chapter-3-certificate,colintaylor,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-12T19:43:10Z,g1n0st/939b157cd46c4830955f9927ec8dd6aef8c448d4,g1n0st,0,0,region:us
+2026-10-12T19:47:01Z,hi-todayis-jh/ouro-1.4b-thinking-individual-loop-budget-eval-20261012,hi-todayis-jh,0,0,region:us
+2026-10-12T19:51:02Z,g1n0st/d819b0a98b263820f07ea19ff12b5fb94e3e6e43,g1n0st,0,0,region:us
+2026-10-12T19:51:02Z,linnan98k/aff1c729f4e,linnan98k,0,0,region:us
+2026-10-12T19:51:31Z,harpreetsahota/VGGSound-EG2-v123-test,harpreetsahota,0,0,task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:fiftyone; region:us; audio-visual; fiftyone;…
+2026-10-12T19:51:50Z,go234/cube-box_20261013_041703,go234,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T19:52:39Z,g1n0st/98986b43ea3bccf7b9374bc690c26911b8a855d6,g1n0st,0,0,region:us
+2026-10-12T19:53:18Z,PureOne/AELYRION-NOULITH-III,PureOne,0,0,language:en; size_categories:1K<n<10K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; i…
+2026-10-12T19:54:39Z,dezadx/portsGame,dezadx,0,0,region:us
+2026-10-12T19:56:47Z,dfsfsdg5657/Annoy-PyEdu-Rs,dfsfsdg5657,0,0,region:us
+2026-10-12T19:56:48Z,dfsfsdg5657/Annoy-PyEdu-Rs-Raw,dfsfsdg5657,0,0,region:us
+2026-10-12T19:57:03Z,linnan98k/a2c3e824d1d,linnan98k,0,0,region:us
+2026-10-12T19:57:40Z,g1n0st/e51b0023eafa310c65c24c565226b2888004becc,g1n0st,0,0,region:us
+2026-10-12T19:58:39Z,g1n0st/239346a927b73166e9003fe5d26ebf4e3093c546,g1n0st,0,0,region:us
+2026-10-12T19:58:40Z,khtsly/e1,khtsly,0,0,region:us
+2026-10-12T19:59:10Z,craigmacdonald/msmarco-psg-tct_jpq_M96_nbits8,craigmacdonald,0,0,task_categories:text-retrieval; region:us; pyterrier; pyterrier-artifact; pyterrier-artifact.dense_index; pyterrier-artifact.dense_index.jpq
+2026-10-12T19:59:25Z,zippo-2026/patch,zippo-2026,0,0,region:us
+2026-10-12T20:01:58Z,AnnonSubmit/PidginMed-ASR10K,AnnonSubmit,0,0,license:cc-by-4.0; region:us
+2026-10-12T20:03:26Z,linnan98k/af8c01909f2,linnan98k,0,0,region:us
+2026-10-12T20:03:55Z,g1n0st/966a6c81e7037f9392b7d4a3f510511b76587148,g1n0st,0,0,region:us
+2026-10-12T20:05:39Z,JAYNESTV/iphone-stream,JAYNESTV,0,0,region:us
+2026-10-12T20:05:48Z,g1n0st/2f6bed4ab02429274f35720c0702d5c134de58c5,g1n0st,0,0,region:us
+2026-10-12T20:07:30Z,g1n0st/efbccccf561ad18dc71351061aacb1b0050f30ca,g1n0st,0,0,region:us
+2026-10-12T20:08:51Z,34data/asvspoof5-bonafide-provenance,34data,0,0,license:other; region:us
+2026-10-12T20:08:59Z,34data/asvspoof2021-la-eval-provenance,34data,0,0,region:us
+2026-10-12T20:09:36Z,i-i-t/hamsi-otel-verileri,i-i-t,0,0,region:us
+2026-10-12T20:10:15Z,g1n0st/4faf530197ec5fc55b5a7ce747616117f0c23bda,g1n0st,0,0,region:us
+2026-10-12T20:11:07Z,qqyang/ego2contact-viz,qqyang,0,0,region:us
+2026-10-12T20:12:48Z,g1n0st/fd4a27847e9c8782b1c37984438e00550aa1e8c9,g1n0st,0,0,region:us
+2026-10-12T20:14:54Z,linnan98k/aba1ac66c4f,linnan98k,0,0,region:us
+2026-10-12T20:15:35Z,sravanims/symptom_to_diagnosis,sravanims,0,0,region:us
+2026-10-12T20:17:20Z,Tommysha/zero-code-l1-cc-valid,Tommysha,0,0,task_categories:text-generation; license:apache-2.0; region:us; code; code-contests; zevo
+2026-10-12T20:19:36Z,g1n0st/df834d9602b209d6d5fb4ed18286db7cba7c934f,g1n0st,0,0,region:us
