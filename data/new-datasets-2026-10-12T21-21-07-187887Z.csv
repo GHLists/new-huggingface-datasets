@@ -1,0 +1,56 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T20:20:20Z,bigdra/xlerobot-pick_red_plus_dagger12,bigdra,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-12T20:20:28Z,g1n0st/32df5557da68d07599f3f22b23b2bf3d6b9e9780,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-12T20:25:36Z,harpreetsahota/VGGSound-1000,harpreetsahota,0,0,task_categories:video-classification; task_categories:audio-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:video; modality:audio; library:datasets; library:mlcrois…
+2026-10-12T20:25:41Z,g1n0st/41da199063351663bebd13298cde5580c44e156d,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T20:25:50Z,Arynwood/local-ai-benchmarks,Arynwood,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ollama; llm; b…
+2026-10-12T20:26:44Z,Shiro698/Amazon-Reviews-2023,Shiro698,0,0,language:en; size_categories:10B<n<100B; arxiv:2403.03952; region:us; recommendation; reviews
+2026-10-12T20:26:52Z,g1n0st/3ece9f5b97253da97a5886fa0c8b1396f3c551b5,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-12T20:27:08Z,Stingy37/wiki-18-e5-opq64-ivf16384-pq64,Stingy37,0,0,language:en; license:cc-by-sa-3.0; size_categories:10M<n<100M; region:us; faiss; ivf; product-quantization; opq; retrieval; rag; wikipedia; hotpotqa; search-r1; e5
+2026-10-12T20:29:47Z,Elcasi/items_prompt_lite,Elcasi,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T20:30:58Z,34data/asvspoof2021-df-eval-provenance,34data,0,0,license:other; region:us
+2026-10-12T20:31:47Z,linnan98k/a6a3ccb56d6,linnan98k,0,0,region:us
+2026-10-12T20:34:03Z,g1n0st/07ee439e8446c3233fd8d2bec9d06203d784c6a4,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T20:37:33Z,g1n0st/25399414c88be691970e48f3f3dbc56f8b85d4c1,g1n0st,0,0,region:us
+2026-10-12T20:37:50Z,ValeEverheart/vale-governance-eval,ValeEverheart,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-12T20:38:12Z,g1n0st/f97f2eb313c3dd9cadf3855c4800075532eba1a4,g1n0st,0,0,region:us
+2026-10-12T20:39:14Z,g1n0st/5cd0330fe6a625e4879792adc1c4ec3e3f633c39,g1n0st,0,0,region:us
+2026-10-12T20:40:08Z,fesvhtr/phygenhand,fesvhtr,0,0,language:en; language:zh; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; video; image-to-video; physics; hot3d
+2026-10-12T20:44:46Z,linnan98k/aa8e533196b,linnan98k,0,0,region:us
+2026-10-12T20:45:50Z,rooty2020/LIBERO-VP,rooty2020,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2610.06940; arxiv:2306.03310; region:us; robotics; robot-manipulation; 3d-point-tracking; point-trajectories;…
+2026-10-12T20:47:44Z,rooty2020/RoboCasa-VP,rooty2020,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:100K<n<1M; arxiv:2610.06940; arxiv:2406.02523; arxiv:2603.04356; region:us; robotics; robot-manipulation; mobile-manipulation…
+2026-10-12T20:47:44Z,g1n0st/281afc448ee8c3d97b1afd5baeee541eb51bc0b3,g1n0st,0,0,modality:video; region:us
+2026-10-12T20:47:45Z,rooty2020/DROID-VP,rooty2020,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:2610.06940; arxiv:2403.12945; arxiv:2602.09973; region:us; robotics; robot-manipulation; 3d-point-tracking;…
+2026-10-12T20:48:31Z,g1n0st/4b424440ffbc57c009de52282150ea5ca9b7e5b7,g1n0st,0,0,region:us
+2026-10-12T20:49:11Z,yup8/ai-days-2026-ago2,yup8,0,0,region:us
+2026-10-12T20:50:24Z,linnan98k/ac43e5fb151,linnan98k,0,0,region:us
+2026-10-12T20:51:30Z,quietbit/egocentric-10k-actions-sample,quietbit,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; region:us; LeRobot; egocentric; hand-pose; manipulation; human-video; imitation-learning; factory
+2026-10-12T20:59:20Z,wendyz123/LIR_Lab3_Imitation_Learning,wendyz123,0,0,region:us
+2026-10-12T20:59:57Z,linnan98k/a48209d0fed,linnan98k,0,0,region:us
+2026-10-12T21:01:18Z,anonymous54321/CMESpectrumBench,anonymous54321,0,0,license:cc-by-4.0; region:us
+2026-10-12T21:01:31Z,realmubez/M,realmubez,0,0,region:us
+2026-10-12T21:01:52Z,g1n0st/1090fb58ca5b64b2e4e0c04aea196bab679f0e0d,g1n0st,0,0,region:us
+2026-10-12T21:04:23Z,jbindl-flex/the-office-famous-quotes,jbindl-flex,0,0,task_categories:fill-mask; language:en; size_categories:n<1K; region:us
+2026-10-12T21:05:45Z,belztjti/1111,belztjti,0,0,region:us
+2026-10-12T21:07:24Z,Amanafif554/IELTS-WAV-FILE-P3,Amanafif554,0,0,region:us
+2026-10-12T21:07:35Z,linnan98k/a7c00e221b7,linnan98k,0,0,region:us
+2026-10-12T21:07:49Z,suleman10101010/shamela-books-json,suleman10101010,0,1,license:mit; region:us
+2026-10-12T21:09:42Z,talha085/lale-3b-veri,talha085,0,0,region:us
+2026-10-12T21:09:58Z,M1ztyk/SAIGE-right-speech-dpo-rejudged,M1ztyk,0,0,region:us
+2026-10-12T21:10:31Z,Phitran21/Vietnamese-Adam-funny-TTS-50h,Phitran21,0,0,task_categories:text-to-speech; language:vi; size_categories:10K<n<100K; modality:audio; region:us; audio; vietnamese; tts; single-speaker; synthetic-speech; speech-synthesis
+2026-10-12T21:11:29Z,meritoes/spain-fuel-prices,meritoes,0,0,region:us
+2026-10-12T21:11:49Z,jingene/CMESpectrumBench,jingene,0,0,region:us
+2026-10-12T21:11:55Z,belztjti/2222,belztjti,0,0,region:us
+2026-10-12T21:14:09Z,mateenfish001/Test,mateenfish001,0,0,region:us
+2026-10-12T21:14:13Z,madanto/so101-blue-right,madanto,0,0,region:us
+2026-10-12T21:16:22Z,madanto/so101-blue-left,madanto,0,0,region:us
+2026-10-12T21:16:37Z,madanto/so101-green-right,madanto,0,0,region:us
+2026-10-12T21:16:59Z,anonyMicky/anonymized-dataset,anonyMicky,0,0,region:us
+2026-10-12T21:18:28Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-12T21:18:28Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-12T21:18:49Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-10-12T21:18:49Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-10-12T21:18:52Z,g1n0st/c82003f455e81cd38d09bf1fbe4c15c7d9fdeb7c,g1n0st,0,0,region:us
+2026-10-12T21:19:19Z,sad1csa21dsa/Annoy-PyEdu-Rs,sad1csa21dsa,0,0,region:us
+2026-10-12T21:19:20Z,sad1csa21dsa/Annoy-PyEdu-Rs-Raw,sad1csa21dsa,0,0,region:us
+2026-10-12T21:20:19Z,adam-i/ATV-UA,adam-i,0,0,region:us
