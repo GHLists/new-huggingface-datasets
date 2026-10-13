@@ -1,0 +1,55 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T19:22:36Z,Bohemian-self/DERCER_Testing_Syn_Audios,Bohemian-self,0,0,size_categories:n<1K; format:text; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-13T19:25:03Z,Maqsudjonpolatov/hsk-chinese-uzbek-russian,Maqsudjonpolatov,0,0,task_categories:translation; language:zh; language:uz; language:ru; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library…
+2026-10-13T19:29:00Z,g1n0st/5c736b4ed3d745a2d90c55990b53a9a735577892,g1n0st,0,0,modality:video; region:us
+2026-10-13T19:29:12Z,Shrijanagain/QWE,Shrijanagain,0,0,region:us
+2026-10-13T19:29:18Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-10-13T19:29:23Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-10-13T19:29:36Z,SARWARFX/stream-vault,SARWARFX,0,0,size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-13T19:29:37Z,g1n0st/bd6078e793d914610c1e97264f4d6391edb84889,g1n0st,0,0,region:us
+2026-10-13T19:29:37Z,sophiathomaspuc/gaming-image-depth-mini79,sophiathomaspuc,0,0,license:apache-2.0; region:us; dataset; gaming; image-depth
+2026-10-13T19:29:38Z,GeneralSequences/template-sources,GeneralSequences,0,0,license:other; region:us
+2026-10-13T19:30:36Z,DSADCZC12/Annoy-PyEdu-Rs,DSADCZC12,0,0,region:us
+2026-10-13T19:30:37Z,DSADCZC12/Annoy-PyEdu-Rs-Raw,DSADCZC12,0,0,region:us
+2026-10-13T19:32:14Z,Mathomas/text-tabular-data,Mathomas,0,0,license:mit; region:us; dataset; wildlife; text-tabular
+2026-10-13T19:33:58Z,Alisafedorov/image-text-dataset,Alisafedorov,0,0,license:mit; region:us; dataset; sound-events; image-text
+2026-10-13T19:34:22Z,nextdppr/ru-legal-instructions,nextdppr,0,0,task_categories:question-answering; task_categories:text-generation; language:ru; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:p…
+2026-10-13T19:36:05Z,AlGordo/LFIRLab3,AlGordo,0,0,region:us
+2026-10-13T19:38:06Z,FinzData/forecast-bench,FinzData,0,0,license:cc-by-4.0; region:us; finance; forecasting; benchmark; time-series; no-look-ahead
+2026-10-13T19:42:05Z,MariusBrtn/picking_dice_V3,MariusBrtn,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-13T19:42:51Z,destitech/custom-yodas-multi,destitech,0,0,license:cc-by-4.0; region:us
+2026-10-13T19:43:30Z,ZipLime/industry-classification,ZipLime,0,0,task_categories:tabular-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; finance; sector; industry; classification; sic; naics; sec; edgar; point-in-time; backte…
+2026-10-13T19:44:15Z,delhivip29/Raveena_Delhi,delhivip29,0,0,region:us
+2026-10-13T19:45:28Z,dougalldeepmind/2026-10-11-petri-qwen36-0-da-25,dougalldeepmind,0,0,license:mit; region:us
+2026-10-13T19:46:02Z,Qipei/Mobile_task,Qipei,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-13T19:47:02Z,anonymus112/analysis_1,anonymus112,0,0,region:us
+2026-10-13T19:48:04Z,wckwan/WebShop-Olmo3-7B-GRPO-nostd-s2000-eval,wckwan,0,0,region:us
+2026-10-13T19:48:08Z,NunoBatista/bts-ontime-2022-2023,NunoBatista,0,0,task_categories:tabular-classification; license:other; size_categories:10M<n<100M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-10-13T19:48:34Z,hbmartin/podcast-transcripts,hbmartin,0,0,modality:text; region:us; podcasts; transcripts
+2026-10-13T19:50:42Z,HaseebDev/corporate_expense_audits,HaseebDev,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; synthetic; synthetic-data; workflow-records; b2b; finance; privacy-safe
+2026-10-13T19:50:49Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs,asd12dsacxz12dsa,0,0,region:us
+2026-10-13T19:50:50Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs-Raw,asd12dsacxz12dsa,0,0,region:us
+2026-10-13T19:51:46Z,dougalldeepmind/2026-10-13-petri-qwen36-0-da-tools-15,dougalldeepmind,0,0,license:mit; region:us
+2026-10-13T19:52:34Z,ichorbio/biosimilar-reference-database,ichorbio,0,0,license:cc-by-4.0; size_categories:n<1K; modality:text; region:us; biology; proteins; antibodies; biosimilars; bioinformatics; developability
+2026-10-13T19:52:47Z,RKB109/contextual-bandit-simulator-20261013-dataset,RKB109,0,0,task_categories:reinforcement-learning; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-13T19:53:02Z,nightly-wave/f223c7a5,nightly-wave,0,0,region:us
+2026-10-13T19:55:59Z,leobianco/eval_npov_tbb4nfge_checkpoint-456_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T19:59:42Z,Qipei/Dado_task,Qipei,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; tutorial
+2026-10-13T19:59:51Z,sads1xcz21esa/Annoy-PyEdu-Rs,sads1xcz21esa,0,0,region:us
+2026-10-13T19:59:57Z,sads1xcz21esa/Annoy-PyEdu-Rs-Raw,sads1xcz21esa,0,0,region:us
+2026-10-13T20:00:03Z,SOTAagi2030/Atlas-Runtime-SBOM-Snapshot,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-13T20:00:15Z,advafzal/bangladesh-family-law-wiki,advafzal,0,0,task_categories:question-answering; task_categories:text-retrieval; task_categories:text-generation; language:en; language:bn; license:mit; size_categories:1K<n<10K; region:us; law; legal; legal-know…
+2026-10-13T20:05:55Z,endomorphosis/ipfs_south_africa_provincial_laws,endomorphosis,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; law; legislation; south-africa; prov…
+2026-10-13T20:06:36Z,VibeCuisine/vibepi3-101326,VibeCuisine,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-13T20:07:13Z,zehen8716/Trained,zehen8716,0,0,region:us
+2026-10-13T20:09:48Z,mukaddamzaid/amos-1-decision-index,mukaddamzaid,0,0,license:apache-2.0; region:us; decision-index
+2026-10-13T20:11:27Z,KickCellarDoor/Hierarchical-Reconstruction-backup-20261013,KickCellarDoor,0,0,region:us; 3d-reconstruction; pixarmesh; research-artifacts; backup
+2026-10-13T20:11:53Z,jayesh20/symptom_checker,jayesh20,0,0,region:us
+2026-10-13T20:14:27Z,fhdgbdf/pizdabol,fhdgbdf,0,0,region:us
+2026-10-13T20:15:46Z,fhdgbdf/jkhtgmhngmgh,fhdgbdf,0,0,region:us
+2026-10-13T20:15:55Z,VedantChavan06/ai2_arc,VedantChavan06,0,0,task_categories:question-answering; task_ids:open-domain-qa; task_ids:multiple-choice-qa; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:original; l…
+2026-10-13T20:16:45Z,ahmedsamirtarjama/arabic-ocr-research-evals,ahmedsamirtarjama,0,0,region:us
+2026-10-13T20:16:54Z,timjanssensy/travel-dataset,timjanssensy,0,0,license:apache-2.0; region:us; dataset; travel; audio-text
+2026-10-13T20:18:29Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-13T20:18:51Z,SOTAagi2030/Community-Garden-Plot-Calendar,SOTAagi2030,0,0,region:us
+2026-10-13T20:18:55Z,SOTAagi2030/Calibration-Coverage-Windows,SOTAagi2030,0,0,license:cc-by-4.0; region:us
