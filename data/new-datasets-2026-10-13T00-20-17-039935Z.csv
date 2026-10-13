@@ -1,0 +1,69 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-12T23:21:39Z,VoiceHub/echo-clones-10kh-en,VoiceHub,0,0,region:us
+2026-10-12T23:21:43Z,bmombie/place-bowl-in-dishwasher_trajectorycheck_20261012_232000,bmombie,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-12T23:21:55Z,SUM0N/ted-lh-pacmap,SUM0N,0,0,region:us
+2026-10-12T23:22:23Z,ashsadahodihbwoqfohewefohbwefpbwibsdcbiob/on,ashsadahodihbwoqfohewefohbwefpbwibsdcbiob,0,0,region:us
+2026-10-12T23:22:49Z,Portuguese-MMLU/mmlu-pt-deduplicated,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:08Z,Portuguese-MMLU/mmlu-pt-filtered,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:16Z,Portuguese-MMLU/mmlu-pt-revised,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:20Z,Portuguese-MMLU/mmlu-pt-knowledge-annotated,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:23Z,Portuguese-MMLU/mmlu-pt-high-school,Portuguese-MMLU,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:28Z,Portuguese-MMLU/mmlu-pt-undergraduate,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:31Z,Portuguese-MMLU/mmlu-pt-high-school-hard,Portuguese-MMLU,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:23:34Z,Portuguese-MMLU/mmlu-pt-undergraduate-hard,Portuguese-MMLU,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-12T23:25:53Z,hi-todayis-jh/ouro-1.4b-thinking-loopcd-eval-20261012,hi-todayis-jh,0,0,region:us
+2026-10-12T23:25:58Z,Brunobkr/llama-agent-offellia,Brunobkr,0,0,language:pt; language:en; license:mit; doi:10.57967/hf/10876; region:us; offellia; offfellia; llama; cli; server; agent; model; qwen; gemma; gpt; nemotron; multilingue; llama.cpp; llama-agent; gguf;…
+2026-10-12T23:29:20Z,elzahar05/compressed-prompts-scored,elzahar05,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-12T23:30:03Z,MediaCatch/nota,MediaCatch,0,0,region:us
+2026-10-12T23:30:04Z,VecSzn/polystrata-benchmarks,VecSzn,0,0,license:mit; region:us; benchmark; llama.cpp; mixture-of-experts; gguf
+2026-10-12T23:31:10Z,g1n0st/681d4a23a4b29540f899ad34e30b865cd68fe767,g1n0st,0,0,modality:video; region:us
+2026-10-12T23:31:19Z,dsixteen/Niji_1_Woman-control,dsixteen,0,0,region:us
+2026-10-12T23:33:52Z,IAsistemofinteres/omni_voice_pro,IAsistemofinteres,0,0,region:us
+2026-10-12T23:34:31Z,Yutopian/Northern_Kingdom,Yutopian,0,0,region:us
+2026-10-12T23:35:15Z,bmombie/place-bowl-in-dishwasher_trajectorycheck_20261012_233257,bmombie,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; lerobot; grabette
+2026-10-12T23:35:56Z,g1n0st/05077599006091a9de92a5d7fdb7d3f5ee7bc2f8,g1n0st,0,0,region:us
+2026-10-12T23:35:59Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-12T23:37:34Z,arushram/bpnet-sox2-track-canary-v1,arushram,0,0,license:mit; region:us; bpnet-sox2-track; bpnet; chip-nexus; sox2
+2026-10-12T23:41:49Z,christopherwoodall/crt-bench-results,christopherwoodall,0,0,task_categories:multiple-choice; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cognitive-reflection-test; benchmark; decision-model-eval; llm-evaluation; model-comparison
+2026-10-12T23:43:15Z,bmombie/place-bowl-in-dishwasher_trajectorycheck_20261012_233912,bmombie,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; lerobot; grabette
+2026-10-12T23:48:16Z,zeroanuj/ur7_b_into_a_48h,zeroanuj,0,0,task_categories:robotics; region:us; LeRobot; ur7e; robotiq; realsense-d405; insertion
+2026-10-12T23:48:23Z,c-ho/2026-10-12_ub_opus_bll_ner_annotation,c-ho,0,0,region:us
+2026-10-12T23:48:41Z,chiaweicfi/textile-image-audio-mini,chiaweicfi,0,0,license:cc-by-4.0; region:us; dataset; textile; image-audio
+2026-10-12T23:48:41Z,linnan98k/a2a68ca3efb,linnan98k,0,0,region:us
+2026-10-12T23:48:54Z,linnan98k/a97e99fd64a,linnan98k,0,0,region:us
+2026-10-12T23:49:18Z,Amanafif554/IELTS-Dataset-WAV-and-Trasnscription-P3,Amanafif554,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; language:en; size_categories:n<1K; region:us
+2026-10-12T23:50:24Z,DONG3344/4in1,DONG3344,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; unitree-g1; humanoid; teleoperation; whole-body-control; motion-tokens
+2026-10-12T23:50:39Z,Amanafif554/IELTS-Dataset-WAV-and-Trasnscription-P4,Amanafif554,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; language:en; size_categories:n<1K; region:us
+2026-10-12T23:50:48Z,jimmyzhangyf/ATOD,jimmyzhangyf,0,0,language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; arxiv:2601.11854; region:us; task-oriented-dialogue; agentic-evaluation; goal-tracking; memory; synthetic; benchmark; arxiv:2601.11854
+2026-10-12T23:50:50Z,corto2corto/agora-ngram,corto2corto,0,0,license:cc-by-4.0; region:us
+2026-10-12T23:50:53Z,ASCXZ12EDXSA/Annoy-PyEdu-Rs,ASCXZ12EDXSA,0,0,region:us
+2026-10-12T23:50:54Z,ASCXZ12EDXSA/Annoy-PyEdu-Rs-Raw,ASCXZ12EDXSA,0,0,region:us
+2026-10-12T23:53:52Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-12T23:53:52Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-12T23:54:44Z,endomorphosis/ipfs_belgium_municipal_laws,endomorphosis,0,0,language:nl; license:other; region:us; law; legal; belgium; flanders; municipal; open-data
+2026-10-12T23:55:28Z,cpral/polskie-sprawy-v6,cpral,0,0,region:us
+2026-10-12T23:56:56Z,linnan98k/af0d61edec3,linnan98k,0,0,region:us
+2026-10-12T23:58:19Z,ell-hosse/RosVLA,ell-hosse,0,0,license:cc-by-4.0; region:us
+2026-10-12T23:58:59Z,DONG3344/4in12,DONG3344,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; unitree-g1; humanoid; teleoperation; whole-body-control; motion-tokens
+2026-10-12T23:59:12Z,DONG3344/allin13,DONG3344,0,0,region:us
+2026-10-12T23:59:42Z,aseth125/test_samples,aseth125,0,0,region:us
+2026-10-12T23:59:45Z,pwankhede/lerobot-pickplace-wrist-clean,pwankhede,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T00:03:14Z,bsbretly/eraser_in_bowl_20261012_165838,bsbretly,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T00:03:43Z,blessingbalogun/charts-audio-text,blessingbalogun,0,0,license:apache-2.0; region:us; dataset; charts; audio-text
+2026-10-13T00:04:03Z,lnb51451/behavior-2026-submission,lnb51451,0,0,region:us
+2026-10-13T00:04:39Z,endomorphosis/ipfs_pitcairn_laws,endomorphosis,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:n<1K; region:us; legal; law; pitcairn; official-texts
+2026-10-13T00:05:04Z,jtktolivefor/matome,jtktolivefor,0,0,region:us
+2026-10-13T00:06:41Z,yudai0209/so101_vial_r1_eval_adv10k,yudai0209,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T00:07:23Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-13T00:07:23Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-13T00:12:50Z,wifjweofi/ORGANIZING_WODEN_DOWELS_20261012_170526,wifjweofi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T00:14:22Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-13T00:14:22Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-13T00:14:38Z,Frogit-LeGushk/ts-test-500,Frogit-LeGushk,0,0,region:us
+2026-10-13T00:16:10Z,ASD12DSAZ31CZ/Annoy-PyEdu-Rs-Raw,ASD12DSAZ31CZ,0,0,region:us
+2026-10-13T00:16:10Z,ASD12DSAZ31CZ/Annoy-PyEdu-Rs,ASD12DSAZ31CZ,0,0,region:us
+2026-10-13T00:17:25Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-13T00:17:25Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-13T00:17:31Z,KhoaHoang0512/vizwiz-distillation-checkpoints,KhoaHoang0512,0,0,region:us
+2026-10-13T00:17:51Z,dbraisted/works-of-john-wesley,dbraisted,0,0,license:cc0-1.0; region:us
+2026-10-13T00:19:33Z,Napizia/Sicilian-Backt-SCN-to-ITA,Napizia,0,0,license:cc-by-sa-4.0; region:us
