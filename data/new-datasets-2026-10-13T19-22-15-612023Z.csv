@@ -1,0 +1,71 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T18:21:09Z,natW0lf/c3d97122df30a60d,natW0lf,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:21:10Z,natW0lf/c31680653b913350,natW0lf,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:21:12Z,natW0lf/dcceafd1055d3748,natW0lf,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:21:42Z,JackZzZ2333/cs546-hw2-2026,JackZzZ2333,0,0,region:us
+2026-10-13T18:24:27Z,Temporal-Coordbench/chelsa_monthly,Temporal-Coordbench,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:24:50Z,thaki-AI/daily-paper-2026-10-14-cross-lingual-skill-router-tax,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; cross-lingual skill routing; multilingual embeddings; bm25-embedding fusion; translation detour cost; cost-quality frontier; agent harness; unattended autom…
+2026-10-13T18:24:56Z,leobianco/eval_npov_tbb4nfge_checkpoint-228_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:25:07Z,NotTHT/utau-oto-dataset,NotTHT,0,0,license:mit; region:us
+2026-10-13T18:25:31Z,jogarulfo/rollout_dagger_2026-10-13_store_pvc_pieces_bbox_v3_20261013_202024,jogarulfo,0,0,region:us
+2026-10-13T18:26:06Z,Fjalmeida6/image-depth-data,Fjalmeida6,0,0,license:apache-2.0; region:us; dataset; math; image-depth
+2026-10-13T18:26:30Z,MasterYster/semRfam,MasterYster,0,0,language:en; license:cc0-1.0; size_categories:1M<n<10M; region:us; rna; rfam; biology; multimodal; rna-design
+2026-10-13T18:27:58Z,yadavkabirjub/nlp-sentiment-pointcloud-text-v2,yadavkabirjub,0,0,license:apache-2.0; region:us; dataset; nlp-sentiment; pointcloud-text
+2026-10-13T18:29:39Z,MarkusMawer/kasvokuvat-testi,MarkusMawer,0,0,region:us
+2026-10-13T18:30:38Z,g1n0st/0f4bb9c740eeee9b5ddb7f206f62eebe3e67d48b,g1n0st,0,0,region:us
+2026-10-13T18:35:39Z,ssfds32/s134-poc,ssfds32,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:36:59Z,Vodka1Cookie/home_credit_defaulters,Vodka1Cookie,0,0,license:mit; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:37:31Z,jogarulfo/rollout_dagger_2026-10-13_store_pvc_pieces_bbox_v4_20261013_202608,jogarulfo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-13T18:40:02Z,SOTAagi2030/Meridian-Component-Grants,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:40:07Z,SOTAagi2030/Meridian-Package-Plan,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:40:30Z,vmachadocos/audio-text-samples,vmachadocos,0,0,license:cc-by-4.0; region:us; dataset; music; audio-text
+2026-10-13T18:41:23Z,koalapenguin/woods,koalapenguin,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-13T18:42:52Z,FelixOtt/fraunhoferIIS_jammertest2025,FelixOtt,0,0,region:us
+2026-10-13T18:44:49Z,sakndarlurk1/ytbreakdown-installer,sakndarlurk1,0,0,region:us
+2026-10-13T18:49:24Z,sibtehassan339/memoryarena,sibtehassan339,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2602.16313; region:us
+2026-10-13T18:51:07Z,PureOne/computation-within-oxygen-enya-aerion-v7,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tabular; datasets;…
+2026-10-13T18:51:12Z,aaniksahaa/MACS-experiments,aaniksahaa,0,0,region:us
+2026-10-13T18:51:20Z,SOTAagi2030/Orion-Bundle-Components,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:51:24Z,SOTAagi2030/Orion-Grant-Policy,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:52:10Z,SOTAagi2030/Campus-Digital-Export-Queue,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:52:14Z,SOTAagi2030/Campus-Grant-Register,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:52:30Z,chrissoria/ca-county-boards,chrissoria,0,0,language:en; license:cc0-1.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; government; lo…
+2026-10-13T18:53:30Z,Mozilla/standard_chat_english_variety_en_US,Mozilla,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:53:33Z,Mozilla/standard_chat_english_variety_en_GB,Mozilla,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:53:46Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-13T18:53:47Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-13T18:54:16Z,tablinum/cowork-companion-sft,tablinum,0,0,task_categories:text-generation; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; of…
+2026-10-13T18:54:38Z,AkashKarnatak/pi0.5-b1k-attention,AkashKarnatak,0,0,license:mit; size_categories:n<1K; modality:tabular; modality:text; region:us; robotics; behavior-1k; pi0; attention; interpretability
+2026-10-13T18:54:41Z,Zyphra/ztts1_eval,Zyphra,0,1,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:55:30Z,prasvnsi2r/pdf-search-data,prasvnsi2r,0,0,region:us
+2026-10-13T18:59:11Z,Mamoo85/federal-grants-contracts-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:59:13Z,Mamoo85/city-council-agendas-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:59:14Z,Mamoo85/warn-layoff-alerts-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T18:59:16Z,Mamoo85/developer-signals-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T19:00:31Z,ssdiego0401/math-image-depth-curated,ssdiego0401,0,0,license:apache-2.0; region:us; dataset; math; image-depth
+2026-10-13T19:01:46Z,advafzal/afzal-associates-bangladesh-legal-corpus,advafzal,0,0,language:en; language:bn; license:mit; region:us; bangladesh-law; legal-corpus; ni-act-138; property-law; family-law; corporate-law; supreme-court-bangladesh; legal-assistant; legal-nlp
+2026-10-13T19:02:57Z,mewmeters/georgian-web-raw,mewmeters,0,0,region:us
+2026-10-13T19:03:06Z,glami-chael/legal-text-tabular-benchmark,glami-chael,0,0,license:cc-by-4.0; region:us; dataset; legal; text-tabular
+2026-10-13T19:04:31Z,scalarlogicgroup/bsc-simulated-nsclc-sample,scalarlogicgroup,0,0,language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic…
+2026-10-13T19:05:19Z,ewinchell07/so101-smolvla-finetuned-250-eval-20261003,ewinchell07,0,0,region:us
+2026-10-13T19:05:34Z,anilkuma/audio-text-dataset,anilkuma,0,0,license:cc-by-4.0; region:us; dataset; legal; audio-text
+2026-10-13T19:06:08Z,Hankun2004/8b-dataset-gen,Hankun2004,0,0,region:us
+2026-10-13T19:06:22Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-13T19:08:25Z,dronefreak/BDD100K-Drivable-Area-Segmentation,dronefreak,0,0,region:us
+2026-10-13T19:08:27Z,Andersonlogan/finance-image-audio,Andersonlogan,0,0,license:cc-by-4.0; region:us; dataset; finance; image-audio
+2026-10-13T19:09:29Z,leobianco/eval_npov_tbb4nfge_checkpoint-342_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T19:10:09Z,DSCI-Capstone/storm-outage-data,DSCI-Capstone,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-13T19:10:21Z,davidperez202000/ada,davidperez202000,0,0,region:us
+2026-10-13T19:11:08Z,glossia/eli5-qa-format,glossia,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T19:11:19Z,AI-Eval-Corp/cadence-flash-dataset,AI-Eval-Corp,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-13T19:11:26Z,WideChaos/bilingual-router-lora-v2,WideChaos,0,0,task_categories:text-classification; task_categories:text-generation; language:en; language:zh; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pan…
+2026-10-13T19:12:06Z,SalutefaceAAC/watermark-calibration-report,SalutefaceAAC,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; biosecurity; protein; protein-sequences; watermarking; statistics; null-model; calibration; synthid; synthid-bio; technical-report
+2026-10-13T19:12:51Z,TecnoPopular/catalogo-civico-brasil,TecnoPopular,0,0,language:pt; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; civic-tech; brazil; open-data; demo…
+2026-10-13T19:13:16Z,SOTAagi2030/Neighborhood-Pollinator-Cooccurrence,SOTAagi2030,0,0,region:us; pollinators; ecological-network
+2026-10-13T19:14:07Z,gg121121/carpet-analysis-api,gg121121,0,0,task_categories:image-classification; license:mit; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; computer-vision; image-cl…
+2026-10-13T19:16:18Z,balixmkg434/Sarius400,balixmkg434,0,0,license:openrail; region:us
+2026-10-13T19:17:20Z,SOTAagi2030/Riverside-Seed-Starting-Guide,SOTAagi2030,0,0,region:us; community-gardens; seed-starting
+2026-10-13T19:17:42Z,cathyww/libero_calibration_320.pkl,cathyww,0,0,region:us
+2026-10-13T19:20:16Z,sameearif/CultureLens,sameearif,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; culture; cultural-norms; values; benchmark; robustness
+2026-10-13T19:20:55Z,kazeevn/LeMat-Bulk-fixed,kazeevn,0,0,license:apache-2.0; region:us
+2026-10-13T19:21:49Z,g1n0st/f328c8f6e38aaeadeebeb3900d8ee51dda847932,g1n0st,0,0,region:us
