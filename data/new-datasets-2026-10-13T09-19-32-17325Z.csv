@@ -1,0 +1,127 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T08:20:16Z,omosoi/pick_and_place_50,omosoi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:21:14Z,taichi116/sarmal___GRAY_5_20261013_172100,taichi116,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T08:21:34Z,leobianco/eval_npov_pjgi07a4_checkpoint-0_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-13T08:22:38Z,Dexverse-CSI/Dexverse-FunctionalPourMug-v1-allegro_right-pkl,Dexverse-CSI,0,0,region:us
+2026-10-13T08:22:58Z,Mehakpreet17/VRSBench,Mehakpreet17,0,0,"task_categories:visual-question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; remote sensing, vision-language models"
+2026-10-13T08:23:28Z,CaryxAI/everyday-activities-ego-raw,CaryxAI,0,0,task_categories:robotics; task_categories:video-classification; license:cc-by-4.0; size_categories:n<1K; modality:video; region:us; egocentric; first-person; robotics; manipulation; long-horizon; hou…
+2026-10-13T08:23:49Z,saophaixoan1/13112026cowwbot,saophaixoan1,0,0,region:us
+2026-10-13T08:24:22Z,mrodher/so101_dataset_test_20261013_101229,mrodher,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:24:37Z,Phito/ReplayBench,Phito,0,1,language:en; language:zh; license:apache-2.0; region:us; benchmark; llm-agents; agent-security; tool-result-replay
+2026-10-13T08:24:44Z,alpha-qualia/docs1,alpha-qualia,0,1,license:cc-by-nc-nd-4.0; region:us
+2026-10-13T08:25:17Z,learner1119/cotap_task6_pull_towel_success_2,learner1119,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:25:41Z,HarshaAtmon10/Crawler,HarshaAtmon10,0,0,license:mit; region:us
+2026-10-13T08:25:51Z,FreeFrank/Super-Research-Benchmark,FreeFrank,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:other; arxiv:2603.00582; region:us; deep-research; research-agents; long-form-generation; benchmark; reasoning
+2026-10-13T08:26:12Z,rooty2020/VP-WorldBench,rooty2020,0,1,task_categories:image-to-video; task_categories:depth-estimation; task_categories:robotics; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; arxiv:2610.06940; region:us; benchmark; multi-…
+2026-10-13T08:27:20Z,KeenForgeAI/VisuCeram_500x500-corrected,KeenForgeAI,0,1,task_categories:object-detection; language:en; language:zh; license:apache-2.0; size_categories:1K<n<10K; region:us; ceramic; sanitary-ware; surface-defect; defect-detection; industrial-inspection; q…
+2026-10-13T08:27:20Z,jacobjonesdale/security-dataset,jacobjonesdale,0,1,license:cc-by-4.0; region:us; dataset; security; audio-text
+2026-10-13T08:28:02Z,Deviant65/so101_redcube_3new_20261013_135712,Deviant65,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:28:35Z,linnan98k/adcfdb4980c,linnan98k,0,0,region:us
+2026-10-13T08:29:30Z,janjankowski/charts-video-text-benchmark,janjankowski,0,0,license:mit; region:us; dataset; charts; video-text
+2026-10-13T08:29:47Z,Hailey-5-2026/rollout_gripper_open_80k_episo114_confirm_test_20261013_172828,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:29:49Z,janjankowski/image-depth-samples,janjankowski,0,1,license:mit; region:us; dataset; wildlife; image-depth
+2026-10-13T08:30:17Z,Deviant65/so101_redcube_3new,Deviant65,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:31:56Z,ramitha2002/pssn-reasoning-removability-gsm8k,ramitha2002,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; arxiv:2604.18307; arxiv:2110.14168; arxiv:2505.09388; arxiv:2307.13702; arxiv:2305.04388; region:us; reasoning; ch…
+2026-10-13T08:32:11Z,g1n0st/77c816c41570bdf12a773828a3bfb0faf42360b1,g1n0st,0,0,region:us
+2026-10-13T08:32:15Z,N0Namee/Train,N0Namee,0,1,region:us
+2026-10-13T08:34:10Z,vhoncharuk/DeepSpaceDB-Preview,vhoncharuk,0,0,task_categories:other; license:mit; region:us; spatial-transcriptomics; xenium; spatial-omics; bioinformatics
+2026-10-13T08:34:31Z,taichi116/sarmal__GRAY_6_20261013_173416,taichi116,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T08:34:39Z,Aland1W/Parawify-vidwo,Aland1W,0,0,region:us
+2026-10-13T08:34:51Z,abdevd/FOTBCD-CC,abdevd,0,0,task_categories:image-to-text; annotations_creators:machine-generated; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:image; modality:text; modality:geospatial; arxiv:2601.22596;…
+2026-10-13T08:34:56Z,indojin/ur5e-beaker-3cam-1013,indojin,0,0,region:us
+2026-10-13T08:35:02Z,BOSHILL2000/food-pointcloud-text,BOSHILL2000,0,0,license:mit; region:us; dataset; food; pointcloud-text
+2026-10-13T08:35:23Z,fishpasters/spohie-share,fishpasters,0,0,region:us
+2026-10-13T08:36:32Z,little1d/biomatrix-derived-sft,little1d,0,0,region:us
+2026-10-13T08:36:44Z,pameydorke/arcanumsearch-embs,pameydorke,0,0,region:us
+2026-10-13T08:37:14Z,d1egoprog/WN18RR,d1egoprog,0,0,license:cc-by-sa-3.0; region:us
+2026-10-13T08:37:34Z,libgs/ffgs-demo-examples,libgs,0,0,region:us
+2026-10-13T08:39:08Z,wyt2000/CodeV-SVA-VL-datasets,wyt2000,0,0,license:apache-2.0; region:us
+2026-10-13T08:39:58Z,dgambettaphd/D_llm2_run0_gen1_WXS_doc1000_synt64_temp1.5_lr1e-04_acm_SYNLAST,dgambettaphd,0,0,region:us
+2026-10-13T08:42:30Z,sibandasamantha63/Liberia-VAT-Test,sibandasamantha63,0,0,region:us
+2026-10-13T08:43:30Z,toolathlon-eval-17/Annoy-PyEdu-Rs,toolathlon-eval-17,0,0,region:us
+2026-10-13T08:43:31Z,toolathlon-eval-17/Annoy-PyEdu-Rs-Raw,toolathlon-eval-17,0,0,region:us
+2026-10-13T08:43:54Z,mrodher/so101_dataset_test_V2_20261013_103410,mrodher,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:43:56Z,bentrevett/ethics,bentrevett,0,0,license:mit; region:us
+2026-10-13T08:44:26Z,bentrevett/gem,bentrevett,0,1,license:other; region:us
+2026-10-13T08:44:27Z,sad1csa21dsa/Annoy-PyEdu-Rs,sad1csa21dsa,0,0,region:us
+2026-10-13T08:44:28Z,sad1csa21dsa/Annoy-PyEdu-Rs-Raw,sad1csa21dsa,0,0,region:us
+2026-10-13T08:44:53Z,bentrevett/scrolls,bentrevett,0,0,license:other; region:us
+2026-10-13T08:45:09Z,bentrevett/wikitablequestions,bentrevett,0,0,license:cc-by-4.0; region:us
+2026-10-13T08:45:25Z,wld007/Clinical_World_Model,wld007,0,0,license:apache-2.0; region:us
+2026-10-13T08:45:28Z,bentrevett/hybrid_qa,bentrevett,0,0,license:cc-by-4.0; region:us
+2026-10-13T08:46:14Z,Linpeng502502/Ripple10K,Linpeng502502,0,0,region:us; robotics; dexterous-grasping; simulation; world-model
+2026-10-13T08:46:19Z,Hailey-5-2026/rollout_gripper_open_80k_episo114_confirm_test,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:46:23Z,taichi116/sarmal___GRAY_7_20261013_174608,taichi116,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T08:46:53Z,sdgjfjkl/Annoy-PyEdu-Rs-Raw,sdgjfjkl,0,0,region:us
+2026-10-13T08:46:53Z,sdgjfjkl/Annoy-PyEdu-Rs,sdgjfjkl,0,0,region:us
+2026-10-13T08:46:59Z,Viviannnyang/VidSTG-caption-action-temporal-train-first,Viviannnyang,0,0,language:en; region:us; video-captioning; video-object-segmentation; grounded-captioning; coreference; action-localization
+2026-10-13T08:48:01Z,SPEEDSTER05/EditRouter-Minibench,SPEEDSTER05,0,0,region:us
+2026-10-13T08:48:48Z,belztjti/wkss,belztjti,0,0,region:us
+2026-10-13T08:48:50Z,phawitbinabik/T1_1B1O_FF_N20_aug40,phawitbinabik,0,0,region:us
+2026-10-13T08:49:14Z,Emulated-Inc/sci-tick-stage-sex-next-year,Emulated-Inc,0,0,license:cc-by-4.0; region:us
+2026-10-13T08:49:50Z,Kaniffy/KIDBench,Kaniffy,0,0,region:us
+2026-10-13T08:50:38Z,grasla3/agent-attack-range,grasla3,0,0,language:en; language:zh; license:mit; region:us; security; llm-agents; testbed; mcp; evaluation
+2026-10-13T08:50:59Z,grasla3/agent-attack-atlas,grasla3,0,0,language:en; language:zh; license:mit; region:us; security; llm-agents; red-teaming; adversarial-attacks; evaluation
+2026-10-13T08:52:46Z,anish-88991/mycustomdata,anish-88991,0,0,region:us
+2026-10-13T08:53:14Z,lixianxin/test,lixianxin,0,0,region:us
+2026-10-13T08:54:31Z,morealcholplz/kt-20261013-gr00t-robottt-full-archive-v1,morealcholplz,0,0,region:us
+2026-10-13T08:54:33Z,jogarulfo/rollout_dagger_2026-10-13_store_pvc_pieces_bbox_20261013_105222,jogarulfo,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T08:54:40Z,renyh27/PeptiVerse_data,renyh27,0,0,region:us
+2026-10-13T08:55:10Z,Jtho-mpson/text-tabular-samples57-2024,Jtho-mpson,0,0,license:apache-2.0; region:us; dataset; travel; text-tabular
+2026-10-13T08:55:42Z,SunJingqi/Libridiari,SunJingqi,0,0,region:us
+2026-10-13T08:57:02Z,indojin/ur5e-multitask-5obj-305ep-1013,indojin,0,0,region:us
+2026-10-13T08:57:24Z,taichi116/sarmal___GRAY_8_20261013_175351,taichi116,0,1,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T08:57:45Z,mikusama99/vton-lifestyle50-20261013,mikusama99,0,0,language:zh; language:en; size_categories:n<1K; modality:video; region:us; virtual-try-on; video; evaluation
+2026-10-13T08:57:57Z,genesisml/pyrite,genesisml,0,0,region:us
+2026-10-13T08:59:36Z,linnan98k/a400339a30a,linnan98k,0,0,region:us
+2026-10-13T08:59:59Z,msrpatch/PiStream,msrpatch,0,0,region:us
+2026-10-13T09:00:51Z,RandallAerin/Annoy-PyEdu-Rs-Raw,RandallAerin,0,0,region:us
+2026-10-13T09:00:51Z,RandallAerin/Annoy-PyEdu-Rs,RandallAerin,0,0,region:us
+2026-10-13T09:01:28Z,jogarulfo/rollout_dagger_2026-10-13_store_pvc_pieces_bbox_20261013_105627,jogarulfo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T09:02:00Z,Hytgkzynde/kivi-1.5b-veri,Hytgkzynde,0,0,region:us
+2026-10-13T09:02:02Z,g1n0st/e0aa4f570b29b155c6bc4dca3e497b52bdcb13f9,g1n0st,0,0,region:us
+2026-10-13T09:02:27Z,chrissoria/santa-cruz-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T09:03:39Z,tardellirs/hub-download-count-test-f,tardellirs,0,0,license:cc0-1.0; region:us
+2026-10-13T09:04:16Z,chrissoria/san-joaquin-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T09:04:27Z,FoteiniTag/pharos-multichallenge-results,FoteiniTag,0,0,region:us
+2026-10-13T09:05:01Z,duyle2408/yolov9-yolo11-cp-nc-seed44-runs,duyle2408,0,0,region:us
+2026-10-13T09:05:17Z,raymondt/tram_yeu,raymondt,0,0,region:us
+2026-10-13T09:06:34Z,Amanafif554/IELTS-Dataset-WAV-and-Trasnscription-P2-clean-3,Amanafif554,0,0,region:us
+2026-10-13T09:07:34Z,chrissoria/santa-barbara-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T09:07:40Z,zezeaaa/X-Splat,zezeaaa,0,0,license:cc-by-nc-4.0; region:us; gaussian-splatting; x-ray; computed-tomography; 3d-reconstruction
+2026-10-13T09:08:38Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,1,region:us
+2026-10-13T09:08:39Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-13T09:08:54Z,joshuahernandez/ocean-text-tabular-benchmark,joshuahernandez,0,0,license:mit; region:us; dataset; ocean; text-tabular
+2026-10-13T09:08:59Z,jogarulfo/rollout_dagger_2026-10-13_store_pvc_pieces_bbox_20261013_110151,jogarulfo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T09:09:25Z,ersky/Classification-Crystal-Symmetry-Perovskite-using-Deep-Learning,ersky,0,0,region:us
+2026-10-13T09:09:31Z,CVS0YY/CVS-dou-dizhu-cot-finetuning,CVS0YY,0,0,license:mit; region:us
+2026-10-13T09:09:53Z,leobianco/eval_npov_pjgi07a4_checkpoint-114_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,region:us
+2026-10-13T09:09:59Z,chrissoria/humboldt-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T09:11:30Z,anonymous264/SciSec,anonymous264,0,0,region:us
+2026-10-13T09:12:00Z,dougalldeepmind/2026-10-13-mask-qwen36-0-ablation-stated-harm-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_ablation_stated_harm_15; mode:think
+2026-10-13T09:12:20Z,emgena/vllm_pagedattention_oom_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:22Z,emgena/tensorrt_llm_engine_panic_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:25Z,emgena/ollama_concurrency_deadlock_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:27Z,emgena/flashattention3_kernel_mismatch_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:30Z,emgena/rope_scaling_context_rot_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:33Z,emgena/speculative_decoding_draft_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:35Z,emgena/vllm_continuous_batching_starvation_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:37Z,emgena/llama_cpp_metal_cuda_alloc_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:40Z,emgena/awq_gptq_fp4_quant_degradation_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:12:42Z,emgena/gpu_multitenancy_mig_slice_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; llm-inference; vllm; tensorrt-llm
+2026-10-13T09:13:33Z,TraceLite-AI/envbench-openenv,TraceLite-AI,0,0,license:apache-2.0; library:openenv; region:us; openenv; rl-environment; agents; terminal; tracelite
+2026-10-13T09:13:49Z,ghstha/Annoy-PyEdu-Rs-Raw,ghstha,0,0,region:us
+2026-10-13T09:13:49Z,ghstha/Annoy-PyEdu-Rs,ghstha,0,0,region:us
+2026-10-13T09:14:34Z,AndrewTorres/grad-gaming-2024,AndrewTorres,0,0,license:apache-2.0; region:us; dataset; gaming; text-tabular
+2026-10-13T09:14:35Z,ghsertgse/Annoy-PyEdu-Rs,ghsertgse,0,0,region:us
+2026-10-13T09:14:36Z,ghsertgse/Annoy-PyEdu-Rs-Raw,ghsertgse,0,0,region:us
+2026-10-13T09:14:52Z,haegser/Annoy-PyEdu-Rs,haegser,0,0,region:us
+2026-10-13T09:14:52Z,haegser/Annoy-PyEdu-Rs-Raw,haegser,0,0,region:us
+2026-10-13T09:15:15Z,toolathlon-eval-05/Annoy-PyEdu-Rs,toolathlon-eval-05,0,0,region:us
+2026-10-13T09:15:16Z,toolathlon-eval-05/Annoy-PyEdu-Rs-Raw,toolathlon-eval-05,0,0,region:us
+2026-10-13T09:15:28Z,zhaowang1111/Public_IAA,zhaowang1111,0,0,region:us
+2026-10-13T09:15:47Z,tscf/project_1_dataset_2026_10_12_13_57_36_coco,tscf,0,0,license:apache-2.0; region:us
+2026-10-13T09:16:18Z,HaseebDev/phishing_remediation_reports,HaseebDev,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; synthetic; B2B; security; privacy-safe
+2026-10-13T09:16:46Z,Patelrohit/finance-collection69,Patelrohit,0,0,license:cc-by-4.0; region:us; dataset; finance; multimodal3
+2026-10-13T09:17:07Z,haydendoo/so101_pickup_20261013_171207,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T09:18:33Z,kennethnjoroge/sp1-cycle-costs,kennethnjoroge,0,0,license:apache-2.0; region:us
