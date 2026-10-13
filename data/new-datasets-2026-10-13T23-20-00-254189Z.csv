@@ -1,0 +1,90 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T22:22:26Z,Hankun2004/8b-dataset-gen,Hankun2004,0,0,region:us
+2026-10-13T22:23:27Z,Amanafif554/Merged-IELTS-Dataset-2-fast,Amanafif554,0,0,region:us
+2026-10-13T22:25:09Z,fernandezge/robotics-data,fernandezge,0,0,license:apache-2.0; region:us; dataset; robotics; text-tabular
+2026-10-13T22:25:35Z,g1n0st/3bd00c5ab98c5ac54a2e9d596e0a9b643339bffa,g1n0st,0,0,region:us
+2026-10-13T22:26:55Z,MedGm/locali-mix-v2,MedGm,0,0,language:en; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; code; python; bug-repair; test-ge…
+2026-10-13T22:26:57Z,open-reaction-database/ord-artifacts,open-reaction-database,0,0,license:cc-by-sa-4.0; region:us
+2026-10-13T22:29:43Z,Mamoo85/fmcsa-new-carrier-leads-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:29:48Z,Mamoo85/sec-form-d-funding-leads-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:29:49Z,Mamoo85/new-business-filings-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:29:51Z,Mamoo85/building-permits-leads-sample,Mamoo85,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:29:53Z,Mamoo85/ats-open-roles-sample,Mamoo85,0,0,license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:29:54Z,Mamoo85/workday-jobs-scraper-sample,Mamoo85,0,0,license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; public-records; open-data
+2026-10-13T22:30:33Z,thatmebaby/PC,thatmebaby,0,0,region:us
+2026-10-13T22:32:57Z,SOTAagi2030/Cedar-Seed-Lineage-Register,SOTAagi2030,0,0,region:us
+2026-10-13T22:33:34Z,dougalldeepmind/2026-10-13-ah-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:arena_hard; model:qwen36; mode:think
+2026-10-13T22:33:35Z,sreetz-nv/so101_real10_sim75_20261011,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:33:41Z,ML-Intern-lab/typed-decisions-benchmark,ML-Intern-lab,0,0,region:us; ml-intern; benchmark-results; typed-decisions
+2026-10-13T22:33:44Z,sreetz-nv/so101_sim75_real10_teleop_merged_20261010,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:33:50Z,sreetz-nv/so101_procedural250_sim75_b32_20261011,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:33:56Z,sreetz-nv/so101_procedural250_sim75_20261010,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:34:10Z,sreetz-nv/so101_teleop_mix_20261009,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:34:11Z,sreetz-nv/so101_scripted500_teleop57_20261003,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:34:18Z,sreetz-nv/so101_all_mix_20261009,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:34:30Z,11-47/god-queen-merged-16k,11-47,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; synthetic; persona; reasoning; pretraining; text-generation
+2026-10-13T22:34:33Z,sreetz-nv/so101_cosmos10_sim75_20261013,sreetz-nv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; so101
+2026-10-13T22:37:17Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-13T22:37:17Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-13T22:37:38Z,kabir-pjnc2/experiment-code,kabir-pjnc2,0,0,license:apache-2.0; region:us; dataset; code; video-text
+2026-10-13T22:38:13Z,juliadollis/bokeh-rb-oficial,juliadollis,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-13T22:41:04Z,Andrre-M/tse-urna-ce-2026,Andrre-M,0,0,language:pt; license:other; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; tabular; electi…
+2026-10-13T22:41:07Z,ambitious-bio/corpus-synthetic-demo,ambitious-bio,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; synthetic; ambitious…
+2026-10-13T22:41:52Z,g1n0st/5ce91e12ec69f46d2a63871a29408752d85d5ec5,g1n0st,0,0,region:us
+2026-10-13T22:42:06Z,anonymus112/analysis_2,anonymus112,0,0,region:us
+2026-10-13T22:42:57Z,frogpod/Test_snr_mixed_calling_activity_all_sites,frogpod,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-13T22:43:16Z,juliadollis/bokeh-rb-f2antiga,juliadollis,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-13T22:46:12Z,lenexxtshx/dytt.uihv,lenexxtshx,0,0,region:us
+2026-10-13T22:47:53Z,Avarian/polymath-stem-v2,Avarian,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T22:48:20Z,juliadollis/bokeh-rb-v2f2ac-25k,juliadollis,0,0,region:us
+2026-10-13T22:49:11Z,j3ri2/UM-DLP-Public-Benchmarking-Dataset,j3ri2,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-13T22:50:06Z,Mmoorejoseph/wildlife-image-text,Mmoorejoseph,0,0,license:mit; region:us; dataset; wildlife; image-text
+2026-10-13T22:52:05Z,Arabic-STT/mediaspeech-ar,Arabic-STT,0,0,task_categories:automatic-speech-recognition; language:ar; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars;…
+2026-10-13T22:55:30Z,NONHUMAN-RESEARCH/yellow-towel-42ep,NONHUMAN-RESEARCH,0,0,task_categories:robotics; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlc…
+2026-10-13T22:56:25Z,dougalldeepmind/2026-10-13-am-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36; mode:default
+2026-10-13T22:56:32Z,leobianco/eval_npov_tbb4nfge_checkpoint-912_gens_T0_3_wfs0_s12345_mt256_sftd09d98,leobianco,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T22:57:12Z,g1n0st/fbcc4dbc2f2b71182a5918fee503573f2e0edb3e,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-13T22:57:16Z,grabowskiko/image-text-dataset38,grabowskiko,0,0,license:apache-2.0; region:us; dataset; dialogue; image-text
+2026-10-13T22:59:09Z,pitagoras-alves/amplify_120-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,1,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T22:59:53Z,g1n0st/36251280ebaea05efe20235cb51ff5d34d687310,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-13T23:00:21Z,g1n0st/4c2724610de9a69393136582f4b00fa77a736e0b,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-13T23:00:31Z,pitagoras-alves/amplify_350-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:01:31Z,dsad1dsa21/Annoy-PyEdu-Rs,dsad1dsa21,0,0,region:us
+2026-10-13T23:01:32Z,dsad1dsa21/Annoy-PyEdu-Rs-Raw,dsad1dsa21,0,0,region:us
+2026-10-13T23:02:13Z,AIGeeksGroup/aigeeks-agent-bench,AIGeeksGroup,0,0,region:us
+2026-10-13T23:02:18Z,pitagoras-alves/ankh2_large-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:02:21Z,AS32EDXSA/Annoy-PyEdu-Rs,AS32EDXSA,0,0,region:us
+2026-10-13T23:02:22Z,AS32EDXSA/Annoy-PyEdu-Rs-Raw,AS32EDXSA,0,0,region:us
+2026-10-13T23:04:20Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-10-13T23:04:20Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-10-13T23:05:08Z,pitagoras-alves/ankh3_large-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:05:43Z,shsuzuki/legal-text-tabular-2023,shsuzuki,0,0,license:mit; region:us; dataset; legal; text-tabular
+2026-10-13T23:06:04Z,Duong2004/document-ocr-corpus,Duong2004,0,0,license:mit; region:us; dataset; document-ocr; video-text
+2026-10-13T23:06:54Z,devri-ko0408/finance-video-text,devri-ko0408,0,0,license:apache-2.0; region:us; dataset; finance; video-text
+2026-10-13T23:07:56Z,pitagoras-alves/ankh_base-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:09:15Z,Arabic-STT/calls-train-human,Arabic-STT,0,0,task_categories:automatic-speech-recognition; language:ar; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; librar…
+2026-10-13T23:09:26Z,pitagoras-alves/ankh_large-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:10:00Z,afasedfasd/Annoy-PyEdu-Rs-Raw,afasedfasd,0,0,region:us
+2026-10-13T23:10:00Z,afasedfasd/Annoy-PyEdu-Rs,afasedfasd,0,0,region:us
+2026-10-13T23:10:37Z,Donghyun1228/libero-reachable-random-waypoint-300k-yaw20-20261014,Donghyun1228,0,0,region:us; robotics; libero; probing
+2026-10-13T23:12:11Z,pitagoras-alves/e1_150-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; modality:timeseries; library:datasets;…
+2026-10-13T23:13:37Z,pitagoras-alves/e1_300-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; arxiv:2505.20052; region:us; protein; embeddings; language-model; uniprot; swissprot; pddb; e1
+2026-10-13T23:13:37Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-10-13T23:13:38Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-10-13T23:14:13Z,luisdejess/car-images,luisdejess,0,0,task_categories:image-classification; task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; region:us; cars; automotive; image-recognition; detection; vehicles
+2026-10-13T23:14:16Z,SOTAagi2030/Canopy-2027-Sapling-Allocation,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-13T23:14:18Z,SOTAagi2030/Aster-Fare-Cap-Settlement,SOTAagi2030,0,0,region:us
+2026-10-13T23:14:36Z,g1n0st/4c1f287368baf7ce231d3956980c298e994cf43b,g1n0st,0,0,region:us
+2026-10-13T23:15:21Z,pitagoras-alves/e1_600-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; arxiv:2505.20052; region:us; protein; embeddings; language-model; uniprot; swissprot; pddb; e1
+2026-10-13T23:15:31Z,Arabic-STT/open-universal-arabic-asr-leaderboard-test,Arabic-STT,0,0,region:us
+2026-10-13T23:15:47Z,Arabic-STT/kejue-countries-cities,Arabic-STT,0,0,task_categories:automatic-speech-recognition; language:ar; language:en; license:other; region:us; entity-recognition; geography; synthetic; telephony; dialectal-arabic
+2026-10-13T23:15:54Z,toolathlon-eval-04/Annoy-PyEdu-Rs,toolathlon-eval-04,0,0,region:us
+2026-10-13T23:15:55Z,toolathlon-eval-04/Annoy-PyEdu-Rs-Raw,toolathlon-eval-04,0,0,region:us
+2026-10-13T23:16:04Z,g1n0st/46515cbf3ccb7d694e822954570b593a20f04fbd,g1n0st,0,0,region:us
+2026-10-13T23:16:11Z,Satoren6/geology-dataset,Satoren6,0,0,license:cc-by-4.0; region:us; dataset; geology; multimodal3
+2026-10-13T23:16:30Z,Arabic-STT/kejue-voice-numbers,Arabic-STT,0,0,region:us
+2026-10-13T23:17:30Z,pitagoras-alves/esm2_150-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,task_categories:feature-extraction; task_categories:tabular-classification; language:en; license:mit; arxiv:2505.20052; region:us; protein; embeddings; language-model; uniprot; swissprot; pddb; esm2
+2026-10-13T23:17:50Z,g1n0st/568ed17273e1d137383ac6cbc32cae7fb0dedbd6,g1n0st,0,0,region:us
+2026-10-13T23:18:17Z,g1n0st/0708bdcadfa178574a89489714cc36dee242594f,g1n0st,0,0,region:us
+2026-10-13T23:18:52Z,pitagoras-alves/esm2_650-embeddings-uniprot_swissprot-pddb2,pitagoras-alves,0,0,region:us
+2026-10-13T23:19:27Z,Arabic-STT/kejue-short-utterances-synthetic,Arabic-STT,0,0,region:us
