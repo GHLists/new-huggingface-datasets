@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T00:20:28Z,linnan98k/a529510f31a,linnan98k,0,0,region:us
+2026-10-13T00:21:46Z,lm2445/DeRef,lm2445,0,0,task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-13T00:27:04Z,sikarwarank/tmp-shards-k3,sikarwarank,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-13T00:27:14Z,c-ho/2026-10-13_ub_opus_bll_ner_annotation_2,c-ho,0,0,region:us
+2026-10-13T00:29:16Z,Napizia/Sicilian-Backt-SCN-to-ENG,Napizia,0,0,task_categories:translation; language:en; language:scn; license:odc-by; size_categories:100K<n<1M; arxiv:2207.04672; arxiv:1511.06709; arxiv:2205.12654; region:us
+2026-10-13T00:29:44Z,linnan98k/aedb25430f7,linnan98k,0,0,region:us
+2026-10-13T00:30:48Z,Napizia/Sicilian-Backt-ITA-to-SCN,Napizia,0,0,task_categories:translation; language:en; language:scn; license:odc-by; size_categories:100K<n<1M; arxiv:2207.04672; arxiv:1511.06709; arxiv:2205.12654; region:us
+2026-10-13T00:31:07Z,jellyho/droid_pnp_carrot_lerobot,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-13T00:31:34Z,jellyho/droid_eggplant_bin_lerobot,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-13T00:31:56Z,jellyho/droid_plug_in_bulb_lerobot,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-13T00:32:18Z,jellyho/droid_refill_tape_lerobot,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-13T00:32:20Z,Napizia/Sicilian-Backt-ENG-to-SCN,Napizia,0,0,task_categories:translation; language:en; language:scn; license:odc-by; size_categories:100K<n<1M; arxiv:2207.04672; arxiv:1511.06709; arxiv:2205.12654; region:us
+2026-10-13T00:34:33Z,InspectorRoofing/inspector-roofing-open-knowledge,InspectorRoofing,0,0,license:cc-by-4.0; region:us; roofing; insurance-claims; storm-restoration; roof-inspection; knowledge-graph; richard-amir-nasser; inspector-roofing
+2026-10-13T00:35:11Z,vanzl/DiffusionART-Prompts,vanzl,0,0,task_categories:text-to-image; task_categories:text-to-video; task_categories:image-to-video; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; l…
+2026-10-13T00:36:14Z,yudai0209/so101_vial_r1_eval_success10k,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-13T00:36:58Z,cbuk10001/Cam1-training-data,cbuk10001,0,0,language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; decision-model; classification…
+2026-10-13T00:37:50Z,bsbretly/eraser_in_bowl_20261012_173527,bsbretly,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-13T00:39:12Z,flygaca/adel-ep2-tmp-9f3k2,flygaca,0,0,region:us
+2026-10-13T00:39:34Z,g1n0st/46a1c76bd44a9f713269f3dc6e126101458107b4,g1n0st,0,0,region:us
+2026-10-13T00:40:35Z,bsbretly/eraser_in_bowl_20261012_173855,bsbretly,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-13T00:41:38Z,justicedao/ipfs_vatican_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:it; language:fr; language:de; language:es; language:en; language:la; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research;…
+2026-10-13T00:43:14Z,justicedao/ipfs_pitcairn_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; pitcairn
+2026-10-13T00:43:50Z,linnan98k/a97e0b068f6,linnan98k,0,0,region:us
+2026-10-13T00:44:44Z,Muno459/QuranLab-Recitation-TTS,Muno459,0,0,task_categories:text-to-speech; language:ar; license:other; region:us
+2026-10-13T00:53:26Z,OpenRSI-Foundation/OpenRSI-Index-Logs,OpenRSI-Foundation,0,0,license:apache-2.0; region:us
+2026-10-13T00:53:43Z,hugolegrandze/finance-video-text-v2,hugolegrandze,0,0,license:cc-by-4.0; region:us; dataset; finance; video-text
+2026-10-13T00:53:51Z,duyle2408/yolov8-cp-nc-recovery-tiny-seed43-r2-runs,duyle2408,0,0,region:us
+2026-10-13T00:53:51Z,duyle2408/yolov8-cp-nc-recovery-tiny-seed44-r2-runs,duyle2408,0,0,region:us
+2026-10-13T00:53:51Z,duyle2408/yolov8-cp-nc-recovery-varroa-r4-r2-seed43-runs,duyle2408,0,0,region:us
+2026-10-13T00:54:00Z,istewartatmit/core4d,istewartatmit,0,0,region:us
+2026-10-13T00:58:46Z,linnan98k/aa9271de379,linnan98k,0,0,region:us
+2026-10-13T01:07:04Z,PixilabAI/blink-v0.5-decision-index,PixilabAI,0,0,region:us
+2026-10-13T01:07:06Z,yudai0209/so101_vial_r1_eval_base20k,yudai0209,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T01:08:17Z,KiwiBridget/Annoy-PyEdu-Rs,KiwiBridget,0,0,region:us
+2026-10-13T01:08:18Z,KiwiBridget/Annoy-PyEdu-Rs-Raw,KiwiBridget,0,0,region:us
+2026-10-13T01:09:24Z,duyle2408/levirship-p2p4-r5c-runs,duyle2408,0,0,region:us
+2026-10-13T01:10:19Z,JENNY1NISHUUO/PPE_Detection,JENNY1NISHUUO,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:10K<n<100K; region:us; computer-vision; object-detection; safety; ppe; yolo
+2026-10-13T01:11:11Z,kwiatkowskibev/cs224n-sound-events,kwiatkowskibev,0,0,license:mit; region:us; dataset; sound-events; multimodal3
+2026-10-13T01:12:45Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-13T01:12:45Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-13T01:13:16Z,hadxs/Connor-RAG-Clean,hadxs,0,0,region:us
+2026-10-13T01:13:39Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-13T01:13:40Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-13T01:15:23Z,kiroaiseoul/eval_najy_1011_2155_base_t02_e60,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T01:15:43Z,kiroaiseoul/eval_najy_1011_2157_base_t02_e60,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-13T01:17:35Z,Yoobit/KT,Yoobit,0,0,region:us
+2026-10-13T01:20:28Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-13T01:20:29Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
