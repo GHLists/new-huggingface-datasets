@@ -1,0 +1,171 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-13T06:20:34Z,DenyTranDFW/Morgan_Stanley_Bank_of_America_Merrill_Lynch_Trust_2025_C35_2067195,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:20:39Z,thordata/image-video-pairing-v1,thordata,0,1,task_categories:video-text-to-text; language:en; license:other; size_categories:n<1K; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:mlcroissant; region:us…
+2026-10-13T06:21:21Z,DenyTranDFW/BANK5_2025_5YR15_2071746,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:21:26Z,chrissoria/yolo-county-board,chrissoria,0,0,language:en; license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; government…
+2026-10-13T06:21:28Z,learner1119/rlwrld_demo_merged_zeropose_cropped_v2,learner1119,0,0,region:us
+2026-10-13T06:21:37Z,DenyTranDFW/BBCMS_Mortgage_Trust_2025_C35_2074653,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:21:39Z,ybfang1998/BiDiffCkt-Dataset,ybfang1998,0,0,license:mit; region:us
+2026-10-13T06:22:11Z,LIGHT1804/sn56-text-tournament-tasks,LIGHT1804,0,0,task_categories:text-generation; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; bittensor;…
+2026-10-13T06:22:14Z,DenyTranDFW/BBCMS_Mortgage_Trust_2025_5C36_2076111,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:22:41Z,DenyTranDFW/BBCMS_Mortgage_Trust_2025_5C37_2077702,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:22:57Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2025_5C6_2077898,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:23:03Z,Alkyl-111/review-dataset,Alkyl-111,0,0,region:us
+2026-10-13T06:23:13Z,DenyTranDFW/BANK5_2025_5YR16_2078775,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:23:40Z,DenyTranDFW/Benchmark_2025_B41_Mortgage_Trust_2080258,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:24:16Z,DenyTranDFW/BANK5_2025_5YR17_2084969,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:24:32Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2025_C65_2086308,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:25:09Z,DenyTranDFW/Benchmark_2025_V18_Mortgage_Trust_2089470,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:25:35Z,DenyTranDFW/Morgan_Stanley_Bank_of_America_Merrill_Lynch_Trust_2025_5C2_2091562,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:25:53Z,DenyTranDFW/BBCMS_Mortgage_Trust_2025_5C38_2091664,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:26:20Z,DenyTranDFW/Benchmark_2025_V19_Mortgage_Trust_2093117,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:26:36Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2025_5C7_2093119,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-4,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-8,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-1,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-10,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-2,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-6,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-9,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-3,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-5,akthereddragon,0,0,region:us
+2026-10-13T06:26:52Z,akthereddragon/hydra-movies-7,akthereddragon,0,0,region:us
+2026-10-13T06:27:02Z,imaadd05/whatisit-macos-roihu-teacher-labels,imaadd05,0,1,task_categories:text-generation; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ma…
+2026-10-13T06:27:16Z,DenyTranDFW/BANK5_2025_5YR18_2096187,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:27:20Z,leqiyyy/Intentbench,leqiyyy,0,0,task_categories:text-generation; language:en; license:other; region:us; intent-based-networking; network-automation; network-diagnosis; closed-loop-recovery; agentic-ai
+2026-10-13T06:27:44Z,chrissoria/san-mateo-county-board,chrissoria,0,0,language:en; license:cc0-1.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; government;…
+2026-10-13T06:27:45Z,DenyTranDFW/BBCMS_Mortgage_Trust_2025_C39_2097938,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:28:01Z,DenyTranDFW/BANK_2025_BNK51_2098047,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:28:06Z,bunny127/EviRover-SFT-5K,bunny127,0,0,task_categories:image-text-to-text; language:en; language:zh; license:cc-by-nc-4.0; size_categories:1K<n<10K; arxiv:2609.40230; region:us; agentic; tool-use; visual-grounding; referring-expression-se…
+2026-10-13T06:28:19Z,DenyTranDFW/BANK5_2025_5YR19_2098810,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:28:51Z,AnonymousVDC/omniVDCBench,AnonymousVDC,0,0,task_categories:visual-question-answering; task_categories:text-generation; task_categories:video-text-to-text; task_ids:visual-question-answering; task_ids:multiple-choice-qa; language:zh; language:…
+2026-10-13T06:28:52Z,k-valentin/g1_xr_sim_pick_cylinder_20261013_152148,k-valentin,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-13T06:29:29Z,leapshared/SciEdu_291epi_mask,leapshared,0,0,size_categories:n<1K; format:json; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T06:29:37Z,DenyTranDFW/BANK5_2026_5YR20_2104049,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:29:53Z,DenyTranDFW/BBCMS_Mortgage_Trust_2026_5C40_2104401,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:30:32Z,DenyTranDFW/Benchmark_2026_V20_Mortgage_Trust_2106400,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:30:50Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2026_5C8_2107796,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:31:08Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2026_C66_2109197,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:31:26Z,DenyTranDFW/Benchmark_2026_V21_Mortgage_Trust_2109998,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:31:42Z,DenyTranDFW/Benchmark_2026_B42_Mortgage_Trust_2110410,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:32:19Z,DenyTranDFW/BANK5_2026_5YR21_2116726,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:32:46Z,DenyTranDFW/Benchmark_2026_B43_Mortgage_Trust_2121298,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:33:13Z,kxkowalczyk/document-ocr-pointcloud-text,kxkowalczyk,0,0,license:apache-2.0; region:us; dataset; document-ocr; pointcloud-text
+2026-10-13T06:33:22Z,DenyTranDFW/Benchmark_2026_V22_Mortgage_Trust_2126766,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:33:38Z,DenyTranDFW/BMO_2026_5C15_Mortgage_Trust_2128774,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:34:04Z,hi-todayis-jh/ouro-1.4b-thinking-maxrl-fixed4-math-154712-20261008-maxrl-fixed4-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model
+2026-10-13T06:34:06Z,DenyTranDFW/BBCMS_Mortgage_Trust_2026_5C41_2130435,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:34:24Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2026_5C9_2133003,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:34:31Z,tiffanylewis1/sensor-fusion-samples,tiffanylewis1,0,0,license:apache-2.0; region:us; dataset; news-media; sensor-fusion
+2026-10-13T06:34:39Z,DenyTranDFW/BANK5_2026_5YR22_2134743,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:34:58Z,DenyTranDFW/JPMF1_Multifamily_Mortgage_Trust_2026_FX1_2134864,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:35:05Z,hammadali-08/SGMRI-VQA,hammadali-08,0,0,task_categories:visual-question-answering; task_categories:image-to-text; license:apache-2.0; size_categories:10K<n<100K; arxiv:2604.15808; region:us; medical-imaging; mri; grounding; spatial-reasoni…
+2026-10-13T06:35:11Z,meo02001/DFOA,meo02001,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-13T06:35:14Z,DenyTranDFW/BBCMS_Mortgage_Trust_2026_5C42_2135998,DenyTranDFW,0,1,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:35:16Z,za3t3r/ishob-mcp-tools,za3t3r,0,0,task_categories:text-retrieval; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mcp; mode…
+2026-10-13T06:35:30Z,DenyTranDFW/Wells_Fargo_Commercial_Mortgage_Trust_2026_5C10_2136440,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:35:46Z,DenyTranDFW/BMO_2026_5C16_Mortgage_Trust_2136643,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:36:01Z,DenyTranDFW/BANK_2026_BNK52_2138709,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:36:16Z,shakilaalam100/banglabox-audio,shakilaalam100,0,0,region:us
+2026-10-13T06:36:23Z,alimata/moore-kinship-blindspot-eval,alimata,0,1,region:us
+2026-10-13T06:36:25Z,SilentSage2/mrsi-measured-benchmark-inputs,SilentSage2,0,0,region:us
+2026-10-13T06:36:27Z,DenyTranDFW/BANK5_2026_5YR23_2140978,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:36:53Z,DenyTranDFW/Citigroup_Commercial_Mortgage_Trust_2026_MFAM1_2143199,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:37:20Z,DenyTranDFW/Morgan_Stanley_Bank_of_America_Merrill_Lynch_Trust_2026_C36_2145539,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:37:36Z,DenyTranDFW/D2_Natixis_Multifamily_Mortgage_Trust_2026_M1_2145996,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:37:51Z,DenyTranDFW/Benchmark_2026_V23_Mortgage_Trust_2148615,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:37:52Z,g1n0st/b4cf14cb0b81ac6efcadff7f6c91f09618ae7998,g1n0st,0,0,region:us
+2026-10-13T06:37:56Z,wckwan/WebShop-Qwen3-8B-SEED-nostd-eval,wckwan,0,0,region:us
+2026-10-13T06:38:07Z,DenyTranDFW/BANK5_2026_5YR24_2148771,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:38:15Z,g1n0st/8a6b612c8170cce41f1a140ada0231992f3bda5d,g1n0st,0,0,region:us
+2026-10-13T06:38:20Z,HayleyWal85/nlp-summarization-samples,HayleyWal85,0,0,license:cc-by-4.0; region:us; dataset; nlp-summarization; pointcloud-text
+2026-10-13T06:38:32Z,woog/open-text-detector-mix-oct7,woog,0,0,task_categories:token-classification; task_categories:text-classification; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-10-13T06:38:37Z,g1n0st/33096f130b2975469c22648a959e3b608a56ac47,g1n0st,0,0,region:us
+2026-10-13T06:38:39Z,Rcarvalo/tool-calling-s2s-v4,Rcarvalo,0,0,region:us
+2026-10-13T06:38:44Z,DenyTranDFW/Volkswagen_Auto_Lease_Trust_2026_B_2149941,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:39:01Z,g1n0st/28b8702ef7ca1f177351e449f4be698f6167500b,g1n0st,0,0,region:us
+2026-10-13T06:39:04Z,GamesMais18/InnocenceOrMoneyS2Dados,GamesMais18,0,0,region:us
+2026-10-13T06:39:18Z,KeenForgeAI/PV_Multi_Defect-corrected,KeenForgeAI,0,0,task_categories:object-detection; language:en; language:zh; license:other; size_categories:1K<n<10K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; phot…
+2026-10-13T06:39:23Z,DenyTranDFW/BBCMS_Mortgage_Trust_2026_M1_2152423,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:39:24Z,Emulated-Inc/sci-tropical-storm-genesis-later-years,Emulated-Inc,0,0,license:other; region:us
+2026-10-13T06:39:29Z,klee9/pi05_franka_v2,klee9,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-10-13T06:39:49Z,DenyTranDFW/BBCMS_Mortgage_Trust_2026_5C43_2153909,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-13T06:40:44Z,AkshayUmesh/Master-Set,AkshayUmesh,0,0,region:us
+2026-10-13T06:41:10Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-5bea6ddf,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-13T06:41:39Z,Assads1SAD/Annoy-PyEdu-Rs,Assads1SAD,0,0,region:us
+2026-10-13T06:41:43Z,Assads1SAD/Annoy-PyEdu-Rs-Raw,Assads1SAD,0,0,region:us
+2026-10-13T06:42:01Z,Edison817/lerobot_pick_and_place,Edison817,0,0,region:us
+2026-10-13T06:42:32Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-d03e492b,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-13T06:42:40Z,bunny127/EviRover-RL-12K,bunny127,0,0,task_categories:image-text-to-text; language:en; language:zh; license:cc-by-nc-4.0; size_categories:10K<n<100K; arxiv:2609.40230; region:us; agentic; tool-use; visual-grounding; referring-expression-…
+2026-10-13T06:43:09Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-1149652a,imagedevlopment,0,1,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-10-13T06:44:17Z,istmehmet/agriculture-audio-text-clean,istmehmet,0,1,license:cc-by-4.0; region:us; dataset; agriculture; audio-text
+2026-10-13T06:44:29Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-36b4f021,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-13T06:45:01Z,Aurora1217/CVC-ClinicDB,Aurora1217,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; medical; polyp-segmentation; colonos…
+2026-10-13T06:45:19Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-03d1f6a1,imagedevlopment,0,1,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-10-13T06:45:21Z,bettercalltest/dsv-hunt-canary,bettercalltest,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T06:45:22Z,limbo23/cs546-hw2-2026,limbo23,0,0,region:us
+2026-10-13T06:46:02Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-2254bbc5,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-10-13T06:46:34Z,ANKITYADAV247/Tuberculosis_Dataset,ANKITYADAV247,0,0,task_categories:feature-extraction; task_categories:text-classification; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; li…
+2026-10-13T06:47:05Z,Scallions/seaice-obs,Scallions,0,0,license:other; modality:geospatial; region:us; sea-ice; climate; remote-sensing; CICE; validation
+2026-10-13T06:47:46Z,imagedevlopment/gradients-image-tourn_5bf35647da58489e_20261012-aa966b0b,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-10-13T06:47:46Z,haerin123/so101demo,haerin123,0,1,region:us
+2026-10-13T06:48:03Z,woog/open-text-detector-heldout,woog,0,0,task_categories:token-classification; task_categories:text-classification; language:en; license:other; size_categories:10K<n<100K; region:us; ai-text-detection; machine-generated-text; research-paper…
+2026-10-13T06:48:46Z,suhidddd/kullm-messages,suhidddd,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-13T06:49:20Z,spiderpilot89/zero-trust-physics-environments,spiderpilot89,0,0,source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; physics; verification; agents; evaluation; tool-use; mcp; model-context-protocol; cryptographic-proof; scien…
+2026-10-13T06:49:43Z,austinsmithora/personal-fashion,austinsmithora,0,0,license:mit; region:us; dataset; fashion; video-text
+2026-10-13T06:50:33Z,imdanielgarcia/experiment-education-2023,imdanielgarcia,0,0,license:mit; region:us; dataset; education; image-depth
+2026-10-13T06:50:42Z,Hikaf143/LLMDataProcessing,Hikaf143,0,0,task_categories:text-generation; task_categories:summarization; language:en; language:zh; language:ko; license:other; size_categories:1K<n<10K; arxiv:2408.12799; region:us; common-crawl; pretraining;…
+2026-10-13T06:50:53Z,Hikaf143/keural-v2-dataset,Hikaf143,0,0,task_categories:text-generation; language:ko; language:en; license:other; size_categories:100K<n<1M; region:us; korean; sft; keural; moe
+2026-10-13T06:50:57Z,mcleanie/ccvg-f17-eval,mcleanie,0,0,region:us
+2026-10-13T06:50:59Z,Hikaf143/sft_dataset_v2,Hikaf143,0,0,task_categories:text-generation; task_categories:question-answering; language:ko; language:en; license:other; size_categories:100K<n<1M; region:us; instruction-tuning; sft; korean; english; math; code
+2026-10-13T06:51:00Z,dhthufuong/ai-actions,dhthufuong,0,0,region:us
+2026-10-13T06:51:03Z,Hikaf143/keural-v2-tool-calling,Hikaf143,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us
+2026-10-13T06:51:07Z,Hikaf143/keural-v2-cot-reasoning,Hikaf143,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us
+2026-10-13T06:51:11Z,Hikaf143/keural-v2-fluency,Hikaf143,0,0,task_categories:text-generation; language:ko; language:en; license:other; region:us
+2026-10-13T06:51:15Z,Hikaf143/keural-v2-fluency-v2,Hikaf143,0,0,task_categories:text-generation; language:ko; language:en; license:other; region:us
+2026-10-13T06:51:23Z,Hikaf143/keural-v2-tool-calling-v2,Hikaf143,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us
+2026-10-13T06:51:27Z,Hikaf143/keural-v2-cot-reasoning-v2,Hikaf143,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us
+2026-10-13T06:51:33Z,Hikaf143/korean_data_scraper_kakaotalk,Hikaf143,0,0,task_categories:text-generation; language:ko; language:en; license:other; size_categories:n<1K; region:us; korean; conversational; kakaotalk; corpus; llm-pretraining
+2026-10-13T06:51:38Z,Hikaf143/korean_data_scraper_wikipedia,Hikaf143,0,0,task_categories:text-generation; language:ko; license:cc-by-sa-4.0; size_categories:1M<n<10M; region:us; korean; wikipedia; corpus; llm-pretraining
+2026-10-13T06:51:46Z,Hikaf143/korean_data_scraper_aihub,Hikaf143,0,0,task_categories:text-generation; language:ko; license:other; size_categories:1M<n<10M; region:us; korean; aihub; corpus; llm-pretraining
+2026-10-13T06:52:13Z,Hikaf143/keural-v2-orchestration,Hikaf143,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; agent; multi-agent; orchestration; synthetic; tool-use
+2026-10-13T06:52:17Z,Hikaf143/keural-v2-self-verification,Hikaf143,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; reasoning; self-correction; math; synthetic
+2026-10-13T06:52:17Z,RuiL-iang1/image-depth-dataset,RuiL-iang1,0,0,license:apache-2.0; region:us; dataset; news-media; image-depth
+2026-10-13T06:52:40Z,g1n0st/7fa912cfff1852df8ccf706d749e46fbfa5bdcde,g1n0st,0,0,region:us
+2026-10-13T06:57:47Z,g1n0st/6a55d2b68d3a2a6ca6e19f0cc8f38729f205e2ba,g1n0st,0,0,region:us
+2026-10-13T06:58:23Z,Tommy-Bie/SeerWorld-Data,Tommy-Bie,0,0,license:other; region:us
+2026-10-13T06:58:32Z,g1n0st/3c407628b061bb2a207bcd89711c15d9c0801fcf,g1n0st,0,0,region:us
+2026-10-13T06:58:57Z,nilnguyen2k/mit67_official_gnn_base_novisual_oof_features,nilnguyen2k,0,0,region:us
+2026-10-13T06:59:09Z,myeongcheol/malecns-wiring-variants,myeongcheol,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; connectome; drosophila; malecns; neuroscience; language-modeling; recurrent-neural-network
+2026-10-13T07:00:11Z,0xforgeAI/sn38-r16a,0xforgeAI,0,0,region:us
+2026-10-13T07:01:22Z,Zaytsevdaniil/satellite-pointcloud-text,Zaytsevdaniil,0,0,license:cc-by-4.0; region:us; dataset; satellite; pointcloud-text
+2026-10-13T07:01:34Z,Scrapewiseai/amazon-uk-marketplace-snapshot-2026-09,Scrapewiseai,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; e-commerce; amazon; retail; pricing; marketplace; united-kingdom
+2026-10-13T07:01:54Z,Lut123/Atomic-QA,Lut123,0,0,task_categories:question-answering; language:en; size_categories:1M<n<10M; region:us; synthetic-data; factual-knowledge
+2026-10-13T07:02:05Z,g1n0st/04e8c81bdfe4ebb7f4f4a60e30f9c872f900aaf8,g1n0st,0,0,region:us
+2026-10-13T07:02:36Z,DQwalk/so101_pick_place_2cam_100,DQwalk,0,0,region:us
+2026-10-13T07:03:32Z,JinchengZhang/jincheng-zhang-58808-sole-authored-basic-medical-research-papers,JinchengZhang,0,0,license:cc-by-4.0; region:us
+2026-10-13T07:03:49Z,Jeong-zju/moli-maniskill-expert-100,Jeong-zju,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; robotics; simulation; imitation-learning; expert-demonstrations; lerobot; moli; maniskill
+2026-10-13T07:03:52Z,Jeong-zju/moli-go2-expert-100,Jeong-zju,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; robotics; simulation; imitation-learning; expert-demonstrations; lerobot; moli; go2
+2026-10-13T07:03:53Z,sabin1234/Nepali_SCRAP_Health_Instruction_Dataset,sabin1234,0,0,license:apache-2.0; region:us
+2026-10-13T07:04:02Z,PaoloMaccallini/EEG,PaoloMaccallini,0,0,license:mit; region:us
+2026-10-13T07:04:28Z,karmaxteq/Annoy-PyEdu-Rs-Raw,karmaxteq,0,0,region:us
+2026-10-13T07:04:28Z,karmaxteq/Annoy-PyEdu-Rs,karmaxteq,0,0,region:us
+2026-10-13T07:04:59Z,stuartwvmc1006/dialogue-image-audio-v2,stuartwvmc1006,0,0,license:apache-2.0; region:us; dataset; dialogue; image-audio
+2026-10-13T07:05:17Z,chrissoria/lassen-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T07:05:40Z,ryanbaker/traffic-image-audio-v2,ryanbaker,0,0,license:apache-2.0; region:us; dataset; traffic; image-audio
+2026-10-13T07:08:22Z,komokomo7/RealSciurus17Demo_20261008_182447_Act_20000ep_rollout,komokomo7,0,0,region:us
+2026-10-13T07:09:32Z,litupup/assets-rl,litupup,0,0,region:us
+2026-10-13T07:10:33Z,g1n0st/c9ce120d861d8668ab3d93e6b1529c239d6cde20,g1n0st,0,0,region:us
+2026-10-13T07:10:39Z,PuichingMacaoColoane/Stacking_three_cups_20261013_150524,PuichingMacaoColoane,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-13T07:11:01Z,badriram939/squai-phase2-shards,badriram939,0,0,region:us
+2026-10-13T07:11:44Z,manhnong/adilshamim8_predict-students-dropout-and-academic-success,manhnong,0,0,license:unknown; region:us; kaggle; universities and colleges; education; beginner; standardized testing; jobs and career
+2026-10-13T07:12:14Z,HBKenerzai/kocom-lobbyphone-fc,HBKenerzai,0,0,language:ko; size_categories:100K<n<1M; region:us; function-calling; korean; on-device
+2026-10-13T07:12:39Z,DDinf/daana-dev,DDinf,0,0,task_categories:automatic-speech-recognition; language:ky; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us
+2026-10-13T07:13:08Z,saurabhb2412/ksa-medcoding-sft,saurabhb2412,0,0,region:us
+2026-10-13T07:14:02Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-13T07:14:05Z,OneBitAI/cronus-pretraining-shards,OneBitAI,0,0,license:apache-2.0; region:us
+2026-10-13T07:14:23Z,AI4HealthResearch/safejev-benchmark-data,AI4HealthResearch,0,0,license:other; region:us
+2026-10-13T07:15:00Z,BasiraInstitute/abdullah-alqarafi-quran,BasiraInstitute,0,0,region:us
+2026-10-13T07:15:43Z,chrissoria/orange-county-board,chrissoria,0,0,language:en; license:cc0-1.0; region:us; government; local-government; county-government; votes; california
+2026-10-13T07:16:12Z,junaidaslam/gojri-english-dictionary,junaidaslam,0,0,task_categories:translation; task_categories:text-retrieval; annotations_creators:expert-generated; multilinguality:bilingual; source_datasets:original; language:gju; language:en; license:cc-by-nc-4.…
+2026-10-13T07:20:26Z,justicedao/ipfs_spain_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:ca; language:es; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; spain_municipal
