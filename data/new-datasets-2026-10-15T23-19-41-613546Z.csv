@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T22:23:03Z,SB3TWIL/plumetex-engine,SB3TWIL,0,1,license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T22:24:09Z,ZhengmingYu/DMAD-Wan-data,ZhengmingYu,0,1,task_categories:text-to-video; license:other; modality:video; library:webdataset; arxiv:2610.02188; arxiv:2506.13691; arxiv:2503.20314; region:us; video; latents; distillation; webdataset; wan2.1
+2026-10-15T22:24:34Z,darealSven/nssort,darealSven,0,0,task_categories:text-generation; task_categories:feature-extraction; task_categories:question-answering; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; libr…
+2026-10-15T22:26:10Z,Mary-m007/Mydata,Mary-m007,0,0,region:us
+2026-10-15T22:28:13Z,sfsfff22/Annoy-PyEdu-Rs,sfsfff22,0,0,region:us
+2026-10-15T22:28:14Z,sfsfff22/Annoy-PyEdu-Rs-Raw,sfsfff22,0,0,region:us
+2026-10-15T22:28:44Z,ASD1212321/Annoy-PyEdu-Rs,ASD1212321,0,0,region:us
+2026-10-15T22:28:45Z,ASD1212321/Annoy-PyEdu-Rs-Raw,ASD1212321,0,0,region:us
+2026-10-15T22:29:41Z,lexu14/mini-radio,lexu14,0,0,region:us
+2026-10-15T22:29:44Z,ASDCZX12DS/Annoy-PyEdu-Rs,ASDCZX12DS,0,0,region:us
+2026-10-15T22:29:45Z,ASDCZX12DS/Annoy-PyEdu-Rs-Raw,ASDCZX12DS,0,0,region:us
+2026-10-15T22:30:32Z,Sqls1/dota2-sounds,Sqls1,0,1,license:other; size_categories:100K<n<1M; modality:audio; region:us; dota-2; audio; game-assets
+2026-10-15T22:31:38Z,DecentVLA/droid8_openpi,DecentVLA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; droid; openpi; federated-learning
+2026-10-15T22:33:05Z,bunqi/OANDA_EURTRY_EURTRY,bunqi,0,0,region:us
+2026-10-15T22:34:29Z,Ymx1025/floodsentinel,Ymx1025,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:geospatial; region:us; flood; disaster-management; situational-awareness; hydrology; streamflow; weather-warnings; time-series; geospati…
+2026-10-15T22:36:16Z,damonsalvatore123/LMA-RAG-ASSIGNMENT,damonsalvatore123,0,0,size_categories:1K<n<10K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T22:38:10Z,Howlium/traverse,Howlium,0,0,task_categories:text-classification; language:en; license:cc0-1.0; size_categories:1M<n<10M; region:us; patents; legal; uspto; patent-prosecution
+2026-10-15T22:40:27Z,asd12sad21/Annoy-PyEdu-Rs,asd12sad21,0,0,region:us
+2026-10-15T22:40:28Z,asd12sad21/Annoy-PyEdu-Rs-Raw,asd12sad21,0,0,region:us
+2026-10-15T22:41:17Z,Incomple/SubgroupValuesSG-outputs,Incomple,0,0,language:en; license:cc-by-nc-4.0; region:us; cultural-alignment; persona; llm-as-a-judge
+2026-10-15T22:45:17Z,dmitchelljackson/EspressoGym,dmitchelljackson,0,0,arxiv:2406.08184; region:us
+2026-10-15T22:46:06Z,bunqi/OANDA_USDNOK_USDNOK,bunqi,0,0,region:us
+2026-10-15T22:46:10Z,dougalldeepmind/2026-10-15-petri-qwen36,dougalldeepmind,0,0,region:us
+2026-10-15T22:46:34Z,bunqi/OANDA_EURJPY_EURJPY,bunqi,0,0,region:us
+2026-10-15T22:46:36Z,hwryu/mirror_diamond_eval,hwryu,0,0,license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-15T22:48:09Z,lowkrypx/nexus,lowkrypx,0,0,region:us
+2026-10-15T22:50:52Z,Johnwang12345/hku-blender-source-models-20261015,Johnwang12345,0,0,region:us
+2026-10-15T22:55:13Z,erenyeager-1/aya_collection,erenyeager-1,0,0,task_categories:text-classification; task_categories:summarization; task_categories:translation; language:ace; language:afr; language:amh; language:ara; language:aze; language:ban; language:bbc; lang…
+2026-10-15T22:55:35Z,erenyeager-1/aya_dataset,erenyeager-1,0,0,task_categories:other; annotations_creators:crowdsourced; annotations_creators:expert-generated; language_creators:crowdsourced; language_creators:expert-generated; multilinguality:multilingual; sour…
+2026-10-15T22:55:50Z,erenyeager-1/aya_evaluation_suite,erenyeager-1,0,0,task_categories:text-generation; language_creators:crowdsourced; language_creators:expert-generated; language_creators:machine-generated; multilinguality:multilingual; source_datasets:original; sourc…
+2026-10-15T22:56:21Z,erenyeager-1/aya_collection_language_split,erenyeager-1,0,0,language:ace; language:afr; language:amh; language:ara; language:aze; language:ban; language:bbc; language:bel; language:bem; language:ben; language:bjn; language:bul; language:cat; language:ceb; lan…
+2026-10-15T22:57:59Z,ra-02mh/lab5EDAN20,ra-02mh,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T23:00:00Z,CompactAI/Codex-Traces-Intermittent-ckpt,CompactAI,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T23:02:59Z,OmarCodePlay/GM-games-with-eval,OmarCodePlay,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T23:04:04Z,DASDBCXBC/Annoy-PyEdu-Rs,DASDBCXBC,0,0,region:us
+2026-10-15T23:04:05Z,DASDBCXBC/Annoy-PyEdu-Rs-Raw,DASDBCXBC,0,0,region:us
+2026-10-15T23:04:35Z,sad1csa21dsa/Annoy-PyEdu-Rs-Raw,sad1csa21dsa,0,0,region:us
+2026-10-15T23:04:35Z,sad1csa21dsa/Annoy-PyEdu-Rs,sad1csa21dsa,0,0,region:us
+2026-10-15T23:04:51Z,yuyan10/dvqa,yuyan10,0,0,license:mit; region:us
+2026-10-15T23:05:19Z,SDCXZ21SDA/Annoy-PyEdu-Rs,SDCXZ21SDA,0,0,region:us
+2026-10-15T23:05:20Z,SDCXZ21SDA/Annoy-PyEdu-Rs-Raw,SDCXZ21SDA,0,0,region:us
+2026-10-15T23:05:40Z,edgarcancinoe/water_pour_anchor_dagger1,edgarcancinoe,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-15T23:05:59Z,Davidmoraleswi/math-pointcloud-text-2023,Davidmoraleswi,0,0,license:cc-by-4.0; region:us; dataset; math; pointcloud-text
+2026-10-15T23:07:16Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-15T23:07:17Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-15T23:08:06Z,remas-nasser/study-ocean,remas-nasser,0,0,license:apache-2.0; region:us; dataset; ocean; image-depth
+2026-10-15T23:11:01Z,siddharthmb/2026.TA.tc8192_comprehensive_headline_2026-10d_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-15T23:12:03Z,toolathlon4/Annoy-PyEdu-Rs,toolathlon4,0,0,region:us
+2026-10-15T23:12:04Z,toolathlon4/Annoy-PyEdu-Rs-Raw,toolathlon4,0,0,region:us
+2026-10-15T23:13:32Z,asfafa454/Annoy-PyEdu-Rs,asfafa454,0,0,region:us
+2026-10-15T23:13:33Z,asfafa454/Annoy-PyEdu-Rs-Raw,asfafa454,0,0,region:us
+2026-10-15T23:14:02Z,liuf12123456/Annoy-PyEdu-Rs-Raw,liuf12123456,0,0,region:us
+2026-10-15T23:14:02Z,liuf12123456/Annoy-PyEdu-Rs,liuf12123456,0,0,region:us
+2026-10-15T23:15:36Z,ChaoyangWang/minimax-data,ChaoyangWang,0,0,region:us
+2026-10-15T23:18:30Z,cmunley/mixed-skills-env-v4,cmunley,0,0,task_categories:reinforcement-learning; license:apache-2.0; library:openenv; region:us; openenv; rlvr; verifiable-rewards; agents
+2026-10-15T23:19:23Z,santasi24/bank-customer-churn,santasi24,0,0,region:us
