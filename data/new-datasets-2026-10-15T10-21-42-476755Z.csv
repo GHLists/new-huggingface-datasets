@@ -1,0 +1,154 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T09:25:37Z,DanielaFshr/swiss-legal-ag-lu-qa,DanielaFshr,0,0,language:de; license:cdla-permissive-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal;…
+2026-10-15T09:25:39Z,sedaahi/kivi-1.5b-veri,sedaahi,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:25:49Z,alejp1998/AerialPerson-Mix,alejp1998,0,1,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; search-and-rescue; aerial-imagery; uav; pe…
+2026-10-15T09:26:17Z,DatarrX/my-sentences-3K,DatarrX,0,0,task_categories:text-generation; task_categories:fill-mask; language:my; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T09:26:24Z,Djs667/recruitment-dataset-job-descriptions-english,Djs667,0,0,language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:29:17Z,g1n0st/e8c9f685823c5ff847dcc5c7e9cf95aa4213f204,g1n0st,0,0,region:us
+2026-10-15T09:29:22Z,pixelouie/rollout_oman_workshop_model_20261015_112741,pixelouie,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-15T09:29:29Z,seriintan/rollout_failsafe_observe_20261015_172607_20261015_172628,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T09:30:54Z,mimiminsoo/packing_21,mimiminsoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T09:31:19Z,DanielGallagherIRE/fineweb-edu-ga-20261015-093119,DanielGallagherIRE,0,0,region:us
+2026-10-15T09:31:30Z,mondk/Verity,mondk,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; verity; chat
+2026-10-15T09:31:38Z,Riccardo11/rollout_smolvla_blue_cylinder_v2_5ksteps_chunk40_30fps_20eps_20261009_100422_annotated,Riccardo11,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T09:33:20Z,prabakaranchandran/pooh-babylm-mix-220m,prabakaranchandran,0,0,task_categories:text-generation; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-10-15T09:34:26Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-10-15T09:34:27Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-10-15T09:35:30Z,pixelouie/rollout_oman_workshop_model_20261015_113011,pixelouie,0,0,region:us
+2026-10-15T09:37:30Z,duyle2408/stw-tph-tinyperson-merged-20261015-r2-runs,duyle2408,0,0,region:us
+2026-10-15T09:38:30Z,zhuiluozhiji/DRBenchPro-runtime,zhuiluozhiji,0,0,region:us
+2026-10-15T09:39:16Z,bunqi/OANDA_EURPLN_EURPLN,bunqi,0,0,region:us
+2026-10-15T09:39:28Z,suwaimyo/massive-intent-mya-classification,suwaimyo,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:39:48Z,suwaimyo/massive-scenario-mya-classification,suwaimyo,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:39:55Z,MelorAngelina/Annoy-PyEdu-Rs,MelorAngelina,0,0,region:us
+2026-10-15T09:39:56Z,MelorAngelina/Annoy-PyEdu-Rs-Raw,MelorAngelina,0,0,region:us
+2026-10-15T09:40:54Z,ResidentEvian/blue-cube-into-box_20261015_112154,ResidentEvian,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T09:42:11Z,g1n0st/9ffb7120206dbaa597be411ed6c0c1e0407a1124,g1n0st,0,0,region:us
+2026-10-15T09:42:11Z,pixelouie/rollout_oman_workshop_model_20261015_114034,pixelouie,0,0,region:us
+2026-10-15T09:43:48Z,g1n0st/dc4292ed64329969b6072b9b68b48974b9a80548,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-15T09:43:49Z,JustinWy05/fun-ocean,JustinWy05,0,0,license:cc-by-4.0; region:us; dataset; ocean; audio-video
+2026-10-15T09:44:20Z,seriintan/rollout_failsafe_observe_20261015_174102_20261015_174120,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T09:45:06Z,g1n0st/46e8838d3ebfda75615e7be69d07ec7bf34e4931,g1n0st,0,0,region:us
+2026-10-15T09:45:08Z,g1n0st/7fce029e2a33b0dff0eeda507f5c0121e8ab02ec,g1n0st,0,0,region:us
+2026-10-15T09:45:12Z,Mingwei000/click-to-model-data-online,Mingwei000,0,0,language:en; language:zh; region:us; robotics; computer-vision; rgb-d; depth; 3d-reconstruction; pose-estimation
+2026-10-15T09:45:31Z,klein-ml/klein-code-bench,klein-ml,0,1,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; reg…
+2026-10-15T09:45:40Z,g1n0st/3fc2184e44ecdae2cfb657d9363f57bc14d725ee,g1n0st,0,0,region:us
+2026-10-15T09:47:14Z,Seoul12/khmer-ocr-handwriting-demo,Seoul12,0,0,region:us
+2026-10-15T09:47:27Z,tasksource/comve,tasksource,0,0,license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; decision-model
+2026-10-15T09:47:53Z,stable-ai/TSDBench,stable-ai,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:48:05Z,tianzl66/TurnPrint,tianzl66,0,0,language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multi-turn; model-attributio…
+2026-10-15T09:48:11Z,EPFL-LARA/lean-compiler-training-corpus,EPFL-LARA,0,0,task_categories:text-classification; language:en; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lean; lean…
+2026-10-15T09:48:20Z,EPFL-LARA/lean-evaluation-benchmark,EPFL-LARA,0,0,task_categories:text-classification; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-10-15T09:48:46Z,pixelouie/rollout_oman_workshop_model_20261015_114310,pixelouie,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T09:49:04Z,mattlenzie/uk-business-property-lending-monitor,mattlenzie,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:other; size_categories:10K<n<100K; format:csv; modality:tabul…
+2026-10-15T09:49:14Z,taeyoungcho/speech-image-depth-benchmark,taeyoungcho,0,0,license:mit; region:us; dataset; speech; image-depth
+2026-10-15T09:49:18Z,seriintan/rollout_failsafe_observe_20261015_174600_20261015_174618,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T09:49:28Z,DanielGallagherIRE/fineweb-edu-ga-20261015-094928,DanielGallagherIRE,0,0,task_categories:translation; source_datasets:HuggingFaceFW/fineweb-edu; language:ga; language:en; region:us; machine-translated
+2026-10-15T09:53:42Z,TriLingDATA/si-ta-en-lid-320ms,TriLingDATA,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T09:55:18Z,echoxin/emilia-ko,echoxin,0,0,region:us
+2026-10-15T09:57:29Z,g1n0st/e3f9f64524359a261be0c201e76d2186824a0f76,g1n0st,0,0,region:us
+2026-10-15T09:57:50Z,g1n0st/8ee3a7a66e159eec27190caf518a51c491df7870,g1n0st,0,0,region:us
+2026-10-15T09:59:03Z,4taotao8/DGS-Net,4taotao8,0,0,license:mit; region:us
+2026-10-15T09:59:49Z,somsom317/finance-legal-mrc-original-question,somsom317,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T09:59:50Z,SilvioS/testing,SilvioS,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-15T10:00:00Z,mliu48/telearms-yam-cube-v4-dr,mliu48,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; pi0; bimanual; manipulation; mujoco; domain-randomization
+2026-10-15T10:00:53Z,jhehli/synthetic-tem-images,jhehli,0,0,region:us
+2026-10-15T10:00:59Z,g1n0st/00c27e9669fc3cee86f32fbd1d574994b55b86ba,g1n0st,0,0,region:us
+2026-10-15T10:01:23Z,g1n0st/edf1d99b9df3fbf595ecefdeb3b002062c26655d,g1n0st,0,0,region:us
+2026-10-15T10:01:54Z,afeafaa/Annoy-PyEdu-Rs,afeafaa,0,0,region:us
+2026-10-15T10:01:54Z,afeafaa/Annoy-PyEdu-Rs-Raw,afeafaa,0,0,region:us
+2026-10-15T10:02:11Z,CarolinePascal/grabette-pick-and-place-texture-25,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T10:02:23Z,Mobiusi/SAT-Problem-Solving-And-Data-Analysis-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:02:26Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-10-15T10:02:26Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-10-15T10:02:38Z,Mobiusi/Arabic-Rhetoric-And-Figures-Of-Speech-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:02:44Z,Mobiusi/Arabic-Orthography-And-Hamza-Writing-Rules-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:02:50Z,Mobiusi/Arabic-Morphology-And-Weak-Verb-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:02:55Z,Mobiusi/German-Learner-Error-Explanation-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:00Z,Mobiusi/German-Modal-Particles-And-Discourse-Markers-Knowledge-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:08Z,Mobiusi/German-Idioms-And-Fixed-Expressions-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:15Z,Mobiusi/German-Grammar-Instruction-Web-Documents-SFT-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:25Z,Mobiusi/Special-Education-Teacher-Qualification-Practice-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:03:34Z,Mobiusi/Power-System-Relay-Protection-Practice-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:35Z,marianna13/rts-1k-teacher-traces,marianna13,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T10:03:44Z,marianna13/tmax-legacy-1k-teacher-traces,marianna13,0,0,license:odc-by; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T10:03:45Z,Mobiusi/Legal-Professional-Qualification-Examination-Case-Based-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:03:50Z,Mobiusi/Virtual-Physics-Experiment-Result-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:03:57Z,Mobiusi/Virtual-Biological-Experiment-Protocol-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:06Z,Mobiusi/Vocational-Education-Digital-Textbook-Workflow-And-Safety-Knowledge-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:12Z,Mobiusi/Digital-Textbook-Misconception-Correction-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:20Z,Mobiusi/Digital-Textbook-Terminology-And-Glossary-Knowledge-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:04:25Z,Mobiusi/PCT-International-Phase-Examination-Document-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:31Z,Mobiusi/Patent-Eligibility-Case-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:36Z,Mobiusi/Patent-Claim-Amendment-Support-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:41Z,Mobiusi/Patent-Reexamination-And-Appeal-Legal-Evidence-Retrieval-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:04:46Z,Mobiusi/Patent-Claim-Amendment-Basis-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:04:54Z,Mobiusi/Commercial-Fraud-Claim-Evidence-Chain-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:01Z,Mobiusi/Summary-Judgment-Case-File-Evidence-Citation-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:04Z,suwaimyo/vimmrc-vie-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T10:05:04Z,BhanuPrakashReddy2005/small-qa-en-1k,BhanuPrakashReddy2005,0,0,license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T10:05:09Z,Mobiusi/Patent-Application-Status-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:15Z,Mobiusi/Contradictory-Case-File-Evidence-Retrieval-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-15T10:05:24Z,Mobiusi/Patent-Priority-Claim-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:29Z,Mobiusi/Legal-Document-Understanding-Dataset-For-Trade-Secret-Misappropriation-Cases,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:36Z,Mobiusi/Patent-Claim-Interpretation-Judicial-Decisions-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:43Z,Mobiusi/Patent-Infringement-Pleadings-Document-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:05:53Z,Mobiusi/Commercial-Litigation-Confidentiality-And-Privilege-Document-Understanding-Evalu,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:06:01Z,Mobiusi/Commercial-Litigation-Discovery-Document-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:06:07Z,Mobiusi/Commercial-Litigation-Motion-Document-Semantic-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:06:16Z,Mobiusi/Commercial-Contract-Dispute-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:06:20Z,g1n0st/5c28c2493fb3c6f62c2941069125256071729d9a,g1n0st,0,0,region:us
+2026-10-15T10:06:21Z,Mobiusi/Freedom-To-Operate-FTO-Legal-Citation-Fact-Verification-Benchmark-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:06:31Z,Mobiusi/Evidence-Retrieval-Dataset-For-NDA-Term-Survival-And-Information-Return,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:06:33Z,g1n0st/66f80d6025b8e708af375056da3cd499afa020c9,g1n0st,0,0,region:us
+2026-10-15T10:06:41Z,Mobiusi/Confidential-Information-Exception-Clause-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:06:47Z,Mobiusi/NDA-Definitions-And-Cross-Reference-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:06:52Z,Mobiusi/Ambiguous-Exam-Question-Semantic-Disambiguation-QA-Evaluation-Set,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:06:54Z,panzining/Lerobot_so1012026.10,panzining,0,0,region:us
+2026-10-15T10:06:59Z,Mobiusi/Question-Bank-Clarification-Based-Multi-Turn-QA-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:07:00Z,g1n0st/4ae5bf92f8766c92ca1cc0305a978a613aeb1432,g1n0st,0,0,region:us
+2026-10-15T10:07:03Z,g1n0st/748e066960370bd791d0fa7bc62429bda8ecd38d,g1n0st,0,0,region:us
+2026-10-15T10:07:06Z,renshengjihe/streaming,renshengjihe,0,0,region:us
+2026-10-15T10:07:16Z,Mobiusi/Evidence-Retrieval-Dataset-For-Permitted-Disclosures-Under-Non-Disclosure-Agreem,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:07:28Z,Mobiusi/Mathematical-Word-Problem-Semantic-Parsing-And-Question-Answering-Evaluation-Dat,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:07:34Z,Mobiusi/Negation-And-Exception-Question-Answering-Challenge-Set,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:07:47Z,Mobiusi/Commercial-Litigation-Motion-Record-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:08:00Z,Mobiusi/Passage-Based-Question-Answering-Evaluation-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-15T10:08:17Z,Mobiusi/Copyright-And-Content-License-Agreement-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:08:19Z,zal-analytics-core/zsuite-themes,zal-analytics-core,0,0,license:cc-by-4.0; region:us
+2026-10-15T10:08:25Z,Mobiusi/Patent-And-Technology-License-Agreement-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:08:30Z,Mobiusi/License-Fee-And-Audit-Clause-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:08:34Z,tmhoanggg/so101-stack-cup,tmhoanggg,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T10:08:37Z,Mobiusi/License-Termination-And-Surviving-Obligations-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-15T10:08:47Z,hr16/ai-otolaryngology,hr16,0,0,region:us
+2026-10-15T10:09:06Z,Gandalf69/Toxic-Erebus-250k,Gandalf69,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T10:09:22Z,liuferet114/Annoy-PyEdu-Rs,liuferet114,0,0,region:us
+2026-10-15T10:09:23Z,liuferet114/Annoy-PyEdu-Rs-Raw,liuferet114,0,0,region:us
+2026-10-15T10:09:25Z,Anticloud/anticloud-carbon-capture-carbon,Anticloud,0,0,region:us
+2026-10-15T10:09:25Z,bunqi/OANDA_SUGARUSD_Sugar,bunqi,0,0,region:us
+2026-10-15T10:09:50Z,PINlab/so101_3cam_skin,PINlab,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-15T10:09:56Z,Anticloud/anticloud-architectural-design-ladybug,Anticloud,0,0,region:us
+2026-10-15T10:10:26Z,Anticloud/anticloud-frontier-harnesses-open,Anticloud,0,0,region:us
+2026-10-15T10:11:26Z,DolphyWind/cxc-sts-mt-turkish,DolphyWind,0,0,task_categories:sentence-similarity; language:tr; size_categories:10K<n<100K; region:us; sts; turkish
+2026-10-15T10:14:15Z,safafaf67/Annoy-PyEdu-Rs-Raw,safafaf67,0,0,region:us
+2026-10-15T10:14:15Z,safafaf67/Annoy-PyEdu-Rs,safafaf67,0,0,region:us
+2026-10-15T10:14:45Z,somsom317/finance-legal-mrc-original-question-with-1-to-4-negative-samples,somsom317,0,0,region:us
+2026-10-15T10:15:13Z,hivepunk-1-88893af3/hivemindos-publishing-integration-check,hivepunk-1-88893af3,0,0,license:cc-by-4.0; region:us
+2026-10-15T10:15:41Z,ASNJGGDFSA/Annoy-PyEdu-Rs,ASNJGGDFSA,0,0,region:us
+2026-10-15T10:15:42Z,ASNJGGDFSA/Annoy-PyEdu-Rs-Raw,ASNJGGDFSA,0,0,region:us
+2026-10-15T10:15:51Z,Nitindevi/random-fashion,Nitindevi,0,0,license:mit; region:us; dataset; fashion; audio-video
+2026-10-15T10:16:05Z,leapshared/SciEdu_3097epi_steps,leapshared,0,0,region:us
+2026-10-15T10:16:24Z,syssec-utd/segmentation-py314-pylingual-v11,syssec-utd,0,0,region:us
+2026-10-15T10:16:48Z,fabono/put_cube_in_drawer_20261015_121352,fabono,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T10:17:26Z,liufeqww1154/Annoy-PyEdu-Rs-Raw,liufeqww1154,0,0,region:us
+2026-10-15T10:17:26Z,liufeqww1154/Annoy-PyEdu-Rs,liufeqww1154,0,0,region:us
+2026-10-15T10:17:44Z,juhi-neeved/Seq-DeepFake-relabeled,juhi-neeved,0,0,region:us
+2026-10-15T10:17:49Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-10-15T10:17:49Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-10-15T10:18:04Z,axondendriteplus/decipop-worlds,axondendriteplus,0,0,task_categories:text-classification; language:en; license:apache-2.0; region:us; synthetic; reasoning; counterfactual; symbolic; decipop
+2026-10-15T10:19:30Z,justicedao/ipfs_nepal_provincial_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:ne; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; nepal_provincial
+2026-10-15T10:19:32Z,alea-institute/alea-settled-law,alea-institute,0,0,region:us
+2026-10-15T10:20:16Z,justicedao/ipfs_germany_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; germany_municipal
+2026-10-15T10:20:34Z,justicedao/ipfs_italy_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; italy_municipal
+2026-10-15T10:20:43Z,syssec-utd/statement-py314-pylingual-v11,syssec-utd,0,0,region:us
+2026-10-15T10:20:56Z,g1n0st/9fa8a6a3c5a19043c40eed9ee6181fd08b5b198c,g1n0st,0,0,region:us
