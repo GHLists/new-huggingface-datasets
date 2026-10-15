@@ -1,0 +1,164 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T21:22:27Z,ffatty/plaintext-wikipedia-full-dinka,ffatty,0,0,language:din; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:22:43Z,ffatty/plaintext-wikipedia-full-dagbani,ffatty,0,0,language:dag; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:23:07Z,g1n0st/75fb36e4a4d9519a773672138e2465cfbc5da6fe,g1n0st,0,0,region:us
+2026-10-15T21:23:08Z,ffatty/plaintext-wikipedia-full-bambara,ffatty,0,0,language:bm; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:23:31Z,g1n0st/8df032b045d7345de5aa9e543eaa1fdac1d5d5a2,g1n0st,0,0,region:us
+2026-10-15T21:23:33Z,ffatty/plaintext-wikipedia-full-ewe,ffatty,0,0,language:ee; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:24:00Z,ffatty/plaintext-wikipedia-full-fon,ffatty,0,0,language:fon; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:25:38Z,g1n0st/d1114e36286a78ebcb257262d8001064d1d68c47,g1n0st,0,0,region:us
+2026-10-15T21:25:44Z,g1n0st/76eadc3844f71b05be61f61a99ba69e91c457d72,g1n0st,0,0,region:us
+2026-10-15T21:26:00Z,ffatty/plaintext-wikipedia-full-pashto,ffatty,0,0,language:ps; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:26:01Z,Bayanat-Labs/arabic-unicode-conformance,Bayanat-Labs,0,0,language:ar; language:fa; language:ur; license:cc-by-4.0; size_categories:n<1K; region:us; arabic; arabic-nlp; unicode; text-normalization; conformance-tests; test-suite; asr-evaluation; synthetic; b…
+2026-10-15T21:26:03Z,ffatty/plaintext-wikipedia-full-sindhi,ffatty,0,0,language:sd; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:27:12Z,otnpo/rip,otnpo,0,0,region:us
+2026-10-15T21:27:24Z,Bayanat-Labs/gcc-format-validators,Bayanat-Labs,0,0,language:ar; language:en; license:cc-by-4.0; license:apache-2.0; license:mit; size_categories:10K<n<100K; region:us; arabic; text-normalization; inverse-text-normalization; itn; tts; asr; gulf-arabic…
+2026-10-15T21:28:54Z,ffatty/plaintext-wikipedia-full-kurdish,ffatty,0,0,language:ku; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:31:27Z,g1n0st/3760b104fb71181ab6e8364c1ce2fac9e5a7acc0,g1n0st,0,0,region:us
+2026-10-15T21:31:28Z,sdsfsf56/Annoy-PyEdu-Rs,sdsfsf56,0,0,region:us
+2026-10-15T21:31:28Z,sdsfsf56/Annoy-PyEdu-Rs-Raw,sdsfsf56,0,0,region:us
+2026-10-15T21:32:28Z,g1n0st/2fb645c480a429e9dc9ffdcb2509160f3c1d701a,g1n0st,0,0,region:us
+2026-10-15T21:32:55Z,josephsmithwell/food-text-tabular,josephsmithwell,0,0,license:apache-2.0; region:us; dataset; food; text-tabular
+2026-10-15T21:33:15Z,ArrowLabs/ArrowBench-Instruct,ArrowLabs,0,1,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library…
+2026-10-15T21:33:54Z,g1n0st/c7d1f6ffa7d7480b8ed5180b6c681e88186cbbbb,g1n0st,0,0,region:us
+2026-10-15T21:34:02Z,ffatty/plaintext-wikipedia-full-bashkir,ffatty,0,0,language:ba; license:cc-by-sa-3.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T21:34:24Z,karanpateliah/traffic-corpus,karanpateliah,0,0,license:mit; region:us; dataset; traffic; audio-video
+2026-10-15T21:36:47Z,Skskskd/matematica-portugues,Skskskd,0,0,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:38:02Z,SubhVW/my_output_repo,SubhVW,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:38:36Z,beltranmateo69/viper-b601-frutas-biches,beltranmateo69,0,0,region:us
+2026-10-15T21:38:52Z,asdsdSADASD1/Annoy-PyEdu-Rs,asdsdSADASD1,0,0,region:us
+2026-10-15T21:38:52Z,asdsdSADASD1/Annoy-PyEdu-Rs-Raw,asdsdSADASD1,0,0,region:us
+2026-10-15T21:38:56Z,g1n0st/ea581f41d3fca3f763d7d854f3019a70ee5551b7,g1n0st,0,0,region:us
+2026-10-15T21:39:05Z,Bayanat-Labs/arabicwer-fixtures,Bayanat-Labs,0,0,task_categories:automatic-speech-recognition; language:ar; language:en; license:cc-by-4.0; size_categories:n<1K; arxiv:2205.12446; region:us; arabic; wer; cer; asr-evaluation; text-normalization; con…
+2026-10-15T21:40:26Z,headwaterai/headwater-data-preparation-engine,headwaterai,0,0,license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T21:40:30Z,KelinLiIC/Haptic-ACT,KelinLiIC,0,0,task_categories:robotics; license:mit; arxiv:2409.11925; region:us; lerobot; imitation-learning; force-torque; maniskill
+2026-10-15T21:40:56Z,hmsealy/Data_Science-22,hmsealy,0,0,license:mit; region:us
+2026-10-15T21:40:57Z,rwcitek/Data_Science-22,rwcitek,0,0,license:mit; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:40:58Z,ericbdf7/Data_Science-22,ericbdf7,0,0,region:us
+2026-10-15T21:41:02Z,timnickellddds/Data_Science-22,timnickellddds,0,0,license:mit; region:us
+2026-10-15T21:41:26Z,bunqi/OANDA_SGDJPY_SGDJPY,bunqi,0,0,region:us
+2026-10-15T21:41:31Z,gavinlaw/openlivetranslate-target-lang-probe,gavinlaw,0,0,license:cc-by-4.0; region:us
+2026-10-15T21:42:02Z,ffatty/plaintext-wikipedia-full-tatar,ffatty,0,0,language:tt; license:cc-by-sa-3.0; size_categories:1M<n<10M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T21:43:26Z,g1n0st/b8ac6a7f4e4fc84647b3d0cf81fd9dfbec2f7d05,g1n0st,0,0,region:us
+2026-10-15T21:43:27Z,g1n0st/14813fe11e1fd64e751d13fc8dd98c767110e2ae,g1n0st,0,0,region:us
+2026-10-15T21:43:27Z,g1n0st/d83ba82653b7831646ffc2a28174c109c95e4575,g1n0st,0,0,region:us
+2026-10-15T21:43:28Z,g1n0st/7b648ab07238a240932cd0b5d328477456da1fab,g1n0st,0,0,region:us
+2026-10-15T21:44:02Z,ffatty/plaintext-wikipedia-full-macedonian,ffatty,0,0,language:mk; license:cc-by-sa-3.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T21:44:03Z,rca-umb/five-desks-siblings,rca-umb,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:openenv; region:us; openenv; rei…
+2026-10-15T21:45:39Z,Strawbercar/small-model-pretraining-mix,Strawbercar,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:47:44Z,Ameyapores/haply_pick_block_eef_delta_img,Ameyapores,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-10-15T21:50:45Z,Zyszztggd/lora,Zyszztggd,0,0,region:us
+2026-10-15T21:52:46Z,YaxuanLi/final_code,YaxuanLi,0,0,region:us
+2026-10-15T21:54:10Z,attackerdfgfgds/hunthigh-pt-probe,attackerdfgfgds,0,0,region:us
+2026-10-15T21:54:14Z,shj-ames/ml-security,shj-ames,0,0,license:cc-by-4.0; region:us; dataset; security; audio-text
+2026-10-15T21:55:09Z,timodonnell/helico-foldbench-eval-v1,timodonnell,0,0,region:us
+2026-10-15T21:56:26Z,attackerdfgfgds/hunthigh-pt-s391,attackerdfgfgds,0,0,modality:image; region:us
+2026-10-15T21:57:54Z,ykravts/iea-energy-qa,ykravts,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:58:03Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-15T21:58:03Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-15T21:59:51Z,gap-ufg/Portuguese-IFEval,gap-ufg,0,0,task_categories:text-generation; language:pt; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2502.0…
+2026-10-15T22:00:11Z,djbrothamax/black-cultural-knowledge-graph,djbrothamax,0,0,language:en; license:cc-by-4.0; region:us; knowledge-graph; black-culture; chicago; cultural-heritage; digital-humanities
+2026-10-15T22:00:42Z,bunqi/OANDA_BTCUSD_Bitcoin,bunqi,0,0,region:us
+2026-10-15T22:01:31Z,ordlibrary/computers,ordlibrary,0,0,region:us
+2026-10-15T22:01:49Z,scratchyone/anon-greentext,scratchyone,0,1,task_categories:text-generation; language:en; size_categories:100K<n<1M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-15T22:01:52Z,TULLUS/cleand_moremilk_CoT_Reasoning_Quantom_Physics_And_Computing,TULLUS,0,0,task_categories:question-answering; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-15T22:02:34Z,attackerdfgfgds/hunthigh-pt-bytes,attackerdfgfgds,0,0,region:us
+2026-10-15T22:03:18Z,Mary-m007/Knee_classification,Mary-m007,0,0,region:us
+2026-10-15T22:05:24Z,ml-resources/Agilex_Split_Aloha_turn_on_the_bulb,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:30Z,ml-resources/Agilex_Split_Aloha_mobile_cube,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:31Z,ml-resources/Agilex_Split_Aloha_put_the_building_block_on_the_table,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:33Z,ml-resources/Agilex_Split_Aloha_move_the_small_ball,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:36Z,ml-resources/Agilex_Split_Aloha_move_the_plate,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:37Z,ml-resources/Agilex_Split_Aloha_pushing_magnet,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:40Z,ml-resources/Agilex_Split_Aloha_move_the_ball_interference,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:41Z,ml-resources/prts-agent-corpus-endfield,ml-resources,0,0,task_categories:text-retrieval; task_categories:question-answering; language:zh; license:other; region:us; arknights; arknights-endfield; game; wiki; rag; retrieval; agent
+2026-10-15T22:05:43Z,ml-resources/Agilex_Split_Aloha_move_plate,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:45Z,ml-resources/Agilex_Split_Aloha_put_in_the_pear,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:49Z,ml-resources/Agilex_Split_Aloha_cube_reset,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:50Z,ml-resources/LegalHelp-DialogData,ml-resources,0,0,task_categories:text-generation; task_categories:question-answering; language:zh; license:apache-2.0; size_categories:1K<n<10K; region:us; legal; law; dialogue; multi-turn; synthetic; sft; chinese
+2026-10-15T22:05:51Z,ml-resources/Agilex_Split_Aloha_plate_storage_bread,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:55Z,ml-resources/MaritimeOCRBench,ml-resources,0,0,task_categories:image-to-text; task_categories:visual-question-answering; task_categories:document-question-answering; language:zh; language:en; license:apache-2.0; size_categories:1K<n<10K; region:u…
+2026-10-15T22:05:55Z,ml-resources/Agilex_Split_Aloha_place_square_pyramid,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:58Z,ml-resources/Agilex_Split_Aloha_plate_storage_apple,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:05:59Z,ml-resources/Agilex_Split_Aloha_move_beverage,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:05Z,ml-resources/Agilex_Split_Aloha_movethe_position_of_the_bluetooth,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:07Z,ml-resources/Agilex_Split_Aloha_catch_the_ball,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:09Z,ml-resources/Agilex_Split_Aloha_storage_plate,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:11Z,ml-resources/Agilex_Split_Aloha_move_the_bread,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:14Z,ml-resources/Agilex_Split_Aloha_clear_the_desktop,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:14Z,ml-resources/Agilex_Split_Aloha_move_the_ball,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:16Z,ml-resources/Agilex_Split_Aloha_clean_up_the_tableware,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:18Z,ml-resources/Agilex_Split_Aloha_water_bottle_storage,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:18Z,Yiming1234/bagel-sam-eval-200,Yiming1234,0,0,task_categories:visual-question-answering; task_categories:image-segmentation; license:other; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; lib…
+2026-10-15T22:06:20Z,ml-resources/Agilex_Split_Aloha_pour_water_bottle,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:24Z,ml-resources/Agilex_Split_Aloha_move_the_cup,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:24Z,ml-resources/prts-agent-corpus-arknights,ml-resources,0,0,task_categories:text-retrieval; task_categories:question-answering; language:zh; license:other; region:us; arknights; game; wiki; rag; retrieval; agent
+2026-10-15T22:06:25Z,ml-resources/MISTD_dataset_partial_collection,ml-resources,0,0,region:us
+2026-10-15T22:06:28Z,ml-resources/NICDF-AquaSpecies,ml-resources,0,0,region:us
+2026-10-15T22:06:29Z,ml-resources/Agilex_Split_Aloha_prepare_breakfast,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:32Z,ml-resources/Agilex_Split_Aloha_fold_towel_a,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:35Z,ml-resources/Agilex_Split_Aloha_close_button,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:35Z,DrPedroEmanuel/policy-aware-trajectory-curation,DrPedroEmanuel,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; benchmark; agents; tool-use; data-curation; rsi-benchmark
+2026-10-15T22:06:37Z,ml-resources/stock_zh_a_daily,ml-resources,0,0,license:apache-2.0; region:us
+2026-10-15T22:06:38Z,ml-resources/Agilex_Split_Aloha_close_book,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:40Z,ml-resources/Agilex_Split_Aloha_mobile_cube_blackboard,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:44Z,ml-resources/Agilex_Split_Aloha_fold_the_towel,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:46Z,ml-resources/Agilex_Split_Aloha_box_storage_chopsticks,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:47Z,ml-resources/Agilex_Split_Aloha_place_the_test_tube,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:52Z,ml-resources/NICDF-AquaDetSeg,ml-resources,0,0,region:us
+2026-10-15T22:06:54Z,ml-resources/Agilex_Split_Aloha_clean_blackboard,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:57Z,ml-resources/Agilex_Split_Aloha_turn_on_the_desk_lamp,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:57Z,ml-resources/Agilex_Split_Aloha_the_plate_holds_the_fruit,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:06:58Z,ml-resources/Agilex_Split_Aloha_turn_off_the_desk_lamp,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:02Z,ml-resources/Agilex_Split_Aloha_the_plate_holds_the_vegetables,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:03Z,ml-resources/Agilex_Split_Aloha_twist_bottle_cap,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:04Z,ml-resources/Agilex_Split_Aloha_take_out_a_pen_from_the_pen_holder,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:05Z,ml-resources/Agilex_Split_Aloha_classification_of_fruits_and_vegetables,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:06Z,ml-resources/NICDF-AquaTrack,ml-resources,0,0,region:us
+2026-10-15T22:07:08Z,ml-resources/Agilex_Split_Aloha_pull_zipper,ml-resources,0,0,license:apache-2.0; arxiv:2511.17441; region:us
+2026-10-15T22:07:11Z,ml-resources/Agilex_Split_Aloha_plate_storaje_baozi,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:12Z,ml-resources/Agilex_Split_Aloha_pour_drink,ml-resources,0,0,license:apache-2.0; arxiv:2511.17441; region:us
+2026-10-15T22:07:15Z,ml-resources/Agilex_Split_Aloha_classification_of_tableware,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:18Z,ml-resources/Agilex_Split_Aloha_take_out_the_bread,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:20Z,ml-resources/Agilex_Split_Aloha_take_the_shoes_off_the_shelf,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:23Z,ml-resources/Agilex_Split_Aloha_pot_storage_steamer,ml-resources,0,0,license:apache-2.0; arxiv:2511.17441; region:us
+2026-10-15T22:07:26Z,ml-resources/Agilex_Split_Aloha_steamer_storage_dumpling,ml-resources,0,0,license:apache-2.0; arxiv:2511.17441; region:us
+2026-10-15T22:07:26Z,ml-resources/Agilex_Split_Aloha_the_box_stores_table_tennis_balls,ml-resources,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2511.17441; region:us; robotics; lerobot; RoboCOIN; agilex; aloha; split-aloha; bimanual; manipulation; teleoperation
+2026-10-15T22:07:28Z,ml-resources/industry-lm-dataset,ml-resources,0,0,region:us
+2026-10-15T22:08:30Z,ml-resources/VLA-Challenge-Dataset,ml-resources,0,0,license:apache-2.0; region:us
+2026-10-15T22:08:33Z,ml-resources/MiniMax-H3-Self-Generated-Dataset,ml-resources,0,0,region:us
+2026-10-15T22:08:34Z,ml-resources/Indoor_UAV,ml-resources,0,0,region:us
+2026-10-15T22:11:19Z,ml-resources/RoboMIND2.0-Tienkung-sim,ml-resources,0,0,region:us
+2026-10-15T22:11:23Z,ml-resources/RoboMIND2.0-Tianyi-mobile,ml-resources,0,0,region:us
+2026-10-15T22:11:25Z,ml-resources/RoboMIND2.0-UR5-Dex,ml-resources,0,0,region:us
+2026-10-15T22:11:33Z,ml-resources/RoboMIND2.0-Tianyi,ml-resources,0,0,region:us
+2026-10-15T22:11:34Z,cybersec-org-za/nina-specialists,cybersec-org-za,0,0,region:us
+2026-10-15T22:11:35Z,ml-resources/RoboMIND2.0-Franka-sim,ml-resources,0,0,region:us
+2026-10-15T22:11:36Z,bunqi/OANDA_USDJPY_USDJPY,bunqi,0,0,region:us
+2026-10-15T22:11:39Z,ml-resources/RoboMIND2.0-Ark-mobile,ml-resources,0,0,region:us
+2026-10-15T22:11:47Z,ml-resources/RoboMIND2.0-Tienkung,ml-resources,0,0,region:us
+2026-10-15T22:12:01Z,ml-resources/RoboMIND2.0-Franka-Part-4,ml-resources,0,0,region:us
+2026-10-15T22:12:15Z,ml-resources/RoboMIND2.0-Franka-Part-5,ml-resources,0,0,region:us
+2026-10-15T22:12:31Z,ml-resources/RoboMIND2.0-Franka-Part-1,ml-resources,0,0,region:us
+2026-10-15T22:12:38Z,gagandeepreehal/indus-ad-assets,gagandeepreehal,0,0,license:cc-by-nc-4.0; region:us
+2026-10-15T22:12:43Z,ml-resources/RoboMIND2.0-Franka-Part-2,ml-resources,0,0,region:us
+2026-10-15T22:12:53Z,ml-resources/RoboMIND2.0-Agilex-mobile,ml-resources,0,0,region:us
+2026-10-15T22:12:57Z,briansmithmi/text-tabular-dataset,briansmithmi,0,0,license:mit; region:us; dataset; ocean; text-tabular
+2026-10-15T22:13:07Z,ml-resources/RoboMIND2.0-Ark,ml-resources,0,0,region:us
+2026-10-15T22:13:19Z,ml-resources/RoboMIND2.0-Agilex,ml-resources,0,0,region:us
+2026-10-15T22:13:27Z,attackerdfgfgds/hunthigh-pt-depth,attackerdfgfgds,0,0,region:us
+2026-10-15T22:13:31Z,ml-resources/RoboMIND2.0-Franka-Part-3,ml-resources,0,0,region:us
+2026-10-15T22:13:45Z,ml-resources/RoboMIND2.0-UR5,ml-resources,0,0,region:us
+2026-10-15T22:13:59Z,ml-resources/Esports_world_model_datasets,ml-resources,0,0,region:us
+2026-10-15T22:14:12Z,sad1dsa12/Annoy-PyEdu-Rs,sad1dsa12,0,0,region:us
+2026-10-15T22:14:13Z,sad1dsa12/Annoy-PyEdu-Rs-Raw,sad1dsa12,0,0,region:us
+2026-10-15T22:14:47Z,Delacruzdiw/sound-events-pointcloud-text,Delacruzdiw,0,0,license:mit; region:us; dataset; sound-events; pointcloud-text
+2026-10-15T22:14:52Z,ASD1DA1AE13231/Annoy-PyEdu-Rs,ASD1DA1AE13231,0,0,region:us
+2026-10-15T22:14:53Z,ASD1DA1AE13231/Annoy-PyEdu-Rs-Raw,ASD1DA1AE13231,0,0,region:us
+2026-10-15T22:14:59Z,liuftrwrtw/Annoy-PyEdu-Rs,liuftrwrtw,0,0,region:us
+2026-10-15T22:14:59Z,liuftrwrtw/Annoy-PyEdu-Rs-Raw,liuftrwrtw,0,0,region:us
+2026-10-15T22:15:29Z,ml-resources/music-scores-collection,ml-resources,0,0,region:us
+2026-10-15T22:18:42Z,ml-resources/droid-atomic-actions,ml-resources,0,0,region:us
+2026-10-15T22:19:03Z,togethercomputer-ablations/apex-qwen27b-rl-service-final-checkpoint-trajectories-20261015,togethercomputer-ablations,0,0,license:cc-by-4.0; region:us
+2026-10-15T22:19:27Z,windmirror/tutorial_data,windmirror,0,0,license:other; region:us
+2026-10-15T22:20:01Z,log-rwth-aachen/ZINC20_HA45,log-rwth-aachen,0,0,region:us
