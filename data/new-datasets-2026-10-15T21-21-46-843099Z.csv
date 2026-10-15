@@ -1,0 +1,111 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T20:20:51Z,ffatty/plaintext-wikipedia-full-kyrgyz,ffatty,0,0,language:ky; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:22:30Z,ffatty/plaintext-wikipedia-full-tajik,ffatty,0,0,language:tg; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:23:17Z,mcarroll101/HChallenge-mug-pnp,mcarroll101,0,0,task_categories:robotics; license:cc-by-4.0; region:us
+2026-10-15T20:23:55Z,ffatty/plaintext-wikipedia-full-sinhala,ffatty,0,0,language:si; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:24:52Z,ffatty/plaintext-wikipedia-full-gujarati,ffatty,0,0,language:gu; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:25:52Z,mmargenot/ds-clairvoyante,mmargenot,0,0,license:apache-2.0; region:us
+2026-10-15T20:27:07Z,akhaliq/flux3-multiple-angles-train-4k,akhaliq,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T20:27:16Z,ffatty/plaintext-wikipedia-full-assamese,ffatty,0,0,language:as; license:cc-by-sa-3.0; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T20:27:17Z,henribonamy/AUV_Bench,henribonamy,0,0,task_categories:other; license:other; size_categories:1K<n<10K; region:us; ui; web-ui; aesthetics; benchmark; multimodal; vision-language
+2026-10-15T20:28:12Z,ffatty/plaintext-wikipedia-full-burmese,ffatty,0,0,language:my; license:cc-by-sa-3.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T20:29:01Z,ffatty/plaintext-wikipedia-full-khmer,ffatty,0,0,language:km; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:29:25Z,ffatty/plaintext-wikipedia-full-lao,ffatty,0,0,language:lo; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:30:31Z,pracooljain/go_emotions,pracooljain,0,0,task_categories:text-classification; task_ids:multi-class-classification; task_ids:multi-label-classification; annotations_creators:crowdsourced; language_creators:found; multilinguality:monolingual;…
+2026-10-15T20:31:52Z,ffatty/plaintext-wikipedia-full-sundanese,ffatty,0,0,language:su; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:32:10Z,ffatty/plaintext-wikipedia-full-javanese,ffatty,0,0,language:jv; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:32:16Z,isaiahbjork/rehearse-nist-round8-insert-dr-v1,isaiahbjork,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:3d; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pa…
+2026-10-15T20:32:23Z,mteb/Vidore3FinanceFrNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:33:04Z,ffatty/plaintext-wikipedia-full-acehnese,ffatty,0,0,language:ace; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:34:31Z,ffatty/plaintext-wikipedia-full-minangkabau,ffatty,0,0,language:min; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:34:36Z,michaelreye/document-ocr-text-tabular-v2-2024,michaelreye,0,0,license:cc-by-4.0; region:us; dataset; document-ocr; text-tabular
+2026-10-15T20:35:23Z,mteb/Vidore3IndustrialNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:35:31Z,ffatty/plaintext-wikipedia-full-balinese,ffatty,0,0,language:ban; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:36:06Z,ffatty/plaintext-wikipedia-full-central-bikol,ffatty,0,0,language:bcl; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:36:52Z,ffatty/plaintext-wikipedia-full-ilocano,ffatty,0,0,language:ilo; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:37:17Z,ffatty/plaintext-wikipedia-full-kapampangan,ffatty,0,0,language:pam; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:37:31Z,bunqi/OANDA_UK100GBP_UK-100,bunqi,0,0,region:us
+2026-10-15T20:37:41Z,ffatty/plaintext-wikipedia-full-pangasinan,ffatty,0,0,language:pag; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:38:02Z,ffatty/plaintext-wikipedia-full-xhosa,ffatty,0,0,language:xh; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:39:07Z,mteb/Vidore3PharmaceuticalsNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:41:39Z,mteb/Vidore3ComputerScienceNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:42:29Z,Angais/krea-2-pixelart-16x16-synthetic,Angais,0,1,task_categories:text-to-image; license:cc0-1.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; pixel-art; sprites; game-ass…
+2026-10-15T20:42:49Z,FXFunds/fxfunds-market-categories,FXFunds,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fx…
+2026-10-15T20:43:52Z,msubash96/odoo-model-changes,msubash96,0,0,language:en; license:lgpl-3.0; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; odoo; erp; code; software-upgra…
+2026-10-15T20:44:06Z,mteb/Vidore3HrNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:45:19Z,lopotaru/anthropomimetic-uncertainty,lopotaru,0,0,language:en; license:apache-2.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:45:29Z,rnaveenpatil/app_reviews,rnaveenpatil,0,0,task_categories:text-classification; task_ids:text-scoring; task_ids:sentiment-scoring; annotations_creators:crowdsourced; language_creators:crowdsourced; multilinguality:monolingual; source_datasets…
+2026-10-15T20:46:35Z,contextcup/Annoy-PyEdu-Rs,contextcup,0,0,region:us
+2026-10-15T20:46:35Z,contextcup/Annoy-PyEdu-Rs-Raw,contextcup,0,0,region:us
+2026-10-15T20:46:37Z,mteb/Vidore3EnergyNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:47:02Z,PureOne/CAELQ-VAEIL-LUMEN-3-Exact-Noninteger-Signature-Tails,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; rough…
+2026-10-15T20:48:00Z,ffatty/plaintext-wikipedia-full-galician,ffatty,0,0,language:gl; license:cc-by-sa-3.0; modality:text; region:us
+2026-10-15T20:49:38Z,jayang99/image-audio-corpus,jayang99,0,0,license:cc-by-4.0; region:us; dataset; gaming; image-audio
+2026-10-15T20:49:50Z,ASD2SAC21D/Annoy-PyEdu-Rs,ASD2SAC21D,0,0,region:us
+2026-10-15T20:49:51Z,ASD2SAC21D/Annoy-PyEdu-Rs-Raw,ASD2SAC21D,0,0,region:us
+2026-10-15T20:49:57Z,mteb/Vidore3PhysicsNemotron35Embed8BReranking.v2,mteb,0,0,task_categories:visual-document-retrieval; task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-text; annotations_creators:derived; multilinguality:translated;…
+2026-10-15T20:51:29Z,sac12xczdsae21e/Annoy-PyEdu-Rs,sac12xczdsae21e,0,0,region:us
+2026-10-15T20:51:31Z,sac12xczdsae21e/Annoy-PyEdu-Rs-Raw,sac12xczdsae21e,0,0,region:us
+2026-10-15T20:53:06Z,ffatty/plaintext-wikipedia-full-west-frisian,ffatty,0,0,language:fy; license:cc-by-sa-3.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T20:55:39Z,bunqi/OANDA_XAGJPY_SilverJPY,bunqi,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T20:56:40Z,ffatty/plaintext-wikipedia-full-luxembourgish,ffatty,0,0,language:lb; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:56:43Z,Valter3B/Campaign_Logs,Valter3B,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-15T20:57:10Z,chimneyrepairguide/well-drilling-cost-register-us-2026,chimneyrepairguide,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prices; water-well…
+2026-10-15T20:58:16Z,ffatty/plaintext-wikipedia-full-maltese,ffatty,0,0,language:mt; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:58:19Z,copernicus-argentina/desierto-florido-atacama-2026,copernicus-argentina,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:geospatial; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-15T20:59:11Z,ffatty/plaintext-wikipedia-full-shona,ffatty,0,0,language:sn; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:59:53Z,ffatty/plaintext-wikipedia-full-southern-sotho,ffatty,0,0,language:st; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T20:59:54Z,hmsealy/example,hmsealy,0,0,region:us
+2026-10-15T20:59:57Z,ericbdf7/example,ericbdf7,0,0,region:us
+2026-10-15T21:00:01Z,timnickellddds/example,timnickellddds,0,0,license:mit; region:us
+2026-10-15T21:00:09Z,jshriver/chessvision-jbc,jshriver,0,0,license:odbl; region:us
+2026-10-15T21:00:14Z,cdli/ugandan_luganda_nonstandard_speech_v1.1,cdli,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T21:00:45Z,ffatty/plaintext-wikipedia-full-twi,ffatty,0,0,language:tw; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:01:34Z,ffatty/plaintext-wikipedia-full-oromo,ffatty,0,0,language:om; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:01:49Z,rwcitek/example,rwcitek,0,0,license:mit; region:us
+2026-10-15T21:01:51Z,embodied-analysis/abc-sft,embodied-analysis,0,0,region:us
+2026-10-15T21:02:12Z,LSW142857/OPSD-PI-MultiRepo-Student-Fail-1024,LSW142857,0,0,language:en; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; opsd; privileged-information; software-engineering…
+2026-10-15T21:02:15Z,LSW142857/OPSD-PI-MultiRepo-All-Outcomes-1024,LSW142857,0,0,language:en; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; opsd; privileged-information; software-engineering…
+2026-10-15T21:02:20Z,ffatty/plaintext-wikipedia-full-tsonga,ffatty,0,0,language:ts; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:03:44Z,ffatty/plaintext-wikipedia-full-tswana,ffatty,0,0,language:tn; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:04:41Z,SubhVW/my_filtered_videos,SubhVW,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:04:50Z,ffatty/plaintext-wikipedia-full-kinyarwanda,ffatty,0,0,language:rw; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:05:10Z,GL3MON/llmrouterbench-modernbert-embeddings,GL3MON,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:05:22Z,ahmedsamirtarjama/arabic-dots-mocr-r3-data,ahmedsamirtarjama,0,0,task_categories:image-to-text; language:ar; language:en; size_categories:10K<n<100K; region:us; ocr; arabic; document-parsing; layout; forms; handwriting; synthetic
+2026-10-15T21:05:25Z,swdq/ja-agentic-code-creative,swdq,0,0,task_categories:text-generation; language:ja; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; a…
+2026-10-15T21:05:56Z,ffatty/plaintext-wikipedia-full-luganda,ffatty,0,0,language:lg; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:08:05Z,ffatty/plaintext-wikipedia-full-haitian-creole,ffatty,0,0,language:ht; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:08:17Z,pochechka/the-reactor-core-dvc,pochechka,0,0,region:us
+2026-10-15T21:08:40Z,antonitsin/cube-grasp-visual_20261015_140114,antonitsin,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T21:08:50Z,ffatty/plaintext-wikipedia-full-papiamento,ffatty,0,0,language:pap; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:09:31Z,ffatty/plaintext-wikipedia-full-jamaican-patois,ffatty,0,0,language:jam; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:10:08Z,sadasgasdsdfa/Annoy-PyEdu-Rs,sadasgasdsdfa,0,0,region:us
+2026-10-15T21:10:09Z,sadasgasdsdfa/Annoy-PyEdu-Rs-Raw,sadasgasdsdfa,0,0,region:us
+2026-10-15T21:10:09Z,LSW142857/OPSD-SFT-OpenSWE-v1.2-Qwen35-9B,LSW142857,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; code; software-engineering; sft; thinking; qwen3.5
+2026-10-15T21:10:14Z,ffatty/plaintext-wikipedia-full-fijian,ffatty,0,0,language:fj; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:10:56Z,ffatty/plaintext-wikipedia-full-bislama,ffatty,0,0,language:bi; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:11:20Z,Saifalseedi/dialectal-cultural-blindspots-evaluation,Saifalseedi,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:11:39Z,ffatty/plaintext-wikipedia-full-chamorro,ffatty,0,0,language:ch; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:12:08Z,bunqi/OANDA_ETHUSD_Ether,bunqi,0,0,region:us
+2026-10-15T21:12:30Z,ffatty/plaintext-wikipedia-full-northern-sotho,ffatty,0,0,language:nso; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:13:24Z,ffatty/plaintext-wikipedia-full-swati,ffatty,0,0,language:ss; license:cc-by-sa-3.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T21:13:55Z,antonitsin/cube-grasp-visual,antonitsin,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T21:14:13Z,ffatty/plaintext-wikipedia-full-venda,ffatty,0,0,language:ve; license:cc-by-sa-3.0; region:us
+2026-10-15T21:14:57Z,erscdsdf/Discord-conversations-unsloth,erscdsdf,0,0,region:us
+2026-10-15T21:15:03Z,ffatty/plaintext-wikipedia-full-chichewa,ffatty,0,0,language:ny; license:cc-by-sa-3.0; region:us
+2026-10-15T21:15:51Z,ffatty/plaintext-wikipedia-full-lingala,ffatty,0,0,language:ln; license:cc-by-sa-3.0; region:us
+2026-10-15T21:16:10Z,timodonnell/helico-contact-eval-v1,timodonnell,0,0,region:us; protein-structure; helico; evaluation
+2026-10-15T21:16:37Z,ffatty/plaintext-wikipedia-full-kongo,ffatty,0,0,language:kg; license:cc-by-sa-3.0; region:us
+2026-10-15T21:17:25Z,ffatty/plaintext-wikipedia-full-kirundi,ffatty,0,0,language:rn; license:cc-by-sa-3.0; region:us
+2026-10-15T21:17:32Z,kevin510/swm-ogbench-bg-hybrid-k8,kevin510,0,0,license:mit; region:us; robotics; world-model; ogbench; trajectory-ranking
+2026-10-15T21:18:04Z,ffatty/plaintext-wikipedia-full-catalan,ffatty,0,0,language:ca; license:cc-by-sa-3.0; region:us
+2026-10-15T21:18:51Z,IAExplore/iaexplore-hardware,IAExplore,0,0,license:mit; region:us
+2026-10-15T21:19:04Z,zhoumiaosen/libero_10_rgb,zhoumiaosen,0,0,task_categories:robotics; license:mit; region:us; LeRobot; libero; panda
+2026-10-15T21:19:27Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-10-15T21:19:28Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-10-15T21:19:54Z,ffatty/plaintext-wikipedia-full-wolof,ffatty,0,0,language:wo; license:cc-by-sa-3.0; region:us
+2026-10-15T21:19:59Z,Sokolovegor/architecture-audio-video-clean,Sokolovegor,0,0,license:cc-by-4.0; region:us; dataset; architecture; audio-video
+2026-10-15T21:20:04Z,bunqi/OANDA_GBPZAR_GBPZAR,bunqi,0,0,region:us
+2026-10-15T21:20:12Z,ffatty/plaintext-wikipedia-full-malagasy,ffatty,0,0,language:mg; license:cc-by-sa-3.0; region:us
+2026-10-15T21:20:17Z,Manojpatelha/robotics-image-depth-curated87,Manojpatelha,0,0,license:apache-2.0; region:us; dataset; robotics; image-depth
+2026-10-15T21:21:35Z,ffatty/plaintext-wikipedia-full-fulah,ffatty,0,0,language:ff; license:cc-by-sa-3.0; region:us
