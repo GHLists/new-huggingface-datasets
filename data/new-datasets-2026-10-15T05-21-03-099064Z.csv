@@ -1,0 +1,70 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T04:23:47Z,Seonill/anubis_bimanual1,Seonill,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-15T04:27:08Z,Leadubois06/my-comics-2024,Leadubois06,0,0,license:cc-by-4.0; region:us; dataset; comics; image-depth
+2026-10-15T04:29:03Z,NONHUMAN-RESEARCH/yellow-towel-562-piper-640,NONHUMAN-RESEARCH,0,0,region:us
+2026-10-15T04:32:34Z,Tron-Hayato/record-pick-and-stack,Tron-Hayato,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-15T04:32:53Z,senku21x/em-early-signatures-backup,senku21x,0,0,license:other; region:us; emergent-misalignment; interpretability; research-backup
+2026-10-15T04:34:25Z,Nicholas0228/hyworld-memory-scale16-prefixes,Nicholas0228,0,0,region:us
+2026-10-15T04:35:21Z,anuma/rollout_smolvla_pair2_red,anuma,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T04:42:17Z,bunqi/OANDA_CHFJPY_CHFJPY,bunqi,0,0,region:us
+2026-10-15T04:43:14Z,shrutimerch/v6-goat-pickup_20261014_211614,shrutimerch,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T04:45:16Z,Juictyn/cs546-hw2-2026,Juictyn,0,0,region:us
+2026-10-15T04:47:08Z,kiroaiseoul/eval_result_act_task06_pickup_beaker_and_move_to_refrigerator_14D_new_3,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T04:47:16Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_allin_mix2_eb48_s200_step200_camera,sanaka87,0,0,region:us
+2026-10-15T04:49:27Z,endomorphosis/ipfs_france_municipal_laws,endomorphosis,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T04:50:09Z,nilnguyen2k/mit67_official_m2_pool_txt_oof_features,nilnguyen2k,0,0,region:us
+2026-10-15T04:50:57Z,Shivaniiiiiiiii/Hftutorial,Shivaniiiiiiiii,0,0,region:us
+2026-10-15T04:52:03Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs,ASDSAD2E12EDASD,0,0,region:us
+2026-10-15T04:52:04Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs-Raw,ASDSAD2E12EDASD,0,0,region:us
+2026-10-15T04:52:23Z,Su25/vial_record_test_20261015_005044,Su25,0,0,region:us
+2026-10-15T04:53:00Z,suwaimyo/sentiment-lao-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T04:53:17Z,suwaimyo/sentiment-mya-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T04:53:53Z,THULab/freshretailnet_50k_kush316,THULab,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; arxiv:2505.16319; region:us; fresh-retail; censored-demand; hourly-stock-status…
+2026-10-15T04:53:58Z,suwaimyo/sentiment-tam-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T04:54:13Z,suwaimyo/sentiment-zsm-classification,suwaimyo,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T04:54:17Z,g1n0st/cf72b5f768adfa9635df2af2e49e5539864636ad,g1n0st,0,0,region:us
+2026-10-15T04:55:05Z,Pera321/Annoy-PyEdu-Rs,Pera321,0,0,region:us
+2026-10-15T04:55:05Z,Pera321/Annoy-PyEdu-Rs-Raw,Pera321,0,0,region:us
+2026-10-15T04:55:11Z,lqdunxgx2005/vulspan-primevul,lqdunxgx2005,0,0,license:mit; size_categories:1K<n<10K; arxiv:2403.18624; region:us; security; vulnerability-detection; code; c; cpp
+2026-10-15T04:55:58Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-10-15T04:55:59Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-10-15T04:56:30Z,JrLi403/test-dataset_20261014_235255,JrLi403,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T04:57:09Z,g1n0st/19ee79ea911b3da96142e824fe69f04e29d45788,g1n0st,0,0,region:us
+2026-10-15T04:57:14Z,g1n0st/59cc857ae0c67ef79dd1ed0f91513ed5f211281b,g1n0st,0,0,region:us
+2026-10-15T04:57:16Z,g1n0st/ce1474fbaa76c9d8accf80918f033f6e2af781a9,g1n0st,0,0,region:us
+2026-10-15T04:58:36Z,sgrespaw/Nero_Dual_Arm-WP1,sgrespaw,0,0,region:us
+2026-10-15T04:58:41Z,shrutimerch/v6-goat-pickup,shrutimerch,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-15T04:59:07Z,g1n0st/67d07889f6ea10d9086cb2a19d6de5371a1425f3,g1n0st,0,0,region:us
+2026-10-15T04:59:42Z,g1n0st/2e8b2932042bff73b6b3ff40c6abd2bb57584043,g1n0st,0,0,region:us
+2026-10-15T05:00:02Z,Su25/vial_record_test_20261015_005544,Su25,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T05:00:37Z,g1n0st/0b27fdbbf86af48b7866c5e3c4639e65c85c5eb7,g1n0st,0,0,region:us
+2026-10-15T05:01:06Z,g1n0st/d4b90e00aab7639f5a90f7e688dc32044e7be6c3,g1n0st,0,0,region:us
+2026-10-15T05:01:14Z,g1n0st/0d439aa836edb4f7ac14667be436adcb8a115c32,g1n0st,0,0,region:us
+2026-10-15T05:03:37Z,Stasidze/lang-obs-v18,Stasidze,0,0,task_categories:text-generation; language:ru; license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; diary; philosophy; ai-consciousness; sin…
+2026-10-15T05:04:39Z,Su25/Su25vial_record_test2_20261015_010402,Su25,0,0,region:us
+2026-10-15T05:04:40Z,g1n0st/cbf76a928a086d494fcc4fa2b9d301e99714e3bb,g1n0st,0,0,region:us
+2026-10-15T05:04:42Z,Sanbei101/jd-test,Sanbei101,0,0,region:us
+2026-10-15T05:05:41Z,jameswilliamswif/sound-events-samples,jameswilliamswif,0,0,license:mit; region:us; dataset; sound-events; image-depth
+2026-10-15T05:07:44Z,Gonzalezjustin/test-movie-posters,Gonzalezjustin,0,0,license:mit; region:us; dataset; movie-posters; image-audio
+2026-10-15T05:08:24Z,ChuGyouk/Qwen3.8-27B-NT-Distill-INTELLECT-3-RL,ChuGyouk,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-15T05:09:40Z,g1n0st/275047dbb41ff20100b2744c9eae45d878f5cb60,g1n0st,0,0,region:us
+2026-10-15T05:09:45Z,amongglue/topaz-shorthand-data,amongglue,0,0,region:us
+2026-10-15T05:09:52Z,justicedao/ipfs_sweden_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; sweden_municipal
+2026-10-15T05:11:52Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-15T05:12:02Z,g1n0st/cda80e51c757ea05b5ec83d38fc5def08f1d037a,g1n0st,0,0,region:us
+2026-10-15T05:12:16Z,MikeYoung123/TrojanBench,MikeYoung123,0,0,region:us
+2026-10-15T05:12:35Z,endomorphosis/ipfs_gibraltar_laws,endomorphosis,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; gibraltar
+2026-10-15T05:12:59Z,wnkh/BedBench,wnkh,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-15T05:13:26Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-15T05:13:27Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-15T05:13:39Z,kfkas/ego3-qa-imu-links,kfkas,0,0,task_categories:visual-question-answering; language:en; license:other; region:us; egocentric; streaming; video-question-answering; imu; metadata
+2026-10-15T05:13:41Z,foksiny/ACSC-STF-V3,foksiny,0,0,region:us
+2026-10-15T05:13:42Z,justicedao/ipfs_australia_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; australia_municipal
+2026-10-15T05:13:56Z,learner1119/cotap_task7_pour_into_bowl_failure,learner1119,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T05:17:26Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-10-15T05:17:27Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-10-15T05:18:10Z,psiloceyeben/oracle7-specialists,psiloceyeben,0,0,license:other; region:us; oracle7; specialists
+2026-10-15T05:19:59Z,justicedao/ipfs_new_zealand_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; new_zealand_municipal
+2026-10-15T05:20:14Z,bunion-trace-such/motion_example_0630_demo_tar,bunion-trace-such,0,0,region:us
+2026-10-15T05:20:42Z,suwaimyo/toxicity-fil-classification,suwaimyo,0,0,region:us
+2026-10-15T05:20:58Z,suwaimyo/toxicity-mya-classification,suwaimyo,0,0,region:us
