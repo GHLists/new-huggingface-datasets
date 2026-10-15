@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-14T23:22:05Z,rghosh8/opencoder-grpo-deepseek-llm-7b-chat-seed-1234-G-4-log,rghosh8,0,0,region:us
+2026-10-14T23:22:08Z,SOTAagi2030/September-Package-Register-487,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-14T23:22:11Z,SOTAagi2030/September-Component-BOM-487,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-14T23:22:18Z,khlan7/customer-support-tickets,khlan7,0,0,task_categories:text-classification; task_categories:summarization; task_categories:question-answering; language:en; language:de; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:csv; modalit…
+2026-10-14T23:22:29Z,dougalldeepmind/2026-10-15-petri-qwen36-0-plain-constitution,dougalldeepmind,0,0,license:mit; region:us; petri; model:qwen36; user-supplied
+2026-10-14T23:23:39Z,SOTAagi2030/meridian-media-inventory,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-14T23:23:42Z,SOTAagi2030/meridian-rights-profiles,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-14T23:23:54Z,techsachin/crisis-sitrep-eval,techsachin,0,0,language:en; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2610.18762;…
+2026-10-14T23:26:21Z,wileyice/kbh-underliv-outputs,wileyice,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-14T23:29:48Z,ML-Intern-lab/pre2post-chess-replication,ML-Intern-lab,0,0,region:us
+2026-10-14T23:29:51Z,g1n0st/058e62777670dbde899a2f79dfefd3d2c0d933f1,g1n0st,0,0,region:us
+2026-10-14T23:32:36Z,g1n0st/67f3b077344854875c75b4a33760bf6b85b5e0ba,g1n0st,0,0,region:us
+2026-10-14T23:33:44Z,Ajay0728/Compositional-reasoning-arithmetic-datasets,Ajay0728,0,0,task_categories:text-generation; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-10-14T23:39:30Z,turkmenx/bego-1.5b-veri,turkmenx,0,0,region:us
+2026-10-14T23:40:40Z,mayank171717/FlyLoom-v1,mayank171717,0,0,task_categories:video-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-10-14T23:42:58Z,g1n0st/d5919eb9a3b210de50dcdd997d7bce2bc9952672,g1n0st,0,0,region:us
+2026-10-14T23:43:56Z,MICHAELPHILL/movie-posters-image-audio,MICHAELPHILL,0,0,license:mit; region:us; dataset; movie-posters; image-audio
+2026-10-14T23:44:12Z,MICHAELPHILL/nlp-qa-audio-text-benchmark42,MICHAELPHILL,0,0,license:apache-2.0; region:us; dataset; nlp-qa; audio-text
+2026-10-14T23:44:38Z,senigiro/lfm2.5-24b-scaffold-agentic,senigiro,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-10-14T23:45:50Z,rudrapoudel/libero_spatial_500s_500f_episodes_blue_red,rudrapoudel,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-14T23:46:53Z,Axiva/leads-sp,Axiva,0,0,language:pt; license:odbl; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-14T23:50:36Z,mkm16207/so101_unplug_2_20261015_021247,mkm16207,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-14T23:52:13Z,dhyanishahh/babi,dhyanishahh,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2305.16264; region:us
+2026-10-14T23:57:26Z,LeHmez/monet-relaion-20k,LeHmez,0,0,task_categories:text-to-image; source_datasets:jasperai/monet; language:en; license:apache-2.0; size_categories:10K<n<100K; arxiv:2605.21272; region:us; monet; relaion; laion; text-to-image
+2026-10-14T23:58:25Z,HeadcountLabs/job-postings,HeadcountLabs,0,0,task_categories:text-classification; task_categories:tabular-regression; task_categories:text-retrieval; task_categories:feature-extraction; task_categories:time-series-forecasting; language:en; lice…
+2026-10-14T23:58:44Z,hi-todayis-jh/ouro-1.4b-thinking-pool20-math500-eval-20261013,hi-todayis-jh,0,0,region:us
+2026-10-14T23:58:52Z,yifanyu/ORL-training-data,yifanyu,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; diffusion-lm; orl; code; math
+2026-10-14T23:59:02Z,micwilliams/so101_vial_white_bowl_20261014_165505,micwilliams,0,0,region:us
+2026-10-14T23:59:29Z,idacy/undertest-replay-artifacts,idacy,0,0,region:us
+2026-10-15T00:00:30Z,mandiyaaman/synapse-titan-30b,mandiyaaman,0,0,region:us
+2026-10-15T00:00:43Z,dsixteen/Niji_1_Boy-control-captions,dsixteen,0,0,region:us
+2026-10-15T00:00:51Z,sterbentzm/RingSQL-Gen,sterbentzm,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv…
+2026-10-15T00:03:19Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-15T00:03:55Z,micwilliams/so101_vial_white_bowl_20261014_170044,micwilliams,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T00:04:07Z,listingworks/poland-job-postings-daily-2026-10,listingworks,0,0,language:pl; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; pol…
+2026-10-15T00:05:49Z,dougalldeepmind/2026-10-15-petri-constitution-qwen36-0-plain,dougalldeepmind,0,0,region:us
+2026-10-15T00:08:10Z,micwilliams/so101_vial_white_bowl_h264_test_20261014_170704,micwilliams,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T00:08:20Z,g1n0st/d9b14dfc3267bdfc005011d2e2d7375ca5533db0,g1n0st,0,0,region:us
+2026-10-15T00:09:33Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-15T00:09:33Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-15T00:09:56Z,yjoshi5379/real2sim-ketchup-D,yjoshi5379,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T00:10:01Z,yjoshi5379/real2sim-ketchup-G,yjoshi5379,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T00:13:28Z,micwilliams/so101_vial_white_bowl_h264_test_20261014_171228,micwilliams,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T00:17:38Z,micwilliams/so101_vial_white_bowl_h264_test2_20261014_171632,micwilliams,0,0,region:us
+2026-10-15T00:19:46Z,Yasshh814/gh-breakout-derived,Yasshh814,0,0,license:mit; region:us; github; gharchive; parquet; feature-store
+2026-10-15T00:19:46Z,Yasshh814/gh-breakout-events,Yasshh814,0,0,language:en; license:mit; size_categories:n<1K; region:us; github; gharchive; parquet; events; time-series
+2026-10-15T00:19:47Z,Yasshh814/gh-breakout-snapshots,Yasshh814,0,0,license:mit; region:us; github; predictions; parquet
