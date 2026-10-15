@@ -1,0 +1,136 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-15T07:23:22Z,lucasrobert/traffic-samples,lucasrobert,0,0,license:cc-by-4.0; region:us; dataset; traffic; image-text
+2026-10-15T07:23:51Z,bobbma/room,bobbma,0,0,region:us
+2026-10-15T07:25:32Z,neidaaa05/ecommerce-fraud-detection-synthetic-10k-sampl,neidaaa05,0,0,task_categories:tabular-classification; license:mit; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance;…
+2026-10-15T07:26:12Z,qingru1/faced,qingru1,0,0,region:us
+2026-10-15T07:29:07Z,zcao123/ONCship,zcao123,0,0,task_categories:audio-classification; task_categories:feature-extraction; region:us; underwater-acoustics; passive-acoustic-monitoring; vessel-classification; ship-radiated-noise; self-supervised-lea…
+2026-10-15T07:29:49Z,g1n0st/ba25a8ad5908a70cba08b759db3d516757750f1d,g1n0st,0,0,region:us
+2026-10-15T07:31:05Z,Grovia-Digital/ai-visibility-index,Grovia-Digital,0,1,language:en; language:de; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; gen…
+2026-10-15T07:31:43Z,randi233/rollout_pi05-1015A-uniform-20k-green-100s-10ep_20261015_072948,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T07:32:30Z,danielrosehill/hebrew-latin-code-switching,danielrosehill,0,0,task_categories:token-classification; language:en; language:he; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-15T07:33:11Z,kd13/faceforensics-c23-frames,kd13,0,0,region:us
+2026-10-15T07:33:25Z,s9044104/test02_20261015_162153,s9044104,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-15T07:33:29Z,coral-bricks-ai/endpoint-accuracy-replica,coral-bricks-ai,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; evaluation; inference; function-…
+2026-10-15T07:33:33Z,coral-bricks-ai/entropybench-results,coral-bricks-ai,0,0,license:mit; region:us; evaluation; agents; long-context
+2026-10-15T07:33:37Z,coral-bricks-ai/replaybench,coral-bricks-ai,0,0,license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:harbor; region:us; code; agents; softwa…
+2026-10-15T07:35:02Z,suwaimyo/seasafeguard-ccg-prompt-ind-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:35:09Z,suwaimyo/seasafeguard-ccg-response-ind-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:35:16Z,suwaimyo/seasafeguard-ccg-prompt-ind-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:35:23Z,suwaimyo/seasafeguard-ccg-response-ind-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:35:26Z,SvenBorodun/omx_f_zfrhtsefr,SvenBorodun,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-15T07:35:30Z,suwaimyo/seasafeguard-ccg-ind-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:35:37Z,suwaimyo/seasafeguard-ccg-ind-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:01Z,suwaimyo/seasafeguard-ccg-prompt-zsm-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:07Z,suwaimyo/seasafeguard-ccg-response-zsm-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:15Z,suwaimyo/seasafeguard-ccg-prompt-zsm-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:22Z,suwaimyo/seasafeguard-ccg-response-zsm-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:22Z,Misaka426/DailyBench,Misaka426,0,0,task_categories:image-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; arxiv:2607.24016; region:us; AI-Generated Image Detection; AI-Manipulated Images
+2026-10-15T07:36:30Z,suwaimyo/seasafeguard-ccg-zsm-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:33Z,nilnguyen2k/mit67_official_fusion_results_12seeds,nilnguyen2k,0,0,region:us
+2026-10-15T07:36:37Z,suwaimyo/seasafeguard-ccg-zsm-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:36:48Z,08semi/dataset1,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T07:37:05Z,suwaimyo/seasafeguard-ccg-prompt-mya-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:37:12Z,suwaimyo/seasafeguard-ccg-response-mya-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:37:20Z,suwaimyo/seasafeguard-ccg-prompt-mya-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:37:26Z,suwaimyo/seasafeguard-ccg-response-mya-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:37:35Z,suwaimyo/seasafeguard-ccg-mya-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:37:42Z,suwaimyo/seasafeguard-ccg-mya-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:38:03Z,truongnguyen09/face-anti-spoofing-dataset,truongnguyen09,0,0,task_categories:video-classification; license:cc-by-nc-4.0; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us; liveness detection; anti-spoofing;…
+2026-10-15T07:38:25Z,huangchengduo/soarm4,huangchengduo,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-15T07:38:32Z,yaoxianze/arx_cot_math,yaoxianze,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-15T07:38:38Z,suwaimyo/seasafeguard-ccg-prompt-tam-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:38:39Z,tasksource/esconv,tasksource,0,0,source_datasets:thu-coai/esconv; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-15T07:38:45Z,suwaimyo/seasafeguard-ccg-response-tam-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:38:50Z,Ameliamoorewell/music-samples18,Ameliamoorewell,0,0,license:mit; region:us; dataset; music; image-audio
+2026-10-15T07:38:52Z,suwaimyo/seasafeguard-ccg-prompt-tam-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:38:59Z,suwaimyo/seasafeguard-ccg-response-tam-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:39:03Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-15T07:39:07Z,suwaimyo/seasafeguard-ccg-tam-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:39:09Z,Ameliamoorewell/astronomy-video-text,Ameliamoorewell,0,0,license:cc-by-4.0; region:us; dataset; astronomy; video-text
+2026-10-15T07:39:14Z,suwaimyo/seasafeguard-ccg-tam-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:39:49Z,pixelouie/rollout_oman_workshop_model_trash_20261015_093446,pixelouie,0,0,region:us
+2026-10-15T07:41:04Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-10-15T07:41:05Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
+2026-10-15T07:42:01Z,mimiminsoo/V2_packing_1012_87ep,mimiminsoo,0,0,task_categories:robotics; license:other; region:us; diffusion-policy; bimanual; piper; packing; zarr
+2026-10-15T07:42:27Z,Donghyun1228/libero-support-random-waypoint-300k-20261015,Donghyun1228,0,0,region:us; robotics; libero; random-probing; lossless
+2026-10-15T07:43:47Z,Ali000007/gemma4-cleaned-dataset,Ali000007,0,0,language:en; license:mit; size_categories:100K<n<1M; region:us
+2026-10-15T07:43:48Z,endomorphosis/ipfs_germany_municipal_laws,endomorphosis,0,0,region:us
+2026-10-15T07:44:22Z,g1n0st/90588d8758112df6219028d2293241ff2220fcc0,g1n0st,0,0,region:us
+2026-10-15T07:44:31Z,Roryaccout/AdaExploreBench,Roryaccout,0,1,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; llm-agents; exploration; adaptation; rule-i…
+2026-10-15T07:45:14Z,suwaimyo/seasafeguard-ccg-prompt-tha-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:45:21Z,suwaimyo/seasafeguard-ccg-response-tha-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:45:23Z,duyle2408/fcos-tinyperson-eval-20261015-runs,duyle2408,0,0,region:us
+2026-10-15T07:45:29Z,suwaimyo/seasafeguard-ccg-prompt-tha-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:45:30Z,NataliaFrancine/Annoy-PyEdu-Rs,NataliaFrancine,0,0,region:us
+2026-10-15T07:45:31Z,NataliaFrancine/Annoy-PyEdu-Rs-Raw,NataliaFrancine,0,0,region:us
+2026-10-15T07:45:35Z,suwaimyo/seasafeguard-ccg-response-tha-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:45:44Z,suwaimyo/seasafeguard-ccg-tha-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:45:52Z,suwaimyo/seasafeguard-ccg-tha-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:19Z,suwaimyo/seasafeguard-ccg-prompt-fil-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:19Z,ayeshag7/fineweb-edu-2015-qwen2-full,ayeshag7,0,0,region:us
+2026-10-15T07:46:25Z,suwaimyo/seasafeguard-ccg-response-fil-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:33Z,suwaimyo/seasafeguard-ccg-prompt-fil-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:39Z,suwaimyo/seasafeguard-ccg-response-fil-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:44Z,xxxspatialencoderinfinigen5/raw_data_infinigen5,xxxspatialencoderinfinigen5,0,0,region:us
+2026-10-15T07:46:47Z,suwaimyo/seasafeguard-ccg-fil-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:46:53Z,suwaimyo/seasafeguard-ccg-fil-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:47:53Z,SoftPos79/RiskAssureDS02,SoftPos79,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:datadesigner; region:us; synthetic; datadesigner
+2026-10-15T07:47:54Z,suwaimyo/seasafeguard-ccg-prompt-vie-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:48:00Z,suwaimyo/seasafeguard-ccg-response-vie-classification,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:48:07Z,suwaimyo/seasafeguard-ccg-prompt-vie-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:48:14Z,suwaimyo/seasafeguard-ccg-response-vie-bitextmining,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:48:21Z,suwaimyo/seasafeguard-ccg-vie-qaretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:48:28Z,suwaimyo/seasafeguard-ccg-vie-instructionretrieval,suwaimyo,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-15T07:49:33Z,Nouse2005khaniya/IMDB-Reviews,Nouse2005khaniya,0,0,task_categories:text-classification; task_ids:sentiment-classification; annotations_creators:crowd-sourced; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-sa-4.0; s…
+2026-10-15T07:49:57Z,sanaka87/openve_fixed_bernini14b_vmse_t1s1r1_lr5e5_step150,sanaka87,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-15T07:51:07Z,bunqi/OANDA_GBPUSD_GBPUSD,bunqi,0,0,region:us
+2026-10-15T07:52:18Z,icdn19/content-20261015548a,icdn19,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-15T07:52:18Z,icdn15/content-202610154eab,icdn15,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-15T07:52:43Z,hx24/spatial-nav-100k-dataset,hx24,0,0,region:us
+2026-10-15T07:52:46Z,ZHUZHUHENG/behavior2026-v1-rollouts,ZHUZHUHENG,0,0,region:us
+2026-10-15T07:53:44Z,PrometheusEXE/Tags-for-Autocomplete,PrometheusEXE,0,0,region:us
+2026-10-15T07:56:06Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-10-15T07:57:16Z,mariasmirnov/audio-video-dataset,mariasmirnov,0,0,license:mit; region:us; dataset; travel; audio-video
+2026-10-15T07:58:05Z,mdrafsanisdani/Peregrine-Dataset-v2023-11,mdrafsanisdani,0,0,task_categories:image-segmentation; task_categories:object-detection; language:en; license:other; size_categories:10K<n<100K; region:us; additive-manufacturing; laser-powder-bed-fusion; lpbf; anomaly…
+2026-10-15T07:58:50Z,dougalldeepmind/2026-10-15-mask-gptoss120b-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:gptoss120b; mode:think
+2026-10-15T07:59:44Z,Amrit221/vex-0-agent-instruct,Amrit221,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents;…
+2026-10-15T08:00:56Z,g1n0st/e827c15ab1bbeba6d08911d8888ca53349c939d3,g1n0st,0,0,region:us
+2026-10-15T08:02:50Z,asd123dxa3xczcq/Annoy-PyEdu-Rs,asd123dxa3xczcq,0,0,region:us
+2026-10-15T08:02:51Z,asd123dxa3xczcq/Annoy-PyEdu-Rs-Raw,asd123dxa3xczcq,0,0,region:us
+2026-10-15T08:03:31Z,kobayashi1225/record-test_10_20261015_164409,kobayashi1225,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T08:04:39Z,asdx123xx/asd,asdx123xx,0,0,region:us
+2026-10-15T08:04:39Z,Justalejandromunoz/multimodal3-dataset,Justalejandromunoz,0,0,license:mit; region:us; dataset; comics; multimodal3
+2026-10-15T08:05:07Z,leapshared/SciEdu_mineral_steps_20261015_155610,leapshared,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T08:06:37Z,cupnb/isaacsim_step-0_0.0.3,cupnb,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-15T08:07:51Z,randi233/rollout_pi05-1015A-uniform-20k-green-episodic-10ep_20261015_074211,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-15T08:08:14Z,jihuawei/mem_touch_easy,jihuawei,0,0,region:us
+2026-10-15T08:08:20Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-15T08:08:21Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-15T08:09:23Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-15T08:10:01Z,echoxin/emilia-ja,echoxin,0,0,region:us
+2026-10-15T08:10:14Z,ulamai/UnsolvedPhysics,ulamai,0,0,task_categories:question-answering; task_categories:text-retrieval; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; physics; open-problems; uns…
+2026-10-15T08:10:35Z,tuyentran4992/ai-jobs-sample,tuyentran4992,0,0,task_categories:tabular-classification; language:en; license:cc0-1.0; region:us; jobs; artificial-intelligence; machine-learning; hiring; labor-market
+2026-10-15T08:13:07Z,joshua-ross/audio-text-samples,joshua-ross,0,0,license:cc-by-4.0; region:us; dataset; news-media; audio-text
+2026-10-15T08:14:08Z,felsager/vla_cubes_val_2_1_epis,felsager,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-15T08:15:03Z,chy-oung/robotics-pointcloud-text-v2-2023,chy-oung,0,0,license:apache-2.0; region:us; dataset; robotics; pointcloud-text
+2026-10-15T08:15:04Z,ulamai/UnsolvedBiology,ulamai,0,0,task_categories:question-answering; task_categories:text-retrieval; annotations_creators:expert-generated; annotations_creators:machine-generated; multilinguality:monolingual; source_datasets:origina…
+2026-10-15T08:15:04Z,maturean/Adobe_Software_Collection,maturean,0,0,region:us
+2026-10-15T08:15:32Z,ulamai/UnsolvedChemistry,ulamai,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:text-retrieval; annotations_creators:expert-generated; annotations_creators:machine-generated; multilinguality:mon…
+2026-10-15T08:17:27Z,g1n0st/5c435861e05f4b425442e5ccea389886ce084067,g1n0st,0,0,region:us
+2026-10-15T08:18:19Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-10-15T08:18:20Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-10-15T08:18:27Z,laion/Scientific-Summaries-KU-Fixes,laion,0,0,license:cc-by-4.0; region:us; science; data-cleaning; errata
+2026-10-15T08:18:41Z,suwaimyo/seasafeguard-wild-ind-classification,suwaimyo,0,0,region:us
+2026-10-15T08:18:48Z,suwaimyo/seasafeguard-wild-ind-bitextmining,suwaimyo,0,0,region:us
+2026-10-15T08:18:57Z,caoxiaoyuyuyuyuyuyuyu/Annoy-PyEdu-Rs,caoxiaoyuyuyuyuyuyuyu,0,0,region:us
+2026-10-15T08:18:59Z,caoxiaoyuyuyuyuyuyuyu/Annoy-PyEdu-Rs-Raw,caoxiaoyuyuyuyuyuyuyu,0,0,region:us
+2026-10-15T08:19:02Z,suwaimyo/seasafeguard-wild-zsm-classification,suwaimyo,0,0,region:us
+2026-10-15T08:19:09Z,suwaimyo/seasafeguard-wild-zsm-bitextmining,suwaimyo,0,0,region:us
+2026-10-15T08:19:15Z,Stage-org/appworld-study-300-tmp,Stage-org,0,0,region:us
+2026-10-15T08:19:23Z,suwaimyo/seasafeguard-wild-mya-classification,suwaimyo,0,0,region:us
+2026-10-15T08:19:29Z,suwaimyo/seasafeguard-wild-mya-bitextmining,suwaimyo,0,0,region:us
+2026-10-15T08:19:58Z,suwaimyo/seasafeguard-wild-tam-classification,suwaimyo,0,0,region:us
+2026-10-15T08:20:05Z,suwaimyo/seasafeguard-wild-tam-bitextmining,suwaimyo,0,0,region:us
+2026-10-15T08:20:28Z,Jlz2/AUDIO,Jlz2,0,0,license:apache-2.0; region:us
+2026-10-15T08:20:46Z,exaone-share/Annoy-PyEdu-Rs,exaone-share,0,0,region:us
+2026-10-15T08:20:47Z,exaone-share/Annoy-PyEdu-Rs-Raw,exaone-share,0,0,region:us
