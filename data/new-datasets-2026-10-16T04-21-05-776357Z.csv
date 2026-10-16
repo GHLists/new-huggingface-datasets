@@ -1,0 +1,130 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-16T03:21:25Z,Knowin-29/KnowinRouter,Knowin-29,0,0,task_categories:visual-question-answering; language:en; region:us; knowinrouter; coming-soon
+2026-10-16T03:21:31Z,KoukiHagiwara/eval_act_stl_4cam_no_fixed_corner_20261016_121634,KoukiHagiwara,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-16T03:21:52Z,keywordbarrage/logistics-shipping-freight,keywordbarrage,0,0,task_categories:tabular-classification; license:mit; region:us; web-scraping; dataset; enterprise
+2026-10-16T03:21:57Z,Davidilikeu/DesignMaterials,Davidilikeu,0,0,region:us
+2026-10-16T03:22:10Z,ASD12ED31231/Annoy-PyEdu-Rs,ASD12ED31231,0,0,region:us
+2026-10-16T03:22:11Z,ASD12ED31231/Annoy-PyEdu-Rs-Raw,ASD12ED31231,0,0,region:us
+2026-10-16T03:22:41Z,asd12dsa21/Annoy-PyEdu-Rs,asd12dsa21,0,0,region:us
+2026-10-16T03:22:42Z,asd12dsa21/Annoy-PyEdu-Rs-Raw,asd12dsa21,0,0,region:us
+2026-10-16T03:23:27Z,keywordbarrage/marine-boat-parts-intelligence,keywordbarrage,0,0,task_categories:tabular-classification; license:mit; region:us; web-scraping; dataset; enterprise
+2026-10-16T03:24:46Z,keywordbarrage/motorcycle-powersports-parts-intelligence,keywordbarrage,0,0,task_categories:tabular-classification; license:mit; region:us; web-scraping; dataset; enterprise
+2026-10-16T03:25:39Z,g1n0st/36a4b4873461255db9abea9edd1e2e68c40619bb,g1n0st,0,0,region:us
+2026-10-16T03:26:09Z,keywordbarrage/real-estate-property-portals,keywordbarrage,0,0,task_categories:tabular-classification; license:mit; region:us; web-scraping; dataset; enterprise
+2026-10-16T03:26:30Z,bizhi-1024/huayuspider_java,bizhi-1024,0,0,region:us
+2026-10-16T03:26:48Z,Liangzhi-Li/t2i-eval-toolkit-assets,Liangzhi-Li,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-16T03:26:48Z,justicedao/ipfs_egypt_governorate_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:ar; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-16T03:27:00Z,justicedao/ipfs_south_africa_provincial_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-10-16T03:27:02Z,lyonfournier/comics-pointcloud-text-v2,lyonfournier,0,0,license:apache-2.0; region:us; dataset; comics; pointcloud-text
+2026-10-16T03:27:09Z,g1n0st/92b74dd04d55561910791179e38d5a9be95fc7d3,g1n0st,0,0,region:us
+2026-10-16T03:27:41Z,keywordbarrage/specialized-niche-scrapers,keywordbarrage,0,0,task_categories:tabular-classification; license:mit; region:us; web-scraping; dataset; enterprise
+2026-10-16T03:27:48Z,Mr-whrly/toolchain,Mr-whrly,0,0,region:us
+2026-10-16T03:29:24Z,g1n0st/b21bc84b2d4b48b0c35f1eee9dd1e888a214151d,g1n0st,0,0,region:us
+2026-10-16T03:29:24Z,g1n0st/6bda3283d31281200c7955ef32870a0c2a8389d8,g1n0st,0,0,region:us
+2026-10-16T03:29:37Z,g1n0st/4e2a4b0d0ecff8c1d4e4e633f7865a40d8c20ceb,g1n0st,0,0,region:us
+2026-10-16T03:29:38Z,YuhongLiu/SpatialASM-RL-58k,YuhongLiu,0,0,license:mit; region:us
+2026-10-16T03:29:39Z,g1n0st/4633e3992182057d2216fa076acfe6415b677ed1,g1n0st,0,0,region:us
+2026-10-16T03:30:17Z,g1n0st/bd034a7c2d80f2a145eef6e09b47fabf2491dd24,g1n0st,0,0,region:us
+2026-10-16T03:30:18Z,g1n0st/9e95f531c1110e3a27a1006009e63f3c2e9b9e35,g1n0st,0,0,region:us
+2026-10-16T03:30:19Z,g1n0st/37e067b75195fb39491e45b5b3f3847dae015c23,g1n0st,0,0,region:us
+2026-10-16T03:30:30Z,JWei05/deepscaler-easy10k-v2-skyrl,JWei05,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-16T03:31:09Z,g1n0st/7769168b3d9ee137a9af08011f1e01d213e66f20,g1n0st,0,0,region:us
+2026-10-16T03:31:13Z,g1n0st/e0ab88d2dfcb76d408b3f8b6a00f503e84f7a12f,g1n0st,0,0,region:us
+2026-10-16T03:31:16Z,g1n0st/dc2f63d8b52d130ddbb9779ed330cfafbd26a1f8,g1n0st,0,0,region:us
+2026-10-16T03:31:47Z,whkkkk/SwissCrop25,whkkkk,0,0,task_categories:image-segmentation; task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:…
+2026-10-16T03:32:04Z,ArianneGalfre/divinatory-and-esoteric-glossary,ArianneGalfre,0,1,language:fr; license:cc-by-nc-nd-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; doi:10.57967/hf/11011;…
+2026-10-16T03:32:18Z,toolathlon-eval-12/Annoy-PyEdu-Rs,toolathlon-eval-12,0,0,region:us
+2026-10-16T03:32:18Z,toolathlon-eval-12/Annoy-PyEdu-Rs-Raw,toolathlon-eval-12,0,0,region:us
+2026-10-16T03:34:25Z,pupr/lp2b,pupr,0,0,region:us
+2026-10-16T03:34:50Z,justicedao/american_municipal_law_norm,justicedao,0,0,license:other; size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-16T03:35:02Z,lyl472324464/2026-10-14_twist_02-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-10-16T03:35:44Z,Acerola0v0/so101-drawer-eval,Acerola0v0,0,0,language:en; language:zh; size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics…
+2026-10-16T03:35:48Z,justicedao/ipfs_wallis_futuna_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-10-16T03:36:35Z,koiladakk/Workflows,koiladakk,0,0,region:us
+2026-10-16T03:41:46Z,Mr-whrly/egoverse-164-351-514-20261016,Mr-whrly,0,0,region:us
+2026-10-16T03:42:35Z,yikeee/wildchecklists,yikeee,0,0,task_categories:text-generation; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; wildchat…
+2026-10-16T03:42:41Z,g1n0st/c881a64d14c1beef0839bfb2ccd7e6f76a24eea2,g1n0st,0,0,region:us
+2026-10-16T03:42:43Z,g1n0st/0f463d3153ab6dcce44cb16c9150589466a8ee16,g1n0st,0,0,region:us
+2026-10-16T03:42:46Z,g1n0st/9ed40de180ba658f3d750de66dcb14130d04573c,g1n0st,0,0,region:us
+2026-10-16T03:42:53Z,sofiasof/architecture-data-2024,sofiasof,0,0,license:mit; region:us; dataset; architecture; sensor-fusion
+2026-10-16T03:43:23Z,g1n0st/c880869d75dd3cf6faf15c25d3a98c59822f7f8d,g1n0st,0,0,region:us
+2026-10-16T03:44:09Z,jamesmartinez/audio-text-samples,jamesmartinez,0,0,license:mit; region:us; dataset; travel; audio-text
+2026-10-16T03:44:42Z,g1n0st/3efe60670b23a51c71038027865dc8d5771dad53,g1n0st,0,0,region:us
+2026-10-16T03:44:43Z,g1n0st/2a7f9994c34df662f373ed354f1520e7d6bc52a9,g1n0st,0,0,region:us
+2026-10-16T03:45:19Z,Vishaldwivedi13/so101_pen_holder_20261016_084335,Vishaldwivedi13,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-16T03:47:42Z,g1n0st/6b61d0eadfc0efc36713651d93984b79cac67344,g1n0st,0,0,region:us
+2026-10-16T03:47:44Z,g1n0st/fc66617fe179eff73ee35b398ce68b33803ee985,g1n0st,0,0,region:us
+2026-10-16T03:47:44Z,Mobiusi/Enterprise-Software-License-Agreement-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-16T03:47:44Z,Mobiusi/Cross-Jurisdiction-Employment-Contract-Compliance-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:47:46Z,g1n0st/662d129ba890358689ab5b16d44436f9c4acb713,g1n0st,0,0,region:us
+2026-10-16T03:47:53Z,Mobiusi/Employment-Agreement-Conflicting-Clause-Retrieval-Benchmark-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:03Z,Mobiusi/Employment-Contract-Termination-And-Severance-Clause-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-16T03:48:09Z,Mobiusi/Compensation-And-Benefits-Clause-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:16Z,Mobiusi/Evidence-Retrieval-Dataset-For-Conflicting-Clauses-In-Lease-Agreements,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:22Z,Mobiusi/Lease-Assignment-And-Subletting-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:27Z,Mobiusi/Lease-Renewal-And-Rent-Adjustment-Evidence-Retrieval-Benchmark,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:35Z,Mobiusi/Lease-Termination-And-Breach-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:43Z,Mobiusi/Employment-Contract-Restrictive-Covenant-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:48:43Z,g1n0st/86d3a970e43aae729e88d5135972f0c83645e334,g1n0st,0,0,region:us
+2026-10-16T03:48:51Z,Mobiusi/Employment-Contract-Term-And-Termination-Fact-Verification-Benchmark-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-16T03:48:57Z,Mobiusi/Employment-Contract-Compensation-Clause-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us
+2026-10-16T03:49:09Z,Mobiusi/Employment-Contract-Claim-Fact-Verification-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:09Z,JackAILab/assests,JackAILab,0,0,license:apache-2.0; region:us
+2026-10-16T03:49:29Z,Mobiusi/SAT-Reading-And-Writing-Passage-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:35Z,Mobiusi/GRE-Reading-Comprehension-Background-Knowledge-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:40Z,Mobiusi/Korean-Pragmatics-And-Cultural-Context-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:44Z,Mobiusi/Korean-Document-Ambiguity-And-Implicit-Meaning-Understanding-Benchmark-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:49Z,Mobiusi/Korean-News-And-Commentary-Discourse-Comprehension-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:49:56Z,Mobiusi/Korean-Particle-Usage-Evidence-Retrieval-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:50:02Z,Mobiusi/TOPIK-Reading-Passage-Semantic-Reasoning-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:50:08Z,Mobiusi/Korean-Public-Notice-Comprehension-Dataset-For-Learners,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:50:14Z,Mobiusi/Korean-Workplace-Document-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:50:20Z,Mobiusi/Korean-Housing-And-Rental-Document-Understanding-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:50:27Z,sosa123454321/cekicin-ai-knowledge,sosa123454321,0,0,language:tr; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; roadside-assistance; car-damage; repair-cost; openstreetmap; emissions; turkey
+2026-10-16T03:50:28Z,Gandalf69/Toxic-Erebus-150K,Gandalf69,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-16T03:50:28Z,EricJaebeom/FFHQ-512x512,EricJaebeom,0,0,size_categories:10K<n<100K; format:arrow; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-16T03:51:25Z,Mobiusi/Korean-Medical-Instruction-Comprehension-Dataset-For-Learners,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:51:34Z,Mobiusi/Digital-Humanities-Textbook-Historical-Source-Contextual-Question-Answering-Data,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:51:39Z,Mobiusi/Digital-Textbook-Knowledge-Boundaries-And-Applicability-Conditions-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:51:43Z,g1n0st/4c0c35ca3cceae3064bf11ed6bd10838958c5ae9,g1n0st,0,0,region:us
+2026-10-16T03:51:44Z,g1n0st/11150a3aa2196988ec865e0a611e468845a9141c,g1n0st,0,0,region:us
+2026-10-16T03:51:46Z,Mobiusi/Pharmacy-Practice-And-Medication-Safety-QA-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:51:52Z,Mobiusi/University-Entrance-Exam-Syllabus-And-Tested-Content-Question-Answering-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:51:59Z,Mobiusi/Cybersecurity-Incident-Response-Certification-Q-A-Dataset,Mobiusi,0,0,task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:text; region:us
+2026-10-16T03:53:20Z,DavidRobertsah/traffic-samples,DavidRobertsah,0,0,license:mit; region:us; dataset; traffic; audio-text
+2026-10-16T03:53:58Z,Elpumasanti/ares-memoria,Elpumasanti,0,0,region:us
+2026-10-16T03:55:22Z,Thushi2003/slake-grounded-vqa-gemma4-e2b,Thushi2003,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-10-16T03:56:40Z,g1n0st/93597a275ef01b050cb48215f1bcdb668816f68c,g1n0st,0,0,region:us
+2026-10-16T03:56:43Z,g1n0st/87c66144b81f45e2ba3767cfa7dbc329243f518e,g1n0st,0,0,region:us
+2026-10-16T03:57:44Z,g1n0st/272eb92e33469e78fb83a68bc3373a809fe2408e,g1n0st,0,0,region:us
+2026-10-16T03:58:10Z,g1n0st/3e9d0efd924d15e882c03937e90bf1a274e2ccc5,g1n0st,0,0,region:us
+2026-10-16T03:58:11Z,g1n0st/d9c7ff58c5f41457adddad3352b1dd13f1237d9b,g1n0st,0,0,region:us
+2026-10-16T03:58:13Z,g1n0st/0c7336b68d0df322c745cd24c0e9ade71b07bb17,g1n0st,0,0,region:us
+2026-10-16T03:58:46Z,Davidilikeu/my-images,Davidilikeu,0,0,region:us
+2026-10-16T04:00:46Z,sophiethomas/charts-text-tabular-benchmark,sophiethomas,0,0,license:cc-by-4.0; region:us; dataset; charts; text-tabular
+2026-10-16T04:01:11Z,g1n0st/d4ddd7445b4c05986702a547f12ea671746e2318,g1n0st,0,0,region:us
+2026-10-16T04:02:41Z,g1n0st/303a142b20360aafd4c08e51ad60d56e577e6ca3,g1n0st,0,0,region:us
+2026-10-16T04:02:43Z,g1n0st/cb17c981a2089f30eb31ad8f3a33e57953f6d56a,g1n0st,0,0,region:us
+2026-10-16T04:02:45Z,g1n0st/af1911198e28bdd96bd1a33fb2a733a6a918c339,g1n0st,0,0,region:us
+2026-10-16T04:03:41Z,g1n0st/318d4f5d43d8dab184fd7ecb9b8c2408fe80431e,g1n0st,0,0,region:us
+2026-10-16T04:04:13Z,schulzsebastian/audio-text-dataset26,schulzsebastian,0,0,license:cc-by-4.0; region:us; dataset; art; audio-text
+2026-10-16T04:04:14Z,adibvafa/evo3-shortphase-gtdb-imgvr-train,adibvafa,0,0,region:us
+2026-10-16T04:04:41Z,anesdevtoday/rosetta-flow-traces,anesdevtoday,0,0,language:de; language:fr; language:it; language:en; license:cdla-permissive-2.0; size_categories:1K<n<10K; region:us; apertus; agent-audit; ai-agents; tool-calling; synthetic; hack-apertus
+2026-10-16T04:05:12Z,g1n0st/d9c7b1ea389bd6dd135f2f9f4ca058b4de6fae61,g1n0st,0,0,region:us
+2026-10-16T04:05:34Z,EricJaebeom/VRGaze,EricJaebeom,0,0,region:us
+2026-10-16T04:05:45Z,lyl472324464/2026-10-14_twist_01-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-10-16T04:06:25Z,musicvalt/musicvalt-api,musicvalt,0,0,region:us
+2026-10-16T04:07:35Z,4pc-engine/stockfish-4pc-nnue-training-data,4pc-engine,0,0,license:cc-by-4.0; region:us
+2026-10-16T04:09:01Z,windjj/datumwell-handwriting,windjj,0,0,task_categories:other; language:en; license:other; size_categories:1M<n<10M; modality:tabular; modality:timeseries; modality:video; region:us; lerobot; mujoco; synthetic; handwriting; nexarm; robotic…
+2026-10-16T04:09:30Z,LeeHakHo/play_hri_insertion_robot_test,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-16T04:11:35Z,shimonkolodny/lashon-hara-dataset,shimonkolodny,0,0,task_categories:text-classification; language:en; language:he; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-10-16T04:11:49Z,Mohsenkhajoee/record-test_20261015_230620,Mohsenkhajoee,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-16T04:13:44Z,GeorgeWJJ/PointNext,GeorgeWJJ,0,0,region:us
+2026-10-16T04:14:58Z,g1n0st/db39c89ebab931d47bfe3c5013d1ed0541ac6b77,g1n0st,0,0,region:us
+2026-10-16T04:16:06Z,yunhwa/lexai-snapshot,yunhwa,0,0,region:us
+2026-10-16T04:16:27Z,xiangxinai/xiangxin-s1-9b-20261015-decision-index,xiangxinai,0,0,region:us
+2026-10-16T04:16:45Z,lusiinhaanidurlal/copyright-videos-dataset,lusiinhaanidurlal,0,0,license:other; region:us
+2026-10-16T04:17:16Z,csoai/gspc-one,csoai,0,0,license:cc-by-4.0; region:us
+2026-10-16T04:18:01Z,jermo1120/b1k-task68-cleaning-up-branches-and-twigs-test-eval,jermo1120,0,0,license:apache-2.0; region:us; robotics; behavior-1k; evaluation; test-eval; pi0.5
+2026-10-16T04:19:29Z,lyl472324464/2026-10-13_insert_08-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-16T04:20:31Z,attackerdfgfgds/pr1792124430,attackerdfgfgds,0,0,region:us
