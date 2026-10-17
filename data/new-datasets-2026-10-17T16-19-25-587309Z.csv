@@ -1,0 +1,54 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-17T15:20:13Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-17T15:22:26Z,MRSHREY197/hitek-3digit-rah,MRSHREY197,0,0,region:us
+2026-10-17T15:22:33Z,whding123/Angioflow_fix,whding123,0,0,region:us
+2026-10-17T15:25:40Z,CasioThief/visit-with-us-tourism-data,CasioThief,0,0,region:us
+2026-10-17T15:28:27Z,endomorphosis/ipfs_denmark_municipal_laws,endomorphosis,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T15:28:53Z,rizgiak/physai-study-01-isaac-replays,rizgiak,0,0,task_categories:robotics; license:apache-2.0; region:us; robotics; imitation-learning; isaac-sim; sim-to-sim; so101
+2026-10-17T15:29:59Z,justicedao/ipfs_denmark_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:da; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; denmark_municipal
+2026-10-17T15:30:01Z,MadmanMischief/so101_candy_sort_half,MadmanMischief,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-17T15:32:54Z,yash1166/ipet-qwen2-sft-dataset,yash1166,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; region:us
+2026-10-17T15:34:29Z,Raonikita/image-text-samples,Raonikita,0,0,license:mit; region:us; dataset; geology; image-text
+2026-10-17T15:35:12Z,toilaluan/imagenet-256-flux2-vae-latents,toilaluan,0,0,task_categories:image-classification; license:other; size_categories:1M<n<10M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; imagenet; latent-diffusi…
+2026-10-17T15:37:35Z,laatey/definatelycustomdataset,laatey,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-10-17T15:37:55Z,Ksgk-fy/edit-reuse-repair-sets,Ksgk-fy,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; kv-cac…
+2026-10-17T15:39:35Z,bibi0108/open_drawer_20261018_003912,bibi0108,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-17T15:40:21Z,bibi0108/open_drawer_20261018_003959,bibi0108,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-17T15:41:03Z,roshbeed/ai-residency-speech-emotion-recognition-data,roshbeed,0,0,task_categories:audio-classification; language:en; license:odbl; region:us; speech; emotion-recognition; crema-d
+2026-10-17T15:41:35Z,bibi0108/open_drawer_20261018_004113,bibi0108,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-17T15:42:05Z,Justin22122002/ApproachNet,Justin22122002,0,0,license:other; region:us
+2026-10-17T15:43:05Z,kuwstore/kuwstore-ads,kuwstore,0,0,region:us
+2026-10-17T15:46:12Z,ajhgjs/Annoy-PyEdu-Rs,ajhgjs,0,0,region:us
+2026-10-17T15:46:13Z,ajhgjs/Annoy-PyEdu-Rs-Raw,ajhgjs,0,0,region:us
+2026-10-17T15:47:55Z,kdaterao/so101_action_annotations_gripper_hints16,kdaterao,0,0,size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; video-captioning; actio…
+2026-10-17T15:47:56Z,fortunex100/lok-sabha-audio,fortunex100,0,0,region:us
+2026-10-17T15:49:04Z,Naotaka0127/Kyalulu-Synthetic-Roleplay-English-AIO-beta,Naotaka0127,0,0,license:apache-2.0; region:us
+2026-10-17T15:50:02Z,Naotaka0127/Kyalulu-Synthetic-Roleplay-English-SFW-AIO-beta,Naotaka0127,0,0,region:us
+2026-10-17T15:50:26Z,Naotaka0127/Kyalulu-Synthetic-Roleplay-English-NSFW-AIO-beta,Naotaka0127,0,0,region:us; not-for-all-audiences
+2026-10-17T15:54:33Z,vinayskanse/dataset8_20261017_211818,vinayskanse,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T15:55:06Z,AI4Manufacturing/211-annotated,AI4Manufacturing,0,0,region:us
+2026-10-17T15:56:21Z,Viviannnyang/RDCap-caption-action-temporal-train-combined,Viviannnyang,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; video-captioning; video-object-segmentation;…
+2026-10-17T15:56:28Z,hayatoWorld/so101_pooh_50_v1_20261018_004400,hayatoWorld,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-17T15:58:28Z,sister-software/mailwoman-osm-ni-postcode-fold,sister-software,0,0,language:en; license:odbl; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; openstreetmap; post…
+2026-10-17T15:59:48Z,zzhang2816/CS_TA,zzhang2816,0,0,region:us
+2026-10-17T16:00:19Z,someoneisone/win95-disk,someoneisone,0,0,region:us
+2026-10-17T16:00:40Z,h1testmeow/dv-pathprobe-20261017120040,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T16:01:22Z,marsh123/nureasoning-causal-retrieval-ego,marsh123,0,0,region:us
+2026-10-17T16:03:04Z,bibi0108/open_drawer_20261018_010237,bibi0108,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-17T16:03:04Z,Raghav0573/oligostab-data,Raghav0573,0,0,region:us
+2026-10-17T16:03:40Z,kdaterao/so101_action_annotations_gripper_hints17,kdaterao,0,0,size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; video-captioning; actio…
+2026-10-17T16:05:44Z,PureOne/EVE-IYON-Omega5-AEQUORA,PureOne,0,0,language:en; region:us; mathematics; information-theory; finite-fields; bilinear-forms; statistical-experiments; blackwell-order; heisenberg-group; reproducible-research; synthetic-verification
+2026-10-17T16:07:11Z,DownFlow/ASMR,DownFlow,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; task_categories:audio-classification; language:zh; license:other; size_categories:10K<n<100K; region:us; asmr; chinese; r…
+2026-10-17T16:07:18Z,zoatumn/record-test,zoatumn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-17T16:07:45Z,h1testmeow/dv-ssrf-20261017120744,h1testmeow,0,0,region:us
+2026-10-17T16:09:02Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-17T16:09:02Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-17T16:10:05Z,h1testmeow/dv-fileglob-20261017121005,h1testmeow,0,0,region:us
+2026-10-17T16:10:06Z,tc-huang/mahjong_v1_tray07_twos_vary,tc-huang,0,0,region:us
+2026-10-17T16:10:37Z,ASLP-lab/WS-Min-Bench,ASLP-lab,0,0,region:us
+2026-10-17T16:12:15Z,ASLP-lab/WS-Min,ASLP-lab,0,0,region:us
+2026-10-17T16:12:33Z,SnnDry/hukukpro-chroma-pack-yargitay-bedesten-delta-202606,SnnDry,0,0,region:us
+2026-10-17T16:12:38Z,efex12/kivibot-3b-veri,efex12,0,0,region:us
+2026-10-17T16:16:03Z,Reza2kn/persian-invoice-tables-synthetic-scanned-20261017,Reza2kn,0,0,task_categories:image-to-text; language:fa; size_categories:1K<n<10K; region:us; ocr; document-understanding; persian; synthetic-data
+2026-10-17T16:17:56Z,theankitghotala/ModelNet40,theankitghotala,0,0,task_categories:graph-ml; language:en; license:bsd-3-clause; region:us
+2026-10-17T16:18:59Z,DrJohnCode/AstraForge-Synthetic-Instruct-300,DrJohnCode,0,0,license:mit; region:us
