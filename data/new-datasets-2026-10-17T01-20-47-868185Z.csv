@@ -1,0 +1,54 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-17T00:20:12Z,djaekim/TrajectoryTrace,djaekim,0,0,language:en; region:us
+2026-10-17T00:23:01Z,atacker/ox3232924931,atacker,0,0,region:us
+2026-10-17T00:23:16Z,SK102945/careerlens-synthetic-resume-job-matching,SK102945,0,0,region:us
+2026-10-17T00:24:43Z,athrael-soju/vdr-train-500k,athrael-soju,0,0,task_categories:visual-document-retrieval; language:en; language:es; language:de; language:fr; language:it; language:pt; license:mit; size_categories:100K<n<1M; format:arrow; modality:image; modality…
+2026-10-17T00:25:44Z,g1n0st/7668c7aa0105a6e5a513ffb4d5eca1a72179b170,g1n0st,0,0,region:us
+2026-10-17T00:25:48Z,kiteml/dm-actuator-unboxing-relight-dim-evening,kiteml,0,0,task_categories:robotics; license:unknown; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:m…
+2026-10-17T00:25:52Z,kiteml/dm-actuator-unboxing-video-people,kiteml,0,0,task_categories:robotics; license:unknown; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-17T00:27:14Z,andrelacerda23/cnpj-dados-receita-brasil-2026-10,andrelacerda23,0,0,language:pt; license:other; size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cnpj; receita-federal; brasil; em…
+2026-10-17T00:29:05Z,atacker/oy9273116437,atacker,0,0,region:us
+2026-10-17T00:31:25Z,atacker/oy9919714594,atacker,0,0,region:us
+2026-10-17T00:32:07Z,CompassioninMachineLearning/compassion_showing_mix,CompassioninMachineLearning,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T00:32:45Z,dsixteen/Niji_1_Handsome-control-captions,dsixteen,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-17T00:33:45Z,atacker/oy568418724,atacker,0,0,region:us
+2026-10-17T00:34:05Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-17T00:34:05Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-17T00:34:59Z,atacker/oz104398924,atacker,0,0,region:us
+2026-10-17T00:36:50Z,CompassioninMachineLearning/urban_showing_mix,CompassioninMachineLearning,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T00:38:37Z,JOHNISKING/token-cost-by-language-claude-gemini,JOHNISKING,0,0,language:multilingual; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tokenize…
+2026-10-17T00:41:46Z,g1n0st/53f5e13abe765f998ba8c0e616388f39b741670b,g1n0st,0,0,region:us
+2026-10-17T00:42:31Z,atacker/dup1792ok,atacker,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T00:42:47Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-17T00:42:48Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-17T00:43:10Z,sugiv/call-gate-robocalls,sugiv,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; robocall; scam-detection; voic…
+2026-10-17T00:43:56Z,atacker/os26988014,atacker,0,0,region:us
+2026-10-17T00:46:23Z,rbalazs/RightCup_EpisodesToFix3CupsLastTrim,rbalazs,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T00:46:31Z,rbalazs/MiddleCup_EpisodesToFix3CupsTrim,rbalazs,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T00:46:37Z,atacker/os009324673,atacker,0,0,region:us
+2026-10-17T00:46:40Z,rbalazs/LeftCup_EpisodesToFix3CupsTrim,rbalazs,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T00:49:08Z,JuicyKaraageNo1/kenbunshoku-onepiece-labels,JuicyKaraageNo1,0,0,task_categories:object-detection; task_categories:image-classification; license:cc-by-4.0; region:us; trading-card-game; one-piece-card-game; card-recognition; labels-only
+2026-10-17T00:49:30Z,Rand14857/SLAKE-tars,Rand14857,0,0,task_categories:visual-question-answering; language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-17T00:50:06Z,atacker/ot264614355,atacker,0,0,region:us
+2026-10-17T00:50:25Z,Rand14857/VQA-Med-2019-tars,Rand14857,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-17T00:52:29Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-17T00:52:30Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-17T00:52:39Z,y0csk/audiob2,y0csk,0,0,region:us
+2026-10-17T00:52:40Z,atacker/ot299517498,atacker,0,0,region:us
+2026-10-17T00:52:42Z,I4031/items_lite,I4031,0,0,task_categories:text-generation; task_categories:tabular-regression; task_categories:feature-extraction; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; moda…
+2026-10-17T00:55:51Z,sangaraju1988/beyond-compression-ratios,sangaraju1988,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents; mcp; tool-use; context-comp…
+2026-10-17T00:57:23Z,g1n0st/659cf0665ad5abf22e46b5cf588989baa340182e,g1n0st,0,0,region:us
+2026-10-17T00:58:28Z,atacker/ob12244380,atacker,0,0,region:us
+2026-10-17T00:59:31Z,Rand14857/PathVQA-tars,Rand14857,0,0,task_categories:visual-question-answering; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv…
+2026-10-17T01:01:11Z,ARUBAGOV33/papiamento,ARUBAGOV33,0,0,task_categories:translation; annotations_creators:expert-generated; annotations_creators:machine-generated; language_creators:expert-generated; multilinguality:multilingual; source_datasets:original;…
+2026-10-17T01:01:13Z,TecnoPopular/ensaios-audio,TecnoPopular,0,0,region:us
+2026-10-17T01:01:52Z,atacker/ob320919851,atacker,0,0,region:us
+2026-10-17T01:04:16Z,nauq-hna/clean_20261014_filtered_fixed_v3,nauq-hna,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-17T01:08:17Z,atacker/oyb1792199297,atacker,0,0,region:us
+2026-10-17T01:11:28Z,atacker/cfg1792199488,atacker,0,0,region:us
+2026-10-17T01:11:38Z,atacker/cfo1792199488,atacker,0,0,region:us
+2026-10-17T01:12:53Z,g1n0st/5b80a350e6a0388b88c73a0747486544ac57064c,g1n0st,0,0,region:us
+2026-10-17T01:13:17Z,hyunwookjin/korean-prediction-market-sample,hyunwookjin,0,0,task_categories:question-answering; task_categories:text-classification; language:ko; license:cc-by-nc-4.0; size_categories:n<1K; region:us; forecasting; prediction-market; collective-intelligence; k…
+2026-10-17T01:14:50Z,artinos/Nadia-1-Decision-Index,artinos,0,0,language:multilingual; region:us; evaluation; decision-model; decision-index
+2026-10-17T01:16:51Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-17T01:17:21Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
