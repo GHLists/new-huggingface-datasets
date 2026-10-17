@@ -1,0 +1,73 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-17T01:23:24Z,linnan98k/eaa431eaa86d,linnan98k,0,0,license:mit; region:us
+2026-10-17T01:23:26Z,linnan98k/e335babbe3d0,linnan98k,0,0,license:mit; region:us
+2026-10-17T01:27:21Z,h8i76dfsd9/test_20261016_154953,h8i76dfsd9,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-10-17T01:28:41Z,Ekobwoy/nigerian-pidgin-biology-evaluation,Ekobwoy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T01:29:30Z,g1n0st/eeb57001ffe83af44d085356c3522d469d194c66,g1n0st,0,0,region:us
+2026-10-17T01:31:40Z,usermma/cognitive-architecture-semantic-retrieval,usermma,0,0,license:other; region:us; open-research; cognitive-architecture; semantic-retrieval; may-semantic; topological-data-analysis; algebraic-topology; hierarchical-entity-framework; hierarchical-memory; r…
+2026-10-17T01:31:55Z,cmunley/mixed-skills-env-v6,cmunley,0,0,task_categories:reinforcement-learning; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:openenv; r…
+2026-10-17T01:35:55Z,g1n0st/b1586c2857ec6bdbefd3ffed8d10d069a261e320,g1n0st,0,0,region:us
+2026-10-17T01:36:35Z,wsdefgad/Annoy-PyEdu-Rs-Raw,wsdefgad,0,0,region:us
+2026-10-17T01:36:35Z,wsdefgad/Annoy-PyEdu-Rs,wsdefgad,0,0,region:us
+2026-10-17T01:37:04Z,afdafafwf/Annoy-PyEdu-Rs-Raw,afdafafwf,0,0,region:us
+2026-10-17T01:37:04Z,afdafafwf/Annoy-PyEdu-Rs,afdafafwf,0,0,region:us
+2026-10-17T01:37:49Z,g1n0st/8a63a4d2186304d08dab1d6ceac16469d53b905f,g1n0st,0,0,region:us
+2026-10-17T01:38:19Z,g1n0st/842d9244ed295ff23399cbf45ffce471493698ab,g1n0st,0,0,region:us
+2026-10-17T01:38:50Z,g1n0st/b50fec800fbc1b1c99f2c01e341804b0b9213d81,g1n0st,0,0,region:us
+2026-10-17T01:39:18Z,g1n0st/7aafdf57834fb385b996be4317815bb20f4a1778,g1n0st,0,0,region:us
+2026-10-17T01:42:14Z,RealMattbrewer/oxford-iiit-pet-webdataset,RealMattbrewer,0,0,region:us
+2026-10-17T01:42:44Z,endomorphosis/ipfs_switzerland_municipal_laws,endomorphosis,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T01:43:07Z,atacker/tpl1792201386,atacker,0,0,size_categories:n<1K; format:csv; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T01:43:19Z,bagmhmy/pack_from_shared,bagmhmy,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-17T01:43:26Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-10-17T01:43:27Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-10-17T01:45:20Z,g1n0st/3974897a24f157adebcedfeb0ed95f5ef6187477,g1n0st,0,0,region:us
+2026-10-17T01:47:43Z,edithfinch/place_green_pepper_pot_clean,edithfinch,0,0,license:mit; region:us
+2026-10-17T01:47:59Z,justicedao/ipfs_switzerland_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:de; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-10-17T01:48:14Z,shashuo0104/261016_aloha_zip_tie_80Hz_focus_crop_segments,shashuo0104,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-17T01:49:34Z,g1n0st/8cf19413dcc056ba9a0a72af405ee2539cc93d7f,g1n0st,0,0,region:us
+2026-10-17T01:49:57Z,g1n0st/3dffc5135aec6c460ae5adc44308d6b05a4b4b5a,g1n0st,0,0,region:us
+2026-10-17T01:50:04Z,g1n0st/767363af5c6a4c91a978af04615f19305d981851,g1n0st,0,0,region:us
+2026-10-17T01:50:53Z,g1n0st/9c948bf8978656072e32b6307ef06ab6c7306ac3,g1n0st,0,0,region:us
+2026-10-17T01:51:57Z,g1n0st/062ec2b1bff0e00f9997e9270668b2a9738d288b,g1n0st,0,0,region:us
+2026-10-17T01:52:00Z,g1n0st/3d0577ac73bc330e7ab4a95c65dd4bfd04c9e7b4,g1n0st,0,0,region:us
+2026-10-17T01:52:05Z,laskar-ks/us-ticker-price-snapshots-10-25-curation,laskar-ks,0,0,task_categories:tabular-classification; task_categories:tabular-regression; license:cc-by-nc-4.0; size_categories:1M<n<10M; region:us; finance; stock-market; technical-indicators; time-series
+2026-10-17T01:52:23Z,endomorphosis/ipfs_finland_municipal_laws,endomorphosis,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T01:52:27Z,g1n0st/f501075207b4ac2e7ef0b85fce01eb72ebef1fa8,g1n0st,0,0,region:us
+2026-10-17T01:53:26Z,justicedao/ipfs_finland_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fi; language:sv; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; li…
+2026-10-17T01:53:57Z,g1n0st/7e4cd252863dfee044751707da478881089ddca6,g1n0st,0,0,region:us
+2026-10-17T01:56:07Z,g1n0st/187c7afffd59d3deb33956d7cf7e4ba7875a3d7c,g1n0st,0,0,region:us
+2026-10-17T01:56:39Z,niko0xdev/skilljev-data,niko0xdev,0,0,task_categories:text-classification; language:en; license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-17T01:57:21Z,g1n0st/3264a443da7d47c08b6b6a3064cc2bc14d918dfb,g1n0st,0,0,region:us
+2026-10-17T01:58:05Z,g1n0st/a48c25194adc76ea99956e0c8cb422a797c02828,g1n0st,0,0,region:us
+2026-10-17T01:58:32Z,gekun/Annoy-PyEdu-Rs,gekun,0,0,region:us
+2026-10-17T01:58:33Z,gekun/Annoy-PyEdu-Rs-Raw,gekun,0,0,region:us
+2026-10-17T01:58:41Z,g1n0st/5bfbbf766308847ef15ac80243c9dc00814b4ac0,g1n0st,0,0,region:us
+2026-10-17T01:58:45Z,g1n0st/f3ac29d83347e1c127450817d9b42cd4685469f7,g1n0st,0,0,region:us
+2026-10-17T01:58:48Z,g1n0st/f6cc27e1bf0b0367d80a1c395c49a652cbb6781a,g1n0st,0,0,region:us
+2026-10-17T01:58:50Z,g1n0st/008b5feeebf09a5a6904781bf1e762835914277b,g1n0st,0,0,region:us
+2026-10-17T01:59:05Z,Zd21EDSA123/Annoy-PyEdu-Rs-Raw,Zd21EDSA123,0,0,region:us
+2026-10-17T01:59:05Z,Zd21EDSA123/Annoy-PyEdu-Rs,Zd21EDSA123,0,0,region:us
+2026-10-17T02:01:02Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-17T02:01:32Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-17T02:04:17Z,shashuo0104/261016_aloha_zip_tie_80Hz_no_crop_segments,shashuo0104,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-17T02:06:12Z,tonykoop/makerbench-hwe-tasks,tonykoop,0,0,task_categories:text-generation; task_categories:text-to-3d; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; lib…
+2026-10-17T02:06:44Z,Xiang3/InMark-Generated-Images,Xiang3,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-17T02:06:44Z,penfever/cyberseceval4-threatintelligence-harbor,penfever,0,0,size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us
+2026-10-17T02:07:18Z,LoNebula/human-animal-video-captions,LoNebula,0,0,license:other; region:us; human-animal; caption
+2026-10-17T02:08:04Z,atacker/cdnfl1792202884,atacker,0,0,region:us
+2026-10-17T02:09:13Z,atacker/dsfn1792202953,atacker,0,0,region:us
+2026-10-17T02:09:31Z,Regimes/GACC-Bench,Regimes,0,0,task_categories:question-answering; task_categories:text-generation; language:en; language:zh; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-10-17T02:11:38Z,natsuki0000/so101-blue-cap-v2-trim-10fps,natsuki0000,0,0,region:us
+2026-10-17T02:12:23Z,alexhegit/so101-simstudio-lab01-pnp-agent193-lingbot-eef,alexhegit,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; so101; simstudio; mujoco; pick-and-plac…
+2026-10-17T02:12:32Z,atacker/svgx1792203151,atacker,0,0,region:us
+2026-10-17T02:13:24Z,John00451/experiment-testset,John00451,0,0,region:us
+2026-10-17T02:13:26Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-17T02:13:27Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-17T02:14:10Z,atacker/pqcr1792203250,atacker,0,0,region:us
+2026-10-17T02:14:38Z,sanaka87/openve_fixed_bernini14b_vmse_mix2_s1t1r1_lr2e5_eb24_step200,sanaka87,0,0,region:us
+2026-10-17T02:17:04Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-17T02:17:04Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-17T02:17:48Z,OpenSAE/SAEBase-Evaluation,OpenSAE,0,0,language:en; region:us; sparse-autoencoder; mechanistic-interpretability; evaluation; reproducibility; benchmark
+2026-10-17T02:18:40Z,sulabhkatiyar/mx-c49a01,sulabhkatiyar,0,0,region:us
+2026-10-17T02:19:26Z,Kaito-F/gc-sgpairs-v4pt,Kaito-F,0,0,region:us
