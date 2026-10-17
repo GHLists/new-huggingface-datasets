@@ -1,0 +1,94 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-16T23:22:22Z,atacker/oread1792192941,atacker,0,0,region:us
+2026-10-16T23:24:52Z,g1n0st/734dff7c6ba779cc229bd0b03ed2485ae5b6c234,g1n0st,0,0,region:us
+2026-10-16T23:25:07Z,g1n0st/60d379b99b75fbdc192654ed068314a4245bfef5,g1n0st,0,0,region:us
+2026-10-16T23:26:11Z,g1n0st/955d0fec1095565467174fc381d87283f35a80cc,g1n0st,0,0,region:us
+2026-10-16T23:26:17Z,g1n0st/3112fd6aa175767c279ae24cb781568bd002efae,g1n0st,0,0,region:us
+2026-10-16T23:26:35Z,g1n0st/a08f18dd78a6f6bea93336fe24162ad6b28dafaf,g1n0st,0,0,region:us
+2026-10-16T23:26:41Z,g1n0st/fc87a1bdfeb99dec4a5feb6e09dce645978b277e,g1n0st,0,0,region:us
+2026-10-16T23:26:45Z,g1n0st/fe855b7076e21688ebb54b0d352fb0610ad17356,g1n0st,0,0,region:us
+2026-10-16T23:27:08Z,g1n0st/15d0bf225bc85c1d2e921b13033637ff12f090af,g1n0st,0,0,region:us
+2026-10-16T23:27:13Z,g1n0st/8a30022117bb825389d5f5b5e2d8fa10ed607432,g1n0st,0,0,region:us
+2026-10-16T23:27:14Z,g1n0st/ec4d8d0d64d0fcc0a58f568b3034f2c77322829f,g1n0st,0,0,region:us
+2026-10-16T23:27:45Z,g1n0st/7ca041d4d6383337c0bbdb0ed01986827cf868ec,g1n0st,0,0,region:us
+2026-10-16T23:27:47Z,g1n0st/1121cc3a20400c975c81b665aeee7502a7dd41ea,g1n0st,0,0,region:us
+2026-10-16T23:28:04Z,AI4Manufacturing/103-discriminate-curated,AI4Manufacturing,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-16T23:28:08Z,g1n0st/d9e84e002d5d63b6090ea66d43d5ca1dd9cd3898,g1n0st,0,0,region:us
+2026-10-16T23:28:13Z,g1n0st/357aca7ebf8ac8ace11d864cad3a1e313a7c1057,g1n0st,0,0,region:us
+2026-10-16T23:28:37Z,atacker/opr7253428242,atacker,0,0,region:us
+2026-10-16T23:30:07Z,g1n0st/78e134149f8acfbb122e3af703bc00b019f96a60,g1n0st,0,0,region:us
+2026-10-16T23:30:56Z,yovanovitch11/ai-image-provenance-fixtures,yovanovitch11,0,0,task_categories:image-classification; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; c2pa; conten…
+2026-10-16T23:31:08Z,g1n0st/e03e29f77aef31d922a323f5a36a55f896a7536e,g1n0st,0,0,region:us
+2026-10-16T23:31:10Z,Maaz2005/informal-economic-reasoning-eval,Maaz2005,0,0,task_categories:text-generation; language:en; language:ur; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-16T23:31:11Z,g1n0st/a5934273465e0f01f33a09e0c681f0395b70b22e,g1n0st,0,0,region:us
+2026-10-16T23:31:11Z,g1n0st/481f4041acdbb7700f6725472c0b56738861ddf7,g1n0st,0,0,region:us
+2026-10-16T23:31:14Z,g1n0st/0539ac54ffa32bd60b2b9466705c294c9de87e42,g1n0st,0,0,region:us
+2026-10-16T23:31:19Z,AI4Manufacturing/103-grounding-curated,AI4Manufacturing,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-16T23:31:53Z,scq21cs2dsadsa/Annoy-PyEdu-Rs,scq21cs2dsadsa,0,0,region:us
+2026-10-16T23:31:54Z,atacker/opr998146368,atacker,0,0,region:us
+2026-10-16T23:31:57Z,scq21cs2dsadsa/Annoy-PyEdu-Rs-Raw,scq21cs2dsadsa,0,0,region:us
+2026-10-16T23:32:07Z,g1n0st/d82326649239cb8e117f5e595cc8705c8ee76e56,g1n0st,0,0,region:us
+2026-10-16T23:32:31Z,xcc12ds21313/Annoy-PyEdu-Rs,xcc12ds21313,0,0,region:us
+2026-10-16T23:32:32Z,xcc12ds21313/Annoy-PyEdu-Rs-Raw,xcc12ds21313,0,0,region:us
+2026-10-16T23:32:39Z,g1n0st/45e46994f791b76455fc8699a7ba633681ba9d50,g1n0st,0,0,region:us
+2026-10-16T23:33:02Z,SDCZX123WESWX/Annoy-PyEdu-Rs,SDCZX123WESWX,0,0,region:us
+2026-10-16T23:33:10Z,SDCZX123WESWX/Annoy-PyEdu-Rs-Raw,SDCZX123WESWX,0,0,region:us
+2026-10-16T23:33:10Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-10-16T23:33:11Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-10-16T23:34:05Z,g1n0st/cf6cf4418e87440a0a849ce73ff3304669d54e4b,g1n0st,0,0,region:us
+2026-10-16T23:34:23Z,atacker/onex1792193662,atacker,0,0,region:us
+2026-10-16T23:35:51Z,sanaka87/openve_fixed_bernini14b_vmse_mix2_s1t1r1_lr2e5_eb24_step300,sanaka87,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-16T23:36:37Z,g1n0st/39a51d9f878f87e66bdc1eeba8d797d360925886,g1n0st,0,0,region:us
+2026-10-16T23:36:55Z,mir178/indian-playing-cards-kb,mir178,0,0,task_categories:question-answering; task_categories:text-retrieval; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:p…
+2026-10-16T23:37:03Z,AI4Manufacturing/103-curated,AI4Manufacturing,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-16T23:37:07Z,g1n0st/605e79fafd70dd220b7153ab3ff08532d85556b0,g1n0st,0,0,region:us
+2026-10-16T23:38:06Z,g1n0st/101df5caf79956fc78d25aefae349e44fd1527b4,g1n0st,0,0,region:us
+2026-10-16T23:38:23Z,Marimar2006/defiende-el-servidor-dvc,Marimar2006,0,0,license:other; region:us
+2026-10-16T23:38:58Z,EPFL-LARA/lean-world-model-cpt,EPFL-LARA,0,0,language:en; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lean; lean4; continued-pretraining; code
+2026-10-16T23:39:02Z,EPFL-LARA/lean-world-model-sft,EPFL-LARA,0,0,language:en; region:us; lean; lean4; theorem-proving; code
+2026-10-16T23:39:07Z,EPFL-LARA/lean-world-model-reasoning-sft,EPFL-LARA,0,0,language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; lean; lean4; theorem-proving;…
+2026-10-16T23:39:08Z,g1n0st/e0dd654d8e3928e7de6c99678c413a90e8b0b257,g1n0st,0,0,region:us
+2026-10-16T23:39:33Z,manojdevi/image-text-dataset,manojdevi,0,0,license:cc-by-4.0; region:us; dataset; speech; image-text
+2026-10-16T23:39:43Z,atacker/pwr1792193983,atacker,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-16T23:39:44Z,atacker/por1792193983,atacker,0,0,region:us
+2026-10-16T23:41:13Z,SOTAagi2030/Municipal-Notice-Audio-Digests-2027,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-16T23:42:10Z,g1n0st/c2f9d346fac5814b37d6664f32b90b818b2bb4e6,g1n0st,0,0,region:us
+2026-10-16T23:43:07Z,g1n0st/57b02c8e8f50dd7dbbf7e5bb389c287cdd3063cd,g1n0st,0,0,region:us
+2026-10-16T23:43:10Z,g1n0st/b327f450b7462e0ee24fed0689d90d5faaf739d1,g1n0st,0,0,region:us
+2026-10-16T23:43:36Z,g1n0st/ac4860455d4a1974336595901650a174c2a1a799,g1n0st,0,0,region:us
+2026-10-16T23:43:42Z,sanaka87/openve_pp_fixed_bernini14b_vmse_mix2_s1t1r1_lr2e5_eb24_step500,sanaka87,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-16T23:43:43Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-16T23:43:43Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-16T23:44:29Z,atacker/oz3336330310,atacker,0,0,region:us
+2026-10-16T23:47:10Z,atacker/oz6393910126,atacker,0,0,region:us
+2026-10-16T23:50:08Z,g1n0st/746be4797033f00ac1b169e1bcd0ed9e6cf8054b,g1n0st,0,0,region:us
+2026-10-16T23:50:27Z,atacker/oz7630521743,atacker,0,0,region:us
+2026-10-16T23:51:02Z,Leonpenggeb/movie-posters-collection,Leonpenggeb,0,0,license:mit; region:us; dataset; movie-posters; multimodal3
+2026-10-16T23:51:49Z,SOTAagi2030/Ingredient-Recall-Lineage-Spring-2027,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-16T23:51:58Z,angelic123/videophy1_videos,angelic123,0,0,task_categories:text-to-video; license:apache-2.0; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-16T23:52:39Z,msubah/mdssmis-data,msubah,0,0,region:us
+2026-10-16T23:53:14Z,atacker/oz7311317910,atacker,0,0,region:us
+2026-10-16T23:55:16Z,lzy001Yuki/libero-agent-record,lzy001Yuki,0,0,region:us
+2026-10-16T23:58:09Z,g1n0st/2a34b8954f8516b35d21060cb0e9d853264d6fe8,g1n0st,0,0,region:us
+2026-10-16T23:58:38Z,atacker/oz3402325824,atacker,0,0,region:us
+2026-10-16T23:59:21Z,g1n0st/2706dd18da121063a4841e20650cd00e8002fe67,g1n0st,0,0,region:us
+2026-10-17T00:00:08Z,JimHue/Taste-S-SLM-TrainingData-bidirectional,JimHue,0,0,region:us
+2026-10-17T00:00:28Z,luispoveda93/spanish-coffee-preferences,luispoveda93,0,0,region:us
+2026-10-17T00:01:24Z,atacker/oz982767679,atacker,0,0,region:us
+2026-10-17T00:03:10Z,salqadri/argon-asl-question-understanding-eval,salqadri,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-17T00:04:38Z,atacker/oz1158920662,atacker,0,0,region:us
+2026-10-17T00:05:15Z,stimul-kiev-ua/bas-primary-document-reconciliation-uk,stimul-kiev-ua,0,0,language:uk; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accounting; bas; bookkeeping; educat…
+2026-10-17T00:08:35Z,atacker/oz8130515515,atacker,0,0,region:us
+2026-10-17T00:09:09Z,ThomasinAlistair1794/Annoy-PyEdu-Rs,ThomasinAlistair1794,0,0,region:us
+2026-10-17T00:09:09Z,ThomasinAlistair1794/Annoy-PyEdu-Rs-Raw,ThomasinAlistair1794,0,0,region:us
+2026-10-17T00:09:19Z,hughbertlongshanks/licenseplates,hughbertlongshanks,0,0,region:us
+2026-10-17T00:09:46Z,g1n0st/4888a2edd166a54b5fec8c8067e28f15cae687aa,g1n0st,0,0,region:us
+2026-10-17T00:10:41Z,GarissonRidge/licenseplates,GarissonRidge,0,0,region:us
+2026-10-17T00:10:46Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-17T00:10:46Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-17T00:12:13Z,atacker/oz050779126,atacker,0,0,region:us
+2026-10-17T00:12:18Z,open-athena/Snowball-SFT-Shootout-Pool-2026.10,open-athena,0,0,license:other; library:harbor; region:us; agents; swe-smith; terminal; harbor; decontamination
+2026-10-17T00:13:42Z,thanhsonvo71/sortColor_v2,thanhsonvo71,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-17T00:15:21Z,Psyfox-HF/Private_Files,Psyfox-HF,0,0,region:us
+2026-10-17T00:18:57Z,atacker/pwo1792196336,atacker,0,0,region:us
+2026-10-17T00:18:57Z,atacker/pwn1792196336,atacker,0,0,region:us
