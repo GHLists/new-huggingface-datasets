@@ -1,0 +1,98 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-17T02:21:12Z,wlsgur1018/urban-wm-bench-new,wlsgur1018,0,0,language:en; region:us; tanks-and-temples; video-generation; camera-control; evaluation
+2026-10-17T02:21:40Z,AI4Manufacturing/w_cad13-featurenet-feature,AI4Manufacturing,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-17T02:21:44Z,ReTrain/hyak-eval-states,ReTrain,0,0,size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-17T02:23:09Z,MLL-Lab/embodied-exam-media,MLL-Lab,0,0,license:other; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; embodied-ai; code-agents; simulation
+2026-10-17T02:25:13Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-17T02:25:43Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-17T02:27:08Z,SADXZAE12E4/Annoy-PyEdu-Rs,SADXZAE12E4,0,0,region:us
+2026-10-17T02:27:39Z,SADXZAE12E4/Annoy-PyEdu-Rs-Raw,SADXZAE12E4,0,0,region:us
+2026-10-17T02:28:33Z,mobile258/TacQuad,mobile258,0,0,license:mit; region:us
+2026-10-17T02:29:24Z,g1n0st/a2c88b4c1a164536487bb3cde7a205e6a805c813,g1n0st,0,0,region:us
+2026-10-17T02:29:27Z,g1n0st/5821791eadb0258cc7c04403ad231dde1b66e1ce,g1n0st,0,0,region:us
+2026-10-17T02:29:28Z,g1n0st/8d09b76f5a1e35ebc296fc56a32a91b0e4907076,g1n0st,0,0,region:us
+2026-10-17T02:29:56Z,g1n0st/a4a957aa199bf5a7d6314e9d54b80e9ff2a092dd,g1n0st,0,0,region:us
+2026-10-17T02:29:59Z,g1n0st/96f8cd5085a804fb5ca08644c1c3733ef253ac51,g1n0st,0,0,region:us
+2026-10-17T02:29:59Z,g1n0st/6f1efe02581cff5976553abe8c6a03ce72719f82,g1n0st,0,0,region:us
+2026-10-17T02:30:24Z,g1n0st/0078fb2a1198d9c349720cda8222fd9d4c7cc6d8,g1n0st,0,0,region:us
+2026-10-17T02:30:27Z,g1n0st/57af43a72af6ff700bb51bb70f52bf810e9b6b2b,g1n0st,0,0,region:us
+2026-10-17T02:30:27Z,g1n0st/563f53fdb1980224932ed4ca82a2d907cae147e5,g1n0st,0,0,region:us
+2026-10-17T02:30:31Z,g1n0st/bb99bcc55990a3dc1238bf47dfe28b07b6101607,g1n0st,0,0,region:us
+2026-10-17T02:30:41Z,Gyseop/record-test-10,Gyseop,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-17T02:30:57Z,g1n0st/dd29a5007e431514768d43fc798395458923fc91,g1n0st,0,0,region:us
+2026-10-17T02:30:58Z,g1n0st/5e7ccab963c5dcce147d219db540392cad24da08,g1n0st,0,0,region:us
+2026-10-17T02:31:02Z,g1n0st/3b049fc845d1ee5331039836827531e229bf001e,g1n0st,0,0,region:us
+2026-10-17T02:31:02Z,g1n0st/eac07c784f83f44c896692db2916a6925b1c495f,g1n0st,0,0,region:us
+2026-10-17T02:31:26Z,zinziroge/sp101_pick_the_block_20261017_112624,zinziroge,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T02:31:54Z,g1n0st/ee9719ab1ea793b8308b0ff23324e6dbeabb0e84,g1n0st,0,0,region:us
+2026-10-17T02:31:57Z,g1n0st/6f329f40f9f933b9c8b6eccf4577c558016107e7,g1n0st,0,0,region:us
+2026-10-17T02:31:58Z,g1n0st/1445f5e36d1600fcfc73d770e39b4ffe7c2ba0b0,g1n0st,0,0,region:us
+2026-10-17T02:33:52Z,g1n0st/0b4edc2825d59bea8047ab216e0472bf145f2cdc,g1n0st,0,0,region:us
+2026-10-17T02:36:01Z,Raywithyou/gamescale-stage2-mixB,Raywithyou,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-17T02:36:28Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-10-17T02:36:38Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-10-17T02:37:06Z,takeforest/hoshihoshi_20261017_113307,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T02:39:01Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-17T02:39:02Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-17T02:39:22Z,open-athena/Snowball-67B-A2B-CruxEval-Transfer-Artifacts-2026.10,open-athena,0,0,license:apache-2.0; region:us; marin; snowball; distillation
+2026-10-17T02:40:30Z,open-athena/Snowball-67B-A2B-Two-Expert-Transfer-Artifacts-2026.10,open-athena,0,0,license:apache-2.0; region:us; marin; snowball; distillation
+2026-10-17T02:42:25Z,sdsdfs4545/Annoy-PyEdu-Rs,sdsdfs4545,0,0,region:us
+2026-10-17T02:42:26Z,sdsdfs4545/Annoy-PyEdu-Rs-Raw,sdsdfs4545,0,0,region:us
+2026-10-17T02:42:32Z,g1n0st/2f5a54a76ee14766c6c949536a1880c03228a633,g1n0st,0,0,region:us
+2026-10-17T02:42:57Z,g1n0st/f3ba020e5f0c7965bfd4a47010bcbcf5b7947c7b,g1n0st,0,0,region:us
+2026-10-17T02:44:04Z,headwaterai/headwater-text-cleansing-engine,headwaterai,0,0,region:us
+2026-10-17T02:48:03Z,g1n0st/397e13962399e42df26242d6e68f3dd844b1dcaf,g1n0st,0,0,region:us
+2026-10-17T02:48:07Z,QWDSA12SA/Annoy-PyEdu-Rs,QWDSA12SA,0,0,region:us
+2026-10-17T02:48:08Z,QWDSA12SA/Annoy-PyEdu-Rs-Raw,QWDSA12SA,0,0,region:us
+2026-10-17T02:48:09Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-10-17T02:48:09Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-10-17T02:52:49Z,Vegetebird/data,Vegetebird,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T02:54:03Z,g1n0st/922178cd542bafd1352fd758e0c15d38871160d0,g1n0st,0,0,region:us
+2026-10-17T02:55:32Z,g1n0st/7308b56bc584dac60b06e53a9638fb5dba27a7bd,g1n0st,0,0,region:us
+2026-10-17T02:56:20Z,DSAC12DSA21E/Annoy-PyEdu-Rs,DSAC12DSA21E,0,0,region:us
+2026-10-17T02:56:23Z,DSAC12DSA21E/Annoy-PyEdu-Rs-Raw,DSAC12DSA21E,0,0,region:us
+2026-10-17T02:57:13Z,karmaxteq/Annoy-PyEdu-Rs,karmaxteq,0,0,region:us
+2026-10-17T02:57:14Z,karmaxteq/Annoy-PyEdu-Rs-Raw,karmaxteq,0,0,region:us
+2026-10-17T02:57:42Z,g1n0st/ce5ccb38b258de64abf2b3f252bde927200f35bd,g1n0st,0,0,region:us
+2026-10-17T02:57:55Z,sadad1szc12cxzq/Annoy-PyEdu-Rs,sadad1szc12cxzq,0,0,region:us
+2026-10-17T02:58:02Z,sadad1szc12cxzq/Annoy-PyEdu-Rs-Raw,sadad1szc12cxzq,0,0,region:us
+2026-10-17T02:58:50Z,g1n0st/19721a7c2322aa72c876e66ac1015b80f2c96df2,g1n0st,0,0,region:us
+2026-10-17T02:58:51Z,nilnguyen2k/mit67_standard_swin_tiny_oof_features,nilnguyen2k,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T02:59:04Z,nilnguyen2k/mit67_standard_resnet50_gap_oof_features,nilnguyen2k,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T02:59:13Z,g1n0st/06e4dd1566a484810d54100a423fb6fb490cc4b2,g1n0st,0,0,region:us
+2026-10-17T02:59:34Z,g1n0st/ec32ce722cfef92414d2e161a4ffc64b21ae6ee4,g1n0st,0,0,region:us
+2026-10-17T02:59:46Z,KieloTony/Annoy-PyEdu-Rs,KieloTony,0,0,region:us
+2026-10-17T02:59:47Z,KieloTony/Annoy-PyEdu-Rs-Raw,KieloTony,0,0,region:us
+2026-10-17T03:00:42Z,aarontseng/cr-prepared,aarontseng,0,0,region:us
+2026-10-17T03:01:17Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T03:01:20Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T03:01:49Z,LeeHakHo/play_hri_cube_robot_3,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T03:02:45Z,g1n0st/1b921e2a66952f84953c96ebf3aed029a34d348b,g1n0st,0,0,region:us
+2026-10-17T03:02:46Z,g1n0st/8e2ae961c05ab6e6ad0e1249c98dc58977b82ad5,g1n0st,0,0,region:us
+2026-10-17T03:03:24Z,g1n0st/a6e541921c8e0db25c08aab10ed510b816dd5568,g1n0st,0,0,region:us
+2026-10-17T03:04:32Z,g1n0st/1d8f1977096be7f904e30f241649c3429f8d22f9,g1n0st,0,0,region:us
+2026-10-17T03:05:13Z,g1n0st/7a6aea411475083fc42a281ef509da85fac72f28,g1n0st,0,0,region:us
+2026-10-17T03:06:07Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-10-17T03:06:09Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-10-17T03:06:41Z,LeeHakHo/play_hri_cube_robot_3_eef,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-17T03:07:37Z,g1n0st/3d973555d2dded9a45afc21f299753fd6abe3972,g1n0st,0,0,region:us
+2026-10-17T03:07:39Z,g1n0st/14220fbb60aa6230d14662fcd865b15b9798cb29,g1n0st,0,0,region:us
+2026-10-17T03:07:59Z,g1n0st/f4bb63ca390b9bf49fc458b94149e23f98ea4d1f,g1n0st,0,0,region:us
+2026-10-17T03:09:05Z,Malvintnw/Indonesian_Digital_MSME_and_E-Commerce_Sales_Performance_Dataset,Malvintnw,0,0,license:mit; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-17T03:09:06Z,g1n0st/1f63b555f0396f55632e95c017e29b9d9acef990,g1n0st,0,0,region:us
+2026-10-17T03:09:13Z,g1n0st/83b37bbccf5d7465fed7659ab45e631853bc2de8,g1n0st,0,0,region:us
+2026-10-17T03:09:17Z,SoroushVahidi/ranking-pool-ndcg-results,SoroushVahidi,0,0,language:en; license:cc-by-4.0; region:us; information-retrieval; ranking; ndcg; research-results
+2026-10-17T03:09:52Z,g1n0st/0040f376d012594479a4da2bf6b95ce36a789ebc,g1n0st,0,0,region:us
+2026-10-17T03:10:55Z,g1n0st/01b000d5d69be348c83b62a05d50e1873a06c353,g1n0st,0,0,region:us
+2026-10-17T03:12:12Z,e12ex2/herbert-results,e12ex2,0,0,license:apache-2.0; region:us; decision-index
+2026-10-17T03:13:01Z,g1n0st/5e51332a79ebc2d35c121eed9a93362c4d72640b,g1n0st,0,0,region:us
+2026-10-17T03:13:27Z,Donghyun1228/libero-support-random-waypoint-n50000-medium-yaw20-20261017,Donghyun1228,0,0,region:us
+2026-10-17T03:14:50Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-17T03:14:50Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-17T03:15:13Z,zinziroge/sp101_pick_the_block_20261017_115300,zinziroge,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-17T03:15:59Z,MoAIBo/so101_tb4_hil_handover_chunks_r4_20261016,MoAIBo,0,0,region:us
+2026-10-17T03:17:59Z,PINNeAPPle-Labs/blackhole-riaf-density-256,PINNeAPPle-Labs,0,0,license:cc-by-4.0; region:us; pinneapple; astrophysics; black hole; accretion; hydrodynamics; forecasting
+2026-10-17T03:19:37Z,liuftrwrtw/Annoy-PyEdu-Rs,liuftrwrtw,0,0,region:us
+2026-10-17T03:19:38Z,liuftrwrtw/Annoy-PyEdu-Rs-Raw,liuftrwrtw,0,0,region:us
+2026-10-17T03:19:39Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-10-17T03:19:50Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
