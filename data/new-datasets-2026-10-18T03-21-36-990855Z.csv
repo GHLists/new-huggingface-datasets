@@ -1,0 +1,43 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-18T02:23:21Z,jellyho/hmg-g1-drill-pnp-reward,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-18T02:23:34Z,colearnlab/misconception-detection-in-k-12-student-math-workings,colearnlab,0,0,region:us
+2026-10-18T02:25:27Z,rverm-a6391/robotics-dataset,rverm-a6391,0,0,license:mit; region:us; dataset; robotics; pointcloud-text
+2026-10-18T02:26:43Z,rajeshtkapoor/tmp-dialogue,rajeshtkapoor,0,0,license:cc-by-4.0; region:us; dataset; dialogue; multimodal3
+2026-10-18T02:26:54Z,duyle2408/cacs-checkpoint-eval-20261018-runs,duyle2408,0,0,region:us
+2026-10-18T02:29:29Z,EndeavourDD/tracy,EndeavourDD,0,0,region:us
+2026-10-18T02:29:41Z,Maphillips/my-code-2024,Maphillips,0,0,license:apache-2.0; region:us; dataset; code; image-text
+2026-10-18T02:29:59Z,Maphillips/finance-data,Maphillips,0,0,license:apache-2.0; region:us; dataset; finance; multimodal3
+2026-10-18T02:30:00Z,jellyho/hmg-g1-box-table-to-shelf-reward,jellyho,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-18T02:31:24Z,vibrantlabsai/pool-desk-v4,vibrantlabsai,0,0,task_categories:reinforcement-learning; license:other; size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; library:openenv; region:us; openenv; rl-environment;…
+2026-10-18T02:34:41Z,SuhaoYu1020/arith-sq256,SuhaoYu1020,0,0,task_categories:image-to-image; size_categories:10K<n<100K; region:us; arithmetic; synthetic; diffusion; ocr
+2026-10-18T02:40:12Z,Akahsizrr/foundry4-synth,Akahsizrr,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T02:40:48Z,sunsetdiff/ai-model-deprecations,sunsetdiff,0,0,license:cc-by-4.0; region:us; llm; deprecation; model-lifecycle; openai; anthropic; gemini
+2026-10-18T02:41:43Z,tamzidullah/quantura-ensemble-study-2026,tamzidullah,0,0,language:en; license:cc-by-4.0; region:us; time-series; forecasting; ensembles; quantile-regression; research-paper
+2026-10-18T02:41:58Z,mangojameswuz/gaming-video-text-v2,mangojameswuz,0,0,license:mit; region:us; dataset; gaming; video-text
+2026-10-18T02:42:37Z,arusgrid/data-center-buildout,arusgrid,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; region:us; data-centers; infrastructure; energy; ai-infrastructure; asia; gulf; india; china
+2026-10-18T02:43:19Z,LuumaKing/tmp-guoguo-deploy,LuumaKing,0,0,region:us
+2026-10-18T02:44:21Z,Liangzhi-Li/cvbench-depth-model-outputs,Liangzhi-Li,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; depth-estimation; image-segmentation; cv-bench
+2026-10-18T02:46:38Z,AhaSignals/company-kpi-history,AhaSignals,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; prove…
+2026-10-18T02:46:49Z,sanaka87/openve_fixed_bernini14b_vmse_mix2_s1t1r1_lr2e5_eb24_step400,sanaka87,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-18T02:46:51Z,AhaSignals/us-treasury-yield-history,AhaSignals,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; pro…
+2026-10-18T02:49:50Z,leolu666/VLA_Gemma,leolu666,0,0,region:us
+2026-10-18T02:51:56Z,vicshi97/rollout_sock-recovery_1.0,vicshi97,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-18T02:55:49Z,nanotermux/datasets-cleaner,nanotermux,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T02:57:59Z,armnet/eval_assemble_enpire_gripper_pi05_fft_step20000_50eps,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-18T02:58:38Z,tobiastech/sortarm_main,tobiastech,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-18T02:59:52Z,benjaminbecker7/sock_bin_rl_demos_v1,benjaminbecker7,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-18T03:01:11Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T03:01:13Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T03:03:09Z,noirchoix/Orderly,noirchoix,0,0,license:mit; region:us
+2026-10-18T03:06:04Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-18T03:06:11Z,Jkowalczykhum/quick-legal,Jkowalczykhum,0,0,license:apache-2.0; region:us; dataset; legal; multimodal3
+2026-10-18T03:06:29Z,Jkowalczykhum/weather-dataset,Jkowalczykhum,0,0,license:cc-by-4.0; region:us; dataset; weather; audio-video
+2026-10-18T03:06:53Z,Infatoshi/DeepSeek-V4.1-Flash-1017-local-evaluation,Infatoshi,0,0,task_categories:text-generation; license:mit; region:us; benchmark; vllm; deepseek
+2026-10-18T03:07:35Z,blackmallangcow/nari-decision-index,blackmallangcow,0,0,license:apache-2.0; region:us; decision-index
+2026-10-18T03:10:21Z,lanhe1124/archives,lanhe1124,0,0,region:us; computer-vision; 4d; synthetic; kubric
+2026-10-18T03:10:39Z,k1ch1/fog-sim,k1ch1,0,0,region:us
+2026-10-18T03:11:42Z,qweqweewqe7/comfyui_rdna4,qweqweewqe7,0,0,region:us
+2026-10-18T03:13:29Z,Gtperez1104/study-wildlife,Gtperez1104,0,0,license:apache-2.0; region:us; dataset; wildlife; multimodal3
+2026-10-18T03:14:03Z,huayreview/thai-lottery-results,huayreview,0,0,language:th; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T03:15:33Z,faraway00/stylized-data,faraway00,0,0,region:us
+2026-10-18T03:15:47Z,xuan-liu/ARIES-data,xuan-liu,0,0,license:other; region:us; chemistry; enzyme; reaction-site-prediction; grover; esmc
