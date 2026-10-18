@@ -1,0 +1,46 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-18T11:20:56Z,BeriaLabs/Muse-Spark-816B-free-assets,BeriaLabs,0,0,language:en; language:es; size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; model-card; berialabs
+2026-10-18T11:21:54Z,Metroooooooo/fr3-pick-place-dataset,Metroooooooo,0,1,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-18T11:26:09Z,migueloll06k/multimodal3-corpus,migueloll06k,0,0,license:cc-by-4.0; region:us; dataset; travel; multimodal3
+2026-10-18T11:26:41Z,ahmad-awad/arabic-normalization-retrieval,ahmad-awad,0,0,task_categories:text-retrieval; language:ar; license:apache-2.0; size_categories:1K<n<10K; region:us; arabic; miracl; information-retrieval; bm25; dense-retrieval; text-normalization
+2026-10-18T11:27:14Z,penfever/injecagent-harbor,penfever,0,0,size_categories:1K<n<10K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us
+2026-10-18T11:29:28Z,SamLegion888/SWE_test_1,SamLegion888,0,0,region:us
+2026-10-18T11:30:47Z,zhoudoe23/reddit-top-qa-dataset,zhoudoe23,0,0,region:us
+2026-10-18T11:35:27Z,Holger1997/LibriSpeech-Alignments,Holger1997,0,0,language:en; modality:text; region:us; librispeech; forced-alignment; voice-activity-detection
+2026-10-18T11:35:46Z,qq1018408006/STONE,qq1018408006,0,0,license:mit; region:us
+2026-10-18T11:43:24Z,Nephamaster/CC-LLM,Nephamaster,0,0,license:unknown; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-18T11:43:32Z,JOHNISKING/claude-web-search-by-language,JOHNISKING,0,0,language:en; language:ko; language:ja; language:es; language:uk; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars…
+2026-10-18T11:45:15Z,aitrainingjobs/ai-training-jobs-index,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T11:45:31Z,aitrainingjobs/afterquery-hiring-data,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T11:45:43Z,mrbanoth/drishti-live,mrbanoth,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T11:46:47Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-18T11:46:47Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-18T11:50:31Z,advaitnair/finance-image-text,advaitnair,0,0,license:apache-2.0; region:us; dataset; finance; image-text
+2026-10-18T11:50:52Z,sadgfsdf234/ig-reel-pipeline,sadgfsdf234,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-18T11:51:34Z,csliang123/SUATLab_step11600_original_vjepa,csliang123,0,0,region:us
+2026-10-18T11:53:20Z,rodrigocos/traffic-image-text,rodrigocos,0,0,license:cc-by-4.0; region:us; dataset; traffic; image-text
+2026-10-18T11:53:27Z,HugoTer/lab4,HugoTer,0,0,region:us
+2026-10-18T11:55:28Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-18T11:55:29Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-18T11:56:22Z,Sananonymous/RoTA-Bench,Sananonymous,0,0,task_categories:visual-question-answering; annotations_creators:other; language:en; size_categories:1K<n<10K; arxiv:2610.17665; region:us; 3d-spatial-reasoning; benchmark; robotics
+2026-10-18T11:57:19Z,mimakhmuydv/asr-spell-correction-hw1,mimakhmuydv,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T12:01:33Z,x402Fizzl/x402-trust-index,x402Fizzl,0,1,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; modality:text; region:us; x402; mpp; ai-agents; agent-payments; payments; stablecoins; usdc; api
+2026-10-18T12:02:21Z,aitrainingjobs/agentic-rl-environment-market,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T12:02:53Z,penfever/nyuctf-harbor,penfever,0,0,size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us
+2026-10-18T12:04:04Z,milosand1/sec-filings-tone,milosand1,0,0,task_categories:text-classification; task_ids:sentiment-scoring; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:…
+2026-10-18T12:04:38Z,klein8734/agriculture-image-audio,klein8734,0,0,license:mit; region:us; dataset; agriculture; image-audio
+2026-10-18T12:04:42Z,xiangrui1108/WeiboMM,xiangrui1108,0,0,license:apache-2.0; region:us
+2026-10-18T12:04:44Z,jaeikkim/fr3-3cube-robot-3dpc-10k-rgb-filtered-20261018,jaeikkim,0,0,task_categories:robotics; license:cc-by-nc-4.0; region:us; LeRobot; franka; fr3; manipulation
+2026-10-18T12:04:54Z,klein8734/speech-audio-text,klein8734,0,0,license:mit; region:us; dataset; speech; audio-text
+2026-10-18T12:07:07Z,Jayan12321/rag-evaluation-benchmark,Jayan12321,0,0,multilinguality:monolingual; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; rag; retrieva…
+2026-10-18T12:07:50Z,umu/DailyMoire130,umu,0,0,task_categories:image-to-image; language:en; language:zh; size_categories:n<1K; region:us; image-restoration; image-demoireing; real-world
+2026-10-18T12:09:53Z,kimsuhyeok/lama3_ksh,kimsuhyeok,0,0,region:us
+2026-10-18T12:10:24Z,Vinod8848/prism-review-benchmark,Vinod8848,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:u…
+2026-10-18T12:10:45Z,kimsuhyeok/lama3_ksh_unslot_data,kimsuhyeok,0,0,region:us
+2026-10-18T12:14:05Z,JulienFourel/movergrade-data,JulienFourel,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; movers; fmcsa; transportation; united-states
+2026-10-18T12:15:53Z,joshawa22/expert-stack-dataset,joshawa22,0,0,region:us
+2026-10-18T12:16:30Z,vanishingradient/deepagents-rl-mbpp,vanishingradient,0,0,region:us
+2026-10-18T12:17:33Z,wadifainfo/morocco-concours-qcm,wadifainfo,0,0,task_categories:multiple-choice; task_categories:question-answering; language:fr; language:ar; license:cc-by-4.0; size_categories:n<1K; region:us; morocco; public-service; exams; arabic; french; eval…
+2026-10-18T12:17:40Z,apartejs/aparte-secrets-gold,apartejs,0,0,task_categories:token-classification; language:en; language:fr; license:odc-by; region:us; secret-detection; benchmark; aparte
+2026-10-18T12:17:44Z,apartejs/aparte-secrets-data,apartejs,0,0,task_categories:token-classification; language:en; language:fr; license:odc-by; region:us; secret-detection; synthetic; aparte
+2026-10-18T12:18:07Z,shang537/lerobot_shang_dataset_a,shang537,0,0,license:mit; region:us
