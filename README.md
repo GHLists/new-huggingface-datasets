@@ -9,160 +9,102 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 15:19 UTC
+## Latest list — 2026-10-18 16:18 UTC
 
-New datasets created between 2026-10-18 14:20 UTC and 2026-10-18 15:19 UTC.
+New datasets created between 2026-10-18 15:19 UTC and 2026-10-18 16:18 UTC.
 
-[Full CSV](data/new-datasets-2026-10-18T15-19-05-779052Z.csv)
+[Full CSV](data/new-datasets-2026-10-18T16-18-43-232812Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-18 14:21:12 | [jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_last_all_v1_20261018_162019](https://huggingface.co/jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_last_all_v1_20261018_162019) | jogarulfo | 0 | 0 | region:us |
-| 2026-10-18 14:22:12 | [tool1/Annoy-PyEdu-Rs](https://huggingface.co/tool1/Annoy-PyEdu-Rs) | tool1 | 0 | 0 | region:us |
-| 2026-10-18 14:22:13 | [tool1/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tool1/Annoy-PyEdu-Rs-Raw) | tool1 | 0 | 0 | region:us |
-| 2026-10-18 14:23:20 | [keywordbarrage/iherb-scraper](https://huggingface.co/keywordbarrage/iherb-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 14:23:59 | [erc-samples/traversability-costmap](https://huggingface.co/erc-samples/traversability-costmap) | erc-samples | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-10-18 14:24:43 | [marsh123/nureasoning-causal-retrieval-ego](https://huggingface.co/marsh123/nureasoning-causal-retrieval-ego) | marsh123 | 0 | 0 | language:en; language:zh; license:other; region:us |
-| 2026-10-18 14:25:00 | [h3x3x/ChatGPT-Jailbreak-Prompts](https://huggingface.co/h3x3x/ChatGPT-Jailbreak-Prompts) | h3x3x | 0 | 0 | task_categories:question-answering; task_categories:text-ge… |
-| 2026-10-18 14:25:01 | [DataWithSteve/tiktok-5.6B-videos](https://huggingface.co/DataWithSteve/tiktok-5.6B-videos) | DataWithSteve | 0 | 0 | license:cc-by-nc-4.0; size_categories:1B<n<10B; format:parq… |
-| 2026-10-18 14:26:56 | [HARRY07979/VM](https://huggingface.co/HARRY07979/VM) | HARRY07979 | 0 | 0 | region:us |
-| 2026-10-18 14:27:30 | [mcptester0606/Annoy-PyEdu-Rs](https://huggingface.co/mcptester0606/Annoy-PyEdu-Rs) | mcptester0606 | 0 | 0 | region:us |
-| 2026-10-18 14:27:31 | [mcptester0606/Annoy-PyEdu-Rs-Raw](https://huggingface.co/mcptester0606/Annoy-PyEdu-Rs-Raw) | mcptester0606 | 0 | 0 | region:us |
-| 2026-10-18 14:27:36 | [jnc-lark/nlp-summarization-multimodal3](https://huggingface.co/jnc-lark/nlp-summarization-multimodal3) | jnc-lark | 0 | 0 | license:cc-by-4.0; region:us; dataset; nlp-summarization; m… |
-| 2026-10-18 14:28:02 | [jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_all_v3_20261018_162302](https://huggingface.co/jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_all_v3_20261018_162302) | jogarulfo | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-18 14:29:03 | [sirbrentmichaelskoda/omega-aegis-ultima-upgraded](https://huggingface.co/sirbrentmichaelskoda/omega-aegis-ultima-upgraded) | sirbrentmichaelskoda | 0 | 0 | region:us |
-| 2026-10-18 14:33:19 | [keywordbarrage/ikea-scraper](https://huggingface.co/keywordbarrage/ikea-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 14:33:24 | [sharjeel640/blind-spots-frontier-models](https://huggingface.co/sharjeel640/blind-spots-frontier-models) | sharjeel640 | 0 | 0 | region:us |
-| 2026-10-18 14:33:29 | [Zd21EDSA123/Annoy-PyEdu-Rs](https://huggingface.co/Zd21EDSA123/Annoy-PyEdu-Rs) | Zd21EDSA123 | 0 | 0 | region:us |
-| 2026-10-18 14:33:30 | [Zd21EDSA123/Annoy-PyEdu-Rs-Raw](https://huggingface.co/Zd21EDSA123/Annoy-PyEdu-Rs-Raw) | Zd21EDSA123 | 0 | 0 | region:us |
-| 2026-10-18 14:35:54 | [KSZG/PVBench-Web-Video](https://huggingface.co/KSZG/PVBench-Web-Video) | KSZG | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-10-18 14:39:09 | [CheneyWong/SciTSR](https://huggingface.co/CheneyWong/SciTSR) | CheneyWong | 0 | 0 | task_categories:image-to-text; language:en; license:other;… |
-| 2026-10-18 14:39:11 | [wenjingbian/viewstruct_train](https://huggingface.co/wenjingbian/viewstruct_train) | wenjingbian | 0 | 0 | task_categories:image-to-3d; task_categories:visual-questio… |
-| 2026-10-18 14:39:51 | [toolathlon-eval-07/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-eval-07/Annoy-PyEdu-Rs) | toolathlon-eval-07 | 0 | 0 | region:us |
-| 2026-10-18 14:39:51 | [toolathlon-eval-07/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-eval-07/Annoy-PyEdu-Rs-Raw) | toolathlon-eval-07 | 0 | 0 | region:us |
-| 2026-10-18 14:40:41 | [wpseven/sms-spam-burmese](https://huggingface.co/wpseven/sms-spam-burmese) | wpseven | 0 | 0 | task_categories:text-classification; task_ids:multi-class-c… |
-| 2026-10-18 14:43:18 | [aitrainingjobs/ai-training-job-titles](https://huggingface.co/aitrainingjobs/ai-training-job-titles) | aitrainingjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:43:22 | [Chenfy0407/stereo4d-frames-42k](https://huggingface.co/Chenfy0407/stereo4d-frames-42k) | Chenfy0407 | 0 | 0 | region:us |
-| 2026-10-18 14:44:08 | [nlp-hayashi/japanese-youtube-constructive-comments](https://huggingface.co/nlp-hayashi/japanese-youtube-constructive-comments) | nlp-hayashi | 0 | 0 | language:ja; license:cc-by-4.0; size_categories:1K<n<10K; f… |
-| 2026-10-18 14:44:16 | [keywordbarrage/olx-scraper](https://huggingface.co/keywordbarrage/olx-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 14:45:18 | [rathishTharusha/leg-seir](https://huggingface.co/rathishTharusha/leg-seir) | rathishTharusha | 0 | 0 | task_categories:time-series-forecasting; language:en; licen… |
-| 2026-10-18 14:45:33 | [Malvintnw/Indonesian_Digital_Startup_Funding_and_Investment_Trends_Dataset](https://huggingface.co/Malvintnw/Indonesian_Digital_Startup_Funding_and_Investment_Trends_Dataset) | Malvintnw | 0 | 0 | license:mit; size_categories:1K<n<10K; format:csv; modality… |
-| 2026-10-18 14:46:12 | [Anki-tsin/nlp-qa-multimodal3-v2](https://huggingface.co/Anki-tsin/nlp-qa-multimodal3-v2) | Anki-tsin | 0 | 0 | license:apache-2.0; region:us; dataset; nlp-qa; multimodal3 |
-| 2026-10-18 14:46:37 | [The0Sanity/sesmetin-v2-tdk-10m-corpus](https://huggingface.co/The0Sanity/sesmetin-v2-tdk-10m-corpus) | The0Sanity | 0 | 0 | task_categories:automatic-speech-recognition; task_categori… |
-| 2026-10-18 14:48:00 | [dfsffg667/Annoy-PyEdu-Rs-Raw](https://huggingface.co/dfsffg667/Annoy-PyEdu-Rs-Raw) | dfsffg667 | 0 | 0 | region:us |
-| 2026-10-18 14:48:00 | [dfsffg667/Annoy-PyEdu-Rs](https://huggingface.co/dfsffg667/Annoy-PyEdu-Rs) | dfsffg667 | 0 | 0 | region:us |
-| 2026-10-18 14:49:00 | [h1testrightmeow/dsviewer-gated.v3](https://huggingface.co/h1testrightmeow/dsviewer-gated.v3) | h1testrightmeow | 0 | 0 | size_categories:n<1K; format:csv; modality:text; library:da… |
-| 2026-10-18 14:49:26 | [h1testrightmeow-dsviewer-gated/v3](https://huggingface.co/h1testrightmeow-dsviewer-gated/v3) | h1testrightmeow-dsviewer-gated | 0 | 0 | region:us |
-| 2026-10-18 14:49:50 | [robert131OO4/out-series](https://huggingface.co/robert131OO4/out-series) | robert131OO4 | 0 | 0 | region:us |
-| 2026-10-18 14:50:02 | [GSMS-B/indian-legal-knowledge-base-json](https://huggingface.co/GSMS-B/indian-legal-knowledge-base-json) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:10K<n<100K;… |
-| 2026-10-18 14:51:28 | [GSMS-B/indian-law-administrative-tribunals-act-1985](https://huggingface.co/GSMS-B/indian-law-administrative-tribunals-act-1985) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:51:39 | [GSMS-B/indian-law-advocates-act-1961](https://huggingface.co/GSMS-B/indian-law-advocates-act-1961) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:51:48 | [GSMS-B/indian-law-air-prevention-and-control-of-pollution-act-1981](https://huggingface.co/GSMS-B/indian-law-air-prevention-and-control-of-pollution-act-1981) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:51:59 | [GSMS-B/indian-law-arms-act-1959](https://huggingface.co/GSMS-B/indian-law-arms-act-1959) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:52:15 | [GSMS-B/indian-law-banking-regulation-act-1949](https://huggingface.co/GSMS-B/indian-law-banking-regulation-act-1949) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:52:25 | [GSMS-B/indian-law-central-goods-and-services-tax-act-2017](https://huggingface.co/GSMS-B/indian-law-central-goods-and-services-tax-act-2017) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:52:35 | [GSMS-B/indian-law-child-and-adolescent-labour-prohibition-and-regulation-act-1986](https://huggingface.co/GSMS-B/indian-law-child-and-adolescent-labour-prohibition-and-regulation-act-1986) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:52:43 | [GSMS-B/indian-law-chit-funds-act-1982](https://huggingface.co/GSMS-B/indian-law-chit-funds-act-1982) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:52:53 | [GSMS-B/indian-law-code-on-social-security-2020](https://huggingface.co/GSMS-B/indian-law-code-on-social-security-2020) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:53:03 | [GSMS-B/indian-law-code-on-wages-2019](https://huggingface.co/GSMS-B/indian-law-code-on-wages-2019) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:53:12 | [GSMS-B/indian-law-commercial-courts-act-2015](https://huggingface.co/GSMS-B/indian-law-commercial-courts-act-2015) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:53:18 | [GSMS-B/indian-law-competition-act-2002](https://huggingface.co/GSMS-B/indian-law-competition-act-2002) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:53:25 | [GSMS-B/indian-law-contempt-of-courts-act-1971](https://huggingface.co/GSMS-B/indian-law-contempt-of-courts-act-1971) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:53:30 | [ahmedez10/egyptian-arabic-tts-dataset](https://huggingface.co/ahmedez10/egyptian-arabic-tts-dataset) | ahmedez10 | 0 | 0 | task_categories:text-to-speech; language:ar; license:apache… |
-| 2026-10-18 14:53:33 | [GSMS-B/indian-law-copyright-act-1957](https://huggingface.co/GSMS-B/indian-law-copyright-act-1957) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:53:43 | [GSMS-B/indian-law-customs-act-1962](https://huggingface.co/GSMS-B/indian-law-customs-act-1962) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:54:01 | [GSMS-B/indian-law-designs-act-2000](https://huggingface.co/GSMS-B/indian-law-designs-act-2000) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:08 | [GSMS-B/indian-law-dowry-prohibition-act-1961](https://huggingface.co/GSMS-B/indian-law-dowry-prohibition-act-1961) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:13 | [BhaggYhaSe/4](https://huggingface.co/BhaggYhaSe/4) | BhaggYhaSe | 0 | 0 | size_categories:1B<n<10B; format:parquet; modality:text; li… |
-| 2026-10-18 14:54:19 | [GSMS-B/indian-law-easements-act-1882](https://huggingface.co/GSMS-B/indian-law-easements-act-1882) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:27 | [GSMS-B/indian-law-environment-protection-act-1986](https://huggingface.co/GSMS-B/indian-law-environment-protection-act-1986) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:29 | [keywordbarrage/pandora-scraper](https://huggingface.co/keywordbarrage/pandora-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 14:54:31 | [Inayatgaming/InayatGamingg](https://huggingface.co/Inayatgaming/InayatGamingg) | Inayatgaming | 0 | 0 | license:mit; region:us |
-| 2026-10-18 14:54:35 | [GSMS-B/indian-law-family-courts-act-1984](https://huggingface.co/GSMS-B/indian-law-family-courts-act-1984) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:43 | [GSMS-B/indian-law-foreign-exchange-management-act-1999](https://huggingface.co/GSMS-B/indian-law-foreign-exchange-management-act-1999) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:51 | [GSMS-B/indian-law-geographical-indications-of-goods-registration-and-protection-act-1999](https://huggingface.co/GSMS-B/indian-law-geographical-indications-of-goods-registration-and-protection-act-1999) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:54:57 | [GSMS-B/indian-law-hindu-adoptions-and-maintenance-act-1956](https://huggingface.co/GSMS-B/indian-law-hindu-adoptions-and-maintenance-act-1956) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:55:05 | [GSMS-B/indian-law-hindu-marriage-act-1955](https://huggingface.co/GSMS-B/indian-law-hindu-marriage-act-1955) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:55:14 | [GSMS-B/indian-law-hindu-succession-act-1956](https://huggingface.co/GSMS-B/indian-law-hindu-succession-act-1956) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:55:22 | [GSMS-B/indian-law-indian-contract-act-1872](https://huggingface.co/GSMS-B/indian-law-indian-contract-act-1872) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:55:32 | [GSMS-B/indian-law-indian-partnership-act-1932](https://huggingface.co/GSMS-B/indian-law-indian-partnership-act-1932) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:55:47 | [GSMS-B/indian-law-indian-stamp-act-1899](https://huggingface.co/GSMS-B/indian-law-indian-stamp-act-1899) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:55:58 | [GSMS-B/indian-law-indian-succession-act-1925](https://huggingface.co/GSMS-B/indian-law-indian-succession-act-1925) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:56:11 | [GSMS-B/indian-law-insolvency-bankruptcy-code-2016](https://huggingface.co/GSMS-B/indian-law-insolvency-bankruptcy-code-2016) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:56:20 | [GSMS-B/indian-law-integrated-goods-and-services-tax-act-2017](https://huggingface.co/GSMS-B/indian-law-integrated-goods-and-services-tax-act-2017) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:56:28 | [GSMS-B/indian-law-juvenile-justice-care-and-protection-of-children-act-2015](https://huggingface.co/GSMS-B/indian-law-juvenile-justice-care-and-protection-of-children-act-2015) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:56:39 | [GSMS-B/indian-law-legal-services-authorities-act-1987](https://huggingface.co/GSMS-B/indian-law-legal-services-authorities-act-1987) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:56:48 | [GSMS-B/indian-law-limitation-act-1963](https://huggingface.co/GSMS-B/indian-law-limitation-act-1963) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:56:56 | [GSMS-B/indian-law-maintenance-and-welfare-of-parents-and-senior-citizens-act-2007](https://huggingface.co/GSMS-B/indian-law-maintenance-and-welfare-of-parents-and-senior-citizens-act-2007) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:03 | [GSMS-B/indian-law-narcotic-drugs-and-psychotropic-substances-act-1985](https://huggingface.co/GSMS-B/indian-law-narcotic-drugs-and-psychotropic-substances-act-1985) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:12 | [Mwanzau/tumbuka-pretraining](https://huggingface.co/Mwanzau/tumbuka-pretraining) | Mwanzau | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:text;… |
-| 2026-10-18 14:57:13 | [GSMS-B/indian-law-national-green-tribunal-act-2010](https://huggingface.co/GSMS-B/indian-law-national-green-tribunal-act-2010) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:21 | [GSMS-B/indian-law-occupational-safety-health-and-working-conditions-code-2020](https://huggingface.co/GSMS-B/indian-law-occupational-safety-health-and-working-conditions-code-2020) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:29 | [GSMS-B/indian-law-patents-act-1970](https://huggingface.co/GSMS-B/indian-law-patents-act-1970) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:41 | [GSMS-B/indian-law-prevention-of-corruption-act-1988](https://huggingface.co/GSMS-B/indian-law-prevention-of-corruption-act-1988) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:49 | [GSMS-B/indian-law-prevention-of-money-laundering-act-2002](https://huggingface.co/GSMS-B/indian-law-prevention-of-money-laundering-act-2002) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:57:56 | [GSMS-B/indian-law-prohibition-of-child-marriage-act-2006](https://huggingface.co/GSMS-B/indian-law-prohibition-of-child-marriage-act-2006) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:05 | [GSMS-B/indian-law-protection-of-children-from-sexual-offences-act-2012](https://huggingface.co/GSMS-B/indian-law-protection-of-children-from-sexual-offences-act-2012) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:58:12 | [GSMS-B/indian-law-protection-of-civil-rights-act-1955](https://huggingface.co/GSMS-B/indian-law-protection-of-civil-rights-act-1955) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:21 | [GSMS-B/indian-law-protection-of-human-rights-act-1993](https://huggingface.co/GSMS-B/indian-law-protection-of-human-rights-act-1993) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:30 | [GSMS-B/indian-law-protection-of-women-from-domestic-violence-act-2005](https://huggingface.co/GSMS-B/indian-law-protection-of-women-from-domestic-violence-act-2005) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:42 | [GSMS-B/indian-law-real-estate-regulation-and-development-act-2016](https://huggingface.co/GSMS-B/indian-law-real-estate-regulation-and-development-act-2016) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:50 | [GSMS-B/indian-law-recovery-of-debts-and-bankruptcy-act-1993](https://huggingface.co/GSMS-B/indian-law-recovery-of-debts-and-bankruptcy-act-1993) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:58:59 | [GSMS-B/indian-law-registration-act-1908](https://huggingface.co/GSMS-B/indian-law-registration-act-1908) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:59:08 | [GSMS-B/indian-law-reserve-bank-of-india-act-1934](https://huggingface.co/GSMS-B/indian-law-reserve-bank-of-india-act-1934) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:59:19 | [GSMS-B/indian-law-right-to-information-act-2005](https://huggingface.co/GSMS-B/indian-law-right-to-information-act-2005) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:59:28 | [GSMS-B/indian-law-sale-of-goods-act-1930](https://huggingface.co/GSMS-B/indian-law-sale-of-goods-act-1930) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:59:38 | [GSMS-B/indian-law-scheduled-castes-and-scheduled-tribes-prevention-of-atrocities-act-1989](https://huggingface.co/GSMS-B/indian-law-scheduled-castes-and-scheduled-tribes-prevention-of-atrocities-act-1989) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 14:59:47 | [GSMS-B/indian-law-sexual-harassment-of-women-at-workplace-prevention-prohibition-and-redressal-act-2013](https://huggingface.co/GSMS-B/indian-law-sexual-harassment-of-women-at-workplace-prevention-prohibition-and-redressal-act-2013) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 14:59:57 | [GSMS-B/indian-law-special-marriage-act-1954](https://huggingface.co/GSMS-B/indian-law-special-marriage-act-1954) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:00:07 | [GSMS-B/indian-law-the-arbitration-and-conciliation-act-1996](https://huggingface.co/GSMS-B/indian-law-the-arbitration-and-conciliation-act-1996) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:00:15 | [lothnic/themis-decision-mixture-v1](https://huggingface.co/lothnic/themis-decision-mixture-v1) | lothnic | 0 | 0 | task_categories:text-classification; task_categories:image-… |
-| 2026-10-18 15:00:20 | [GSMS-B/indian-law-the-companies-act-2013](https://huggingface.co/GSMS-B/indian-law-the-companies-act-2013) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 15:00:33 | [GSMS-B/indian-law-the-consumer-protection-act-2019](https://huggingface.co/GSMS-B/indian-law-the-consumer-protection-act-2019) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:00:43 | [GSMS-B/indian-law-the-digital-personal-data-protection-act-2023](https://huggingface.co/GSMS-B/indian-law-the-digital-personal-data-protection-act-2023) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:00:55 | [GSMS-B/indian-law-the-industrial-relations-code-2020](https://huggingface.co/GSMS-B/indian-law-the-industrial-relations-code-2020) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:04 | [GSMS-B/indian-law-the-information-technology-act-2000](https://huggingface.co/GSMS-B/indian-law-the-information-technology-act-2000) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:07 | [jkfoster/dl-travel](https://huggingface.co/jkfoster/dl-travel) | jkfoster | 0 | 0 | license:apache-2.0; region:us; dataset; travel; image-text |
-| 2026-10-18 15:01:09 | [JOHNISKING/ai-coding-prompt-language](https://huggingface.co/JOHNISKING/ai-coding-prompt-language) | JOHNISKING | 0 | 0 | language:en; language:ko; language:ja; language:es; languag… |
-| 2026-10-18 15:01:10 | [GSMS-B/indian-law-the-specific-relief-act-1963](https://huggingface.co/GSMS-B/indian-law-the-specific-relief-act-1963) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:21 | [GSMS-B/indian-law-trade-marks-act-1999](https://huggingface.co/GSMS-B/indian-law-trade-marks-act-1999) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:25 | [fullcourtbuckets/wnba-finals-attendance](https://huggingface.co/fullcourtbuckets/wnba-finals-attendance) | fullcourtbuckets | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:29 | [GSMS-B/indian-law-transfer-of-property-act-1882](https://huggingface.co/GSMS-B/indian-law-transfer-of-property-act-1882) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:39 | [GSMS-B/indian-law-unlawful-activities-prevention-act-1967](https://huggingface.co/GSMS-B/indian-law-unlawful-activities-prevention-act-1967) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:48 | [GSMS-B/indian-law-van-sanrakshan-evam-samvardhan-adhiniyam-1980](https://huggingface.co/GSMS-B/indian-law-van-sanrakshan-evam-samvardhan-adhiniyam-1980) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:01:58 | [GSMS-B/indian-law-water-prevention-and-control-of-pollution-act-1974](https://huggingface.co/GSMS-B/indian-law-water-prevention-and-control-of-pollution-act-1974) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:02:11 | [GSMS-B/indian-law-wildlife-protection-act-1972](https://huggingface.co/GSMS-B/indian-law-wildlife-protection-act-1972) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:03:02 | [Esposito33/memes-corpus](https://huggingface.co/Esposito33/memes-corpus) | Esposito33 | 0 | 0 | license:apache-2.0; region:us; dataset; memes; audio-text |
-| 2026-10-18 15:04:27 | [lianghsun/tw-law-enriched-articles](https://huggingface.co/lianghsun/tw-law-enriched-articles) | lianghsun | 0 | 0 | task_categories:text-generation; language:zh; license:other… |
-| 2026-10-18 15:05:07 | [ASD12ZXCQE/Annoy-PyEdu-Rs](https://huggingface.co/ASD12ZXCQE/Annoy-PyEdu-Rs) | ASD12ZXCQE | 0 | 0 | region:us |
-| 2026-10-18 15:05:08 | [ASD12ZXCQE/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD12ZXCQE/Annoy-PyEdu-Rs-Raw) | ASD12ZXCQE | 0 | 0 | region:us |
-| 2026-10-18 15:05:13 | [keywordbarrage/sephora-scraper](https://huggingface.co/keywordbarrage/sephora-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 15:05:42 | [hoshen/Beyond-the-Turing-Test](https://huggingface.co/hoshen/Beyond-the-Turing-Test) | hoshen | 0 | 0 | license:mit; region:us |
-| 2026-10-18 15:05:51 | [Fneumannsub/sensor-fusion-corpus](https://huggingface.co/Fneumannsub/sensor-fusion-corpus) | Fneumannsub | 0 | 0 | license:mit; region:us; dataset; travel; sensor-fusion |
-| 2026-10-18 15:06:04 | [Rob8435/so101-combined-green-blue-10-18-26](https://huggingface.co/Rob8435/so101-combined-green-blue-10-18-26) | Rob8435 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-18 15:06:20 | [xce1xz21dsa/Annoy-PyEdu-Rs](https://huggingface.co/xce1xz21dsa/Annoy-PyEdu-Rs) | xce1xz21dsa | 0 | 0 | region:us |
-| 2026-10-18 15:06:20 | [xce1xz21dsa/Annoy-PyEdu-Rs-Raw](https://huggingface.co/xce1xz21dsa/Annoy-PyEdu-Rs-Raw) | xce1xz21dsa | 0 | 0 | region:us |
-| 2026-10-18 15:08:18 | [flw-tu-dortmund/UnrealEvent](https://huggingface.co/flw-tu-dortmund/UnrealEvent) | flw-tu-dortmund | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-10-18 15:10:36 | [aitrainingjobs/ai-training-market-concentration](https://huggingface.co/aitrainingjobs/ai-training-market-concentration) | aitrainingjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-10-18 15:11:08 | [MasoudJTehrani/pcla-bridge-evaluations](https://huggingface.co/MasoudJTehrani/pcla-bridge-evaluations) | MasoudJTehrani | 0 | 0 | task_categories:robotics; license:cc-by-4.0; modality:image… |
-| 2026-10-18 15:13:04 | [Yousef1258852/arabic-dialect-eval-1k](https://huggingface.co/Yousef1258852/arabic-dialect-eval-1k) | Yousef1258852 | 0 | 0 | task_categories:text-classification; language:ar; license:m… |
-| 2026-10-18 15:13:27 | [PoseyEnder/Annoy-PyEdu-Rs](https://huggingface.co/PoseyEnder/Annoy-PyEdu-Rs) | PoseyEnder | 0 | 0 | region:us |
-| 2026-10-18 15:13:27 | [PoseyEnder/Annoy-PyEdu-Rs-Raw](https://huggingface.co/PoseyEnder/Annoy-PyEdu-Rs-Raw) | PoseyEnder | 0 | 0 | region:us |
-| 2026-10-18 15:13:37 | [Yousef1258852/arabic-rlhf-preferences](https://huggingface.co/Yousef1258852/arabic-rlhf-preferences) | Yousef1258852 | 0 | 0 | task_categories:reinforcement-learning; language:ar; licens… |
-| 2026-10-18 15:14:24 | [zonglin11/amazinghand_soarm101_test](https://huggingface.co/zonglin11/amazinghand_soarm101_test) | zonglin11 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
-| 2026-10-18 15:14:48 | [aptologia/microestudios-barrios-bogota-2026](https://huggingface.co/aptologia/microestudios-barrios-bogota-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; regio… |
-| 2026-10-18 15:15:03 | [keywordbarrage/shein-scraper](https://huggingface.co/keywordbarrage/shein-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-10-18 15:15:19 | [GSMS-B/indian-law-sarfaesi-act-2002](https://huggingface.co/GSMS-B/indian-law-sarfaesi-act-2002) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 15:15:26 | [GSMS-B/indian-law-rfctlarr-land-acquisition-act-2013](https://huggingface.co/GSMS-B/indian-law-rfctlarr-land-acquisition-act-2013) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 15:15:34 | [GSMS-B/indian-law-aadhaar-act-2016](https://huggingface.co/GSMS-B/indian-law-aadhaar-act-2016) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-10-18 15:15:38 | [eebianchi/charts-image-text](https://huggingface.co/eebianchi/charts-image-text) | eebianchi | 0 | 0 | license:mit; region:us; dataset; charts; image-text |
-| 2026-10-18 15:16:07 | [FinzData/sec-earnings-release-dates](https://huggingface.co/FinzData/sec-earnings-release-dates) | FinzData | 0 | 0 | language:en; license:other; size_categories:100K<n<1M; regi… |
-| 2026-10-18 15:17:05 | [tommasoconti/fashion-samples](https://huggingface.co/tommasoconti/fashion-samples) | tommasoconti | 0 | 0 | license:cc-by-4.0; region:us; dataset; fashion; image-depth |
-| 2026-10-18 15:17:07 | [phuonganhhuynh02/multimodal3-corpus](https://huggingface.co/phuonganhhuynh02/multimodal3-corpus) | phuonganhhuynh02 | 0 | 0 | license:apache-2.0; region:us; dataset; security; multimoda… |
-| 2026-10-18 15:17:57 | [arshy/eval-rules-desk](https://huggingface.co/arshy/eval-rules-desk) | arshy | 0 | 0 | license:bsd-3-clause; library:openenv; region:us; openenv;… |
-| 2026-10-18 15:18:07 | [Ravvitezza/superkart-sales-data](https://huggingface.co/Ravvitezza/superkart-sales-data) | Ravvitezza | 0 | 0 | region:us |
-| 2026-10-18 15:18:07 | [GSMS-B/indian-legal-knowledge-base-pdf](https://huggingface.co/GSMS-B/indian-legal-knowledge-base-pdf) | GSMS-B | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; modal… |
-| 2026-10-18 15:18:17 | [sulabhkatiyar/dmix-v2](https://huggingface.co/sulabhkatiyar/dmix-v2) | sulabhkatiyar | 0 | 0 | region:us |
+| 2026-10-18 15:19:28 | [mjleee/gr00t-libero-recap-cache](https://huggingface.co/mjleee/gr00t-libero-recap-cache) | mjleee | 0 | 0 | size_categories:n<1K; modality:tabular; modality:text; regi… |
+| 2026-10-18 15:20:40 | [habib1295/bindguard-cap-vg12](https://huggingface.co/habib1295/bindguard-cap-vg12) | habib1295 | 0 | 0 | task_categories:image-to-text; task_categories:visual-quest… |
+| 2026-10-18 15:21:28 | [eadxm/Kestrel-Arch-Online](https://huggingface.co/eadxm/Kestrel-Arch-Online) | eadxm | 0 | 0 | region:us |
+| 2026-10-18 15:23:27 | [choogee/velvet-raven-e74a](https://huggingface.co/choogee/velvet-raven-e74a) | choogee | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-18 15:23:55 | [choogee/tidal-juniper-c250](https://huggingface.co/choogee/tidal-juniper-c250) | choogee | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-18 15:24:00 | [songwells/loopxbench](https://huggingface.co/songwells/loopxbench) | songwells | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-18 15:24:24 | [choogee/olive-orchid-a62d](https://huggingface.co/choogee/olive-orchid-a62d) | choogee | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-18 15:24:28 | [jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_all_v2_20261018_171406](https://huggingface.co/jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_all_v2_20261018_171406) | jogarulfo | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-18 15:24:57 | [keywordbarrage/shopify-scraper](https://huggingface.co/keywordbarrage/shopify-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-18 15:25:31 | [melekpashazada/my-dataset1](https://huggingface.co/melekpashazada/my-dataset1) | melekpashazada | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-18 15:26:27 | [coral-bricks-ai/motionbench](https://huggingface.co/coral-bricks-ai/motionbench) | coral-bricks-ai | 0 | 0 | license:mit; modality:image; region:us; evaluation; agents;… |
+| 2026-10-18 15:26:37 | [Wizard1203/WIFI-CSI-Dataset](https://huggingface.co/Wizard1203/WIFI-CSI-Dataset) | Wizard1203 | 0 | 0 | language:en; license:mit; region:us; Wi-Fi; CSI; RSSI |
+| 2026-10-18 15:27:29 | [illusion-brain/things-eeg-4d](https://huggingface.co/illusion-brain/things-eeg-4d) | illusion-brain | 0 | 1 | license:cc-by-4.0; size_categories:100K<n<1M; format:parque… |
+| 2026-10-18 15:27:59 | [quietworklabs/fmcsa-trucking-insurance-signals](https://huggingface.co/quietworklabs/fmcsa-trucking-insurance-signals) | quietworklabs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:28:02 | [quietworklabs/new-us-nonprofits-irs-eo-bmf](https://huggingface.co/quietworklabs/new-us-nonprofits-irs-eo-bmf) | quietworklabs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:10K<n<100K;… |
+| 2026-10-18 15:28:03 | [quietworklabs/phoenix-liquor-license-applications](https://huggingface.co/quietworklabs/phoenix-liquor-license-applications) | quietworklabs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:28:04 | [quietworklabs/construction-permits-over-250k](https://huggingface.co/quietworklabs/construction-permits-over-250k) | quietworklabs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:29:27 | [aitrainingjobs/ai-training-pay-premiums](https://huggingface.co/aitrainingjobs/ai-training-pay-premiums) | aitrainingjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:29:34 | [vianphm/Nemotron-Personas-Vietnam](https://huggingface.co/vianphm/Nemotron-Personas-Vietnam) | vianphm | 0 | 0 | task_categories:text-generation; language:vi; license:cc-by… |
+| 2026-10-18 15:30:42 | [sdafasf2222222/Annoy-PyEdu-Rs](https://huggingface.co/sdafasf2222222/Annoy-PyEdu-Rs) | sdafasf2222222 | 0 | 0 | region:us |
+| 2026-10-18 15:30:43 | [sdafasf2222222/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdafasf2222222/Annoy-PyEdu-Rs-Raw) | sdafasf2222222 | 0 | 0 | region:us |
+| 2026-10-18 15:31:00 | [alaintis/2023-08-30-atlas-0.25](https://huggingface.co/alaintis/2023-08-30-atlas-0.25) | alaintis | 0 | 1 | license:fair-noncommercial-research-license; region:us |
+| 2026-10-18 15:33:15 | [rooty2020/DROID-VP](https://huggingface.co/rooty2020/DROID-VP) | rooty2020 | 0 | 0 | task_categories:robotics; language:en; license:cc-by-4.0; s… |
+| 2026-10-18 15:35:04 | [keywordbarrage/stockx-scraper](https://huggingface.co/keywordbarrage/stockx-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-18 15:37:42 | [teawhite/diablo-reskin-20h](https://huggingface.co/teawhite/diablo-reskin-20h) | teawhite | 0 | 0 | language:en; language:zh; license:other; size_categories:10… |
+| 2026-10-18 15:37:58 | [sanaka87/openve_fixed_bernini1p3_opd_vmse_t1s2r1_gc_step200](https://huggingface.co/sanaka87/openve_fixed_bernini1p3_opd_vmse_t1s2r1_gc_step200) | sanaka87 | 0 | 0 | region:us |
+| 2026-10-18 15:38:46 | [nebius-build-week/antex-runs](https://huggingface.co/nebius-build-week/antex-runs) | nebius-build-week | 0 | 0 | license:cc-by-4.0; size_categories:1K<n<10K; format:json; m… |
+| 2026-10-18 15:40:32 | [flatwhiteputri/multimodal3-corpus](https://huggingface.co/flatwhiteputri/multimodal3-corpus) | flatwhiteputri | 0 | 0 | license:mit; region:us; dataset; medical; multimodal3 |
+| 2026-10-18 15:41:31 | [michellehmh/textile-multimodal3-benchmark](https://huggingface.co/michellehmh/textile-multimodal3-benchmark) | michellehmh | 0 | 0 | license:apache-2.0; region:us; dataset; textile; multimodal3 |
+| 2026-10-18 15:41:34 | [mcptester0606/Annoy-PyEdu-Rs](https://huggingface.co/mcptester0606/Annoy-PyEdu-Rs) | mcptester0606 | 0 | 0 | region:us |
+| 2026-10-18 15:41:34 | [mcptester0606/Annoy-PyEdu-Rs-Raw](https://huggingface.co/mcptester0606/Annoy-PyEdu-Rs-Raw) | mcptester0606 | 0 | 0 | region:us |
+| 2026-10-18 15:42:01 | [imend35/begonia-ai-egitim-verisi](https://huggingface.co/imend35/begonia-ai-egitim-verisi) | imend35 | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-18 15:42:01 | [eadxm/Kestrel-Arch-Offline](https://huggingface.co/eadxm/Kestrel-Arch-Offline) | eadxm | 0 | 0 | region:us |
+| 2026-10-18 15:45:03 | [keywordbarrage/temu-scraper](https://huggingface.co/keywordbarrage/temu-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-18 15:45:37 | [Mlchemist/myjev-browser-decisions](https://huggingface.co/Mlchemist/myjev-browser-decisions) | Mlchemist | 0 | 0 | task_categories:text-classification; source_datasets:osunlp… |
+| 2026-10-18 15:45:56 | [aptologia/microestudios-barrios-cucuta-2026](https://huggingface.co/aptologia/microestudios-barrios-cucuta-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:45:58 | [aptologia/microestudios-barrios-los-patios-2026](https://huggingface.co/aptologia/microestudios-barrios-los-patios-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:46:01 | [aptologia/microestudios-barrios-madrid-2026](https://huggingface.co/aptologia/microestudios-barrios-madrid-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:46:06 | [aptologia/microestudios-barrios-soacha-2026](https://huggingface.co/aptologia/microestudios-barrios-soacha-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:46:08 | [aptologia/microestudios-barrios-tocancipa-2026](https://huggingface.co/aptologia/microestudios-barrios-tocancipa-2026) | aptologia | 0 | 0 | language:es; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:47:22 | [aitrainingjobs/ai-training-pay-trends](https://huggingface.co/aitrainingjobs/ai-training-pay-trends) | aitrainingjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:47:39 | [slmyu0915/cs546-hw2-2026](https://huggingface.co/slmyu0915/cs546-hw2-2026) | slmyu0915 | 0 | 0 | region:us |
+| 2026-10-18 15:48:03 | [zeyuan0611/RoboTwin-UMI-assets](https://huggingface.co/zeyuan0611/RoboTwin-UMI-assets) | zeyuan0611 | 0 | 0 | region:us |
+| 2026-10-18 15:49:12 | [quietworklabs/freight-broker-bond-cancellations](https://huggingface.co/quietworklabs/freight-broker-bond-cancellations) | quietworklabs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 15:49:36 | [PelaAI/KnowLine-26B-A4B-Gen1-decision-index](https://huggingface.co/PelaAI/KnowLine-26B-A4B-Gen1-decision-index) | PelaAI | 0 | 0 | region:us |
+| 2026-10-18 15:49:55 | [JunuChoi/HyperCast-WB2-2020-1p5deg-M50](https://huggingface.co/JunuChoi/HyperCast-WB2-2020-1p5deg-M50) | JunuChoi | 0 | 0 | region:us |
+| 2026-10-18 15:50:23 | [thanhdath/coredb-eval500-pilot3](https://huggingface.co/thanhdath/coredb-eval500-pilot3) | thanhdath | 0 | 0 | language:en; license:cc-by-sa-4.0; size_categories:n<1K; fo… |
+| 2026-10-18 15:51:25 | [VikashSingh/items_prompts_full](https://huggingface.co/VikashSingh/items_prompts_full) | VikashSingh | 0 | 0 | size_categories:100K<n<1M; format:parquet; modality:text; l… |
+| 2026-10-18 15:51:30 | [sad12dsa/Annoy-PyEdu-Rs](https://huggingface.co/sad12dsa/Annoy-PyEdu-Rs) | sad12dsa | 0 | 0 | region:us |
+| 2026-10-18 15:51:31 | [sad12dsa/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sad12dsa/Annoy-PyEdu-Rs-Raw) | sad12dsa | 0 | 0 | region:us |
+| 2026-10-18 15:52:23 | [VikashSingh/items_prompts_lite](https://huggingface.co/VikashSingh/items_prompts_lite) | VikashSingh | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:text;… |
+| 2026-10-18 15:54:43 | [keywordbarrage/uniqlo-scraper](https://huggingface.co/keywordbarrage/uniqlo-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-18 15:55:39 | [nebius-build-week/Hannovates](https://huggingface.co/nebius-build-week/Hannovates) | nebius-build-week | 0 | 0 | license:cc-by-4.0; region:us |
+| 2026-10-18 15:56:12 | [Nason/onet-database](https://huggingface.co/Nason/onet-database) | Nason | 0 | 0 | license:cc-by-4.0; size_categories:100K<n<1M; region:us; on… |
+| 2026-10-18 15:57:45 | [rafaeldelacruz/dl-comics](https://huggingface.co/rafaeldelacruz/dl-comics) | rafaeldelacruz | 0 | 0 | license:mit; region:us; dataset; comics; image-audio |
+| 2026-10-18 15:58:29 | [NoeFlandre/tiny-corneille](https://huggingface.co/NoeFlandre/tiny-corneille) | NoeFlandre | 0 | 0 | region:us |
+| 2026-10-18 15:58:38 | [lannn2333/senri-bench](https://huggingface.co/lannn2333/senri-bench) | lannn2333 | 0 | 0 | region:us |
+| 2026-10-18 15:58:54 | [mohan0051/demos_d_retail_cust_purchases](https://huggingface.co/mohan0051/demos_d_retail_cust_purchases) | mohan0051 | 0 | 0 | license:osl-3.0; size_categories:10K<n<100K; format:csv; mo… |
+| 2026-10-18 15:59:45 | [Mati83moni/evalaware-article-figures](https://huggingface.co/Mati83moni/evalaware-article-figures) | Mati83moni | 0 | 0 | license:cc-by-4.0; size_categories:n<1K; format:imagefolder… |
+| 2026-10-18 16:00:20 | [skepesh/wildlife](https://huggingface.co/skepesh/wildlife) | skepesh | 0 | 0 | region:us |
+| 2026-10-18 16:00:38 | [castorini/prebuilt-indexes-reteco](https://huggingface.co/castorini/prebuilt-indexes-reteco) | castorini | 0 | 0 | language:en; license:cc-by-sa-4.0; region:us; text-retrieva… |
+| 2026-10-18 16:00:40 | [SOTAagi2030/Annoy-PyEdu-Rs](https://huggingface.co/SOTAagi2030/Annoy-PyEdu-Rs) | SOTAagi2030 | 0 | 0 | region:us |
+| 2026-10-18 16:00:41 | [SOTAagi2030/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SOTAagi2030/Annoy-PyEdu-Rs-Raw) | SOTAagi2030 | 0 | 0 | region:us |
+| 2026-10-18 16:01:35 | [Nason/qcew-database](https://huggingface.co/Nason/qcew-database) | Nason | 0 | 0 | license:other; size_categories:1M<n<10M; region:us; qcew; e… |
+| 2026-10-18 16:02:50 | [irfan5406/testingdataset](https://huggingface.co/irfan5406/testingdataset) | irfan5406 | 0 | 0 | region:us |
+| 2026-10-18 16:04:24 | [keywordbarrage/vinted-scraper](https://huggingface.co/keywordbarrage/vinted-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-18 16:04:48 | [cswbyu/CHILLGuardTest](https://huggingface.co/cswbyu/CHILLGuardTest) | cswbyu | 0 | 0 | task_categories:text-classification; language:zh; license:c… |
+| 2026-10-18 16:05:57 | [Nason/fars-database](https://huggingface.co/Nason/fars-database) | Nason | 0 | 0 | license:other; size_categories:n<1K; format:json; modality:… |
+| 2026-10-18 16:06:40 | [aitrainingjobs/ai-training-pay-vs-minimum-wage](https://huggingface.co/aitrainingjobs/ai-training-pay-vs-minimum-wage) | aitrainingjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-10-18 16:06:50 | [itzfiza2026/irisflowerdataset](https://huggingface.co/itzfiza2026/irisflowerdataset) | itzfiza2026 | 0 | 0 | region:us |
+| 2026-10-18 16:07:20 | [illusion-brain/omnibrain-multi](https://huggingface.co/illusion-brain/omnibrain-multi) | illusion-brain | 0 | 0 | size_categories:100K<n<1M; format:parquet; modality:text; l… |
+| 2026-10-18 16:10:56 | [nguyenhieu3205xt/torchvision-imageneta](https://huggingface.co/nguyenhieu3205xt/torchvision-imageneta) | nguyenhieu3205xt | 0 | 0 | region:us |
+| 2026-10-18 16:11:19 | [zonglin11/eval_amazinghand_soarm101_test](https://huggingface.co/zonglin11/eval_amazinghand_soarm101_test) | zonglin11 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-18 16:13:07 | [sbynu-groho/medical-pointcloud-text62-2024](https://huggingface.co/sbynu-groho/medical-pointcloud-text62-2024) | sbynu-groho | 0 | 0 | license:mit; region:us; dataset; medical; pointcloud-text |
+| 2026-10-18 16:14:05 | [hi-todayis-jh/ouro-1.4b-thinking-pool20-amc2223-eval-20261016](https://huggingface.co/hi-todayis-jh/ouro-1.4b-thinking-pool20-amc2223-eval-20261016) | hi-todayis-jh | 0 | 0 | region:us |
+| 2026-10-18 16:14:35 | [Liangzhi-Li/cvpr2027-t15-public](https://huggingface.co/Liangzhi-Li/cvpr2027-t15-public) | Liangzhi-Li | 0 | 0 | region:us |
+| 2026-10-18 16:15:18 | [beannL/instance-search](https://huggingface.co/beannL/instance-search) | beannL | 0 | 0 | region:us |
+| 2026-10-18 16:16:04 | [Alicethomas/audio-video-dataset](https://huggingface.co/Alicethomas/audio-video-dataset) | Alicethomas | 0 | 0 | license:mit; region:us; dataset; traffic; audio-video |
+| 2026-10-18 16:16:52 | [akthereddragon/hydra-movies-1](https://huggingface.co/akthereddragon/hydra-movies-1) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:53 | [akthereddragon/hydra-movies-2](https://huggingface.co/akthereddragon/hydra-movies-2) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:53 | [akthereddragon/hydra-movies-3](https://huggingface.co/akthereddragon/hydra-movies-3) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:54 | [akthereddragon/hydra-movies-5](https://huggingface.co/akthereddragon/hydra-movies-5) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:54 | [akthereddragon/hydra-movies-4](https://huggingface.co/akthereddragon/hydra-movies-4) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:55 | [akthereddragon/hydra-movies-7](https://huggingface.co/akthereddragon/hydra-movies-7) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:55 | [akthereddragon/hydra-movies-6](https://huggingface.co/akthereddragon/hydra-movies-6) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:56 | [akthereddragon/hydra-movies-8](https://huggingface.co/akthereddragon/hydra-movies-8) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:56 | [akthereddragon/hydra-movies-9](https://huggingface.co/akthereddragon/hydra-movies-9) | akthereddragon | 0 | 0 | region:us |
+| 2026-10-18 16:16:57 | [akthereddragon/hydra-movies-10](https://huggingface.co/akthereddragon/hydra-movies-10) | akthereddragon | 0 | 0 | region:us |
 
 ## Data source
 

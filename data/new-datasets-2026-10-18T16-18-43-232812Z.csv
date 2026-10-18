@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-18T15:19:28Z,mjleee/gr00t-libero-recap-cache,mjleee,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-18T15:20:40Z,habib1295/bindguard-cap-vg12,habib1295,0,0,task_categories:image-to-text; task_categories:visual-question-answering; language:en; size_categories:10K<n<100K; region:us; computer-vision; visual-grounding; dense-captioning; attribute-binding; v…
+2026-10-18T15:21:28Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-10-18T15:23:27Z,choogee/velvet-raven-e74a,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:23:55Z,choogee/tidal-juniper-c250,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:24:00Z,songwells/loopxbench,songwells,0,0,license:apache-2.0; region:us
+2026-10-18T15:24:24Z,choogee/olive-orchid-a62d,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:24:28Z,jogarulfo/rollout_dagger_2026-10-18_store_pvc_pieces_bbox_all_v2_20261018_171406,jogarulfo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-18T15:24:57Z,keywordbarrage/shopify-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; language:tr; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-10-18T15:25:31Z,melekpashazada/my-dataset1,melekpashazada,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:26:27Z,coral-bricks-ai/motionbench,coral-bricks-ai,0,0,license:mit; modality:image; region:us; evaluation; agents; motion-graphics; animation; code-generation
+2026-10-18T15:26:37Z,Wizard1203/WIFI-CSI-Dataset,Wizard1203,0,0,language:en; license:mit; region:us; Wi-Fi; CSI; RSSI
+2026-10-18T15:27:29Z,illusion-brain/things-eeg-4d,illusion-brain,0,1,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; eeg; neuroscience; thi…
+2026-10-18T15:27:59Z,quietworklabs/fmcsa-trucking-insurance-signals,quietworklabs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fmcsa; trucking; i…
+2026-10-18T15:28:02Z,quietworklabs/new-us-nonprofits-irs-eo-bmf,quietworklabs,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nonprofit; i…
+2026-10-18T15:28:03Z,quietworklabs/phoenix-liquor-license-applications,quietworklabs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; liquor-license; arizona; phoenix; re…
+2026-10-18T15:28:04Z,quietworklabs/construction-permits-over-250k,quietworklabs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; construction; buil…
+2026-10-18T15:29:27Z,aitrainingjobs/ai-training-pay-premiums,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:29:34Z,vianphm/Nemotron-Personas-Vietnam,vianphm,0,0,task_categories:text-generation; language:vi; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; library:…
+2026-10-18T15:30:42Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-10-18T15:30:43Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-10-18T15:31:00Z,alaintis/2023-08-30-atlas-0.25,alaintis,0,1,license:fair-noncommercial-research-license; region:us
+2026-10-18T15:33:15Z,rooty2020/DROID-VP,rooty2020,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:3d; arxiv:2610.06940; arxiv:2403.12945; region:us; robotics; robot-manipulation; multi-view; world-model…
+2026-10-18T15:35:04Z,keywordbarrage/stockx-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; e-comm…
+2026-10-18T15:37:42Z,teawhite/diablo-reskin-20h,teawhite,0,0,language:en; language:zh; license:other; size_categories:10K<n<100K; modality:video; region:us; video; world-model; video-editing; game; diablo; whitebox; retexturing
+2026-10-18T15:37:58Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_t1s2r1_gc_step200,sanaka87,0,0,region:us
+2026-10-18T15:38:46Z,nebius-build-week/antex-runs,nebius-build-week,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; agents; deep-research; tavil…
+2026-10-18T15:40:32Z,flatwhiteputri/multimodal3-corpus,flatwhiteputri,0,0,license:mit; region:us; dataset; medical; multimodal3
+2026-10-18T15:41:31Z,michellehmh/textile-multimodal3-benchmark,michellehmh,0,0,license:apache-2.0; region:us; dataset; textile; multimodal3
+2026-10-18T15:41:34Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-18T15:41:34Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-18T15:42:01Z,imend35/begonia-ai-egitim-verisi,imend35,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-18T15:42:01Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-18T15:45:03Z,keywordbarrage/temu-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; language:tr; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-10-18T15:45:37Z,Mlchemist/myjev-browser-decisions,Mlchemist,0,0,task_categories:text-classification; source_datasets:osunlp/Multimodal-Mind2Web; source_datasets:McGill-NLP/weblinx-browsergym; source_datasets:webagentlab/webchain; source_datasets:stanfordnlp/nnetn…
+2026-10-18T15:45:56Z,aptologia/microestudios-barrios-cucuta-2026,aptologia,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:45:58Z,aptologia/microestudios-barrios-los-patios-2026,aptologia,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:46:01Z,aptologia/microestudios-barrios-madrid-2026,aptologia,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:46:06Z,aptologia/microestudios-barrios-soacha-2026,aptologia,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:46:08Z,aptologia/microestudios-barrios-tocancipa-2026,aptologia,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:47:22Z,aitrainingjobs/ai-training-pay-trends,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T15:47:39Z,slmyu0915/cs546-hw2-2026,slmyu0915,0,0,region:us
+2026-10-18T15:48:03Z,zeyuan0611/RoboTwin-UMI-assets,zeyuan0611,0,0,region:us
+2026-10-18T15:49:12Z,quietworklabs/freight-broker-bond-cancellations,quietworklabs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fmcsa; freight; tr…
+2026-10-18T15:49:36Z,PelaAI/KnowLine-26B-A4B-Gen1-decision-index,PelaAI,0,0,region:us
+2026-10-18T15:49:55Z,JunuChoi/HyperCast-WB2-2020-1p5deg-M50,JunuChoi,0,0,region:us
+2026-10-18T15:50:23Z,thanhdath/coredb-eval500-pilot3,thanhdath,0,0,language:en; license:cc-by-sa-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; text-to-sql; evaluation; sql-equ…
+2026-10-18T15:51:25Z,VikashSingh/items_prompts_full,VikashSingh,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:51:30Z,sad12dsa/Annoy-PyEdu-Rs,sad12dsa,0,0,region:us
+2026-10-18T15:51:31Z,sad12dsa/Annoy-PyEdu-Rs-Raw,sad12dsa,0,0,region:us
+2026-10-18T15:52:23Z,VikashSingh/items_prompts_lite,VikashSingh,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:54:43Z,keywordbarrage/uniqlo-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; language:tr; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-10-18T15:55:39Z,nebius-build-week/Hannovates,nebius-build-week,0,0,license:cc-by-4.0; region:us
+2026-10-18T15:56:12Z,Nason/onet-database,Nason,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; onet; occupations; skills; labor; work-context; duckdb
+2026-10-18T15:57:45Z,rafaeldelacruz/dl-comics,rafaeldelacruz,0,0,license:mit; region:us; dataset; comics; image-audio
+2026-10-18T15:58:29Z,NoeFlandre/tiny-corneille,NoeFlandre,0,0,region:us
+2026-10-18T15:58:38Z,lannn2333/senri-bench,lannn2333,0,0,region:us
+2026-10-18T15:58:54Z,mohan0051/demos_d_retail_cust_purchases,mohan0051,0,0,license:osl-3.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-18T15:59:45Z,Mati83moni/evalaware-article-figures,Mati83moni,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-18T16:00:20Z,skepesh/wildlife,skepesh,0,0,region:us
+2026-10-18T16:00:38Z,castorini/prebuilt-indexes-reteco,castorini,0,0,language:en; license:cc-by-sa-4.0; region:us; text-retrieval; lucene; anserini; reteco
+2026-10-18T16:00:40Z,SOTAagi2030/Annoy-PyEdu-Rs,SOTAagi2030,0,0,region:us
+2026-10-18T16:00:41Z,SOTAagi2030/Annoy-PyEdu-Rs-Raw,SOTAagi2030,0,0,region:us
+2026-10-18T16:01:35Z,Nason/qcew-database,Nason,0,0,license:other; size_categories:1M<n<10M; region:us; qcew; employment; wages; industry; counties; duckdb
+2026-10-18T16:02:50Z,irfan5406/testingdataset,irfan5406,0,0,region:us
+2026-10-18T16:04:24Z,keywordbarrage/vinted-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; ecomme…
+2026-10-18T16:04:48Z,cswbyu/CHILLGuardTest,cswbyu,0,0,task_categories:text-classification; language:zh; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-18T16:05:57Z,Nason/fars-database,Nason,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fars; traffic-safety; fatal-crashes; duckdb
+2026-10-18T16:06:40Z,aitrainingjobs/ai-training-pay-vs-minimum-wage,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-18T16:06:50Z,itzfiza2026/irisflowerdataset,itzfiza2026,0,0,region:us
+2026-10-18T16:07:20Z,illusion-brain/omnibrain-multi,illusion-brain,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-18T16:10:56Z,nguyenhieu3205xt/torchvision-imageneta,nguyenhieu3205xt,0,0,region:us
+2026-10-18T16:11:19Z,zonglin11/eval_amazinghand_soarm101_test,zonglin11,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-18T16:13:07Z,sbynu-groho/medical-pointcloud-text62-2024,sbynu-groho,0,0,license:mit; region:us; dataset; medical; pointcloud-text
+2026-10-18T16:14:05Z,hi-todayis-jh/ouro-1.4b-thinking-pool20-amc2223-eval-20261016,hi-todayis-jh,0,0,region:us
+2026-10-18T16:14:35Z,Liangzhi-Li/cvpr2027-t15-public,Liangzhi-Li,0,0,region:us
+2026-10-18T16:15:18Z,beannL/instance-search,beannL,0,0,region:us
+2026-10-18T16:16:04Z,Alicethomas/audio-video-dataset,Alicethomas,0,0,license:mit; region:us; dataset; traffic; audio-video
+2026-10-18T16:16:52Z,akthereddragon/hydra-movies-1,akthereddragon,0,0,region:us
+2026-10-18T16:16:53Z,akthereddragon/hydra-movies-2,akthereddragon,0,0,region:us
+2026-10-18T16:16:53Z,akthereddragon/hydra-movies-3,akthereddragon,0,0,region:us
+2026-10-18T16:16:54Z,akthereddragon/hydra-movies-5,akthereddragon,0,0,region:us
+2026-10-18T16:16:54Z,akthereddragon/hydra-movies-4,akthereddragon,0,0,region:us
+2026-10-18T16:16:55Z,akthereddragon/hydra-movies-7,akthereddragon,0,0,region:us
+2026-10-18T16:16:55Z,akthereddragon/hydra-movies-6,akthereddragon,0,0,region:us
+2026-10-18T16:16:56Z,akthereddragon/hydra-movies-8,akthereddragon,0,0,region:us
+2026-10-18T16:16:56Z,akthereddragon/hydra-movies-9,akthereddragon,0,0,region:us
+2026-10-18T16:16:57Z,akthereddragon/hydra-movies-10,akthereddragon,0,0,region:us
