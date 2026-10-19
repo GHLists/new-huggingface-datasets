@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-19T00:22:44Z,noahlewiswyn/code-collection64,noahlewiswyn,0,0,license:apache-2.0; region:us; dataset; code; video-text
+2026-10-19T00:23:34Z,SOTAagi2030/Coastal-Acoustic-Events-Register-278,SOTAagi2030,0,0,region:us
+2026-10-19T00:24:14Z,SOTAagi2030/Urban-Canopy-Maintenance-Queue,SOTAagi2030,0,0,region:us
+2026-10-19T00:26:14Z,SRPLB1/benchmarks-vkitti2,SRPLB1,0,0,region:us
+2026-10-19T00:27:11Z,SRPLB1/benchmarks-spring,SRPLB1,0,0,region:us
+2026-10-19T00:27:15Z,SRPLB1/benchmarks-7scenes,SRPLB1,0,0,region:us
+2026-10-19T00:27:28Z,thelarryproject/librispeech-asr-validation,thelarryproject,0,1,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T00:28:12Z,SRPLB1/benchmarks-pointodyssey,SRPLB1,0,0,region:us
+2026-10-19T00:30:16Z,optimisc/RecoveryBench-V11-DeepSeek-Flash-Augmented-Teachers-20261019,optimisc,0,0,size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; recoverybench; network-troubleshooting; teach…
+2026-10-19T00:32:42Z,thelarryproject/librispeech-asr-index-asr-validation,thelarryproject,0,1,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T00:33:41Z,ksal37/applestockpricehistory,ksal37,0,0,license:openrail; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T00:34:04Z,SOTAagi2030/Ceramics-Kiln-Replay-285,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-19T00:35:00Z,SOTAagi2030/Verdant-Seedlot-Release-Register,SOTAagi2030,0,0,language:en; license:cc-by-4.0; region:us
+2026-10-19T00:35:39Z,HarChen/best_data,HarChen,0,0,region:us
+2026-10-19T00:36:00Z,realducky/yolo-pitch,realducky,0,0,region:us
+2026-10-19T00:37:03Z,zero-trust-physics/zero-trust-physics-reactor-spert3-twin,zero-trust-physics,0,0,source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-19T00:38:24Z,Koroxi/tbhx_eng_sub,Koroxi,0,0,region:us
+2026-10-19T00:40:52Z,Abdul19/cuad,Abdul19,0,0,license:cc-by-4.0; size_categories:n<1K; modality:document; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-19T00:41:21Z,safaf45252/Annoy-PyEdu-Rs,safaf45252,0,0,region:us
+2026-10-19T00:41:22Z,safaf45252/Annoy-PyEdu-Rs-Raw,safaf45252,0,0,region:us
+2026-10-19T00:43:45Z,blackOrder/liquid-mcdm-synthetic,blackOrder,0,0,task_categories:multiple-choice; task_categories:text-ranking; license:cc-by-4.0; region:us; decision-making; mcdm; synthetic; copras; waspas; vikor; topsis
+2026-10-19T00:44:33Z,lukeleeai/snowball-kimi0921-pair-public,lukeleeai,0,0,task_categories:text-generation; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents; term…
+2026-10-19T00:44:44Z,lukeleeai/relay-calibforge-jupiter-0928-public,lukeleeai,0,0,task_categories:text-generation; license:other; region:us; agents; terminal; sft
+2026-10-19T00:44:58Z,lukeleeai/relay-rollouts-horizon-public,lukeleeai,0,0,task_categories:text-generation; license:other; region:us; agents; terminal; sft
+2026-10-19T00:45:20Z,aitrainingjobs/how-ai-training-work-is-paid,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-19T00:47:57Z,n10065792/AG-VPReID.VIR,n10065792,0,0,license:other; modality:video; arxiv:2507.17995; region:us; person-re-identification; visible-infrared; aerial-ground; video
+2026-10-19T00:52:37Z,dsixteen/Niji_1_Women,dsixteen,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-19T00:55:45Z,Misarege/SOSOSOOS,Misarege,0,0,license:apache-2.0; region:us
+2026-10-19T00:55:59Z,Ishah8840/emg-ego-multiview-hand-pose,Ishah8840,0,0,task_categories:other; language:en; region:us; emg; hand-pose; multi-view; egocentric-video; multimodal
+2026-10-19T00:57:46Z,DenyTranDFW/AXDB_2026_MULT1_Mortgage_Trust_2158812,DenyTranDFW,0,0,license:gpl; region:us; sec; abs-ee; asset-backed-securities
+2026-10-19T00:58:26Z,opensima13/LLaVA-OneVision-1.5-Instruct-Data-qwen-format-zh,opensima13,0,0,language:zh; region:us; multimodal; translation
+2026-10-19T01:01:17Z,huggingtests0000000000/mautrixtests0x0x0x0x0x0x0,huggingtests0000000000,0,0,region:us
+2026-10-19T01:01:26Z,nguyenhieu3205xt/temp,nguyenhieu3205xt,0,0,size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-19T01:04:14Z,SOTAagi2030/FjordEcho-Consensus-Events,SOTAagi2030,0,0,task_categories:audio-classification; region:us
+2026-10-19T01:05:49Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-19T01:05:50Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-19T01:06:02Z,yyuanuw/hop2-logs-src_alf_react,yyuanuw,0,0,region:us
+2026-10-19T01:07:10Z,yyuanuw/hop2-logs-src_alf_verl,yyuanuw,0,0,region:us
+2026-10-19T01:07:38Z,aitrainingjobs/how-long-ai-training-roles-stay-open,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-19T01:09:11Z,ananyar6/cs546-hw2-2026,ananyar6,0,0,region:us
+2026-10-19T01:10:54Z,aptologia/barrios-mas-baratos-para-arrendar-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:11:13Z,aptologia/barrios-mas-caros-de-colombia-precio-m2-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:11:31Z,aptologia/apartaestudios-y-apartamentos-de-1-habitacion-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:11:39Z,SOTAagi2030/September-Observatory-Blackout-Ledger-277,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-19T01:11:50Z,aptologia/arriendo-por-habitacion-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:12:17Z,aptologia/casa-vs-apartamento-precio-m2-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:12:39Z,earakely-scale/SentryEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:12:45Z,earakely-scale/NoaaTidesEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:12:51Z,earakely-scale/AirbyteEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:12:57Z,earakely-scale/OpenFdaEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:12:57Z,aptologia/apartamento-nuevo-vs-usado-precio-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:13:04Z,earakely-scale/VaultEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:13:10Z,earakely-scale/UsgsEarthquakesEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:13:14Z,coinhead/lab08-rag-answer-the-patient,coinhead,0,1,region:us
+2026-10-19T01:13:17Z,earakely-scale/NomadEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:agentenv; region:us; rl-envir…
+2026-10-19T01:13:23Z,earakely-scale/FederalRegisterEnv-REA,earakely-scale,0,0,license:apache-2.0; library:agentenv; region:us; rl-environment; agentenv
+2026-10-19T01:13:30Z,earakely-scale/RedpandaConsoleEnv-REA,earakely-scale,0,0,license:apache-2.0; library:agentenv; region:us; rl-environment; agentenv
+2026-10-19T01:13:36Z,earakely-scale/TreasuryFiscalDataEnv-REA,earakely-scale,0,0,license:apache-2.0; library:agentenv; region:us; rl-environment; agentenv
+2026-10-19T01:13:44Z,aptologia/cuanto-vale-un-bano-extra-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-19T01:14:01Z,aptologia/cuanto-vale-el-parqueadero-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; parking; apartments; price-premium
+2026-10-19T01:14:20Z,aptologia/arriendo-por-estrato-y-ciudad-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; estrato; rent; socioeconomic-strata
+2026-10-19T01:15:08Z,aptologia/rentabilidad-del-arriendo-por-estrato-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; rental-yield; estrato; investment
+2026-10-19T01:15:26Z,aptologia/administracion-por-metro-cuadrado-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; hoa-fee; administration-fee; apartments
+2026-10-19T01:16:04Z,aptologia/precio-apartamento-2-habitaciones-venta-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; apartments; house-prices; 2-bedroom
+2026-10-19T01:16:40Z,aptologia/vivienda-familiar-3-habitaciones-ciudades-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; apartments; house-prices; 3+-bedroom
+2026-10-19T01:17:12Z,aptologia/arriendo-estudio-1-habitacion-ciudades-latinoamerica-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; rent; studio-apartment; digital-nomads
+2026-10-19T01:17:40Z,aptologia/cuantos-metros-cuadrados-compra-100000-dolares-latinoamerica-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; affordability; price-per-square-metre
+2026-10-19T01:18:36Z,aptologia/cuantos-metros-cuadrados-arrienda-1000-dolares-latinoamerica-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; affordability; price-per-square-metre
+2026-10-19T01:18:58Z,aptologia/indice-aptologia-del-arriendo-ciudades-colombia-octubre-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; colombia; rent-index; aptología-index; rent
+2026-10-19T01:19:17Z,LienJ/lab08-rag-answer-the-patient,LienJ,0,0,region:us
+2026-10-19T01:19:17Z,aptologia/vivienda-medellin-por-comuna-venta-arriendo-estrato-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; medellín; rent; price-per-square-metre
