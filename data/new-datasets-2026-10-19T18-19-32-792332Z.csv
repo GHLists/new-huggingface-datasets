@@ -1,0 +1,144 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-19T17:21:53Z,g1n0st/8bfbab47d28e953eababaaf802295a93a2027e6d,g1n0st,0,0,region:us
+2026-10-19T17:22:16Z,webstep/duplo-pick-and-place-yellow-720p-3-cameras,webstep,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-19T17:22:33Z,g1n0st/f389e6e72e22b15c60a8157dc055b03ffd72b0ae,g1n0st,0,0,region:us
+2026-10-19T17:23:17Z,g1n0st/655734ba770553f1cf2fffe87bee1505dee1a063,g1n0st,0,0,region:us
+2026-10-19T17:23:27Z,qiusizhan/BALD-scene-nominal-reference-v1,qiusizhan,0,0,language:en; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; backdoor-detection; runtime-moni…
+2026-10-19T17:24:00Z,anshulg954/context-aware-tables,anshulg954,0,1,task_categories:tabular-classification; task_categories:tabular-regression; language:multilingual; language:en; language:ru; language:de; language:fr; language:zh; language:es; language:ja; language:…
+2026-10-19T17:24:17Z,g1n0st/7472371f33d56b7beb0f7f8d6e5fba836faa22e0,g1n0st,0,0,region:us
+2026-10-19T17:24:52Z,g1n0st/13ce8d50b846c2f9fed06b65eb4c629152161593,g1n0st,0,0,region:us
+2026-10-19T17:25:00Z,g1n0st/8af9bc191f4b0e0e76cecb324845d58755ddcecb,g1n0st,0,0,region:us
+2026-10-19T17:25:08Z,g1n0st/34c56b49a85a7214d5815524f49b22c87ca2618a,g1n0st,0,0,region:us
+2026-10-19T17:25:15Z,sachinbhat/learn-agriculture,sachinbhat,0,0,license:apache-2.0; region:us; dataset; agriculture; multimodal3
+2026-10-19T17:25:16Z,DieAnotherDay/nilufer-1.5b-veri,DieAnotherDay,0,0,region:us
+2026-10-19T17:26:05Z,dakr-pandas/tool-calling-conversations-mvehmo00,dakr-pandas,0,0,task_categories:text-generation; language:multilingual; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-19T17:26:27Z,g1n0st/f19f5a95f3d00794b5349c583b7dac46f5923f69,g1n0st,0,0,region:us
+2026-10-19T17:27:40Z,g1n0st/f9ee659c74b8ee1cfbb72be3ee76595c0e58af60,g1n0st,0,0,region:us
+2026-10-19T17:27:55Z,g1n0st/ccc90d04c4e329b48b7e53c0babeba8f291a4a36,g1n0st,0,0,region:us
+2026-10-19T17:28:07Z,g1n0st/828efff24d66fc6daab9fadcf7d9fce22bb66261,g1n0st,0,0,region:us
+2026-10-19T17:28:19Z,g1n0st/47838f2ede4690c73cbd2d1921aa11f40cf13604,g1n0st,0,0,region:us
+2026-10-19T17:28:51Z,chuang-ma/briteval-v2-ai2_arc-cy,chuang-ma,0,0,task_categories:question-answering; task_ids:open-domain-qa; task_ids:multiple-choice-qa; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:extended|al…
+2026-10-19T17:28:51Z,dania25/the-last-recording-part1-clips,dania25,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T17:28:55Z,chuang-ma/briteval-v2-ai2_arc-ga,chuang-ma,0,0,task_categories:question-answering; task_ids:open-domain-qa; task_ids:multiple-choice-qa; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:extended|al…
+2026-10-19T17:28:58Z,chuang-ma/briteval-v2-ai2_arc-gd,chuang-ma,0,0,task_categories:question-answering; task_ids:open-domain-qa; task_ids:multiple-choice-qa; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:extended|al…
+2026-10-19T17:29:01Z,chuang-ma/briteval-v2-humanevalplus-cy,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/humanevalplus; language:cy; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; code-generation; evaluat…
+2026-10-19T17:29:09Z,chuang-ma/briteval-v2-humanevalplus-ga,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/humanevalplus; language:ga; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; code-generation; evaluat…
+2026-10-19T17:29:12Z,chuang-ma/briteval-v2-humanevalplus-gd,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/humanevalplus; language:gd; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; code-generation; evaluat…
+2026-10-19T17:29:15Z,chuang-ma/briteval-v2-mbppplus-cy,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/mbppplus; language:cy; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; evaluation; machine-translated
+2026-10-19T17:29:18Z,chuang-ma/briteval-v2-mbppplus-ga,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/mbppplus; language:ga; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; evaluation; machine-translated
+2026-10-19T17:29:21Z,chuang-ma/briteval-v2-mbppplus-gd,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|evalplus/mbppplus; language:gd; license:apache-2.0; size_categories:n<1K; arxiv:2305.01210; region:us; briteval-v2; evaluation; machine-translated
+2026-10-19T17:29:24Z,chuang-ma/briteval-v2-mgsm-brit,chuang-ma,0,0,task_categories:text-generation; annotations_creators:found; language_creators:found; language_creators:expert-generated; multilinguality:multilingual; source_datasets:extended|juletxara/mgsm; langua…
+2026-10-19T17:29:26Z,chuang-ma/briteval-v2-mmlu-cy,chuang-ma,0,0,task_categories:question-answering; task_ids:multiple-choice-qa; annotations_creators:no-annotation; language_creators:expert-generated; multilinguality:monolingual; source_datasets:extended|cais/mml…
+2026-10-19T17:29:35Z,chuang-ma/briteval-v2-mmlu-ga,chuang-ma,0,0,task_categories:question-answering; task_ids:multiple-choice-qa; annotations_creators:no-annotation; language_creators:expert-generated; multilinguality:monolingual; source_datasets:extended|cais/mml…
+2026-10-19T17:29:44Z,chuang-ma/briteval-v2-mmlu-gd,chuang-ma,0,0,task_categories:question-answering; task_ids:multiple-choice-qa; annotations_creators:no-annotation; language_creators:expert-generated; multilinguality:monolingual; source_datasets:extended|cais/mml…
+2026-10-19T17:29:52Z,chuang-ma/briteval-v2-piqa-cy,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|baber/piqa; language:cy; license:afl-3.0; size_categories:1K<n<10K; arxiv:1911.11641; region:us; briteval-v2; evaluation; machine-translated
+2026-10-19T17:29:55Z,chuang-ma/briteval-v2-piqa-ga,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|baber/piqa; language:ga; license:afl-3.0; size_categories:1K<n<10K; arxiv:1911.11641; region:us; briteval-v2; evaluation; machine-translated
+2026-10-19T17:29:59Z,chuang-ma/briteval-v2-piqa-gd,chuang-ma,0,0,multilinguality:monolingual; source_datasets:extended|baber/piqa; language:gd; license:afl-3.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:pola…
+2026-10-19T17:30:02Z,chuang-ma/briteval-v2-truthful_qa-cy,chuang-ma,0,0,task_categories:multiple-choice; task_categories:text-generation; task_categories:question-answering; task_ids:multiple-choice-qa; task_ids:language-modeling; task_ids:open-domain-qa; annotations_cre…
+2026-10-19T17:30:04Z,chuang-ma/briteval-v2-truthful_qa-ga,chuang-ma,0,0,task_categories:multiple-choice; task_categories:text-generation; task_categories:question-answering; task_ids:multiple-choice-qa; task_ids:language-modeling; task_ids:open-domain-qa; annotations_cre…
+2026-10-19T17:30:07Z,chuang-ma/briteval-v2-truthful_qa-gd,chuang-ma,0,0,task_categories:multiple-choice; task_categories:text-generation; task_categories:question-answering; task_ids:multiple-choice-qa; task_ids:language-modeling; task_ids:open-domain-qa; annotations_cre…
+2026-10-19T17:30:12Z,chuang-ma/briteval-v2-xnli-brit,chuang-ma,0,0,multilinguality:multilingual; source_datasets:extended|facebook/xnli; language:cy; language:ga; language:gd; license:cc-by-nc-4.0; size_categories:1K<n<10K; arxiv:1809.05053; region:us; briteval-v2;…
+2026-10-19T17:30:54Z,g1n0st/46bbe16d6d87efb661c03bbf75623c27df969bff,g1n0st,0,0,region:us
+2026-10-19T17:30:57Z,mandiyaaman/ict-6000-mentorship-master,mandiyaaman,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T17:31:20Z,g1n0st/7ea731bc2b1d04fbc6d05ad75651d84613ae3845,g1n0st,0,0,region:us
+2026-10-19T17:31:42Z,g1n0st/76d81ae3a7df8e9ded105497e52c0483d46a2369,g1n0st,0,0,region:us
+2026-10-19T17:31:46Z,g1n0st/8fec4f90c305b815359b0c327192e794ba3c5a4b,g1n0st,0,0,region:us
+2026-10-19T17:32:02Z,g1n0st/1b392a7275f3c8e1cab2cc0da96a5287e4799dc2,g1n0st,0,0,region:us
+2026-10-19T17:32:04Z,g1n0st/c833f4739ce3ba87f2c9e19d6a9dcb72f05863b2,g1n0st,0,0,region:us
+2026-10-19T17:34:35Z,ropedia-ai/holiworld-data,ropedia-ai,0,0,region:us
+2026-10-19T17:35:01Z,robloxianer/ShitpostGPT-corpus,robloxianer,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; shitpost; twitch; red…
+2026-10-19T17:35:19Z,keywordbarrage/auchan-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; language:fr; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-10-19T17:40:43Z,Scallions/cmip6-simip-seaice,Scallions,0,0,region:us
+2026-10-19T17:41:54Z,Mechai1230/My-Saved-IOS-Downloads,Mechai1230,0,0,license:unknown; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T17:42:14Z,nllebedev/astronomy-image-text98-2023,nllebedev,0,0,license:apache-2.0; region:us; dataset; astronomy; image-text
+2026-10-19T17:45:16Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-19T17:45:17Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-19T17:47:04Z,dmakarovta/audio-text-data,dmakarovta,0,0,license:cc-by-4.0; region:us; dataset; art; audio-text
+2026-10-19T17:48:19Z,rbalazs/rollout_evaluationDemo_left_20261019_194302,rbalazs,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-19T17:48:37Z,phonsobon/khmer-khmer-dictionary,phonsobon,0,0,region:us
+2026-10-19T17:52:00Z,yzxjb/HyWeBench,yzxjb,0,0,task_categories:other; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark;…
+2026-10-19T17:52:24Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-19T17:52:24Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-19T17:52:52Z,simoneteglia/TRIAGE,simoneteglia,0,0,task_categories:image-classification; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; not-for-all-audiences; ai-generated-image-detection; deepfake-detection; content-sensit…
+2026-10-19T17:53:59Z,rbalazs/rollout_evaluationDemo_middle_20261019_194842,rbalazs,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-19T17:54:00Z,LightRiderInc/random-circuits-8q-rigetti,LightRiderInc,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lightrider; quantum-provena…
+2026-10-19T17:54:06Z,LightRiderInc/random-clifford-circuits-iqm,LightRiderInc,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lightrider; quantum-provena…
+2026-10-19T17:54:14Z,LightRiderInc/gsm8k-random-200-cisco,LightRiderInc,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lightrider; quantum-provenance; evaluation; subset
+2026-10-19T17:54:29Z,LightRiderInc/mmlu-random-sample-qispace,LightRiderInc,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lightrider; quantum-provenance; evaluation; subset
+2026-10-19T17:54:35Z,LightRiderInc/humaneval-random-sample-iqm-qec,LightRiderInc,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lightrider; quantum-provenance; evaluation; subset
+2026-10-19T17:54:58Z,keywordbarrage/bol-com-scraper,keywordbarrage,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; annotations_creators:machine-generated; language:en; language:nl; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-10-19T17:55:59Z,Deep-Fake/mozaic-t4-claude-trial,Deep-Fake,0,0,license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; deepfake-detection; voxceleb2
+2026-10-19T17:57:18Z,reubenrouse/crowd-whatif,reubenrouse,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-10-19T17:58:13Z,rbalazs/rollout_evaluationDemo_right_20261019_195424,rbalazs,0,0,region:us
+2026-10-19T17:58:50Z,nshportun/australia-immigration-law-qa,nshportun,0,0,region:us
+2026-10-19T18:00:00Z,AudioVText-team/transcription-demand-runet,AudioVText-team,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; yandex-wordstat; s…
+2026-10-19T18:00:03Z,shree24321/vault-media,shree24321,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T18:02:20Z,grounded-intelligence-initiative/agentic-robotics-last-exam,grounded-intelligence-initiative,0,0,license:cc-by-4.0; region:us
+2026-10-19T18:02:30Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-10-19T18:02:31Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-10-19T18:03:07Z,g1n0st/ec92454e3ca13e87b2e3671425ca4221cfcc1bf1,g1n0st,0,0,region:us
+2026-10-19T18:03:37Z,g1n0st/2e553ca877a9799e85c5221cf34559a84edffc1a,g1n0st,0,0,region:us
+2026-10-19T18:03:40Z,g1n0st/ee1fc3d1f1b62a3373ff01aaab94a0166c50d133,g1n0st,0,0,region:us
+2026-10-19T18:03:43Z,g1n0st/f61d78e0789fc97ad4d1843902f348e8bbbbb046,g1n0st,0,0,region:us
+2026-10-19T18:04:05Z,TARizvi/indian-bank-txn-parsing,TARizvi,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-19T18:04:13Z,g1n0st/87d8c281ed7dc0cc2aa629e5f8db29521d8b6912,g1n0st,0,0,region:us
+2026-10-19T18:04:15Z,g1n0st/88d206bfafc3a4cb05bfa63138de1ed4833414f9,g1n0st,0,0,region:us
+2026-10-19T18:04:30Z,jacobdavis404/AceReason-Random-15K,jacobdavis404,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T18:04:43Z,g1n0st/744fb4301d76b81f2e53b16912f6d5283b1c18e0,g1n0st,0,0,region:us
+2026-10-19T18:04:48Z,afdasfasdd/Annoy-PyEdu-Rs,afdasfasdd,0,0,region:us
+2026-10-19T18:04:49Z,afdasfasdd/Annoy-PyEdu-Rs-Raw,afdasfasdd,0,0,region:us
+2026-10-19T18:04:58Z,akthereddragon/hydra-movies-1,akthereddragon,0,0,region:us
+2026-10-19T18:04:59Z,akthereddragon/hydra-movies-2,akthereddragon,0,0,region:us
+2026-10-19T18:05:00Z,akthereddragon/hydra-movies-4,akthereddragon,0,0,region:us
+2026-10-19T18:05:00Z,akthereddragon/hydra-movies-3,akthereddragon,0,0,region:us
+2026-10-19T18:05:01Z,akthereddragon/hydra-movies-5,akthereddragon,0,0,region:us
+2026-10-19T18:05:01Z,akthereddragon/hydra-movies-7,akthereddragon,0,0,region:us
+2026-10-19T18:05:01Z,akthereddragon/hydra-movies-6,akthereddragon,0,0,region:us
+2026-10-19T18:05:02Z,akthereddragon/hydra-movies-9,akthereddragon,0,0,region:us
+2026-10-19T18:05:02Z,akthereddragon/hydra-movies-8,akthereddragon,0,0,region:us
+2026-10-19T18:05:03Z,akthereddragon/hydra-movies-10,akthereddragon,0,0,region:us
+2026-10-19T18:05:08Z,csmp-hub/human-tonsil,csmp-hub,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-19T18:05:19Z,allfai/sara-lora,allfai,0,0,region:us
+2026-10-19T18:06:09Z,nphearum/dataset-asr-tts,nphearum,0,0,region:us
+2026-10-19T18:06:18Z,SaiGaneshanM/Final_samsung_qa_data,SaiGaneshanM,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T18:07:07Z,g1n0st/afb80c1bf6fe8319695cd1f3bbe2da1a04a6cd72,g1n0st,0,0,region:us
+2026-10-19T18:07:18Z,arjunreddyzic/image-text-data,arjunreddyzic,0,0,license:apache-2.0; region:us; dataset; music; image-text
+2026-10-19T18:07:25Z,dhruvv45/msmarco-qwen-embs,dhruvv45,0,0,region:us
+2026-10-19T18:07:52Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_140730,peleito,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-19T18:08:12Z,g1n0st/c5aeb5b5d897a1aa29803d9e3f58bba0990ba218,g1n0st,0,0,region:us
+2026-10-19T18:08:13Z,g1n0st/0d4b1d1dbb62852109d1365664025cda6f262945,g1n0st,0,0,region:us
+2026-10-19T18:08:24Z,codemaivanngu/apsp-lite-b200-cu128,codemaivanngu,0,0,license:other; region:us
+2026-10-19T18:08:35Z,adqfxad/Annoy-PyEdu-Rs,adqfxad,0,0,region:us
+2026-10-19T18:08:36Z,adqfxad/Annoy-PyEdu-Rs-Raw,adqfxad,0,0,region:us
+2026-10-19T18:08:46Z,ASD12ED31231/Annoy-PyEdu-Rs,ASD12ED31231,0,0,region:us
+2026-10-19T18:08:47Z,ASD12ED31231/Annoy-PyEdu-Rs-Raw,ASD12ED31231,0,0,region:us
+2026-10-19T18:09:14Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_140857,peleito,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-19T18:10:31Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-10-19T18:10:32Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-10-19T18:11:12Z,Nirvana-AI/umi-toss-benchmark-v2-results,Nirvana-AI,0,0,region:us
+2026-10-19T18:11:34Z,varad12345/compressed-3d-assets,varad12345,0,1,region:us
+2026-10-19T18:11:40Z,sinabis-group/sinabis-1m-synthetic-zugferd-xrechnung,sinabis-group,0,0,license:cc-by-4.0; region:us
+2026-10-19T18:12:12Z,kothasuhas/opengenome2_tokenized_n12361963_ctx1024_char19_bos_eos_iid,kothasuhas,0,0,task_categories:text-generation; license:apache-2.0; region:us; DNA; RNA; genomics; biology; character-level; tokenized
+2026-10-19T18:12:33Z,nshportun/new-zealand-immigration-law-qa,nshportun,0,0,region:us
+2026-10-19T18:13:35Z,jackowar/icu,jackowar,0,0,region:us
+2026-10-19T18:14:10Z,WasiqSaleem/robotics-project-demonstrations,WasiqSaleem,0,0,region:us
+2026-10-19T18:14:43Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-10-19T18:15:25Z,grantcue/foundation-application-information-2026,grantcue,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; private-foundations; form-990-pf; irs; foundation-grants; grantmaking; philanthropy; nonprofits; grant-seeking; application-guid…
+2026-10-19T18:15:25Z,PureOne/EVE-SAERIN-V-Voltage-Dissipation-Completion,PureOne,0,0,language:en; modality:tabular; region:us; physics; stochastic-thermodynamics; nonequilibrium-physics; entropy-production; hidden-dissipation; markov-processes; correlation-engines; voltage-source; fu…
+2026-10-19T18:15:49Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_141532,peleito,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-19T18:15:59Z,andyphu/message-board-petri-e80,andyphu,0,0,region:us
+2026-10-19T18:16:21Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_141609,peleito,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-19T18:17:10Z,g1n0st/99d1f3f2da1d6f8013b7ca1786b0dfdf5713f5fe,g1n0st,0,0,region:us
+2026-10-19T18:17:13Z,g1n0st/4d8c9817598eed0f1d17f33cffc10ba425d16f60,g1n0st,0,0,region:us
+2026-10-19T18:17:31Z,aptologia/rentabilidad-arriendo-cali-por-barrio-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; cali; rental-yield; buy-to-let; neighbourhoods
+2026-10-19T18:17:37Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_141644,peleito,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-19T18:17:49Z,halilneed/turkish-kvkk-classification-train,halilneed,0,0,task_categories:text-classification; task_ids:multi-label-classification; language:tr; license:cc-by-4.0; size_categories:10K<n<100K; region:us; kvkk; verbis; gdpr; pii; personal-data; privacy; data-…
+2026-10-19T18:17:52Z,Hennara/code_agent_data_v3,Hennara,0,0,region:us
+2026-10-19T18:17:52Z,aptologia/rentabilidad-arriendo-barranquilla-por-barrio-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; barranquilla; rental-yield; buy-to-let; neighbourhoods
+2026-10-19T18:18:10Z,aptologia/rentabilidad-arriendo-cartagena-por-barrio-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; cartagena; rental-yield; buy-to-let; neighbourhoods
+2026-10-19T18:18:30Z,aptologia/rentabilidad-arriendo-envigado-por-barrio-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; envigado; rental-yield; buy-to-let; neighbourhoods
+2026-10-19T18:18:47Z,aptologia/rentabilidad-arriendo-sabaneta-por-barrio-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; sabaneta; rental-yield; buy-to-let; neighbourhoods
+2026-10-19T18:19:03Z,peleito/rollout_LIR_Lab3_Imitation_Learning_20261019_141804,peleito,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-19T18:19:07Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-19T18:19:07Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-19T18:19:24Z,aptologia/rentabilidad-arriendo-rionegro-por-sector-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; housing; latin-america; open-data; rionegro; rental-yield; buy-to-let; neighbourhoods
