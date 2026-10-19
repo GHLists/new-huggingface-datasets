@@ -1,0 +1,88 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-19T21:23:24Z,ziyan98/E2K-cd82-rl-internalization,ziyan98,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; experience-to-knowledge; arc-agi-3; reinforcement-learning; dr-grpo; knowledge-internalization; qwen3.8; slime
+2026-10-19T21:24:54Z,ziyan98/E2K-loop-v0.2,ziyan98,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; experience-to-knowledge; arc-agi-3; dig-bench; claim-verification; qwen3.8; knowledge-extraction
+2026-10-19T21:24:54Z,companies-directory/cyprus-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; lib…
+2026-10-19T21:25:04Z,jainatharva21/cs546-hw2-2026,jainatharva21,0,0,region:us
+2026-10-19T21:25:50Z,davidcrist/Green_Cow_20S_pos4_20261019_231820,davidcrist,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-19T21:26:23Z,rameesha146/survey-KG-RAG,rameesha146,0,0,region:us
+2026-10-19T21:26:50Z,companies-directory/czechia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T21:27:32Z,nchristo-synaptics/QVGA_pick_place_v4,nchristo-synaptics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-19T21:28:21Z,Yed13/zhongmiao-lora-data,Yed13,0,0,task_categories:text-generation; language:zh; language:en; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-10-19T21:28:46Z,kavyatayal/raiden_single_garment_fold_adversarial_oct19,kavyatayal,0,0,region:us
+2026-10-19T21:31:16Z,shimokawatoko/parc-t2-rkswap-cn-lerobot,shimokawatoko,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-19T21:32:37Z,ryanz22/droid-hires-20260825-transfer,ryanz22,0,0,size_categories:n<1K; modality:tabular; modality:text; modality:video; region:us; robotics; droid
+2026-10-19T21:32:45Z,Plans11/AncientScripts-Parallel-Corpus,Plans11,0,1,region:us
+2026-10-19T21:34:38Z,g1n0st/4df67d5d13c8154ee3efe3d0699b61b4f2e985b1,g1n0st,0,0,region:us
+2026-10-19T21:35:24Z,VattanaryT/raiden_single_garment_fold_adversarial_oct19,VattanaryT,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T21:37:45Z,companies-directory/denmark-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T21:38:00Z,Umesh1608/biointel-data,Umesh1608,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-19T21:39:39Z,Nrighton233j/Sync-d,Nrighton233j,0,0,region:us
+2026-10-19T21:39:52Z,open-athena/Snowball-Smartie-RL-Campaign-Artifacts-2026,open-athena,0,0,region:us; reinforcement-learning; rlvr; reproducibility; snowball
+2026-10-19T21:41:21Z,Diegosantosba/sensor-fusion-samples,Diegosantosba,0,0,license:apache-2.0; region:us; dataset; nlp-sentiment; sensor-fusion
+2026-10-19T21:43:05Z,VattanaryT/raiden_single_garment_fold_adversarial,VattanaryT,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T21:43:23Z,8gradplus/clonetts-voices,8gradplus,0,0,language:de; license:cc0-1.0; size_categories:n<1K; format:text; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; text-to-speech; voice-cloning
+2026-10-19T21:43:31Z,veo555/orbital-dominion-tournament,veo555,0,0,task_categories:reinforcement-learning; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-19T21:43:42Z,companies-directory/spain-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T21:45:08Z,MoshinAli/dns-exfil-evaluations-20261020,MoshinAli,0,0,task_categories:tabular-classification; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; dns-exfiltration; iot-security; cybersecurity; adversarial-robustness;…
+2026-10-19T21:46:01Z,companies-directory/finland-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; lib…
+2026-10-19T21:47:55Z,companies-directory/united-kingdom-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T21:48:55Z,SathvikNapa/SycophancyDosageResponse-WhenModelsFold,SathvikNapa,0,0,license:cc; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-19T21:49:19Z,jung-1992/traffic-video-text53,jung-1992,0,0,license:apache-2.0; region:us; dataset; traffic; video-text
+2026-10-19T21:50:55Z,swhasinoff/ConfocalStereo,swhasinoff,0,0,region:us
+2026-10-19T21:51:00Z,parallaxlabs/parallax-2-identity-v2,parallaxlabs,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T21:52:11Z,woodywu-sommelier/wine-judgment-lab-synthetic,woodywu-sommelier,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-19T21:52:32Z,abidlabs/synthetic-fraud-100,abidlabs,0,0,task_categories:tabular-classification; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ml-intern;…
+2026-10-19T21:53:07Z,shimokawatoko/parc-t2-rkswap4176-lerobot,shimokawatoko,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-19T21:54:57Z,abidlabs/synthetic-mnist-20,abidlabs,0,0,task_categories:image-classification; license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; ml-intern
+2026-10-19T21:55:48Z,qiusizhan/Watch-QA-runtime-v1,qiusizhan,0,0,language:en; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; backdoor-detection; runtime-moni…
+2026-10-19T21:55:52Z,qiusizhan/Watch-QA-nominal-reference-v1,qiusizhan,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; backdoor-detection; nominal-reference; llm-agents; web…
+2026-10-19T21:56:35Z,g1n0st/2b86d9627525e968bb5d5546e3acd64b893ac0ce,g1n0st,0,0,region:us
+2026-10-19T21:57:09Z,companies-directory/greece-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T21:57:19Z,saadkhalidgill/RAGuard,saadkhalidgill,0,0,task_categories:question-answering; language:en; license:mit; size_categories:10K<n<100K; arxiv:2502.16101; region:us
+2026-10-19T21:57:19Z,National-Digital/nsw-public-libraries,National-Digital,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; governm…
+2026-10-19T21:57:41Z,National-Digital/nsw-rest-areas,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; gov…
+2026-10-19T21:57:50Z,kd13/deepfakebench-unfiltered,kd13,0,0,region:us
+2026-10-19T21:59:14Z,g1n0st/836b3294ea8e1137c56582138c2ea4ea952c07a5,g1n0st,0,0,region:us
+2026-10-19T21:59:25Z,madnee1/madnees-launcher,madnee1,0,0,region:us
+2026-10-19T22:00:14Z,toolathlon-eval-05/Annoy-PyEdu-Rs,toolathlon-eval-05,0,0,region:us
+2026-10-19T22:00:15Z,toolathlon-eval-05/Annoy-PyEdu-Rs-Raw,toolathlon-eval-05,0,0,region:us
+2026-10-19T22:01:04Z,companies-directory/croatia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; lib…
+2026-10-19T22:01:49Z,Stevenjisu/opus-100,Stevenjisu,0,0,task_categories:translation; annotations_creators:no-annotation; language_creators:found; multilinguality:translation; source_datasets:extended; language:af; language:am; language:an; language:ar; la…
+2026-10-19T22:02:17Z,g1n0st/218b188bc5bb0bae2bee3b09d4382463f82b07db,g1n0st,0,0,region:us
+2026-10-19T22:02:48Z,companies-directory/ireland-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; lib…
+2026-10-19T22:03:07Z,lmsforAI/so101_water_greentea_v2_20261020_061300_265602,lmsforAI,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-19T22:03:15Z,g1n0st/a7c7a5fd2ad35ca0f16088f2527d5d46d5c3de39,g1n0st,0,0,region:us
+2026-10-19T22:03:57Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-19T22:03:57Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-19T22:05:16Z,Sparctuce358/citiz-mobilite-data,Sparctuce358,0,0,license:other; region:us
+2026-10-19T22:05:18Z,markvptv/course-satellite-2023,markvptv,0,0,license:apache-2.0; region:us; dataset; satellite; audio-text
+2026-10-19T22:05:21Z,companies-directory/india-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; libr…
+2026-10-19T22:05:38Z,markvptv/fashion-image-audio-clean,markvptv,0,0,license:mit; region:us; dataset; fashion; image-audio
+2026-10-19T22:06:26Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-19T22:06:27Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-19T22:06:45Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-19T22:06:46Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-19T22:09:11Z,VattanaryT/raiden_single_garment_fold_adversarial_oct18,VattanaryT,0,0,region:us
+2026-10-19T22:10:39Z,happyhappy123/Letter_A_1,happyhappy123,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-19T22:10:44Z,ThuraAung1601/formal-disco-dafny-hint-gen,ThuraAung1601,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-19T22:11:23Z,belztjti/1111,belztjti,0,0,region:us
+2026-10-19T22:11:59Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-19T22:12:00Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-19T22:12:21Z,companies-directory/japan-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; companies; business; company-registry; jp; official-so…
+2026-10-19T22:12:23Z,namezz/agent-training-backup-20261019,namezz,0,0,task_categories:text-generation; language:en; region:us
+2026-10-19T22:12:34Z,g1n0st/f5c62e1fe9dcddba5ef57df27479fa1c9536507c,g1n0st,0,0,region:us
+2026-10-19T22:12:45Z,g1n0st/dda1db8067ff3d2e196d770290b0f7245f94b3a7,g1n0st,0,0,region:us
+2026-10-19T22:14:23Z,g1n0st/788618f44175629e29d1098d1ab2d0f990e9edc7,g1n0st,0,0,region:us
+2026-10-19T22:14:25Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-19T22:14:25Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-19T22:14:38Z,g1n0st/6dc234851a78b8e7243477057ecddcf579ef15c5,g1n0st,0,0,region:us
+2026-10-19T22:15:26Z,senku111/pfa-source,senku111,0,0,modality:3d; region:us; pipeline; nnunet; 3d; segmentation
+2026-10-19T22:15:33Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-19T22:15:34Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-19T22:15:55Z,g1n0st/bdb4ae970802d69952bc1d74220135fa1a28fbcb,g1n0st,0,0,region:us
+2026-10-19T22:16:15Z,g1n0st/c84b338191193345fbc0977d1fdd2b1d95daec84,g1n0st,0,0,region:us
+2026-10-19T22:18:12Z,g1n0st/4087d72e1177d0065f2b35741799e9e58958db81,g1n0st,0,0,region:us
+2026-10-19T22:19:44Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-10-19T22:19:45Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-10-19T22:19:53Z,RynoXhium/Version,RynoXhium,0,0,region:us
+2026-10-19T22:20:12Z,Visecall/aio_text_animations,Visecall,0,0,region:us
