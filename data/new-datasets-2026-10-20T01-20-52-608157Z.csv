@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-20T00:20:44Z,sipi-llai/nlp-sentiment-collection,sipi-llai,0,0,license:cc-by-4.0; region:us; dataset; nlp-sentiment; image-audio
+2026-10-20T00:22:01Z,richardmelo/painel-nacional-icon,richardmelo,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; weather; climate; icon; dwd; r…
+2026-10-20T00:26:30Z,fagweg/Annoy-PyEdu-Rs-Raw,fagweg,0,0,region:us
+2026-10-20T00:26:30Z,fagweg/Annoy-PyEdu-Rs,fagweg,0,0,region:us
+2026-10-20T00:26:30Z,rainbowrobotics/JIMTOF_newrobot_20261020_001127,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-20T00:27:06Z,hertgaer/Annoy-PyEdu-Rs,hertgaer,0,0,region:us
+2026-10-20T00:27:07Z,hertgaer/Annoy-PyEdu-Rs-Raw,hertgaer,0,0,region:us
+2026-10-20T00:29:13Z,Wosala/Wosala1-EURUSD-M5-AI-Ready-2018-2026,Wosala,0,1,region:us
+2026-10-20T00:34:04Z,jackywangrel/finance-audio-text,jackywangrel,0,0,license:mit; region:us; dataset; finance; audio-text
+2026-10-20T00:38:00Z,birbirll/vega-failgen-fail100-videos,birbirll,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-20T00:38:19Z,CHL0e/robocasa-eval-results,CHL0e,0,0,region:us; robotics; robocasa; evaluation
+2026-10-20T00:42:28Z,NicolasSperanza/cs546-hw2-2026,NicolasSperanza,0,0,region:us
+2026-10-20T00:44:08Z,lamsheeper-data-attribution/ftrace-trex-results,lamsheeper-data-attribution,0,0,license:mit; arxiv:2205.11482; arxiv:2303.14186; region:us; data-attribution; influence-functions; interpretability
+2026-10-20T00:45:39Z,rsundaraws/so101_conf1_pickplace_20261019_173930,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-20T00:46:28Z,airoa-org/umi-evaluation-g2_yubi_real,airoa-org,0,0,language:ja; language:en; license:other; region:us; robotics; lerobot; airoa
+2026-10-20T00:46:35Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-20T00:46:36Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-20T00:46:43Z,rainbowrobotics/JIMTOF_newrobot_20261020_002730,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-20T00:48:42Z,colombocol/sound-events-corpus,colombocol,0,0,license:apache-2.0; region:us; dataset; sound-events; pointcloud-text
+2026-10-20T00:49:47Z,insilicogen/llm-mutation-variant-qa,insilicogen,0,0,task_categories:question-answering; task_categories:text-generation; language:ko; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datase…
+2026-10-20T00:50:28Z,insilicogen/llm-mutation-cpt-corpus,insilicogen,0,0,task_categories:text-generation; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-20T00:51:42Z,Naphula-Archives/bard_v2_benchmark_sample,Naphula-Archives,0,0,region:us
+2026-10-20T00:52:22Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-20T00:52:22Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-20T00:53:01Z,ataabdulrhman/ur_markers_v2_train,ataabdulrhman,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-20T00:53:58Z,insilicogen/llm-mutation-eval-results,insilicogen,0,0,task_categories:question-answering; task_categories:text-generation; language:ko; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datase…
+2026-10-20T00:54:03Z,albertklorer/safedocs-perfect-single-pages-markdown,albertklorer,0,0,region:us
+2026-10-20T00:54:05Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-20T00:54:06Z,insilicogen/llm-mutation-ft-qa,insilicogen,0,0,task_categories:question-answering; task_categories:text-generation; language:ko; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pand…
+2026-10-20T00:55:01Z,tolath/Annoy-PyEdu-Rs-Raw,tolath,0,0,region:us
+2026-10-20T00:55:01Z,tolath/Annoy-PyEdu-Rs,tolath,0,0,region:us
+2026-10-20T00:56:54Z,avartha/tau2-voice-ava-zero-trajectories,avartha,0,0,modality:audio; region:us; tau2-bench; tau-voice; voice-agents; audio
+2026-10-20T00:57:44Z,YihangSun/cs546-hw2-2026,YihangSun,0,0,region:us
+2026-10-20T01:02:12Z,sandrogomes42/gigaverbo-v2-10k-text,sandrogomes42,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-20T01:03:38Z,aixk/768-768-b9,aixk,0,0,region:us
+2026-10-20T01:07:24Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-20T01:07:50Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-20T01:11:01Z,Samisaliveagain/piper-hexagonal-bolt-insertion-80-demos-zero-home-v1,Samisaliveagain,0,0,task_categories:robotics; language:en; size_categories:10K<n<100K; region:us; lerobot; robotics; piper; teleoperation; imitation-learning
+2026-10-20T01:11:58Z,timf34/emotion-vectors,timf34,0,0,region:us
+2026-10-20T01:12:40Z,aitrainingjobs/who-is-buying-ai-training-data,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; labor-market; ai-training-data; human-data; job-postings; rlhf
+2026-10-20T01:12:47Z,Plans11/UniversalCode-Research,Plans11,0,1,task_categories:text-generation; language:en; license:cc-by-4.0; region:us; reasoning; information-theory; synthetic; recursive-ai
+2026-10-20T01:14:33Z,thiagocfa/mtg-pauper-meta,thiagocfa,0,0,region:us
+2026-10-20T01:15:39Z,mseeam2/cs546-hw2-2026,mseeam2,0,0,region:us
+2026-10-20T01:16:50Z,yyuanuw/hop2-logs-src_web_react_s2,yyuanuw,0,0,region:us
+2026-10-20T01:17:09Z,nakas/powderbench-snowpack,nakas,0,0,region:us
+2026-10-20T01:19:06Z,KeithCu/writeragent-eval-1,KeithCu,0,0,task_categories:text-generation; language:en; license:gpl-3.0; size_categories:n<1K; region:us; benchmark; agents; libreoffice; tool-use; evaluation; leaderboard
+2026-10-20T01:20:12Z,sandrogomes42/gigaverbo-v2-100k-text,sandrogomes42,0,0,region:us
+2026-10-20T01:20:26Z,tommya5526/cs546-hw2-2026,tommya5526,0,0,region:us
