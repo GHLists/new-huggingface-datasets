@@ -9,85 +9,145 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 14:19 UTC
+## Latest list — 2026-10-20 15:20 UTC
 
-New datasets created between 2026-10-20 13:20 UTC and 2026-10-20 14:19 UTC.
+New datasets created between 2026-10-20 14:19 UTC and 2026-10-20 15:20 UTC.
 
-[Full CSV](data/new-datasets-2026-10-20T14-19-46-654646Z.csv)
+[Full CSV](data/new-datasets-2026-10-20T15-20-59-914536Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-20 13:22:32 | [sanmish4/correlated-filtered-vector-search](https://huggingface.co/sanmish4/correlated-filtered-vector-search) | sanmish4 | 0 | 0 | task_categories:feature-extraction; license:cc0-1.0; size_c… |
-| 2026-10-20 13:23:40 | [regerdev/regapitrain](https://huggingface.co/regerdev/regapitrain) | regerdev | 0 | 0 | region:us |
-| 2026-10-20 13:24:28 | [viktorbon2003/RL_Try_1_20261020_150015](https://huggingface.co/viktorbon2003/RL_Try_1_20261020_150015) | viktorbon2003 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:26:03 | [MakHH/FT-Fail](https://huggingface.co/MakHH/FT-Fail) | MakHH | 0 | 0 | task_categories:text-classification; language:en; license:o… |
-| 2026-10-20 13:26:10 | [j-ine/lama3_data](https://huggingface.co/j-ine/lama3_data) | j-ine | 0 | 0 | region:us |
-| 2026-10-20 13:26:11 | [Stray2024/unnamed-caring-think-100k](https://huggingface.co/Stray2024/unnamed-caring-think-100k) | Stray2024 | 0 | 0 | size_categories:100K<n<1M; format:json; modality:text; libr… |
-| 2026-10-20 13:27:50 | [caijanfeng/compact-bench](https://huggingface.co/caijanfeng/compact-bench) | caijanfeng | 0 | 0 | task_categories:text-generation; language:en; language:zh;… |
-| 2026-10-20 13:28:25 | [Beifengdo/Introduction-to-Natural-Language-Processing](https://huggingface.co/Beifengdo/Introduction-to-Natural-Language-Processing) | Beifengdo | 0 | 0 | language:zh; size_categories:n<1K; format:text; modality:te… |
-| 2026-10-20 13:28:58 | [SaudaBintiNoor/educational-eval-banglish-qwen](https://huggingface.co/SaudaBintiNoor/educational-eval-banglish-qwen) | SaudaBintiNoor | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
-| 2026-10-20 13:31:23 | [at237299966/r1lite_open_drawer_multimodal](https://huggingface.co/at237299966/r1lite_open_drawer_multimodal) | at237299966 | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-10-20 13:31:53 | [AugustaLina/cai-2026-10-20_synth_v3.1_clean](https://huggingface.co/AugustaLina/cai-2026-10-20_synth_v3.1_clean) | AugustaLina | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-20 13:34:09 | [Gjusev/nitelos-launch](https://huggingface.co/Gjusev/nitelos-launch) | Gjusev | 0 | 0 | license:cc-by-4.0; size_categories:n<1K; modality:image; mo… |
-| 2026-10-20 13:34:15 | [viktorbon2003/pick_place_act_yellow_20261020_152547](https://huggingface.co/viktorbon2003/pick_place_act_yellow_20261020_152547) | viktorbon2003 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:34:52 | [Raj-deep/scoutroute-phase1-calibration](https://huggingface.co/Raj-deep/scoutroute-phase1-calibration) | Raj-deep | 0 | 1 | task_categories:text-generation; language:en; size_categori… |
-| 2026-10-20 13:35:32 | [rainbowrobotics/JIMTOF_newrobot_20261020_124804](https://huggingface.co/rainbowrobotics/JIMTOF_newrobot_20261020_124804) | rainbowrobotics | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:36:07 | [aya-s/polish-cylinders](https://huggingface.co/aya-s/polish-cylinders) | aya-s | 0 | 0 | region:us |
-| 2026-10-20 13:36:59 | [KAUST-FRI/FDP-2022](https://huggingface.co/KAUST-FRI/FDP-2022) | KAUST-FRI | 0 | 0 | region:us |
-| 2026-10-20 13:37:57 | [Zeteng/yue-sft-v2-archive](https://huggingface.co/Zeteng/yue-sft-v2-archive) | Zeteng | 0 | 0 | language:yue; language:zh; license:other; region:us |
-| 2026-10-20 13:38:20 | [clgm2015/AMSID](https://huggingface.co/clgm2015/AMSID) | clgm2015 | 0 | 0 | license:mit; region:us |
-| 2026-10-20 13:38:53 | [mlsec-group/hf-laica-primevul-bin](https://huggingface.co/mlsec-group/hf-laica-primevul-bin) | mlsec-group | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:tabula… |
-| 2026-10-20 13:39:43 | [tilkis/bihter-begonvil-veri](https://huggingface.co/tilkis/bihter-begonvil-veri) | tilkis | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
-| 2026-10-20 13:40:13 | [Oriskany/megadepth-mds-512px](https://huggingface.co/Oriskany/megadepth-mds-512px) | Oriskany | 0 | 0 | region:us |
-| 2026-10-20 13:42:04 | [ritwika96/arc-agi2-program-grid-sft](https://huggingface.co/ritwika96/arc-agi2-program-grid-sft) | ritwika96 | 0 | 0 | task_categories:text-generation; language:en; license:apach… |
-| 2026-10-20 13:42:56 | [Beifengdo/Natural-Language-Processing-Labs](https://huggingface.co/Beifengdo/Natural-Language-Processing-Labs) | Beifengdo | 0 | 0 | language:zh; region:us; education; natural-language-process… |
-| 2026-10-20 13:45:20 | [Alkatt/eval_LDVLA_bfloat16_Async_stack_V3_run6_2026_10_20](https://huggingface.co/Alkatt/eval_LDVLA_bfloat16_Async_stack_V3_run6_2026_10_20) | Alkatt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:46:06 | [nightly-wave/cad32fc7](https://huggingface.co/nightly-wave/cad32fc7) | nightly-wave | 0 | 0 | region:us |
-| 2026-10-20 13:46:48 | [SamruddhiThorat07/cube_red](https://huggingface.co/SamruddhiThorat07/cube_red) | SamruddhiThorat07 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:47:40 | [Hermela/ethiopian-frame-blindness](https://huggingface.co/Hermela/ethiopian-frame-blindness) | Hermela | 0 | 0 | task_categories:question-answering; task_categories:text-ge… |
-| 2026-10-20 13:48:15 | [lapkaaaa/aae-sft](https://huggingface.co/lapkaaaa/aae-sft) | lapkaaaa | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-20 13:49:58 | [shdragron/RoboGeo-depth-ist](https://huggingface.co/shdragron/RoboGeo-depth-ist) | shdragron | 0 | 0 | license:cc-by-nc-sa-4.0; region:us |
-| 2026-10-20 13:52:11 | [kimyg119/Box_Pickup_pallete_261020_ep40-50_20261020_224400](https://huggingface.co/kimyg119/Box_Pickup_pallete_261020_ep40-50_20261020_224400) | kimyg119 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:54:10 | [GradientScholar/my-first-dataset](https://huggingface.co/GradientScholar/my-first-dataset) | GradientScholar | 0 | 0 | region:us |
-| 2026-10-20 13:54:37 | [riahimedamine/DigiFakeAV_mp4](https://huggingface.co/riahimedamine/DigiFakeAV_mp4) | riahimedamine | 0 | 0 | region:us |
-| 2026-10-20 13:54:56 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-10-20 13:55:00 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-10-20 13:55:08 | [xhsioi/Annoy-PyEdu-Rs](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs) | xhsioi | 0 | 0 | region:us |
-| 2026-10-20 13:55:09 | [xhsioi/Annoy-PyEdu-Rs-Raw](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs-Raw) | xhsioi | 0 | 0 | region:us |
-| 2026-10-20 13:56:21 | [Beifengdo/Automatic-Control-Theory](https://huggingface.co/Beifengdo/Automatic-Control-Theory) | Beifengdo | 0 | 0 | language:zh; size_categories:n<1K; modality:document; modal… |
-| 2026-10-20 13:56:32 | [fabono/little_bit_drawer_opening_20261020_154542](https://huggingface.co/fabono/little_bit_drawer_opening_20261020_154542) | fabono | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 13:56:51 | [dusersad12/Annoy-PyEdu-Rs](https://huggingface.co/dusersad12/Annoy-PyEdu-Rs) | dusersad12 | 0 | 0 | region:us |
-| 2026-10-20 13:56:51 | [dusersad12/Annoy-PyEdu-Rs-Raw](https://huggingface.co/dusersad12/Annoy-PyEdu-Rs-Raw) | dusersad12 | 0 | 0 | region:us |
-| 2026-10-20 13:56:56 | [VisionXLab/EvaOmni-Dataset](https://huggingface.co/VisionXLab/EvaOmni-Dataset) | VisionXLab | 0 | 0 | license:apache-2.0; size_categories:1K<n<10K; format:json;… |
-| 2026-10-20 13:57:08 | [francesca9805/mp-struct-bcc-zho-hans-100mb](https://huggingface.co/francesca9805/mp-struct-bcc-zho-hans-100mb) | francesca9805 | 0 | 0 | size_categories:100K<n<1M; format:parquet; library:datasets… |
-| 2026-10-20 13:58:59 | [lapkaaaa/ukp-sentential-sft](https://huggingface.co/lapkaaaa/ukp-sentential-sft) | lapkaaaa | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-20 13:59:15 | [GreyVault/Flipkart](https://huggingface.co/GreyVault/Flipkart) | GreyVault | 0 | 0 | size_categories:1M<n<10M; format:parquet; modality:text; li… |
-| 2026-10-20 13:59:32 | [lapkaaaa/claimbuster-sft](https://huggingface.co/lapkaaaa/claimbuster-sft) | lapkaaaa | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-20 13:59:35 | [Rapidata/vlm-vs-crowd](https://huggingface.co/Rapidata/vlm-vs-crowd) | Rapidata | 0 | 0 | license:cc-by-4.0; size_categories:n<1K; format:parquet; mo… |
-| 2026-10-20 14:00:07 | [chouziel/test-slam-check_trajectorycheck_20261020_135904](https://huggingface.co/chouziel/test-slam-check_trajectorycheck_20261020_135904) | chouziel | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-20 14:00:22 | [junbrro/openarm-human-rlhnd-prq-fp48](https://huggingface.co/junbrro/openarm-human-rlhnd-prq-fp48) | junbrro | 0 | 0 | license:other; region:us; robotics; hand-pose |
-| 2026-10-20 14:00:34 | [Hebrish/Noisy-Condition-Sentences](https://huggingface.co/Hebrish/Noisy-Condition-Sentences) | Hebrish | 0 | 0 | task_categories:automatic-speech-recognition; language:en;… |
-| 2026-10-20 14:01:24 | [kharachar/video-copyright-dataset](https://huggingface.co/kharachar/video-copyright-dataset) | kharachar | 0 | 0 | license:other; region:us |
-| 2026-10-20 14:01:35 | [lapkaaaa/argq-rank-sft](https://huggingface.co/lapkaaaa/argq-rank-sft) | lapkaaaa | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:text;… |
-| 2026-10-20 14:02:48 | [GreyVault/TGram](https://huggingface.co/GreyVault/TGram) | GreyVault | 0 | 0 | size_categories:1M<n<10M; format:parquet; modality:text; li… |
-| 2026-10-20 14:03:16 | [GlobalWheat/GlobalWheatHeadDataset2021](https://huggingface.co/GlobalWheat/GlobalWheatHeadDataset2021) | GlobalWheat | 0 | 0 | task_categories:object-detection; language:en; license:cc-b… |
-| 2026-10-20 14:05:35 | [Elwilson2006/social-pointcloud-text-curated](https://huggingface.co/Elwilson2006/social-pointcloud-text-curated) | Elwilson2006 | 0 | 0 | license:mit; region:us; dataset; social; pointcloud-text |
-| 2026-10-20 14:07:28 | [lfqian/Annulus-Economic-Benchmark](https://huggingface.co/lfqian/Annulus-Economic-Benchmark) | lfqian | 0 | 0 | task_categories:question-answering; task_categories:text-ge… |
-| 2026-10-20 14:09:05 | [Beifengdo/EES-Energy-Power-Systems-Computer-Analysis](https://huggingface.co/Beifengdo/EES-Energy-Power-Systems-Computer-Analysis) | Beifengdo | 0 | 0 | language:zh; size_categories:n<1K; modality:document; libra… |
-| 2026-10-20 14:09:45 | [GlobalWheat/sample_dataset](https://huggingface.co/GlobalWheat/sample_dataset) | GlobalWheat | 0 | 0 | size_categories:n<1K; format:parquet; modality:image; modal… |
-| 2026-10-20 14:10:07 | [melisms/melia-2b-veri](https://huggingface.co/melisms/melia-2b-veri) | melisms | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
-| 2026-10-20 14:10:25 | [factblink514/movies](https://huggingface.co/factblink514/movies) | factblink514 | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
-| 2026-10-20 14:10:46 | [Anuran66/Glass-And-Ghost](https://huggingface.co/Anuran66/Glass-And-Ghost) | Anuran66 | 0 | 0 | license:mit; region:us |
-| 2026-10-20 14:12:16 | [EvanSong2008/orcarouter-6bit-mlx-evaluation-notes](https://huggingface.co/EvanSong2008/orcarouter-6bit-mlx-evaluation-notes) | EvanSong2008 | 0 | 0 | language:en; language:zh; region:us; evaluation; refusal; m… |
-| 2026-10-20 14:12:54 | [EvanSong2008/qwen-image-2-1-m5-pro-engineering-report](https://huggingface.co/EvanSong2008/qwen-image-2-1-m5-pro-engineering-report) | EvanSong2008 | 0 | 0 | region:us |
-| 2026-10-20 14:13:08 | [Minjunkimford/multimodal3-corpus](https://huggingface.co/Minjunkimford/multimodal3-corpus) | Minjunkimford | 0 | 0 | license:apache-2.0; region:us; dataset; ecommerce; multimod… |
-| 2026-10-20 14:13:57 | [vinguyen0891/vivy-v69-llm-3d-worlds-arena-49-glb](https://huggingface.co/vinguyen0891/vivy-v69-llm-3d-worlds-arena-49-glb) | vinguyen0891 | 0 | 0 | license:apache-2.0; region:us |
-| 2026-10-20 14:14:37 | [cuongduongok/yt-trend-forecaster-gold-data](https://huggingface.co/cuongduongok/yt-trend-forecaster-gold-data) | cuongduongok | 0 | 0 | license:apache-2.0; region:us |
-| 2026-10-20 14:14:40 | [Jordine/echoblast-steer-final](https://huggingface.co/Jordine/echoblast-steer-final) | Jordine | 0 | 0 | region:us |
-| 2026-10-20 14:15:03 | [robert131OO4/out-series](https://huggingface.co/robert131OO4/out-series) | robert131OO4 | 0 | 0 | region:us |
-| 2026-10-20 14:17:44 | [Jomanne3/Annoy-PyEdu-Rs](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs) | Jomanne3 | 0 | 0 | region:us |
-| 2026-10-20 14:17:53 | [Jomanne3/Annoy-PyEdu-Rs-Raw](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs-Raw) | Jomanne3 | 0 | 0 | region:us |
-| 2026-10-20 14:17:59 | [Beifengdo/Ten-Modern-Innovation-Marvels](https://huggingface.co/Beifengdo/Ten-Modern-Innovation-Marvels) | Beifengdo | 0 | 0 | region:us |
+| 2026-10-20 14:21:59 | [Everything-user/elder-futhark-rune-meanings](https://huggingface.co/Everything-user/elder-futhark-rune-meanings) | Everything-user | 0 | 1 | task_categories:text-generation; task_categories:question-a… |
+| 2026-10-20 14:22:19 | [netgoat-ai/Koda-IDS-Frontier-Trendyol-Cyber-10k](https://huggingface.co/netgoat-ai/Koda-IDS-Frontier-Trendyol-Cyber-10k) | netgoat-ai | 0 | 0 | task_categories:text-generation; source_datasets:Trendyol/T… |
+| 2026-10-20 14:22:29 | [polyorderbooks/polymarket-sports-markets](https://huggingface.co/polyorderbooks/polymarket-sports-markets) | polyorderbooks | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-20 14:22:56 | [KeepParallel/References](https://huggingface.co/KeepParallel/References) | KeepParallel | 0 | 0 | region:us |
+| 2026-10-20 14:23:01 | [netgoat-ai/Koda-IDS-Frontier-SFT-Modes](https://huggingface.co/netgoat-ai/Koda-IDS-Frontier-SFT-Modes) | netgoat-ai | 0 | 0 | task_categories:text-generation; source_datasets:netgoat-ai… |
+| 2026-10-20 14:23:29 | [Nafanya822/agent-memory](https://huggingface.co/Nafanya822/agent-memory) | Nafanya822 | 0 | 0 | region:us |
+| 2026-10-20 14:24:01 | [polyorderbooks/polymarket-sports-250ms-l2](https://huggingface.co/polyorderbooks/polymarket-sports-250ms-l2) | polyorderbooks | 0 | 0 | task_categories:time-series-forecasting; task_categories:ta… |
+| 2026-10-20 14:24:23 | [Elerikv2/BIGDATAtest4_20261020_160428](https://huggingface.co/Elerikv2/BIGDATAtest4_20261020_160428) | Elerikv2 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-20 14:25:25 | [netgoat-ai/Koda-IDS-Frontier-GRPO-Modes](https://huggingface.co/netgoat-ai/Koda-IDS-Frontier-GRPO-Modes) | netgoat-ai | 0 | 0 | task_categories:text-generation; language:en; license:apach… |
+| 2026-10-20 14:25:46 | [medarc/brainmarks-smri](https://huggingface.co/medarc/brainmarks-smri) | medarc | 0 | 0 | task_categories:image-classification; task_categories:image… |
+| 2026-10-20 14:26:10 | [FreudArthur/Potholes](https://huggingface.co/FreudArthur/Potholes) | FreudArthur | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-20 14:26:50 | [Yuzuvis/nsclc-radiogenomics](https://huggingface.co/Yuzuvis/nsclc-radiogenomics) | Yuzuvis | 0 | 0 | task_categories:image-classification; license:cc-by-3.0; re… |
+| 2026-10-20 14:27:08 | [Ninja69/icse-10th-vault](https://huggingface.co/Ninja69/icse-10th-vault) | Ninja69 | 0 | 0 | size_categories:n<1K; modality:document; modality:image; li… |
+| 2026-10-20 14:27:26 | [wangxiaokang123/ref2va-two-samples-demo](https://huggingface.co/wangxiaokang123/ref2va-two-samples-demo) | wangxiaokang123 | 0 | 0 | task_categories:text-to-video; language:zh; license:cc0-1.0… |
+| 2026-10-20 14:27:50 | [nassimjp/korean-pashto-parallel-corpus](https://huggingface.co/nassimjp/korean-pashto-parallel-corpus) | nassimjp | 0 | 0 | task_categories:translation; language:ko; language:ps; lice… |
+| 2026-10-20 14:29:41 | [polyorderbooks/polymarket-sports-250ms-price](https://huggingface.co/polyorderbooks/polymarket-sports-250ms-price) | polyorderbooks | 0 | 0 | task_categories:time-series-forecasting; task_categories:ta… |
+| 2026-10-20 14:29:59 | [Yuzuvis/pubmedvision](https://huggingface.co/Yuzuvis/pubmedvision) | Yuzuvis | 0 | 0 | task_categories:image-classification; license:apache-2.0; r… |
+| 2026-10-20 14:30:18 | [keywordbarrage/el-corte-ingles-scraper](https://huggingface.co/keywordbarrage/el-corte-ingles-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-20 14:31:49 | [Jordine/echoblast-steer-round2](https://huggingface.co/Jordine/echoblast-steer-round2) | Jordine | 0 | 0 | license:other; region:us |
+| 2026-10-20 14:31:51 | [aptologia/alquiler-por-numero-de-dormitorios-lima-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-lima-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:32:25 | [aptologia/arriendo-por-numero-de-dormitorios-santiago-de-chile-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-dormitorios-santiago-de-chile-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:33:15 | [aptologia/renta-por-numero-de-recamaras-ciudad-de-mexico-2026](https://huggingface.co/aptologia/renta-por-numero-de-recamaras-ciudad-de-mexico-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:33:30 | [Stands99/so101_pen_to_cup_100ep_261020_20261020_221948](https://huggingface.co/Stands99/so101_pen_to_cup_100ep_261020_20261020_221948) | Stands99 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-20 14:33:49 | [aptologia/alquiler-por-numero-de-dormitorios-buenos-aires-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-buenos-aires-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:34:04 | [mutangchun222/FLUX-Tamper](https://huggingface.co/mutangchun222/FLUX-Tamper) | mutangchun222 | 0 | 0 | size_categories:10K<n<100K; format:imagefolder; modality:im… |
+| 2026-10-20 14:34:10 | [aptologia/alquiler-por-numero-de-dormitorios-montevideo-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-montevideo-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:34:27 | [aptologia/alquiler-por-numero-de-dormitorios-asuncion-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-asuncion-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:34:44 | [dongbobo/Annoy-PyEdu-Rs-Raw](https://huggingface.co/dongbobo/Annoy-PyEdu-Rs-Raw) | dongbobo | 0 | 0 | region:us |
+| 2026-10-20 14:34:44 | [dongbobo/Annoy-PyEdu-Rs](https://huggingface.co/dongbobo/Annoy-PyEdu-Rs) | dongbobo | 0 | 0 | region:us |
+| 2026-10-20 14:35:01 | [umasri/ag-news-text-clustering](https://huggingface.co/umasri/ag-news-text-clustering) | umasri | 0 | 0 | license:mit; region:us |
+| 2026-10-20 14:36:01 | [Beifengdo/JavaEE-Web-Programming](https://huggingface.co/Beifengdo/JavaEE-Web-Programming) | Beifengdo | 0 | 0 | language:zh; size_categories:n<1K; modality:document; libra… |
+| 2026-10-20 14:37:43 | [mistylc/radar_datasets](https://huggingface.co/mistylc/radar_datasets) | mistylc | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-20 14:37:47 | [aptologia/alquiler-por-numero-de-habitaciones-santo-domingo-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-habitaciones-santo-domingo-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:38:06 | [aptologia/alquiler-por-numero-de-dormitorios-quito-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-quito-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:38:47 | [aptologia/alquiler-por-numero-de-dormitorios-guayaquil-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-guayaquil-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:38:53 | [labqoat/jev-skills](https://huggingface.co/labqoat/jev-skills) | labqoat | 0 | 0 | task_categories:question-answering; task_categories:text-cl… |
+| 2026-10-20 14:39:23 | [OCEAN-Lab/CTS-PADC_Dataset](https://huggingface.co/OCEAN-Lab/CTS-PADC_Dataset) | OCEAN-Lab | 0 | 0 | license:cc-by-sa-4.0; region:us |
+| 2026-10-20 14:40:03 | [aptologia/alquiler-por-numero-de-dormitorios-santa-cruz-de-la-sierra-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-santa-cruz-de-la-sierra-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:40:05 | [Jordine/echoblast-steer-sdf-knowledge-eval](https://huggingface.co/Jordine/echoblast-steer-sdf-knowledge-eval) | Jordine | 0 | 0 | license:other; region:us |
+| 2026-10-20 14:40:11 | [Human11000/blended_skill_talk](https://huggingface.co/Human11000/blended_skill_talk) | Human11000 | 0 | 0 | task_ids:dialogue-generation; annotations_creators:crowdsou… |
+| 2026-10-20 14:40:16 | [opdullah/turkish-product-matching-706k](https://huggingface.co/opdullah/turkish-product-matching-706k) | opdullah | 0 | 0 | language:tr; license:other; size_categories:1M<n<10M; forma… |
+| 2026-10-20 14:40:26 | [aptologia/alquiler-por-numero-de-dormitorios-lisboa-2026](https://huggingface.co/aptologia/alquiler-por-numero-de-dormitorios-lisboa-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:41:19 | [Yingjin/ROAD-Bench](https://huggingface.co/Yingjin/ROAD-Bench) | Yingjin | 0 | 0 | task_categories:image-classification; task_categories:video… |
+| 2026-10-20 14:41:43 | [aptologia/primas-de-amenidades-arriendo-medellin-2026](https://huggingface.co/aptologia/primas-de-amenidades-arriendo-medellin-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:42:01 | [amirmmahdavikia/bee-dance-floor-maps](https://huggingface.co/amirmmahdavikia/bee-dance-floor-maps) | amirmmahdavikia | 0 | 0 | region:us |
+| 2026-10-20 14:42:03 | [aptologia/apartamentos-en-venta-por-rango-de-precio-bogota-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-bogota-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:42:17 | [avabbas/algorithmic-gaslighting](https://huggingface.co/avabbas/algorithmic-gaslighting) | avabbas | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; modal… |
+| 2026-10-20 14:42:22 | [aptologia/apartamentos-en-venta-por-rango-de-precio-medellin-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-medellin-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:42:40 | [aptologia/apartamentos-en-venta-por-rango-de-precio-cali-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-cali-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:42:56 | [keywordbarrage/esselunga-scraper](https://huggingface.co/keywordbarrage/esselunga-scraper) | keywordbarrage | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
+| 2026-10-20 14:43:07 | [aptologia/apartamentos-en-venta-por-rango-de-precio-barranquilla-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-barranquilla-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:43:19 | [robert131OO4/out-series](https://huggingface.co/robert131OO4/out-series) | robert131OO4 | 0 | 0 | region:us |
+| 2026-10-20 14:43:25 | [aptologia/apartamentos-en-venta-por-rango-de-precio-cartagena-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-cartagena-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:43:46 | [MaramAllah/td-forecasting-mart](https://huggingface.co/MaramAllah/td-forecasting-mart) | MaramAllah | 0 | 0 | language:en; license:cc-by-4.0; size_categories:100K<n<1M;… |
+| 2026-10-20 14:43:46 | [aptologia/apartamentos-en-venta-por-rango-de-precio-pereira-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-pereira-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:44:03 | [aptologia/apartamentos-en-venta-por-rango-de-precio-envigado-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-envigado-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:44:41 | [aptologia/cuantos-metros-cuadrados-arrienda-1-millon-ciudades-colombia-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-arrienda-1-millon-ciudades-colombia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:44:58 | [aptologia/cuantos-metros-cuadrados-arrienda-4-millones-ciudades-colombia-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-arrienda-4-millones-ciudades-colombia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:45:53 | [cSynBioSys/w4c](https://huggingface.co/cSynBioSys/w4c) | cSynBioSys | 0 | 0 | region:us |
+| 2026-10-20 14:46:25 | [furkancmc/kadim-analiz-data](https://huggingface.co/furkancmc/kadim-analiz-data) | furkancmc | 0 | 0 | task_categories:text-generation; task_categories:text-class… |
+| 2026-10-20 14:46:26 | [Suyash44/rollout_groot_blue_cylinder_20ksteps_30fps_20eps_20261020_161936](https://huggingface.co/Suyash44/rollout_groot_blue_cylinder_20ksteps_30fps_20eps_20261020_161936) | Suyash44 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-20 14:46:43 | [alexlittle/concordiahub-examples-data](https://huggingface.co/alexlittle/concordiahub-examples-data) | alexlittle | 0 | 0 | region:us |
+| 2026-10-20 14:47:05 | [deadgod3005/mixindex-runs-002](https://huggingface.co/deadgod3005/mixindex-runs-002) | deadgod3005 | 0 | 0 | region:us |
+| 2026-10-20 14:48:06 | [furkancmc/kadim-yazi-data](https://huggingface.co/furkancmc/kadim-yazi-data) | furkancmc | 0 | 0 | task_categories:text-generation; language:tr; license:mit;… |
+| 2026-10-20 14:48:06 | [Beifengdo/FunCode-Learning](https://huggingface.co/Beifengdo/FunCode-Learning) | Beifengdo | 0 | 0 | region:us |
+| 2026-10-20 14:49:02 | [xmulz/AMSID](https://huggingface.co/xmulz/AMSID) | xmulz | 0 | 0 | region:us |
+| 2026-10-20 14:49:40 | [amirrezav1378/viabilens-raw-data](https://huggingface.co/amirrezav1378/viabilens-raw-data) | amirrezav1378 | 0 | 0 | size_categories:1K<n<10K; format:imagefolder; modality:imag… |
+| 2026-10-20 14:51:21 | [orbita2d/investigator-agent](https://huggingface.co/orbita2d/investigator-agent) | orbita2d | 0 | 0 | region:us |
+| 2026-10-20 14:52:18 | [zc1696190340/PKA-SubjectSpatial-10K](https://huggingface.co/zc1696190340/PKA-SubjectSpatial-10K) | zc1696190340 | 0 | 0 | region:us |
+| 2026-10-20 14:53:18 | [keywordbarrage/mango-scraper](https://huggingface.co/keywordbarrage/mango-scraper) | keywordbarrage | 0 | 0 | license:mit; region:us |
+| 2026-10-20 14:53:37 | [aptologia/cuantos-metros-cuadrados-compra-400-millones-ciudades-colombia-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-compra-400-millones-ciudades-colombia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:54:04 | [aptologia/cuantos-metros-cuadrados-compra-800-millones-ciudades-colombia-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-compra-800-millones-ciudades-colombia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:54:22 | [toners-amatory-9h/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toners-amatory-9h/Annoy-PyEdu-Rs-Raw) | toners-amatory-9h | 0 | 0 | region:us |
+| 2026-10-20 14:54:22 | [toners-amatory-9h/Annoy-PyEdu-Rs](https://huggingface.co/toners-amatory-9h/Annoy-PyEdu-Rs) | toners-amatory-9h | 0 | 0 | region:us |
+| 2026-10-20 14:54:23 | [aptologia/cuantos-metros-cuadrados-compra-200000-dolares-latinoamerica-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-compra-200000-dolares-latinoamerica-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:54:42 | [aptologia/cuantos-metros-cuadrados-compra-50000-dolares-latinoamerica-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-compra-50000-dolares-latinoamerica-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:54:51 | [hyjwrt/Annoy-PyEdu-Rs](https://huggingface.co/hyjwrt/Annoy-PyEdu-Rs) | hyjwrt | 0 | 0 | region:us |
+| 2026-10-20 14:54:52 | [hyjwrt/Annoy-PyEdu-Rs-Raw](https://huggingface.co/hyjwrt/Annoy-PyEdu-Rs-Raw) | hyjwrt | 0 | 0 | region:us |
+| 2026-10-20 14:54:58 | [sumit-06/kolam-text-to-image-3](https://huggingface.co/sumit-06/kolam-text-to-image-3) | sumit-06 | 0 | 0 | size_categories:n<1K; format:parquet; format:optimized-parq… |
+| 2026-10-20 14:56:02 | [aptologia/cuantos-metros-cuadrados-arrienda-500-dolares-latinoamerica-2026](https://huggingface.co/aptologia/cuantos-metros-cuadrados-arrienda-500-dolares-latinoamerica-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:56:08 | [k1ch1/fog-real](https://huggingface.co/k1ch1/fog-real) | k1ch1 | 0 | 0 | region:us |
+| 2026-10-20 14:56:24 | [aptologia/primas-de-amenidades-arriendo-barranquilla-2026](https://huggingface.co/aptologia/primas-de-amenidades-arriendo-barranquilla-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:56:43 | [aptologia/primas-de-amenidades-arriendo-envigado-2026](https://huggingface.co/aptologia/primas-de-amenidades-arriendo-envigado-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:57:01 | [aptologia/primas-de-amenidades-arriendo-sabaneta-2026](https://huggingface.co/aptologia/primas-de-amenidades-arriendo-sabaneta-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:57:11 | [kiokoio/kioko-discs](https://huggingface.co/kiokoio/kioko-discs) | kiokoio | 0 | 0 | task_categories:other; license:cc-by-nc-4.0; size_categorie… |
+| 2026-10-20 14:57:48 | [aptologia/primas-de-amenidades-arriendo-rionegro-2026](https://huggingface.co/aptologia/primas-de-amenidades-arriendo-rionegro-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:58:07 | [aptologia/apartamentos-en-venta-por-rango-de-precio-sabaneta-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-sabaneta-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:58:24 | [aptologia/apartamentos-en-venta-por-rango-de-precio-rionegro-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-rionegro-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:58:47 | [aptologia/apartamentos-en-venta-por-rango-de-precio-santa-marta-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-santa-marta-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:59:09 | [aptologia/apartamentos-en-venta-por-rango-de-precio-bucaramanga-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-bucaramanga-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:59:28 | [aptologia/apartamentos-en-venta-por-rango-de-precio-manizales-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-manizales-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 14:59:42 | [ASDSA12DSA213/Annoy-PyEdu-Rs](https://huggingface.co/ASDSA12DSA213/Annoy-PyEdu-Rs) | ASDSA12DSA213 | 0 | 0 | region:us |
+| 2026-10-20 14:59:42 | [ASDSA12DSA213/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDSA12DSA213/Annoy-PyEdu-Rs-Raw) | ASDSA12DSA213 | 0 | 0 | region:us |
+| 2026-10-20 14:59:48 | [aptologia/apartamentos-en-venta-por-rango-de-precio-armenia-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-armenia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:00:08 | [aptologia/arriendo-por-numero-de-habitaciones-medellin-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-medellin-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:00:09 | [ASD12EDSA2QWE/Annoy-PyEdu-Rs](https://huggingface.co/ASD12EDSA2QWE/Annoy-PyEdu-Rs) | ASD12EDSA2QWE | 0 | 0 | region:us |
+| 2026-10-20 15:00:28 | [aptologia/arriendo-por-numero-de-habitaciones-cartagena-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-cartagena-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:00:40 | [ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw) | ASD12EDSA2QWE | 0 | 0 | region:us |
+| 2026-10-20 15:01:06 | [SAD12D/Annoy-PyEdu-Rs](https://huggingface.co/SAD12D/Annoy-PyEdu-Rs) | SAD12D | 0 | 0 | region:us |
+| 2026-10-20 15:01:15 | [SAD12D/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SAD12D/Annoy-PyEdu-Rs-Raw) | SAD12D | 0 | 0 | region:us |
+| 2026-10-20 15:02:29 | [VillanovaAI/Multi-PlotQA](https://huggingface.co/VillanovaAI/Multi-PlotQA) | VillanovaAI | 0 | 0 | task_categories:visual-question-answering; task_categories:… |
+| 2026-10-20 15:02:42 | [mizzx900/kling-temp](https://huggingface.co/mizzx900/kling-temp) | mizzx900 | 0 | 0 | size_categories:n<1K; modality:image; modality:video; libra… |
+| 2026-10-20 15:02:56 | [X-maze/data_trans](https://huggingface.co/X-maze/data_trans) | X-maze | 0 | 0 | region:us |
+| 2026-10-20 15:03:16 | [maskil/small_towel_v1_20261020_175507](https://huggingface.co/maskil/small_towel_v1_20261020_175507) | maskil | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-20 15:06:44 | [aptologia/arriendo-por-numero-de-habitaciones-envigado-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-envigado-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:07:03 | [aptologia/arriendo-por-numero-de-habitaciones-sabaneta-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-sabaneta-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:07:36 | [aptologia/arriendo-por-numero-de-habitaciones-pereira-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-pereira-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:07:54 | [aptologia/arriendo-por-numero-de-habitaciones-santa-marta-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-santa-marta-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:08:01 | [hi-todayis-jh/compression-math-mean100-drop4-qwen3-1.7b-verl091-154711-20261019-new-f-cov](https://huggingface.co/hi-todayis-jh/compression-math-mean100-drop4-qwen3-1.7b-verl091-154711-20261019-new-f-cov) | hi-todayis-jh | 0 | 0 | region:us |
+| 2026-10-20 15:08:10 | [p1k0/Herbench](https://huggingface.co/p1k0/Herbench) | p1k0 | 0 | 0 | region:us |
+| 2026-10-20 15:08:14 | [aptologia/arriendo-por-numero-de-habitaciones-el-retiro-2026](https://huggingface.co/aptologia/arriendo-por-numero-de-habitaciones-el-retiro-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:08:41 | [aptologia/apartamentos-en-venta-por-rango-de-precio-ibague-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-ibague-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:09:13 | [aptologia/apartamentos-en-venta-por-rango-de-precio-chia-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-chia-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:09:33 | [aptologia/apartamentos-en-venta-por-rango-de-precio-itagui-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-itagui-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:09:57 | [aptologia/apartamentos-en-venta-por-rango-de-precio-bello-2026](https://huggingface.co/aptologia/apartamentos-en-venta-por-rango-de-precio-bello-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-20 15:10:08 | [thom-astho/toy-textile](https://huggingface.co/thom-astho/toy-textile) | thom-astho | 0 | 0 | license:mit; region:us; dataset; textile; audio-video |
+| 2026-10-20 15:10:47 | [Xiolanqui/aletheiadb](https://huggingface.co/Xiolanqui/aletheiadb) | Xiolanqui | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-20 15:11:33 | [simheo/test_depth_camera_wording](https://huggingface.co/simheo/test_depth_camera_wording) | simheo | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-20 15:11:33 | [suryeah/Financial_Transactions](https://huggingface.co/suryeah/Financial_Transactions) | suryeah | 0 | 0 | license:pddl; region:us |
+| 2026-10-20 15:13:06 | [furkancmc/kadim-ocr-data](https://huggingface.co/furkancmc/kadim-ocr-data) | furkancmc | 0 | 0 | task_categories:image-to-text; language:tr; license:mit; si… |
+| 2026-10-20 15:14:41 | [toolathlonmsft2/Annoy-PyEdu-Rs](https://huggingface.co/toolathlonmsft2/Annoy-PyEdu-Rs) | toolathlonmsft2 | 0 | 0 | region:us |
+| 2026-10-20 15:14:42 | [toolathlonmsft2/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlonmsft2/Annoy-PyEdu-Rs-Raw) | toolathlonmsft2 | 0 | 0 | region:us |
+| 2026-10-20 15:14:46 | [chouziel/test-dataset-creation-raw](https://huggingface.co/chouziel/test-dataset-creation-raw) | chouziel | 0 | 0 | region:us |
+| 2026-10-20 15:15:30 | [chouziel/test-dataset-creation](https://huggingface.co/chouziel/test-dataset-creation) | chouziel | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-20 15:15:35 | [nightly-wave/0e312f33](https://huggingface.co/nightly-wave/0e312f33) | nightly-wave | 0 | 0 | region:us |
+| 2026-10-20 15:16:05 | [lapkaaaa/microtexts-sft](https://huggingface.co/lapkaaaa/microtexts-sft) | lapkaaaa | 0 | 0 | region:us |
+| 2026-10-20 15:16:11 | [samudhan2003/Tiny-Quant-Cancellation-Dataset](https://huggingface.co/samudhan2003/Tiny-Quant-Cancellation-Dataset) | samudhan2003 | 0 | 0 | license:mit; region:us |
+| 2026-10-20 15:17:05 | [atian111/uav-mot-paper-sprint-run04](https://huggingface.co/atian111/uav-mot-paper-sprint-run04) | atian111 | 0 | 0 | region:us |
+| 2026-10-20 15:17:19 | [lusiinhaanidurlal/copycheck-videos](https://huggingface.co/lusiinhaanidurlal/copycheck-videos) | lusiinhaanidurlal | 0 | 0 | license:other; region:us |
+| 2026-10-20 15:17:26 | [rikushimizu/dissertation-dialogue](https://huggingface.co/rikushimizu/dissertation-dialogue) | rikushimizu | 0 | 0 | region:us |
+| 2026-10-20 15:18:40 | [Sulakshani/nl-transportation-reviews-csat](https://huggingface.co/Sulakshani/nl-transportation-reviews-csat) | Sulakshani | 0 | 0 | region:us |
 
 ## Data source
 
