@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-19T23:21:43Z,tasl-lab/CoopUQ-unity-envs,tasl-lab,0,0,region:us
+2026-10-19T23:21:50Z,companies-directory/norway-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:22:52Z,ataabdulrhman/ur_markers_v2_eval,ataabdulrhman,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-19T23:23:41Z,JWei05/deepscaler-verified10k-v3-skyrl,JWei05,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-19T23:25:37Z,companies-directory/new-zealand-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:27:23Z,companies-directory/peru-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10M<n<100M; region:us; companies; business; company-registry; pe; official-sour…
+2026-10-19T23:29:46Z,National-Digital/tas-libraries-locations,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; gov…
+2026-10-19T23:29:58Z,National-Digital/vic-public-libraries,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; gov…
+2026-10-19T23:30:16Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-19T23:30:16Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-19T23:30:59Z,National-Digital/au-elective-surgery-waiting-times-by-procedure,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia…
+2026-10-19T23:31:01Z,National-Digital/au-elective-surgery-waiting-times-by-specialty,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australi…
+2026-10-19T23:31:06Z,National-Digital/au-population-by-lga-2025,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australi…
+2026-10-19T23:31:08Z,National-Digital/wa-road-stopping-places,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia;…
+2026-10-19T23:31:13Z,National-Digital/sa-rest-areas-state-maintained,National-Digital,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; governm…
+2026-10-19T23:31:15Z,National-Digital/tas-roadside-stops,National-Digital,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; governm…
+2026-10-19T23:33:43Z,mseeam2/cs546-hw2-2026,mseeam2,0,0,region:us
+2026-10-19T23:33:44Z,companies-directory/romania-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:35:20Z,anna-seme/finance-multimodal3,anna-seme,0,0,license:cc-by-4.0; region:us; dataset; finance; multimodal3
+2026-10-19T23:37:14Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-19T23:37:14Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-19T23:38:52Z,companies-directory/sweden-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:40:37Z,riltonfranzone/annocaselaw,riltonfranzone,0,0,language:en; license:mit; size_categories:n<1K; format:parquet; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; annotation;…
+2026-10-19T23:40:44Z,companies-directory/singapore-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:40:56Z,clarkvictoria/course-education,clarkvictoria,0,0,license:mit; region:us; dataset; education; audio-text
+2026-10-19T23:42:26Z,cobrasnake141/drama-a100-artifacts,cobrasnake141,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T23:43:20Z,companies-directory/slovenia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; library…
+2026-10-19T23:44:37Z,Fadhel12/FineTuning_tahap2_MultiSource,Fadhel12,0,0,region:us
+2026-10-19T23:44:49Z,companies-directory/slovakia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:46:23Z,armanakbari4/OpenViTac-GelSight-Multimodal,armanakbari4,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; region:us; tactile; visuo-tactile; gelsight; manipulation; isaac-sim; pointmap; dinov3; openvitac
+2026-10-19T23:47:31Z,companies-directory/togo-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; librar…
+2026-10-19T23:48:26Z,companies-directory/taiwan-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:48:54Z,secmlr/llm-fv-formal-repos,secmlr,0,0,task_categories:text-generation; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T23:50:22Z,companies-directory/ukraine-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-10-19T23:50:56Z,dduraceii/hh-asistan-veri,dduraceii,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-19T23:51:01Z,2077AIDataFoundation/TouchScale-OXT,2077AIDataFoundation,0,0,region:us
+2026-10-19T23:51:50Z,g1n0st/dcdd77373c803cff084cb22eee9a2c86720e3592,g1n0st,0,0,region:us
+2026-10-19T23:51:54Z,g1n0st/f809df7a3910e83b1c6186694880680387c4aa73,g1n0st,0,0,region:us
+2026-10-19T23:51:55Z,g1n0st/eda2193eee65745c41abd0f1b638e73e90c3c75c,g1n0st,0,0,region:us
+2026-10-19T23:51:55Z,g1n0st/bb8f0927012d7d9c23780bf2efffa1c1792eb41d,g1n0st,0,0,region:us
+2026-10-19T23:51:58Z,g1n0st/b12e8d32aca8b09336e52d7be42dff88460ba6f1,g1n0st,0,0,region:us
+2026-10-19T23:52:17Z,g1n0st/380973ecf26147667346b29af80ab9d76267eaaf,g1n0st,0,0,region:us
+2026-10-19T23:52:31Z,g1n0st/3cd09fc7b09d7912664ed97c2cfc3c34c576c375,g1n0st,0,0,region:us
+2026-10-19T23:53:44Z,romedico1978/entrelinhas-quadros,romedico1978,0,0,region:us
+2026-10-19T23:54:08Z,thelarryproject/librispeech-asr-index-asr-validation,thelarryproject,0,1,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-19T23:54:31Z,companies-directory/united-states-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10M<n<100M; format:csv; modality:text; library:datasets; library:pandas; librar…
+2026-10-19T23:55:02Z,BiboyQG/cs546-hw2-2026,BiboyQG,0,0,region:us
+2026-10-19T23:55:50Z,g1n0st/422001e19fed033f89d4095a9044b2717d75ef8e,g1n0st,0,0,region:us
+2026-10-19T23:55:55Z,g1n0st/e8698455acf83e820386967c93db3ea11c321f68,g1n0st,0,0,region:us
+2026-10-19T23:56:06Z,redwoodresearch/sdf-twohop-data,redwoodresearch,0,0,region:us; two-hop-reasoning; latent-reasoning; synthetic-document-finetuning; model-organisms
+2026-10-19T23:56:19Z,sandrogomes42/gigaverbo-v2-10k-text,sandrogomes42,0,0,task_categories:text-generation; language:pt; license:other; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-10-19T23:56:23Z,g1n0st/ca10f72ebdb021b0bded0eb1c97fe0cf1557abba,g1n0st,0,0,region:us
+2026-10-19T23:56:24Z,g1n0st/e05e10a67ce87f9d5b02dbeb9043b8e901602a77,g1n0st,0,0,region:us
+2026-10-19T23:56:27Z,g1n0st/f2dbb39832cad102c8b6c3caa9011a3a6a15ef8e,g1n0st,0,0,region:us
+2026-10-19T23:56:29Z,g1n0st/c079135991019b64c14d50dbb009d45dd95de213,g1n0st,0,0,region:us
+2026-10-19T23:56:30Z,g1n0st/26dffea5defd4a785718dee2c925953dc1d9c063,g1n0st,0,0,region:us
+2026-10-19T23:56:49Z,g1n0st/83d8c7e6c8ee2da576321a19259e228ffa056b5d,g1n0st,0,0,region:us
+2026-10-19T23:57:59Z,g1n0st/5b9bb23ff9f766b33398fcb031b91926edd22df8,g1n0st,0,0,region:us
+2026-10-19T23:59:37Z,stimul-kiev-ua/bas-stock-trace-ua,stimul-kiev-ua,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-20T00:00:18Z,natyklinec/solano-lora-mayka,natyklinec,0,0,region:us
+2026-10-20T00:00:44Z,D3vlopp3r/Planio,D3vlopp3r,0,0,region:us
+2026-10-20T00:00:56Z,aitrainingjobs/where-labs-are-pushing,aitrainingjobs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-20T00:01:23Z,Wosala/Wosala-EURUSD-M5-AI-Ready-2018-2026,Wosala,0,0,region:us
+2026-10-20T00:02:03Z,sriramcu/cs546-hw2-2026,sriramcu,0,0,region:us
+2026-10-20T00:02:15Z,LieUr/roft-artifacts,LieUr,0,0,region:us
+2026-10-20T00:02:20Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-20T00:02:40Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-20T00:02:57Z,sunnyJane/data266-lab2-naruto-generated,sunnyJane,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-20T00:03:04Z,wckwan/Alfworld-Olmo3-7B-DAPO-eval,wckwan,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-20T00:04:41Z,bany1111/librispeech-w2vbert2-layer17-fp32,bany1111,0,0,language:en; license:cc-by-4.0; region:us; speech; librispeech; wav2vec2-bert; feature-extraction; reproducibility
+2026-10-20T00:04:53Z,g1n0st/2c428f7b27183ded60a47ecf5bc12cefaf6af4f6,g1n0st,0,0,region:us
+2026-10-20T00:05:04Z,g1n0st/4c532ccd14d6b6bc20c3a3395969849913316ab3,g1n0st,0,0,region:us
+2026-10-20T00:09:06Z,cubeow/lerobot-data,cubeow,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-20T00:10:04Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-20T00:10:43Z,Eterniti/NaijaScamBench,Eterniti,0,0,task_categories:text-classification; language:en; language:pcm; language:yo; language:ha; language:ig; license:cc-by-4.0; size_categories:n<1K; region:us; fraud-detection; scam-detection; nigeria; af…
+2026-10-20T00:11:51Z,ritwika96/arc-agi2-arcgen-1m-episodes,ritwika96,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us
+2026-10-20T00:14:18Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-20T00:14:31Z,NONHUMAN-RESEARCH/hanoi-triple-disk-in-tower-reset,NONHUMAN-RESEARCH,0,0,region:us
+2026-10-20T00:14:48Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-20T00:16:01Z,ardauzunoglu/materials-discovery-results-p1,ardauzunoglu,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; region:us; materials-science; chemistry; material-discovery; chain-of-thought; model-outputs
+2026-10-20T00:16:03Z,contextcup/Annoy-PyEdu-Rs,contextcup,0,0,region:us
+2026-10-20T00:16:03Z,contextcup/Annoy-PyEdu-Rs-Raw,contextcup,0,0,region:us
+2026-10-20T00:16:15Z,ardauzunoglu/materials-discovery-results-p16,ardauzunoglu,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; region:us; materials-science; chemistry; material-discovery; chain-of-thought; model-outputs
+2026-10-20T00:17:02Z,wckwan/WebShop-Qwen3-8B-RAGEN2-rho07-nostd-eval,wckwan,0,0,region:us
+2026-10-20T00:18:41Z,JiaxinGe/pacman_route_order_test_sets,JiaxinGe,0,0,region:us; agima; pacman; world-model
+2026-10-20T00:18:43Z,JiaxinGe/pacman_braidthin_forward_v2_cutoff50_kinf_train,JiaxinGe,0,0,region:us; agima; pacman; world-model
+2026-10-20T00:18:45Z,JiaxinGe/pacman_braidthin_forward_v3_mixed_kinf_train,JiaxinGe,0,0,region:us; agima; pacman; world-model
+2026-10-20T00:18:47Z,JiaxinGe/pacman_braidthin_forward_v4_shorttrap_only_kinf_train,JiaxinGe,0,0,region:us; agima; pacman; world-model
