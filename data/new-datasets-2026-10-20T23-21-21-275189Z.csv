@@ -1,0 +1,65 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-20T22:20:55Z,g1n0st/18a6e5053cfc54a786cd835e9d419d6a828d9a7b,g1n0st,0,0,region:us
+2026-10-20T22:21:07Z,gumarques/image-depth-corpus,gumarques,0,0,license:mit; region:us; dataset; document-ocr; image-depth
+2026-10-20T22:26:23Z,g1n0st/91c0a4e1458f6d3e197855cab65386c4d5abad4f,g1n0st,0,0,region:us
+2026-10-20T22:26:54Z,sandeepstele/cs546-hw2-2026,sandeepstele,0,0,region:us
+2026-10-20T22:27:41Z,CheneyWong/wtw-table-annotations,CheneyWong,0,0,license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; wtw; table-recognition; real-scene; scanned-docum…
+2026-10-20T22:28:00Z,Dandandooo/cs546-hw2-2026,Dandandooo,0,0,region:us
+2026-10-20T22:30:06Z,g1n0st/73f0b8f4f05e5c658b624a469c16628478f7bc11,g1n0st,0,0,region:us
+2026-10-20T22:30:20Z,g1n0st/1f3eedc6bdbb7041983c73c47bc1069504504051,g1n0st,0,0,region:us
+2026-10-20T22:31:12Z,g1n0st/9f7e2b60c7b9d8db3a9f2ba198c3ee761a9d753d,g1n0st,0,0,region:us
+2026-10-20T22:31:15Z,g1n0st/e7c8044f6a4da9ef1452a9584f00a3457d0453c9,g1n0st,0,0,region:us
+2026-10-20T22:31:25Z,g1n0st/893671d271e455b5052a6a83107366eb71df9148,g1n0st,0,0,region:us
+2026-10-20T22:32:00Z,g1n0st/3bc0b4f5eb5b769c01f7a4d89a41c2908ca14970,g1n0st,0,0,region:us
+2026-10-20T22:32:05Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-20T22:32:06Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-20T22:32:14Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-10-20T22:32:14Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-10-20T22:32:59Z,U-WIN/equational-theory-stage2-qwen38-graded,U-WIN,0,0,language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; equational-theories; proof-gra…
+2026-10-20T22:33:46Z,GGOSinon/robolab-bc27-chunked,GGOSinon,0,0,region:us
+2026-10-20T22:35:38Z,g1n0st/e3b229bbd956572c297d70088129e1015491c48f,g1n0st,0,0,region:us
+2026-10-20T22:39:10Z,HarishSonar/ts01-poisoned-facts,HarishSonar,0,0,license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-20T22:39:42Z,g1n0st/4069579941bd8ac96a73a057a24b8fbf6ca90c3e,g1n0st,0,0,region:us
+2026-10-20T22:41:15Z,zone1510/my_project-cache,zone1510,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-20T22:43:03Z,g1n0st/2e0292c58bfeda8f9213fb903124fde204dbc799,g1n0st,0,0,region:us
+2026-10-20T22:43:05Z,g1n0st/62adffd43de6bd60b14395d35824d9eb56a98551,g1n0st,0,0,region:us
+2026-10-20T22:44:21Z,zone1510/dem2h30-cache,zone1510,0,0,region:us
+2026-10-20T22:45:00Z,g1n0st/ca3fa1588d4074f169c949d751deebafe615c006,g1n0st,0,0,region:us
+2026-10-20T22:47:02Z,CDBiddulph/wordchain-rl,CDBiddulph,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-20T22:47:26Z,jinyoonok/interactive-robotics_lab3_pick-doll,jinyoonok,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-20T22:47:55Z,Harikaran1729/EuroSAT-SAR,Harikaran1729,0,0,task_categories:image-classification; license:mit; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arxiv:2310.18653; region:us
+2026-10-20T22:48:14Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-20T22:48:36Z,CDBiddulph/psychosis-rl,CDBiddulph,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-20T22:48:45Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-20T22:48:55Z,vivianflores87/weather-image-audio,vivianflores87,0,0,license:apache-2.0; region:us; dataset; weather; image-audio
+2026-10-20T22:50:49Z,g1n0st/a5482f3b12800d7417c1029078aeef0c5ccb943a,g1n0st,0,0,region:us
+2026-10-20T22:51:51Z,Project-AgML/escayard_vine_esca,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-20T22:52:45Z,avabbas/ten-novel-phenomena-machine-psychology,avabbas,0,0,region:us
+2026-10-20T22:52:54Z,jbae28/pick-and-place-2,jbae28,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-20T22:52:57Z,Project-AgML/gvsdb_grapevine_virus,Project-AgML,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-20T22:53:25Z,avabbas/lie-awareness-spectrum,avabbas,0,0,region:us
+2026-10-20T22:53:46Z,avabbas/thinking-behind-the-mask,avabbas,0,0,region:us
+2026-10-20T22:53:56Z,avabbas/when-ai-reviews-itself,avabbas,0,0,region:us
+2026-10-20T22:54:00Z,Project-AgML/gvlid_grapevine_leaf_disease,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-10-20T22:54:21Z,avabbas/ontological-firewalls,avabbas,0,0,region:us
+2026-10-20T22:54:31Z,avabbas/voluntary-structural-dissociation,avabbas,0,0,region:us
+2026-10-20T22:55:07Z,Project-AgML/grapevine_leaf_disease_portugal,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-10-20T22:59:05Z,pting126/cs546-hw2-2026,pting126,0,0,region:us
+2026-10-20T22:59:19Z,g1n0st/8cb791ed527004f32664b60dfa9048cd853beee7,g1n0st,0,0,region:us
+2026-10-20T23:04:26Z,Project-AgML/WisWheat,Project-AgML,0,0,task_categories:image-text-to-text; task_categories:visual-question-answering; source_datasets:GWHD 2021; source_datasets:GWFSS; source_datasets:Rust Segmentation Dataset; source_datasets:WFD; source…
+2026-10-20T23:05:35Z,parksoojae/math-recursive-eval-traces,parksoojae,0,0,task_categories:text-generation; language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-10-20T23:07:51Z,JahnaviRavipudi/cs546-hw2-2026,JahnaviRavipudi,0,0,region:us
+2026-10-20T23:10:43Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-20T23:10:44Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-20T23:13:23Z,rsundaraws/so101_conf1_pickplace_v2_trim,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-20T23:14:22Z,g1n0st/65930c102bc5084eb87401774293936e34f618bc,g1n0st,0,0,region:us
+2026-10-20T23:14:35Z,marberi/desi-dr1-spectra-100k,marberi,0,0,license:cc-by-4.0; region:us
+2026-10-20T23:15:21Z,velaia/ncm-reproduction,velaia,0,0,license:cc-by-4.0; arxiv:2610.14162; region:us; reproduction; benchmark; diffusion-language-models; kv-cache
+2026-10-20T23:15:27Z,marcoz106/pupi-voice,marcoz106,0,0,region:us
+2026-10-20T23:16:40Z,codingsoft/marco-legal-mx,codingsoft,0,0,task_categories:question-answering; task_categories:text-generation; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; benchmark; evaluation; legal; legal-timelines; multi-hop; deep-re…
+2026-10-20T23:16:59Z,SilentSammy2001/picknplace_bluebottle_attempt1,SilentSammy2001,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-20T23:18:09Z,mteb/lass-synth-a2t.v2,mteb,0,0,region:us
+2026-10-20T23:18:17Z,trentmkelly/pre-chatgpt-collected-student-writings,trentmkelly,0,0,language:en; license:other; size_categories:1M<n<10M; region:us; student-writing; stylometry; education; corpus
+2026-10-20T23:18:56Z,mteb/lass-synth-t2a.v2,mteb,0,0,region:us
+2026-10-20T23:20:32Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-20T23:20:33Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
