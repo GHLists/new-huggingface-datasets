@@ -9,178 +9,195 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 05:19 UTC
+## Latest list — 2026-10-21 06:22 UTC
 
-New datasets created between 2026-10-21 04:21 UTC and 2026-10-21 05:19 UTC.
+New datasets created between 2026-10-21 05:19 UTC and 2026-10-21 06:22 UTC.
 
-[Full CSV](data/new-datasets-2026-10-21T05-19-17-174325Z.csv)
+[Full CSV](data/new-datasets-2026-10-21T06-22-27-589167Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-21 04:23:34 | [g1n0st/0ecb80e441a5c2784f0475c6649c6222b50371c4](https://huggingface.co/g1n0st/0ecb80e441a5c2784f0475c6649c6222b50371c4) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:24:07 | [g1n0st/c05f9d3895dd12d3c942db3db13888cb45c46474](https://huggingface.co/g1n0st/c05f9d3895dd12d3c942db3db13888cb45c46474) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:24:36 | [NonomiyaIzumi/mobile-surface-defect-yolo-seg](https://huggingface.co/NonomiyaIzumi/mobile-surface-defect-yolo-seg) | NonomiyaIzumi | 0 | 0 | task_categories:object-detection; task_categories:image-seg… |
-| 2026-10-21 04:25:19 | [ooberaj/cs546-hw2-2026](https://huggingface.co/ooberaj/cs546-hw2-2026) | ooberaj | 0 | 0 | region:us |
-| 2026-10-21 04:25:41 | [bsreyusillini/cs546-hw2-2026](https://huggingface.co/bsreyusillini/cs546-hw2-2026) | bsreyusillini | 0 | 0 | region:us |
-| 2026-10-21 04:28:26 | [Joshkn/Distilled_handvqa](https://huggingface.co/Joshkn/Distilled_handvqa) | Joshkn | 0 | 0 | task_categories:question-answering; language:en; license:cc… |
-| 2026-10-21 04:28:40 | [atal-narayan/copra-flow-tg-frog](https://huggingface.co/atal-narayan/copra-flow-tg-frog) | atal-narayan | 0 | 0 | language:en; license:cc-by-4.0; size_categories:10K<n<100K;… |
-| 2026-10-21 04:29:41 | [morant12eric/Data](https://huggingface.co/morant12eric/Data) | morant12eric | 0 | 0 | region:us |
-| 2026-10-21 04:31:11 | [XYCindy/cs546-hw2-2026](https://huggingface.co/XYCindy/cs546-hw2-2026) | XYCindy | 0 | 0 | region:us |
-| 2026-10-21 04:31:16 | [ikkeflikkeri/pile-uncopyrighted](https://huggingface.co/ikkeflikkeri/pile-uncopyrighted) | ikkeflikkeri | 0 | 0 | license:other; size_categories:100M<n<1B; format:json; moda… |
-| 2026-10-21 04:31:34 | [NinadJoshi382/Qwen_exp](https://huggingface.co/NinadJoshi382/Qwen_exp) | NinadJoshi382 | 0 | 0 | region:us |
-| 2026-10-21 04:31:38 | [g1n0st/4712d516ecd28eafe4933acccefcebd6c1a99d23](https://huggingface.co/g1n0st/4712d516ecd28eafe4933acccefcebd6c1a99d23) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:32:37 | [AntonioFerreras/digital-earth-tiles](https://huggingface.co/AntonioFerreras/digital-earth-tiles) | AntonioFerreras | 0 | 0 | license:other; region:us |
-| 2026-10-21 04:32:39 | [prarabdhshukla/cs546-hw2-2026](https://huggingface.co/prarabdhshukla/cs546-hw2-2026) | prarabdhshukla | 0 | 0 | region:us |
-| 2026-10-21 04:33:16 | [cherthq/facetime-video](https://huggingface.co/cherthq/facetime-video) | cherthq | 0 | 0 | region:us |
-| 2026-10-21 04:34:17 | [noor142/hackforge-status](https://huggingface.co/noor142/hackforge-status) | noor142 | 0 | 0 | region:us |
-| 2026-10-21 04:34:42 | [queez0405/CoM2-Bench](https://huggingface.co/queez0405/CoM2-Bench) | queez0405 | 0 | 0 | task_categories:video-text-to-text; language:en; license:cc… |
-| 2026-10-21 04:35:27 | [naomatheus/localirac-benchmark](https://huggingface.co/naomatheus/localirac-benchmark) | naomatheus | 0 | 0 | task_categories:text-generation; task_categories:question-a… |
-| 2026-10-21 04:36:00 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-10-21 04:36:04 | [g1n0st/12958bd60cfa92137b819d094c2061e551477255](https://huggingface.co/g1n0st/12958bd60cfa92137b819d094c2061e551477255) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:36:19 | [dipalis2/cs546-hw2-2026](https://huggingface.co/dipalis2/cs546-hw2-2026) | dipalis2 | 0 | 0 | region:us |
-| 2026-10-21 04:36:31 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-10-21 04:36:40 | [cheryl-tootty/mm-motion-retargeted](https://huggingface.co/cheryl-tootty/mm-motion-retargeted) | cheryl-tootty | 0 | 0 | region:us |
-| 2026-10-21 04:36:53 | [user362586/cs546-hw2-2026](https://huggingface.co/user362586/cs546-hw2-2026) | user362586 | 0 | 0 | region:us |
-| 2026-10-21 04:36:55 | [Haku-2004/rollout_eval_k2_4seg_20261021_133537](https://huggingface.co/Haku-2004/rollout_eval_k2_4seg_20261021_133537) | Haku-2004 | 0 | 0 | region:us |
-| 2026-10-21 04:38:07 | [vtvtvtvtvt/cs546-hw2-2026](https://huggingface.co/vtvtvtvtvt/cs546-hw2-2026) | vtvtvtvtvt | 0 | 0 | region:us |
-| 2026-10-21 04:38:11 | [Yshh525/rho-adapter-cert2-20261021](https://huggingface.co/Yshh525/rho-adapter-cert2-20261021) | Yshh525 | 0 | 0 | region:us |
-| 2026-10-21 04:39:02 | [companies-directory/cote-d-ivoire-companies-official](https://huggingface.co/companies-directory/cote-d-ivoire-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:39:16 | [companies-directory/cameroon-companies-official](https://huggingface.co/companies-directory/cameroon-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:39:20 | [companies-directory/china-companies-official](https://huggingface.co/companies-directory/china-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:39:22 | [cheryl-tootty/mm-motion-v1](https://huggingface.co/cheryl-tootty/mm-motion-v1) | cheryl-tootty | 0 | 0 | region:us |
-| 2026-10-21 04:39:36 | [companies-directory/costa-rica-companies-official](https://huggingface.co/companies-directory/costa-rica-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:39:41 | [companies-directory/cuba-companies-official](https://huggingface.co/companies-directory/cuba-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:39:51 | [companies-directory/dominican-republic-companies-official](https://huggingface.co/companies-directory/dominican-republic-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:41:26 | [companies-directory/algeria-companies-official](https://huggingface.co/companies-directory/algeria-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:41:32 | [companies-directory/ecuador-companies-official](https://huggingface.co/companies-directory/ecuador-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:41:37 | [companies-directory/egypt-companies-official](https://huggingface.co/companies-directory/egypt-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:42:13 | [KirenWang/robodojo-v21-copy](https://huggingface.co/KirenWang/robodojo-v21-copy) | KirenWang | 0 | 0 | size_categories:1M<n<10M; format:parquet; modality:tabular;… |
-| 2026-10-21 04:42:43 | [companies-directory/ethiopia-companies-official](https://huggingface.co/companies-directory/ethiopia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:43:30 | [companies-directory/fiji-companies-official](https://huggingface.co/companies-directory/fiji-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:43:36 | [companies-directory/georgia-companies-official](https://huggingface.co/companies-directory/georgia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:43:45 | [companies-directory/ghana-companies-official](https://huggingface.co/companies-directory/ghana-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:43:54 | [EddieDeng/cs546-hw2-2026](https://huggingface.co/EddieDeng/cs546-hw2-2026) | EddieDeng | 0 | 0 | region:us |
-| 2026-10-21 04:44:03 | [g1n0st/ebc014751841397c3073990497e819b064b4254f](https://huggingface.co/g1n0st/ebc014751841397c3073990497e819b064b4254f) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:44:09 | [g1n0st/d54f13827ca17110b24d087c4458b93ead12327b](https://huggingface.co/g1n0st/d54f13827ca17110b24d087c4458b93ead12327b) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:44:12 | [Playingyoyo/wetrobo-after0610-door_close](https://huggingface.co/Playingyoyo/wetrobo-after0610-door_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:44:20 | [sandeepstele/cs546-hw2-2026](https://huggingface.co/sandeepstele/cs546-hw2-2026) | sandeepstele | 0 | 0 | region:us |
-| 2026-10-21 04:44:20 | [companies-directory/gp-companies-official](https://huggingface.co/companies-directory/gp-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:44:42 | [praneetha-anki/cs546-hw2-2026](https://huggingface.co/praneetha-anki/cs546-hw2-2026) | praneetha-anki | 0 | 0 | region:us |
-| 2026-10-21 04:44:55 | [beketov027/obstacle](https://huggingface.co/beketov027/obstacle) | beketov027 | 0 | 0 | size_categories:10K<n<100K; format:text; modality:image; mo… |
-| 2026-10-21 04:45:17 | [Playingyoyo/wetrobo-after0610-bottle_close](https://huggingface.co/Playingyoyo/wetrobo-after0610-bottle_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:45:53 | [Playingyoyo/wetrobo-after0610-bottle_open](https://huggingface.co/Playingyoyo/wetrobo-after0610-bottle_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:46:09 | [ukcastle/robotwin-cosmos3-paper-recipe-samples](https://huggingface.co/ukcastle/robotwin-cosmos3-paper-recipe-samples) | ukcastle | 0 | 0 | task_categories:robotics; task_categories:video-to-video; l… |
-| 2026-10-21 04:46:11 | [companies-directory/guatemala-companies-official](https://huggingface.co/companies-directory/guatemala-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:46:16 | [companies-directory/gu-companies-official](https://huggingface.co/companies-directory/gu-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:47:00 | [jadynBragz/so101_fold_towel_20261021_154442](https://huggingface.co/jadynBragz/so101_fold_towel_20261021_154442) | jadynBragz | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-21 04:47:34 | [Playingyoyo/wetrobo-after0610-door_open](https://huggingface.co/Playingyoyo/wetrobo-after0610-door_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:47:35 | [companies-directory/hong-kong-companies-official](https://huggingface.co/companies-directory/hong-kong-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:47:42 | [companies-directory/honduras-companies-official](https://huggingface.co/companies-directory/honduras-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:48:20 | [WhynotGPT/ReInterHand-JPEG-Q95](https://huggingface.co/WhynotGPT/ReInterHand-JPEG-Q95) | WhynotGPT | 0 | 0 | task_categories:keypoint-detection; language:en; license:cc… |
-| 2026-10-21 04:48:28 | [Erencem/cs546-hw2-2026](https://huggingface.co/Erencem/cs546-hw2-2026) | Erencem | 0 | 0 | region:us |
-| 2026-10-21 04:49:03 | [companies-directory/haiti-companies-official](https://huggingface.co/companies-directory/haiti-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:49:08 | [companies-directory/hungary-companies-official](https://huggingface.co/companies-directory/hungary-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:49:33 | [ChadSaglam/swiss-sme-bookkeeping-dataset](https://huggingface.co/ChadSaglam/swiss-sme-bookkeeping-dataset) | ChadSaglam | 0 | 0 | task_categories:text-classification; language:de; language:… |
-| 2026-10-21 04:49:46 | [sameerbanchhor-work/durg-university-raw-html-results](https://huggingface.co/sameerbanchhor-work/durg-university-raw-html-results) | sameerbanchhor-work | 0 | 0 | size_categories:100K<n<1M; format:parquet; modality:tabular… |
-| 2026-10-21 04:50:01 | [Playingyoyo/wetrobo-after0610-lid_off](https://huggingface.co/Playingyoyo/wetrobo-after0610-lid_off) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:50:31 | [g1n0st/c81b93124b5bd401ad74b2cee75ef2ffb8c1ea62](https://huggingface.co/g1n0st/c81b93124b5bd401ad74b2cee75ef2ffb8c1ea62) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:50:50 | [JerryWzh/RetSAM-Reannotation](https://huggingface.co/JerryWzh/RetSAM-Reannotation) | JerryWzh | 0 | 0 | task_categories:image-segmentation; language:en; size_categ… |
-| 2026-10-21 04:51:31 | [Playingyoyo/wetrobo-after0610-lid_on](https://huggingface.co/Playingyoyo/wetrobo-after0610-lid_on) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:52:31 | [jadynBragz/so101_fold_towel_20261021_155006](https://huggingface.co/jadynBragz/so101_fold_towel_20261021_155006) | jadynBragz | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-21 04:52:49 | [toolathon/Annoy-PyEdu-Rs](https://huggingface.co/toolathon/Annoy-PyEdu-Rs) | toolathon | 0 | 0 | region:us |
-| 2026-10-21 04:53:20 | [toolathon/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathon/Annoy-PyEdu-Rs-Raw) | toolathon | 0 | 0 | region:us |
-| 2026-10-21 04:53:21 | [gmezan/quechua-spanish-parallel](https://huggingface.co/gmezan/quechua-spanish-parallel) | gmezan | 0 | 0 | size_categories:n<1K; format:parquet; modality:audio; modal… |
-| 2026-10-21 04:53:48 | [Vraj14/zomato_delivery_EDA](https://huggingface.co/Vraj14/zomato_delivery_EDA) | Vraj14 | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:54:07 | [g1n0st/69e87fac0ff42609f9a7c315e2d08cda1a187eb8](https://huggingface.co/g1n0st/69e87fac0ff42609f9a7c315e2d08cda1a187eb8) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 04:54:32 | [Playingyoyo/wetrobo-after0610-liquid](https://huggingface.co/Playingyoyo/wetrobo-after0610-liquid) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:55:04 | [TB22427/Annoy-PyEdu-Rs](https://huggingface.co/TB22427/Annoy-PyEdu-Rs) | TB22427 | 0 | 0 | region:us |
-| 2026-10-21 04:55:35 | [TB22427/Annoy-PyEdu-Rs-Raw](https://huggingface.co/TB22427/Annoy-PyEdu-Rs-Raw) | TB22427 | 0 | 0 | region:us |
-| 2026-10-21 04:56:28 | [companies-directory/indonesia-companies-official](https://huggingface.co/companies-directory/indonesia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:56:36 | [jadynBragz/so101_fold_towel_20261021_155357](https://huggingface.co/jadynBragz/so101_fold_towel_20261021_155357) | jadynBragz | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-21 04:56:44 | [puttatidam/aya-fil-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-fil-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-21 04:56:46 | [companies-directory/israel-companies-official](https://huggingface.co/companies-directory/israel-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:56:51 | [companies-directory/iraq-companies-official](https://huggingface.co/companies-directory/iraq-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:56:57 | [companies-directory/iran-companies-official](https://huggingface.co/companies-directory/iran-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:57:02 | [linjac/cs546-hw2-2026](https://huggingface.co/linjac/cs546-hw2-2026) | linjac | 0 | 0 | region:us |
-| 2026-10-21 04:57:05 | [Playingyoyo/wetrobo-after0610-petri_bench](https://huggingface.co/Playingyoyo/wetrobo-after0610-petri_bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:57:21 | [puttatidam/aya-ind-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-ind-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-21 04:57:28 | [puttatidam/aya-mya-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-mya-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-21 04:57:35 | [puttatidam/aya-tam-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-tam-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:10K<n<100K; format:parquet; format:optimize… |
-| 2026-10-21 04:57:44 | [srcy312/record-test_20261021_135550](https://huggingface.co/srcy312/record-test_20261021_135550) | srcy312 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-21 04:58:40 | [companies-directory/iceland-companies-official](https://huggingface.co/companies-directory/iceland-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:58:41 | [puttatidam/aya-tha-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-tha-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-21 04:58:49 | [puttatidam/aya-vie-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-vie-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:1K<n<10K; format:parquet; format:optimized-… |
-| 2026-10-21 04:59:03 | [Playingyoyo/wetrobo-after0610-petri_incubator](https://huggingface.co/Playingyoyo/wetrobo-after0610-petri_incubator) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:59:33 | [Playingyoyo/wetrobo-after0610-petri_microscope](https://huggingface.co/Playingyoyo/wetrobo-after0610-petri_microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 04:59:43 | [puttatidam/aya-zho-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-zho-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
-| 2026-10-21 04:59:43 | [Ssinghakash17/finance-image-audio](https://huggingface.co/Ssinghakash17/finance-image-audio) | Ssinghakash17 | 0 | 0 | license:mit; region:us; dataset; finance; image-audio |
-| 2026-10-21 04:59:49 | [puttatidam/aya-zsm-instructionretrieval-tagged](https://huggingface.co/puttatidam/aya-zsm-instructionretrieval-tagged) | puttatidam | 0 | 0 | size_categories:1K<n<10K; format:parquet; format:optimized-… |
-| 2026-10-21 04:59:55 | [companies-directory/italy-companies-official](https://huggingface.co/companies-directory/italy-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 04:59:56 | [anishar5/cs546-hw2-2026](https://huggingface.co/anishar5/cs546-hw2-2026) | anishar5 | 0 | 0 | region:us |
-| 2026-10-21 05:00:00 | [puttatidam/indo-chinese-mtrobust-ind-zho-bitextmining-tagged](https://huggingface.co/puttatidam/indo-chinese-mtrobust-ind-zho-bitextmining-tagged) | puttatidam | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-21 05:00:15 | [puttatidam/vlsp2020-vie-bitextmining-tagged](https://huggingface.co/puttatidam/vlsp2020-vie-bitextmining-tagged) | puttatidam | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
-| 2026-10-21 05:00:22 | [companies-directory/jamaica-companies-official](https://huggingface.co/companies-directory/jamaica-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:00:27 | [companies-directory/jordan-companies-official](https://huggingface.co/companies-directory/jordan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:00:30 | [simular-ai/evolving_agent_interfaces_synthetic_tasks](https://huggingface.co/simular-ai/evolving_agent_interfaces_synthetic_tasks) | simular-ai | 0 | 0 | license:mit; region:us; computer-use; osworld; scienceboard |
-| 2026-10-21 05:00:35 | [Playingyoyo/wetrobo-after0610-petri_incubator_2](https://huggingface.co/Playingyoyo/wetrobo-after0610-petri_incubator_2) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:00:37 | [companies-directory/kenya-companies-official](https://huggingface.co/companies-directory/kenya-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:00:42 | [companies-directory/kyrgyzstan-companies-official](https://huggingface.co/companies-directory/kyrgyzstan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:00:52 | [companies-directory/cambodia-companies-official](https://huggingface.co/companies-directory/cambodia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:01:02 | [Playingyoyo/wetrobo-before0610-feed](https://huggingface.co/Playingyoyo/wetrobo-before0610-feed) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:01:26 | [Playingyoyo/wetrobo-before0610-flask_archive](https://huggingface.co/Playingyoyo/wetrobo-before0610-flask_archive) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:02:02 | [JOHNISKING/text-as-image-token-cost](https://huggingface.co/JOHNISKING/text-as-image-token-cost) | JOHNISKING | 0 | 0 | task_categories:question-answering; language:en; language:k… |
-| 2026-10-21 05:02:15 | [srcy312/record-test2_20261021_140019](https://huggingface.co/srcy312/record-test2_20261021_140019) | srcy312 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-10-21 05:02:31 | [companies-directory/kuwait-companies-official](https://huggingface.co/companies-directory/kuwait-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:02:34 | [g1n0st/d7fd63085dcf8449c9e5fc95bf8055894f88e5b2](https://huggingface.co/g1n0st/d7fd63085dcf8449c9e5fc95bf8055894f88e5b2) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 05:02:38 | [companies-directory/kazakhstan-companies-official](https://huggingface.co/companies-directory/kazakhstan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:02:39 | [g1n0st/160f67b9dc9a0be6c025320c68f44bf773c8e019](https://huggingface.co/g1n0st/160f67b9dc9a0be6c025320c68f44bf773c8e019) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 05:02:46 | [Justdarrenli/traffic-image-depth-clean-2024](https://huggingface.co/Justdarrenli/traffic-image-depth-clean-2024) | Justdarrenli | 0 | 0 | license:apache-2.0; region:us; dataset; traffic; image-depth |
-| 2026-10-21 05:03:24 | [Kmae225/africa-synth-sickle-cell-dataset-all](https://huggingface.co/Kmae225/africa-synth-sickle-cell-dataset-all) | Kmae225 | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:04:18 | [companies-directory/laos-companies-official](https://huggingface.co/companies-directory/laos-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:04:34 | [companies-directory/lebanon-companies-official](https://huggingface.co/companies-directory/lebanon-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:04:45 | [companies-directory/sri-lanka-companies-official](https://huggingface.co/companies-directory/sri-lanka-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:05:05 | [aken220/repo-aken220](https://huggingface.co/aken220/repo-aken220) | aken220 | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-10-21 05:05:07 | [g1n0st/087d07147c6490f12d2b6cd8235a84bb94d9034c](https://huggingface.co/g1n0st/087d07147c6490f12d2b6cd8235a84bb94d9034c) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 05:05:57 | [companies-directory/luxembourg-companies-official](https://huggingface.co/companies-directory/luxembourg-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:06:02 | [companies-directory/libya-companies-official](https://huggingface.co/companies-directory/libya-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:06:08 | [companies-directory/morocco-companies-official](https://huggingface.co/companies-directory/morocco-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:06:23 | [Jomanne3/Annoy-PyEdu-Rs](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs) | Jomanne3 | 0 | 0 | region:us |
-| 2026-10-21 05:06:24 | [Jomanne3/Annoy-PyEdu-Rs-Raw](https://huggingface.co/Jomanne3/Annoy-PyEdu-Rs-Raw) | Jomanne3 | 0 | 0 | region:us |
-| 2026-10-21 05:06:29 | [Playingyoyo/wetrobo-before0610-flask_archive_mix](https://huggingface.co/Playingyoyo/wetrobo-before0610-flask_archive_mix) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:07:14 | [companies-directory/montenegro-companies-official](https://huggingface.co/companies-directory/montenegro-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:07:54 | [h1testmeow/hfgam-dataset-gated-20261021](https://huggingface.co/h1testmeow/hfgam-dataset-gated-20261021) | h1testmeow | 0 | 0 | size_categories:n<1K; format:csv; modality:text; library:da… |
-| 2026-10-21 05:07:56 | [h1testmeow/hfgam-dataset-public-20261021](https://huggingface.co/h1testmeow/hfgam-dataset-public-20261021) | h1testmeow | 0 | 0 | size_categories:n<1K; format:csv; modality:text; library:da… |
-| 2026-10-21 05:08:17 | [wang-tianyi/cs546-hw2-2026](https://huggingface.co/wang-tianyi/cs546-hw2-2026) | wang-tianyi | 0 | 0 | region:us |
-| 2026-10-21 05:08:51 | [companies-directory/madagascar-companies-official](https://huggingface.co/companies-directory/madagascar-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:08:52 | [WaferENak/tts-id-24k](https://huggingface.co/WaferENak/tts-id-24k) | WaferENak | 0 | 0 | region:us |
-| 2026-10-21 05:08:55 | [companies-directory/north-macedonia-companies-official](https://huggingface.co/companies-directory/north-macedonia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:09:00 | [companies-directory/myanmar-companies-official](https://huggingface.co/companies-directory/myanmar-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:09:05 | [juanpabloalfonzo/euclid_desi](https://huggingface.co/juanpabloalfonzo/euclid_desi) | juanpabloalfonzo | 0 | 0 | region:us |
-| 2026-10-21 05:09:09 | [g1n0st/6699f7b0238bf9cb2f4775c2e23d1f2ec61f4b09](https://huggingface.co/g1n0st/6699f7b0238bf9cb2f4775c2e23d1f2ec61f4b09) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 05:10:05 | [companies-directory/mongolia-companies-official](https://huggingface.co/companies-directory/mongolia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:10:12 | [Playingyoyo/wetrobo-before0610-flask_archive_noisy](https://huggingface.co/Playingyoyo/wetrobo-before0610-flask_archive_noisy) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:12:10 | [companies-directory/macau-companies-official](https://huggingface.co/companies-directory/macau-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:13:33 | [Playingyoyo/wetrobo-before0610-flask_new_fps23](https://huggingface.co/Playingyoyo/wetrobo-before0610-flask_new_fps23) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:13:44 | [companies-directory/mq-companies-official](https://huggingface.co/companies-directory/mq-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:13:49 | [companies-directory/malta-companies-official](https://huggingface.co/companies-directory/malta-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:13:49 | [chrischen9/cs546-hw2-2026](https://huggingface.co/chrischen9/cs546-hw2-2026) | chrischen9 | 0 | 0 | region:us |
-| 2026-10-21 05:13:54 | [companies-directory/mauritius-companies-official](https://huggingface.co/companies-directory/mauritius-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:13:58 | [companies-directory/maldives-companies-official](https://huggingface.co/companies-directory/maldives-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:02 | [companies-directory/malawi-companies-official](https://huggingface.co/companies-directory/malawi-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:06 | [companies-directory/malaysia-companies-official](https://huggingface.co/companies-directory/malaysia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:21 | [companies-directory/mozambique-companies-official](https://huggingface.co/companies-directory/mozambique-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:23 | [KieloTony/Annoy-PyEdu-Rs](https://huggingface.co/KieloTony/Annoy-PyEdu-Rs) | KieloTony | 0 | 0 | region:us |
-| 2026-10-21 05:14:24 | [KieloTony/Annoy-PyEdu-Rs-Raw](https://huggingface.co/KieloTony/Annoy-PyEdu-Rs-Raw) | KieloTony | 0 | 0 | region:us |
-| 2026-10-21 05:14:27 | [companies-directory/namibia-companies-official](https://huggingface.co/companies-directory/namibia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:35 | [companies-directory/nigeria-companies-official](https://huggingface.co/companies-directory/nigeria-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:14:55 | [Playingyoyo/wetrobo-before0610-incubator_door](https://huggingface.co/Playingyoyo/wetrobo-before0610-incubator_door) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
-| 2026-10-21 05:15:56 | [ToddBB/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs-Raw) | ToddBB | 0 | 0 | region:us |
-| 2026-10-21 05:15:56 | [ToddBB/Annoy-PyEdu-Rs](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs) | ToddBB | 0 | 0 | region:us |
-| 2026-10-21 05:16:05 | [g1n0st/e90b365ffd04711210246cfe497d7cd954dd80e1](https://huggingface.co/g1n0st/e90b365ffd04711210246cfe497d7cd954dd80e1) | g1n0st | 0 | 0 | region:us |
-| 2026-10-21 05:16:21 | [companies-directory/nicaragua-companies-official](https://huggingface.co/companies-directory/nicaragua-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
-| 2026-10-21 05:17:15 | [AugustaLina/cai-2026-10-21_synth1000_rerun_v3.1](https://huggingface.co/AugustaLina/cai-2026-10-21_synth1000_rerun_v3.1) | AugustaLina | 0 | 0 | region:us |
-| 2026-10-21 05:17:37 | [linlinlinlinsdada/jev-archive](https://huggingface.co/linlinlinlinsdada/jev-archive) | linlinlinlinsdada | 0 | 0 | region:us |
-| 2026-10-21 05:18:16 | [companies-directory/nepal-companies-official](https://huggingface.co/companies-directory/nepal-companies-official) | companies-directory | 0 | 0 | region:us |
+| 2026-10-21 05:19:38 | [Liangzhi-Li/cvpr2027-f04-public](https://huggingface.co/Liangzhi-Li/cvpr2027-f04-public) | Liangzhi-Li | 0 | 0 | region:us |
+| 2026-10-21 05:20:01 | [Liangzhi-Li/t02-public](https://huggingface.co/Liangzhi-Li/t02-public) | Liangzhi-Li | 0 | 0 | license:mit; modality:video; region:us; video; intuitive-ph… |
+| 2026-10-21 05:20:21 | [companies-directory/oman-companies-official](https://huggingface.co/companies-directory/oman-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:20:47 | [JunruiZhang/RoboDojo_Sim](https://huggingface.co/JunruiZhang/RoboDojo_Sim) | JunruiZhang | 0 | 0 | size_categories:10K<n<100K; modality:video; library:dataset… |
+| 2026-10-21 05:21:02 | [g1n0st/0f54f60d3a329c36eeaf200ad20213c84c3c86f1](https://huggingface.co/g1n0st/0f54f60d3a329c36eeaf200ad20213c84c3c86f1) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:21:13 | [g1n0st/7c675ea4757ea29319c7ec9863b3c664c9d496ee](https://huggingface.co/g1n0st/7c675ea4757ea29319c7ec9863b3c664c9d496ee) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:21:41 | [Liangzhi-Li/raw-photo-assets](https://huggingface.co/Liangzhi-Li/raw-photo-assets) | Liangzhi-Li | 0 | 0 | license:other; modality:image; modality:text; region:us |
+| 2026-10-21 05:22:08 | [frenzyfreeze/RoboTwin-Mem-record](https://huggingface.co/frenzyfreeze/RoboTwin-Mem-record) | frenzyfreeze | 0 | 0 | language:en; language:zh; license:apache-2.0; size_categori… |
+| 2026-10-21 05:22:26 | [companies-directory/panama-companies-official](https://huggingface.co/companies-directory/panama-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:23:01 | [Liangzhi-Li/fort2i-forsale-generations](https://huggingface.co/Liangzhi-Li/fort2i-forsale-generations) | Liangzhi-Li | 0 | 0 | license:other; region:us; text-to-image; spatial-reasoning;… |
+| 2026-10-21 05:23:02 | [fkmt/record-test_20261021_142221](https://huggingface.co/fkmt/record-test_20261021_142221) | fkmt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:23:18 | [Playingyoyo/wetrobo-before0610-lid](https://huggingface.co/Playingyoyo/wetrobo-before0610-lid) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:23:58 | [companies-directory/philippines-companies-official](https://huggingface.co/companies-directory/philippines-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:24:07 | [companies-directory/pakistan-companies-official](https://huggingface.co/companies-directory/pakistan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:24:49 | [jadynBragz/so101_fold_towel_20261021_161013](https://huggingface.co/jadynBragz/so101_fold_towel_20261021_161013) | jadynBragz | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:25:13 | [08semi/hyouka7](https://huggingface.co/08semi/hyouka7) | 08semi | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 05:25:43 | [companies-directory/poland-companies-official](https://huggingface.co/companies-directory/poland-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:26:09 | [Liangzhi-Li/n06-public-mirror](https://huggingface.co/Liangzhi-Li/n06-public-mirror) | Liangzhi-Li | 0 | 0 | license:other; size_categories:n<1K; format:imagefolder; mo… |
+| 2026-10-21 05:27:17 | [companies-directory/pr-companies-official](https://huggingface.co/companies-directory/pr-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:27:27 | [Playingyoyo/wetrobo-before0610-microscope](https://huggingface.co/Playingyoyo/wetrobo-before0610-microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:27:50 | [siyu-chen/demo](https://huggingface.co/siyu-chen/demo) | siyu-chen | 0 | 0 | region:us |
+| 2026-10-21 05:27:53 | [dewml/fixtures](https://huggingface.co/dewml/fixtures) | dewml | 0 | 0 | license:other; size_categories:n<1K; format:json; modality:… |
+| 2026-10-21 05:28:34 | [companies-directory/palestine-companies-official](https://huggingface.co/companies-directory/palestine-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:28:38 | [companies-directory/portugal-companies-official](https://huggingface.co/companies-directory/portugal-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:28:42 | [itsleandroramos/project-food](https://huggingface.co/itsleandroramos/project-food) | itsleandroramos | 0 | 0 | license:mit; region:us; dataset; food; audio-video |
+| 2026-10-21 05:28:42 | [g1n0st/3fd31a21bc5252ab85813d1b8e7aed12bf247d3f](https://huggingface.co/g1n0st/3fd31a21bc5252ab85813d1b8e7aed12bf247d3f) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:29:01 | [srcy312/pickplace-v1_20261021_140903](https://huggingface.co/srcy312/pickplace-v1_20261021_140903) | srcy312 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:29:18 | [companies-directory/paraguay-companies-official](https://huggingface.co/companies-directory/paraguay-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:29:23 | [gnumanth/scribelm-dataset](https://huggingface.co/gnumanth/scribelm-dataset) | gnumanth | 0 | 0 | task_categories:text-generation; task_categories:text-class… |
+| 2026-10-21 05:29:24 | [companies-directory/qatar-companies-official](https://huggingface.co/companies-directory/qatar-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:30:22 | [companies-directory/re-companies-official](https://huggingface.co/companies-directory/re-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:30:24 | [Playingyoyo/wetrobo-before0610-petri_raw](https://huggingface.co/Playingyoyo/wetrobo-before0610-petri_raw) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:30:28 | [companies-directory/serbia-companies-official](https://huggingface.co/companies-directory/serbia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:31:14 | [JawLeighy/Organometallics-DFT](https://huggingface.co/JawLeighy/Organometallics-DFT) | JawLeighy | 0 | 0 | region:us |
+| 2026-10-21 05:31:14 | [companies-directory/russia-companies-official](https://huggingface.co/companies-directory/russia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:31:20 | [ShrikantVJ/own-whisper-address](https://huggingface.co/ShrikantVJ/own-whisper-address) | ShrikantVJ | 0 | 0 | license:mit; size_categories:n<1K; format:json; modality:te… |
+| 2026-10-21 05:31:53 | [tcmhwd/ADR-risk-synthetic](https://huggingface.co/tcmhwd/ADR-risk-synthetic) | tcmhwd | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-10-21 05:32:08 | [g1n0st/b6a129da892f175a99950fd1404acf11f1092d52](https://huggingface.co/g1n0st/b6a129da892f175a99950fd1404acf11f1092d52) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:32:09 | [Playingyoyo/wetrobo-before0610-slide](https://huggingface.co/Playingyoyo/wetrobo-before0610-slide) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:32:23 | [juhirats/cs546-hw2-2026](https://huggingface.co/juhirats/cs546-hw2-2026) | juhirats | 0 | 0 | region:us |
+| 2026-10-21 05:32:40 | [Playingyoyo/wetrobo-horizon-bottle_close](https://huggingface.co/Playingyoyo/wetrobo-horizon-bottle_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:32:54 | [companies-directory/saudi-arabia-companies-official](https://huggingface.co/companies-directory/saudi-arabia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:33:18 | [Playingyoyo/wetrobo-horizon-bottle_open](https://huggingface.co/Playingyoyo/wetrobo-horizon-bottle_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:33:41 | [Playingyoyo/wetrobo-horizon-door_close](https://huggingface.co/Playingyoyo/wetrobo-horizon-door_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:34:04 | [companies-directory/sudan-companies-official](https://huggingface.co/companies-directory/sudan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:34:09 | [companies-directory/senegal-companies-official](https://huggingface.co/companies-directory/senegal-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:34:14 | [companies-directory/suriname-companies-official](https://huggingface.co/companies-directory/suriname-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:34:16 | [08semi/hyouka1](https://huggingface.co/08semi/hyouka1) | 08semi | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 05:34:37 | [RL-Forgetting-Experiments-3/filtered-sft-20261019-artifacts](https://huggingface.co/RL-Forgetting-Experiments-3/filtered-sft-20261019-artifacts) | RL-Forgetting-Experiments-3 | 0 | 0 | region:us |
+| 2026-10-21 05:35:37 | [Playingyoyo/wetrobo-horizon-door_open](https://huggingface.co/Playingyoyo/wetrobo-horizon-door_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:35:44 | [seriintan/rollout_act_lang3a_seen_blade_20261021_125833](https://huggingface.co/seriintan/rollout_act_lang3a_seen_blade_20261021_125833) | seriintan | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:35:59 | [Playingyoyo/wetrobo-horizon-lid_close](https://huggingface.co/Playingyoyo/wetrobo-horizon-lid_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:36:04 | [shirleykb/ocean-multimodal3](https://huggingface.co/shirleykb/ocean-multimodal3) | shirleykb | 0 | 0 | license:mit; region:us; dataset; ocean; multimodal3 |
+| 2026-10-21 05:36:18 | [companies-directory/el-salvador-companies-official](https://huggingface.co/companies-directory/el-salvador-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:36:22 | [companies-directory/syria-companies-official](https://huggingface.co/companies-directory/syria-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:36:26 | [companies-directory/thailand-companies-official](https://huggingface.co/companies-directory/thailand-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:36:37 | [companies-directory/tunisia-companies-official](https://huggingface.co/companies-directory/tunisia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:36:41 | [companies-directory/turkey-companies-official](https://huggingface.co/companies-directory/turkey-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:37:29 | [Playingyoyo/wetrobo-horizon-lid_open](https://huggingface.co/Playingyoyo/wetrobo-horizon-lid_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:37:39 | [zhangsansir/demo6](https://huggingface.co/zhangsansir/demo6) | zhangsansir | 0 | 0 | region:us |
+| 2026-10-21 05:37:59 | [tttoola/Annoy-PyEdu-Rs](https://huggingface.co/tttoola/Annoy-PyEdu-Rs) | tttoola | 0 | 0 | region:us |
+| 2026-10-21 05:37:59 | [tttoola/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tttoola/Annoy-PyEdu-Rs-Raw) | tttoola | 0 | 0 | region:us |
+| 2026-10-21 05:38:27 | [companies-directory/trinidad-and-tobago-companies-official](https://huggingface.co/companies-directory/trinidad-and-tobago-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:39:26 | [kabuda777/factreview-bench](https://huggingface.co/kabuda777/factreview-bench) | kabuda777 | 0 | 0 | language:en; license:other; size_categories:n<1K; format:pa… |
+| 2026-10-21 05:40:03 | [Playingyoyo/wetrobo-horizon-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-horizon-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:40:03 | [aipracticecafe/i1-dataset-512px-synthetic](https://huggingface.co/aipracticecafe/i1-dataset-512px-synthetic) | aipracticecafe | 0 | 0 | region:us |
+| 2026-10-21 05:40:06 | [fkmt/record-test3_20261021_143514](https://huggingface.co/fkmt/record-test3_20261021_143514) | fkmt | 0 | 0 | region:us |
+| 2026-10-21 05:40:06 | [companies-directory/tanzania-companies-official](https://huggingface.co/companies-directory/tanzania-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:40:07 | [Maioush/visual-perception-dataset](https://huggingface.co/Maioush/visual-perception-dataset) | Maioush | 0 | 0 | size_categories:n<1K; format:parquet; modality:image; modal… |
+| 2026-10-21 05:40:10 | [smash2it/cs546-hw2-2026](https://huggingface.co/smash2it/cs546-hw2-2026) | smash2it | 0 | 0 | region:us |
+| 2026-10-21 05:40:38 | [JiawenXi/Agent-IRSTD-data](https://huggingface.co/JiawenXi/Agent-IRSTD-data) | JiawenXi | 0 | 0 | task_categories:object-detection; task_categories:image-seg… |
+| 2026-10-21 05:40:42 | [g1n0st/763807fa4643858a3e207ccb65f209db67a55fe0](https://huggingface.co/g1n0st/763807fa4643858a3e207ccb65f209db67a55fe0) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:40:44 | [g1n0st/b94b8c3bc679b43b5cf9d917c124ccf7552008e8](https://huggingface.co/g1n0st/b94b8c3bc679b43b5cf9d917c124ccf7552008e8) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:40:54 | [Playingyoyo/wetrobo-horizon-petri2incubator](https://huggingface.co/Playingyoyo/wetrobo-horizon-petri2incubator) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:41:13 | [fkmt/record-test3_20261021_144030](https://huggingface.co/fkmt/record-test3_20261021_144030) | fkmt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:41:42 | [companies-directory/uganda-companies-official](https://huggingface.co/companies-directory/uganda-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:41:46 | [Playingyoyo/wetrobo-horizon-petri2microscope](https://huggingface.co/Playingyoyo/wetrobo-horizon-petri2microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:41:47 | [companies-directory/uruguay-companies-official](https://huggingface.co/companies-directory/uruguay-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:41:58 | [D2F-Dachuang-HHU/EC_2024flood_Processed](https://huggingface.co/D2F-Dachuang-HHU/EC_2024flood_Processed) | D2F-Dachuang-HHU | 0 | 0 | region:us |
+| 2026-10-21 05:42:09 | [Playingyoyo/wetrobo-horizon-pipette-ep050](https://huggingface.co/Playingyoyo/wetrobo-horizon-pipette-ep050) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:42:11 | [08semi/hyouka2](https://huggingface.co/08semi/hyouka2) | 08semi | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 05:42:47 | [jongock/1234_20261021_143629](https://huggingface.co/jongock/1234_20261021_143629) | jongock | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:43:30 | [companies-directory/uzbekistan-companies-official](https://huggingface.co/companies-directory/uzbekistan-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:43:34 | [companies-directory/venezuela-companies-official](https://huggingface.co/companies-directory/venezuela-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:43:37 | [Allszn/aws-steam-gpu-launchkit](https://huggingface.co/Allszn/aws-steam-gpu-launchkit) | Allszn | 0 | 0 | license:apache-2.0; region:us; aws; infrastructure-as-code;… |
+| 2026-10-21 05:43:42 | [companies-directory/vietnam-companies-official](https://huggingface.co/companies-directory/vietnam-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:43:50 | [TakedaSunpreet/coralscapesV2](https://huggingface.co/TakedaSunpreet/coralscapesV2) | TakedaSunpreet | 0 | 0 | task_categories:image-segmentation; license:apache-2.0; siz… |
+| 2026-10-21 05:43:58 | [KheemDH/thar-health-multiscript-eval](https://huggingface.co/KheemDH/thar-health-multiscript-eval) | KheemDH | 0 | 0 | language:sd; language:ur; language:en; license:cc-by-4.0; s… |
+| 2026-10-21 05:43:59 | [companies-directory/kosovo-companies-official](https://huggingface.co/companies-directory/kosovo-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:44:04 | [companies-directory/yemen-companies-official](https://huggingface.co/companies-directory/yemen-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:44:11 | [AugustaLina/cai-2026-10-21_synth1000_rerun2_v3.1](https://huggingface.co/AugustaLina/cai-2026-10-21_synth1000_rerun2_v3.1) | AugustaLina | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-21 05:44:33 | [Playingyoyo/wetrobo-horizon-pipette](https://huggingface.co/Playingyoyo/wetrobo-horizon-pipette) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:44:39 | [companies-directory/south-africa-companies-official](https://huggingface.co/companies-directory/south-africa-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:44:46 | [g1n0st/7438828c91cd8e8677ba2751479527b90d348c9f](https://huggingface.co/g1n0st/7438828c91cd8e8677ba2751479527b90d348c9f) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:45:20 | [jadynBragz/so101_fold_towel_20261021_163048](https://huggingface.co/jadynBragz/so101_fold_towel_20261021_163048) | jadynBragz | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:45:53 | [naynaz06/banking77](https://huggingface.co/naynaz06/banking77) | naynaz06 | 0 | 0 | task_categories:text-classification; task_ids:intent-classi… |
+| 2026-10-21 05:46:16 | [08semi/hyouka3](https://huggingface.co/08semi/hyouka3) | 08semi | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 05:46:26 | [companies-directory/zambia-companies-official](https://huggingface.co/companies-directory/zambia-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:46:26 | [yunfei66666/AirBirds](https://huggingface.co/yunfei66666/AirBirds) | yunfei66666 | 0 | 0 | license:cc-by-nc-sa-4.0; arxiv:2304.11662; region:us |
+| 2026-10-21 05:46:29 | [fkmt/record-test3_20261021_144459](https://huggingface.co/fkmt/record-test3_20261021_144459) | fkmt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:47:30 | [companies-directory/zimbabwe-companies-official](https://huggingface.co/companies-directory/zimbabwe-companies-official) | companies-directory | 0 | 0 | task_categories:tabular-classification; task_categories:tab… |
+| 2026-10-21 05:47:47 | [Playingyoyo/wetrobo-horizon_delta-door_close](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-door_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:48:06 | [g1n0st/f5ec32f168f2b55d296a7cb8a0e5b7beaa669b52](https://huggingface.co/g1n0st/f5ec32f168f2b55d296a7cb8a0e5b7beaa669b52) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:49:03 | [Playingyoyo/wetrobo-horizon_delta-door_open](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-door_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:49:29 | [Playingyoyo/wetrobo-horizon_delta-lid_close](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-lid_close) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:50:22 | [Playingyoyo/wetrobo-horizon_delta-lid_open](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-lid_open) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:51:50 | [Playingyoyo/wetrobo-horizon_delta-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:52:17 | [Playingyoyo/wetrobo-horizon_delta-petri2incubator](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-petri2incubator) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:52:52 | [08semi/hyouka4](https://huggingface.co/08semi/hyouka4) | 08semi | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:53:05 | [h1testmeow/oauth-cimd-lab-20261021](https://huggingface.co/h1testmeow/oauth-cimd-lab-20261021) | h1testmeow | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-21 05:53:42 | [wyb5210/new_plug_cable_test_3_10_21_add_depth_info](https://huggingface.co/wyb5210/new_plug_cable_test_3_10_21_add_depth_info) | wyb5210 | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-10-21 05:54:13 | [Playingyoyo/wetrobo-horizon_delta-petri2microscope](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-petri2microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:54:31 | [Playingyoyo/wetrobo-horizon_delta-pipette](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta-pipette) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:55:01 | [g1n0st/5502df7a998c141bd01d6d384509a17813c0c6b0](https://huggingface.co/g1n0st/5502df7a998c141bd01d6d384509a17813c0c6b0) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:55:40 | [rainbowrobotics/JIMTOF_newrobot_20261021_041143](https://huggingface.co/rainbowrobotics/JIMTOF_newrobot_20261021_041143) | rainbowrobotics | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 05:55:52 | [ue2627-ir-gir/bioasq-26-corpus](https://huggingface.co/ue2627-ir-gir/bioasq-26-corpus) | ue2627-ir-gir | 0 | 0 | region:us |
+| 2026-10-21 05:56:04 | [g1n0st/998b4163296a2ae9f949923d8a5361b5038d8ff3](https://huggingface.co/g1n0st/998b4163296a2ae9f949923d8a5361b5038d8ff3) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:56:30 | [hakbari/confidence_evidence_information_gain](https://huggingface.co/hakbari/confidence_evidence_information_gain) | hakbari | 0 | 0 | region:us |
+| 2026-10-21 05:56:50 | [Playingyoyo/wetrobo-horizon_delta_clean-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta_clean-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:57:09 | [Playingyoyo/wetrobo-horizon_delta_clean_marker-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-horizon_delta_clean_marker-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:57:35 | [Playingyoyo/wetrobo-petri_no_ring-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-petri_no_ring-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:58:00 | [Playingyoyo/wetrobo-petri_no_ring-petri2incubator](https://huggingface.co/Playingyoyo/wetrobo-petri_no_ring-petri2incubator) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:58:29 | [Playingyoyo/wetrobo-petri_no_ring-petri2microscope](https://huggingface.co/Playingyoyo/wetrobo-petri_no_ring-petri2microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:58:59 | [Playingyoyo/wetrobo-petri_ring-petri2bench](https://huggingface.co/Playingyoyo/wetrobo-petri_ring-petri2bench) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:59:06 | [g1n0st/8db0c8e3e0828f3d3806532611dd049e8adbec05](https://huggingface.co/g1n0st/8db0c8e3e0828f3d3806532611dd049e8adbec05) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:59:20 | [weili-0234/Morphis_exp_result](https://huggingface.co/weili-0234/Morphis_exp_result) | weili-0234 | 0 | 0 | region:us |
+| 2026-10-21 05:59:23 | [Playingyoyo/wetrobo-petri_ring-petri2incubator](https://huggingface.co/Playingyoyo/wetrobo-petri_ring-petri2incubator) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 05:59:40 | [g1n0st/d76cf496747a059e9191c15161637294b9c41cf0](https://huggingface.co/g1n0st/d76cf496747a059e9191c15161637294b9c41cf0) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 05:59:50 | [Playingyoyo/wetrobo-petri_ring-petri2microscope](https://huggingface.co/Playingyoyo/wetrobo-petri_ring-petri2microscope) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-10-21 06:00:03 | [g1n0st/9928eef651f6329f132e201eca438a646fb9c182](https://huggingface.co/g1n0st/9928eef651f6329f132e201eca438a646fb9c182) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 06:00:25 | [5kywa1ker/cs546-hw2-2026](https://huggingface.co/5kywa1ker/cs546-hw2-2026) | 5kywa1ker | 0 | 0 | region:us |
+| 2026-10-21 06:00:27 | [Playingyoyo/wetrobo-raw](https://huggingface.co/Playingyoyo/wetrobo-raw) | Playingyoyo | 0 | 0 | task_categories:robotics; license:cc-by-4.0; arxiv:2609.184… |
+| 2026-10-21 06:00:29 | [g1n0st/0be08b7f86f779f81256d977bb9296d8edff430b](https://huggingface.co/g1n0st/0be08b7f86f779f81256d977bb9296d8edff430b) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 06:01:13 | [fkmt/record-test3_20261021_150033](https://huggingface.co/fkmt/record-test3_20261021_150033) | fkmt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 06:02:14 | [Keer09/MENST](https://huggingface.co/Keer09/MENST) | Keer09 | 0 | 0 | task_categories:question-answering; language:en; license:mi… |
+| 2026-10-21 06:02:34 | [g1n0st/755b1c7ca96682c45bc4b5c7e4a3457929ea1199](https://huggingface.co/g1n0st/755b1c7ca96682c45bc4b5c7e4a3457929ea1199) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 06:03:43 | [Maioush/iq-dataset](https://huggingface.co/Maioush/iq-dataset) | Maioush | 0 | 0 | region:us |
+| 2026-10-21 06:03:52 | [Maioush/general-knowledge-dataset](https://huggingface.co/Maioush/general-knowledge-dataset) | Maioush | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-21 06:05:41 | [Rucoding/MMAE-Data-Pipeline](https://huggingface.co/Rucoding/MMAE-Data-Pipeline) | Rucoding | 0 | 0 | region:us |
+| 2026-10-21 06:05:50 | [myandev/burmese-speech-refined-openslr-80](https://huggingface.co/myandev/burmese-speech-refined-openslr-80) | myandev | 0 | 0 | task_categories:automatic-speech-recognition; task_categori… |
+| 2026-10-21 06:06:11 | [myandev/Burmese-Daily-Dialogue-Corpus](https://huggingface.co/myandev/Burmese-Daily-Dialogue-Corpus) | myandev | 0 | 0 | task_categories:automatic-speech-recognition; task_categori… |
+| 2026-10-21 06:07:11 | [myandev/myanmar-shopvoice](https://huggingface.co/myandev/myanmar-shopvoice) | myandev | 0 | 0 | task_categories:automatic-speech-recognition; language:my;… |
+| 2026-10-21 06:10:02 | [Dash00/train-data-gsc-belink](https://huggingface.co/Dash00/train-data-gsc-belink) | Dash00 | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:text;… |
+| 2026-10-21 06:10:15 | [ToddBB/Annoy-PyEdu-Rs](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs) | ToddBB | 0 | 0 | region:us |
+| 2026-10-21 06:10:32 | [4Jz/quarterly-calls-arima-demo](https://huggingface.co/4Jz/quarterly-calls-arima-demo) | 4Jz | 0 | 0 | size_categories:n<1K; format:parquet; modality:tabular; mod… |
+| 2026-10-21 06:10:37 | [shawshank1104/so101_pick_and_place_3cam](https://huggingface.co/shawshank1104/so101_pick_and_place_3cam) | shawshank1104 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-21 06:10:46 | [ToddBB/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ToddBB/Annoy-PyEdu-Rs-Raw) | ToddBB | 0 | 0 | region:us |
+| 2026-10-21 06:10:50 | [xuanxinjushi/math4ai-labs](https://huggingface.co/xuanxinjushi/math4ai-labs) | xuanxinjushi | 0 | 0 | license:mit; size_categories:n<1K; region:us; education; li… |
+| 2026-10-21 06:11:02 | [dgflash/myanmar-master-clean-corpus](https://huggingface.co/dgflash/myanmar-master-clean-corpus) | dgflash | 0 | 0 | region:us |
+| 2026-10-21 06:11:16 | [thanhdath/coredb-v7-eb380f](https://huggingface.co/thanhdath/coredb-v7-eb380f) | thanhdath | 0 | 0 | license:other; region:us; text-to-sql; sqlite; reward-datab… |
+| 2026-10-21 06:11:28 | [myandev/myanmar-english-pali-dictionary](https://huggingface.co/myandev/myanmar-english-pali-dictionary) | myandev | 0 | 0 | task_categories:translation; task_categories:text-generatio… |
+| 2026-10-21 06:11:37 | [g1n0st/bfaaf85937b8bd6c48f7add9a5405e63ab09d401](https://huggingface.co/g1n0st/bfaaf85937b8bd6c48f7add9a5405e63ab09d401) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 06:12:02 | [myandev/myanmar_typeset_dictionary_OCR](https://huggingface.co/myandev/myanmar_typeset_dictionary_OCR) | myandev | 0 | 0 | task_categories:object-detection; task_categories:image-to-… |
+| 2026-10-21 06:12:03 | [toolathlon-hark/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-hark/Annoy-PyEdu-Rs-Raw) | toolathlon-hark | 0 | 0 | region:us |
+| 2026-10-21 06:12:03 | [toolathlon-hark/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-hark/Annoy-PyEdu-Rs) | toolathlon-hark | 0 | 0 | region:us |
+| 2026-10-21 06:13:57 | [gchia/longcat-rewriter-wheels](https://huggingface.co/gchia/longcat-rewriter-wheels) | gchia | 0 | 0 | region:us |
+| 2026-10-21 06:14:16 | [BarrelGun/epg-mirror](https://huggingface.co/BarrelGun/epg-mirror) | BarrelGun | 0 | 1 | region:us |
+| 2026-10-21 06:14:39 | [tooldev/Annoy-PyEdu-Rs](https://huggingface.co/tooldev/Annoy-PyEdu-Rs) | tooldev | 0 | 0 | region:us |
+| 2026-10-21 06:14:43 | [carlahq/demo-timeseries-benchmark-containers](https://huggingface.co/carlahq/demo-timeseries-benchmark-containers) | carlahq | 0 | 0 | language:en; license:apache-2.0; size_categories:10K<n<100K… |
+| 2026-10-21 06:14:56 | [luvox-ai/speaker-adapter-poc](https://huggingface.co/luvox-ai/speaker-adapter-poc) | luvox-ai | 0 | 0 | task_categories:automatic-speech-recognition; language:vi;… |
+| 2026-10-21 06:15:02 | [cyttic/heb-llmgen10k-uni10aug-part3](https://huggingface.co/cyttic/heb-llmgen10k-uni10aug-part3) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:15:09 | [tooldev/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tooldev/Annoy-PyEdu-Rs-Raw) | tooldev | 0 | 0 | region:us |
+| 2026-10-21 06:15:30 | [Attoloop/PermitForge](https://huggingface.co/Attoloop/PermitForge) | Attoloop | 0 | 0 | license:apache-2.0; library:openenv; region:us; openenv; re… |
+| 2026-10-21 06:15:53 | [darshangolchha/people_1b_candidates](https://huggingface.co/darshangolchha/people_1b_candidates) | darshangolchha | 0 | 0 | region:us; entity-resolution; record-linkage; blocking |
+| 2026-10-21 06:15:55 | [andnetdeboer/BlueCupRedContainer_sim_lead640ms_train21_dagger](https://huggingface.co/andnetdeboer/BlueCupRedContainer_sim_lead640ms_train21_dagger) | andnetdeboer | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 06:16:03 | [ratecommons/raw-manifests](https://huggingface.co/ratecommons/raw-manifests) | ratecommons | 0 | 0 | region:us |
+| 2026-10-21 06:16:18 | [cyttic/heb-llmgen10k-uni10aug-part3-hhdgeom](https://huggingface.co/cyttic/heb-llmgen10k-uni10aug-part3-hhdgeom) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:16:26 | [26PaperSubmission/public_other_data](https://huggingface.co/26PaperSubmission/public_other_data) | 26PaperSubmission | 0 | 0 | region:us |
+| 2026-10-21 06:16:33 | [ratecommons/ops](https://huggingface.co/ratecommons/ops) | ratecommons | 0 | 0 | region:us |
+| 2026-10-21 06:16:54 | [cyttic/heb-llmgen30k-uni10aug-hhdgeom](https://huggingface.co/cyttic/heb-llmgen30k-uni10aug-hhdgeom) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:17:05 | [cyttic/heb-llmgen30k-diffpenaug-hhdgeom](https://huggingface.co/cyttic/heb-llmgen30k-diffpenaug-hhdgeom) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:17:17 | [cyttic/heb-llmgen30k-join-diffpenaug-uni10aug-hhdgeom](https://huggingface.co/cyttic/heb-llmgen30k-join-diffpenaug-uni10aug-hhdgeom) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:17:28 | [cyttic/heb-llmgen30k-join-diffpenaug-noverify-uni10aug-hhdgeom](https://huggingface.co/cyttic/heb-llmgen30k-join-diffpenaug-noverify-uni10aug-hhdgeom) | cyttic | 0 | 0 | region:us |
+| 2026-10-21 06:18:50 | [seriintan/rollout_smolvla_lang3a_seen_blade_20261021_134539](https://huggingface.co/seriintan/rollout_smolvla_lang3a_seen_blade_20261021_134539) | seriintan | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-10-21 06:19:41 | [j-ine/lama3_ksj_unslot_data](https://huggingface.co/j-ine/lama3_ksj_unslot_data) | j-ine | 0 | 0 | region:us |
+| 2026-10-21 06:20:08 | [ar-mine/deepstack-joint-second-timing-handoff-20261021](https://huggingface.co/ar-mine/deepstack-joint-second-timing-handoff-20261021) | ar-mine | 0 | 0 | task_categories:robotics; language:zh; language:en; license… |
+| 2026-10-21 06:20:44 | [consciousengines/PathRIR](https://huggingface.co/consciousengines/PathRIR) | consciousengines | 0 | 0 | region:us |
+| 2026-10-21 06:21:35 | [g1n0st/af741952cde8d8cff7e4d79074e4b998229a1ba4](https://huggingface.co/g1n0st/af741952cde8d8cff7e4d79074e4b998229a1ba4) | g1n0st | 0 | 0 | region:us |
+| 2026-10-21 06:21:57 | [pkrushith/lolv2-real](https://huggingface.co/pkrushith/lolv2-real) | pkrushith | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-21 06:21:58 | [Hastagaras/casual_chat_st0](https://huggingface.co/Hastagaras/casual_chat_st0) | Hastagaras | 0 | 0 | region:us |
+| 2026-10-21 06:22:05 | [g1n0st/029e8bb0ba9bb8abbdcbd4f50c666606224b443f](https://huggingface.co/g1n0st/029e8bb0ba9bb8abbdcbd4f50c666606224b443f) | g1n0st | 0 | 0 | region:us |
 
 ## Data source
 

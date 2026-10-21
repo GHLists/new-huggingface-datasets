@@ -1,0 +1,182 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-21T05:19:38Z,Liangzhi-Li/cvpr2027-f04-public,Liangzhi-Li,0,0,region:us
+2026-10-21T05:20:01Z,Liangzhi-Li/t02-public,Liangzhi-Li,0,0,license:mit; modality:video; region:us; video; intuitive-physics
+2026-10-21T05:20:21Z,companies-directory/oman-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; om; open-sources
+2026-10-21T05:20:47Z,JunruiZhang/RoboDojo_Sim,JunruiZhang,0,0,size_categories:10K<n<100K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-21T05:21:02Z,g1n0st/0f54f60d3a329c36eeaf200ad20213c84c3c86f1,g1n0st,0,0,region:us
+2026-10-21T05:21:13Z,g1n0st/7c675ea4757ea29319c7ec9863b3c664c9d496ee,g1n0st,0,0,region:us
+2026-10-21T05:21:41Z,Liangzhi-Li/raw-photo-assets,Liangzhi-Li,0,0,license:other; modality:image; modality:text; region:us
+2026-10-21T05:22:08Z,frenzyfreeze/RoboTwin-Mem-record,frenzyfreeze,0,0,language:en; language:zh; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-21T05:22:26Z,companies-directory/panama-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; pa; open-sources
+2026-10-21T05:23:01Z,Liangzhi-Li/fort2i-forsale-generations,Liangzhi-Li,0,0,license:other; region:us; text-to-image; spatial-reasoning; benchmark
+2026-10-21T05:23:02Z,fkmt/record-test_20261021_142221,fkmt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T05:23:18Z,Playingyoyo/wetrobo-before0610-lid,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:23:58Z,companies-directory/philippines-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; ph; open-sources
+2026-10-21T05:24:07Z,companies-directory/pakistan-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; pk; open-sources
+2026-10-21T05:24:49Z,jadynBragz/so101_fold_towel_20261021_161013,jadynBragz,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T05:25:13Z,08semi/hyouka7,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T05:25:43Z,companies-directory/poland-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; pl; open-sources
+2026-10-21T05:26:09Z,Liangzhi-Li/n06-public-mirror,Liangzhi-Li,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-21T05:27:17Z,companies-directory/pr-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; pr; open-sources
+2026-10-21T05:27:27Z,Playingyoyo/wetrobo-before0610-microscope,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:27:50Z,siyu-chen/demo,siyu-chen,0,0,region:us
+2026-10-21T05:27:53Z,dewml/fixtures,dewml,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:28:34Z,companies-directory/palestine-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; ps; open-sources
+2026-10-21T05:28:38Z,companies-directory/portugal-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; pt; open-sources
+2026-10-21T05:28:42Z,itsleandroramos/project-food,itsleandroramos,0,0,license:mit; region:us; dataset; food; audio-video
+2026-10-21T05:28:42Z,g1n0st/3fd31a21bc5252ab85813d1b8e7aed12bf247d3f,g1n0st,0,0,region:us
+2026-10-21T05:29:01Z,srcy312/pickplace-v1_20261021_140903,srcy312,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T05:29:18Z,companies-directory/paraguay-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; py; open-sources
+2026-10-21T05:29:23Z,gnumanth/scribelm-dataset,gnumanth,0,0,task_categories:text-generation; task_categories:text-classification; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-21T05:29:24Z,companies-directory/qatar-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; qa; open-sources
+2026-10-21T05:30:22Z,companies-directory/re-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; re; open-sources
+2026-10-21T05:30:24Z,Playingyoyo/wetrobo-before0610-petri_raw,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:30:28Z,companies-directory/serbia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; rs; open-sources
+2026-10-21T05:31:14Z,JawLeighy/Organometallics-DFT,JawLeighy,0,0,region:us
+2026-10-21T05:31:14Z,companies-directory/russia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; ru; open-sources
+2026-10-21T05:31:20Z,ShrikantVJ/own-whisper-address,ShrikantVJ,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:31:53Z,tcmhwd/ADR-risk-synthetic,tcmhwd,0,0,task_categories:tabular-classification; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-10-21T05:32:08Z,g1n0st/b6a129da892f175a99950fd1404acf11f1092d52,g1n0st,0,0,region:us
+2026-10-21T05:32:09Z,Playingyoyo/wetrobo-before0610-slide,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:32:23Z,juhirats/cs546-hw2-2026,juhirats,0,0,region:us
+2026-10-21T05:32:40Z,Playingyoyo/wetrobo-horizon-bottle_close,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:32:54Z,companies-directory/saudi-arabia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; sa; open-sources
+2026-10-21T05:33:18Z,Playingyoyo/wetrobo-horizon-bottle_open,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:33:41Z,Playingyoyo/wetrobo-horizon-door_close,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library…
+2026-10-21T05:34:04Z,companies-directory/sudan-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; sd; open-sources
+2026-10-21T05:34:09Z,companies-directory/senegal-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; sn; open-sources
+2026-10-21T05:34:14Z,companies-directory/suriname-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; sr; open-sources
+2026-10-21T05:34:16Z,08semi/hyouka1,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T05:34:37Z,RL-Forgetting-Experiments-3/filtered-sft-20261019-artifacts,RL-Forgetting-Experiments-3,0,0,region:us
+2026-10-21T05:35:37Z,Playingyoyo/wetrobo-horizon-door_open,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:35:44Z,seriintan/rollout_act_lang3a_seen_blade_20261021_125833,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T05:35:59Z,Playingyoyo/wetrobo-horizon-lid_close,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:36:04Z,shirleykb/ocean-multimodal3,shirleykb,0,0,license:mit; region:us; dataset; ocean; multimodal3
+2026-10-21T05:36:18Z,companies-directory/el-salvador-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; sv; open-sources
+2026-10-21T05:36:22Z,companies-directory/syria-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; sy; open-sources
+2026-10-21T05:36:26Z,companies-directory/thailand-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; th; open-sources
+2026-10-21T05:36:37Z,companies-directory/tunisia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; tn; open-sources
+2026-10-21T05:36:41Z,companies-directory/turkey-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; tr; open-sources
+2026-10-21T05:37:29Z,Playingyoyo/wetrobo-horizon-lid_open,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:37:39Z,zhangsansir/demo6,zhangsansir,0,0,region:us
+2026-10-21T05:37:59Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-21T05:37:59Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-21T05:38:27Z,companies-directory/trinidad-and-tobago-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; tt; open-sources
+2026-10-21T05:39:26Z,kabuda777/factreview-bench,kabuda777,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:40:03Z,Playingyoyo/wetrobo-horizon-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:40:03Z,aipracticecafe/i1-dataset-512px-synthetic,aipracticecafe,0,0,region:us
+2026-10-21T05:40:06Z,fkmt/record-test3_20261021_143514,fkmt,0,0,region:us
+2026-10-21T05:40:06Z,companies-directory/tanzania-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; tz; open-sources
+2026-10-21T05:40:07Z,Maioush/visual-perception-dataset,Maioush,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:40:10Z,smash2it/cs546-hw2-2026,smash2it,0,0,region:us
+2026-10-21T05:40:38Z,JiawenXi/Agent-IRSTD-data,JiawenXi,0,0,task_categories:object-detection; task_categories:image-segmentation; language:en; region:us
+2026-10-21T05:40:42Z,g1n0st/763807fa4643858a3e207ccb65f209db67a55fe0,g1n0st,0,0,region:us
+2026-10-21T05:40:44Z,g1n0st/b94b8c3bc679b43b5cf9d917c124ccf7552008e8,g1n0st,0,0,region:us
+2026-10-21T05:40:54Z,Playingyoyo/wetrobo-horizon-petri2incubator,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:41:13Z,fkmt/record-test3_20261021_144030,fkmt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-10-21T05:41:42Z,companies-directory/uganda-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; ug; open-sources
+2026-10-21T05:41:46Z,Playingyoyo/wetrobo-horizon-petri2microscope,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:41:47Z,companies-directory/uruguay-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; uy; open-sources
+2026-10-21T05:41:58Z,D2F-Dachuang-HHU/EC_2024flood_Processed,D2F-Dachuang-HHU,0,0,region:us
+2026-10-21T05:42:09Z,Playingyoyo/wetrobo-horizon-pipette-ep050,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:42:11Z,08semi/hyouka2,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T05:42:47Z,jongock/1234_20261021_143629,jongock,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T05:43:30Z,companies-directory/uzbekistan-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; uz; open-sources
+2026-10-21T05:43:34Z,companies-directory/venezuela-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; ve; open-sources
+2026-10-21T05:43:37Z,Allszn/aws-steam-gpu-launchkit,Allszn,0,0,license:apache-2.0; region:us; aws; infrastructure-as-code; cloudformation; gaming; windows; amazon-dcv; systems-manager
+2026-10-21T05:43:42Z,companies-directory/vietnam-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:1M<n<10M; region:us; companies; business; company-registry; vn; open-sources
+2026-10-21T05:43:50Z,TakedaSunpreet/coralscapesV2,TakedaSunpreet,0,0,task_categories:image-segmentation; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; a…
+2026-10-21T05:43:58Z,KheemDH/thar-health-multiscript-eval,KheemDH,0,0,language:sd; language:ur; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; evaluation; low-resource-languages; health; safety; sindhi
+2026-10-21T05:43:59Z,companies-directory/kosovo-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; xk; open-sources
+2026-10-21T05:44:04Z,companies-directory/yemen-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; ye; open-sources
+2026-10-21T05:44:11Z,AugustaLina/cai-2026-10-21_synth1000_rerun2_v3.1,AugustaLina,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:44:33Z,Playingyoyo/wetrobo-horizon-pipette,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:44:39Z,companies-directory/south-africa-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:100K<n<1M; region:us; companies; business; company-registry; za; open-sources
+2026-10-21T05:44:46Z,g1n0st/7438828c91cd8e8677ba2751479527b90d348c9f,g1n0st,0,0,region:us
+2026-10-21T05:45:20Z,jadynBragz/so101_fold_towel_20261021_163048,jadynBragz,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T05:45:53Z,naynaz06/banking77,naynaz06,0,0,task_categories:text-classification; task_ids:intent-classification; task_ids:multi-class-classification; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:mo…
+2026-10-21T05:46:16Z,08semi/hyouka3,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T05:46:26Z,companies-directory/zambia-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; zm; open-sources
+2026-10-21T05:46:26Z,yunfei66666/AirBirds,yunfei66666,0,0,license:cc-by-nc-sa-4.0; arxiv:2304.11662; region:us
+2026-10-21T05:46:29Z,fkmt/record-test3_20261021_144459,fkmt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-21T05:47:30Z,companies-directory/zimbabwe-companies-official,companies-directory,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; region:us; companies; business; company-registry; zw; open-sources
+2026-10-21T05:47:47Z,Playingyoyo/wetrobo-horizon_delta-door_close,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library…
+2026-10-21T05:48:06Z,g1n0st/f5ec32f168f2b55d296a7cb8a0e5b7beaa669b52,g1n0st,0,0,region:us
+2026-10-21T05:49:03Z,Playingyoyo/wetrobo-horizon_delta-door_open,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:49:29Z,Playingyoyo/wetrobo-horizon_delta-lid_close,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:50:22Z,Playingyoyo/wetrobo-horizon_delta-lid_open,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:51:50Z,Playingyoyo/wetrobo-horizon_delta-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:52:17Z,Playingyoyo/wetrobo-horizon_delta-petri2incubator,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:52:52Z,08semi/hyouka4,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T05:53:05Z,h1testmeow/oauth-cimd-lab-20261021,h1testmeow,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T05:53:42Z,wyb5210/new_plug_cable_test_3_10_21_add_depth_info,wyb5210,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-21T05:54:13Z,Playingyoyo/wetrobo-horizon_delta-petri2microscope,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:54:31Z,Playingyoyo/wetrobo-horizon_delta-pipette,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:55:01Z,g1n0st/5502df7a998c141bd01d6d384509a17813c0c6b0,g1n0st,0,0,region:us
+2026-10-21T05:55:40Z,rainbowrobotics/JIMTOF_newrobot_20261021_041143,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T05:55:52Z,ue2627-ir-gir/bioasq-26-corpus,ue2627-ir-gir,0,0,region:us
+2026-10-21T05:56:04Z,g1n0st/998b4163296a2ae9f949923d8a5361b5038d8ff3,g1n0st,0,0,region:us
+2026-10-21T05:56:30Z,hakbari/confidence_evidence_information_gain,hakbari,0,0,region:us
+2026-10-21T05:56:50Z,Playingyoyo/wetrobo-horizon_delta_clean-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:57:09Z,Playingyoyo/wetrobo-horizon_delta_clean_marker-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:57:35Z,Playingyoyo/wetrobo-petri_no_ring-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:58:00Z,Playingyoyo/wetrobo-petri_no_ring-petri2incubator,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:58:29Z,Playingyoyo/wetrobo-petri_no_ring-petri2microscope,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:58:59Z,Playingyoyo/wetrobo-petri_ring-petri2bench,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:59:06Z,g1n0st/8db0c8e3e0828f3d3806532611dd049e8adbec05,g1n0st,0,0,region:us
+2026-10-21T05:59:20Z,weili-0234/Morphis_exp_result,weili-0234,0,0,region:us
+2026-10-21T05:59:23Z,Playingyoyo/wetrobo-petri_ring-petri2incubator,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T05:59:40Z,g1n0st/d76cf496747a059e9191c15161637294b9c41cf0,g1n0st,0,0,region:us
+2026-10-21T05:59:50Z,Playingyoyo/wetrobo-petri_ring-petri2microscope,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-21T06:00:03Z,g1n0st/9928eef651f6329f132e201eca438a646fb9c182,g1n0st,0,0,region:us
+2026-10-21T06:00:25Z,5kywa1ker/cs546-hw2-2026,5kywa1ker,0,0,region:us
+2026-10-21T06:00:27Z,Playingyoyo/wetrobo-raw,Playingyoyo,0,0,task_categories:robotics; license:cc-by-4.0; arxiv:2609.18435; region:us; wetrobo; piper; teleoperation; laboratory-automation; hdf5
+2026-10-21T06:00:29Z,g1n0st/0be08b7f86f779f81256d977bb9296d8edff430b,g1n0st,0,0,region:us
+2026-10-21T06:01:13Z,fkmt/record-test3_20261021_150033,fkmt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T06:02:14Z,Keer09/MENST,Keer09,0,0,task_categories:question-answering; language:en; license:mit; size_categories:10K<n<100K; modality:document; region:us; medical; biology
+2026-10-21T06:02:34Z,g1n0st/755b1c7ca96682c45bc4b5c7e4a3457929ea1199,g1n0st,0,0,region:us
+2026-10-21T06:03:43Z,Maioush/iq-dataset,Maioush,0,0,region:us
+2026-10-21T06:03:52Z,Maioush/general-knowledge-dataset,Maioush,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T06:05:41Z,Rucoding/MMAE-Data-Pipeline,Rucoding,0,0,region:us
+2026-10-21T06:05:50Z,myandev/burmese-speech-refined-openslr-80,myandev,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:my; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datas…
+2026-10-21T06:06:11Z,myandev/Burmese-Daily-Dialogue-Corpus,myandev,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; task_categories:audio-classification; language:my; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modalit…
+2026-10-21T06:07:11Z,myandev/myanmar-shopvoice,myandev,0,0,task_categories:automatic-speech-recognition; language:my; license:mit; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-21T06:10:02Z,Dash00/train-data-gsc-belink,Dash00,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T06:10:15Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-21T06:10:32Z,4Jz/quarterly-calls-arima-demo,4Jz,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-21T06:10:37Z,shawshank1104/so101_pick_and_place_3cam,shawshank1104,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T06:10:46Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-21T06:10:50Z,xuanxinjushi/math4ai-labs,xuanxinjushi,0,0,license:mit; size_categories:n<1K; region:us; education; linear-algebra; embeddings
+2026-10-21T06:11:02Z,dgflash/myanmar-master-clean-corpus,dgflash,0,0,region:us
+2026-10-21T06:11:16Z,thanhdath/coredb-v7-eb380f,thanhdath,0,0,license:other; region:us; text-to-sql; sqlite; reward-databases
+2026-10-21T06:11:28Z,myandev/myanmar-english-pali-dictionary,myandev,0,0,task_categories:translation; task_categories:text-generation; task_categories:text-classification; source_datasets:original; language:my; language:en; language:pi; license:other; size_categories:10K<…
+2026-10-21T06:11:37Z,g1n0st/bfaaf85937b8bd6c48f7add9a5405e63ab09d401,g1n0st,0,0,region:us
+2026-10-21T06:12:02Z,myandev/myanmar_typeset_dictionary_OCR,myandev,0,0,task_categories:object-detection; task_categories:image-to-text; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; ocr; myanma…
+2026-10-21T06:12:03Z,toolathlon-hark/Annoy-PyEdu-Rs-Raw,toolathlon-hark,0,0,region:us
+2026-10-21T06:12:03Z,toolathlon-hark/Annoy-PyEdu-Rs,toolathlon-hark,0,0,region:us
+2026-10-21T06:13:57Z,gchia/longcat-rewriter-wheels,gchia,0,0,region:us
+2026-10-21T06:14:16Z,BarrelGun/epg-mirror,BarrelGun,0,1,region:us
+2026-10-21T06:14:39Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-21T06:14:43Z,carlahq/demo-timeseries-benchmark-containers,carlahq,0,0,language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; time-series; forecasting; foundation-models; benchmarks; fev-bench; autogluon; carlahq; nanotabicl; in-context-learning
+2026-10-21T06:14:56Z,luvox-ai/speaker-adapter-poc,luvox-ai,0,0,task_categories:automatic-speech-recognition; language:vi; license:other; region:us
+2026-10-21T06:15:02Z,cyttic/heb-llmgen10k-uni10aug-part3,cyttic,0,0,region:us
+2026-10-21T06:15:09Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-21T06:15:30Z,Attoloop/PermitForge,Attoloop,0,0,license:apache-2.0; library:openenv; region:us; openenv; reinforcement-learning; simulation; air-quality
+2026-10-21T06:15:53Z,darshangolchha/people_1b_candidates,darshangolchha,0,0,region:us; entity-resolution; record-linkage; blocking
+2026-10-21T06:15:55Z,andnetdeboer/BlueCupRedContainer_sim_lead640ms_train21_dagger,andnetdeboer,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T06:16:03Z,ratecommons/raw-manifests,ratecommons,0,0,region:us
+2026-10-21T06:16:18Z,cyttic/heb-llmgen10k-uni10aug-part3-hhdgeom,cyttic,0,0,region:us
+2026-10-21T06:16:26Z,26PaperSubmission/public_other_data,26PaperSubmission,0,0,region:us
+2026-10-21T06:16:33Z,ratecommons/ops,ratecommons,0,0,region:us
+2026-10-21T06:16:54Z,cyttic/heb-llmgen30k-uni10aug-hhdgeom,cyttic,0,0,region:us
+2026-10-21T06:17:05Z,cyttic/heb-llmgen30k-diffpenaug-hhdgeom,cyttic,0,0,region:us
+2026-10-21T06:17:17Z,cyttic/heb-llmgen30k-join-diffpenaug-uni10aug-hhdgeom,cyttic,0,0,region:us
+2026-10-21T06:17:28Z,cyttic/heb-llmgen30k-join-diffpenaug-noverify-uni10aug-hhdgeom,cyttic,0,0,region:us
+2026-10-21T06:18:50Z,seriintan/rollout_smolvla_lang3a_seen_blade_20261021_134539,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T06:19:41Z,j-ine/lama3_ksj_unslot_data,j-ine,0,0,region:us
+2026-10-21T06:20:08Z,ar-mine/deepstack-joint-second-timing-handoff-20261021,ar-mine,0,0,task_categories:robotics; language:zh; language:en; license:other; region:us
+2026-10-21T06:20:44Z,consciousengines/PathRIR,consciousengines,0,0,region:us
+2026-10-21T06:21:35Z,g1n0st/af741952cde8d8cff7e4d79074e4b998229a1ba4,g1n0st,0,0,region:us
+2026-10-21T06:21:57Z,pkrushith/lolv2-real,pkrushith,0,0,license:apache-2.0; region:us
+2026-10-21T06:21:58Z,Hastagaras/casual_chat_st0,Hastagaras,0,0,region:us
+2026-10-21T06:22:05Z,g1n0st/029e8bb0ba9bb8abbdcbd4f50c666606224b443f,g1n0st,0,0,region:us
