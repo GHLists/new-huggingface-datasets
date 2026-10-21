@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-21T17:19:38Z,Gagatlamalice/chronos_datasets,Gagatlamalice,0,0,task_categories:time-series-forecasting; task_ids:univariate-time-series-forecasting; task_ids:multivariate-time-series-forecasting; annotations_creators:no-annotation; source_datasets:original; lice…
+2026-10-21T17:21:30Z,wdouglass078/NoviCode,wdouglass078,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T17:22:08Z,hllee0615/gate3dgen-web-assets,hllee0615,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us; 3d; image-to-3d; gate3dgen
+2026-10-21T17:25:45Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t0.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T17:28:14Z,sw-voice/swamiji-navaratri-telugu-clean,sw-voice,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:te; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; librar…
+2026-10-21T17:28:32Z,armnet/eval_busybox_push_green_button_diffusion_17h14m_21-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-21T17:29:10Z,vdags-lr/test_multi_20261021_192844,vdags-lr,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T17:29:44Z,sakhadib/bangla-bagdhara,sakhadib,0,1,language:bn; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; idioms; pr…
+2026-10-21T17:29:56Z,vdags-lr/test_multi,vdags-lr,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-21T17:33:05Z,rehuonly/paytmm,rehuonly,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-21T17:34:10Z,asparius/dolci-instruct-sft-opus4.7-thinking,asparius,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-21T17:35:04Z,chilamo/Zxcvbnm22,chilamo,0,0,region:us
+2026-10-21T17:35:19Z,BraintrustDataDev/decision-interface-safety-eval,BraintrustDataDev,0,0,task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T17:35:33Z,rehuonly/paytmmm,rehuonly,0,0,region:us
+2026-10-21T17:36:21Z,aqxlogistics/gcc-and-european-precision-engineering-cargo-index-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; gcc; europe; precision-engineering
+2026-10-21T17:36:28Z,aqxlogistics/australasia-and-nordic-specialized-equipment-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; new-zealand; australia; sweden
+2026-10-21T17:36:29Z,KDliang/NACrash,KDliang,0,1,task_categories:video-classification; task_categories:video-text-to-text; language:en; license:other; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; traff…
+2026-10-21T17:36:55Z,Kotoshuk/retr,Kotoshuk,0,0,region:us
+2026-10-21T17:37:48Z,madokalif/calvin-abc-plain,madokalif,0,0,region:us
+2026-10-21T17:39:23Z,creative-graphic-design/OpenMoji,creative-graphic-design,0,0,task_categories:text-to-image; task_categories:image-to-text; annotations_creators:found; language_creators:found; source_datasets:original; language:en; license:cc-by-sa-4.0; size_categories:1K<n<10…
+2026-10-21T17:40:28Z,mayank172007/deforestation-monitor-data,mayank172007,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-21T17:42:18Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-21T17:43:41Z,cyttic/lection-transcripts,cyttic,0,0,region:us
+2026-10-21T17:46:36Z,charly63000/x7kappaV1,charly63000,0,0,region:us
+2026-10-21T17:47:05Z,Kimdongna/wm_pro,Kimdongna,0,0,license:unknown; region:us
+2026-10-21T17:49:18Z,gentaiscool/test_small,gentaiscool,0,0,task_categories:text-generation; language:eng; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2…
+2026-10-21T17:49:37Z,albertklorer/single-page-image-markdown-1m,albertklorer,0,0,region:us
+2026-10-21T17:51:16Z,razvatrick/nonnative-english-gap-eval,razvatrick,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; non-native-english; bias-evaluation; robustness
+2026-10-21T17:51:20Z,aqxlogistics/transatlantic-and-gulf-motorsport-air-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; motorsport; gcc
+2026-10-21T17:51:28Z,aqxlogistics/western-european-us-car-restoration-freight-index-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; europe; car-restoration
+2026-10-21T17:51:36Z,aqxlogistics/global-15-nation-specialty-air-freight-benchmark-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; international-trade
+2026-10-21T17:53:06Z,Hasin2026/hidden-thought-test,Hasin2026,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; interpretability; activation-steering; introspection; llm-evaluation; alignment
+2026-10-21T17:57:00Z,asrinivas15/mapvoice-india-navigation-toponyms,asrinivas15,0,0,language:kn; language:ta; language:te; language:mr; language:ml; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:geospatial; library:datase…
+2026-10-21T17:57:15Z,PIKIS/qwen3-greek-dataset,PIKIS,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-21T17:58:10Z,Lyon28/indonesia-poi-overture,Lyon28,0,0,language:id; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-21T17:58:31Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-10-21T17:58:32Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-10-21T17:58:37Z,Lyon28/indonesia-poi-openStreetMaps,Lyon28,0,0,language:id; language:en; license:odbl; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-21T17:58:53Z,Schtumpfnagel/fiscal-index,Schtumpfnagel,0,0,region:us
+2026-10-21T17:59:08Z,Lyon28/indonesia-poi-foursquare,Lyon28,0,0,language:id; license:other; size_categories:1M<n<10M; modality:tabular; modality:text; modality:geospatial; region:us; poi; indonesia; geospatial; foursquare
+2026-10-21T18:00:18Z,jay2219/Gujlish-Reasoning-Eval,jay2219,0,0,license:mit; region:us
+2026-10-21T18:00:57Z,z72pepee/skin-age-analysis,z72pepee,0,0,region:us
+2026-10-21T18:01:20Z,MissawB/procedural-quadrupeds,MissawB,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; point-cloud; 3d; skeleton; synthetic
+2026-10-21T18:01:21Z,remots/nutipeedia-sources,remots,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-21T18:02:14Z,simheo/red-cube-blue-box,simheo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-21T18:02:50Z,Lemon24/Amharic-English-temporal-consistency-and-belief-updating,Lemon24,0,0,license:cc-by-4.0; region:us
+2026-10-21T18:03:41Z,soloearn/agent-earnings,soloearn,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-agents; revenue; dataset; economics
+2026-10-21T18:03:43Z,RKB109/multimodal-document-retrieval-20261021-dataset,RKB109,0,0,task_categories:visual-document-retrieval; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-21T18:05:28Z,JUNJIELJL0125/image-audio-samples,JUNJIELJL0125,0,0,license:cc0-1.0; region:us; dataset; finance; image-audio; dataset-card
+2026-10-21T18:06:39Z,goofyskyyy/my-test-dataset,goofyskyyy,0,0,region:us
+2026-10-21T18:08:03Z,cherryana/hw1-spell,cherryana,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-21T18:09:31Z,akhaliq/fibo2-4step-t2i-benchmark,akhaliq,0,0,region:us
+2026-10-21T18:12:06Z,Lyon28/indonesia-poi-caca,Lyon28,0,0,language:id; license:odbl; modality:geospatial; region:us; poi; geospatial; indonesia; nearby-search; openstreetmap; overture-maps; geonames
+2026-10-21T18:12:18Z,davidharrisson/art-audio-text,davidharrisson,0,0,license:mit; region:us; dataset; art; audio-text
+2026-10-21T18:12:50Z,shngjz/ar-collections,shngjz,0,0,region:us
+2026-10-21T18:13:04Z,jgasienica/afo-dataset,jgasienica,0,0,task_categories:object-detection; license:cc-by-nc-sa-3.0; size_categories:1K<n<10K; region:us; drones; aerial; uav; maritime; search-and-rescue
+2026-10-21T18:13:51Z,LittleWhite1031/Annoy-PyEdu-Rs,LittleWhite1031,0,0,region:us
+2026-10-21T18:13:54Z,LittleWhite1031/Annoy-PyEdu-Rs-Raw,LittleWhite1031,0,0,region:us
+2026-10-21T18:15:22Z,samuesuon/fatima-fellowship-evaluation,samuesuon,0,0,region:us
+2026-10-21T18:16:32Z,Qdonnars/ohmywind-bsh-archive,Qdonnars,0,0,region:us
+2026-10-21T18:16:56Z,aicps/cup_on_hotpad_20261021_105743,aicps,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-21T18:17:13Z,rehuuuu/Car,rehuuuu,0,0,region:us
+2026-10-21T18:18:17Z,k-imtz/vl-blindspot-indian-admin-docs,k-imtz,0,0,language:en; language:hi; license:mit; region:us; hallucination; document-understanding; indian-government; vision-language
+2026-10-21T18:18:31Z,Siyuc/arxiv-sci-tasks,Siyuc,0,0,region:us
+2026-10-21T18:21:04Z,tsgarcia/nlp-qa-corpus90,tsgarcia,0,0,region:us
