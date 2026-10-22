@@ -1,0 +1,53 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-22T00:27:12Z,CompassioninMachineLearning/irreversibility-eval,CompassioninMachineLearning,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-22T00:27:52Z,nightly-wave/2caf5f9e,nightly-wave,0,0,region:us
+2026-10-22T00:28:54Z,AeliaTR/aelia-asama5-stt-veri,AeliaTR,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-22T00:28:57Z,food-ai-nexus/campylobacter-enrichment-absorbance-spectra,food-ai-nexus,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-10-22T00:29:17Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t0.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T00:35:30Z,jackyk02/chatqa-rag-qa-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-22T00:38:28Z,jackyk02/nemotron-domain-qa-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-sa-4.0; license:cc-by-4.0; license:other; size_categories:n<1K; modality:tabular; modality:text; region:us; embeddings; contrastive-learning; qwen3.6…
+2026-10-22T00:39:39Z,ComplexityInspector-test-dataset/ComplexityInspector-v1.0-dataset,ComplexityInspector-test-dataset,0,1,license:cc-by-nd-4.0; region:us
+2026-10-22T00:40:12Z,jackyk02/nemotron-rl-reasoning-gym-arc-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-22T00:40:25Z,Leo12121/Fatima-Institute-Application,Leo12121,0,0,license:mit; region:us
+2026-10-22T00:40:36Z,08semi/hyouka5,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-10-22T00:42:10Z,jackyk02/nemotron-enterprise-tools-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-22T00:43:06Z,SOTAagi2030/Tideglass-Oral-History-Captions,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; oral-history; webvtt
+2026-10-22T00:43:41Z,jackyk02/nemotron-science-qa-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; license:cc-by-sa-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-10-22T00:43:43Z,08semi/hyouka6,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-22T00:44:12Z,jackyk02/nemotron-crossthink-openqa-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-22T00:44:15Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-22T00:44:15Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-22T00:44:50Z,jackyk02/nemotron-rl-knowledge-mcqa-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-22T00:45:33Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-22T00:45:34Z,jackyk02/nemotron-verifiable-if-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; license:odc-by; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-22T00:45:36Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-22T00:48:13Z,semaaygul/laleunivar2-oa-veri,semaaygul,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T00:49:58Z,jackyk02/nemotron-judging-genrm-qwen3.6-35b-a3b-fp8-embeddings-256k,jackyk02,0,0,task_categories:feature-extraction; license:cc-by-4.0; license:odc-by; license:cc-by-sa-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; libr…
+2026-10-22T00:53:25Z,sukriramli/H3-Earth-State,sukriramli,0,0,license:mit; region:us
+2026-10-22T00:59:21Z,Skylight1/stratified-sparse-attention,Skylight1,0,0,arxiv:2610.28441; region:us
+2026-10-22T00:59:24Z,gravity-code6/rexo-dataset,gravity-code6,0,0,license:agpl-3.0; size_categories:n<1K; region:us
+2026-10-22T01:02:05Z,schneewolflabs/Nachschlagen,schneewolflabs,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; orpo; dpo; tool-use; agents
+2026-10-22T01:04:48Z,cadazar/han2han-rl-data,cadazar,0,0,source_datasets:seyoungsong/Open-Korean-Historical-Corpus; source_datasets:heegyu/open-korean-instructions; source_datasets:channelcorp/KoMagpie-raw; language:ko; license:cc-by-nc-4.0; size_categorie…
+2026-10-22T01:05:42Z,SOTAagi2030/Northstar-Dock-Cycle-Ledger,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-22T01:06:06Z,wcheolkyo/meeting-to-json-ko,wcheolkyo,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T01:06:38Z,NoraResearchLab/relocated-earthquake-catalog-for-mauna-loa-2015-2023,NoraResearchLab,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T01:08:34Z,justicedao/ipfs_datasets_py_patches,justicedao,0,0,license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-22T01:08:34Z,justicedao/ipfs_france_local_laws,justicedao,0,0,language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T01:08:48Z,tgahaer/Annoy-PyEdu-Rs,tgahaer,0,0,region:us
+2026-10-22T01:08:49Z,tgahaer/Annoy-PyEdu-Rs-Raw,tgahaer,0,0,region:us
+2026-10-22T01:08:56Z,ethanCSL/openarm_pringles_lerobot_sim_10_v00_generated_500,ethanCSL,0,0,region:us
+2026-10-22T01:09:13Z,justicedao/ipfs_italy_municipal_statutes,justicedao,0,0,language:it; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T01:10:24Z,gerha/Annoy-PyEdu-Rs,gerha,0,0,region:us
+2026-10-22T01:10:24Z,gerha/Annoy-PyEdu-Rs-Raw,gerha,0,0,region:us
+2026-10-22T01:10:30Z,gehaergserg/Annoy-PyEdu-Rs,gehaergserg,0,0,region:us
+2026-10-22T01:10:31Z,gehaergserg/Annoy-PyEdu-Rs-Raw,gehaergserg,0,0,region:us
+2026-10-22T01:12:20Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs,kaggle-benchmarks-leads,0,0,region:us
+2026-10-22T01:12:21Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs-Raw,kaggle-benchmarks-leads,0,0,region:us
+2026-10-22T01:14:01Z,nakas/gpttrace-audio-v4,nakas,0,0,region:us
+2026-10-22T01:14:39Z,vivekgr92/stack-unstack-trimmed,vivekgr92,0,0,region:us
+2026-10-22T01:14:44Z,Tron-Hayato/record-pick-and-stack-adjust,Tron-Hayato,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-22T01:16:11Z,SOTAagi2030/Pinefall-Hourly-Access-Board,SOTAagi2030,0,0,region:us
+2026-10-22T01:16:32Z,NovaeonStudio/agent-release-gate,NovaeonStudio,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-10-22T01:17:43Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-22T01:17:44Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-22T01:20:16Z,alohateam1423/rollout_pick-cube_20261022_101915,alohateam1423,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
