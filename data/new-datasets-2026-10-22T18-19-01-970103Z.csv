@@ -1,0 +1,105 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-22T17:23:22Z,BowenSun1998/Benchmarking_Risk_Attitudes_of_LLMs,BowenSun1998,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; llm; risk-attitude; decision-making; behavioral-science; neu…
+2026-10-22T17:23:40Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-10-22T17:23:41Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-10-22T17:24:00Z,Beifengdo/Android-Application-Development-Labs,Beifengdo,0,0,region:us
+2026-10-22T17:24:27Z,abhinaut/fantastic_four-dataset,abhinaut,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:25:45Z,weisongsong/muse-headshot-assets,weisongsong,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:25:50Z,weisongsong/avatar-compare-outputs,weisongsong,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:25:53Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t0.5_g10_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:27:41Z,Beifengdo/C-Programming-Practicum,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:28:11Z,Beifengdo/Java-Programming,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:28:38Z,Beifengdo/Java-Programming-Labs,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:29:10Z,Beifengdo/DotNET-Architecture-and-Programming,Beifengdo,0,0,region:us
+2026-10-22T17:29:43Z,aqxlogistics/saudi-and-gulf-medical-scrubs-apparel-air-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; medical-apparel; saudi-arabia
+2026-10-22T17:29:51Z,aqxlogistics/netherlands-western-europe-automotive-air-cargo-benchmark-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; netherlands; auto-parts
+2026-10-22T17:29:58Z,aqxlogistics/saudi-arabia-per-kg-air-freight-and-consolidation-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; saudi-arabia; consolidation
+2026-10-22T17:30:20Z,shivkrchy9876/items_prompts_lite,shivkrchy9876,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:31:07Z,thaki-AI/daily-paper-2026-10-23-router-toll-overhead-share-gate,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; llm-routing; cost-accounting; agent-harness; token-metering; precondition-gate; skill-retrieval; cost-quality-frontier; overnight-automation
+2026-10-22T17:31:35Z,multimodalart/decision-index-vision-leaderboard,multimodalart,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; leaderboard; dec…
+2026-10-22T17:31:48Z,Beifengdo/Operating-Systems,Beifengdo,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:33:12Z,Beifengdo/Operating-Systems-Labs,Beifengdo,0,0,region:us
+2026-10-22T17:33:15Z,asd12dsa21dsa21dsa/Annoy-PyEdu-Rs,asd12dsa21dsa21dsa,0,0,region:us
+2026-10-22T17:33:16Z,asd12dsa21dsa21dsa/Annoy-PyEdu-Rs-Raw,asd12dsa21dsa21dsa,0,0,region:us
+2026-10-22T17:33:45Z,Beifengdo/Operating-Systems-Course-Design,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:34:10Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs,kaggle-benchmarks-leads,0,0,region:us
+2026-10-22T17:34:11Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs-Raw,kaggle-benchmarks-leads,0,0,region:us
+2026-10-22T17:34:11Z,Beifengdo/SQL-Server-Application-and-Administration,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:35:12Z,Beifengdo/College-Student-Mental-Health-Education,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:35:37Z,mklovin/icub_real_demo,mklovin,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T17:36:05Z,Surv06/Sofia_montes,Surv06,0,0,license:openrail; region:us
+2026-10-22T17:37:11Z,nadaassem51/FreshRetailNet-50K,nadaassem51,0,1,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:tabular; modality:text; arxiv:2505.16319; region:us; fresh-retail; censored-demand; hourly-…
+2026-10-22T17:37:14Z,Beifengdo/Circuit-Fundamentals,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:37:46Z,meo02001/DFOA,meo02001,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:40:04Z,asfsdavcf/Annoy-PyEdu-Rs-Raw,asfsdavcf,0,0,region:us
+2026-10-22T17:40:04Z,Beifengdo/Environment-and-Human-Health,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:40:04Z,asfsdavcf/Annoy-PyEdu-Rs,asfsdavcf,0,0,region:us
+2026-10-22T17:40:17Z,SynthStats/synthstats-demonstrations,SynthStats,0,0,language:en; license:mit; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; probabilistic-progra…
+2026-10-22T17:40:38Z,aqxlogistics/saudi-and-gcc-automotive-performance-parts-air-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; rockauto; auto-parts; saudi-arabia
+2026-10-22T17:40:46Z,aqxlogistics/kuwait-and-gcc-package-forwarding-alternatives-index-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; kuwait; forwarding
+2026-10-22T17:40:56Z,aqxlogistics/uae-and-gulf-commercial-espresso-machines-air-freight-index-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; espresso-machines; uae; specialty-coffee
+2026-10-22T17:42:17Z,MImranDogar/Urdu-Newspaper-Benchmark,MImranDogar,0,0,task_categories:image-to-text; language:ur; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:43:03Z,00000N0/Tgdata,00000N0,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-22T17:43:18Z,wildfire34/wellread-releases,wildfire34,0,0,region:us
+2026-10-22T17:43:24Z,bsye/byosm-turn-completion-data,bsye,0,0,task_categories:text-classification; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-22T17:43:39Z,00000N0/TELEGRAM2,00000N0,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:43:57Z,Beifengdo/Logic,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:44:16Z,00000N0/PETIYAM,00000N0,0,0,license:bigcode-openrail-m; region:us
+2026-10-22T17:44:27Z,Beifengdo/Principles-of-Marxism,Beifengdo,0,0,size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:44:36Z,00000N0/Hello12,00000N0,0,0,license:apache-2.0; region:us
+2026-10-22T17:45:51Z,AzazKayani/My_Test_Dataset,AzazKayani,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:46:29Z,00000N0/Telegram3,00000N0,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:47:01Z,00000N0/Inddata1,00000N0,0,0,region:us
+2026-10-22T17:47:26Z,mklovin/icub_gazebo_demo,mklovin,0,0,region:us
+2026-10-22T17:47:39Z,justicedao/world_national_law,justicedao,0,0,license:other; region:us
+2026-10-22T17:47:41Z,Omar-2002/ru_benchmark_data,Omar-2002,0,0,task_categories:image-to-text; language:ru; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-22T17:48:37Z,otisberg/j_qlora_master,otisberg,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:49:16Z,SOTAagi2030/Public-Berth-Maintenance-Worklist,SOTAagi2030,0,0,region:us; harbor-operations; maintenance-planning
+2026-10-22T17:49:34Z,Beifengdo/Mao-Zedong-Thought-and-Socialism-with-Chinese-Characteristics,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:50:29Z,Beifengdo/Analog-Electronics,Beifengdo,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:50:29Z,00000N0/GlobalTG,00000N0,0,0,region:us
+2026-10-22T17:50:31Z,sjkim1127/decbench-multilang-corpus,sjkim1127,0,0,task_categories:other; license:other; region:us; binary-analysis; decompilation; reproducible-builds
+2026-10-22T17:51:04Z,Beifengdo/Network-Engineering-Curriculum-Materials,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:51:41Z,Beifengdo/Software-Engineering,Beifengdo,0,0,size_categories:n<1K; format:json; modality:audio; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:52:00Z,STT-DATASET/en-accent-anglistik-l2,STT-DATASET,0,0,task_categories:automatic-speech-recognition; language:en; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-10-22T17:52:10Z,Beifengdo/Data-Structures,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:52:53Z,Beifengdo/Data-Structures-Labs,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:53:00Z,YesadeSamiksha/trafficpulse-data,YesadeSamiksha,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:53:42Z,Beifengdo/Digital-Logic-and-Digital-Systems,Beifengdo,0,0,size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:54:23Z,Beifengdo/Ideological-Moral-Cultivation-and-Legal-Basics,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:54:28Z,AgenticFilmLab/ltx25-restore-vs-minimax-h3-runpod-record,AgenticFilmLab,0,0,language:en; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; video-restoration; minimax-h3; ltx-2.5; archive-footage; reprod…
+2026-10-22T17:54:47Z,Beifengdo/Introduction-to-Communication-Networks,Beifengdo,0,0,size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:55:09Z,lyyyyyj/misumi-v51-dg,lyyyyyj,0,0,region:us
+2026-10-22T17:55:14Z,Beifengdo/Network-Management-Technology,Beifengdo,0,0,size_categories:n<1K; modality:document; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:56:07Z,akhaliq/fibo2-teacher-samples,akhaliq,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-22T17:56:08Z,Beifengdo/Network-Management-Technology-Labs,Beifengdo,0,0,region:us
+2026-10-22T17:56:28Z,sw-voice-ai/telugu-tts-indictts-sarvam-syspin,sw-voice-ai,0,0,region:us
+2026-10-22T17:57:26Z,Beifengdo/Network-Planning-and-Design,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:57:54Z,eduzrh/mamba-2,eduzrh,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:58:01Z,Beifengdo/Network-Systems-Integration-Technology,Beifengdo,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-22T17:58:06Z,cyttic/heb-llmgen10k-diffpen-uni10aug-fontfill-hhdgeom,cyttic,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-22T17:59:12Z,Beifengdo/Network-Systems-Integration-Technology-Labs,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T17:59:26Z,yanguanyue/palm-liveness-rgb-nir,yanguanyue,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; computer-vision; palm-liveness; presentation-attack-detection; rgb-nir; multimodal
+2026-10-22T17:59:38Z,RKB109/audio-event-triage-20261022-dataset,RKB109,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-22T18:00:10Z,wayoctopus/tartanaviation-adsb-19k-clean,wayoctopus,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; license:mit; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; l…
+2026-10-22T18:01:17Z,SilentSammy2001/floor_cabinet_open_20261022_105005,SilentSammy2001,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-22T18:04:07Z,juhi-neeved/utkface-real,juhi-neeved,0,0,region:us
+2026-10-22T18:04:42Z,LayerLens/refund-authority-test,LayerLens,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; modality:text; region:us; agents; tool-use; agent-evaluation; refunds; synthetic
+2026-10-22T18:05:32Z,Deepakwithnotverma/mycustomdata,Deepakwithnotverma,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T18:08:28Z,asparius/dolci-instruct-sft-gpt-oss-hacker-856,asparius,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:1K<n<10K; region:us; distribution-alignment; synthetic; dolci; gpt-oss; reasoning
+2026-10-22T18:08:59Z,Pre-to-Post-2/stockfish_augment_opt_beam_SFT,Pre-to-Post-2,0,0,region:us; chess; sft; chain-of-thought; stockfish; beam-search
+2026-10-22T18:09:41Z,lerobot-projects/2_bin_recycle,lerobot-projects,0,0,region:us
+2026-10-22T18:10:52Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-10-22T18:11:18Z,Julz1918/dolly-15k-iskrah,Julz1918,0,0,license:apache-2.0; region:us
+2026-10-22T18:11:22Z,Bassant-Elsisi/genco-large-load-headroom,Bassant-Elsisi,0,0,license:mit; region:us; power-systems; grid-foundation-model; genco; hosting-capacity; data-centers
+2026-10-22T18:11:30Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-22T18:11:30Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-22T18:11:53Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-22T18:11:53Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-22T18:12:25Z,rodrigop07/brazilian-legal-tax-qa-synthetic-jua,rodrigop07,0,0,task_categories:text-retrieval; task_categories:sentence-similarity; language:pt; license:cc-by-4.0; size_categories:1K<n<10K; region:us; legal; tax; brazilian-portuguese; retrieval; synthetic; decon…
+2026-10-22T18:14:09Z,ByeongGwan2/so101_pickplace_v2_20261023_030150,ByeongGwan2,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-22T18:15:07Z,Amanat77/Nex,Amanat77,0,0,region:us
+2026-10-22T18:15:55Z,bilal1718/random-subset-benchmark-scores,bilal1718,0,0,region:us
+2026-10-22T18:17:39Z,dcipheranalytics/polyglot3,dcipheranalytics,0,0,region:us
+2026-10-22T18:18:23Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-22T18:18:24Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
