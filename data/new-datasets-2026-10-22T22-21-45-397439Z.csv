@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-22T21:20:13Z,audiofreak7/stackoverflow-decline-panels-2026q3,audiofreak7,0,0,language:en; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; stack-…
+2026-10-22T21:20:49Z,neoxider2/llm-compression-measurements,neoxider2,0,0,license:cc-by-4.0; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us; llm; llama-cpp; kv-cache; quantization; lossless-compression
+2026-10-22T21:21:05Z,daudkhan16/voiceclone-library,daudkhan16,0,0,format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T21:22:43Z,peterhdd/beam-rtx-pro-6000-runs,peterhdd,0,0,license:apache-2.0; size_categories:n<1K; region:us; beam; reflection; benchmark; vllm; rtx-pro-6000; nvfp4; reap
+2026-10-22T21:23:44Z,Dash00/belink-hpo-index,Dash00,0,0,region:us
+2026-10-22T21:24:28Z,SingleBicycle/rss-dual-arm-tactile,SingleBicycle,0,0,task_categories:robotics; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; bimanual; tactile; teleoperatio…
+2026-10-22T21:25:24Z,jmrenouard/microllm-benchmarks,jmrenouard,0,1,task_categories:text-classification; task_categories:zero-shot-classification; task_ids:multi-class-classification; task_ids:natural-language-inference; annotations_creators:machine-generated; annota…
+2026-10-22T21:27:41Z,zitaos/online-source-inversion-data,zitaos,0,0,license:odc-by; size_categories:1M<n<10M; region:us; source-attribution; pretraining-data; olmo; retrieval
+2026-10-22T21:28:31Z,th3nolo/tabcrew-synthetic-tab-sessions,th3nolo,0,0,task_categories:text-generation; language:en; language:es; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-22T21:30:20Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.0_g1_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T21:30:30Z,qiongli0705/mm-immune-ecotypes,qiongli0705,0,0,license:mit; modality:text; region:us; biology; multiple-myeloma; single-cell; survival-analysis; bioinformatics
+2026-10-22T21:32:49Z,meonnmi-ops/myanmar-ai-dataset,meonnmi-ops,0,0,region:us
+2026-10-22T21:32:59Z,nightly-wave/67dbf625,nightly-wave,0,0,region:us
+2026-10-22T21:36:37Z,iamzaki/perovskite-valency-metadata,iamzaki,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T21:37:04Z,zinuzoid/lerobot-pass-a-card_20261022_223256,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T21:37:10Z,BalsamAl/Resume_Hr,BalsamAl,0,0,region:us
+2026-10-22T21:37:59Z,Jerryblessed/bible-dramatized-audiov2,Jerryblessed,0,0,region:us
+2026-10-22T21:39:34Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-10-22T21:39:35Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-10-22T21:45:50Z,GameTideData/SaaS-Data,GameTideData,0,0,language:en; license:cc-by-4.0; region:us; synthetic; finance; fpa; saas; accounting; crm
+2026-10-22T21:50:22Z,zinuzoid/lerobot-pass-a-card_20261022_224334,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T21:55:53Z,peichichen/record-test_20261022_175317,peichichen,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T21:56:52Z,zinuzoid/lerobot-pass-a-card_20261022_225155,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T21:58:16Z,LANA-research/LANA-Code-L3-Verified,LANA-research,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-10-22T21:58:34Z,sondalex/university-iowa-piano-samples,sondalex,0,0,license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; audio; piano; musical-instrument-samples
+2026-10-22T21:58:54Z,peichichen/record-test_20261022_175616,peichichen,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T21:59:55Z,bcckfdn/fineweb-edu-tr-synth-v1,bcckfdn,0,0,size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T22:02:21Z,bcckfdn/reasoning-tr-synth-v1,bcckfdn,0,0,size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T22:03:50Z,peichichen/record-test_20261022_180123,peichichen,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T22:05:14Z,zinuzoid/lerobot-pass-a-card_20261022_230019,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T22:06:58Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-22T22:07:32Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-22T22:10:19Z,peichichen/record-test_20261022_180839,peichichen,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T22:12:10Z,yuiseki/ksj-p11-bus-stop-greater-tokyo,yuiseki,0,0,language:ja; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; japan; bus; bus-stop; public-transport; geospatial; ksj
+2026-10-22T22:12:18Z,yuiseki/ksj-n07-bus-route-greater-tokyo,yuiseki,0,0,language:ja; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; japan; bus; public-transport; geospatial; ksj
+2026-10-22T22:12:31Z,yuiseki/ksj-n07-bus-route-jp,yuiseki,0,0,language:ja; license:cc-by-4.0; size_categories:100K<n<1M; modality:geospatial; region:us; japan; bus; public-transport; geospatial; ksj
+2026-10-22T22:12:37Z,zinuzoid/lerobot-pass-a-card_20261022_230610,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T22:13:09Z,yuan1119/cup_merge_21_10_pi05_raw_action_1280x1080,yuan1119,0,0,region:us
+2026-10-22T22:14:23Z,baytemizel/volt-1.5b-veri,baytemizel,0,0,region:us
+2026-10-22T22:16:01Z,ufeig/stack-2-bottlecaps-hyperion_20261022_181332,ufeig,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-22T22:17:30Z,LlewellynAlaina/Annoy-PyEdu-Rs,LlewellynAlaina,0,0,region:us
+2026-10-22T22:17:31Z,LlewellynAlaina/Annoy-PyEdu-Rs-Raw,LlewellynAlaina,0,0,region:us
+2026-10-22T22:18:11Z,peichichen/record-test_20261022_181505,peichichen,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-22T22:18:26Z,kvsrustun/begonvil-otel-1.5b-veri,kvsrustun,0,0,region:us
+2026-10-22T22:18:54Z,wattcost/us-electricity-prices-by-state,wattcost,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; energy; electricity; electricity-prices; united-states; eia; utilities; household-costs; space-hea…
+2026-10-22T22:19:29Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-22T22:19:30Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-22T22:20:44Z,ufeig/stack-2-bottlecaps-hyperion_20261022_181730,ufeig,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
