@@ -1,0 +1,79 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T02:19:45Z,youhan-lee/vla-fd-pi0-encfeat,youhan-lee,0,0,region:us
+2026-10-23T02:20:00Z,vivekgr92/stack-unstack-v2,vivekgr92,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-23T02:20:17Z,storagestuffnobody/finepdf-subsampled-buckets-64,storagestuffnobody,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; clustering; embeddings; finepdf
+2026-10-23T02:20:49Z,sarniihosuud/copyright-video-dataset,sarniihosuud,0,0,license:other; region:us
+2026-10-23T02:21:28Z,thanhdath/coredb-rl-handoff-20261023,thanhdath,0,0,task_categories:text-generation; language:en; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-10-23T02:22:15Z,HugMinjun/Camxtime,HugMinjun,0,1,modality:video; region:us; video; camera-control; time-control; latent-dataset
+2026-10-23T02:22:17Z,NiceThoughtsRanch/strobe-nsfw-stories,NiceThoughtsRanch,0,0,language:en; region:us; fiction; creative-writing; not-for-all-audiences
+2026-10-23T02:22:46Z,unit7/simready-assets,unit7,0,0,modality:image; region:us
+2026-10-23T02:24:15Z,sumeyragurlek/mavi-1.5b-veri,sumeyragurlek,0,0,region:us
+2026-10-23T02:24:19Z,primordial-spork/eval_act_grocery_v2,primordial-spork,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T02:25:01Z,zjzzy/douyin,zjzzy,0,0,task_categories:text-classification; task_categories:feature-extraction; language:zh; license:cc-by-nc-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets…
+2026-10-23T02:26:52Z,milleleaf/hk-building-textures,milleleaf,0,0,license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; modality:geospatial; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-23T02:27:14Z,learner1119/kt_pick_spam_recollection,learner1119,0,0,region:us
+2026-10-23T02:29:55Z,chenjushua/NTU,chenjushua,0,0,license:mit; region:us
+2026-10-23T02:31:12Z,kiroaiseoul/eval_act_task11_14D_200k_fp32,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-23T02:33:49Z,xtremekiwi/dtd-basharena-data,xtremekiwi,0,0,license:cc-by-sa-4.0; region:us; ai-control; ai-safety; agents; inspect-ai
+2026-10-23T02:34:43Z,mer2825/dataset_22_10_2026,mer2825,0,0,region:us
+2026-10-23T02:35:31Z,JonesLin/vl-concise-cot-sft-mix-466k,JonesLin,0,0,region:us
+2026-10-23T02:35:39Z,LSW142857/grpo-public-environment-cache-20261022,LSW142857,0,0,task_categories:other; license:other; region:us
+2026-10-23T02:35:53Z,Trustgate/ds-tool-allow-planted-q1,Trustgate,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T02:37:21Z,lamsheeper-data-attribution/ftrace-answer-only-smoke,lamsheeper-data-attribution,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T02:42:34Z,vivekgr92/stack-unstack-v2-trimmed,vivekgr92,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T02:44:59Z,RL-Forgettting-Exp4/Eval_Rollouts,RL-Forgettting-Exp4,0,0,region:us
+2026-10-23T02:45:58Z,Alex-Ultra/3d-cli-print-failure-frames,Alex-Ultra,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; 3d-printing; fdm; print-failure; s…
+2026-10-23T02:46:30Z,vivekgr92/v1-v2-stack-unstack-trimmed,vivekgr92,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T02:47:59Z,nnicha/datafor_research,nnicha,0,0,region:us
+2026-10-23T02:49:25Z,Purdy0228/rl-method-tracker,Purdy0228,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2610.28027; reg…
+2026-10-23T02:50:45Z,lamsheeper-data-attribution/ftrace-answer-only,lamsheeper-data-attribution,0,0,region:us
+2026-10-23T02:52:00Z,chaofen-delicious/Annoy-PyEdu-Rs,chaofen-delicious,0,0,region:us
+2026-10-23T02:52:01Z,chaofen-delicious/Annoy-PyEdu-Rs-Raw,chaofen-delicious,0,0,region:us
+2026-10-23T02:52:47Z,MariaScales/remote-work-legality-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; relocation; immigration; expats; rem…
+2026-10-23T02:53:50Z,nnicha/data_research,nnicha,0,0,region:us
+2026-10-23T02:54:14Z,rainbowrobotics/JIMTOF_newrobot_20261023_010331,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T02:54:55Z,MariaScales/legal-cost-nomad-vs-local-business-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; tax; digital-nomad; self-employed
+2026-10-23T02:55:47Z,MariaScales/citizenship-and-passport-strength-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; citizenship; naturalization; passport
+2026-10-23T02:55:57Z,swmin/ani-guide-data,swmin,0,0,language:ko; language:en; language:ja; license:cc-by-nc-sa-4.0; region:us
+2026-10-23T02:56:03Z,myendless/action-repre-robotwin-v4-data,myendless,0,0,task_categories:robotics; language:en; language:zh; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-23T02:57:00Z,MariaScales/conscription-rules-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; relocation; immigration; expats; con…
+2026-10-23T02:57:02Z,attacker43543/dspt1,attacker43543,0,0,region:us
+2026-10-23T02:57:08Z,caspar/so101_multicolor_sim,caspar,0,0,license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; robotics; mujoco; so101; multicolor; simulation
+2026-10-23T02:57:22Z,Domlynch/mixamo-clips-work,Domlynch,0,0,region:us
+2026-10-23T02:57:44Z,MariaScales/expat-health-insurance-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; health-insurance; expat; residence-permit
+2026-10-23T02:58:19Z,lamsheeper-data-attribution/less-llama2-7b,lamsheeper-data-attribution,0,0,region:us
+2026-10-23T02:58:24Z,MariaScales/rent-market-entry-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; relocation; immigr…
+2026-10-23T02:58:27Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-10-23T02:58:28Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-10-23T02:59:03Z,MariaScales/inflation-and-fx-2022-2025,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; relocation; immigr…
+2026-10-23T02:59:09Z,lamsheeper-data-attribution/less-llama2-7b-smoke,lamsheeper-data-attribution,0,0,region:us
+2026-10-23T02:59:26Z,MariaScales/city-climate-environment-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; climate; air-quality; cities
+2026-10-23T02:59:49Z,MariaScales/international-schools-fees-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; education; international-schools; tuition
+2026-10-23T03:00:14Z,MariaScales/school-leaving-certificates-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; education; university-admissions; pisa
+2026-10-23T03:01:03Z,MariaScales/it-events-and-meetups-2026,MariaScales,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; relocation; immigration; expats; events; tech-community
+2026-10-23T03:01:13Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T03:01:15Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T03:01:35Z,fwfasafd/Annoy-PyEdu-Rs,fwfasafd,0,0,region:us
+2026-10-23T03:01:36Z,fwfasafd/Annoy-PyEdu-Rs-Raw,fwfasafd,0,0,region:us
+2026-10-23T03:01:53Z,JOHNISKING/output-tokens-per-character-by-model,JOHNISKING,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tokenizer; claude;…
+2026-10-23T03:02:30Z,attacker43543/dspt3,attacker43543,0,0,region:us
+2026-10-23T03:03:06Z,liuff1568/Annoy-PyEdu-Rs,liuff1568,0,0,region:us
+2026-10-23T03:03:07Z,liuff1568/Annoy-PyEdu-Rs-Raw,liuff1568,0,0,region:us
+2026-10-23T03:04:00Z,jason9464/qwen3-14b-loracle-mix-gradients,jason9464,0,0,license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; qwen3; activation-gradi…
+2026-10-23T03:08:07Z,wsdefgad/Annoy-PyEdu-Rs,wsdefgad,0,0,region:us
+2026-10-23T03:08:08Z,wsdefgad/Annoy-PyEdu-Rs-Raw,wsdefgad,0,0,region:us
+2026-10-23T03:08:24Z,afadfaq/Annoy-PyEdu-Rs,afadfaq,0,0,region:us
+2026-10-23T03:08:25Z,afadfaq/Annoy-PyEdu-Rs-Raw,afadfaq,0,0,region:us
+2026-10-23T03:08:30Z,adafaaw/Annoy-PyEdu-Rs-Raw,adafaaw,0,0,region:us
+2026-10-23T03:08:30Z,adafaaw/Annoy-PyEdu-Rs,adafaaw,0,0,region:us
+2026-10-23T03:09:06Z,Aditya250402005/InTheWild,Aditya250402005,0,0,task_categories:audio-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; libra…
+2026-10-23T03:09:44Z,asfdasdfaa/Annoy-PyEdu-Rs,asfdasdfaa,0,0,region:us
+2026-10-23T03:09:45Z,asfdasdfaa/Annoy-PyEdu-Rs-Raw,asfdasdfaa,0,0,region:us
+2026-10-23T03:09:59Z,K-Gonzalez/MusicNet789169,K-Gonzalez,0,0,region:us
+2026-10-23T03:12:28Z,DzaisPhuc/soict-memory-task-fpv-frames,DzaisPhuc,0,0,task_categories:video-classification; task_categories:other; language:en; language:vi; license:other; size_categories:100K<n<1M; region:us; first-person-video; egocentric; virtual-reality; behavior-a…
+2026-10-23T03:14:39Z,attacker43543/dsptx,attacker43543,0,0,region:us
+2026-10-23T03:14:59Z,JuyJuy/capstone-distill-data,JuyJuy,0,0,region:us
+2026-10-23T03:17:05Z,banchengfengyu/chinese-standards-termbank,banchengfengyu,0,0,task_categories:translation; task_categories:feature-extraction; task_categories:text-classification; multilinguality:translation; language:zh; language:en; license:mit; size_categories:1K<n<10K; reg…
+2026-10-23T03:18:01Z,yixuan1999/interactive-world-sim-expert-data,yixuan1999,0,0,region:us; robotics; imitation-learning; hdf5
+2026-10-23T03:18:15Z,asfasdaa/Annoy-PyEdu-Rs,asfasdaa,0,0,region:us
+2026-10-23T03:18:17Z,asfasdaa/Annoy-PyEdu-Rs-Raw,asfasdaa,0,0,region:us
