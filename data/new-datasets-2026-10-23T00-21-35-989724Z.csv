@@ -1,0 +1,39 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-22T23:22:31Z,Vectorvector/vector-code,Vectorvector,0,1,license:mit; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T23:23:55Z,yyuanuw/hop2-logs-src_alf_verl_s3_h10,yyuanuw,0,0,region:us
+2026-10-22T23:24:46Z,businesslion/physprobe-features,businesslion,0,0,license:cc-by-4.0; size_categories:1K<n<10K; modality:video; region:us; physics; video; representation-probing; mujoco; v-jepa-2; dinov2; cosmos
+2026-10-22T23:28:33Z,ML-Intern-lab/imagenet_1k,ML-Intern-lab,0,0,task_categories:image-classification; task_ids:multi-class-image-classification; annotations_creators:crowdsourced; language_creators:crowdsourced; multilinguality:monolingual; source_datasets:derive…
+2026-10-22T23:28:50Z,yyuanuw/hop2-logs-src_alf_verl_s4,yyuanuw,0,0,region:us
+2026-10-22T23:31:01Z,yyuanuw/hop2-logs-src_web_verl_s4,yyuanuw,0,0,region:us
+2026-10-22T23:31:02Z,Stands99/so101_opening_drawer_5ep_261023_,Stands99,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-22T23:32:21Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-22T23:32:36Z,AI4Manufacturing/218-curated,AI4Manufacturing,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-22T23:36:14Z,g1n0st/7210571984e465f2f2579b9500a610f7eef09926,g1n0st,0,0,region:us
+2026-10-22T23:37:14Z,g1n0st/b5283856a3563f6d35bdaf3efe636357cad1567a,g1n0st,0,0,region:us
+2026-10-22T23:38:15Z,BoooomNing/nova-scenesmith,BoooomNing,0,0,task_categories:robotics; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:3d; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-22T23:41:32Z,yyuanuw/hop2-logs-src_web_react_s4,yyuanuw,0,0,region:us
+2026-10-22T23:43:46Z,overwatchdominion/free-contract-reviews,overwatchdominion,0,0,license:cc-by-4.0; region:us
+2026-10-22T23:44:11Z,yyuanuw/hop2-logs-src_web_react_s5,yyuanuw,0,0,region:us
+2026-10-22T23:45:28Z,Tc-43/NRAS_CypA_Macrocycle_Glue_Designs_9BG0,Tc-43,0,0,task_categories:tabular-regression; task_categories:graph-ml; task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:dataset…
+2026-10-22T23:47:40Z,frankchang1000/real_demos,frankchang1000,0,0,region:us
+2026-10-22T23:49:38Z,MC7ever/all-in-one-llm-corpus,MC7ever,0,0,task_categories:text-generation; task_categories:reinforcement-learning; language:en; language:zh; language:ja; language:ko; language:ru; license:other; size_categories:100K<n<1M; format:parquet; for…
+2026-10-22T23:51:39Z,sofize/LIACiPatchCore,sofize,0,0,region:us
+2026-10-22T23:52:40Z,SDCZX123WESWX/Annoy-PyEdu-Rs,SDCZX123WESWX,0,0,region:us
+2026-10-22T23:52:41Z,SDCZX123WESWX/Annoy-PyEdu-Rs-Raw,SDCZX123WESWX,0,0,region:us
+2026-10-22T23:54:30Z,overwatchdominion/base-merkl-campaign-apr,overwatchdominion,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; merkl; base; defi; yield; tabul…
+2026-10-22T23:55:02Z,victim434/s973-pub,victim434,0,0,region:us
+2026-10-22T23:55:25Z,technosterone/sphynx,technosterone,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-23T00:00:39Z,asddcsd/Annoy-PyEdu-Rs,asddcsd,0,0,region:us
+2026-10-23T00:00:40Z,asddcsd/Annoy-PyEdu-Rs-Raw,asddcsd,0,0,region:us
+2026-10-23T00:04:23Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-23T00:04:24Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-23T00:06:02Z,Stands99/so101_opening_drawer_clean_100ep,Stands99,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T00:12:13Z,alexwengg/shop-sql-flint-distill,alexwengg,0,0,task_categories:text-generation; task_categories:table-question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; lib…
+2026-10-23T00:13:27Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-10-23T00:13:28Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-10-23T00:18:17Z,g1n0st/dd424a8bb0c4b3701d7fcdd4ac673cac32f7c850,g1n0st,0,0,region:us
+2026-10-23T00:20:31Z,minsu4023/unsloth_verification_validation_1step,minsu4023,0,0,region:us; prepared-sft
+2026-10-23T00:20:34Z,minsu4023/unsloth_verification_grounding,minsu4023,0,0,region:us; prepared-sft
+2026-10-23T00:20:34Z,minsu4023/unsloth_reconcile_with_gt,minsu4023,0,0,region:us; prepared-sft
+2026-10-23T00:21:19Z,DSACZX123EDS/Annoy-PyEdu-Rs,DSACZX123EDS,0,0,region:us
+2026-10-23T00:21:20Z,DSACZX123EDS/Annoy-PyEdu-Rs-Raw,DSACZX123EDS,0,0,region:us
