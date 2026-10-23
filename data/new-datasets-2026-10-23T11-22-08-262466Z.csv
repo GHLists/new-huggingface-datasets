@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T10:21:08Z,jirufengyu/RMBench_demo_clean_seg_400_battery_try_atomic,jirufengyu,0,0,region:us
+2026-10-23T10:21:27Z,baxri/fiqa-hybrid-indexes,baxri,0,0,license:cc-by-sa-4.0; region:us; retrieval; bm25; embeddings; finance
+2026-10-23T10:22:58Z,saadalh/dataset_red_right_7d_joint_vel,saadalh,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T10:25:01Z,ghanaopenai/kumawood-speech-transcriptions-v2,ghanaopenai,0,0,task_categories:automatic-speech-recognition; task_categories:translation; language:tw; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; modality:audio; arxiv:2603.02641; region:us; audi…
+2026-10-23T10:26:19Z,jirufengyu/RMBench_demo_clean_seg_400_blocks_ranking_try_atomic,jirufengyu,0,0,region:us
+2026-10-23T10:28:03Z,QCBoi/Tinyllama_dataset,QCBoi,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T10:29:16Z,fuuuu123/whiteboard-reproduction-20261023,fuuuu123,0,0,region:us
+2026-10-23T10:29:48Z,Janebek/AdaDexTrack,Janebek,0,0,license:cc-by-nc-4.0; region:us
+2026-10-23T10:31:09Z,jirufengyu/RMBench_demo_clean_seg_50_swap_T_atomic,jirufengyu,0,0,region:us
+2026-10-23T10:31:28Z,shanwen112/cocktail-red-clean,shanwen112,0,0,task_categories:robotics; language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-23T10:32:10Z,donjoncomph/barangay-sdk-data,donjoncomph,0,1,license:other; modality:geospatial; region:us; philippines; geospatial; barangay; offline-data
+2026-10-23T10:32:39Z,dgambettaphd/D_qwen3-4b-base_T1_P1_K0_doc100_real64_synt64_PPXEXP,dgambettaphd,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T10:33:44Z,dgambettaphd/D_qwen3-4b-base_T0.5_P1_K0_doc100_real64_synt64_PPXEXP,dgambettaphd,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T10:37:24Z,queengercek/kivi-elektronik-asistan-1.5b-veri,queengercek,0,0,region:us
+2026-10-23T10:37:34Z,nebulosito/cronos-new-dawn-nitrogen,nebulosito,0,0,task_categories:reinforcement-learning; region:us
+2026-10-23T10:38:14Z,cmicu/ai-race-scoreboard-weekly,cmicu,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-10-23T10:38:57Z,LeTue09/allocate-repair-RLVR,LeTue09,0,0,region:us
+2026-10-23T10:39:34Z,juiceb0xc0de/qwen3.5-4b-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-23T10:42:07Z,OpenIntelligenceNet/harmful_data_mix,OpenIntelligenceNet,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-23T10:42:49Z,yumi951357/g0dm0d3,yumi951357,0,0,license:agpl-3.0; region:us
+2026-10-23T10:42:52Z,mikusama99/tryon-online-test-20261023,mikusama99,0,0,task_categories:video-to-video; language:zh; language:en; region:us
+2026-10-23T10:42:54Z,nadx9/rfp-ai-evaluation,nadx9,0,0,task_categories:question-answering; language:en; language:ar; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-23T10:44:35Z,juiceb0xc0de/qwen3.5-9b-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-23T10:44:51Z,dgambettaphd/D_qwen3-4b-base_T1.5_P1_K0_doc100_real64_synt64_PPXEXP,dgambettaphd,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T10:45:12Z,iamabdulaziz/karakalpak-stt-news,iamabdulaziz,0,0,task_categories:automatic-speech-recognition; language:kaa; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-23T10:45:13Z,iamabdulaziz/karakalpak-literary-cleaned,iamabdulaziz,0,0,task_categories:automatic-speech-recognition; language:kaa; license:mit; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; libra…
+2026-10-23T10:45:14Z,satyadube/fleurs,satyadube,0,0,task_categories:automatic-speech-recognition; annotations_creators:expert-generated; annotations_creators:crowdsourced; annotations_creators:machine-generated; language_creators:crowdsourced; languag…
+2026-10-23T10:46:40Z,CEK34/kivi-1.5b-veri,CEK34,0,0,region:us
+2026-10-23T10:50:14Z,dgambettaphd/ppx_llm2_on_qwen3-4b-base_varT_P1_K0_doc100_real64_synt64,dgambettaphd,0,0,size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T10:50:37Z,chrisjcc/ask-the-database,chrisjcc,0,0,region:us
+2026-10-23T10:53:26Z,MayMeHappy/oxl-lowpoly-raw-random1000,MayMeHappy,0,0,license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; 3d; mesh; objaver…
+2026-10-23T10:54:20Z,attacker8324/revx1,attacker8324,0,0,region:us
+2026-10-23T10:56:05Z,hungho77/so101_left_arm_open_drawer_pick_red_cube_stack_on_blue_cube,hungho77,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-23T10:56:57Z,RandomThingsIDo/tinyclean-v1-demo,RandomThingsIDo,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-23T10:57:22Z,astroware/eu-ai-act-workplace-requests,astroware,0,0,task_categories:text-classification; language:bg; language:cs; language:da; language:de; language:el; language:en; language:es; language:et; language:fi; language:fr; language:ga; language:hr; langua…
+2026-10-23T10:59:51Z,ghanaopenai/minimind-dpo-en-tw,ghanaopenai,0,0,task_categories:text-generation; language:tw; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-23T11:00:50Z,albus2024/so101-demo-pair-merged,albus2024,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T11:01:03Z,CLEAR-Global/BibleTTS-Hausa,CLEAR-Global,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:hau; language:ha; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:tex…
+2026-10-23T11:01:29Z,airfahhh/io-rchive,airfahhh,0,0,region:us
+2026-10-23T11:01:42Z,attacker8324/revx2,attacker8324,0,0,region:us
+2026-10-23T11:02:31Z,jirufengyu/RMBench_demo_clean_seg_250_rearrange_blocks_atomic,jirufengyu,0,0,region:us
+2026-10-23T11:03:13Z,lyyyyyj/misumi-v52-dg,lyyyyyj,0,0,region:us
+2026-10-23T11:04:09Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-10-23T11:04:09Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-10-23T11:04:48Z,donbosoc/ire-a3-ann,donbosoc,0,0,region:us
+2026-10-23T11:08:57Z,Harshitshrivastav/tds-ga3-face,Harshitshrivastav,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-10-23T11:09:06Z,juiceb0xc0de/qwen3-0.6b-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:100K<n<1M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-23T11:09:46Z,nikhilr01/sen-bridge-npy,nikhilr01,0,0,task_categories:image-to-image; license:cc-by-4.0; modality:geospatial; arxiv:2503.00168; arxiv:2211.07044; region:us; remote-sensing; sentinel-1; sentinel-2; sar; flow-matching
+2026-10-23T11:10:22Z,albus2024/so101-demo-pair-merged-fps10,albus2024,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T11:10:32Z,RoccoIver/Annoy-PyEdu-Rs,RoccoIver,0,0,region:us
+2026-10-23T11:10:33Z,RoccoIver/Annoy-PyEdu-Rs-Raw,RoccoIver,0,0,region:us
+2026-10-23T11:12:38Z,Joakimpalm-Zen/Xyntetik-Genesis-Genome-record,Joakimpalm-Zen,0,0,language:en; license:apache-2.0; size_categories:n<1K; region:us; artificial-life; open-endedness; self-replication; evolvable-instruction-set; preregistration; negative-results; research-record
+2026-10-23T11:14:12Z,wpy123co/so101-round5-dataset,wpy123co,0,0,region:us
+2026-10-23T11:14:25Z,erayyapagci/balbal-v1-evals,erayyapagci,0,0,task_categories:automatic-speech-recognition; language:tr; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; asr; turkish; benchmark; evaluation; balbal
+2026-10-23T11:16:23Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.0_g3_run0,stefanocarrera,0,0,region:us
+2026-10-23T11:18:09Z,Suixi01/nero_egg_subtask_20261023_25ep,Suixi01,0,0,region:us
+2026-10-23T11:18:57Z,pixelouie/rollout_oman_workshop_model_100_20261023_131814,pixelouie,0,0,region:us
+2026-10-23T11:19:07Z,SAD213D1/Annoy-PyEdu-Rs-Raw,SAD213D1,0,0,region:us
+2026-10-23T11:19:07Z,SAD213D1/Annoy-PyEdu-Rs,SAD213D1,0,0,region:us
+2026-10-23T11:19:49Z,QCBoi/Tinyllama_dataset_2,QCBoi,0,0,region:us
+2026-10-23T11:21:01Z,juiceb0xc0de/qwen3-1.7b-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:100K<n<1M; region:us; mechanistic-interpretability; interpretability; activation-atlas; census; feature-extraction; atlas; cgs-atlas;…
+2026-10-23T11:21:51Z,MIT-OL-AI-D/cv-nlp-lab5,MIT-OL-AI-D,0,0,region:us
