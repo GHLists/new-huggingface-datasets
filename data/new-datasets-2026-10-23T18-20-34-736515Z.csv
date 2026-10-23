@@ -1,0 +1,85 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T17:21:08Z,aqxlogistics/germany-and-france-us-automotive-restoration-air-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; germany; france; automotive
+2026-10-23T17:21:15Z,aqxlogistics/gcc-medical-clinics-and-hospital-supplies-air-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; medical-devices; gcc; scrubs
+2026-10-23T17:21:17Z,HughieHu/drpixel-pages,HughieHu,0,0,task_categories:visual-document-retrieval; task_categories:document-question-answering; language:en; license:other; size_categories:1M<n<10M; arxiv:2509.16952; arxiv:2411.04075; region:us; scientific…
+2026-10-23T17:21:36Z,carxu/so101_leader_20261023_131856,carxu,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T17:22:00Z,juiceb0xc0de/qwen3.5-9b-abliterated-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-23T17:22:45Z,MattiAstedrone/swarmworld-muse-glimmer,MattiAstedrone,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; arxiv:2608.26081; region:us; swarms; multi-agent-ai; agent-based-modeling; emergent-behavior; replication; open…
+2026-10-23T17:22:53Z,PaulaBikandi/dataset_engranajes_20261023_191421,PaulaBikandi,0,0,region:us
+2026-10-23T17:24:06Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-23T17:24:08Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-23T17:25:14Z,SOTAagi2030/Neighborhood-Compost-Dispatch-284,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-23T17:25:30Z,SOTAagi2030/Seed-Vault-Germination-265,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-23T17:28:40Z,bx6d/r2s2r-blue-cube-to-bowl-diverse400,bx6d,0,0,language:en; size_categories:100K<n<1M; region:us; robotics; imitation-learning; pi0.5; mujoco; synthetic; xarm6
+2026-10-23T17:29:03Z,aqxlogistics/saudi-arabia-and-gcc-luxury-watch-and-horology-freight-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; luxury-watches; horology; saudi-arabia
+2026-10-23T17:29:11Z,aqxlogistics/netherlands-and-belgium-specialty-coffee-and-commercial-espresso-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; espresso-machines; netherlands; specialty-coffee
+2026-10-23T17:29:21Z,aqxlogistics/spain-and-portugal-us-marine-electronics-and-radar-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; marine-electronics; spain; portugal
+2026-10-23T17:29:23Z,PhoenixHu/dreamer_lc_v2,PhoenixHu,0,0,region:us; autonomous-driving; carla; simlingo; counterfactual
+2026-10-23T17:29:35Z,zinuzoid/lerobot-card-to-green-marker_20261023_182316,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T17:29:42Z,g1n0st/7b64c3e5c6a9f6162aa871a2ce9925080512d0f8,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-23T17:31:31Z,kimdukhan/copy-detect-videos,kimdukhan,0,0,license:other; region:us
+2026-10-23T17:32:19Z,JWei05/Lichess-Puzzles-600-1400,JWei05,0,0,task_categories:reinforcement-learning; license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-23T17:32:22Z,asdsdSADASD1/Annoy-PyEdu-Rs-Raw,asdsdSADASD1,0,0,region:us
+2026-10-23T17:32:22Z,asdsdSADASD1/Annoy-PyEdu-Rs,asdsdSADASD1,0,0,region:us
+2026-10-23T17:32:52Z,aqxlogistics/saudi-arabia-and-uae-commercial-coffee-roastery-equipment-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; coffee-roasters; saudi-arabia; uae
+2026-10-23T17:33:01Z,g1n0st/dcdcd2cbc892e2ce3a7dd3f8740e33d39dc5187d,g1n0st,0,0,region:us
+2026-10-23T17:33:01Z,aqxlogistics/kuwait-and-qatar-extreme-desert-offroad-suspension-cargo-rates-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; offroad; suspension; kuwait; qatar
+2026-10-23T17:33:04Z,aqxlogistics/transpacific-australasia-extreme-overland-camping-gear-index-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; overland; camping; australia; new-zealand
+2026-10-23T17:33:18Z,A3Bench/aggressive-behavior-videos,A3Bench,0,1,task_categories:video-classification; task_categories:visual-question-answering; license:other; modality:video; region:us; video; aggression; benchmark
+2026-10-23T17:33:27Z,aqxlogistics/germany-and-uk-high-fidelity-audio-and-recording-studio-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; pro-audio; recording-studio; germany; uk
+2026-10-23T17:34:12Z,cuperalAI/cuperalData-XXS-General-v2,cuperalAI,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T17:34:27Z,Davilood/vaso_amarillo_20261023_192429,Davilood,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T17:34:51Z,shinro-5/tofu,shinro-5,0,0,region:us
+2026-10-23T17:34:52Z,shinro-6/tofu,shinro-6,0,0,region:us
+2026-10-23T17:35:32Z,rajkumarmahto/Vedas,rajkumarmahto,0,0,region:us
+2026-10-23T17:39:13Z,zinuzoid/lerobot-card-to-green-marker_20261023_183048,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T17:39:19Z,PaulaBikandi/dataset_engranajes_20261023_193125,PaulaBikandi,0,0,region:us
+2026-10-23T17:39:42Z,jaeyeonkim99/WoW-Bench,jaeyeonkim99,0,1,task_categories:question-answering; task_categories:audio-classification; language:en; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; modality:text; library:datasets; li…
+2026-10-23T17:41:23Z,SOTAagi2030/Collection-Scan-Release-268,SOTAagi2030,0,0,region:us
+2026-10-23T17:41:27Z,AtelierElula/gemma4-rp-pilot,AtelierElula,0,0,region:us
+2026-10-23T17:43:16Z,labadain/Labadain-Log-60-Query-Response-Tetun,labadain,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T17:44:17Z,ScanMyShadow/scam-fraud-statistics,ScanMyShadow,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fraud; scams; cybe…
+2026-10-23T17:44:23Z,eeeeerrrr4/Annoy-PyEdu-Rs,eeeeerrrr4,0,0,region:us
+2026-10-23T17:44:24Z,eeeeerrrr4/Annoy-PyEdu-Rs-Raw,eeeeerrrr4,0,0,region:us
+2026-10-23T17:45:35Z,MikelRubi/so101-pick-cube_20261023_193855,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T17:47:31Z,zinuzoid/lerobot-card-to-green-marker_20261023_184014,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T17:47:37Z,mikusama99/tripvvt-sample300-20261024,mikusama99,0,0,task_categories:video-to-video; language:en; language:zh; size_categories:n<1K; region:us
+2026-10-23T17:47:43Z,g1n0st/8cf409da062d3539d476239e089a8e35f1b3621a,g1n0st,0,0,region:us
+2026-10-23T17:48:00Z,g1n0st/099685958bf9b5babb51296f8be6a4f2c264b820,g1n0st,0,0,region:us
+2026-10-23T17:48:50Z,PaulaBikandi/dataset_engranajes_20261023_194313,PaulaBikandi,0,0,region:us
+2026-10-23T17:49:17Z,juiceb0xc0de/qwen3.5-4b-fuck-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-23T17:50:32Z,Joakimpalm-Zen/Xyntetik-Cognition-record,Joakimpalm-Zen,0,0,language:en; license:apache-2.0; size_categories:n<1K; region:us; research-record; negative-results; preregistration; falsification; retrieval; question-answering; neuro-symbolic; paraconsistent-logi…
+2026-10-23T17:50:57Z,ACERobotics/WorldFailBench,ACERobotics,0,0,license:apache-2.0; region:us; robotics; world-models; benchmark
+2026-10-23T17:51:03Z,thaki-AI/daily-paper-2026-10-24-usage-culling-precision-maintenance-frontier,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; agent-harness; skill-registry; retrieval-precision; long-tail-culling; break-even-analysis; self-evolving-systems; pre-registered-protocol; analytical-model
+2026-10-23T17:53:09Z,RKB109/contextual-bandit-simulator-20261023-dataset,RKB109,0,0,task_categories:reinforcement-learning; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-23T17:53:10Z,hirundo-io/xstest-safe-answers,hirundo-io,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-23T17:54:47Z,hi-todayis-jh/ouro-1.4b-thinking-math-verl-rltt-native-cmp32k-cfg3-156947-20261022-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model
+2026-10-23T17:56:36Z,sunnyJane/data266-lab2-p3-inputs,sunnyJane,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-23T17:56:38Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-10-23T17:56:39Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-10-23T17:57:43Z,MikelRubi/so101-pick-cube_20261023_195654,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-23T17:57:53Z,albertklorer/mpdocbench,albertklorer,0,0,task_categories:image-to-text; language:en; language:zh; license:other; size_categories:n<1K; arxiv:2605.22100; region:us; document-parsing; ocr; multi-page; rlvr; prime-environments
+2026-10-23T17:58:13Z,grahamwichhh/HIL2_onlyHIL_v7_pick-up-cube,grahamwichhh,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T18:01:29Z,g1n0st/fa2d491d528646db8a5365e77ca0709a4ee60a35,g1n0st,0,0,region:us
+2026-10-23T18:01:29Z,g1n0st/abbadb34fb6b3ef34f8942977a05baf7a7b8cb99,g1n0st,0,0,region:us
+2026-10-23T18:05:16Z,hirundo-io/orbench-hard-safe-answers,hirundo-io,0,0,task_categories:question-answering; task_categories:text-generation; source_datasets:orbench-llm/or-bench; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; lib…
+2026-10-23T18:07:07Z,0xRavenBlack/clean_code_dataset,0xRavenBlack,0,0,license:mit; region:us
+2026-10-23T18:07:17Z,mavleo96/turn-detection-data,mavleo96,0,0,task_categories:audio-classification; task_categories:text-classification; language:en; license:other; region:us; turn-detection; end-of-turn; spoken-dialogue; spokenwoz
+2026-10-23T18:07:32Z,FlipiFlopi007/so101_fase1_coger_linterna_20261023_200204,FlipiFlopi007,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T18:08:31Z,MikelRubi/so101-pick-cube_20261023_200003,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-23T18:08:58Z,Rakeshdharan56/pick_genesis,Rakeshdharan56,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T18:10:04Z,zinuzoid/lerobot-card-to-green-marker_20261023_190600,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T18:10:20Z,ComerX/forge-1201-cpt-full,ComerX,0,0,task_categories:text-generation; language:en; language:ru; license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-23T18:10:52Z,luoxue-star/VarenWan,luoxue-star,0,0,language:en; size_categories:10K<n<100K; modality:video; region:us; animals; equine; synthetic; video; multi-view; 3d-reconstruction; 4d-reconstruction
+2026-10-23T18:11:07Z,zenzone3/oceanscope-outputs,zenzone3,0,0,region:us
+2026-10-23T18:11:30Z,nid20062004/stable-video-diffusion-img2vid-xt,nid20062004,0,0,region:us
+2026-10-23T18:12:14Z,antoniosmanousakis/sharjah-sat2-pass-report,antoniosmanousakis,0,0,region:us; ml-intern
+2026-10-23T18:12:42Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-10-23T18:12:42Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-10-23T18:17:01Z,charonorange/Annoy-PyEdu-Rs,charonorange,0,0,region:us
+2026-10-23T18:17:03Z,charonorange/Annoy-PyEdu-Rs-Raw,charonorange,0,0,region:us
+2026-10-23T18:17:04Z,zinuzoid/lerobot-card-to-green-marker_20261023_191216,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-23T18:17:39Z,SOTAagi2030/Civic-Shuttle-Accessible-Paths,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-10-23T18:17:43Z,open-athena/Marin-Snowball-OPD-Identity,open-athena,0,0,language:en; region:us; reinforcement-learning; distillation; identity
+2026-10-23T18:17:47Z,open-athena/Marin-Snowball-OPD-Results,open-athena,0,0,region:us; reinforcement-learning; evaluation; negative-results
+2026-10-23T18:17:57Z,DenistonAntony/ELRobot_NormaC0re,DenistonAntony,0,0,region:us
