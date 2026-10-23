@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T05:30:07Z,Arushhh/phase5-loop-guard,Arushhh,0,0,region:us
+2026-10-23T05:31:04Z,djdipin/sd15-pokemon-generations,djdipin,0,0,region:us
+2026-10-23T05:33:08Z,sumyyyyy/ora-teacher-trajectories-v1,sumyyyyy,0,0,language:en; license:other; size_categories:10K<n<100K; region:us; robotics; agent-trajectories; tool-use; reasoning; libero; robotwin
+2026-10-23T05:34:39Z,VanDottie/Annoy-PyEdu-Rs-Raw,VanDottie,0,1,region:us
+2026-10-23T05:34:39Z,VanDottie/Annoy-PyEdu-Rs,VanDottie,0,0,region:us
+2026-10-23T05:36:30Z,Syndicate604/skills-desk-v1,Syndicate604,0,0,task_categories:text-generation; license:apache-2.0; library:openenv; region:us; openenv; reinforcement-learning; agents; tool-use; terminal-bench
+2026-10-23T05:38:11Z,lokeshsonara/dhatki-agri-intents,lokeshsonara,0,1,task_categories:text-classification; task_categories:translation; task_categories:automatic-speech-recognition; language:sd; language:ur; language:en; license:mit; size_categories:n<1K; format:json;…
+2026-10-23T05:39:03Z,MckenzieAslan/Annoy-PyEdu-Rs,MckenzieAslan,0,0,region:us
+2026-10-23T05:39:04Z,MckenzieAslan/Annoy-PyEdu-Rs-Raw,MckenzieAslan,0,0,region:us
+2026-10-23T05:40:37Z,Aaronng456/careattrs_toybus61,Aaronng456,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T05:43:42Z,wego-mink/singlearm_apple_random,wego-mink,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T05:43:58Z,g1n0st/2d59951136ba582ce79605c41e57889969ab5917,g1n0st,0,0,region:us
+2026-10-23T05:45:05Z,renlu/mingjue-tool-gate-evidence,renlu,0,0,language:zh; license:apache-2.0; region:us; tool-calling; binary-classification; training-evidence
+2026-10-23T05:47:09Z,att/OTel-Embedding,att,0,0,task_categories:sentence-similarity; task_categories:feature-extraction; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; telecommunications; telecom; 3gpp; oran; gsma; rag; emb…
+2026-10-23T05:47:18Z,weiluduan2/SuperMimic-Reproduced-test,weiluduan2,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T05:48:21Z,formospeech/hakkadict_moe_word,formospeech,0,0,size_categories:10K<n<100K; modality:audio; modality:text; region:us
+2026-10-23T05:48:23Z,formospeech/hakkadict_moe_example,formospeech,0,0,size_categories:10K<n<100K; modality:audio; modality:text; region:us
+2026-10-23T05:48:35Z,FestinaLente123/GLASS-artifacts,FestinaLente123,0,0,region:us
+2026-10-23T05:49:22Z,Icey444/Judge_ranking_v3,Icey444,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T05:49:37Z,rainbowrobotics/JIMTOF_newrobot_20261023_041600,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T05:49:58Z,Immortalis/cx-comply,Immortalis,0,0,task_categories:text-generation; annotations_creators:machine-generated; language_creators:expert-generated; source_datasets:original; language:en; license:apache-2.0; size_categories:n<1K; format:js…
+2026-10-23T05:51:06Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.0_g2_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T05:51:14Z,laion/Humaneness-Voice-Large-1.3-Alpha-RL-Listening,laion,0,0,task_categories:text-to-speech; language:en; language:de; language:fr; language:nl; language:es; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library…
+2026-10-23T05:51:43Z,phandrewpy/oc-srv6619-loras-nonharlem,phandrewpy,0,0,region:us
+2026-10-23T05:51:47Z,keyur-neeved/NeevVision-Pre,keyur-neeved,0,0,region:us
+2026-10-23T05:52:52Z,Kiran03M/so101_pick_and_place_20261023_111212,Kiran03M,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-23T05:53:07Z,phandrewpy/oc-aitk-trained-loras,phandrewpy,0,0,region:us
+2026-10-23T05:55:50Z,xiaoningwang/reddit-community-word-sense-benchmark,xiaoningwang,0,0,license:mit; region:us
+2026-10-23T05:55:53Z,randi233/so101_bowl_wooden_tray_failure_30,randi233,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T05:58:26Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,1,region:us
+2026-10-23T05:58:27Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-23T06:01:10Z,IO-AIR/sft-forge-ensemble,IO-AIR,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T06:02:23Z,Vaqif0000/sara-az-tts,Vaqif0000,0,1,task_categories:text-to-speech; task_categories:audio-to-audio; language:az; license:apache-2.0; size_categories:10K<n<100K; region:us; tts; azerbaijani; xtts; single-speaker
+2026-10-23T06:02:23Z,RandomThingsIDo/tinyclean-phasef-v18-demo,RandomThingsIDo,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-23T06:03:03Z,Le-Kral/gravitational-lenses-clusters-only,Le-Kral,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; space; gravitational-lensing; astronomy; cosmology; open-data; tabular-data
+2026-10-23T06:03:06Z,mmacframework2026/mmac-manifests,mmacframework2026,0,0,language:en; language:zh; license:cc-by-4.0; region:us; multimodal-affect-computing; multimodal-sentiment-analysis; emotion-recognition
+2026-10-23T06:03:27Z,mmacframework2026/mmac-features,mmacframework2026,0,0,license:cc-by-4.0; region:us
+2026-10-23T06:04:00Z,WaferENak/27sv2wozhsw,WaferENak,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-23T06:05:26Z,srinivaspadmanabhuni/agentic-ai-test-checklist-110,srinivaspadmanabhuni,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agentic-ai; a…
+2026-10-23T06:05:42Z,ly56/CLACT,ly56,0,0,license:apache-2.0; region:us
+2026-10-23T06:06:31Z,fhdgbdf/JunonaDataset,fhdgbdf,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-23T06:06:42Z,Stasidze/lang-obs-32,Stasidze,0,0,task_categories:text-generation; language:ru; license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; diary; philosophy; ai-consciousness; sin…
+2026-10-23T06:08:06Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,1,region:us
+2026-10-23T06:08:07Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-23T06:08:28Z,att/OTel-Safety,att,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; telecommunications; telecom; 3gpp; oran; gsma; rag; abstention; safety; domain-specific; otel
+2026-10-23T06:08:59Z,g1n0st/8793053c35e3a4b63ff9a20c13e55b53c3c508fc,g1n0st,0,0,region:us
+2026-10-23T06:13:04Z,orodomoon/spoken-magpie-ja,orodomoon,0,0,task_categories:text-generation; task_categories:text-to-speech; task_categories:audio-to-audio; language:ja; license:apache-2.0; region:us
+2026-10-23T06:14:12Z,lyl472324464/2026-10-21_insert_01-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-23T06:14:32Z,att/OTel-Reranker,att,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; telecommunications; telecom; 3gpp; oran; gsma; rag; reranker; cross-encoder; retrieval; dom…
+2026-10-23T06:14:32Z,att/OTel-LLM,att,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; telecommunications; telecom; 3gpp; oran; gsma; rag; instruction-tuning; domain-specific; otel
+2026-10-23T06:14:40Z,test123124125/v09,test123124125,0,0,region:us
+2026-10-23T06:15:48Z,MIGLab/segmentation,MIGLab,0,0,region:us
+2026-10-23T06:17:35Z,deersir/IQA-CD,deersir,0,0,region:us
+2026-10-23T06:17:54Z,NLP-KD-Lab-TDTU/ViLegalREB,NLP-KD-Lab-TDTU,0,0,region:us
+2026-10-23T06:20:22Z,misatadata/retail-star-answer-key,misatadata,0,0,region:us
+2026-10-23T06:20:51Z,NothingSpecialSiri/xfer-ec0eb5ab,NothingSpecialSiri,0,0,region:us
