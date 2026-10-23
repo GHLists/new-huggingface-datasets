@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T01:21:56Z,g1n0st/f8147fbd1cbaa93ec94906f53097203a900eeaa6,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-23T01:22:43Z,ghanaopenai/voice_trainer_english,ghanaopenai,0,0,region:us
+2026-10-23T01:23:16Z,0best/kemetone-data,0best,0,0,region:us
+2026-10-23T01:24:55Z,loeclos/name-that-llm,loeclos,0,0,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T01:25:17Z,yigitcivas/cekirdek-3b-veri,yigitcivas,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T01:27:22Z,MatouK98/math_rlvr_filtered_audited,MatouK98,0,0,source_datasets:clyu/math_rlvr_filtered; language:en; language:zh; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-10-23T01:29:19Z,mjl949771854/moss-image,mjl949771854,0,0,region:us
+2026-10-23T01:32:28Z,Felix-Zhenghao/libero_plus_semantic_action,Felix-Zhenghao,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T01:33:22Z,SaeedLab/SpectraVision-Data,SaeedLab,0,0,region:us
+2026-10-23T01:33:25Z,lidavidsh/robosmith-assets,lidavidsh,0,0,license:other; region:us
+2026-10-23T01:34:10Z,webshart/ScaleEdit-12M-metadata,webshart,0,0,task_categories:image-to-image; language:en; license:cc-by-nc-sa-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; libr…
+2026-10-23T01:35:10Z,Vio1etV/ProgressCompass_Benchmark,Vio1etV,0,0,region:us
+2026-10-23T01:35:16Z,JonesLin/openmmreasoner-sft-concise-cot-314k,JonesLin,0,0,task_categories:image-text-to-text; task_categories:visual-question-answering; language:en; language:zh; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; librar…
+2026-10-23T01:35:35Z,LittleFireDragon/S2-Water-Quality,LittleFireDragon,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:geospatial; library:datasets; library:mlcroissant; region:us; remote-sensing; sentinel-2; water-quality; geotiff
+2026-10-23T01:36:13Z,cemig-ceia/biblioteca_aneel,cemig-ceia,0,0,language:pt; size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; an…
+2026-10-23T01:39:25Z,xdotli/cybergym-patch-bug,xdotli,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-23T01:40:34Z,4E-AI/Fidel-Competitive-coding,4E-AI,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-23T01:41:53Z,hansQAQ/Jev-KG,hansQAQ,0,0,region:us
+2026-10-23T01:42:16Z,MIGLab/preprocessing,MIGLab,0,0,license:gpl-3.0; region:us
+2026-10-23T01:44:45Z,RandomLab/random-bench-results,RandomLab,0,0,license:cc-by-4.0; region:us
+2026-10-23T01:45:18Z,wangdx25/cotap_task2_board_slide_failure,wangdx25,0,0,task_categories:robotics; license:apache-2.0; modality:timeseries; region:us; tsfile; timeseries; time-series; LeRobot; format:tsfile
+2026-10-23T01:45:18Z,wangdx25/umi_stack_sohaib_no_roll,wangdx25,0,0,task_categories:robotics; license:apache-2.0; modality:timeseries; region:us; tsfile; timeseries; time-series; LeRobot; format:tsfile
+2026-10-23T01:47:21Z,g1n0st/e36f34de3e8909e262689b2dde92abe3a4d9a9c0,g1n0st,0,0,region:us
+2026-10-23T01:48:27Z,flowyrepo/agetra_versions,flowyrepo,0,0,region:us
+2026-10-23T01:48:46Z,ASD12321WAS/Annoy-PyEdu-Rs,ASD12321WAS,0,0,region:us
+2026-10-23T01:48:47Z,ASD12321WAS/Annoy-PyEdu-Rs-Raw,ASD12321WAS,0,0,region:us
+2026-10-23T01:49:02Z,JackHsieh/4B-general-paragraph-nothink-prefill.k-8.peS2o-humanities-iid.qwen3-ids.kv-tags-thought,JackHsieh,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:ml…
+2026-10-23T01:50:25Z,sadfsg4546/Annoy-PyEdu-Rs,sadfsg4546,0,0,region:us
+2026-10-23T01:50:25Z,sadfsg4546/Annoy-PyEdu-Rs-Raw,sadfsg4546,0,0,region:us
+2026-10-23T01:52:35Z,memmelma/pull_out_book,memmelma,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-23T01:53:39Z,madokalif/calvin-abc-stop0-then-h30-cam,madokalif,0,0,region:us
+2026-10-23T01:55:02Z,YogaSWD/indonesian-campus-complaints,YogaSWD,0,0,task_categories:text-classification; task_categories:feature-extraction; language:id; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:dask; library…
+2026-10-23T01:56:49Z,xdotli/cybergym-supply-chain,xdotli,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-23T01:57:24Z,Robbie-Kylie-NN-sprint/donation-bet,Robbie-Kylie-NN-sprint,0,0,region:us
+2026-10-23T01:57:26Z,Duofeng/astro-lafan-29dof,Duofeng,0,0,license:other; region:us; robotics; motion; humanoid
+2026-10-23T01:58:04Z,sonchuate/asr-label,sonchuate,0,0,region:us
+2026-10-23T02:07:55Z,haochaoqun/morning-brief-kit-lite,haochaoqun,0,0,license:mit; region:us; grok-bot; ai-agent; morning-brief; productivity; prompt; skill
+2026-10-23T02:09:09Z,lekhoa288/picklebase-open-biomechanics,lekhoa288,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:tabular-classification; language:en; language:vi; license:cc-by-4.0; size_categories:n<1K; format:json; library:da…
+2026-10-23T02:09:10Z,lekhoa288/aeorank-geo62-diagnostic-standard,lekhoa288,0,0,task_categories:text-classification; task_categories:question-answering; language:en; language:vi; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:panda…
+2026-10-23T02:11:25Z,raj9rthakur/60db_conversation_data_generated,raj9rthakur,0,0,region:us
+2026-10-23T02:13:33Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-10-23T02:13:34Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-10-23T02:14:47Z,sadsassssd1/BSSP,sadsassssd1,0,0,region:us
+2026-10-23T02:16:51Z,youhan-lee/vla-fd-lagguided,youhan-lee,0,0,region:us
+2026-10-23T02:16:55Z,wangchenlong/temp,wangchenlong,0,0,region:us
+2026-10-23T02:18:01Z,Hwsss/FlatLab-Asset,Hwsss,0,0,license:cc-by-4.0; region:us
+2026-10-23T02:18:29Z,latentMO/thinkvec-qwen38,latentMO,0,0,region:us
