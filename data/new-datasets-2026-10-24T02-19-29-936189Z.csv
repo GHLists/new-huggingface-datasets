@@ -1,0 +1,34 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T01:24:33Z,Giulo1/scartafaccio-releases,Giulo1,0,0,region:us
+2026-10-24T01:25:48Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-24T01:25:48Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-24T01:29:03Z,XYYX2333/pick_place_cube_oct23,XYYX2333,0,0,region:us
+2026-10-24T01:29:09Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-24T01:29:54Z,jacobmorrison/qwen3.6-35b-a3b-kd-round1,jacobmorrison,0,0,license:other; size_categories:100K<n<1M; region:us
+2026-10-24T01:41:01Z,Keith-Luo/pick_and_place_d435i_ffs_green_v1_realsense_pc256_green_compact,Keith-Luo,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; libra…
+2026-10-24T01:41:19Z,kitRPAI/endotactile,kitRPAI,0,0,language:en; license:cc-by-nc-4.0; region:us; robotics; tactile; endoscopy; zarr; multimodal
+2026-10-24T01:41:31Z,Keith-Luo/pick_and_place_d435i_ffs_green_v1_ffs_pc256_green_compact,Keith-Luo,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; libra…
+2026-10-24T01:41:41Z,mrchukungfunhu/style-controlled-edu-code-detection,mrchukungfunhu,0,0,license:cc-by-nc-4.0; region:us
+2026-10-24T01:46:15Z,PoseyEnder/Annoy-PyEdu-Rs,PoseyEnder,0,0,region:us
+2026-10-24T01:46:15Z,PoseyEnder/Annoy-PyEdu-Rs-Raw,PoseyEnder,0,0,region:us
+2026-10-24T01:50:16Z,HarbingerKX/ContrAR,HarbingerKX,0,0,license:cc-by-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-24T01:51:31Z,Ltzekos/joa-employer-direct-job-postings-2026-10,Ltzekos,0,0,task_categories:text-classification; task_categories:text-generation; task_categories:other; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text;…
+2026-10-24T01:52:00Z,sujitpandey/finance-markets-100k,sujitpandey,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T01:53:09Z,DSAD123GFTQ/Annoy-PyEdu-Rs,DSAD123GFTQ,0,0,region:us
+2026-10-24T01:53:10Z,DSAD123GFTQ/Annoy-PyEdu-Rs-Raw,DSAD123GFTQ,0,0,region:us
+2026-10-24T01:53:50Z,Hastagaras/GRPO-Traps-Narrative,Hastagaras,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T01:56:08Z,dgasdg/ebird-data,dgasdg,0,0,license:apache-2.0; size_categories:1M<n<10M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-24T01:57:26Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.0_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T02:07:11Z,Nikhil-Ravi/cheese_v1_normvla,Nikhil-Ravi,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T02:10:18Z,pratikgx/mac-mini-local-benchmarks,pratikgx,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; local-ai; apple-silicon; mlx; ollama
+2026-10-24T02:11:33Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-24T02:11:33Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-24T02:11:41Z,sw-voice/swamiji-voice-sft-sidon,sw-voice,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T02:12:25Z,zml5418/thinking-leakage-rollouts,zml5418,0,0,language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2609.28682; reg…
+2026-10-24T02:15:16Z,NicolTcT/defiende-el-servidor-dvc,NicolTcT,0,0,region:us
+2026-10-24T02:15:57Z,SingleBicycle/pico_human_demo_v2,SingleBicycle,0,0,region:us
+2026-10-24T02:16:54Z,BMU2026/Annoy-PyEdu-Rs,BMU2026,0,0,region:us
+2026-10-24T02:16:55Z,BMU2026/Annoy-PyEdu-Rs-Raw,BMU2026,0,0,region:us
+2026-10-24T02:17:25Z,attacker8324/dzq601,attacker8324,0,0,region:us
+2026-10-24T02:18:53Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-24T02:18:54Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
