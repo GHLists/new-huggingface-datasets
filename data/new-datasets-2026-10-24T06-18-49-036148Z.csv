@@ -1,0 +1,51 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T05:21:25Z,sanjuhs/routevoice-engine-fix2-20261024,sanjuhs,0,0,license:apache-2.0; region:us
+2026-10-24T05:22:27Z,takeforest/teamB_20261024_140811,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T05:26:49Z,SosiyoDarling/Vadodara-Weather-2017-to-2026,SosiyoDarling,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:27:49Z,takeforest/TAISHI_20261024_141726,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:28:39Z,takeforest/teamE_20261024_142151,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:29:34Z,dtmohitkumar/ps3-sft-curated-small,dtmohitkumar,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:29:36Z,dtmohitkumar/ps3-sft-raw-small,dtmohitkumar,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:30:20Z,xohaohe/xiangxue-skill,xohaohe,0,0,language:zh; license:other; modality:image; region:us; agent-skills; traditional-chinese-culture; xiangxue; bazi; ziwei; yijing; offline-knowledge-base; codex; claude-code
+2026-10-24T05:31:05Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.0_g8_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:34:55Z,eai-v2-internal/roboarc-separate-results,eai-v2-internal,0,0,license:mit; region:us; robotics; benchmark; agents
+2026-10-24T05:35:34Z,navmxc/Poly-FEVER,navmxc,0,0,task_categories:text-classification; language:en; language:zh; language:hi; language:ar; language:bn; language:ja; language:ko; language:ta; language:th; language:ka; language:am; size_categories:10K…
+2026-10-24T05:36:47Z,takeforest/teamF_20261024_141357,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T05:39:57Z,takeforest/teamC_20261024_143511,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:41:27Z,takeforest/dataset_Gv3,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T05:41:31Z,kiroaiseoul/test_replay_timing_1024,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:42:26Z,amitdeshmukh/items_prompts_lite,amitdeshmukh,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:43:41Z,takeforest/teamE_20261024_143457,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:44:05Z,rutilo/treebench-27b-g4-bench-fallback,rutilo,0,0,region:us
+2026-10-24T05:44:33Z,rutilo/treebench-27b-g4-bench-fast,rutilo,0,0,region:us
+2026-10-24T05:45:24Z,qijiashen/agentrl-oe-step-glm47,qijiashen,0,0,license:other; region:us; agentrl-bench
+2026-10-24T05:45:35Z,takeforest/teamA_20261024_142521,takeforest,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T05:46:03Z,Kwj1021/so101_pick_place_20261024_143100,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T05:46:47Z,g1n0st/6c2b8d3109ac644aee39938e7241f2badbed15d9,g1n0st,0,0,region:us
+2026-10-24T05:47:04Z,chankhavu/dsv41-flash1017-expert-importance,chankhavu,0,0,license:mit; region:us; deepseek; moe; pruning; reap; expert-importance; engram; arc-agi-2
+2026-10-24T05:47:30Z,ghanaopenai/ghana-llm-sft-curated,ghanaopenai,0,0,task_categories:question-answering; task_categories:translation; language:tw; language:en; license:apache-2.0; region:us; sft; rag; reading-comprehension; translation; ms-marco; squad-v2; twi; akan;…
+2026-10-24T05:48:05Z,tasksource/synthetic-extraction,tasksource,0,0,task_categories:token-classification; task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; l…
+2026-10-24T05:48:06Z,dtmohitkumar/ps3-sft-curated,dtmohitkumar,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:48:08Z,dtmohitkumar/ps3-sft-raw,dtmohitkumar,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:49:48Z,DASCH2GHNSA/Annoy-PyEdu-Rs-Rs,DASCH2GHNSA,0,0,region:us
+2026-10-24T05:51:00Z,tanod/x402-seller-traffic,tanod,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; x402; ai-agents; aggregate-data
+2026-10-24T05:56:16Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-10-24T05:56:17Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-10-24T05:59:03Z,Death242/downloads,Death242,0,0,region:us
+2026-10-24T06:02:13Z,asdsa132dsa/Annoy-PyEdu-Rs,asdsa132dsa,0,0,region:us
+2026-10-24T06:02:14Z,asdsa132dsa/Annoy-PyEdu-Rs-Raw,asdsa132dsa,0,0,region:us
+2026-10-24T06:04:16Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-10-24T06:04:17Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-10-24T06:06:01Z,houyuanchen/portrait-relighter-bundle,houyuanchen,0,0,license:other; region:us; image-to-image; relighting; hermes-agent; qwen-image-edit; seedvr2
+2026-10-24T06:07:44Z,takeforest/dataset_Gv3_clean,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T06:08:16Z,KalshiEye/kalshi-order-book-sample,KalshiEye,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-nc-4.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars;…
+2026-10-24T06:09:43Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-24T06:09:43Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-24T06:09:45Z,RoboARC/RoboARC-outputs,RoboARC,0,0,license:mit; region:us
+2026-10-24T06:10:08Z,asdaasdf/Annoy-PyEdu-Rs,asdaasdf,0,0,region:us
+2026-10-24T06:10:09Z,asdaasdf/Annoy-PyEdu-Rs-Raw,asdaasdf,0,0,region:us
+2026-10-24T06:10:14Z,g1n0st/5afcafd5a4347eee501db14b4ed46fbfdd11b415,g1n0st,0,0,region:us
+2026-10-24T06:11:14Z,chaofen-delicious/Annoy-PyEdu-Rs,chaofen-delicious,0,0,region:us
+2026-10-24T06:11:14Z,chaofen-delicious/Annoy-PyEdu-Rs-Raw,chaofen-delicious,0,0,region:us
+2026-10-24T06:11:56Z,donggcao18/codetask-30k,donggcao18,0,0,region:us
+2026-10-24T06:18:15Z,kiroaiseoul/eval_replay_basepose_1024,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
