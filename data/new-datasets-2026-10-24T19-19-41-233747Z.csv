@@ -1,0 +1,52 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T18:21:21Z,xdotli/oea-safecase-20261024-dfd597,xdotli,0,0,language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:21:46Z,Lunita02/Cubos_50_3,Lunita02,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T18:24:56Z,RafaelJaime/smartseed-grasp-12s-clean,RafaelJaime,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-24T18:24:57Z,Lunita02/Cubos_200,Lunita02,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-24T18:25:58Z,liufeqww1154/Annoy-PyEdu-Rs,liufeqww1154,0,0,region:us
+2026-10-24T18:25:58Z,liufeqww1154/Annoy-PyEdu-Rs-Raw,liufeqww1154,0,0,region:us
+2026-10-24T18:27:05Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:28:37Z,Beaconf88/TACO,Beaconf88,0,0,task_categories:text-generation; task_ids:language-modeling; language_creators:crowdsourced; language_creators:expert-generated; multilinguality:monolingual; language:code; license:apache-2.0; size_c…
+2026-10-24T18:29:56Z,RafaelJaime/smartseed-grasp-b-merged,RafaelJaime,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T18:30:48Z,xmarva/tfs-translations-en-ru,xmarva,0,0,language:en; language:ru; license:cc-by-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-24T18:32:49Z,hirundo-io/spml-prompt-injection-refusals-strict-answered-refusal-only,hirundo-io,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:35:22Z,armnet/eval_busybox_push_green_button_diffusion_18h34m_24-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T18:38:12Z,emarro/pcad2_16k_tokenized_uint8,emarro,0,0,region:us
+2026-10-24T18:40:31Z,darwinagent/WIA-Corpus-SFT,darwinagent,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:44:22Z,kiroaiseoul/replay_base_chain_1025b,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T18:44:23Z,Malavnaik/finfacts,Malavnaik,0,0,task_categories:table-question-answering; task_categories:text-retrieval; language:en; license:cc-by-4.0; size_categories:n<1K; modality:text; region:us; finance; sec-edgar; xbrl; text-to-sql; point-…
+2026-10-24T18:46:22Z,AlexCheung1124/Stereo-Datasets,AlexCheung1124,0,0,region:us
+2026-10-24T18:46:42Z,Ayush13face/ag_news,Ayush13face,0,1,task_categories:text-classification; task_ids:topic-classification; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:original; language:en; license:un…
+2026-10-24T18:47:09Z,raihan-js/clausegym-bench,raihan-js,0,0,task_categories:text-retrieval; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; rag; temporal;…
+2026-10-24T18:48:38Z,MuteXX/adsb-lol-low-level-traces-2026,MuteXX,0,0,license:odbl; region:us
+2026-10-24T18:49:44Z,ssfdafag567/Annoy-PyEdu-Rs,ssfdafag567,0,0,region:us
+2026-10-24T18:49:45Z,ssfdafag567/Annoy-PyEdu-Rs-Raw,ssfdafag567,0,0,region:us
+2026-10-24T18:50:33Z,lyyyyyj/misumi-wp2-trial,lyyyyyj,0,0,modality:video; region:us
+2026-10-24T18:52:18Z,mryoussef79/llmtwin-dpo,mryoussef79,0,0,region:us
+2026-10-24T18:53:55Z,Jerryblessed/bible-dramatized-audiov4,Jerryblessed,0,0,region:us
+2026-10-24T18:55:12Z,scottyjb/HPGDiff,scottyjb,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; topology-optimization; diffusio…
+2026-10-24T18:55:30Z,wikidatafkm/wikidata-rdf2vec-walks,wikidatafkm,0,0,license:cc0-1.0; size_categories:10B<n<100B; region:us; knowledge-graph; wikidata; rdf2vec; random-walks
+2026-10-24T18:55:56Z,ppiron/pdads,ppiron,0,1,region:us
+2026-10-24T18:56:23Z,Vivian0716/Render_videos_for_robotics_tasks,Vivian0716,0,0,region:us
+2026-10-24T18:56:31Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:59:55Z,yakkshit/neurograph-dataset,yakkshit,0,0,task_categories:text-generation; license:mit; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-24T19:07:55Z,akhaliq/moss-image-edit-v5-packed,akhaliq,0,0,region:us
+2026-10-24T19:10:54Z,woodywu-sommelier/hospitality-skills,woodywu-sommelier,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; wine; sommelier; hospitality; restaurants; llm-evaluation; hallucination; agent-skills
+2026-10-24T19:13:05Z,OpenVoiceOS/ww-stream-bench,OpenVoiceOS,0,0,task_categories:audio-classification; license:cc-by-4.0; region:us; openvoiceos; wake-word; keyword-spotting; benchmark
+2026-10-24T19:14:13Z,algaebrown/human-kozak-21bp,algaebrown,0,0,region:us
+2026-10-24T19:14:14Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.5_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T19:15:16Z,darwinagent/WIA-Corpus-RL,darwinagent,0,0,region:us
+2026-10-24T19:16:05Z,ENLYAS/kuvert-transfer,ENLYAS,0,0,region:us
+2026-10-24T19:16:13Z,g1n0st/5f4cc60b332e0ebfd65c38027c086deae830f350,g1n0st,0,0,region:us
+2026-10-24T19:16:17Z,myprotjj/vault-d09ce89b63b16578,myprotjj,0,0,region:us
+2026-10-24T19:17:13Z,ABRUBAB/shadowastra-atlas,ABRUBAB,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:geospatial; region:us; space; planetary-science; moon; mars; analog-sites; geospatial; earth-observation; nasa; remote-sensing
+2026-10-24T19:17:14Z,rigbase/rigbase-local-llm-benchmarks,rigbase,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; llm; benchmark; gpu; local-llm; llama.cpp; hardware; tokens-per-second
+2026-10-24T19:17:35Z,bendca61/so101-surface-transfer-multitask-detections-test,bendca61,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-24T19:18:12Z,SpatialExperientialEmbodimentLab/radio-aporee-maps-a,SpatialExperientialEmbodimentLab,0,0,task_categories:audio-classification; license:other; region:us; field-recording; soundscape; phonography; geolocated; radio-aporee
+2026-10-24T19:18:20Z,bigkevin0424/TKBO,bigkevin0424,0,0,region:us
+2026-10-24T19:18:54Z,SpatialExperientialEmbodimentLab/radio-aporee-maps-b,SpatialExperientialEmbodimentLab,0,0,task_categories:audio-classification; license:other; region:us; field-recording; soundscape; phonography; geolocated; radio-aporee
+2026-10-24T19:18:55Z,SpatialExperientialEmbodimentLab/radio-aporee-maps-c,SpatialExperientialEmbodimentLab,0,0,task_categories:audio-classification; license:other; region:us; field-recording; soundscape; phonography; geolocated; radio-aporee
+2026-10-24T19:18:56Z,SpatialExperientialEmbodimentLab/radio-aporee-maps-d,SpatialExperientialEmbodimentLab,0,0,task_categories:audio-classification; license:other; region:us; field-recording; soundscape; phonography; geolocated; radio-aporee
+2026-10-24T19:19:23Z,sdsfsfsf3435/Annoy-PyEdu-Rs,sdsfsfsf3435,0,0,region:us
+2026-10-24T19:19:25Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs,ASDSAD2E12EDASD,0,0,region:us
+2026-10-24T19:19:26Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs-Raw,ASDSAD2E12EDASD,0,0,region:us
