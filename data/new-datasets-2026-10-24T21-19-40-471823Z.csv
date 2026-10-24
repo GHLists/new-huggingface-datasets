@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T20:22:05Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-24T20:22:36Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-24T20:22:47Z,nomeda-lab/qarar-v2-splits-fixed,nomeda-lab,0,0,task_categories:text-classification; task_categories:other; language:ar; language:en; license:other; region:us; arabic; dialect; benchmark; intent-classification; evaluation; decision
+2026-10-24T20:26:12Z,smartypantsnet/mac-benchmarks,smartypantsnet,0,0,license:apache-2.0; region:us; mlx; apple-silicon; benchmark; quantization
+2026-10-24T20:27:00Z,videron/bolt_weigh_25_episodes_2,videron,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T20:27:29Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.5_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T20:28:53Z,MikelRubi/so101-pick-cube_20261024_222410,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-24T20:30:38Z,MikelRubi/up-down_20261024_222539,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcr…
+2026-10-24T20:31:16Z,opensima12/2077xiaotian_v2_1025,opensima12,0,0,language:zh; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; gaming; behavior-cloning; multimodal
+2026-10-24T20:31:25Z,Davilood/cuchara_cambuena,Davilood,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-24T20:33:45Z,MikelRubi/up-down-bad_20261024_222614,MikelRubi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcr…
+2026-10-24T20:35:45Z,ASFRAasd/Annoy-PyEdu-Rs,ASFRAasd,0,0,region:us
+2026-10-24T20:36:16Z,ASFRAasd/Annoy-PyEdu-Rs-Raw,ASFRAasd,0,0,region:us
+2026-10-24T20:37:01Z,xmarva/tfs-seed-runs-en-ru,xmarva,0,0,language:en; language:ru; license:cc-by-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-24T20:38:14Z,israel/english-reasoning,israel,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T20:40:21Z,nakas/gpttrace-video-v1,nakas,0,0,region:us
+2026-10-24T20:40:22Z,Alirezalumion/civilart-mep-releases,Alirezalumion,0,0,region:us
+2026-10-24T20:41:58Z,gebriagu/corpus-costa-rica-es-rag,gebriagu,0,0,task_categories:question-answering; task_categories:text-retrieval; language:es; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-10-24T20:43:14Z,srijan2715/sartaj-clean-v2,srijan2715,0,0,size_categories:1K<n<10K; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T20:44:22Z,raxtik-org/faers-safety-database,raxtik-org,0,0,task_categories:tabular-classification; task_categories:other; license:cc-by-4.0; region:us; fda-faers; drug-safety; adverse-events; duckdb; parquet
+2026-10-24T20:45:38Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.5_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T20:46:28Z,gauchewy/BodyBenchData,gauchewy,0,0,region:us
+2026-10-24T20:47:26Z,zils-ai/base-exam-seed-v3,zils-ai,0,0,language:en; license:other; region:us
+2026-10-24T20:49:31Z,darwinagent/WIA-Bench,darwinagent,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T20:51:56Z,TUaxhuiax/filesystem_terminal_fetch_git_2721_scratch2,TUaxhuiax,0,0,region:us
+2026-10-24T20:53:15Z,RanaAlshaikh/arabic_resumes,RanaAlshaikh,0,0,region:us
+2026-10-24T20:56:00Z,IbuprofenAmoxicillin/connito-qwen-c4-windowed-4096,IbuprofenAmoxicillin,0,0,region:us
+2026-10-24T20:56:41Z,requstory/ease-index,requstory,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T20:57:17Z,TUaxhuiax/filesystem-terminal-fetch-pdf-tools-2714-a7c41f,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T20:57:20Z,TUaxhuiax/filesystem_terminal_fetch_git_2721_catalog_e3a7d2,TUaxhuiax,0,0,region:us
+2026-10-24T20:57:20Z,csikasote/AfriBED,csikasote,0,0,region:us
+2026-10-24T20:58:14Z,yaditya/place-toppings-on-pizza,yaditya,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T21:03:43Z,srijan2715/sartaj-clean-v3,srijan2715,0,0,size_categories:1K<n<10K; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T21:04:14Z,Eldar-45/dubrovka122,Eldar-45,0,0,region:us
+2026-10-24T21:09:18Z,BIBIMBAM/begonvil-ajan-veri,BIBIMBAM,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T21:11:02Z,ASD12SDA2SAD12AZ/Annoy-PyEdu-Rs,ASD12SDA2SAD12AZ,0,0,region:us
+2026-10-24T21:11:14Z,Hashmat0202/Pak3H,Hashmat0202,0,0,license:cc-by-nc-4.0; region:us
+2026-10-24T21:11:33Z,ASD12SDA2SAD12AZ/Annoy-PyEdu-Rs-Raw,ASD12SDA2SAD12AZ,0,0,region:us
+2026-10-24T21:12:08Z,jsun/VisuoTactile-GS-OXT,jsun,0,0,task_categories:robotics; region:us; robotics; tactile; open-x-tactile; ftp-1; densetact
+2026-10-24T21:12:37Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.5_g7_run0,stefanocarrera,0,0,region:us
+2026-10-24T21:14:35Z,yoramhalberstamhfv/yhf-ft-pub,yoramhalberstamhfv,0,0,region:us
+2026-10-24T21:15:19Z,yeshdamania/items_raw_full,yeshdamania,0,0,region:us
+2026-10-24T21:15:20Z,yeshdamania/items_raw_lite,yeshdamania,0,0,region:us
+2026-10-24T21:15:38Z,MikelRubi/so101-pick-cube_20261024_223612,MikelRubi,0,0,region:us
+2026-10-24T21:16:59Z,HDTenEightyP/StackExchange_Finetune,HDTenEightyP,0,0,license:mit; region:us
+2026-10-24T21:17:19Z,ZitaoXu/place-toppings-on-pizza-50Episodes,ZitaoXu,0,0,region:us
+2026-10-24T21:18:24Z,ahmedsamirtarjama/shellsafe-bash-sft,ahmedsamirtarjama,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; bash; shell; nl2bash; code
