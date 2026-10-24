@@ -1,0 +1,54 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T04:24:30Z,InfoBayAI/Narrated_Eocentric_Dataset,InfoBayAI,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; egocentric-video; first-person-video; narrate…
+2026-10-24T04:25:55Z,salmonwdjmosm/musica,salmonwdjmosm,0,0,region:us
+2026-10-24T04:31:37Z,g1n0st/4d1417195395cc8163c18e226421f5aa096d4072,g1n0st,0,0,region:us
+2026-10-24T04:34:32Z,Andreytroscha/biblioteka,Andreytroscha,0,0,region:us
+2026-10-24T04:36:24Z,jeeva3012/africa-mobile-money-fraud-dataset,jeeva3012,0,0,task_categories:tabular-classification; task_categories:tabular-regression; multilinguality:monolingual; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; moda…
+2026-10-24T04:36:34Z,vero-synthea/ausynth-v22-sample,vero-synthea,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; census; australia; fairness
+2026-10-24T04:40:36Z,CADT-IDRI/khmer-sala-ocr-17k,CADT-IDRI,0,0,license:mit; region:us
+2026-10-24T04:41:38Z,henry-y1/ResearchBoost-Bench-prep-packs,henry-y1,0,0,license:apache-2.0; library:harbor; region:us; benchmark; training-speedup; harbor
+2026-10-24T04:44:41Z,zhanzhe0514/TangEpiNet,zhanzhe0514,0,0,license:mit; region:us
+2026-10-24T04:46:39Z,takeforest/teamC_20261024_134124,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T04:47:06Z,alexlu2/bvlt,alexlu2,0,0,region:us
+2026-10-24T04:48:36Z,lexyao/ep2-frame-qc-tmp,lexyao,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-24T04:49:39Z,sdf12dsad21/Annoy-PyEdu-Rs,sdf12dsad21,0,0,region:us
+2026-10-24T04:49:40Z,sdf12dsad21/Annoy-PyEdu-Rs-Raw,sdf12dsad21,0,0,region:us
+2026-10-24T04:49:52Z,sebastian-stapf/action-progress-droid,sebastian-stapf,0,0,license:other; modality:video; region:us; video; action-progress; segmentation
+2026-10-24T04:49:58Z,LittleWhite1031/Annoy-PyEdu-Rs,LittleWhite1031,0,0,region:us
+2026-10-24T04:49:59Z,LittleWhite1031/Annoy-PyEdu-Rs-Raw,LittleWhite1031,0,0,region:us
+2026-10-24T04:55:15Z,NahuelRoldan/qwen3-8b-glossary-full-hidden-states-2026-10-23,NahuelRoldan,0,0,region:us
+2026-10-24T04:55:35Z,assd12da21d/Annoy-PyEdu-Rs,assd12da21d,0,0,region:us
+2026-10-24T04:55:36Z,assd12da21d/Annoy-PyEdu-Rs-Raw,assd12da21d,0,0,region:us
+2026-10-24T04:56:26Z,ghanaopenai/ghana-search-corpus,ghanaopenai,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; lib…
+2026-10-24T04:59:25Z,takeforest/TAISHI_20261024_135152,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:00:46Z,sebastian-stapf/action-progress-video,sebastian-stapf,0,0,license:other; size_categories:10K<n<100K; format:json; modality:image; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; video; action-…
+2026-10-24T05:01:32Z,luhong160/FMAE,luhong160,0,0,license:apache-2.0; region:us
+2026-10-24T05:04:46Z,takeforest/teamF_20261024_135452,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:05:17Z,takeforest/teamC_20261024_135545,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:05:27Z,tjwjdgns011119/seal-5comp-d9-targets15,tjwjdgns011119,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; circuit-design; power-converters; graph;…
+2026-10-24T05:05:28Z,nikhilr01/anime-faces-landmarks,nikhilr01,0,0,source_datasets:huggan/anime-faces; license:other; size_categories:10K<n<100K; region:us
+2026-10-24T05:07:47Z,DASCH2GHNSA/Annoy-PyEdu-Rs,DASCH2GHNSA,0,0,region:us
+2026-10-24T05:07:48Z,DASCH2GHNSA/Annoy-PyEdu-Rs-Raw,DASCH2GHNSA,0,0,region:us
+2026-10-24T05:08:33Z,rghosh8/deepseek-r1-distill-qwen-1.5b-opencoder-educational-instruct-seed-1234-G-8-log,rghosh8,0,0,region:us
+2026-10-24T05:08:50Z,takeforest/teamD_20261024_135722,takeforest,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T05:10:32Z,olvad/asr-correction-ru,olvad,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T05:11:09Z,Showd33/trajscale_data,Showd33,0,0,license:apache-2.0; region:us
+2026-10-24T05:11:17Z,ASDCZX12DS/Annoy-PyEdu-Rs,ASDCZX12DS,0,0,region:us
+2026-10-24T05:11:18Z,ASDCZX12DS/Annoy-PyEdu-Rs-Raw,ASDCZX12DS,0,0,region:us
+2026-10-24T05:11:19Z,ASD1232132/Annoy-PyEdu-Rs,ASD1232132,0,0,region:us
+2026-10-24T05:11:20Z,ASD1232132/Annoy-PyEdu-Rs-Raw,ASD1232132,0,0,region:us
+2026-10-24T05:11:25Z,xushawn/t91-lgs,xushawn,0,0,task_categories:reinforcement-learning; license:odbl; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; chess; leela-chess-zero; lc0; nnue; stock…
+2026-10-24T05:12:06Z,qurbi/parametric-evaluation-suite,qurbi,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:mit; size_categories:n<1K; region:us; stem; mathematics; mechanics; evaluation-suite; parametric
+2026-10-24T05:12:11Z,g1n0st/cc6d9325326f999f144f3043aae166dae6e8a3c7,g1n0st,0,0,region:us
+2026-10-24T05:13:41Z,Fungle/crates-io-real-downloads-top-300,Fungle,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T05:13:41Z,Fungle/app-store-review-times,Fungle,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-10-24T05:13:42Z,Fungle/llm-api-price-index,Fungle,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T05:13:43Z,Fungle/llm-api-prices,Fungle,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-24T05:13:44Z,Fungle/uuidv7-library-test,Fungle,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T05:16:23Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs,ASD12EDSA2QWE,0,0,region:us
+2026-10-24T05:16:24Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw,ASD12EDSA2QWE,0,0,region:us
+2026-10-24T05:16:36Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-10-24T05:16:36Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-10-24T05:18:50Z,takeforest/teamE_20261024_141440,takeforest,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-24T05:20:32Z,ewrwerwerer44/Annoy-PyEdu-Rs,ewrwerwerer44,0,0,region:us
+2026-10-24T05:20:33Z,ewrwerwerer44/Annoy-PyEdu-Rs-Raw,ewrwerwerer44,0,0,region:us
