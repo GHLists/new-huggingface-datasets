@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-23T23:21:06Z,QuantFeatures/binance-hourly-features,QuantFeatures,0,0,task_categories:time-series-forecasting; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T23:21:49Z,nextdppr/russian-medical-2m,nextdppr,0,0,region:us
+2026-10-23T23:22:11Z,Dinmatimzy/faceless-videos,Dinmatimzy,0,0,region:us
+2026-10-23T23:24:05Z,assa8945/sv_plt,assa8945,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-23T23:28:16Z,yosshstd/protrek650m-swissprot50-reps,yosshstd,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology;…
+2026-10-23T23:28:37Z,va1bhavagrawa1/data_mix_v4,va1bhavagrawa1,0,0,region:us
+2026-10-23T23:28:42Z,SOTAagi2030/Mutual-Aid-Meal-Dispatch-Ledger,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-23T23:32:18Z,ekal1337/helloworld123,ekal1337,0,1,region:us
+2026-10-23T23:34:18Z,DominicTWHV/Discord-Scams,DominicTWHV,0,0,task_categories:image-classification; task_categories:object-detection; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; scam…
+2026-10-23T23:35:37Z,0xmoose0xmoose0xmoose/rce-1017-loadingcode-poc4,0xmoose0xmoose0xmoose,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T23:42:31Z,SharpMeow/pherc0306b-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:43:10Z,SharpMeow/pherc0490b-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:43:18Z,SharpMeow/pherc0846a-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:44:05Z,myprotjj/vault-2030a6ccd17ab4ce,myprotjj,0,0,region:us
+2026-10-23T23:44:29Z,SharpMeow/pherc0483a-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:44:36Z,SharpMeow/pherc0483b-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:49:43Z,attacker8324/em271,attacker8324,0,0,region:us
+2026-10-23T23:51:36Z,0xmoose0xmoose0xmoose/rce-1017-loadingcode-poc5,0xmoose0xmoose0xmoose,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-23T23:51:41Z,Syndicate604/skills-desk-v3,Syndicate604,0,0,task_categories:text-generation; license:apache-2.0; library:openenv; region:us; openenv; reinforcement-learning; agents; tool-use; terminal-bench
+2026-10-23T23:53:26Z,hts-ai/fusor-v3,hts-ai,0,0,language:fr; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; radar; anti-drone; sensor-fusion; kalman-…
+2026-10-23T23:53:33Z,Ahsok4/mug-in-drawer,Ahsok4,0,0,region:us
+2026-10-23T23:53:52Z,SharpMeow/pherc0175b-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:54:01Z,rsundaraws/so101_arm2_fixedspot_wrist,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-23T23:54:12Z,SharpMeow/pherc0846b-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-23T23:55:36Z,nebula-research-lab/cba699b-inputs,nebula-research-lab,0,0,size_categories:n<1K; library:datasets; library:mlcroissant; region:us
+2026-10-23T23:55:41Z,bcywinski/gen-science-03-aft-rows-cheese,bcywinski,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-23T23:57:07Z,myprotjj/vault-0cb71c6b3d54e4b3,myprotjj,0,0,region:us
+2026-10-23T23:57:46Z,rsundaraws/so101_arm2_fixedspot_trim,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T00:00:00Z,0xmoose0xmoose0xmoose/rce-1017-assets-poc,0xmoose0xmoose0xmoose,0,0,region:us
+2026-10-24T00:00:45Z,averyzhao/redblock,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-24T00:01:32Z,bogdanrivera/sft-habilidades,bogdanrivera,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T00:01:47Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.0_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T00:02:31Z,SharpMeow/pherc0841-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-24T00:04:54Z,Sungah/omx_box_merged,Sungah,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T00:05:19Z,memmelma/pull_out_book_suboptimal,memmelma,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-24T00:05:25Z,Sungah/omx_box_merged_grip,Sungah,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T00:05:46Z,portneymk/stochastic-parrot-corpus,portneymk,0,0,task_categories:text-classification; task_categories:feature-extraction; source_datasets:original; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; journalism; media-criticism; fa…
+2026-10-24T00:09:26Z,0xmoose0xmoose0xmoose/rce-1017-assets2-poc,0xmoose0xmoose0xmoose,0,0,region:us
+2026-10-24T00:12:41Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-10-24T00:12:41Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-10-24T00:13:06Z,SharpMeow/pherc0490a-lasagna,SharpMeow,0,0,license:cc-by-nc-4.0; region:us; vesuvius-challenge; herculaneum; ct; lasagna; ome-zarr
+2026-10-24T00:14:57Z,SahajJain/gino-data,SahajJain,0,0,region:us
+2026-10-24T00:16:21Z,yhjollin/Recursive_seed43_Loop_2,yhjollin,0,0,region:us
+2026-10-24T00:16:56Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-24T00:16:56Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-24T00:17:05Z,h1testmeow/sthumb-d1-20261023201706,h1testmeow,0,0,task_categories:text-classification; license:mit; region:us; canary-tag
