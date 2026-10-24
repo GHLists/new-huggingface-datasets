@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-24T17:22:10Z,Mvltit/dataset_peras_20261024_155303,Mvltit,0,0,region:us
+2026-10-24T17:23:00Z,leileix1/UltraData-RL-2609,leileix1,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:zh; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:da…
+2026-10-24T17:23:00Z,stefanocarrera/kic_D_test-java_Qwen3-4B_t1.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:24:17Z,RevanthGundala/026-pick-place-soda-can-48,RevanthGundala,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T17:27:53Z,cry-predi/3d-collection,cry-predi,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:3d; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:30:29Z,Atlas3D/flare-sm70-references,Atlas3D,0,0,license:apache-2.0; size_categories:n<1K; region:us; flare; volta; v100; sm70; logits; qwen3.8
+2026-10-24T17:31:16Z,RafaelJaime/smartseed-grasp_20261024_192850,RafaelJaime,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; BraboRobots; smartseed; robotekin-hackathon; lerobot; so101
+2026-10-24T17:32:19Z,Fysal04/prohori-assets,Fysal04,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-24T17:33:31Z,FlipiFlopi007/so101_fase1_hoy,FlipiFlopi007,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T17:35:37Z,replicaverse/replica-study-bundles,replicaverse,0,0,region:us
+2026-10-24T17:36:40Z,Sqls1/dota2-textures,Sqls1,0,0,region:us
+2026-10-24T17:42:04Z,sw-voice/swamiji-tts-telugu-navaratri-samples,sw-voice,0,0,language:te; license:apache-2.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:43:25Z,glouriousgautam/lilm2-experiment2-reuse-inventory-v1,glouriousgautam,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-24T17:43:40Z,DeltonLabs/HQ-EN-Sentences,DeltonLabs,0,0,region:us
+2026-10-24T17:44:10Z,armnet/eval_busybox_push_green_button_diffusion_17h41m_24-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T17:45:51Z,ARGON-TG/referee-bridge,ARGON-TG,0,0,region:us
+2026-10-24T17:46:05Z,abdelrhmannile/os10k,abdelrhmannile,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:46:24Z,Lunita02/hackathon_dataset_20261024_191219,Lunita02,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T17:50:40Z,kanoonhq/open-laws,kanoonhq,0,0,task_categories:text-retrieval; task_categories:question-answering; task_categories:text-classification; language:en; language:hi; license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modalit…
+2026-10-24T17:50:43Z,BryanEikema/sae-influence-results,BryanEikema,0,0,license:other; region:us
+2026-10-24T17:53:22Z,GHHG10/GokkoModel,GHHG10,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:54:48Z,Kaderah/ru-asr-correction,Kaderah,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:56:42Z,NoraResearchLab/svalbard-surge-database-2026-rgi2000-v7-0-g-07,NoraResearchLab,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T17:58:42Z,Pokepika/dolma,Pokepika,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:n>1T; arxiv:2402.00159; arxiv:2301.13688; region:us; language-modeling; casual-lm; llm
+2026-10-24T17:58:49Z,RevanthGundala/026-pick-place-soda-can-50-trimmed,RevanthGundala,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-24T17:58:59Z,RyanYr/hop2-tb-grpo-v3-vlx-rollouts,RyanYr,0,0,region:us
+2026-10-24T17:59:19Z,yyuanuw/hop2-tb-grpo-v3-vlx-rollouts,yyuanuw,0,0,region:us
+2026-10-24T18:00:44Z,Lunita02/hackathon_dataset_20261024_195012,Lunita02,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T18:00:58Z,ENLYAS/kuvert-transfer,ENLYAS,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-24T18:02:16Z,root-sys-n/coco-tr-5000,root-sys-n,0,0,region:us
+2026-10-24T18:02:39Z,ar-mine/e5-c3-code,ar-mine,0,0,region:us; robotics; lingbot-vla
+2026-10-24T18:03:00Z,stefanocarrera/kic_D_train-java_Qwen3-4B_t1.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:03:34Z,yyuanuw/hop2-tb-grpo-v3-tv-rollouts,yyuanuw,0,0,region:us
+2026-10-24T18:07:37Z,Lunita02/hackathon_dataset_20261024_200148,Lunita02,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-24T18:07:49Z,yyuanuw/hop2-tb-grpo-v3-trsns-rollouts,yyuanuw,0,0,region:us
+2026-10-24T18:08:17Z,Jerryblessed/bible-dramatized-audiov4,Jerryblessed,0,0,region:us
+2026-10-24T18:10:41Z,Icey444/Judge_ranking_v3new,Icey444,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-24T18:11:07Z,bekkkkkahhh5/v9e-71db700a51296e153ef50f1d,bekkkkkahhh5,0,0,region:us
+2026-10-24T18:12:49Z,NelvoraAI/RuThink-OSS-120B,NelvoraAI,0,0,task_categories:text-generation; task_categories:question-answering; language:ru; license:apache-2.0; size_categories:1K<n<10K; format:json; library:datasets; library:pandas; library:polars; library:…
+2026-10-24T18:14:57Z,NelvoraAI/GPT-6-Luna-RU,NelvoraAI,0,0,task_categories:text-generation; task_categories:question-answering; language:ru; license:apache-2.0; size_categories:1K<n<10K; region:us; synthetic; sft; instruction-tuning; chat; conversational; ru…
+2026-10-24T18:15:28Z,va1bhavagrawa1/data_mix_v4_3d_wireframes,va1bhavagrawa1,0,0,task_categories:image-to-image; size_categories:10K<n<100K; region:us
+2026-10-24T18:15:56Z,jalenluorion/prefetchable-store-corpus-v4,jalenluorion,0,0,region:us
+2026-10-24T18:16:38Z,PureOne/EIQ-Lambda,PureOne,0,0,language:en; region:us; nanofabrication; inverse-scattering; scientific-computing; reproducible-research; uncertainty-quantification; process-planning; optimal-recovery; fractal-geometry; gpu-compati…
+2026-10-24T18:17:32Z,NelvoraAI/russian-math-dialogues,NelvoraAI,0,0,task_categories:text-generation; task_categories:question-answering; task_ids:dialogue-modeling; language:ru; license:apache-2.0; size_categories:10K<n<100K; region:us; math; mathematics; russian; sy…
+2026-10-24T18:18:24Z,myprotjj/vault-b1d70805e489bb76,myprotjj,0,0,region:us
+2026-10-24T18:19:14Z,Aarjan/swar-neptts-bench,Aarjan,0,0,task_categories:text-to-speech; language:ne; license:cc-by-sa-4.0; region:us; neptts-bench
