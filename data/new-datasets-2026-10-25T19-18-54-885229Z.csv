@@ -1,0 +1,59 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T18:21:04Z,lakelandaerial/lake-country-aerial-imagery,lakelandaerial,0,0,task_categories:image-segmentation; task_categories:image-classification; task_categories:object-detection; annotations_creators:no-annotation; language:en; license:other; size_categories:10K<n<100K;…
+2026-10-25T18:21:04Z,Cybrpgs/alphahybrid-top100-new-20261025,Cybrpgs,0,0,region:us
+2026-10-25T18:26:05Z,LLA13/switzerland-official-salaries-rents-2026,LLA13,0,0,region:us
+2026-10-25T18:27:51Z,tatjr13/fallen-coco704-cross83n84r-source-20261025,tatjr13,0,0,region:us
+2026-10-25T18:28:47Z,hirundo-io/prompt-injection-refusals-synthetic-v1-cap3000-seed42,hirundo-io,0,0,language:en; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prompt-injection; synthetic
+2026-10-25T18:29:30Z,g1n0st/90019a2ccd218c962146993472ea45faa91b3e98,g1n0st,0,0,region:us
+2026-10-25T18:29:34Z,dsa12dsz123sz/Annoy-PyEdu-Rs-Raw,dsa12dsz123sz,0,0,region:us
+2026-10-25T18:29:34Z,dsa12dsz123sz/Annoy-PyEdu-Rs,dsa12dsz123sz,0,0,region:us
+2026-10-25T18:33:21Z,hirundo-io/document-injection-answered-sub2000-seed42,hirundo-io,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T18:33:35Z,bestpropfirmdiscounts/vest-markets-coupon-code-propft-5-percent-off,bestpropfirmdiscounts,0,0,language:en; region:us; vest-markets; propft; discount-code; coupon-code; prop-trading; crypto-trading
+2026-10-25T18:33:53Z,g1n0st/692a84bdb902e075921f99c34ff1781c0a4352f4,g1n0st,0,0,region:us
+2026-10-25T18:34:04Z,hirundo-io/prompt-injection-refusals-synthetic-v1-cap3600-seed42,hirundo-io,0,0,language:en; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prompt-injection; synthetic
+2026-10-25T18:34:31Z,Jerryblessed/bible-dramatized-audiov6,Jerryblessed,0,0,region:us
+2026-10-25T18:35:14Z,DJS3M3N/ru-asr-correction-names,DJS3M3N,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T18:36:38Z,g1n0st/a398db6d0bc58c7be75a8b6cf0ceed9f6dbd887f,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T18:38:32Z,C10X/testtt,C10X,0,0,region:us
+2026-10-25T18:39:31Z,DSA21CSA31A21EER/Annoy-PyEdu-Rs,DSA21CSA31A21EER,0,0,region:us
+2026-10-25T18:39:32Z,DSA21CSA31A21EER/Annoy-PyEdu-Rs-Raw,DSA21CSA31A21EER,0,0,region:us
+2026-10-25T18:40:29Z,Alibaba-DAMO-Academy/Rynn-VP,Alibaba-DAMO-Academy,0,0,region:us
+2026-10-25T18:41:41Z,PureOne/N0N-Oriel-VII-The-Integral-Circuit,PureOne,0,0,language:en; size_categories:n<1K; format:json; modality:document; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; m…
+2026-10-25T18:43:19Z,g1n0st/2b4117dbcbdd35c314acdf6dfee533dbacaaed73,g1n0st,0,0,region:us
+2026-10-25T18:44:52Z,bcywinski/gen-science-05-colour-probe-v3,bcywinski,0,0,license:mit; region:us
+2026-10-25T18:46:00Z,SamruddhiThorat07/rollout_red_A_test_02,SamruddhiThorat07,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-25T18:46:01Z,g1n0st/6d0e16279aa0e65f43c4f77121865f3915851858,g1n0st,0,0,region:us
+2026-10-25T18:47:15Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-10-25T18:48:07Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-10-25T18:48:20Z,kjnikhil/hummingbird-wing-test,kjnikhil,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T18:49:17Z,g1n0st/1d3723f4926dacb40c33156fcc6fa38cdfe4b07a,g1n0st,0,0,region:us
+2026-10-25T18:49:19Z,g1n0st/80ecd132b53809dbb93aa7b4d12274b973c8e665,g1n0st,0,0,region:us
+2026-10-25T18:53:41Z,silverdel/antearena-results,silverdel,0,0,license:cc-by-4.0; region:us; ai-evaluation; decision-quality; risk-management; llm-benchmark; casino-games; ante-index
+2026-10-25T18:54:25Z,julianoelhaf/genco-n2-guaranteed-screening,julianoelhaf,0,0,license:apache-2.0; size_categories:1K<n<10K; region:us; power-systems; contingency-analysis; conformal-prediction; gridfm; genco
+2026-10-25T18:55:00Z,Gom-sy/coffee3_gen_relabel_exchange,Gom-sy,0,0,region:us
+2026-10-25T18:55:03Z,scairesearch/decision-index-results-kieve-jev-moe-300m,scairesearch,0,0,region:us
+2026-10-25T18:56:41Z,Itsuki-music/POP909-CL-Dataset,Itsuki-music,0,0,arxiv:2510.06528; region:us
+2026-10-25T18:56:59Z,subhamgiri9748/kokoros-distill,subhamgiri9748,0,0,region:us
+2026-10-25T18:57:33Z,scairesearch/decision-index-results-kieve-jev-fractal-300m,scairesearch,0,0,region:us
+2026-10-25T18:59:28Z,bart-khalid/Violence-Cap,bart-khalid,0,0,size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T19:00:49Z,ceselder/kimi-k3-olens-heldout-activations,ceselder,0,0,language:en; license:other; size_categories:10K<n<100K; region:us; interpretability; oracle-lens; olens; kimi-k3; activations; attention-residuals
+2026-10-25T19:00:50Z,ceselder/kimi-k3-olens-workspacebench-readouts,ceselder,0,0,language:en; language:multilingual; license:other; size_categories:1M<n<10M; region:us; interpretability; oracle-lens; olens; kimi-k3; workspacebench; evaluation; llm-judge
+2026-10-25T19:00:51Z,ceselder/kimi-k3-olens-rl-rollouts,ceselder,0,0,language:en; license:other; size_categories:1M<n<10M; region:us; interpretability; oracle-lens; olens; kimi-k3; reinforcement-learning; cispo; rollouts
+2026-10-25T19:01:41Z,g1n0st/115d99da383167037809fac952b8b6dda57e0607,g1n0st,0,0,region:us
+2026-10-25T19:02:25Z,nihatxp/clash-of-clans-screen-segmentation-sample,nihatxp,0,0,task_categories:image-segmentation; task_categories:object-detection; license:other; size_categories:n<1K; region:us; clash-of-clans; coc; game; instance-segmentation; yolo; coco
+2026-10-25T19:02:57Z,g1n0st/9ff0926b627833d99d2ad0df45f8f67f64ec5f85,g1n0st,0,0,region:us
+2026-10-25T19:03:04Z,g1n0st/b367bb04cd99969bc7b21db40891ebcd3ca7b7a6,g1n0st,0,0,region:us
+2026-10-25T19:03:23Z,g1n0st/3f01f7296bfecbfaea003d11a39c7f795c30c40d,g1n0st,0,0,region:us
+2026-10-25T19:03:56Z,sw-voice/swamiji-navaratri-telugu-sidon-themes,sw-voice,0,0,task_categories:text-to-speech; language:te; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-25T19:04:49Z,g1n0st/f251f828194bd8d86de9cdc59b2c2331f151b213,g1n0st,0,0,region:us
+2026-10-25T19:05:55Z,Vveninski/Fizz,Vveninski,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T19:12:01Z,nata2627/ru-fin-retrieval,nata2627,0,0,region:us
+2026-10-25T19:12:45Z,huseyin-karaca/mapada,huseyin-karaca,0,0,task_categories:audio-classification; language:en; language:fr; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; region:us; keyword-spotting; child-speech; childes; phonbank; tinyml; timestamps
+2026-10-25T19:13:02Z,kjnikhil/invite-stories-sam3-input,kjnikhil,0,0,region:us
+2026-10-25T19:13:25Z,bin015/BackdoorVLM,bin015,0,0,region:us
+2026-10-25T19:14:08Z,ComerX/forge-neoforge-sft-v2,ComerX,0,0,task_categories:text-generation; language:en; language:ru; size_categories:1K<n<10K; region:us; minecraft; forge; neoforge; modding; code; sft; porting
+2026-10-25T19:14:31Z,asfsdavcf/Annoy-PyEdu-Rs,asfsdavcf,0,0,region:us
+2026-10-25T19:14:32Z,asfsdavcf/Annoy-PyEdu-Rs-Raw,asfsdavcf,0,0,region:us
+2026-10-25T19:15:57Z,imbrent/sharknative-open-data,imbrent,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; product-specifications; consumer-products; open-data
+2026-10-25T19:16:39Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-25T19:16:39Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
