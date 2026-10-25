@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T01:21:49Z,SingularityUS/commsight-marine,SingularityUS,0,0,size_categories:n<1K; format:json; modality:geospatial; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T01:24:32Z,ragmishra108/pizza-cheese-salami,ragmishra108,0,0,region:us
+2026-10-25T01:24:42Z,g1n0st/003b2424fc88989634201f75afb4be1308a81e9e,g1n0st,0,0,region:us
+2026-10-25T01:29:54Z,POND-is/pond-principle,POND-is,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; hu…
+2026-10-25T01:30:47Z,SeLeVann/asr-spell-ru,SeLeVann,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T01:31:19Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-25T01:31:20Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-25T01:31:42Z,jbduran/vcc-2026-bench,jbduran,0,0,license:cc-by-4.0; region:us; biology; single-cell; perturb-seq; crispri
+2026-10-25T01:34:11Z,g1n0st/f9e61d3ae5579d4974e4ccf4e3e726dc0eeb30d0,g1n0st,0,0,region:us
+2026-10-25T01:34:15Z,g1n0st/f55581b9647efc8ce00f170fe560a7eb5a0703f6,g1n0st,0,0,region:us
+2026-10-25T01:36:16Z,g1n0st/c4f89c4db57fd02e068d275a901bd805f4a414af,g1n0st,0,0,region:us
+2026-10-25T01:36:36Z,researchhub07/cellucare-buyer-research-6ypz,researchhub07,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; buyer-research; consumer-health
+2026-10-25T01:37:09Z,g1n0st/2a41d5e7e2d1bb1b0a3a3a7039a8de38b0550ff0,g1n0st,0,0,region:us
+2026-10-25T01:37:19Z,g1n0st/4413d30613da4bdef45c019116e796354c7127fe,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T01:37:47Z,g1n0st/5ce289df788315b105aa61d7e2655b1b7e1a8368,g1n0st,0,0,region:us
+2026-10-25T01:38:02Z,williamium/mmret-mbeir,williamium,0,0,task_categories:text-retrieval; task_categories:text-to-image; task_categories:image-to-text; task_categories:visual-question-answering; language:en; license:mit; arxiv:2311.17136; region:us
+2026-10-25T01:38:32Z,g1n0st/d3832707838f8d9466aa8d36709a2f8077bd38ee,g1n0st,0,0,region:us
+2026-10-25T01:39:22Z,hallucite-org/ai-models-eval,hallucite-org,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-10-25T01:39:34Z,g1n0st/94d8f31d0678dde6bfc47057640454fb66d037fb,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:39:35Z,g1n0st/89bda41fade08e9ec4ea96ef2ee16b3ea56a2457,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:40:37Z,g1n0st/0421a0b1fae9b0f46f10e84191a9066694566beb,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:41:05Z,trentmkelly/gransnet,trentmkelly,0,0,region:us
+2026-10-25T01:41:19Z,axonis22/axonis-judge-papers,axonis22,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars…
+2026-10-25T01:41:31Z,BurnyCoder/ouro-1.4b-neuron-atlas,BurnyCoder,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; interpretability; mechanistic-interpretability; looped…
+2026-10-25T01:44:10Z,hirosan6595/omx_f_act-1025-pushtest,hirosan6595,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcr…
+2026-10-25T01:45:31Z,g1n0st/00881b69bbb857155066e48a5695be39e188a7d1,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:46:04Z,audio-harvest/physics-audio-sim,audio-harvest,0,0,language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; audio; synthetic; physics; phys…
+2026-10-25T01:46:36Z,mtmtt/orange_plate_v2,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-25T01:46:50Z,illusion-brain/hetero-moe-v48,illusion-brain,0,0,license:apache-2.0; region:us; mixture-of-experts; heterogeneous-models; model-fusion; routing; research-artifacts
+2026-10-25T01:47:24Z,g1n0st/6bddf2151f4b36772f587bca832d791fc738139b,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:47:45Z,caspar/MiniMind-FineWeb-Edu-Score35-v1.0,caspar,0,0,language:en; license:odc-by; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T01:47:52Z,xcpatr922JNP/maya-dgx-spark-bench,xcpatr922JNP,0,0,task_categories:text-generation; language:en; language:zh; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-25T01:49:00Z,g1n0st/cdb221aebf6feff5bad79a328d289cd30c847427,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T01:51:11Z,redmingwei/hetero-moe,redmingwei,0,0,region:us
+2026-10-25T01:51:32Z,TUaxhuiax/nimbus-2871-ui-screens,TUaxhuiax,0,0,license:cc-by-4.0; region:us; design-system; screenshots
+2026-10-25T01:52:04Z,TUaxhuiax/nimbus-2871-ui-screens-archive,TUaxhuiax,0,0,license:cc-by-4.0; region:us; design-system; screenshots
+2026-10-25T01:52:06Z,TUaxhuiax/nimbus-2871-ui-screens-v0,TUaxhuiax,0,0,license:gpl-3.0; region:us; design-system; screenshots
+2026-10-25T01:52:09Z,TUaxhuiax/nimbus-2871-ui-screens-old,TUaxhuiax,0,0,license:mit; region:us; design-system; screenshots
+2026-10-25T01:54:07Z,HFSYNC/vault-f1fbf603d2df24ab,HFSYNC,0,0,region:us
+2026-10-25T01:57:44Z,caspar/MiniMind-Mixed-SFT-Training-v1.0,caspar,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T02:04:09Z,corona314/rollout_correcciones_chess_20261025_024229,corona314,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-25T02:04:12Z,BertoTrujillo/superinscabmerged,BertoTrujillo,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T02:04:38Z,hirosan6595/omx_f_act-1025-03,hirosan6595,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-25T02:08:23Z,caspar/MiniMind-V-LLaVA-Short-Training-v1.0,caspar,0,0,language:en; license:other; region:us
+2026-10-25T02:10:16Z,SamuelWu318/ts-tesserafire-5-int8,SamuelWu318,0,0,region:us
+2026-10-25T02:12:44Z,g1n0st/ac1f22a716c136cc35f78563009eb322e32ad7d9,g1n0st,0,0,region:us
+2026-10-25T02:12:48Z,g1n0st/f11c09ea62bc0fa15e8510edafc286d18fb5f544,g1n0st,0,0,region:us
+2026-10-25T02:13:24Z,g1n0st/6ad7107dd1f38d9e525bff22f47033e8c8989415,g1n0st,0,0,region:us
+2026-10-25T02:13:29Z,g1n0st/b5a988ea8b71649e52cff8c6aa49ab05eb43ce8d,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T02:14:07Z,g1n0st/83c912246430b4815ed553fe632dcd90e62b621b,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T02:14:15Z,g1n0st/a96ee19bf48899b3ea0ae91993bb7db01a3296a8,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T02:16:31Z,g1n0st/646b085948fe26b1c15aff1e8e12c1ac0b95645f,g1n0st,0,0,region:us
+2026-10-25T02:16:38Z,corona314/rollout_correcciones_chess_20261025_030632,corona314,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-25T02:17:14Z,plaxxma/libero-initpose-perturb,plaxxma,0,0,task_categories:robotics; license:other; region:us; LeRobot; LIBERO; robot-manipulation; initial-pose-perturbation
+2026-10-25T02:18:01Z,g1n0st/f4c0baeebf3a8c1cb61a20994f3176c7a022a0a3,g1n0st,0,0,region:us
+2026-10-25T02:18:27Z,g1n0st/d2e904253c21e09dfddf4474e0bfad3b2e1d74e9,g1n0st,0,0,region:us
