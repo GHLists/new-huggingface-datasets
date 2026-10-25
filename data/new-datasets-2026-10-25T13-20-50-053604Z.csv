@@ -1,0 +1,39 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T12:24:47Z,soup1984/hpr-podcast-transcripts,soup1984,0,0,task_categories:automatic-speech-recognition; task_categories:text-generation; language:en; license:cc-by-sa-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets;…
+2026-10-25T12:26:07Z,tongji-franka/hockey_static_release,tongji-franka,0,0,task_categories:robotics; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library…
+2026-10-25T12:27:04Z,Isla695924/NF1_Classification_data,Isla695924,0,0,license:cc-by-4.0; region:us
+2026-10-25T12:28:12Z,namelesis27/ur5_table_auto_balanced_full124,namelesis27,0,0,task_categories:robotics; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; librar…
+2026-10-25T12:32:56Z,adrien4916/air_qual_indicators,adrien4916,0,0,license:cc-by-4.0; region:us
+2026-10-25T12:33:43Z,tongji-franka/hockey_static_release_01,tongji-franka,0,0,task_categories:robotics; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library…
+2026-10-25T12:34:10Z,Gyubeum/AndroidFlux_RM_train,Gyubeum,0,0,size_categories:1K<n<10K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T12:36:22Z,hirundo-io/prompt-injection-refusals-synthetic-v1-cap1500-seed42,hirundo-io,0,0,language:en; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prompt-injection; synthetic
+2026-10-25T12:38:07Z,BlossomsGarden/pick-and-place-v3_20261025_051506,BlossomsGarden,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-25T12:38:48Z,1000luca/FlexDM-LoRA-decision-index,1000luca,0,0,license:mit; region:us; decision-index; evaluation
+2026-10-25T12:38:53Z,Maine767/genai_hw1_spell_v2,Maine767,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T12:38:55Z,Whalswp/kuavo-dataset-skill,Whalswp,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics
+2026-10-25T12:41:56Z,Bluexxx/SemMSA-data,Bluexxx,0,0,language:en; language:zh; license:other; size_categories:10K<n<100K; arxiv:2609.30238; region:us; multimodal; sentiment-analysis; multimodal-sentiment-analysis; missing-modality
+2026-10-25T12:45:58Z,wyf-yfw/MiniSeek-dataset,wyf-yfw,0,0,region:us
+2026-10-25T12:46:08Z,x-anov/x-anov-spell-dataset,x-anov,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T12:48:06Z,rishavk77/hindi-silence-noise-50,rishavk77,0,0,task_categories:automatic-speech-recognition; language:hi; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:audio; modality:tabular; modality:text; library:datasets; library:pandas; libr…
+2026-10-25T12:48:22Z,manjukp6/tara_dataset_v1,manjukp6,0,0,language:en; language:kn; language:sa; license:cc-by-4.0; size_categories:10B<n<100B; modality:audio; region:us; tara; foundation; pretraining; multimodal; audio; vision; speech-recognition; image-ca…
+2026-10-25T12:48:26Z,Hebrish/ASR-Error-Prediction,Hebrish,0,0,task_categories:text-classification; language:en; language:he; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-25T12:50:00Z,oxidozi/orvixos-depo,oxidozi,0,0,license:other; region:us; linux; debian; apt
+2026-10-25T12:50:41Z,rabiul43/Book_Text,rabiul43,0,0,region:us
+2026-10-25T12:52:32Z,jmp1987/promptgott-assets,jmp1987,0,0,region:us
+2026-10-25T12:53:22Z,g1n0st/792d189eeaa99dfc6cfacf10bb23d5c4a41473b6,g1n0st,0,0,region:us
+2026-10-25T12:54:00Z,Tonyeli170298/french-dual-channel-OTS,Tonyeli170298,0,0,region:us
+2026-10-25T12:56:33Z,amad-iq/iraqi-wiki-iraq,amad-iq,0,0,task_categories:text-generation; task_categories:translation; task_categories:question-answering; language:ar; license:cc-by-sa-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:t…
+2026-10-25T12:57:05Z,nvtruongops/SDR-Bench,nvtruongops,0,0,task_categories:text-retrieval; task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; region:us; benchmark; personalization; b2b-sales; agent-evaluation; deep-research
+2026-10-25T12:59:26Z,ritwika96/qwen3.8-27b-arc1120-base-traces-20261025,ritwika96,0,0,region:us
+2026-10-25T13:00:54Z,Zhengrui/ckptv1,Zhengrui,0,0,region:us
+2026-10-25T13:02:45Z,nabla-measure/voice-fidelity-check,nabla-measure,0,0,region:us
+2026-10-25T13:02:58Z,double-double/hw1-russian-asr-corrections-2026,double-double,0,0,region:us
+2026-10-25T13:06:28Z,saiteja33/safemaize-cvpr-runs,saiteja33,0,0,region:us
+2026-10-25T13:06:46Z,leo20240112/imagenet-relay-cipher-20261025-2105-b03,leo20240112,0,0,region:us
+2026-10-25T13:07:19Z,waxal-benchmarking/waxalnet-asr-results,waxal-benchmarking,0,0,task_categories:automatic-speech-recognition; language:ach; language:aka; language:amh; language:dag; language:dga; language:ewe; language:ful; language:kpo; language:lin; language:lug; language:myx;…
+2026-10-25T13:08:41Z,kansation/unmarked-doors,kansation,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:11:15Z,leonhard-behr/voxpopuli-v1-de-matched-descriptions,leonhard-behr,0,0,region:us
+2026-10-25T13:12:50Z,dewiiiiiiiiii/biologi,dewiiiiiiiiii,0,0,region:us
+2026-10-25T13:13:48Z,MISLab-MiiSLab/Le-006,MISLab-MiiSLab,0,0,region:us
+2026-10-25T13:19:36Z,Mhale06/backup,Mhale06,0,0,region:us
+2026-10-25T13:20:09Z,Whyynnot/standard_task_pick_up_the_red_block_and_put_it_on_the_plate_resume_20261025_205210,Whyynnot,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
