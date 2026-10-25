@@ -1,0 +1,82 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T20:20:49Z,aayurchik/asr_spell,aayurchik,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:21:20Z,g1n0st/c32571f1582bb279226c2dc4ca3551dccefa642a,g1n0st,0,0,region:us
+2026-10-25T20:21:42Z,Filthyname/russian-asr-correction,Filthyname,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:24:57Z,ple4rt/078c37b685,ple4rt,0,0,region:us
+2026-10-25T20:26:19Z,Garv-s/PAN_CANCER_2,Garv-s,0,0,license:mit; region:us
+2026-10-25T20:26:52Z,Krows7/ru-asr-correction-groq,Krows7,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:27:02Z,syncster-data/us-market-1m-data,syncster-data,0,0,license:other; region:us; finance; stocks; options; futures; ohlcv; parquet
+2026-10-25T20:27:18Z,AIDC-CTCM/content-tagging-eval,AIDC-CTCM,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:28:30Z,armnet/eval_push_green_button_so101-test-99teun_20h14m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-25T20:29:36Z,coreytoolathon/Annoy-PyEdu-Rs,coreytoolathon,0,0,region:us
+2026-10-25T20:29:37Z,coreytoolathon/Annoy-PyEdu-Rs-Raw,coreytoolathon,0,0,region:us
+2026-10-25T20:29:47Z,dsixteen/Niji_1_Portrait-control-captions,dsixteen,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T20:30:07Z,ANWERFATEHY/raw_math_for_training_chat_model,ANWERFATEHY,0,0,license:apache-2.0; size_categories:10M<n<100M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T20:32:53Z,TUaxhuiax/playwright_with_chunk_memory_filesystem_huggingface_330-intake-508cc00a,TUaxhuiax,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:37:06Z,MotorastArchitect/Motorast-Anti-Cheat-Library,MotorastArchitect,0,1,region:us
+2026-10-25T20:37:09Z,ivan-pii/asr-spell-correction-ru,ivan-pii,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T20:38:23Z,geekyrakshit/PROTEAS-Brain-Metastases-Segmentation,geekyrakshit,0,0,task_categories:image-segmentation; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-25T20:39:40Z,smca/offline-downloads,smca,0,0,region:us
+2026-10-25T20:43:10Z,g1n0st/96fd81c5ce19ebbc8daea6bf805156625ef65420,g1n0st,0,0,region:us
+2026-10-25T20:43:17Z,g1n0st/15142001e745238bf423615813e404659017c807,g1n0st,0,0,region:us
+2026-10-25T20:43:27Z,est4ever/so101_green_right_20261025_163903,est4ever,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-25T20:43:30Z,underfrog/fanout-dbpedia,underfrog,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T20:44:15Z,g1n0st/741d4c522c02c60a2c8b63c8e308406c4de01c5a,g1n0st,0,0,region:us
+2026-10-25T20:44:48Z,aqxlogistics/saudi-arabia-and-gcc-solar-pv-victron-inverters-and-lithium-storage-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; solar-pv; victron-energy; saudi-arabia
+2026-10-25T20:44:50Z,aqxlogistics/uae-and-dubai-motorsport-racing-transmissions-and-tilton-clutches-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; motorsport-parts; tilton-racing; uae; dubai
+2026-10-25T20:44:52Z,aqxlogistics/kuwait-rockauto-and-classic-car-parts-air-freight-consolidation-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; rockauto; auto-parts; kuwait
+2026-10-25T20:44:54Z,aqxlogistics/new-zealand-us-package-forwarding-and-freight-consolidation-benchmark-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; package-forwarding; consolidation; new-zealand
+2026-10-25T20:44:56Z,aqxlogistics/western-europe-sweetwater-pro-audio-and-tube-preamps-air-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; sweetwater-audio; tube-preamps; western-europe
+2026-10-25T20:45:16Z,g1n0st/72f4ddbbdde43ac7c2a710c91318b9e02a190362,g1n0st,0,0,region:us
+2026-10-25T20:45:20Z,g1n0st/6d2fcf94110434baed36c8c898608736dd9c50f3,g1n0st,0,0,region:us
+2026-10-25T20:45:50Z,aqxlogistics/saudi-arabia-and-gcc-fiber-laser-cutting-heads-and-optics-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; fiber-laser; industrial-optics; saudi-arabia
+2026-10-25T20:45:51Z,aqxlogistics/uae-and-dubai-marine-yacht-bow-thrusters-and-pod-drives-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; marine-yacht; bow-thrusters; uae; dubai
+2026-10-25T20:45:53Z,aqxlogistics/bahrain-brembo-racing-brakes-and-rockauto-parts-air-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; brembo-racing; auto-parts; bahrain
+2026-10-25T20:45:55Z,aqxlogistics/united-kingdom-us-package-forwarding-and-consolidation-service-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; package-forwarding; reddit-reviews; united-kingdom
+2026-10-25T20:45:57Z,aqxlogistics/western-europe-commercial-espresso-roasting-machinery-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; coffee-roasters; espresso-machinery; western-europe
+2026-10-25T20:46:15Z,armnet/eval_push_green_button_so101-test-qn2x30_20h31m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-25T20:46:19Z,g1n0st/d9700f151d7b234feb608ed7d3166d40af83136e,g1n0st,0,0,region:us
+2026-10-25T20:46:41Z,armnet/eval_push_green_button_so101-test-25b4u5_20h31m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-25T20:46:49Z,aqxlogistics/saudi-arabia-and-gcc-specialty-coffee-mahlkonig-grinders-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; specialty-coffee; mahlkonig-grinders; saudi-arabia
+2026-10-25T20:46:51Z,aqxlogistics/uae-and-dubai-aviation-gse-engine-maintenance-tooling-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; aviation-mro; aircraft-tooling; uae; dubai
+2026-10-25T20:46:52Z,aqxlogistics/kuwait-drift-car-hydraulic-handbrakes-and-racing-clutches-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; drift-parts; hydraulic-handbrakes; kuwait
+2026-10-25T20:46:54Z,aqxlogistics/qatar-broadcast-studio-digital-mixers-and-audio-dsp-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; broadcast-audio; digital-mixers; qatar
+2026-10-25T20:46:56Z,aqxlogistics/western-europe-bilstein-and-kw-clubsport-racing-suspensions-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; racing-suspension; bilstein-kw; western-europe
+2026-10-25T20:47:13Z,g1n0st/97e509d76ea83d6dbb28b945d58931d228f08e96,g1n0st,0,0,region:us
+2026-10-25T20:47:25Z,aqxlogistics/saudi-arabia-and-gcc-commercial-pizza-ovens-and-hobart-mixers-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; commercial-kitchen; hobart-mixers; saudi-arabia
+2026-10-25T20:47:27Z,aqxlogistics/uae-and-dubai-marine-underwater-rov-inspection-systems-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; marine-rov; subsea-inspection; uae; dubai
+2026-10-25T20:47:29Z,aqxlogistics/kuwait-garrett-motion-racing-turbochargers-and-intercoolers-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; turbochargers; garrett-motion; kuwait
+2026-10-25T20:47:31Z,aqxlogistics/bahrain-and-oman-broadcast-atem-video-production-switchers-freight-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; broadcast-video; atem-switchers; bahrain; oman
+2026-10-25T20:47:32Z,aqxlogistics/western-europe-solid-carbide-cnc-router-tooling-and-cutters-cargo-2026,aqxlogistics,0,0,task_categories:tabular-regression; task_categories:feature-extraction; license:mit; size_categories:10K<n<100K; region:us; logistics; air-cargo; cnc-tooling; carbide-cutters; western-europe
+2026-10-25T20:47:33Z,g1n0st/d30b91180011d17cbfece78293af52ff9f5d4fef,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T20:47:56Z,g1n0st/b2a1baeada551c127383c8e341f4ad48ae48e324,g1n0st,0,0,region:us
+2026-10-25T20:48:15Z,g1n0st/3c5cbad373a6e5ed0645b23d6007aaf47c5515f3,g1n0st,0,0,region:us
+2026-10-25T20:49:21Z,namezz/seer-agent-traces,namezz,0,0,task_categories:other; language:en; size_categories:1K<n<10K; region:us; agent-scheduling; resource-accounting; oracle-replay; terminal-bench; swe-bench
+2026-10-25T20:49:24Z,Squezilia/Route4Secure,Squezilia,0,0,task_categories:text-classification; language:ar; language:de; language:en; language:es; language:fr; language:hi; language:it; language:ja; language:ko; language:nl; language:th; language:zh; licens…
+2026-10-25T20:50:00Z,g1n0st/1224caac5e6c267e0a1f5979f9876ec0fbb1863d,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T20:50:29Z,chasenorman/premise-cache,chasenorman,0,0,region:us
+2026-10-25T20:53:42Z,theophilusowiti/CPT-0.3B-Tokens-AfricanCorpus,theophilusowiti,0,0,task_categories:text-generation; license:other; size_categories:10M<n<100M; region:us; continued-pretraining; african-languages; multilingual; low-resource
+2026-10-25T20:54:06Z,g1n0st/c351a636d8867f8758ac168643c9ea4b09e1372f,g1n0st,0,0,region:us
+2026-10-25T20:56:19Z,yuiseki/agera5-japan-monthly-temperature-1979-2026,yuiseki,0,0,language:en; license:cc-by-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; geos…
+2026-10-25T20:56:55Z,bird-of-paradise/muon-dion3-pytorchcon-2026,bird-of-paradise,0,0,license:apache-2.0; region:us; pytorch; optimizer; muon; dion3; fsdp; fp8; distributed-training; reinforcement-learning; grpo
+2026-10-25T20:57:06Z,uygarkurt/xlam-tool-calling-mixed,uygarkurt,0,0,language:en; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tool-calling; function-calling; abstention
+2026-10-25T20:58:22Z,Iadno/russian-asr-gemini-ht1,Iadno,0,0,task_categories:text-generation; language:ru; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; asr; sp…
+2026-10-25T21:02:42Z,hanbangwu/alphauniverse-labels,hanbangwu,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T21:02:56Z,armnet/eval_push_green_button_so101-test-1bl3hb_20h48m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-25T21:03:50Z,vuzq/hellcat,vuzq,0,0,region:us
+2026-10-25T21:05:01Z,teamsleeping/Y1-exclusive,teamsleeping,0,0,region:us
+2026-10-25T21:06:27Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-25T21:06:28Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-25T21:06:41Z,armnet/eval_push_green_button_so101-test-d3jn0i_20h50m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-25T21:08:18Z,yuiseki/gfw-forest-carbon-net-flux-hokkaido-east-2001-2023-v1-3-2,yuiseki,0,0,license:cc0-1.0; size_categories:10M<n<100M; modality:geospatial; region:us; geospatial; geoparquet; forest-carbon; carbon-flux; global-forest-watch; hokkaido
+2026-10-25T21:10:07Z,JamieZhou0237/items_raw_full,JamieZhou0237,0,0,region:us
+2026-10-25T21:10:44Z,JamieZhou0237/items_raw_lite,JamieZhou0237,0,0,region:us
+2026-10-25T21:11:15Z,juiceb0xc0de/carbon-x-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-25T21:11:33Z,jamesjunyuguo/lean4control-data,jamesjunyuguo,0,0,license:apache-2.0; region:us
+2026-10-25T21:14:24Z,g1n0st/3384bccabda2a8cb44ef4f51bb993d1187037a02,g1n0st,0,0,region:us
+2026-10-25T21:16:33Z,armnet/eval_busybox_left_toggle_down_so101-test-l42aul_21h07m_25-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-25T21:16:53Z,ssmit203/cube_push_hilserl_test7,ssmit203,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-25T21:18:02Z,g1n0st/27f93b5d0fb56ac7fbc95a9f89682b864dd13139,g1n0st,0,0,region:us
+2026-10-25T21:19:03Z,g1n0st/a79c0de72fc4a6ae1b212f04852e5da05b426e0d,g1n0st,0,0,region:us
+2026-10-25T21:19:52Z,g1n0st/c83446d2eaf874c47559befcb6253106a70aa0b3,g1n0st,0,0,region:us
+2026-10-25T21:21:36Z,g1n0st/7350e2186b21630f4c538808f5550bb018ab6248,g1n0st,0,0,region:us
