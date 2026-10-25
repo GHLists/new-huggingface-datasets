@@ -1,0 +1,117 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T17:20:53Z,justicedao/ipfs_italy_regional_laws,justicedao,0,0,language:it; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:21:20Z,williamium/mmret-mbeir-v2,williamium,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:22:20Z,ayeeyokoris/data,ayeeyokoris,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:23:09Z,cynosural/colonia-sniff-trajectories,cynosural,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:23:26Z,TUaxhuiax/filesystem_terminal_huggingface_2009_sla_9d2c4b,TUaxhuiax,0,0,region:us
+2026-10-25T17:23:47Z,g1n0st/9acee45320b49e49babbee7440c8dfd60c42aa35,g1n0st,0,0,region:us
+2026-10-25T17:29:31Z,Beifengdo/Algorithm-Design-Practice,Beifengdo,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:30:13Z,Beifengdo/AutoCAD-2023,Beifengdo,0,0,region:us
+2026-10-25T17:30:41Z,Sensen02/games-assets,Sensen02,0,0,license:cc-by-4.0; region:us; game-assets; threejs; webgl
+2026-10-25T17:31:01Z,Beifengdo/Computer-Organization-Labs,Beifengdo,0,0,region:us
+2026-10-25T17:31:43Z,Beifengdo/Elective-Course-Selection-Guide,Beifengdo,0,0,region:us
+2026-10-25T17:32:28Z,Beifengdo/Information-Systems-Analysis-and-Design,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:33:12Z,Beifengdo/Intelligent-Information-Processing,Beifengdo,0,0,region:us
+2026-10-25T17:33:46Z,Beifengdo/Object-Oriented-Analysis-and-Design,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:34:14Z,Beifengdo/Programming-Practicum,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:34:45Z,Beifengdo/Software-Design-and-Architecture,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:35:18Z,Beifengdo/Software-Project-Management,Beifengdo,0,0,region:us
+2026-10-25T17:35:52Z,Beifengdo/Software-Requirements-Analysis,Beifengdo,0,0,region:us
+2026-10-25T17:36:27Z,g1n0st/1d73732e5d2057190174ca05abb95fa37981424a,g1n0st,0,0,region:us
+2026-10-25T17:36:28Z,g1n0st/1d1ac8571940fa5e0f427fb8481574b6a58ec000,g1n0st,0,0,region:us
+2026-10-25T17:36:53Z,Anupam-Rawat-IITB/sdar30b-draft-judge-data,Anupam-Rawat-IITB,0,0,region:us
+2026-10-25T17:37:11Z,akino222333/dobot-four-instrument-descriptive-v1,akino222333,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T17:37:32Z,ThomasZ78/scam,ThomasZ78,0,0,task_categories:image-to-text; language:cop; license:cc-by-4.0; region:us; coptic; handwritten-text-recognition; HTR; historical-documents; line-segmentation
+2026-10-25T17:38:13Z,Nilesh9975/items_raw_full,Nilesh9975,0,0,region:us
+2026-10-25T17:38:51Z,g1n0st/8784574a433713f44f84324003b521f58feec032,g1n0st,0,0,region:us
+2026-10-25T17:39:24Z,g1n0st/ea0551a8809aabc32ded6dda5007a3a674547d5f,g1n0st,0,0,region:us
+2026-10-25T17:40:03Z,Nilesh9975/items_raw_lite,Nilesh9975,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:40:12Z,WorldAgents-c/MultiDojo2,WorldAgents-c,0,0,task_categories:robotics; language:en; language:zh; size_categories:100K<n<1M; region:us; robotics; multi-robot; manipulation; heterogeneous-robots; simulation; world-action-model; multi-view
+2026-10-25T17:40:34Z,omorros/kitchen-fruit-vegetable-detection,omorros,0,0,task_categories:object-detection; task_categories:zero-shot-object-detection; annotations_creators:expert-generated; source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; fo…
+2026-10-25T17:40:58Z,tewoto/embedding_changes_of_model,tewoto,0,0,license:mit; region:us
+2026-10-25T17:43:03Z,kiki67/kikis_dataset,kiki67,0,0,region:us
+2026-10-25T17:46:12Z,g1n0st/f2fb49818c5dddb58ffc08f30e7a1df0bfa5717c,g1n0st,0,0,region:us
+2026-10-25T17:46:12Z,firefly1709/mahathi_shelf_new_7,firefly1709,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T17:46:55Z,Osam-2025/uk-gcse-alevel-maths-markschemes-2018-2025,Osam-2025,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; education; uk-cu…
+2026-10-25T17:47:08Z,starkAhmed43/lc-image-4b954a873a2441f0e7f76e92,starkAhmed43,0,0,region:us
+2026-10-25T17:47:15Z,craftloop-ai/hinglish-prompt-injection,craftloop-ai,0,0,task_categories:text-classification; language:hi; language:en; license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-25T17:48:48Z,DavidLXu/Push-Any-Letter,DavidLXu,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; arxiv:2210.02747; region:us; robotics; imitation-learning; simulation; pushing; trajectories; synthetic
+2026-10-25T17:51:17Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-25T17:51:18Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-25T17:51:30Z,Stereotypes-in-LLMs/hiring-bias-mitigation-v3,Stereotypes-in-LLMs,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-25T17:52:23Z,thaki-AI/daily-paper-2026-10-26-autonomy-ladder-k8s-incident-cost,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; LLM-agents; Kubernetes; SRE; AIOps; fault-injection; human-in-the-loop; autonomous-operations; cost-modeling
+2026-10-25T17:52:42Z,g1n0st/a0024001cfb7aedc41606680f6c8a743422b2f36,g1n0st,0,0,region:us
+2026-10-25T17:52:42Z,g1n0st/037d7f6e162ee8742eaad8b8814536f46b05730b,g1n0st,0,0,region:us
+2026-10-25T17:53:19Z,kisan-edge/kisan-edge-data,kisan-edge,0,0,language:hi; language:en; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:53:23Z,chengenwu/isaaclab_tactile,chengenwu,0,0,region:us; robotics; tactile; gelsight; isaac-lab; imitation-learning
+2026-10-25T17:54:15Z,fhdgbdf/lancadataset2,fhdgbdf,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-25T17:55:01Z,HakimAr42/rsvg-shift,HakimAr42,0,0,task_categories:object-detection; task_categories:image-segmentation; license:other; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; modality:geospatial; library:datasets…
+2026-10-25T17:55:18Z,sosa123454321/cekicin-m2-cost-eval,sosa123454321,0,0,language:tr; language:en; license:mit; modality:tabular; region:us; tabular; car-damage; cost-estimation; evaluation
+2026-10-25T17:55:18Z,sosa123454321/cekicin-m4-voice-eval,sosa123454321,0,0,task_categories:automatic-speech-recognition; language:tr; language:en; license:mit; modality:audio; region:us; audio; automatic-speech-recognition; turkish; evaluation
+2026-10-25T17:55:21Z,sosa123454321/cekicin-m5-places-coverage,sosa123454321,0,0,language:tr; language:en; license:mit; size_categories:n<1K; modality:text; modality:geospatial; region:us; geospatial; openstreetmap; evaluation; turkey
+2026-10-25T17:55:22Z,sosa123454321/cekicin-m6-impact-pilot,sosa123454321,0,0,language:tr; language:en; license:mit; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tabular; transport; emissions; pilot-template
+2026-10-25T17:55:45Z,juiceb0xc0de/meta-llama-3-8b-instruct-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-25T17:55:46Z,g1n0st/2d9274d37c19f54847bf972d9d44657acf1c63f3,g1n0st,0,0,region:us
+2026-10-25T17:55:47Z,g1n0st/55621064363a4b07ca653c8445a93211d5b57084,g1n0st,0,0,region:us
+2026-10-25T17:56:04Z,karpoand/my_ds_2_20261025_192337,karpoand,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-25T17:57:13Z,terranova-robotics/connecting-ridge-5m,terranova-robotics,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; lunar; south-pole; prospectivity; terrain; ISRU
+2026-10-25T17:57:28Z,Project-AgML/grassfield_weed_classification,Project-AgML,0,0,task_categories:image-classification; license:mit; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-10-25T17:57:29Z,terranova-robotics/artemis-south-pole-regions,terranova-robotics,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; lunar; south-pole; artemis; prospectivity; terrain; illumination; PSR
+2026-10-25T17:57:30Z,Project-AgML/deepcob_maize_cob_segmentation,Project-AgML,0,0,task_categories:object-detection; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-10-25T17:57:37Z,Project-AgML/bean_disease_classification_uganda,Project-AgML,0,0,task_categories:image-classification; license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-10-25T17:57:38Z,terranova-robotics/south-pole-ops-atlas-240m,terranova-robotics,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; lunar; south-pole; artemis; prospectivity; terrain; illumination; PSR; t…
+2026-10-25T17:57:39Z,Project-AgML/herbify_herb_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissan…
+2026-10-25T17:57:41Z,jaymanaryan/indra_pretraining_corpus_v1,jaymanaryan,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; causal-language-modeling; cont…
+2026-10-25T17:57:49Z,Project-AgML/chili_pepper_virus_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-10-25T17:57:56Z,Project-AgML/cross_season_weed_detection,Project-AgML,0,0,region:us
+2026-10-25T17:58:29Z,noemitiscar/project_ecommerce_olist,noemitiscar,0,0,size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T17:58:39Z,Project-AgML/living_dead_crown_tls_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T17:58:52Z,Project-AgML/papple_rgbd_amodal_segmentation,Project-AgML,0,0,region:us
+2026-10-25T17:59:04Z,Carter-123/formant_musicai,Carter-123,0,0,region:us
+2026-10-25T17:59:23Z,Project-AgML/plantcity_leaf_disease_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-10-25T17:59:57Z,ssmit203/cube_push_3,ssmit203,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-25T18:01:43Z,gaoxuan1234/SWRD,gaoxuan1234,0,0,region:us
+2026-10-25T18:03:57Z,Project-AgML/nibio_mls_forest_point_cloud_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:agpl-3.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T18:05:35Z,Project-AgML/alpine_grassland_root_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-10-25T18:06:07Z,Project-AgML/salma_leaf_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-10-25T18:06:11Z,Project-AgML/seed_germination_detection,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-10-25T18:07:12Z,emna04/MASTOURI-TUN-BAC-MATH,emna04,0,1,task_categories:question-answering; task_categories:text-generation; language:fr; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:pol…
+2026-10-25T18:07:14Z,Project-AgML/ripset_cocoa_pod_ripeness_detection,Project-AgML,0,0,region:us
+2026-10-25T18:08:27Z,Project-AgML/tomato_disease_detection_greenhouse,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-25T18:09:10Z,Project-AgML/strawberry_ds_stage_detection,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-10-25T18:10:16Z,g1n0st/aac54dda7654d74479b6f8bc4e05367deaddc9e3,g1n0st,0,0,region:us
+2026-10-25T18:10:16Z,Project-AgML/tuta_absoluta_tomato_damage_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-25T18:10:47Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-25T18:10:47Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-25T18:10:59Z,Project-AgML/lautx_tree_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-10-25T18:11:01Z,Project-AgML/truss_tomato_detection_greenhouse,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-25T18:11:16Z,ASD12CXZ/Annoy-PyEdu-Rs-Raw,ASD12CXZ,0,0,region:us
+2026-10-25T18:11:16Z,ASD12CXZ/Annoy-PyEdu-Rs,ASD12CXZ,0,0,region:us
+2026-10-25T18:11:42Z,asasaasaddxv/Annoy-PyEdu-Rs,asasaasaddxv,0,0,region:us
+2026-10-25T18:11:44Z,asasaasaddxv/Annoy-PyEdu-Rs-Raw,asasaasaddxv,0,0,region:us
+2026-10-25T18:12:20Z,useless-xiv/gdl_hw1_dataset,useless-xiv,0,0,region:us
+2026-10-25T18:12:22Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-10-25T18:12:25Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-10-25T18:12:25Z,Project-AgML/taro_leaf_disease_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-25T18:12:53Z,asfadaa/Annoy-PyEdu-Rs,asfadaa,0,0,region:us
+2026-10-25T18:12:53Z,vocabradar/WordFrequency,vocabradar,0,0,region:us
+2026-10-25T18:12:54Z,asfadaa/Annoy-PyEdu-Rs-Raw,asfadaa,0,0,region:us
+2026-10-25T18:14:19Z,ASD121SAD/Annoy-PyEdu-Rs,ASD121SAD,0,0,region:us
+2026-10-25T18:14:20Z,ASD121SAD/Annoy-PyEdu-Rs-Raw,ASD121SAD,0,0,region:us
+2026-10-25T18:14:26Z,Project-AgML/wgrape_unipd_bunch_detection,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-10-25T18:14:26Z,Project-AgML/wild_rice_kernel_quality_classification,Project-AgML,0,0,region:us
+2026-10-25T18:15:09Z,Project-AgML/tuta_absoluta_tomato_leaf_classification,Project-AgML,0,0,task_categories:image-classification; license:mit; size_categories:n<1K; region:us
+2026-10-25T18:15:38Z,Project-AgML/vineyard_grape_trunk_detection,Project-AgML,0,0,region:us
+2026-10-25T18:16:27Z,nntsuzu/kiku-datasets,nntsuzu,0,0,region:us
+2026-10-25T18:16:27Z,Project-AgML/woody_plant_encroachment_uav_segmentation,Project-AgML,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-25T18:17:13Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-25T18:17:14Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-25T18:17:56Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-10-25T18:17:57Z,sfafas2234/Annoy-PyEdu-Rs,sfafas2234,0,0,region:us
+2026-10-25T18:17:57Z,yuan1119/drawer_penglin_20261025_50eps,yuan1119,0,0,region:us
+2026-10-25T18:17:57Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-10-25T18:17:58Z,sfafas2234/Annoy-PyEdu-Rs-Raw,sfafas2234,0,0,region:us
+2026-10-25T18:18:06Z,vestmarketsdiscountcodepropft/vest-markets-discount-code-PROPFT-5-percent-off,vestmarketsdiscountcodepropft,0,0,region:us
+2026-10-25T18:19:40Z,indrajitdaspiramal/ps-characters,indrajitdaspiramal,0,0,region:us
+2026-10-25T18:20:24Z,yuan1119/drawer_penglin_20261025_24eps,yuan1119,0,0,region:us
+2026-10-25T18:20:41Z,EricDoug2026/lerobot_will_dataset_a,EricDoug2026,0,0,license:mit; region:us
