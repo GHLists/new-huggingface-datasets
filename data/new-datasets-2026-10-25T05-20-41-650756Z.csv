@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T04:21:02Z,ethanCSL/eval_openarm_pringles_lerobot_sim_10_smolvla_v00,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-25T04:21:50Z,shuren2/OPQ1025_20261025_120954,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-25T04:26:07Z,manoletre/chess-puzzles-1k,manoletre,0,0,task_categories:other; language:en; license:cc0-1.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-25T04:26:41Z,ShawnYJCZHF/CVGBench,ShawnYJCZHF,0,0,license:cc-by-4.0; size_categories:n<1K; modality:video; region:us; video; video-generation; counterfactual; benchmark; causal-reasoning
+2026-10-25T04:27:58Z,g1n0st/882eb1e9de1a3ca7e8a93ff3e75ebe9e818ba62c,g1n0st,0,0,modality:text; region:us
+2026-10-25T04:30:13Z,kinokokkaa/ashare-shsz-market-data,kinokokkaa,0,0,language:zh; region:us; finance; time-series; a-share; hikyuu; qlib
+2026-10-25T04:30:21Z,XenonGas/SafeSD-eval,XenonGas,0,0,language:en; region:us
+2026-10-25T04:30:58Z,Yale-BIDS-Chen/LEME-Training-Data,Yale-BIDS-Chen,0,0,task_categories:text-generation; language:en; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; l…
+2026-10-25T04:32:26Z,louivis/encoder-guard-four-track-v6_35,louivis,0,0,task_categories:text-classification; language:zh; language:en; license:other; size_categories:10K<n<100K; region:us; content-moderation; safety; tc260; pii; data-classification; lm-security; four-tra…
+2026-10-25T04:33:47Z,Maltoke/3d-ngamedev,Maltoke,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:3d; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T04:33:56Z,g1n0st/b107941b5f378dd56b4c3625725d69b64d7c4b08,g1n0st,0,0,region:us
+2026-10-25T04:38:34Z,soup1984/hn-whoishiring-2026-10,soup1984,0,0,task_categories:tabular-classification; language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-25T04:38:36Z,MingzhenL/metavfi-quest-transfer-pub,MingzhenL,0,0,region:us
+2026-10-25T04:39:35Z,kshitijthakkar/arena-all8-v32-field-reward,kshitijthakkar,0,0,task_categories:reinforcement-learning; language:en; license:mit; region:us
+2026-10-25T04:41:53Z,arthrod/redline-bench-jubarte-tasks,arthrod,0,0,task_categories:text-generation; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:monolingual; source_datasets:crosbylegal/RedlineBench; language:en; license…
+2026-10-25T04:44:52Z,g1n0st/fd18454575dfa7c7a2160b36c6abd3ae40f1fa6c,g1n0st,0,0,region:us
+2026-10-25T04:45:00Z,audiofreak7/glp1-payments-prescribing-medicare,audiofreak7,0,0,language:en; license:cc0-1.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; medicare; open…
+2026-10-25T04:48:15Z,MahimaSinghal/npov-onset,MahimaSinghal,0,0,task_categories:text-classification; annotations_creators:found; source_datasets:original; language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; li…
+2026-10-25T04:48:29Z,starkAhmed43/lc-image-a0e51d585c25b2307541ebd4,starkAhmed43,0,0,region:us
+2026-10-25T04:51:31Z,hi-todayis-jh/ouro-1.4b-thinking-math-verl-grpo-native-l1exact-cmp32k-cfg3-156947-20261024-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model
+2026-10-25T04:52:02Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-25T04:52:03Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-25T04:54:14Z,skyler210/ppo,skyler210,0,0,region:us
+2026-10-25T04:54:51Z,Hhitmancyber/Hhitman,Hhitmancyber,0,0,region:us
+2026-10-25T04:55:12Z,thainguyenquoc1/VietCar-ISA,thainguyenquoc1,0,0,language:vi; license:cc-by-nc-4.0; size_categories:n<1K; region:us
+2026-10-25T04:58:52Z,okansafak/geotek-nokta-bulutu,okansafak,0,0,region:us
+2026-10-25T05:02:28Z,soup1984/polymarket-midterms-2026-odds,soup1984,0,0,task_categories:tabular-regression; language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-25T05:02:37Z,twanghcmut/personal-files,twanghcmut,0,0,region:us
+2026-10-25T05:03:01Z,sheekion/red_pen_only_box_move_comet,sheekion,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-25T05:04:47Z,AmimulBmeIU/CT_FullBody,AmimulBmeIU,0,0,license:mit; region:us
+2026-10-25T05:10:17Z,Akross84/nephion-modelos,Akross84,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T05:11:05Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-25T05:11:05Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-25T05:11:41Z,saurabh0962/slag-plausibility-eval,saurabh0962,0,1,license:mit; region:us; evaluation; pyrometallurgy; slag-chemistry; physical-plausibility; blind-spots; frontier-models; materials-science
+2026-10-25T05:11:48Z,bekkkkkahhh5/v9e-f9799f39ba92c9825110781d,bekkkkkahhh5,0,0,region:us
+2026-10-25T05:12:18Z,mavist/wildroot-valley-audio,mavist,0,0,region:us
+2026-10-25T05:13:49Z,bekkkkkahhh5/v9e-9306289c620f59e3728aaf87,bekkkkkahhh5,0,0,region:us
+2026-10-25T05:15:26Z,gxllll/libero_failure,gxllll,0,0,region:us
+2026-10-25T05:15:57Z,SkylaCourtney/Annoy-PyEdu-Rs,SkylaCourtney,0,0,region:us
+2026-10-25T05:15:58Z,SkylaCourtney/Annoy-PyEdu-Rs-Raw,SkylaCourtney,0,0,region:us
+2026-10-25T05:16:28Z,c1587s/fathom-trial,c1587s,0,0,region:us
+2026-10-25T05:16:51Z,k1000dai/vla-agent-loop-runs,k1000dai,0,0,license:other; region:us; robotics; so101; vla; pi05
+2026-10-25T05:17:53Z,g1n0st/6c19b4e2b79bc2da34f5c772bc75e1ee8487aa4f,g1n0st,0,0,region:us
+2026-10-25T05:18:02Z,g1n0st/8a8e3657abb4df528083b6324ee4060ad6dffb29,g1n0st,0,0,region:us
+2026-10-25T05:19:09Z,cxz12dxzc1ed/Annoy-PyEdu-Rs,cxz12dxzc1ed,0,0,region:us
+2026-10-25T05:19:10Z,cxz12dxzc1ed/Annoy-PyEdu-Rs-Raw,cxz12dxzc1ed,0,0,region:us
+2026-10-25T05:19:55Z,robert131OO4/out-series,robert131OO4,0,0,region:us
