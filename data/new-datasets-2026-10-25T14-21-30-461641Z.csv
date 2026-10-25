@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-25T13:21:09Z,ue2627-ir-gir/test,ue2627-ir-gir,0,0,region:us
+2026-10-25T13:26:46Z,samisonhf/finchrona,samisonhf,0,0,license:cc0-1.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fin…
+2026-10-25T13:28:02Z,dawniky/double_vla_dataset,dawniky,0,0,license:apache-2.0; region:us
+2026-10-25T13:28:34Z,g1n0st/7fa9c10aecace7c07b312ed38c8f5cfead389380,g1n0st,0,0,region:us
+2026-10-25T13:28:58Z,g1n0st/135548040264ce5418e3c620b700058396ce6607,g1n0st,0,0,region:us
+2026-10-25T13:29:02Z,g1n0st/1ac96f68029076ba08b57b10ad0563e8bdca3608,g1n0st,0,0,region:us
+2026-10-25T13:29:03Z,g1n0st/bdde4293ebeb5c8d913b2701e7d804f8dd87746e,g1n0st,0,0,region:us
+2026-10-25T13:29:06Z,g1n0st/4e6ff0e9a6c3d9284bb7229d9833b9b6f3b1d444,g1n0st,0,0,region:us
+2026-10-25T13:29:15Z,g1n0st/7f7aa6fb5dc231c738c880aa6b878e0ad59ebe44,g1n0st,0,0,region:us
+2026-10-25T13:30:02Z,g1n0st/5de79d1bd640135ec0e2b68a212226602d0ea133,g1n0st,0,0,region:us
+2026-10-25T13:30:28Z,g1n0st/a323b41c12a2f720d5f635f8b01b5a0345f3856f,g1n0st,0,0,region:us
+2026-10-25T13:30:29Z,g1n0st/b5db097535f0fae60126f6248aa60190c312bbd8,g1n0st,0,0,region:us
+2026-10-25T13:30:36Z,ETHRC/untitled-sequence,ETHRC,0,0,task_categories:robotics; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:en; license:apache-2.0; size_cat…
+2026-10-25T13:31:16Z,DadehChi/Lameness,DadehChi,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-10-25T13:31:25Z,PepperMintButler/Phishing-Email-For-distilroberta-base,PepperMintButler,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:31:29Z,juhi-neeved/1m-fake-faces-160k-labeled,juhi-neeved,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-25T13:36:43Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-ragged-t05-t1p07-eval-20261025,hi-todayis-jh,0,0,region:us
+2026-10-25T13:37:50Z,Whyynnot/standard_task_pick_up_the_red_block_and_put_it_on_the_plate_merged_158_20261025,Whyynnot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-25T13:39:10Z,Elsa1111/IndustryCode,Elsa1111,0,0,task_categories:text-generation; task_categories:other; language:en; license:mit; size_categories:n<1K; region:us; code-generation; benchmark; industry; neurips-2026; spotlight
+2026-10-25T13:39:55Z,covertlabsio/deepseek-api-smoke-tests-20261026,covertlabsio,0,0,language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; deepseek; openrouter; chat-completions
+2026-10-25T13:40:16Z,WorldAgents-c/RoboDojo2-YellowTabletops,WorldAgents-c,0,0,region:us
+2026-10-25T13:40:45Z,g1n0st/1ebc62c40f62a187366060e31ab5c21fbda1be13,g1n0st,0,0,region:us
+2026-10-25T13:40:46Z,g1n0st/efe1e0aa8f990355f909012b48b829abfa980b94,g1n0st,0,0,region:us
+2026-10-25T13:40:50Z,g1n0st/a57619411c35c76e5e777ba68740cf2d9eb282fd,g1n0st,0,0,region:us
+2026-10-25T13:42:13Z,g1n0st/7f330b8de6cb0398cad3af5ecb56ad387d6dc148,g1n0st,0,0,region:us
+2026-10-25T13:42:13Z,g1n0st/5a82ab280acb41ebd6411ee5197e1a7c723e2c01,g1n0st,0,0,region:us
+2026-10-25T13:43:39Z,leonhard-behr/voxpopuli-v1-nl-matched-descriptions,leonhard-behr,0,0,task_categories:text-to-speech; source_datasets:FBK-MT/mosel; language:nl; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:audio; modality:text; library:datasets; library:dask;…
+2026-10-25T13:45:01Z,myprotjj/vault-587f398f535d1785,myprotjj,0,0,region:us
+2026-10-25T13:48:05Z,myprotjj/vault-1f60e1713517e0b9,myprotjj,0,0,region:us
+2026-10-25T13:48:44Z,namiciro/record-test,namiciro,0,0,region:us
+2026-10-25T13:49:39Z,zhxxxxxx/AdaThinDrive,zhxxxxxx,0,0,size_categories:100K<n<1M; modality:text; region:us
+2026-10-25T13:50:04Z,pythainlp/MakHamTTS-dataset,pythainlp,0,0,task_categories:text-to-speech; language:th; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcr…
+2026-10-25T13:50:16Z,qiaoqy/inovo_subtask,qiaoqy,0,0,language:en; language:zh; region:us; robotics; subtasks; imitation-learning
+2026-10-25T13:50:22Z,qiaoqy/robodojo_subtask,qiaoqy,0,0,language:en; language:zh; region:us; robotics; subtasks; imitation-learning
+2026-10-25T13:53:53Z,g1n0st/07bad72d66b9732f5f8bde6da17bfd883173f8f6,g1n0st,0,0,region:us
+2026-10-25T13:54:00Z,namiciro/record-test_20261025_225048,namiciro,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-25T13:54:12Z,Vishnu-09/tourism-dataset,Vishnu-09,0,0,task_categories:tabular-classification; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:55:59Z,tqwerty181/vits-voice-manifest,tqwerty181,0,1,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:57:11Z,yhjollin/Recursive_seed43_Loop_9,yhjollin,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:57:44Z,Beifengdo/Deep-Sea-Observation-and-Fishing-Robots,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:59:30Z,martinsandor707/particles_combined_all_models,martinsandor707,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T13:59:41Z,Beifengdo/Ship-3D-Design-and-Modeling,Beifengdo,0,0,size_categories:n<1K; format:imagefolder; modality:3d; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:00:15Z,xcxvvvb55/Annoy-PyEdu-Rs,xcxvvvb55,0,0,region:us
+2026-10-25T14:00:16Z,xcxvvvb55/Annoy-PyEdu-Rs-Raw,xcxvvvb55,0,0,region:us
+2026-10-25T14:00:20Z,ETHRC/test1,ETHRC,0,0,task_categories:robotics; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:en; license:apache-2.0; size_cat…
+2026-10-25T14:00:21Z,namiciro/record-otedama-1_20261025_225816,namiciro,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-25T14:00:43Z,Beifengdo/Fundamentals-of-Cargo-Science,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:01:58Z,PEN2044/setD435_aser_ula50_20261025_141607,PEN2044,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-25T14:02:00Z,doanhlt/cabin-offline-debug-captures,doanhlt,0,0,task_categories:automatic-speech-recognition; task_categories:translation; language:vi; language:en; license:other; size_categories:n<1K; format:text; modality:audio; modality:text; library:datasets;…
+2026-10-25T14:02:11Z,Beifengdo/University-Study-Methods-and-Guides,Beifengdo,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:03:04Z,g1n0st/f8b136f71d3f386c00abc8f96e52f6641e52cd7c,g1n0st,0,0,region:us
+2026-10-25T14:03:05Z,g1n0st/47b02d09bb7945bc8ce1e584481a816aa28de0b8,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:03:10Z,g1n0st/02acd23ba49fc1fd031b617ab2bf495d8ac85bcf,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:03:11Z,Beifengdo/International-Finance,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:03:13Z,g1n0st/c1cca8db0cea6e5def91b45966498051adbd3e4d,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:05:10Z,kitt3n/ExDataset,kitt3n,0,0,language:zh; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:05:52Z,Beifengdo/High-School-Chemistry,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:07:00Z,clm-project/terminal-horizon-3k-qwen3.6-35b-a3b-fp8-embeddings-256k,clm-project,0,0,task_categories:feature-extraction; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:261…
+2026-10-25T14:07:19Z,aljosadro/sn38-models,aljosadro,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:07:30Z,Yonitgarg/Personal_FinanceDataset,Yonitgarg,0,1,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:08:33Z,Beifengdo/Fundamentals-of-Materials-Science,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:09:11Z,Beifengdo/Mathematics-Teaching-References,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:10:34Z,NTUFYL/insid3-cd-tau-alpha-grids,NTUFYL,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:11:20Z,Beifengdo/Ship-Deck-Machinery,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:11:52Z,Beifengdo/System-Identification-and-Adaptive-Control,Beifengdo,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:12:19Z,TaliesinEliana/Annoy-PyEdu-Rs,TaliesinEliana,0,0,region:us
+2026-10-25T14:12:50Z,TaliesinEliana/Annoy-PyEdu-Rs-Raw,TaliesinEliana,0,0,region:us
+2026-10-25T14:12:59Z,Maine767/genai-hw1-asr-spell,Maine767,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-25T14:13:47Z,Beifengdo/Focused-Ion-Beam-Virtual-Labs,Beifengdo,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-10-25T14:14:32Z,Beifengdo/Water-Treatment-Technology,Beifengdo,0,0,region:us
+2026-10-25T14:14:35Z,ChengyiX/mlx-agent-tools,ChengyiX,0,0,region:us
+2026-10-25T14:15:05Z,Beifengdo/Logistics-Cost-Management,Beifengdo,0,0,region:us
+2026-10-25T14:15:23Z,tardellirs/crivo-prumo-results,tardellirs,0,0,license:cc-by-nc-4.0; region:us; decision-index
+2026-10-25T14:15:39Z,Beifengdo/ECharts-Data-Visualization,Beifengdo,0,0,region:us
+2026-10-25T14:16:10Z,ChengyiX/ternary-bonsai2-27b-eval,ChengyiX,0,0,region:us
+2026-10-25T14:16:12Z,Beifengdo/Dialectics-of-Nature,Beifengdo,0,0,region:us
+2026-10-25T14:16:15Z,Alief123/Car_Accidents_and_deformation_dataset,Alief123,0,0,task_categories:image-classification; task_categories:object-detection; task_ids:multi-class-image-classification; task_ids:vehicle-detection; annotations_creators:expert-generated; multilinguality:m…
+2026-10-25T14:16:21Z,leonhard-behr/voxpopuli-v1-es-matched-descriptions,leonhard-behr,0,0,region:us
+2026-10-25T14:16:21Z,Biogod/SpatialDataAgent-DB,Biogod,0,0,region:us
+2026-10-25T14:16:34Z,Garv-s/PAN-TCGA,Garv-s,0,0,license:mit; region:us
+2026-10-25T14:16:43Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-10-25T14:16:44Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-10-25T14:16:44Z,Beifengdo/Seamanship,Beifengdo,0,0,region:us
+2026-10-25T14:17:01Z,yuan1119/two_cup_penglin_20261025,yuan1119,0,0,region:us
+2026-10-25T14:17:21Z,Beifengdo/Ocean-Science-References,Beifengdo,0,0,region:us
+2026-10-25T14:17:45Z,ChengyiX/qwen38-omlx-dflash2-eval,ChengyiX,0,0,region:us
+2026-10-25T14:17:53Z,Beifengdo/Digital-Image-Processing,Beifengdo,0,0,region:us
+2026-10-25T14:18:23Z,Beifengdo/Maritime-Collision-Avoidance-Rules,Beifengdo,0,0,region:us
+2026-10-25T14:18:48Z,amaai-lab/prism,amaai-lab,0,0,license:mit; region:us
+2026-10-25T14:18:56Z,Beifengdo/Chinese-Language-Teaching-References,Beifengdo,0,0,region:us
+2026-10-25T14:19:22Z,encounteratlas/project-blue-book-case-files,encounteratlas,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; region:us; ufo; uap; project-blue-book; us-air-force; national-archives; geospatial; history
+2026-10-25T14:19:25Z,encounteratlas/government-ufo-programmes,encounteratlas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ufo; uap; government; history; aaro; geipan
+2026-10-25T14:19:26Z,Beifengdo/Macroeconomics,Beifengdo,0,0,region:us
+2026-10-25T14:19:32Z,AnhQuyet05898/hihiii,AnhQuyet05898,0,0,region:us
+2026-10-25T14:19:38Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-25T14:19:39Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-25T14:19:39Z,ChengyiX/qwen38-uncensored-q6k-eval,ChengyiX,0,0,region:us
+2026-10-25T14:19:55Z,Beifengdo/Drama-and-Script-References,Beifengdo,0,0,region:us
+2026-10-25T14:21:11Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-25T14:21:11Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
