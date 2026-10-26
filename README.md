@@ -9,91 +9,83 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 22:21 UTC
+## Latest list — 2026-10-26 23:19 UTC
 
-New datasets created between 2026-10-26 21:21 UTC and 2026-10-26 22:21 UTC.
+New datasets created between 2026-10-26 22:21 UTC and 2026-10-26 23:19 UTC.
 
-[Full CSV](data/new-datasets-2026-10-26T22-21-19-907305Z.csv)
+[Full CSV](data/new-datasets-2026-10-26T23-19-50-032373Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-10-26 21:21:38 | [endomorphosis/ipfs_canada_courts](https://huggingface.co/endomorphosis/ipfs_canada_courts) | endomorphosis | 0 | 0 | language:en; language:fr; license:other; size_categories:1K… |
-| 2026-10-26 21:22:13 | [endomorphosis/ipfs_uk_courts](https://huggingface.co/endomorphosis/ipfs_uk_courts) | endomorphosis | 0 | 0 | language:en; license:other; size_categories:1K<n<10K; forma… |
-| 2026-10-26 21:23:09 | [Ganem34/voice](https://huggingface.co/Ganem34/voice) | Ganem34 | 0 | 0 | size_categories:n<1K; format:audiofolder; modality:audio; l… |
-| 2026-10-26 21:23:59 | [PureOne/SYLONTH-Omega-IV-Quantum-Nanofabrication](https://huggingface.co/PureOne/SYLONTH-Omega-IV-Quantum-Nanofabrication) | PureOne | 0 | 0 | task_categories:other; language:en; size_categories:n<1K; m… |
-| 2026-10-26 21:25:50 | [g1n0st/85768de3a4b6ff33e77c0d98251ca3d03ebac87a](https://huggingface.co/g1n0st/85768de3a4b6ff33e77c0d98251ca3d03ebac87a) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:26:43 | [LGG100/ur-multitask-test-clean](https://huggingface.co/LGG100/ur-multitask-test-clean) | LGG100 | 0 | 0 | size_categories:n<1K; format:json; modality:tabular; modali… |
-| 2026-10-26 21:28:53 | [g1n0st/9e38ae0d2e97a35515dc59cff63f2e48a52c9168](https://huggingface.co/g1n0st/9e38ae0d2e97a35515dc59cff63f2e48a52c9168) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:29:32 | [manhmitcf/Results_final_video_tie_breakers](https://huggingface.co/manhmitcf/Results_final_video_tie_breakers) | manhmitcf | 0 | 0 | region:us |
-| 2026-10-26 21:30:50 | [micahr234/v2b-dataset](https://huggingface.co/micahr234/v2b-dataset) | micahr234 | 0 | 0 | size_categories:10K<n<100K; format:parquet; format:optimize… |
-| 2026-10-26 21:31:14 | [fhir4ds/omop-demo](https://huggingface.co/fhir4ds/omop-demo) | fhir4ds | 0 | 0 | task_categories:tabular-classification; license:other; regi… |
-| 2026-10-26 21:31:24 | [latentMO/faithfulness-traces-20261026](https://huggingface.co/latentMO/faithfulness-traces-20261026) | latentMO | 0 | 0 | region:us |
-| 2026-10-26 21:31:53 | [g1n0st/721fcd597861210f9b4417c79c978b2ee0ec205b](https://huggingface.co/g1n0st/721fcd597861210f9b4417c79c978b2ee0ec205b) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:33:59 | [fluid-concepts/hf-access-test](https://huggingface.co/fluid-concepts/hf-access-test) | fluid-concepts | 0 | 0 | license:other; region:us |
-| 2026-10-26 21:35:57 | [SadeghK/per-word-numbers-dataset](https://huggingface.co/SadeghK/per-word-numbers-dataset) | SadeghK | 0 | 0 | region:us |
-| 2026-10-26 21:36:27 | [rbtrprjkt/m16nut-fastennew2026_20261026_152955](https://huggingface.co/rbtrprjkt/m16nut-fastennew2026_20261026_152955) | rbtrprjkt | 0 | 0 | region:us |
-| 2026-10-26 21:38:00 | [adrianguzman/legalize-mx](https://huggingface.co/adrianguzman/legalize-mx) | adrianguzman | 0 | 0 | task_categories:text-retrieval; task_categories:question-an… |
-| 2026-10-26 21:43:51 | [priubrogent/CHROMA-MILL](https://huggingface.co/priubrogent/CHROMA-MILL) | priubrogent | 0 | 0 | license:mit; region:us |
-| 2026-10-26 21:46:08 | [aqxlogistics/saudi-arabia-and-gcc-cleanroom-aerosol-particle-counters-cargo-2026](https://huggingface.co/aqxlogistics/saudi-arabia-and-gcc-cleanroom-aerosol-particle-counters-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:46:10 | [aqxlogistics/uae-and-dubai-commercial-helicopter-rotor-blade-dynamic-balancing-kits-freight-2026](https://huggingface.co/aqxlogistics/uae-and-dubai-commercial-helicopter-rotor-blade-dynamic-balancing-kits-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:46:12 | [aqxlogistics/kuwait-subsea-pipeline-spherical-intelligent-pigging-valves-cargo-2026](https://huggingface.co/aqxlogistics/kuwait-subsea-pipeline-spherical-intelligent-pigging-valves-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:46:14 | [aqxlogistics/bahrain-and-qatar-marine-acoustic-doppler-current-profilers-adcp-freight-2026](https://huggingface.co/aqxlogistics/bahrain-and-qatar-marine-acoustic-doppler-current-profilers-adcp-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:25 | [aqxlogistics/western-europe-surface-roughness-profilometers-cargo-2026](https://huggingface.co/aqxlogistics/western-europe-surface-roughness-profilometers-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:44 | [aqxlogistics/qatar-and-gcc-lng-cryogenic-submerged-valve-cryopack-freight-2026](https://huggingface.co/aqxlogistics/qatar-and-gcc-lng-cryogenic-submerged-valve-cryopack-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:46 | [aqxlogistics/france-aerospace-composite-autoclave-cure-monitoring-cargo-2026](https://huggingface.co/aqxlogistics/france-aerospace-composite-autoclave-cure-monitoring-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:48 | [aqxlogistics/spain-marine-hydrofoil-carbon-composite-rigging-freight-2026](https://huggingface.co/aqxlogistics/spain-marine-hydrofoil-carbon-composite-rigging-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:50 | [aqxlogistics/sweden-mining-teleoperation-lidar-sensors-cargo-2026](https://huggingface.co/aqxlogistics/sweden-mining-teleoperation-lidar-sensors-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:47:52 | [aqxlogistics/portugal-offshore-floating-wind-mooring-tensioners-freight-2026](https://huggingface.co/aqxlogistics/portugal-offshore-floating-wind-mooring-tensioners-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:48:29 | [be6257/arx5_grab_yellow_cube](https://huggingface.co/be6257/arx5_grab_yellow_cube) | be6257 | 0 | 0 | license:mit; region:us |
-| 2026-10-26 21:49:19 | [stefanocarrera/kic_D_test-python_Qwen3-4B_t0.5_g2_run0](https://huggingface.co/stefanocarrera/kic_D_test-python_Qwen3-4B_t0.5_g2_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-10-26 21:50:15 | [g1n0st/4518b1c8f79010f042e06a186ac96944c1f70aa2](https://huggingface.co/g1n0st/4518b1c8f79010f042e06a186ac96944c1f70aa2) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 21:50:19 | [g1n0st/e34523daea127aae6b2f64d07b21fc9c4d06c0e1](https://huggingface.co/g1n0st/e34523daea127aae6b2f64d07b21fc9c4d06c0e1) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:50:19 | [g1n0st/e4ce791d0e25789a3fc5ad4d153a2b62f78d7c87](https://huggingface.co/g1n0st/e4ce791d0e25789a3fc5ad4d153a2b62f78d7c87) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:52:19 | [g1n0st/cbf5a87dfd3e75d07c346a277d360bcb25d9afcf](https://huggingface.co/g1n0st/cbf5a87dfd3e75d07c346a277d360bcb25d9afcf) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 21:52:25 | [g1n0st/408b2ffcf48f5ffad455276d6c1fc57f6355d02c](https://huggingface.co/g1n0st/408b2ffcf48f5ffad455276d6c1fc57f6355d02c) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 21:52:50 | [sirbrentmichaelskoda/nemotron-optimized-prompt-v131-final](https://huggingface.co/sirbrentmichaelskoda/nemotron-optimized-prompt-v131-final) | sirbrentmichaelskoda | 0 | 0 | region:us |
-| 2026-10-26 21:53:03 | [g1n0st/11c5e580ec46d96c718022f7caffe2b5239ee1e2](https://huggingface.co/g1n0st/11c5e580ec46d96c718022f7caffe2b5239ee1e2) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 21:55:36 | [aqxlogistics/saudi-solar-photovoltaic-inverter-igbt-modules-cargo-2026](https://huggingface.co/aqxlogistics/saudi-solar-photovoltaic-inverter-igbt-modules-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:55:38 | [aqxlogistics/uae-commercial-data-center-server-rack-pdu-freight-2026](https://huggingface.co/aqxlogistics/uae-commercial-data-center-server-rack-pdu-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:56:10 | [aqxlogistics/new-zealand-cross-border-us-forwarding-air-cargo-rates-2026](https://huggingface.co/aqxlogistics/new-zealand-cross-border-us-forwarding-air-cargo-rates-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:56:12 | [aqxlogistics/united-kingdom-us-mail-forwarding-tax-free-comparison-2026](https://huggingface.co/aqxlogistics/united-kingdom-us-mail-forwarding-tax-free-comparison-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:56:14 | [aqxlogistics/qatar-electrochlorination-titanium-electrolytic-cells-cargo-2026](https://huggingface.co/aqxlogistics/qatar-electrochlorination-titanium-electrolytic-cells-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:57:13 | [eric912316/123123123123](https://huggingface.co/eric912316/123123123123) | eric912316 | 0 | 0 | region:us |
-| 2026-10-26 21:57:40 | [aqxlogistics/saudi-hyperscale-ai-immersion-liquid-cooling-tanks-cargo-2026](https://huggingface.co/aqxlogistics/saudi-hyperscale-ai-immersion-liquid-cooling-tanks-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:57:44 | [aqxlogistics/uae-commercial-satellite-vsat-tracking-radomes-freight-2026](https://huggingface.co/aqxlogistics/uae-commercial-satellite-vsat-tracking-radomes-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:57:54 | [Rifat23434/all-Bangladeshi-medicines](https://huggingface.co/Rifat23434/all-Bangladeshi-medicines) | Rifat23434 | 0 | 0 | license:cc-by-2.0; size_categories:10K<n<100K; format:csv;… |
-| 2026-10-26 21:58:16 | [aqxlogistics/kuwait-american-car-parts-rockauto-summit-shipping-benchmark-2026](https://huggingface.co/aqxlogistics/kuwait-american-car-parts-rockauto-summit-shipping-benchmark-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:58:18 | [aqxlogistics/bahrain-aramex-shop-and-ship-alternatives-pricing-study-2026](https://huggingface.co/aqxlogistics/bahrain-aramex-shop-and-ship-alternatives-pricing-study-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:58:25 | [CRLN/crln-aie-001-responses](https://huggingface.co/CRLN/crln-aie-001-responses) | CRLN | 0 | 0 | task_categories:multiple-choice; language:en; license:cc-by… |
-| 2026-10-26 21:58:50 | [aqxlogistics/western-europe-us-package-forwarding-myus-alternatives-2026](https://huggingface.co/aqxlogistics/western-europe-us-package-forwarding-myus-alternatives-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:59:14 | [g1n0st/5dd37057f6ff876863755db2fc9bd2876287e881](https://huggingface.co/g1n0st/5dd37057f6ff876863755db2fc9bd2876287e881) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 21:59:41 | [aqxlogistics/qatar-doha-fast-express-air-freight-cargo-2026](https://huggingface.co/aqxlogistics/qatar-doha-fast-express-air-freight-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 21:59:51 | [g1n0st/b3ddad5b7874ba45c44eafd69fe02aef5000d005](https://huggingface.co/g1n0st/b3ddad5b7874ba45c44eafd69fe02aef5000d005) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 22:00:13 | [aqxlogistics/new-zealand-auckland-direct-package-forwarding-2026](https://huggingface.co/aqxlogistics/new-zealand-auckland-direct-package-forwarding-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:00:17 | [aqxlogistics/saudi-neom-industrial-robotics-automation-cargo-2026](https://huggingface.co/aqxlogistics/saudi-neom-industrial-robotics-automation-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:00:20 | [aqxlogistics/uae-aerospace-avionics-uav-telemetry-freight-2026](https://huggingface.co/aqxlogistics/uae-aerospace-avionics-uav-telemetry-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:00:21 | [aqxlogistics/kuwait-automotive-diagnostic-scan-tools-freight-2026](https://huggingface.co/aqxlogistics/kuwait-automotive-diagnostic-scan-tools-freight-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:01:52 | [g1n0st/7fddfb216beb67f42576aa89c863eb56484109fd](https://huggingface.co/g1n0st/7fddfb216beb67f42576aa89c863eb56484109fd) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 22:02:58 | [aqxlogistics/netherlands-us-auto-parts-forwarding-pricing-study-2026](https://huggingface.co/aqxlogistics/netherlands-us-auto-parts-forwarding-pricing-study-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:03:00 | [aqxlogistics/france-us-package-forwarding-myus-alternatives-study-2026](https://huggingface.co/aqxlogistics/france-us-package-forwarding-myus-alternatives-study-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:03:32 | [aqxlogistics/spain-us-parcel-forwarding-rockauto-parts-cargo-2026](https://huggingface.co/aqxlogistics/spain-us-parcel-forwarding-rockauto-parts-cargo-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:03:34 | [aqxlogistics/sweden-cross-border-us-electronics-freight-rates-2026](https://huggingface.co/aqxlogistics/sweden-cross-border-us-electronics-freight-rates-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:03:37 | [aqxlogistics/portugal-us-forwarding-marine-equipment-logistics-2026](https://huggingface.co/aqxlogistics/portugal-us-forwarding-marine-equipment-logistics-2026) | aqxlogistics | 0 | 0 | task_categories:tabular-regression; task_categories:feature… |
-| 2026-10-26 22:04:16 | [g1n0st/15d2e7701f2626f919b06ad9a83748f71d445077](https://huggingface.co/g1n0st/15d2e7701f2626f919b06ad9a83748f71d445077) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 22:04:47 | [g1n0st/20003316fe313fc2ee92160f6f5f0306b5a9d027](https://huggingface.co/g1n0st/20003316fe313fc2ee92160f6f5f0306b5a9d027) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
-| 2026-10-26 22:06:01 | [g1n0st/56687f34bd178cc87a4a70763750bdd6fd3b905c](https://huggingface.co/g1n0st/56687f34bd178cc87a4a70763750bdd6fd3b905c) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 22:06:15 | [JingwuLuo/pick_and_place_cube_quick](https://huggingface.co/JingwuLuo/pick_and_place_cube_quick) | JingwuLuo | 0 | 0 | task_categories:robotics; size_categories:n<1K; format:csv;… |
-| 2026-10-26 22:06:29 | [adibvafa/brp-xfer-7cc4bc87](https://huggingface.co/adibvafa/brp-xfer-7cc4bc87) | adibvafa | 0 | 0 | region:us |
-| 2026-10-26 22:08:06 | [Changahou/ICAD](https://huggingface.co/Changahou/ICAD) | Changahou | 0 | 0 | region:us |
-| 2026-10-26 22:11:37 | [pennydata/top-sites-tech-stack](https://huggingface.co/pennydata/top-sites-tech-stack) | pennydata | 0 | 0 | task_categories:tabular-classification; license:cc-by-4.0;… |
-| 2026-10-26 22:12:59 | [attacker8324/oracle-scheme-opsaf](https://huggingface.co/attacker8324/oracle-scheme-opsaf) | attacker8324 | 0 | 0 | region:us |
-| 2026-10-26 22:13:00 | [Alex225847/enterprise-financial-crime-ai-dataset](https://huggingface.co/Alex225847/enterprise-financial-crime-ai-dataset) | Alex225847 | 0 | 0 | task_categories:text-classification; language:en; language:… |
-| 2026-10-26 22:13:32 | [mingyang-wu/Q-Prefer-Preparation](https://huggingface.co/mingyang-wu/Q-Prefer-Preparation) | mingyang-wu | 0 | 0 | region:us |
-| 2026-10-26 22:14:22 | [Anushka1202/data266-lab2-part2-generated-images-safe](https://huggingface.co/Anushka1202/data266-lab2-part2-generated-images-safe) | Anushka1202 | 0 | 0 | region:us |
-| 2026-10-26 22:15:43 | [g1n0st/2d9bf840784e659d44007e26134cd464db9a2560](https://huggingface.co/g1n0st/2d9bf840784e659d44007e26134cd464db9a2560) | g1n0st | 0 | 0 | region:us |
-| 2026-10-26 22:17:24 | [LingweiGu/minicpm5-sft-v14-rollout-swe](https://huggingface.co/LingweiGu/minicpm5-sft-v14-rollout-swe) | LingweiGu | 0 | 0 | language:en; license:other; size_categories:1K<n<10K; regio… |
-| 2026-10-26 22:19:55 | [attacker8324/oracle-scheme-miss](https://huggingface.co/attacker8324/oracle-scheme-miss) | attacker8324 | 0 | 0 | region:us |
-| 2026-10-26 22:20:12 | [vwnb/kitten-swarm-demon-mode](https://huggingface.co/vwnb/kitten-swarm-demon-mode) | vwnb | 0 | 0 | region:us |
+| 2026-10-26 22:22:38 | [Zackboulhand/ct-anatomy-cases](https://huggingface.co/Zackboulhand/ct-anatomy-cases) | Zackboulhand | 0 | 0 | license:cc-by-4.0; size_categories:1K<n<10K; format:imagefo… |
+| 2026-10-26 22:24:07 | [Zackboulhand/ct-anatomy-cases-nc](https://huggingface.co/Zackboulhand/ct-anatomy-cases-nc) | Zackboulhand | 0 | 0 | license:cc-by-nc-sa-4.0; region:us |
+| 2026-10-26 22:24:46 | [Zackboulhand/ct-anatomy-cases-bysa](https://huggingface.co/Zackboulhand/ct-anatomy-cases-bysa) | Zackboulhand | 0 | 0 | license:cc-by-sa-4.0; region:us |
+| 2026-10-26 22:25:55 | [g1n0st/0ebeb2ca02a554eb60b0d0aa771baae9b0c7ed7d](https://huggingface.co/g1n0st/0ebeb2ca02a554eb60b0d0aa771baae9b0c7ed7d) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
+| 2026-10-26 22:26:47 | [g1n0st/118f881a443b6a179b552ff6f9f8adc81e9b3de3](https://huggingface.co/g1n0st/118f881a443b6a179b552ff6f9f8adc81e9b3de3) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 22:26:49 | [LuxiaSL/kotodama-tsumugi-mix-1B-cpt](https://huggingface.co/LuxiaSL/kotodama-tsumugi-mix-1B-cpt) | LuxiaSL | 0 | 0 | language:en; license:other; size_categories:100M<n<1B; regi… |
+| 2026-10-26 22:27:33 | [mohario/pick-up-orange-object-and-drop-into-funnel](https://huggingface.co/mohario/pick-up-orange-object-and-drop-into-funnel) | mohario | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-26 22:28:05 | [sunnyJane/data266-lab2-p3-outputs](https://huggingface.co/sunnyJane/data266-lab2-p3-outputs) | sunnyJane | 0 | 0 | license:cc-by-nc-4.0; size_categories:n<1K; format:imagefol… |
+| 2026-10-26 22:28:15 | [GeertWang/pipette-aim-r3-hgdagger](https://huggingface.co/GeertWang/pipette-aim-r3-hgdagger) | GeertWang | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-10-26 22:28:36 | [JacobLinCool/Build-and-Find](https://huggingface.co/JacobLinCool/Build-and-Find) | JacobLinCool | 0 | 0 | task_categories:question-answering; task_categories:text-ge… |
+| 2026-10-26 22:28:58 | [ignacio-velora/aoi-lora-dataset](https://huggingface.co/ignacio-velora/aoi-lora-dataset) | ignacio-velora | 0 | 0 | region:us |
+| 2026-10-26 22:29:50 | [krarit/hi-reaso](https://huggingface.co/krarit/hi-reaso) | krarit | 0 | 0 | license:mit; region:us |
+| 2026-10-26 22:29:56 | [endomorphosis/ipfs_ireland_courts](https://huggingface.co/endomorphosis/ipfs_ireland_courts) | endomorphosis | 0 | 0 | language:en; license:other; size_categories:n<1K; region:us… |
+| 2026-10-26 22:30:11 | [Ishah8840/ego-emg-v1](https://huggingface.co/Ishah8840/ego-emg-v1) | Ishah8840 | 0 | 0 | task_categories:robotics; language:en; language:zh; size_ca… |
+| 2026-10-26 22:31:38 | [Tinkoy/vidops-basketball-game-1743500926740597](https://huggingface.co/Tinkoy/vidops-basketball-game-1743500926740597) | Tinkoy | 0 | 0 | region:us |
+| 2026-10-26 22:32:06 | [d0rj/anekdot](https://huggingface.co/d0rj/anekdot) | d0rj | 0 | 0 | region:us |
+| 2026-10-26 22:32:24 | [AndrewSinging/spatial_encoder](https://huggingface.co/AndrewSinging/spatial_encoder) | AndrewSinging | 0 | 0 | region:us |
+| 2026-10-26 22:33:47 | [g1n0st/9b5a2cd81c542f313389cf72d03f6388cf15d53c](https://huggingface.co/g1n0st/9b5a2cd81c542f313389cf72d03f6388cf15d53c) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
+| 2026-10-26 22:33:49 | [g1n0st/3499097beb29264d683b121b3d6a1c0269d8eb94](https://huggingface.co/g1n0st/3499097beb29264d683b121b3d6a1c0269d8eb94) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
+| 2026-10-26 22:37:23 | [ElyKok/hebrew-qa-retrieval-data](https://huggingface.co/ElyKok/hebrew-qa-retrieval-data) | ElyKok | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
+| 2026-10-26 22:39:10 | [vwnb/kitten-swarm-2](https://huggingface.co/vwnb/kitten-swarm-2) | vwnb | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-10-26 22:39:31 | [Pitt-ICCI-Lab/MAMA-MIA-DUKE](https://huggingface.co/Pitt-ICCI-Lab/MAMA-MIA-DUKE) | Pitt-ICCI-Lab | 0 | 0 | task_categories:image-segmentation; task_categories:image-c… |
+| 2026-10-26 22:40:54 | [slaveyard/NemoCT](https://huggingface.co/slaveyard/NemoCT) | slaveyard | 0 | 0 | task_categories:question-answering; task_categories:text-ge… |
+| 2026-10-26 22:42:16 | [slaveyard/preycybersec](https://huggingface.co/slaveyard/preycybersec) | slaveyard | 0 | 0 | task_categories:text-classification; task_categories:graph-… |
+| 2026-10-26 22:43:06 | [slaveyard/Daring-Anteater](https://huggingface.co/slaveyard/Daring-Anteater) | slaveyard | 0 | 1 | task_categories:text-generation; language:en; license:cc-by… |
+| 2026-10-26 22:43:10 | [jasonfan/preprints-org-ai-pdfs](https://huggingface.co/jasonfan/preprints-org-ai-pdfs) | jasonfan | 0 | 0 | license:cc-by-4.0; size_categories:n<1K; modality:document;… |
+| 2026-10-26 22:43:48 | [slaveyard/HelpSteer3](https://huggingface.co/slaveyard/HelpSteer3) | slaveyard | 0 | 0 | language:en; language:zh; language:ko; language:fr; languag… |
+| 2026-10-26 22:44:11 | [endomorphosis/world_courts](https://huggingface.co/endomorphosis/world_courts) | endomorphosis | 0 | 0 | license:odbl; region:us |
+| 2026-10-26 22:46:19 | [DranxX/Corpus-Indonesian-20M](https://huggingface.co/DranxX/Corpus-Indonesian-20M) | DranxX | 0 | 1 | task_categories:text-generation; language:id; size_categori… |
+| 2026-10-26 22:49:43 | [hamsaai/check_transcription_new](https://huggingface.co/hamsaai/check_transcription_new) | hamsaai | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:audio; m… |
+| 2026-10-26 22:50:48 | [g1n0st/9e78320eccb00af00589ded57e9ac47d51b53963](https://huggingface.co/g1n0st/9e78320eccb00af00589ded57e9ac47d51b53963) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 22:51:02 | [Bayanat-Labs/arabic-form-grounding](https://huggingface.co/Bayanat-Labs/arabic-form-grounding) | Bayanat-Labs | 0 | 0 | task_categories:visual-question-answering; language:ar; lan… |
+| 2026-10-26 22:51:49 | [g1n0st/040b2fcb09be9da219609bd5fc40551a3d5e97a3](https://huggingface.co/g1n0st/040b2fcb09be9da219609bd5fc40551a3d5e97a3) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 22:56:34 | [mliu48/telearms-focus10-A-high](https://huggingface.co/mliu48/telearms-focus10-A-high) | mliu48 | 0 | 0 | region:us |
+| 2026-10-26 22:56:34 | [g1n0st/3f94f415a218e0224e7d6baf6e275f28d073e101](https://huggingface.co/g1n0st/3f94f415a218e0224e7d6baf6e275f28d073e101) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 22:56:36 | [g1n0st/f54c4a7d52d401cddb6f75674092de511a17fd5a](https://huggingface.co/g1n0st/f54c4a7d52d401cddb6f75674092de511a17fd5a) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 22:57:54 | [cameronjordan/eamo-sdf](https://huggingface.co/cameronjordan/eamo-sdf) | cameronjordan | 0 | 0 | region:us |
+| 2026-10-26 22:58:18 | [slaveyard/tesseract](https://huggingface.co/slaveyard/tesseract) | slaveyard | 0 | 0 | task_categories:text-classification; task_categories:graph-… |
+| 2026-10-26 22:58:36 | [brianlzhou/arb-decision-index-data-packet](https://huggingface.co/brianlzhou/arb-decision-index-data-packet) | brianlzhou | 0 | 0 | language:en; language:multilingual; license:other; size_cat… |
+| 2026-10-26 22:59:31 | [cfahlgren1/10-2026-qwen-investigation-traces](https://huggingface.co/cfahlgren1/10-2026-qwen-investigation-traces) | cfahlgren1 | 0 | 0 | region:us |
+| 2026-10-26 23:00:26 | [shimokawatoko/parc-t1-lbpath2-500-raw-hdf5](https://huggingface.co/shimokawatoko/parc-t1-lbpath2-500-raw-hdf5) | shimokawatoko | 0 | 0 | region:us |
+| 2026-10-26 23:00:41 | [khederwaaOne/2mine](https://huggingface.co/khederwaaOne/2mine) | khederwaaOne | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:audio; m… |
+| 2026-10-26 23:02:56 | [g1n0st/2687433710f347b3b2c9ae429e141c26f6190e0b](https://huggingface.co/g1n0st/2687433710f347b3b2c9ae429e141c26f6190e0b) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:03:16 | [stefanocarrera/kic_D_train-python_Qwen3-4B_t0.5_g2_run0](https://huggingface.co/stefanocarrera/kic_D_train-python_Qwen3-4B_t0.5_g2_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-10-26 23:04:47 | [quintic/papers](https://huggingface.co/quintic/papers) | quintic | 0 | 0 | region:us |
+| 2026-10-26 23:05:27 | [g1n0st/fde7da1841769c516044626d98e1428c31af093c](https://huggingface.co/g1n0st/fde7da1841769c516044626d98e1428c31af093c) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:06:01 | [Bayanat-Labs/arabic-table-reasoning](https://huggingface.co/Bayanat-Labs/arabic-table-reasoning) | Bayanat-Labs | 0 | 0 | task_categories:question-answering; annotations_creators:ma… |
+| 2026-10-26 23:06:32 | [egoh33/credit-card-case](https://huggingface.co/egoh33/credit-card-case) | egoh33 | 0 | 0 | region:us |
+| 2026-10-26 23:06:48 | [TheWatchLLC/file-data-model](https://huggingface.co/TheWatchLLC/file-data-model) | TheWatchLLC | 0 | 0 | region:us |
+| 2026-10-26 23:07:57 | [LandClearingGuide/us-land-clearing-cost-register-2026](https://huggingface.co/LandClearingGuide/us-land-clearing-cost-register-2026) | LandClearingGuide | 0 | 0 | task_categories:tabular-regression; language:en; license:cc… |
+| 2026-10-26 23:08:15 | [cashhubapp/saudi-e-invoicing-reference](https://huggingface.co/cashhubapp/saudi-e-invoicing-reference) | cashhubapp | 0 | 0 | language:ar; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-10-26 23:09:35 | [hamsaai/your_dataset_compared](https://huggingface.co/hamsaai/your_dataset_compared) | hamsaai | 0 | 0 | region:us |
+| 2026-10-26 23:11:31 | [g1n0st/5549771d714dcb254f0aaa897000b5544ac114d1](https://huggingface.co/g1n0st/5549771d714dcb254f0aaa897000b5544ac114d1) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:12:27 | [g1n0st/098f9b7e1a979b719482d125c6f408423b98ff51](https://huggingface.co/g1n0st/098f9b7e1a979b719482d125c6f408423b98ff51) | g1n0st | 0 | 0 | size_categories:n<1K; format:text; modality:text; library:d… |
+| 2026-10-26 23:13:19 | [guoruihan/BioWorkBench](https://huggingface.co/guoruihan/BioWorkBench) | guoruihan | 0 | 0 | region:us |
+| 2026-10-26 23:14:34 | [g1n0st/ced43b815ba96c42f56afb286a1a2085c8ec3075](https://huggingface.co/g1n0st/ced43b815ba96c42f56afb286a1a2085c8ec3075) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:14:42 | [tooldev/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tooldev/Annoy-PyEdu-Rs-Raw) | tooldev | 0 | 0 | region:us |
+| 2026-10-26 23:14:42 | [tooldev/Annoy-PyEdu-Rs](https://huggingface.co/tooldev/Annoy-PyEdu-Rs) | tooldev | 0 | 0 | region:us |
+| 2026-10-26 23:14:44 | [tttoola/Annoy-PyEdu-Rs](https://huggingface.co/tttoola/Annoy-PyEdu-Rs) | tttoola | 0 | 0 | region:us |
+| 2026-10-26 23:14:45 | [tttoola/Annoy-PyEdu-Rs-Raw](https://huggingface.co/tttoola/Annoy-PyEdu-Rs-Raw) | tttoola | 0 | 0 | region:us |
+| 2026-10-26 23:15:18 | [g1n0st/02887e5238072633247d8ee0cb96503ab5d944ef](https://huggingface.co/g1n0st/02887e5238072633247d8ee0cb96503ab5d944ef) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:15:27 | [g1n0st/fdffa4352c9467357e53eca869c10c3626ea8217](https://huggingface.co/g1n0st/fdffa4352c9467357e53eca869c10c3626ea8217) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:15:27 | [g1n0st/2d15c5e1117bb107ef91d6dc7e7b9ab858ec70c9](https://huggingface.co/g1n0st/2d15c5e1117bb107ef91d6dc7e7b9ab858ec70c9) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:15:30 | [g1n0st/a98e8085bc92f9e7d41099f741d4869f38311446](https://huggingface.co/g1n0st/a98e8085bc92f9e7d41099f741d4869f38311446) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:15:45 | [g1n0st/6a54c917a3242b786324431cd233716a0454f2dc](https://huggingface.co/g1n0st/6a54c917a3242b786324431cd233716a0454f2dc) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:15:57 | [g1n0st/74525b73087cd2d2d1d1726f668f880f7da49036](https://huggingface.co/g1n0st/74525b73087cd2d2d1d1726f668f880f7da49036) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:16:52 | [g1n0st/b305d665e9bd892885dfd02eda586d8e8963968a](https://huggingface.co/g1n0st/b305d665e9bd892885dfd02eda586d8e8963968a) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:16:53 | [g1n0st/135f8dcab4267fb0be2c42d4039f1ba2e92145b0](https://huggingface.co/g1n0st/135f8dcab4267fb0be2c42d4039f1ba2e92145b0) | g1n0st | 0 | 0 | region:us |
+| 2026-10-26 23:18:28 | [g1n0st/547030de9eef4d0b2a62d8fbd5fde12d60b9b95b](https://huggingface.co/g1n0st/547030de9eef4d0b2a62d8fbd5fde12d60b9b95b) | g1n0st | 0 | 0 | region:us |
 
 ## Data source
 
