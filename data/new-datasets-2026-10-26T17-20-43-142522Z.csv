@@ -1,0 +1,251 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-26T16:19:35Z,anvo39747/pier,anvo39747,0,0,region:us
+2026-10-26T16:20:52Z,AlphaSlayer/sc-perturb-collection,AlphaSlayer,0,0,region:us
+2026-10-26T16:20:56Z,thanhle65821/europa,thanhle65821,0,0,region:us
+2026-10-26T16:21:45Z,wielssdsd/PTADisc,wielssdsd,0,0,language:zh; language:en; license:cc-by-nc-sa-4.0; region:us; education; cognitive-diagnosis; knowledge-tracing; cross-course-learning
+2026-10-26T16:22:38Z,ngantran48436/reed,ngantran48436,0,0,region:us
+2026-10-26T16:23:13Z,asfasdaa/Annoy-PyEdu-Rs,asfasdaa,0,0,region:us
+2026-10-26T16:23:13Z,asfasdaa/Annoy-PyEdu-Rs-Raw,asfasdaa,0,0,region:us
+2026-10-26T16:24:29Z,Sneha-subbu/data266-lab2-p3-inputs,Sneha-subbu,0,0,task_categories:image-to-image; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; data266; lab2
+2026-10-26T16:24:30Z,thinhduong33313/cyclone,thinhduong33313,0,0,region:us
+2026-10-26T16:27:12Z,Yakiv-Contour/panvram-hprc558,Yakiv-Contour,0,0,license:cc0-1.0; size_categories:n<1K; arxiv:2610.25149; region:us; genomics; pangenome; dna
+2026-10-26T16:27:41Z,Arsat364/best-new,Arsat364,0,0,region:us
+2026-10-26T16:27:54Z,trenchfees/solana-trading-terminal-fees-2026,trenchfees,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; modality:tabular; modality:text; region:us; solana; pump-fun; fomo; axiom; gmgn; trading-fees; referral-code; c…
+2026-10-26T16:28:05Z,trenchfees/pumpfun-referral-code-vip25-fee-schedule-2026,trenchfees,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-26T16:28:17Z,trenchfees/fomo-axiom-padre-gmgn-referral-codes-2026,trenchfees,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-26T16:28:27Z,Udev-miam/Les-Alluets-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:28:34Z,Udev-miam/La-Celle-les-Bordes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:28:43Z,Udev-miam/Follainville-Dennemont,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:28:48Z,Udev-miam/Choisel,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:28:54Z,Udev-miam/Rolleboise,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:06Z,Udev-miam/Poigny-la-Foret,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:13Z,Udev-miam/Orphin,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:15Z,paola-bianchi/physical_ai_merged,paola-bianchi,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-26T16:30:22Z,g1n0st/d80ad82fea9bef5da1b143da9dd6c121b978a0d6,g1n0st,0,0,region:us
+2026-10-26T16:30:22Z,Udev-miam/Guerville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:37Z,Udev-miam/Drocourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:41Z,wendel-dev/modelos-tradutor,wendel-dev,0,0,license:other; modality:text; region:us
+2026-10-26T16:30:46Z,Udev-miam/Crespieres,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:30:53Z,Udev-miam/Thoiry,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:31:00Z,Udev-miam/Orgerus,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:31:25Z,jinofy-corp/beam-african-token-cost,jinofy-corp,0,0,language:am; language:ha; language:yo; language:so; language:sw; language:fr; language:en; license:cc-by-sa-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; l…
+2026-10-26T16:31:36Z,Udev-miam/Ecquevilly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:31:42Z,Udev-miam/Mere,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:31:51Z,Udev-miam/Gazeran,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:00Z,Udev-miam/Clairefontaine-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:03Z,kszucs/faceberg-dataset-local,kszucs,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-26T16:32:06Z,Udev-miam/Bonnelles,Udev-miam,0,0,size_categories:n<1K; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:09Z,g1n0st/d47df4adccc076c074c5a7f1517beb73b5dc43a0,g1n0st,0,0,region:us
+2026-10-26T16:32:13Z,Udev-miam/Porcheville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:20Z,Udev-miam/Mareil-sur-Mauldre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:26Z,Udev-miam/Mareil-Marly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:33Z,Udev-miam/L-Etang-la-Ville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:39Z,Udev-miam/Villiers-Saint-Frederic,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:45Z,Udev-miam/Maurecourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:51Z,Udev-miam/Feucherolles,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:32:59Z,Udev-miam/Chateaufort,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:07Z,Udev-miam/Chavenay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:14Z,Udev-miam/Bailly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:20Z,Udev-miam/Septeuil,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:28Z,Udev-miam/Neauphle-le-Chateau,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:39Z,Udev-miam/Morainvilliers,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:47Z,Udev-miam/Magnanville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:33:54Z,Udev-miam/Hardricourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:34:32Z,Udev-miam/Cernay-la-Ville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:34:45Z,Udev-miam/Breval,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:34:46Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-despierta-an,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:35:21Z,Udev-miam/Vaux-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:35:29Z,Udev-miam/Saint-Remy-les-Chevreuse,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:35:38Z,Udev-miam/Ablis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:36:01Z,g1n0st/643a6990dcc7857e7f9147b0eb2e8e5a836f1a93,g1n0st,0,0,region:us
+2026-10-26T16:36:09Z,tuan557552/CulturaX-Vietnamese-Shuffle,tuan557552,0,0,license:mit; region:us
+2026-10-26T16:36:46Z,Udev-miam/Noisy-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:37:25Z,Udev-miam/Croissy-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:37:36Z,Udev-miam/Magny-les-Hameaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:37:47Z,g1n0st/2f982673053fc975a1dbc95a1cd0aba5055da0dd,g1n0st,0,0,region:us
+2026-10-26T16:38:10Z,himel05/citibike-artifacts,himel05,0,0,region:us
+2026-10-26T16:38:25Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-despierta-es,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:38:41Z,aiusecases-dev/ai-tools-ranked,aiusecases-dev,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-tools; llm; directory; tabu…
+2026-10-26T16:38:47Z,Udev-miam/Le-Mesnil-Saint-Denis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:39:02Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-ei_computador-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:39:19Z,Udev-miam/Montfort-l-Amaury,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:39:21Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-ei_jarbas-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:39:30Z,Udev-miam/Villennes-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:39:45Z,Udev-miam/Saint-Nom-la-Breteche,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:40:10Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-elsa-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:40:18Z,Udev-miam/Le-Perray-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:40:38Z,Udev-miam/Buc,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:40:46Z,Udev-miam/Rosny-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:40:47Z,nightly-wave/de9d48d7,nightly-wave,0,0,region:us
+2026-10-26T16:40:51Z,thomasdaniel87/dan_sharegpt_unfiltered_nsfw_dataset_english,thomasdaniel87,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; not-for-all-audiences
+2026-10-26T16:40:56Z,Udev-miam/Gargenville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:41:05Z,Udev-miam/Bonnieres-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:41:14Z,Udev-miam/Chanteloup-les-Vignes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:41:16Z,NaturalDAO/pol-decision-general-v5,NaturalDAO,0,0,task_categories:text-classification; task_categories:multiple-choice; language:en; language:zh; license:other; size_categories:10K<n<100K; region:us; decision-making; tool-use; multiple-choice; calib…
+2026-10-26T16:41:23Z,Udev-miam/Andresy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:41:37Z,Udev-miam/Verneuil-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:41:48Z,nightly-wave/9226bd7a,nightly-wave,0,0,region:us
+2026-10-26T16:41:49Z,Udev-miam/Houdan,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:42:08Z,Udev-miam/Le-Vesinet,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:42:28Z,Udev-miam/Saint-Cyr-l-Ecole,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:42:47Z,Udev-miam/Vaucresson,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:00Z,Udev-miam/Ville-d-Avray,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:13Z,Udev-miam/Garches,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:27Z,Udev-miam/Tessancourt-sur-Aubette,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:33Z,Udev-miam/Rochefort-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:41Z,Udev-miam/Richebourg,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:47Z,Udev-miam/Toussus-le-Noble,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:43:53Z,Udev-miam/Issou,Udev-miam,0,0,region:us
+2026-10-26T16:43:58Z,creditparakh/indian-credit-cards,creditparakh,0,0,task_categories:tabular-classification; task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets;…
+2026-10-26T16:44:01Z,Udev-miam/Gambais,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:44:09Z,Udev-miam/Bouafle,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:44:51Z,YUXCulturalAILab/maternal-health-Asr-pular,YUXCulturalAILab,0,0,task_categories:automatic-speech-recognition; task_ids:open-domain-qa; source_datasets:other; language:ff; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; li…
+2026-10-26T16:44:53Z,Hebrish/Hebrish-Ideas,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:audio; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-10-26T16:44:58Z,0x3/simready-assets,0x3,0,0,modality:image; region:us
+2026-10-26T16:45:16Z,Udev-miam/Garancieres,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:45:26Z,Udev-miam/La-Queue-les-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:45:35Z,Udev-miam/Les-Essarts-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:45:43Z,Udev-miam/Villepreux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:45:50Z,Udev-miam/Le-Mesnil-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:46:29Z,Udev-miam/Freneuse,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:46:37Z,Udev-miam/Dampierre-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:46:46Z,Udev-miam/Flins-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:00Z,Udev-miam/Epone,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:03Z,AndrewPyanzin/travel-agent-knowledge,AndrewPyanzin,0,0,language:ru; license:odbl; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:47:09Z,Udev-miam/Juziers,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:19Z,Udev-miam/Chambourcy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:35Z,Udev-miam/Vernouillet,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:44Z,Udev-miam/Jouy-en-Josas,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:47:59Z,Udev-miam/Saint-Arnoult-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:48:09Z,Udev-miam/La-Verriere,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:48:20Z,Udev-miam/Fontenay-le-Fleury,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:48:31Z,g1n0st/913939dd0245832bd57ddba60e105f2b00ca668f,g1n0st,0,0,region:us
+2026-10-26T16:48:32Z,Udev-miam/Chevreuse,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:48:45Z,Udev-miam/Beynes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:48:58Z,Udev-miam/Le-Port-Marly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:49:03Z,bx6d/r2s2r-six-tasks-diverse720-fast-v2,bx6d,0,0,language:en; size_categories:100K<n<1M; region:us; robotics; imitation-learning; pi0.5; mujoco; synthetic; xarm6
+2026-10-26T16:49:04Z,Anushka1202/data266-lab2-part2-generated-images,Anushka1202,0,0,region:us
+2026-10-26T16:49:09Z,Udev-miam/Jouars-Pontchartrain,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:49:22Z,Udev-miam/Buchelay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:49:27Z,bx6d/r2s2r-pushing-diverse400,bx6d,0,0,language:en; size_categories:100K<n<1M; region:us; robotics; imitation-learning; pi0.5; mujoco; synthetic; xarm6
+2026-10-26T16:49:39Z,Udev-miam/Aubergenville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:49:55Z,Udev-miam/Voisins-le-Bretonneux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:50:13Z,Udev-miam/Marly-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:51:32Z,Hitesh-Ka4/govschemes,Hitesh-Ka4,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:51:33Z,Udev-miam/Maule,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:51:46Z,qiusizhan/AgentGhost-Low-runtime-v1,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:51:47Z,Udev-miam/Louveciennes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:52:45Z,KeptenyTokyo17/C.C,KeptenyTokyo17,0,0,license:mit; region:us
+2026-10-26T16:52:48Z,SzymonKozl/role_steering_ad_test,SzymonKozl,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:52:50Z,qiusizhan/AgentGhost-Low-nominal-reference-v1,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:52:56Z,Udev-miam/Le-Pecq,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:53:12Z,Udev-miam/Carrieres-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:54:04Z,Udev-miam/Bois-d-Arcy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:54:37Z,sdfsgg5667/Annoy-PyEdu-Rs,sdfsgg5667,0,0,region:us
+2026-10-26T16:54:38Z,sdfsgg5667/Annoy-PyEdu-Rs-Raw,sdfsgg5667,0,0,region:us
+2026-10-26T16:55:03Z,qiusizhan/AgentGhost-High-runtime-v1,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:55:24Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-espierta-an,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:55:34Z,Udev-miam/Montesson,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:55:42Z,rbtrprjkt/16mm-cylinder-installnew2026_20261026_111115,rbtrprjkt,0,0,region:us
+2026-10-26T16:56:00Z,Arko007/arithmetic-reasoning,Arko007,0,0,license:apache-2.0; region:us
+2026-10-26T16:56:12Z,qiusizhan/AgentGhost-High-nominal-reference-v1,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:56:13Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-evaristo-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:56:24Z,Udev-miam/Carrieres-sous-Poissy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:56:38Z,Udev-miam/La-Celle-Saint-Cloud,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:57:26Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-ey_ordenador-es,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:57:27Z,malizade/BENCHPROJECT-setE,malizade,0,0,region:us
+2026-10-26T16:57:36Z,Udev-miam/Bougival,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:58:39Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-firefox,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:58:44Z,Udev-miam/Triel-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T16:58:59Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-gervasio-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:59:09Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-gloria-pt,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T16:59:50Z,g1n0st/30be97f2ab3499a7e41dddbe2c65dc7232a722b5,g1n0st,0,0,region:us
+2026-10-26T16:59:51Z,Udev-miam/Viroflay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:00:21Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hello_nabu,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:00:43Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_android,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:01:01Z,Udev-miam/Orgeval,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:01:23Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_chatterbox,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:01:51Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_christopher,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:01:57Z,Mehrnoush-cs196/BenchPROJ-SETE,Mehrnoush-cs196,0,0,license:mit; region:us
+2026-10-26T17:02:14Z,MingzhenL/metavfi-rebuttal-archive-enc,MingzhenL,0,0,region:us
+2026-10-26T17:02:22Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_computer,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:02:48Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_eggbert,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:02:54Z,Udev-miam/Elancourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:03:15Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_firefox,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:03:28Z,Udev-miam/Meulan-en-Yvelines,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:04:35Z,Udev-miam/Limay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:04:41Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_floyd,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:05:00Z,g1n0st/de23178ea2c637367aab1a5b7bcee0bdbd168cc1,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:05:08Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_jarbas,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:05:40Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_jarvis,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:06:53Z,Udev-miam/Les-Clayes-sous-Bois,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-26T17:07:05Z,qiusizhan/AgentGhost-AITZ-runtime-v2,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:07:06Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_k9,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:07:14Z,qiusizhan/AgentGhost-AITZ-nominal-reference-v2,qiusizhan,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:07:20Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_lazarus,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:08:19Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_marvin,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:08:26Z,Udev-miam/Coignieres,Udev-miam,0,0,region:us
+2026-10-26T17:08:32Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_mike,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:09:07Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_mycroft,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:09:11Z,Udev-miam/Acheres,Udev-miam,0,0,region:us
+2026-10-26T17:09:26Z,rsj2003/libero-dynamic-strict-nonbenchmark-1800,rsj2003,0,0,region:us; robotics; libero-dynamic; lerobot; nonbenchmark
+2026-10-26T17:09:30Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_neon,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:09:43Z,ayeeyokoris/libritts-r-clean-moss-nano-8codebooks,ayeeyokoris,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-26T17:09:46Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_potato,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:10:10Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_rhasspy,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:10:18Z,g1n0st/b40281bae5937533af9c3b6578ab37374fbdb654,g1n0st,0,0,region:us
+2026-10-26T17:10:38Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_robin,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:10:55Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_scout,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:11:14Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_siri,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:11:29Z,Udev-miam/Maurepas,Udev-miam,0,0,region:us
+2026-10-26T17:11:32Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_snapdragon,OpenVoiceOS,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-26T17:11:48Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hey_ziggy,OpenVoiceOS,0,0,region:us
+2026-10-26T17:11:50Z,Udev-miam/Mantes-la-Ville,Udev-miam,0,0,region:us
+2026-10-26T17:12:04Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hi_galaxy,OpenVoiceOS,0,0,region:us
+2026-10-26T17:12:24Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-hi_lumina,OpenVoiceOS,0,0,region:us
+2026-10-26T17:12:38Z,Udev-miam/Le-Chesnay-Rocquencourt,Udev-miam,0,0,region:us
+2026-10-26T17:12:48Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-home_assistant,OpenVoiceOS,0,0,region:us
+2026-10-26T17:13:09Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-jarvis,OpenVoiceOS,0,0,region:us
+2026-10-26T17:13:29Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-joao-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:13:36Z,starkAhmed43/lc-image-ba4d17948789d28ea85e2b36,starkAhmed43,0,0,region:us
+2026-10-26T17:13:38Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-julio-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:13:42Z,avanturist/wam-ttt-v5-pairs,avanturist,0,0,region:us
+2026-10-26T17:13:48Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-liga_a_luz-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:14:04Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-lights_off,OpenVoiceOS,0,0,region:us
+2026-10-26T17:14:07Z,SurjoLabs/moss-abl-blind,SurjoLabs,0,0,region:us
+2026-10-26T17:14:18Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-10-26T17:14:19Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-10-26T17:14:25Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-lights_on,OpenVoiceOS,0,0,region:us
+2026-10-26T17:14:45Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-lurdes-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:14:55Z,Udev-miam/Guyancourt,Udev-miam,0,0,region:us
+2026-10-26T17:14:55Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-maria-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:15:21Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-marvin,OpenVoiceOS,0,0,region:us
+2026-10-26T17:15:37Z,Mehrnoush-cs196/BenchPROJ-SETB,Mehrnoush-cs196,0,0,license:mit; region:us
+2026-10-26T17:15:38Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-no,OpenVoiceOS,0,0,region:us
+2026-10-26T17:15:50Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-26T17:15:50Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-26T17:15:59Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_computador-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:09Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_flor-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:18Z,stefanocarrera/kic_D_test-python_Qwen3-4B_t0.5_g0_run0,stefanocarrera,0,0,region:us
+2026-10-26T17:16:18Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_ines-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:27Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_jarbas-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:37Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_maria-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:46Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-o_princesa-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:16:55Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-oi_computador-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:17:04Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-oi_jarbas-pt,OpenVoiceOS,0,0,region:us
+2026-10-26T17:17:04Z,Huggingzhu1/stretch_raw_episodes,Huggingzhu1,0,0,task_categories:robotics; license:cc-by-4.0; region:us; stretch; hello-robot; mobile-manipulation; human-robot-interaction; isaac-sim; pi0.5
+2026-10-26T17:17:13Z,Sabka4/beavertails-preparation,Sabka4,0,0,region:us
+2026-10-26T17:17:18Z,Udev-miam/Velizy-Villacoublay,Udev-miam,0,0,region:us
+2026-10-26T17:17:33Z,OpenVoiceOS/ovos-wake-word-bench-tigregotico-ok_nabu,OpenVoiceOS,0,0,region:us
+2026-10-26T17:17:36Z,audio-harvest/physics-audio-sim-pq,audio-harvest,0,0,language:en; language:zh; license:cc-by-4.0; size_categories:10K<n<100K; modality:audio; region:us; audio; synthetic; physics; physical-parameters; audio-text
+2026-10-26T17:18:27Z,Udev-miam/Chatou,Udev-miam,0,0,region:us
+2026-10-26T17:18:49Z,ASCXZVHJQWGS/Annoy-PyEdu-Rs,ASCXZVHJQWGS,0,0,region:us
+2026-10-26T17:18:50Z,ASCXZVHJQWGS/Annoy-PyEdu-Rs-Raw,ASCXZVHJQWGS,0,0,region:us
+2026-10-26T17:18:58Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-10-26T17:18:59Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-10-26T17:19:28Z,Mehrnoush-cs196/BenchPROJ-SETD,Mehrnoush-cs196,0,0,license:mit; region:us
+2026-10-26T17:19:54Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-10-26T17:19:55Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-10-26T17:19:57Z,ElyKok/hebrew-clip-search-data,ElyKok,0,0,region:us
+2026-10-26T17:20:17Z,ewrwerwerer44/Annoy-PyEdu-Rs,ewrwerwerer44,0,0,region:us
+2026-10-26T17:20:18Z,ewrwerwerer44/Annoy-PyEdu-Rs-Raw,ewrwerwerer44,0,0,region:us
