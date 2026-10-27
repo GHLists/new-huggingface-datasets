@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-27T22:19:14Z,htb-ac-1424625/seclists-forbidden-question-set,htb-ac-1424625,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-10-27T22:19:15Z,RoboARC/RoboARC-outputs,RoboARC,0,0,region:us
+2026-10-27T22:24:09Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-10-27T22:24:40Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-10-27T22:33:25Z,yijiangg/example,yijiangg,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-27T22:34:05Z,Faless/harvest_apples_real_20261026_3cam,Faless,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-27T22:34:14Z,algo-dev99/soccertrack-v2-followcam-events,algo-dev99,0,0,task_categories:video-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; modality:text; modality:video; region:us; soccer; football; action-spotting; ball-action-spotting
+2026-10-27T22:36:17Z,AL-mozahem/HRP-Stage04-Synthetic-Hotel-Reviews,AL-mozahem,0,0,task_categories:text-classification; language:ar; language:en; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-27T22:36:26Z,SinitcynLab/electron_fragmentation,SinitcynLab,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; mass-spectrometry; proteomics; de-novo-seq…
+2026-10-27T22:37:27Z,gemixin/touch-ex,gemixin,0,0,task_categories:image-classification; task_categories:feature-extraction; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; l…
+2026-10-27T22:40:20Z,hannah-eee/misc,hannah-eee,0,0,license:apache-2.0; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-27T22:45:35Z,marcosjcn/paired-spike-sorting,marcosjcn,0,0,license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; neuroscience; extracellular-electrophysiology; spike-sorting
+2026-10-27T22:46:29Z,ocsifl/sec-insider-filings,ocsifl,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc0-1.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; lib…
+2026-10-27T22:50:04Z,ritwika96/arc-agi2-hybrid-hard355-rl-sft,ritwika96,0,0,task_categories:text-generation; task_categories:reinforcement-learning; language:en; license:apache-2.0; region:us
+2026-10-27T22:50:15Z,lovecalcs/love-insights,lovecalcs,0,0,task_categories:translation; task_categories:text-classification; task_categories:text-generation; multilinguality:multilingual; language:en; language:es; language:fr; language:de; language:it; langu…
+2026-10-27T22:52:33Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs,SAD12EDXZDSAD,0,0,region:us
+2026-10-27T22:52:33Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs-Raw,SAD12EDXZDSAD,0,0,region:us
+2026-10-27T22:52:52Z,Vendona/email-marketing-survey,Vendona,0,0,region:us
+2026-10-27T22:53:01Z,marthur24/diversity15k,marthur24,0,0,region:us
+2026-10-27T22:53:02Z,yazses/yazses-benchmark-results,yazses,0,0,task_categories:automatic-speech-recognition; annotations_creators:machine-generated; source_datasets:openslr/librispeech_asr; source_datasets:google/fleurs; source_datasets:mozilla-foundation/common…
+2026-10-27T22:53:28Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-27T22:53:40Z,rbtrprjkt/philips-screw-unfasten_2_20261027_163854,rbtrprjkt,0,0,region:us
+2026-10-27T22:53:59Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-27T22:55:45Z,tobachat/whatsapp-api-rates,tobachat,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; whatsapp; wh…
+2026-10-27T22:55:54Z,TonyDzi/agent-sessions,TonyDzi,0,0,task_categories:text-generation; language:ru; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-27T22:56:59Z,hi-todayis-jh/ouro-1.4b-thinking-math-verl-per-context-rb-ragged-cfg3-b128g16-r2-156947-20261026-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars;…
+2026-10-27T22:57:46Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-27T22:57:47Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-27T22:58:39Z,LindsayCC/so101_cube_v1_1026,LindsayCC,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-27T22:58:52Z,rbtrprjkt/m16nut-fastennew2026_nodepth,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-27T22:59:20Z,dougalldeepmind/2026-10-27-odcv-qwen36-0-ablation-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_ablation_15; mode:think
+2026-10-27T22:59:33Z,Seldon-Technologies/task-reviewed,Seldon-Technologies,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-27T23:02:18Z,rbtrprjkt/16mm-bar_install_rand30,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-27T23:03:21Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-27T23:03:22Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-27T23:03:40Z,Faless/harvest_apples_real_20261026_3cam_ee,Faless,0,0,task_categories:robotics; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot
+2026-10-27T23:03:58Z,spacejourney/global-sensory-impact-benchmark,spacejourney,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; task_categories:text-generation; language:en; language:es; language:pt; license:cc-by-4.0; size_categories:n<1K; forma…
+2026-10-27T23:04:12Z,dougalldeepmind/2026-10-27-mask-qwen36-0-ablation-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_ablation_15; mode:think
+2026-10-27T23:06:20Z,DAZSC12E/Annoy-PyEdu-Rs,DAZSC12E,0,0,region:us
+2026-10-27T23:06:51Z,DAZSC12E/Annoy-PyEdu-Rs-Raw,DAZSC12E,0,0,region:us
+2026-10-27T23:08:19Z,safafaf4546/Annoy-PyEdu-Rs,safafaf4546,0,0,region:us
+2026-10-27T23:08:19Z,safafaf4546/Annoy-PyEdu-Rs-Raw,safafaf4546,0,0,region:us
+2026-10-27T23:08:37Z,U-WIN/equational-theory-lean2nl-references-gpt-approved,U-WIN,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-27T23:10:36Z,GongLuZhiG/colab-scripts,GongLuZhiG,0,0,region:us
+2026-10-27T23:12:25Z,RyanYr/hop2-tb-grpo-v3-vlxsp-rollouts,RyanYr,0,0,region:us
+2026-10-27T23:12:51Z,Pablooredep/statsbomb-open-data-shots,Pablooredep,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; region:us; football; soccer; xG; expected-goals; sports-anal…
+2026-10-27T23:13:11Z,sadad1szc12cxzq/Annoy-PyEdu-Rs,sadad1szc12cxzq,0,0,region:us
+2026-10-27T23:13:12Z,sadad1szc12cxzq/Annoy-PyEdu-Rs-Raw,sadad1szc12cxzq,0,0,region:us
+2026-10-27T23:13:46Z,dfdfdg5667/Annoy-PyEdu-Rs,dfdfdg5667,0,0,region:us
+2026-10-27T23:13:47Z,dfdfdg5667/Annoy-PyEdu-Rs-Raw,dfdfdg5667,0,0,region:us
+2026-10-27T23:14:34Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-10-27T23:14:34Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-10-27T23:14:36Z,midnight666/my_test_dataset,midnight666,0,0,region:us
+2026-10-27T23:15:09Z,RyanYr/hop2-tb-grpo-v3-trss-rollouts,RyanYr,0,0,region:us
+2026-10-27T23:17:22Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs,DSA1DSA12EDSA,0,0,region:us
+2026-10-27T23:17:23Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs-Raw,DSA1DSA12EDSA,0,0,region:us
