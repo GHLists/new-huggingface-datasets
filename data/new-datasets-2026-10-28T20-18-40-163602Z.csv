@@ -1,0 +1,84 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-28T19:21:11Z,vraiRobotLab/PCAtest_20261028_151542,vraiRobotLab,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-28T19:21:26Z,hi-todayis-jh/compression-math-fixed100-l1-max-100-4k-qwen3-1.7b-146103-20261028,hi-todayis-jh,0,0,region:us; math; reasoning; evaluation; qwen3
+2026-10-28T19:21:58Z,sddfhy546y/medical-graphrag-data-test,sddfhy546y,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-28T19:22:19Z,edessa/motorsense,edessa,0,0,task_categories:video-classification; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-28T19:25:45Z,on1onmangoes/terminal-bench-science,on1onmangoes,0,0,license:apache-2.0; size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us; benchmark; agents; terminal; code; evaluation; harbor; ai-for-science; rl-en…
+2026-10-28T19:29:14Z,ASCXZ12EWDX/Annoy-PyEdu-Rs,ASCXZ12EWDX,0,0,region:us
+2026-10-28T19:29:15Z,ASCXZ12EWDX/Annoy-PyEdu-Rs-Raw,ASCXZ12EWDX,0,0,region:us
+2026-10-28T19:29:30Z,Quran-Auido/Quran-audio-god,Quran-Auido,0,0,region:us
+2026-10-28T19:29:32Z,ASD12CXZ/Annoy-PyEdu-Rs,ASD12CXZ,0,0,region:us
+2026-10-28T19:29:33Z,ASD12CXZ/Annoy-PyEdu-Rs-Raw,ASD12CXZ,0,0,region:us
+2026-10-28T19:29:33Z,duyle2408/tinyperson-jetson-tensorrt-20261029,duyle2408,0,0,region:us
+2026-10-28T19:30:06Z,retsasd/img,retsasd,0,0,region:us
+2026-10-28T19:31:38Z,thaki-AI/daily-paper-2026-10-29-twin-registry-dedup-dividend,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; near-duplicate-skills; skill-registry-density; routing-error-attribution; deduplication-dividend; merge-vs-rewrite; self-evolving-harness; embedding-similar…
+2026-10-28T19:32:34Z,yeshdamania/items_prompts_full,yeshdamania,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T19:34:56Z,Quran-Auido/abdulsamad-quranexplorer-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:01Z,Quran-Auido/abdul-basit-mujawwad-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:05Z,Quran-Auido/abdul-basit-murattal-192kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:08Z,Quran-Auido/abdul-basit-murattal-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:14Z,Quran-Auido/abdullah-awad-al-juhani-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:17Z,Quran-Auido/abdullah-basfar-192kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:20Z,Quran-Auido/abdullah-basfar-32kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:21Z,jungter/mtg-agentic-cr-embeddings,jungter,0,0,license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; magic-the-gathering; embeddings; r…
+2026-10-28T19:35:26Z,Quran-Auido/abdullah-basfar-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:29Z,Quran-Auido/abdullah-matroud-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:32Z,Quran-Auido/abdurrahman-as-sudais-192kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:35Z,Quran-Auido/abdurrahman-as-sudais-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:39Z,Quran-Auido/abu-bakr-ash-shatri-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:40Z,haloos/img,haloos,0,0,region:us
+2026-10-28T19:35:42Z,Quran-Auido/abu-bakr-ash-shatri-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:45Z,Quran-Auido/ahmed-neana-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:48Z,Quran-Auido/ahmed-al-ajmi-128kbps-ketaballah,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-28T19:35:55Z,manhmitcf/final,manhmitcf,0,0,region:us
+2026-10-28T19:38:45Z,glouriousgautam/lilm2-experiment2-sft-v2,glouriousgautam,0,0,region:us
+2026-10-28T19:40:36Z,kshitijthakkar/UltraData-SFT-Agent-2609-1,kshitijthakkar,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:zh; license:apache-2.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:das…
+2026-10-28T19:42:07Z,jpineapples/Plugin,jpineapples,0,0,region:us
+2026-10-28T19:44:54Z,TingtingDu/xarm_cube_into_box_fast,TingtingDu,0,0,region:us
+2026-10-28T19:45:13Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-10-28T19:45:13Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-10-28T19:47:17Z,KomorAI/tiny-50x,KomorAI,0,0,language:pl; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; 50x; tiny; mini
+2026-10-28T19:47:26Z,taziksh/cliwoc,taziksh,0,0,language:nl; language:en; language:es; language:fr; license:cc-by-3.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:panda…
+2026-10-28T19:48:50Z,rlondner/acronymes-data,rlondner,0,0,region:us
+2026-10-28T19:50:45Z,propfirmdiscounts/aquafunded-deals,propfirmdiscounts,0,0,region:us
+2026-10-28T19:50:46Z,propfirmdiscounts/phidias-propfirm-deals,propfirmdiscounts,0,0,region:us
+2026-10-28T19:50:53Z,pennydata/website-tech-stack-top1k-2026-10,pennydata,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; web; tech-stack; cms; wappa…
+2026-10-28T19:54:45Z,Harsharhs/ChokeBench,Harsharhs,0,0,source_datasets:Qwen/ProcessBench; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-28T19:55:45Z,ai-safety-brazil/golpes-mensagens-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-28T19:55:54Z,b4ph/clap-retrieval-benchmark,b4ph,0,0,task_categories:audio-classification; language:en; license:mit; size_categories:1K<n<10K; region:us; audio-text-retrieval; clap; benchmark; reproducibility
+2026-10-28T19:55:55Z,PureOne/soryumee-adaptive-chiral-atlas-vi,PureOne,0,0,language:en; size_categories:n<1K; modality:document; modality:tabular; modality:text; region:us; mathematics; su2; invariant-theory; inverse-problems; adaptive-measurements; bounded-noise; chirality…
+2026-10-28T19:56:20Z,ai-safety-brazil/golpes-intencao-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-28T19:56:33Z,ai-safety-brazil/moderacao-fronteiras-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-28T19:56:47Z,ai-safety-brazil/odio-contexto-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-28T19:57:01Z,ai-safety-brazil/overrefusal-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-10-28T19:57:36Z,ai-safety-brazil/safety-crosslingual-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:…
+2026-10-28T20:00:11Z,micahr234/mouse-dataset-100random,micahr234,0,0,region:us
+2026-10-28T20:00:15Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-28T20:00:15Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-28T20:01:00Z,drewponder/drew-ponder-theories,drewponder,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fr…
+2026-10-28T20:01:43Z,JJKK1212/3d-syntree-build-cache,JJKK1212,0,0,region:us
+2026-10-28T20:02:17Z,ASDCZX12DS/Annoy-PyEdu-Rs,ASDCZX12DS,0,0,region:us
+2026-10-28T20:02:19Z,ASDCZX12DS/Annoy-PyEdu-Rs-Raw,ASDCZX12DS,0,0,region:us
+2026-10-28T20:02:26Z,mharbovskyi/so101_duck_bowl_3pos_20261028_210044,mharbovskyi,0,0,region:us
+2026-10-28T20:02:51Z,jtviegas/faers_silver_drug,jtviegas,0,0,region:us
+2026-10-28T20:03:07Z,danish-foundation-models/german-dynaword,danish-foundation-models,0,0,task_categories:text-generation; task_ids:language-modeling; annotations_creators:machine-generated; language_creators:found; multilinguality:monolingual; source_datasets:original; language:de; licen…
+2026-10-28T20:03:47Z,linliaaa/Annoy-PyEdu-Rs,linliaaa,0,0,region:us
+2026-10-28T20:03:48Z,linliaaa/Annoy-PyEdu-Rs-Raw,linliaaa,0,0,region:us
+2026-10-28T20:04:08Z,agentlans/background-sounds,agentlans,0,0,task_categories:audio-classification; task_categories:text-to-audio; language:en; license:cc-by-4.0; modality:audio; region:us; audio; sound-effects; background-noise; synthetic
+2026-10-28T20:04:16Z,Panav-Payappagoudar/Project-Vedhak,Panav-Payappagoudar,0,0,region:us
+2026-10-28T20:04:48Z,HugMinjun/PointOdyssey-Track4D-v3,HugMinjun,0,0,modality:video; region:us; pointodyssey; video; 3d-tracking; cpu-prepared
+2026-10-28T20:05:04Z,Aakash192004/moldata-polybench26_md,Aakash192004,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-28T20:06:59Z,rdoyle99/foundation-soils-data,rdoyle99,0,0,region:us
+2026-10-28T20:07:15Z,afdafadaa/Annoy-PyEdu-Rs,afdafadaa,0,0,region:us
+2026-10-28T20:07:19Z,afdafadaa/Annoy-PyEdu-Rs-Raw,afdafadaa,0,0,region:us
+2026-10-28T20:08:16Z,pennydata/appstore-us-reviews-metadata-2026-10,pennydata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; app-store; reviews; ratings; metadata
+2026-10-28T20:12:52Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-28T20:12:53Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-28T20:13:37Z,syuekai/paw-speed-decoding-assets,syuekai,0,0,region:us
+2026-10-28T20:14:14Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-28T20:14:15Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-28T20:18:11Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-28T20:18:12Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-28T20:18:12Z,angelinafeng/demo_data_20261028_131739,angelinafeng,0,0,region:us
+2026-10-28T20:18:38Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-28T20:18:38Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
