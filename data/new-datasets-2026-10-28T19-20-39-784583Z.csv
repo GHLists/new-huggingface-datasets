@@ -1,0 +1,81 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-28T18:20:37Z,Nathan-Maine/cmmc-training-data-2026-10-28,Nathan-Maine,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:po…
+2026-10-28T18:21:57Z,mrdg007/livehfdatacourse,mrdg007,0,0,region:us
+2026-10-28T18:22:24Z,mrbmaryam/Apache_Test,mrbmaryam,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T18:23:53Z,asdsa132dsa/Annoy-PyEdu-Rs,asdsa132dsa,0,0,region:us
+2026-10-28T18:23:54Z,asdsa132dsa/Annoy-PyEdu-Rs-Raw,asdsa132dsa,0,0,region:us
+2026-10-28T18:28:09Z,Screener2/AnchoredCamera_20261028_141938,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-28T18:28:11Z,vkusterl/ProgramExBR,vkusterl,0,0,task_categories:text-generation; task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; libr…
+2026-10-28T18:28:37Z,PoseyEnder/Annoy-PyEdu-Rs,PoseyEnder,0,0,region:us
+2026-10-28T18:28:38Z,PoseyEnder/Annoy-PyEdu-Rs-Raw,PoseyEnder,0,0,region:us
+2026-10-28T18:29:14Z,desargues-hf/annals-math-rl-sample,desargues-hf,0,0,task_categories:other; license:apache-2.0; library:harbor; region:us; harbor; rl-environment; reinforcement-learning; lean4; mathlib; theorem-proving; annals-challenge; lean-gap; algebra
+2026-10-28T18:31:50Z,PureOne/AELITH-Phi-II-Reciprocal-Transduction,PureOne,0,0,language:en; size_categories:n<1K; modality:document; modality:tabular; modality:text; modality:timeseries; region:us; physics; nonlinear-dynamics; nonlinear-phononics; reciprocal-transduction; stoch…
+2026-10-28T18:33:02Z,alea-institute/alea-eu-dates,alea-institute,0,0,task_categories:question-answering; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; l…
+2026-10-28T18:33:26Z,Liangzhi-Li/repair-reach-sp27,Liangzhi-Li,0,0,region:us
+2026-10-28T18:33:30Z,root-sys-n/mima-pona-dataset,root-sys-n,0,0,task_categories:text-generation; task_categories:translation; source_datasets:original; language:tok; license:mit; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:ml…
+2026-10-28T18:35:26Z,9eve5h/rls-bench,9eve5h,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-28T18:36:33Z,dfsfsdg5657/Annoy-PyEdu-Rs,dfsfsdg5657,0,0,region:us
+2026-10-28T18:36:34Z,dfsfsdg5657/Annoy-PyEdu-Rs-Raw,dfsfsdg5657,0,0,region:us
+2026-10-28T18:36:42Z,ASDBXNSFASD/Annoy-PyEdu-Rs,ASDBXNSFASD,0,0,region:us
+2026-10-28T18:36:43Z,ASDBXNSFASD/Annoy-PyEdu-Rs-Raw,ASDBXNSFASD,0,0,region:us
+2026-10-28T18:36:48Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-10-28T18:36:48Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-10-28T18:38:40Z,evertonvavila/urnas-2026-dados,evertonvavila,0,0,region:us
+2026-10-28T18:39:50Z,bench-labs/MicroBench-1,bench-labs,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T18:40:08Z,SitongGong/RIVER,SitongGong,0,0,task_categories:video-text-to-text; arxiv:2603.03985; region:us
+2026-10-28T18:40:12Z,connections-dev/create-interpret-task-general-forced-x100,connections-dev,0,0,size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T18:42:03Z,DAS21321DSA/Annoy-PyEdu-Rs,DAS21321DSA,0,0,region:us
+2026-10-28T18:42:25Z,Claymorock/grizzlead,Claymorock,0,0,license:apache-2.0; region:us
+2026-10-28T18:42:34Z,DAS21321DSA/Annoy-PyEdu-Rs-Raw,DAS21321DSA,0,0,region:us
+2026-10-28T18:43:50Z,dfgdfgd556/Annoy-PyEdu-Rs,dfgdfgd556,0,0,region:us
+2026-10-28T18:43:52Z,dfgdfgd556/Annoy-PyEdu-Rs-Raw,dfgdfgd556,0,0,region:us
+2026-10-28T18:45:03Z,AlignmentResearch/telling-fibs-eval-transcripts,AlignmentResearch,0,0,language:en; license:other; region:us; deception; ai-safety; agents; probes
+2026-10-28T18:45:45Z,devarshidev/codra-review-evals,devarshidev,0,1,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-28T18:45:51Z,tianxia2/egolife-six-user-mcqa-human-pass,tianxia2,0,0,task_categories:video-text-to-text; task_categories:multiple-choice; language:en; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; arxiv:2503.03803; region:us…
+2026-10-28T18:47:15Z,kxytoe/mw3hd,kxytoe,0,0,region:us
+2026-10-28T18:48:48Z,asd123dsa12dsa2/Annoy-PyEdu-Rs,asd123dsa12dsa2,0,0,region:us
+2026-10-28T18:48:49Z,asd123dsa12dsa2/Annoy-PyEdu-Rs-Raw,asd123dsa12dsa2,0,0,region:us
+2026-10-28T18:49:05Z,pescamil/pleno-datos,pescamil,0,0,language:es; license:other; region:us
+2026-10-28T18:49:35Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-28T18:49:35Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-28T18:49:39Z,teyfix/fonts,teyfix,0,0,region:us
+2026-10-28T18:51:40Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs,DSAD2CSA2ZC,0,0,region:us
+2026-10-28T18:51:41Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs-Raw,DSAD2CSA2ZC,0,0,region:us
+2026-10-28T18:52:15Z,RKB109/rag-evaluation-lab-20261028-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-28T18:52:29Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-10-28T18:52:30Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-10-28T18:52:37Z,asdafee34/Annoy-PyEdu-Rs,asdafee34,0,0,region:us
+2026-10-28T18:52:38Z,asdafee34/Annoy-PyEdu-Rs-Raw,asdafee34,0,0,region:us
+2026-10-28T18:53:43Z,HoonheeCho/revla-sim-assets,HoonheeCho,0,0,license:other; region:us
+2026-10-28T18:53:59Z,openvulcan/vulcan-decision-shell-v1-data,openvulcan,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; safety; guardrail; coding-agent; tool-call; command-review; permission; qwen3.5
+2026-10-28T18:56:07Z,qiusizhan/BEAT-VAB-runtime-paired-v1,qiusizhan,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T18:57:35Z,nininiu/ag_news,nininiu,0,0,task_categories:text-classification; task_ids:topic-classification; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:original; language:en; license:un…
+2026-10-28T18:57:47Z,asdadfhg/vvvvv,asdadfhg,0,0,license:apache-2.0; region:us
+2026-10-28T18:58:39Z,nightly-wave/testc,nightly-wave,0,0,region:us
+2026-10-28T19:00:12Z,Skskskd/jailbreak-analyze,Skskskd,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-28T19:01:31Z,JokeMaker/arxiv-prompt-injection-sft,JokeMaker,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-10-28T19:03:45Z,EthicalAIWizard/open-door,EthicalAIWizard,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-agents; autonomous-agents; ai-welfare; model-welfare; ai-consciousness; ai-autonomy; agi; open-letter; llm
+2026-10-28T19:04:21Z,ZebTaylor/panthera-gear-carrier-pin-retimed-real-20hz,ZebTaylor,0,0,language:en; region:us; robotics; lerobot; bimanual; real-robot; imitation-learning; trajectory-retiming
+2026-10-28T19:05:08Z,pennydata/lemmy-world-top-posts-2026-10,pennydata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; le…
+2026-10-28T19:06:22Z,micahr234/mouse-dataset-100random,micahr234,0,0,region:us
+2026-10-28T19:09:38Z,starkAhmed43/lc-image-ef59fd60879cd1c30eb367a5,starkAhmed43,0,0,region:us
+2026-10-28T19:09:42Z,ZebTaylor/panthera-gear-carrier-pin-retimed-restyled-20hz,ZebTaylor,0,0,language:en; region:us; robotics; lerobot; bimanual; imitation-learning; domain-randomization; trajectory-retiming
+2026-10-28T19:10:01Z,hi-todayis-jh/ouro-1.4b-thinking-math-verl-grpo-native-depth2-cmp32k-cfg3-156947-20261028-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model
+2026-10-28T19:10:12Z,asfsdfgaa/Annoy-PyEdu-Rs,asfsdfgaa,0,0,region:us
+2026-10-28T19:10:13Z,asfsdfgaa/Annoy-PyEdu-Rs-Raw,asfsdfgaa,0,0,region:us
+2026-10-28T19:10:13Z,ASCSA12312E/Annoy-PyEdu-Rs,ASCSA12312E,0,0,region:us
+2026-10-28T19:10:17Z,ASCSA12312E/Annoy-PyEdu-Rs-Raw,ASCSA12312E,0,0,region:us
+2026-10-28T19:10:59Z,HarlodCL/site-bench-recordings,HarlodCL,0,0,region:us
+2026-10-28T19:12:05Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-28T19:12:05Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-28T19:12:18Z,4n0rmalp3rs0n/kfNems,4n0rmalp3rs0n,0,0,region:us
+2026-10-28T19:12:54Z,david-thrower/jones-pipeline-fixes,david-thrower,0,0,region:us
+2026-10-28T19:13:09Z,CrowdMind/test-repo,CrowdMind,0,0,region:us
+2026-10-28T19:13:41Z,brian8808/gpu-price-index,brian8808,0,0,task_categories:other; license:cc-by-4.0; size_categories:n<1K; region:us; gpu; gpu-rental; cloud-computing; pricing; time-series; china
+2026-10-28T19:14:19Z,sddfhy546y/medical-graphrag-smoke-test,sddfhy546y,0,0,region:us
+2026-10-28T19:14:41Z,Digital-Divide-Data/ASR_Luhya_Extending_benchmark,Digital-Divide-Data,0,0,region:us
+2026-10-28T19:16:32Z,abbhijitv/synthetic-sql-benchmark,abbhijitv,0,0,region:us
+2026-10-28T19:16:41Z,MckenzieAslan/Annoy-PyEdu-Rs,MckenzieAslan,0,0,region:us
+2026-10-28T19:16:42Z,MckenzieAslan/Annoy-PyEdu-Rs-Raw,MckenzieAslan,0,0,region:us
+2026-10-28T19:19:21Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-28T19:19:21Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
