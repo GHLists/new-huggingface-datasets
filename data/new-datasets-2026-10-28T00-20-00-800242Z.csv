@@ -1,0 +1,73 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-27T23:22:16Z,RyanYr/hop2-tb-grpo-v3-vlxs-rollouts,RyanYr,0,0,region:us
+2026-10-27T23:24:23Z,Garretewilliams/ai-companion-apps-2027,Garretewilliams,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-companions; character-ai; chatbot…
+2026-10-27T23:26:56Z,ziyueliu12138/sp-multitenant-serving-h100,ziyueliu12138,0,0,license:other; size_categories:1K<n<10K; region:us; llm-serving; lora; soft-prompt; sglang; vllm
+2026-10-27T23:26:57Z,clm-projects/clm-train-store-index,clm-projects,0,0,region:us
+2026-10-27T23:31:39Z,TitikBangkit/live-casino-streaming-latency-and-prng-fairness-2026,TitikBangkit,0,0,task_categories:question-answering; task_categories:tabular-classification; annotations_creators:expert-generated; multilinguality:bilingual; source_datasets:original; language:id; language:en; licen…
+2026-10-27T23:32:15Z,EndeavourDD/rss_27_rl,EndeavourDD,0,0,region:us
+2026-10-27T23:32:19Z,Faless/piper_apples_cotrain_reale4_c03meta_2cam,Faless,0,0,task_categories:robotics; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-27T23:32:35Z,zephyr2024/QwenUpdate,zephyr2024,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-27T23:33:11Z,HOLASO9/qwen,HOLASO9,0,0,region:us
+2026-10-27T23:33:56Z,Ineeoluwa/support-intent-grouped,Ineeoluwa,0,0,task_categories:text-classification; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-27T23:33:59Z,Ineeoluwa/voice-workflow-scenarios,Ineeoluwa,0,0,task_categories:other; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; voice-agents;…
+2026-10-27T23:34:12Z,rbtrprjkt/16mm-bar_install_rand45,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-27T23:34:18Z,claudiaima/PregnantAnalysis,claudiaima,0,0,license:mit; size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-27T23:34:31Z,xtools-at/ChatGPT-6.1-Terra-High-Reasoning-TraceInversion-95x,xtools-at,0,0,task_categories:text-generation; source_datasets:mondk/Claude-Haiku-5.5-High-Sft; language:en; license:other; size_categories:n<1K; arxiv:2603.07267; region:us; trace-inversion; synthetic-data; reaso…
+2026-10-27T23:38:05Z,wangzyuan/SafeRLHFV-RM-Epoch3-Native-Checkpoint-Rescue,wangzyuan,0,0,license:other; region:us
+2026-10-27T23:38:52Z,fireviewer/Extension2.5,fireviewer,0,0,modality:image; region:us
+2026-10-27T23:39:38Z,GeertWang/pipette-aim-r3-ac-hgdagger,GeertWang,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-10-27T23:40:42Z,liuganghuggingface/moldata-massspecgym_v1_5_candidates_mass,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; region:us; chemistry; molecules; small-molecules; analytical-chemistry; candidate-pool; molecule-retrieval; ms-ms
+2026-10-27T23:41:16Z,na399/thai-decision-index-results,na399,0,0,region:us
+2026-10-27T23:41:41Z,ayzk/mosaic-v0,ayzk,0,0,task_categories:image-segmentation; license:cc-by-4.0; modality:geospatial; library:mlcroissant; region:us; flood; remote-sensing; sentinel-1; sentinel-2; label-noise; data-quality; croissant
+2026-10-27T23:41:49Z,mteb/clotho_a2t_v2,mteb,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-27T23:41:52Z,liuganghuggingface/moldata-massspecgym_v1_5_candidates_formula,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; region:us; chemistry; molecules; small-molecules; analytical-chemistry; candidate-pool; molecule-retrieval; ms-ms
+2026-10-27T23:43:18Z,gigwegbe/color-shape-box-sort_20261027_234211,gigwegbe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-27T23:44:49Z,mteb/clotho_t2a_v2,mteb,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-27T23:46:49Z,yuruny/hop2-tb-grpo-v3-vlxsp-rollouts,yuruny,0,0,region:us
+2026-10-27T23:47:11Z,deersir/IQA-CD-degraded-v2,deersir,0,0,license:other; modality:geospatial; region:us; computer-vision; remote-sensing; change-detection; image-quality-assessment; synthetic-data
+2026-10-27T23:47:50Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-10-27T23:47:51Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-10-27T23:48:12Z,isalgo/vdjtools_models,isalgo,0,0,language:en; license:other; size_categories:n<1K; modality:text; region:us; biology; immunology; vdjtools
+2026-10-27T23:48:58Z,liuganghuggingface/moldata-mollangbench_recognition_training,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; modality:image; region:us; chemistry; molecules; small-molecules; molecular-language; iclr-2026; image
+2026-10-27T23:49:13Z,mteb/UMRB-EncyclopediaVQA,mteb,0,0,language:en; license:cc; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; information-retriev…
+2026-10-27T23:50:01Z,liuganghuggingface/moldata-asap_polaris_openadmet_structures,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; region:us; chemistry; molecules; small-molecules; bioactivity; experiment; mers-cov; protein-ligand; sars-cov2; x-ray-crystallog…
+2026-10-27T23:54:30Z,liuganghuggingface/moldata-spice_2_0_1,liuganghuggingface,0,0,task_categories:tabular-regression; license:cc0-1.0; size_categories:n<1K; region:us; chemistry; molecules; small-molecules; quantum-chemistry; dft; energy; forces; hdf5; noncovalent-interactions; so…
+2026-10-27T23:54:30Z,yuruny/hop2-tb-grpo-v3-trss-rollouts,yuruny,0,0,region:us
+2026-10-27T23:55:18Z,liuganghuggingface/moldata-marcel_drugs75k,liuganghuggingface,0,0,task_categories:tabular-regression; license:apache-2.0; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; quantum-chemistry; aimnet-nse; conformer-ensemble; dft-derived; i…
+2026-10-27T23:55:32Z,pratikgx/launch-bench-results,pratikgx,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; mlx; apple-silicon; llm-evaluation
+2026-10-27T23:57:17Z,afibla/CV_T2,afibla,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-27T23:57:18Z,attacker8324/gatednb3130,attacker8324,0,0,region:us
+2026-10-27T23:57:55Z,raftbioworks/train_GH200_symmetry_1152_v3,raftbioworks,0,0,language:en; size_categories:10K<n<100K; region:us; protein-structure; framediff; gh200; symmetry
+2026-10-27T23:58:30Z,gonzalobenegas/biotasks-notebook-pilot-issue-19-cobrapy-226,gonzalobenegas,0,0,language:en; license:other; size_categories:n<1K; library:harbor; region:us; reinforcement-learning; coding; harbor; repo2rlenv; notebook-artifact-reproduction
+2026-10-27T23:58:57Z,gigwegbe/color-shape-box-sort_20261027_235502,gigwegbe,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-27T23:59:24Z,yuruny/hop2-tb-grpo-v3-vlxs-rollouts,yuruny,0,0,region:us
+2026-10-28T00:00:37Z,liuganghuggingface/moldata-marcel_bde,liuganghuggingface,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:n<1K; region:us; chemistry; molecules; small-molecules; quantum-chemistry; catalysis; dft; iclr-2024; openbabel-conformers; orga…
+2026-10-28T00:00:41Z,coreytoolathon/Annoy-PyEdu-Rs,coreytoolathon,0,0,region:us
+2026-10-28T00:01:01Z,liuganghuggingface/moldata-nmrgym,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; arxiv:2601.15763; region:us; chemistry; molecules; small-molecules; analytical-chemistry; experimental-and-curated-spectra; kdd-…
+2026-10-28T00:01:12Z,liuganghuggingface/moldata-moleculariq,liuganghuggingface,0,0,task_categories:tabular-regression; license:other; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; molecular-language; graph-tasks; iclr-2026; molecular-reasoning
+2026-10-28T00:01:12Z,coreytoolathon/Annoy-PyEdu-Rs-Raw,coreytoolathon,0,0,region:us
+2026-10-28T00:01:48Z,liuganghuggingface/moldata-fgbench_training,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; arxiv:2508.01055; region:us; chemistry; molecules; small-molecules; molecular-language; derived-qa; neurips-2025; training
+2026-10-28T00:02:12Z,Faless/piper_apples_cotrain_reale4_teleopmeta_2cam_25fps,Faless,0,0,task_categories:robotics; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-28T00:03:05Z,armnet/eval_push_green_button_so101-test-sbcfxp_23h50m_27-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-28T00:04:24Z,Nampfiev1995/viet_vlsp-opus,Nampfiev1995,0,0,source_datasets:quocanh34/viet_vlsp; modality:audio; region:us; audio; compressed
+2026-10-28T00:05:05Z,SOTAagi2030/Cold-Chain-Dispatch-260,SOTAagi2030,0,0,region:us
+2026-10-28T00:05:53Z,gigwegbe/color-shape-box-sort,gigwegbe,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-28T00:06:32Z,liuganghuggingface/moldata-molpuzzle,liuganghuggingface,0,0,task_categories:tabular-regression; license:mit; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; molecular-language; ir; mass-spectrometry; multimodal; neurips-2024; nmr…
+2026-10-28T00:10:02Z,formospeech/hakka_story,formospeech,0,0,region:us
+2026-10-28T00:10:44Z,armnet/eval_push_green_button_so101-test-iunydi_23h55m_27-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-28T00:11:05Z,dfdfdg5667/Annoy-PyEdu-Rs,dfdfdg5667,0,0,region:us
+2026-10-28T00:11:06Z,dfdfdg5667/Annoy-PyEdu-Rs-Raw,dfdfdg5667,0,0,region:us
+2026-10-28T00:11:57Z,GeertWang/pipette-aim-r3-ft-data-1027,GeertWang,0,0,region:us
+2026-10-28T00:12:53Z,Faless/piper_apples_cotrain_reale4_teleop30hzmeta_2cam,Faless,0,0,task_categories:robotics; license:other; region:us; LeRobot
+2026-10-28T00:13:43Z,Mikey-C/Lab_5_Test_Dataset,Mikey-C,0,0,region:us
+2026-10-28T00:14:19Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-28T00:14:21Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-28T00:14:21Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-28T00:14:49Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-28T00:14:50Z,asfafaf4546/Annoy-PyEdu-Rs,asfafaf4546,0,0,region:us
+2026-10-28T00:14:51Z,asfafaf4546/Annoy-PyEdu-Rs-Raw,asfafaf4546,0,0,region:us
+2026-10-28T00:15:21Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-10-28T00:15:22Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-10-28T00:16:50Z,Queimo/pubchemqc-cosmo-pm6,Queimo,0,0,task_categories:tabular-regression; license:cc-by-4.0; region:us
+2026-10-28T00:16:51Z,formospeech/hakka_story_parallel,formospeech,0,0,region:us
+2026-10-28T00:19:22Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
