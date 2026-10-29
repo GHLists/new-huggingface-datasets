@@ -1,0 +1,70 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T21:20:36Z,phgandhi02/sock-folding_20261029_171713,phgandhi02,0,0,region:us
+2026-10-29T21:22:15Z,warung24jam/indonesia-game-topup-benchmarks,warung24jam,0,0,region:us
+2026-10-29T21:23:39Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-29T21:23:39Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-29T21:23:50Z,BraintrustDataDev/aid-evaluation-results,BraintrustDataDev,0,0,task_categories:image-classification; language:en; license:unknown; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas;…
+2026-10-29T21:25:32Z,XtrCom/XT-Mini-Distillation-Dataset,XtrCom,0,0,region:us
+2026-10-29T21:26:47Z,leandrofrancademello/healthtech-synthetic-fhir-samples,leandrofrancademello,0,0,license:other; size_categories:n<1K; modality:tabular; modality:text; region:us; fhir; synthetic; healthcare; early-warning
+2026-10-29T21:26:57Z,leandrofrancademello/vedas-source-fixtures,leandrofrancademello,0,0,license:other; region:us; sanskrit; vedas; rag; retrieval; religious-texts
+2026-10-29T21:26:59Z,leandrofrancademello/brazil-municipalities-ibge-centroids,leandrofrancademello,0,0,language:pt; license:mit; modality:geospatial; region:us; brazil; geospatial; municipalities; ibge
+2026-10-29T21:29:20Z,phgandhi02/sock-folding_20261029_172059,phgandhi02,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T21:29:49Z,bangskitchen/er_dataset_1,bangskitchen,0,0,region:us
+2026-10-29T21:29:53Z,g1n0st/d75f5fee013852fb8fb95caa57985eeb48894801,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T21:30:18Z,kiroaiseoul/eval_pi0expertonly_s30k_fps21_rtc_trossenpose_task02,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T21:31:40Z,siddharthmb/2026.TA.ft_gemmascope_10f_finetuned_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-29T21:31:41Z,siddharthmb/2026.TA.ft_gemmascope_10f_control_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-29T21:31:49Z,g1n0st/c03851cbd36d22d839ca4798e444bce65509a625,g1n0st,0,0,region:us
+2026-10-29T21:33:14Z,Medwebsite/semio-bibliotheque,Medwebsite,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T21:33:35Z,datameaning/azure-gpu-vm-prices,datameaning,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; azure; gpu; cloud-pricing
+2026-10-29T21:33:48Z,yashdatasets/synthetic_sinhala_all_dataset,yashdatasets,0,0,region:us
+2026-10-29T21:34:23Z,g1n0st/f761260054a30f799372584a9b30ef6f37da501f,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T21:35:35Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-29T21:35:36Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-29T21:36:31Z,yiyangz/lepton-calibration-data,yiyangz,0,0,region:us
+2026-10-29T21:38:18Z,siddharthmb/2026.TA.tc8192_refusal_headline_2026-10f_ft_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-29T21:39:04Z,bekiralaca15/xnhgx,bekiralaca15,0,0,license:apache-2.0; region:us
+2026-10-29T21:39:50Z,g1n0st/91c6883c25770d93de95a5dec41c71885c2f2f7f,g1n0st,0,0,region:us
+2026-10-29T21:42:39Z,greg1506/coffee-corpus-v2,greg1506,0,0,task_categories:text-generation; multilinguality:monolingual; language:en; license:other; size_categories:100M<n<1B; region:us; coffee; continued-pretraining; corpus; instruction-tuning; domain-adapt…
+2026-10-29T21:42:45Z,g1n0st/8168f7d7dac9484e2e9137360c024005656ee068,g1n0st,0,0,region:us
+2026-10-29T21:44:53Z,Mari4Z/unsw-nb15-dvc-storage,Mari4Z,0,0,license:other; region:us; dvc; network-intrusion-detection; unsw-nb15
+2026-10-29T21:46:27Z,yashhbobhate/Synthetic_Odia,yashhbobhate,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T21:46:51Z,g1n0st/ed1489594729261f73d7db9fc5bd66b0ddecb16f,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T21:46:51Z,g1n0st/1579b0722710fb603d3fc0de5c1562e0de3bfb02,g1n0st,0,0,region:us
+2026-10-29T21:47:37Z,kiroaiseoul/eval_pi0expertonly_s30k_fps21_rtc_trossenpose_task04,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-29T21:51:46Z,saadalh/dataset_red_right_10d_abs_tcp_pose,saadalh,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T21:53:17Z,g1n0st/aee79190c72358436a708b4bbf7c7050924adeb1,g1n0st,0,0,region:us
+2026-10-29T21:53:22Z,g1n0st/bc995d668ac04439886649a744629f74542e7b5d,g1n0st,0,0,region:us
+2026-10-29T21:53:27Z,Minkow/TipCoder-Data,Minkow,0,0,language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tipcoder; code; instruction-proposer;…
+2026-10-29T21:54:50Z,kanguyen-vn/M4Seg,kanguyen-vn,0,0,task_categories:image-segmentation; task_categories:visual-question-answering; language:en; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; l…
+2026-10-29T21:54:59Z,avisquid/DAgger_1,avisquid,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; imitation-learning; reinforcement-learning
+2026-10-29T21:56:16Z,g1n0st/2830076144c17218dad7625c66a2b6a024d5d6c7,g1n0st,0,0,region:us
+2026-10-29T21:56:47Z,g1n0st/e8db838a3f9175ff7ae7ab8d2522a0a19f5f85eb,g1n0st,0,0,region:us
+2026-10-29T21:58:16Z,g1n0st/2d547327f66c81845f5012b7ef9b08573927f9e1,g1n0st,0,0,region:us
+2026-10-29T21:59:50Z,endomorphosis/ipfs_belgium_regional_laws,endomorphosis,0,0,task_categories:text-retrieval; language:nl; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-29T22:00:45Z,g1n0st/3719492a5d9be217ddffc0e52e3020107a823847,g1n0st,0,0,region:us
+2026-10-29T22:01:45Z,g1n0st/c4ba9212f7455e4bee72151ad6a5dfce7b149147,g1n0st,0,0,region:us
+2026-10-29T22:02:17Z,g1n0st/318e2ef86bd08d0ffdb2f1e831e146149868943b,g1n0st,0,0,region:us
+2026-10-29T22:02:41Z,oidsdev/agent-census,oidsdev,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T22:02:44Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-29T22:03:15Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-29T22:03:22Z,kiroaiseoul/eval_pi0expertonly_s30k_fps21_rtc_trossenpose_task05,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T22:03:24Z,rghosh8/deepseek-llm-7b-chat-opencoder-educational-instruct-seed-1234-G-4-log,rghosh8,0,0,region:us
+2026-10-29T22:04:12Z,deepstack-ml/deepstack-api-v2-contracts,deepstack-ml,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; json-schema; api; forecasting; contracts
+2026-10-29T22:05:00Z,drix10/ai-resources,drix10,0,0,task_categories:text-generation; task_categories:summarization; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:d…
+2026-10-29T22:06:50Z,g1n0st/8a6e1550658025b980ab8a458b68d15630f86040,g1n0st,0,0,region:us
+2026-10-29T22:07:40Z,LAYEK-143/seed-phrases-list,LAYEK-143,0,0,region:us
+2026-10-29T22:08:30Z,RevanthGundala/cap-stacking-trimmed-v2-topcrop-h264,RevanthGundala,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T22:08:36Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-29T22:08:36Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-29T22:11:45Z,g1n0st/d532481654e053d9dfd82481f4e2fcdeb292372e,g1n0st,0,0,region:us
+2026-10-29T22:14:49Z,HuggingFaceSwarms/SwarmChat-v8,HuggingFaceSwarms,0,0,language:en; license:cc-by-4.0; region:us; chatbot; multi-agent; python
+2026-10-29T22:16:16Z,g1n0st/ec8105217ae029011a941930c6f53541bc2c7bd3,g1n0st,0,0,region:us
+2026-10-29T22:16:31Z,huuthientran/KeypointEstimation,huuthientran,0,0,task_categories:keypoint-detection; language:en; size_categories:100K<n<1M; region:us; coco; ap-10k; pose-estimation; tsv
+2026-10-29T22:16:45Z,g1n0st/3ec49b5742d18321b0cd0721ac1bf5925e2c34f2,g1n0st,0,0,region:us
+2026-10-29T22:18:00Z,siwar210/test,siwar210,0,0,region:us
+2026-10-29T22:18:29Z,kiroaiseoul/eval_pi0expertonly_s30k_fps21_rtc_trossenpose_task09,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T22:18:47Z,g1n0st/2f92268f72ddad8b5c477a67680bb306867a001f,g1n0st,0,0,region:us
+2026-10-29T22:20:02Z,pat113/rsearch,pat113,0,0,region:us
+2026-10-29T22:20:14Z,attacker8324/path5083,attacker8324,0,0,region:us
+2026-10-29T22:20:15Z,attacker8324/path5083b,attacker8324,0,0,region:us
