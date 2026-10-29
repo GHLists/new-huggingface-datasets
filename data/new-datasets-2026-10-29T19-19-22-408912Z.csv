@@ -1,0 +1,60 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T18:21:27Z,zhengyutao09/material_sorting,zhengyutao09,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-29T18:24:17Z,hab-swe/20261029-reasoning-qa-eval-qwen35-q38-bases,hab-swe,0,0,region:us
+2026-10-29T18:27:31Z,Novabase/Drive-Example,Novabase,0,0,modality:image; modality:video; region:us
+2026-10-29T18:29:21Z,yamalies/ingot-replica,yamalies,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T18:31:53Z,zal-analytics-core/zontologize-data,zal-analytics-core,0,0,license:cc-by-4.0; region:us
+2026-10-29T18:34:00Z,MTerryJack/hacker-zines,MTerryJack,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-29T18:36:22Z,edithatogo/global-medicines-atlas-canada-bronze-20261030,edithatogo,0,0,region:us
+2026-10-29T18:36:26Z,zhouqh/roboturn,zhouqh,0,0,region:us
+2026-10-29T18:37:27Z,edithatogo/global-medicines-atlas-ema-tables-20261030,edithatogo,0,0,region:us
+2026-10-29T18:38:09Z,g1n0st/17e029c87f6bb9b0521dd47cc2b7c4a7cede1b41,g1n0st,0,0,region:us
+2026-10-29T18:38:40Z,edithatogo/global-medicines-atlas-nova-scotia-20261030,edithatogo,0,0,region:us
+2026-10-29T18:40:35Z,damienscieur/tsam-st-zstd32v2-mrofsnart,damienscieur,0,0,region:us
+2026-10-29T18:40:55Z,HuggingFaceSwarms/SwarmChat-v4,HuggingFaceSwarms,0,0,language:en; license:cc-by-4.0; region:us; chatbot; multi-agent; python
+2026-10-29T18:41:36Z,g1n0st/b3717edd0e4fbeb3b95bf5986fa43e7ca15c3261,g1n0st,0,0,region:us
+2026-10-29T18:43:00Z,hdxsfbr/chess-coach-hints,hdxsfbr,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; c…
+2026-10-29T18:44:21Z,PressGEO/local-ai-visibility-benchmark,PressGEO,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; local-search; ai-search; geo; cit…
+2026-10-29T18:48:20Z,japanese-speech-models/mimidecide-synthetic-speech-ja,japanese-speech-models,0,0,task_categories:audio-classification; task_categories:question-answering; language:ja; license:other; region:us; synthetic; speech; japanese; tts
+2026-10-29T18:48:31Z,yyuanuw/hop2-logs-sci_verl-A_react_s1,yyuanuw,0,0,region:us
+2026-10-29T18:49:28Z,Rishant780/drone-building-scans,Rishant780,0,0,task_categories:image-to-3d; task_categories:depth-estimation; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; photo…
+2026-10-29T18:49:45Z,g1n0st/6ec24d079e8f981ac344ee1a139891dc22b20a4a,g1n0st,0,0,region:us
+2026-10-29T18:50:33Z,gracezheng72/python-java-project-dataset,gracezheng72,0,0,language:en; size_categories:n<1K; region:us; code; code-completion; program-repair; repository-level; python; java
+2026-10-29T18:51:20Z,yyuanuw/hop2-logs-sci_verl-C_react_s1,yyuanuw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T18:51:41Z,g1n0st/4ee7a04032321cf9652f395fef51ff8cb51ace10,g1n0st,0,0,region:us
+2026-10-29T18:53:13Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-10-29T18:53:14Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-10-29T18:53:30Z,yyuanuw/hop2-logs-sci_react-A_verl_s1,yyuanuw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T18:56:21Z,mASMK2/agent-verdict-bench-ptbr,mASMK2,0,0,task_categories:text-generation; language:pt; license:cc-by-4.0; size_categories:n<1K; region:us; agents; evaluation; llm-as-judge; false-positive; claude-code
+2026-10-29T18:57:12Z,ubowang/injection_1029,ubowang,0,0,region:us
+2026-10-29T18:57:16Z,Cedric-Aubin/odyssey_businesses_logos,Cedric-Aubin,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-29T18:58:02Z,RKB109/production-ai-observability-20261029-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-29T18:58:31Z,yyuanuw/hop2-logs-sci_react-C_verl_s1,yyuanuw,0,0,region:us
+2026-10-29T18:58:41Z,g1n0st/7dbdad3a68872bcb407789196a828dbf8b6cc74b,g1n0st,0,0,region:us
+2026-10-29T18:59:11Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-29T18:59:11Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-29T19:00:02Z,coca0914/Voice_data,coca0914,0,0,region:us
+2026-10-29T19:00:18Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-29T19:00:18Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-29T19:00:38Z,coca0914/Voice_data_tts,coca0914,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T19:02:44Z,efflora/harmonyos-migration-bench-runs,efflora,0,0,license:apache-2.0; library:harbor; region:us; benchmark; agents; harmonyos; arkts; migration; trajectories; harbor
+2026-10-29T19:03:22Z,dinkesh-shah/items_lite,dinkesh-shah,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T19:05:21Z,Thox-ai/thox-research-loop-strategy,Thox-ai,0,0,language:en; license:mit; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us; thox; research-loop; kickstarter; digital-humans
+2026-10-29T19:05:22Z,edithatogo/global-medicines-atlas-canada-vigilance-20261030,edithatogo,0,0,region:us
+2026-10-29T19:07:54Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-10-29T19:07:57Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-10-29T19:09:11Z,g1n0st/66ad8312a1ebb79ed95b3dc7a3651ba7aab016b2,g1n0st,0,0,region:us
+2026-10-29T19:12:10Z,markedet/agent-integration-guides,markedet,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-agents; mcp; model-context-protocol; api; tutorial; how-to
+2026-10-29T19:12:40Z,Anonymous5218/Hitek,Anonymous5218,0,0,region:us
+2026-10-29T19:13:59Z,toolathlon68/Annoy-PyEdu-Rs,toolathlon68,0,0,region:us
+2026-10-29T19:14:02Z,toolathlon68/Annoy-PyEdu-Rs-Raw,toolathlon68,0,0,region:us
+2026-10-29T19:15:11Z,g1n0st/b9bb1761b9079f17f204beb80ccc2d80027e88c7,g1n0st,0,0,region:us
+2026-10-29T19:15:29Z,purewater-TRI/robomimic_transport_lowdim,purewater-TRI,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T19:16:38Z,squanchyzx/turkiye-cultural-heritage-atlas,squanchyzx,0,0,language:tr; language:en; license:cc-by-4.0; modality:geospatial; region:us; cultural-heritage; turkey; geospatial; geographical-indication; food; open-data
+2026-10-29T19:17:23Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-29T19:17:24Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-29T19:17:36Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-29T19:17:37Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-29T19:18:40Z,theByteRay/drift-corpus,theByteRay,0,0,license:cc-by-4.0; region:us
+2026-10-29T19:18:56Z,adibvafa/tmp-brp-esm3-018pool,adibvafa,0,0,region:us
+2026-10-29T19:18:58Z,purewater-TRI/robomimic_tool_hang_lowdim,purewater-TRI,0,0,region:us
