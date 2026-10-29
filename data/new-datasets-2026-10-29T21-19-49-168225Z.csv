@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T20:21:40Z,john42galt/genmodels-hw1-spell,john42galt,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T20:23:10Z,g1n0st/67d39e1e54f5936f16d439318165357ca59336de,g1n0st,0,0,region:us
+2026-10-29T20:26:06Z,TurkuNLP/webmeta-demo-fi-sv,TurkuNLP,0,0,region:us
+2026-10-29T20:26:12Z,nyuuzyou/gliner2.5-PII-code-en-data,nyuuzyou,0,0,task_categories:token-classification; language:en; license:cc0-1.0; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T20:27:14Z,SemyonEpanov/NIER-reproducibility-b300-results,SemyonEpanov,0,0,region:us
+2026-10-29T20:27:15Z,kutomanovhennadii/iec-gpt-4o-mini-2024-07-18,kutomanovhennadii,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:document; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-29T20:27:44Z,g1n0st/5d1ce75c22e518eed5e5322fc71ac4858f0b039b,g1n0st,0,0,region:us
+2026-10-29T20:30:20Z,kshitijthakkar/pramaan-proof-of-art-eval-v2.1,kshitijthakkar,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-29T20:30:43Z,g1n0st/f4ac3159b4f0d80b02c39d108b5cf0e5cd12cfe9,g1n0st,0,0,region:us
+2026-10-29T20:31:41Z,Digital-Divide-Data/ASR_Somali_Intent_data,Digital-Divide-Data,0,0,region:us
+2026-10-29T20:31:42Z,RLE-Bench/programmable-vla,RLE-Bench,0,0,task_categories:robotics; license:apache-2.0; region:us
+2026-10-29T20:33:51Z,CAMADA-UTFSM/TwoArmLifting_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:35:17Z,CAMADA-UTFSM/TwoArmPegInHole_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:35:22Z,tbaumgauntlet/parallax-brain-loc-data,tbaumgauntlet,0,0,task_categories:object-detection; task_categories:image-text-to-text; license:cc-by-4.0; region:us; medical-imaging; mri; brain-tumor; localization; research
+2026-10-29T20:35:44Z,g1n0st/d87118b4999174dfa46ba509725eb6e23e9bcdbb,g1n0st,0,0,region:us
+2026-10-29T20:35:47Z,CAMADA-UTFSM/DoorOpening_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:36:12Z,CAMADA-UTFSM/PickandPlace_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:37:27Z,CAMADA-UTFSM/BlockLifting_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:37:27Z,leandrofrancademello/poseidon-water-utility-benchmarks,leandrofrancademello,0,0,language:en; language:pt; license:mit; size_categories:n<1K; region:us; water; hydraulics; utilities; benchmark; synthetic
+2026-10-29T20:38:02Z,choijoshua16/ur5e-place-mug-on-tree,choijoshua16,0,0,task_categories:robotics; license:other; region:us; ur5e; teleoperation; rgbd; hdf5
+2026-10-29T20:38:25Z,privateboss/Continuous_MarsLander_Gusty_Wind,privateboss,0,0,license:openmdw-1.1; size_categories:10M<n<100M; region:us
+2026-10-29T20:38:32Z,siwar210/audio,siwar210,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T20:38:35Z,Pranav0904/Gurumukhi_pagedata_f,Pranav0904,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T20:38:47Z,CAMADA-UTFSM/BlockStacking_wb_icub,CAMADA-UTFSM,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:42:04Z,NoahMartinezXiang/LV-HAYSTACK,NoahMartinezXiang,0,0,license:apache-2.0; region:us
+2026-10-29T20:42:41Z,ASD12CXZ/Annoy-PyEdu-Rs,ASD12CXZ,0,0,region:us
+2026-10-29T20:42:42Z,ASD12CXZ/Annoy-PyEdu-Rs-Raw,ASD12CXZ,0,0,region:us
+2026-10-29T20:43:30Z,barstav1/miranda-link-updates,barstav1,0,0,region:us
+2026-10-29T20:43:57Z,victim23423/pub5066,victim23423,0,0,region:us
+2026-10-29T20:44:56Z,hfzr271a/pub5066c,hfzr271a,0,0,region:us
+2026-10-29T20:46:48Z,g1n0st/6347a4a3cdb3476521e4ddb9df8e580270619680,g1n0st,0,0,region:us
+2026-10-29T20:47:17Z,kiroaiseoul/eval_pi0expertonly_s30k_fps21_rtc_report_task02,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-29T20:48:57Z,noctra-voidling/splitevict-data,noctra-voidling,0,0,region:us
+2026-10-29T20:49:19Z,Johannes4044/so101_pick_place_train,Johannes4044,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T20:51:47Z,g1n0st/966e35485df120cced01c6ce3b9aeec91f57195d,g1n0st,0,0,region:us
+2026-10-29T20:53:19Z,AlexH0101/j3niffer,AlexH0101,0,0,region:us
+2026-10-29T20:53:50Z,g1n0st/61eefa3e7dcde8b672784833273da48cdadd66f6,g1n0st,0,0,region:us
+2026-10-29T20:54:20Z,QSJMKDSFDS/Annoy-PyEdu-Rs,QSJMKDSFDS,0,0,region:us
+2026-10-29T20:54:24Z,adafaaw/Annoy-PyEdu-Rs,adafaaw,0,0,region:us
+2026-10-29T20:54:25Z,adafaaw/Annoy-PyEdu-Rs-Raw,adafaaw,0,0,region:us
+2026-10-29T20:54:39Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-10-29T20:54:40Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-10-29T20:54:50Z,QSJMKDSFDS/Annoy-PyEdu-Rs-Raw,QSJMKDSFDS,0,0,region:us
+2026-10-29T20:54:54Z,chengjunyan1/levo-datasets,chengjunyan1,0,0,region:us
+2026-10-29T20:55:07Z,sddsdf44/Annoy-PyEdu-Rs,sddsdf44,0,0,region:us
+2026-10-29T20:55:08Z,sddsdf44/Annoy-PyEdu-Rs-Raw,sddsdf44,0,0,region:us
+2026-10-29T20:56:27Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-10-29T20:56:28Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-10-29T20:58:29Z,edithatogo/global-medicines-atlas-singapore-register-20261030,edithatogo,0,0,region:us
+2026-10-29T20:59:16Z,edithatogo/global-medicines-atlas-brazil-conitec-20261030,edithatogo,0,0,region:us
+2026-10-29T21:00:01Z,edithatogo/global-medicines-atlas-brazil-register-20261030,edithatogo,0,0,region:us
+2026-10-29T21:00:57Z,Pranav0904/devanagari_pagedata_f,Pranav0904,0,0,region:us
+2026-10-29T21:01:09Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-10-29T21:01:19Z,DAT13113/MocData,DAT13113,0,0,license:mit; region:us
+2026-10-29T21:01:19Z,g1n0st/245881e3c4529d423517747a03c7ecabc912c19f,g1n0st,0,0,region:us
+2026-10-29T21:01:21Z,enochlev/russian-synodal-bible-kozlov,enochlev,0,0,task_categories:automatic-speech-recognition; language:ru; license:other; region:us
+2026-10-29T21:01:23Z,edithatogo/global-medicines-atlas-cms-medicaid-20261030,edithatogo,0,0,region:us
+2026-10-29T21:01:23Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-10-29T21:01:38Z,ZebTaylor/panthera-hitl-reviewed-clean-20261029-20hz,ZebTaylor,0,0,region:us; robotics; lerobot; human-in-the-loop; panthera
+2026-10-29T21:02:34Z,edithatogo/global-medicines-atlas-colombia-register-20261030,edithatogo,0,0,region:us
+2026-10-29T21:03:19Z,g1n0st/6097caf5f40627e063b0f33f377017ad50abec16,g1n0st,0,0,region:us
+2026-10-29T21:03:22Z,HuggingSelf/UniMore,HuggingSelf,0,0,region:us
+2026-10-29T21:03:48Z,suzanne1989/record-test-6,suzanne1989,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T21:04:04Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-29T21:04:04Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-29T21:04:13Z,Quran-Auido/ahmed-al-ajmi-64kbps-quranexplorer,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:17Z,Quran-Auido/ahmed-al-ajmi-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:20Z,Quran-Auido/akram-al-alaqimi-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:23Z,Quran-Auido/mishari-alafasy-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:26Z,Quran-Auido/mishari-alafasy-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:29Z,Quran-Auido/ali-hajjaj-al-suwaisi-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:33Z,Quran-Auido/ali-jaber-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:36Z,Quran-Auido/ayman-swaid-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:40Z,Quran-Auido/aziz-alili-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:43Z,Quran-Auido/fares-abbad-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:46Z,Quran-Auido/saad-al-ghamdi-40kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:04:51Z,huuthientran/HumanRef,huuthientran,0,0,task_categories:image-text-to-text; language:en; license:other; size_categories:10K<n<100K; region:us; visual-grounding; referring-expression-comprehension; bounding-boxes; tsv
+2026-10-29T21:04:53Z,dashtya7mad/ContactBots,dashtya7mad,0,0,region:us
+2026-10-29T21:05:19Z,Quran-Auido/hani-ar-rifai-192kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:05:22Z,Quran-Auido/hani-ar-rifai-64kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:05:25Z,Quran-Auido/ali-al-hudhaifi-128kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:05:28Z,Quran-Auido/ali-al-hudhaifi-32kbps,Quran-Auido,0,0,language:ar; license:other; size_categories:1K<n<10K; modality:audio; region:us; quran; recitation; audio; verse-by-verse; everyayah; maqra
+2026-10-29T21:07:14Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-29T21:07:45Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-29T21:10:30Z,dbconsultoria/cvm-fundos-lake-dev,dbconsultoria,0,0,region:us
+2026-10-29T21:11:26Z,dbconsultoria/cvm-fundos-lake,dbconsultoria,0,0,region:us
+2026-10-29T21:11:30Z,RevanthGundala/cap-stacking-trimmed-v2-topcrop,RevanthGundala,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T21:12:32Z,percool/causal-rcm-wan-eval,percool,0,0,task_categories:text-to-video; size_categories:10K<n<100K; modality:video; arxiv:2606.25473; region:us; video; video-generation; diffusion-distillation; vbench; evaluation
+2026-10-29T21:13:52Z,dbconsultoria/cvm-fundos-anomaly,dbconsultoria,0,0,region:us
+2026-10-29T21:14:43Z,g1n0st/9926ffe749f108c81c8b4eb23c1a8cbaf303dbc0,g1n0st,0,0,region:us
+2026-10-29T21:14:45Z,krish5831/blush_sim_scripted_v1,krish5831,0,0,region:us
+2026-10-29T21:15:09Z,manufernandezbur/esaa-vc-results,manufernandezbur,0,0,region:us
+2026-10-29T21:15:28Z,huuthientran/VisDrone,huuthientran,0,0,task_categories:object-detection; language:en; size_categories:1K<n<10K; region:us; visdrone; tsv; bounding-boxes
+2026-10-29T21:15:32Z,OM0925/Telegu,OM0925,0,0,region:us
+2026-10-29T21:16:39Z,phgandhi02/sock-folding_20261029_171236,phgandhi02,0,0,region:us
+2026-10-29T21:16:40Z,SorinJamie/Annoy-PyEdu-Rs,SorinJamie,0,0,region:us
+2026-10-29T21:16:41Z,SorinJamie/Annoy-PyEdu-Rs-Raw,SorinJamie,0,0,region:us
+2026-10-29T21:16:43Z,g1n0st/a03be24e642aa665c19e2fd14609f259285ba4e9,g1n0st,0,0,region:us
+2026-10-29T21:18:39Z,Andyzhou0022/lending-club-loan-accepted,Andyzhou0022,0,0,license:cc0-1.0; region:us
+2026-10-29T21:18:51Z,g1n0st/e7c81eed5eab03869de495266b5f56e4c97102f8,g1n0st,0,0,region:us
