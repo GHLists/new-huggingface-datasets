@@ -1,0 +1,147 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T01:21:10Z,indahl/readout-run-data,indahl,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; quantum-computing; ibm-quantum; superconducting-qubits; reproducible-research
+2026-10-29T01:21:44Z,13131mihail/darklauncher-files,13131mihail,0,0,license:mit; size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-29T01:23:59Z,audio-harvest/physics-audio-sim-large-pq,audio-harvest,0,0,language:en; language:zh; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us;…
+2026-10-29T01:24:13Z,Yewy/mahjong_mat_pickup_jitter_v3_v5_224,Yewy,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T01:24:14Z,Kaphathy/OphGen,Kaphathy,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T01:30:06Z,armnet/eval_busybox_push_green_button_diffusion_01h15m_29-oct-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-10-29T01:31:58Z,hivepunk-547-db38b7a4/agent-memory-lint-fixtures-provenance-caveat-rows,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T01:33:31Z,g1n0st/31c4d2f76da4a426535f67a3eb3ec959fe479e92,g1n0st,0,0,region:us
+2026-10-29T01:34:02Z,g1n0st/122dc0d08f573a9618f33f3aa4076b2957ff2887,g1n0st,0,0,region:us
+2026-10-29T01:34:09Z,alea-institute/alea-sent-order,alea-institute,0,0,task_categories:text-generation; task_categories:multiple-choice; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:po…
+2026-10-29T01:34:41Z,dl1wjd2/Logistics_AX,dl1wjd2,0,0,region:us
+2026-10-29T01:35:59Z,sadasfff44/Annoy-PyEdu-Rs,sadasfff44,0,0,region:us
+2026-10-29T01:36:00Z,liupigai/xiaokeai,liupigai,0,0,region:us
+2026-10-29T01:36:05Z,sadasfff44/Annoy-PyEdu-Rs-Raw,sadasfff44,0,0,region:us
+2026-10-29T01:37:22Z,MLL-Lab/efe-failure-analysis,MLL-Lab,0,0,license:other; region:us
+2026-10-29T01:42:22Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-10-29T01:42:41Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-10-29T01:44:08Z,jacob361/part2,jacob361,0,0,region:us
+2026-10-29T01:44:15Z,JOHANNES02/OurASr,JOHANNES02,0,0,language:ak; language:tw; license:apache-2.0; region:us; automatic-speech-recognition; wav2vec2; xls-r; ctc; akan; twi; ghana; low-resource
+2026-10-29T01:44:36Z,SDCZ12CSA/Annoy-PyEdu-Rs,SDCZ12CSA,0,0,region:us
+2026-10-29T01:44:37Z,SDCZ12CSA/Annoy-PyEdu-Rs-Raw,SDCZ12CSA,0,0,region:us
+2026-10-29T01:44:55Z,NdotLight/SimReady_Assets,NdotLight,0,0,license:cc-by-4.0; region:us
+2026-10-29T01:45:38Z,g1n0st/56f7005d9aaba9d83bdaf9c5a80e807f9695e79f,g1n0st,0,0,region:us
+2026-10-29T01:46:17Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-10-29T01:46:21Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-10-29T01:46:25Z,afeasdfsd/Annoy-PyEdu-Rs,afeasdfsd,0,0,region:us
+2026-10-29T01:46:26Z,SAD213D1/Annoy-PyEdu-Rs,SAD213D1,0,0,region:us
+2026-10-29T01:46:30Z,afeasdfsd/Annoy-PyEdu-Rs-Raw,afeasdfsd,0,0,region:us
+2026-10-29T01:46:31Z,sadasdasdsdds/Annoy-PyEdu-Rs-Raw,sadasdasdsdds,0,0,region:us
+2026-10-29T01:46:31Z,sadasdasdsdds/Annoy-PyEdu-Rs,sadasdasdsdds,0,0,region:us
+2026-10-29T01:46:32Z,SAD213D1/Annoy-PyEdu-Rs-Raw,SAD213D1,0,0,region:us
+2026-10-29T01:48:45Z,enver/swiss-private-5g-bakom-n78-h3c-reference-architecture,enver,0,0,language:de; language:fr; language:en; language:it; region:us; 5g; private-5g; switzerland; bakom; ofcom; h3c; comware; wifi-7; networking
+2026-10-29T01:48:47Z,asfdaaa/Annoy-PyEdu-Rs,asfdaaa,0,0,region:us
+2026-10-29T01:48:47Z,asfdaaa/Annoy-PyEdu-Rs-Raw,asfdaaa,0,0,region:us
+2026-10-29T01:48:52Z,DSA12DSA12/Annoy-PyEdu-Rs,DSA12DSA12,0,0,region:us
+2026-10-29T01:48:53Z,DSA12DSA12/Annoy-PyEdu-Rs-Raw,DSA12DSA12,0,0,region:us
+2026-10-29T01:48:56Z,ASD21DWSA/Annoy-PyEdu-Rs,ASD21DWSA,0,0,region:us
+2026-10-29T01:48:57Z,ASD21DWSA/Annoy-PyEdu-Rs-Raw,ASD21DWSA,0,0,region:us
+2026-10-29T01:49:12Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-10-29T01:49:13Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-10-29T01:49:32Z,ASDCXZ12E/Annoy-PyEdu-Rs,ASDCXZ12E,0,0,region:us
+2026-10-29T01:49:34Z,ASDCXZ12E/Annoy-PyEdu-Rs-Raw,ASDCXZ12E,0,0,region:us
+2026-10-29T01:52:31Z,g1n0st/01f3e26b87a0931d7e56922b830e4ba0191fe45f,g1n0st,0,0,region:us
+2026-10-29T01:52:37Z,fomodealcode/fomo-app-fees-2026-deal,fomodealcode,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fomo; fomo-app; re…
+2026-10-29T01:52:48Z,anying2143/themtruyen,anying2143,0,0,region:us
+2026-10-29T01:53:40Z,propfirmdiscounts/alpha-futures-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; alpha-futures
+2026-10-29T01:54:06Z,purewater0901/so101_isaaclab_pick_and_place,purewater0901,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-29T01:54:09Z,propfirmdiscounts/atlas-funded-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; atlas-funded
+2026-10-29T01:54:40Z,propfirmdiscounts/blue-guardian-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; blue-guardian
+2026-10-29T01:54:42Z,Youssef838/arabic-islamic-book-261,Youssef838,0,0,task_categories:image-to-text; task_categories:text-generation; language:ar; license:other; size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; li…
+2026-10-29T01:54:44Z,blackcarserviceny/black-car-service-ny,blackcarserviceny,0,0,region:us
+2026-10-29T01:55:02Z,propfirmdiscounts/blue-guardian-futures-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; blue-guardian-futures
+2026-10-29T01:55:06Z,propfirmdiscounts/bulenox-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; bulenox
+2026-10-29T01:55:08Z,propfirmdiscounts/bullrush-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; bullrush
+2026-10-29T01:55:33Z,propfirmdiscounts/ckcapital-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; ckcapital
+2026-10-29T01:55:39Z,propfirmdiscounts/crypto-fund-trader-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; crypto-fund-trader
+2026-10-29T01:55:42Z,propfirmdiscounts/direct-funded-trader-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; direct-funded-trader
+2026-10-29T01:55:47Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-29T01:55:48Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-29T01:55:56Z,propfirmdiscounts/doji-funding-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; doji-funding
+2026-10-29T01:55:59Z,propfirmdiscounts/dominion-funding-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; dominion-funding
+2026-10-29T01:56:02Z,propfirmdiscounts/e8-funding-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; e8-funding
+2026-10-29T01:56:05Z,propfirmdiscounts/earn2trade-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; earn2trade
+2026-10-29T01:56:08Z,propfirmdiscounts/equity-edge-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; equity-edge
+2026-10-29T01:56:11Z,propfirmdiscounts/finotive-funding-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; finotive-funding
+2026-10-29T01:56:13Z,alea-institute/alea-contract-deadline-apply,alea-institute,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T01:56:32Z,Guilhermefrazao/wxai_organize_table_inf_base,Guilhermefrazao,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-29T01:56:41Z,propfirmdiscounts/finotive-futures-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; finotive-futures
+2026-10-29T01:56:45Z,propfirmdiscounts/fortraders-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; fortraders
+2026-10-29T01:56:48Z,propfirmdiscounts/forex-funds-flow-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; forex-funds-flow
+2026-10-29T01:56:51Z,propfirmdiscounts/forexive-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; forexive
+2026-10-29T01:57:04Z,propfirmdiscounts/funded-elite-deals,propfirmdiscounts,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; discount-codes; prop-firm; trading; funded-elite
+2026-10-29T01:57:07Z,jacob361/part3,jacob361,0,0,region:us
+2026-10-29T01:57:10Z,SADD1DSA21DSA/Annoy-PyEdu-Rs,SADD1DSA21DSA,0,0,region:us
+2026-10-29T01:57:35Z,SADD1DSA21DSA/Annoy-PyEdu-Rs-Raw,SADD1DSA21DSA,0,0,region:us
+2026-10-29T01:57:37Z,propfirmdiscounts/funded-hero-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:57:41Z,propfirmdiscounts/funded-hero-futures-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:57:46Z,mochp/KNOT,mochp,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; machine-unlearning; large-language-models; benchmark; knowledge-entanglement
+2026-10-29T01:57:49Z,propfirmdiscounts/funded-trading-plus-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:57:52Z,propfirmdiscounts/fundednext-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:57:55Z,propfirmdiscounts/fundednext-futures-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:57:58Z,propfirmdiscounts/fundedseat-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:58:01Z,propfirmdiscounts/fundex-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:58:35Z,propfirmdiscounts/fundingtraders-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:58:41Z,propfirmdiscounts/funding-your-trades-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:58:55Z,propfirmdiscounts/fundingticks-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:58:57Z,openregistrydata/us-building-permits-30d,openregistrydata,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T01:58:57Z,propfirmdiscounts/fxify-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:00Z,propfirmdiscounts/goat-funded-trader-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:03Z,propfirmdiscounts/hyrotrader-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:25Z,propfirmdiscounts/instant-funding-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:27Z,openregistrydata/us-code-violations-30d,openregistrydata,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T01:59:46Z,openregistrydata/fda-510k-clearances-sep-2026,openregistrydata,0,0,task_categories:tabular-classification; language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-29T01:59:47Z,propfirmdiscounts/lucid-trading-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:53Z,propfirmdiscounts/phoenix-trader-funding-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T01:59:59Z,propfirmdiscounts/pipfarm-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:00:02Z,propfirmdiscounts/qt-funded-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:00:15Z,propfirmdiscounts/qt-futures-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:00:47Z,propfirmdiscounts/seacrest-markets-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:00:56Z,propfirmdiscounts/super-funded-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:01:02Z,g1n0st/b1ad3b799f80b7191af84fb38a5a29ced5e69e14,g1n0st,0,0,region:us
+2026-10-29T02:01:02Z,propfirmdiscounts/the5ers-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:01:17Z,causius0/europemedqa,causius0,0,0,task_categories:question-answering; multilinguality:multilingual; source_datasets:original; language:it; language:es; language:fr; language:pt; language:pl; license:cc-by-4.0; size_categories:10K<n<1…
+2026-10-29T02:01:31Z,propfirmdiscounts/the-prop-trade-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:01:59Z,propfirmdiscounts/thinkcapital-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:01:59Z,jteng/pylingual-lane-smoke-data,jteng,0,0,region:us
+2026-10-29T02:02:02Z,propfirmdiscounts/top-one-futures-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:02:05Z,propfirmdiscounts/trade-the-pool-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:02:08Z,propfirmdiscounts/tx3-funding-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:02:11Z,propfirmdiscounts/upcomers-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:02:32Z,g1n0st/28eca6be90cf200dd0db47be4100d0434c3a2cee,g1n0st,0,0,region:us
+2026-10-29T02:02:50Z,propfirmdiscounts/wemastertrade-deals,propfirmdiscounts,0,0,region:us
+2026-10-29T02:05:02Z,g1n0st/c7af416b57d9a92c37de91ae74c99798378124e3,g1n0st,0,0,region:us
+2026-10-29T02:05:18Z,RenatoSpessotto/olist-aspectos-reviews-ptbr,RenatoSpessotto,0,0,task_categories:text-classification; language:pt; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-29T02:06:49Z,lamiteee453/smollm-corpus-dioula,lamiteee453,0,0,region:us
+2026-10-29T02:07:08Z,KAUTIS/ai_worker_dataset,KAUTIS,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-29T02:08:33Z,g1n0st/6711377b7fc69fc41104c82fd257ee6c38e5acac,g1n0st,0,0,region:us
+2026-10-29T02:09:54Z,cerulean-works/drcd,cerulean-works,0,0,task_categories:question-answering; language:zh; license:cc-by-sa-3.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:p…
+2026-10-29T02:09:55Z,luhr/lmb-handoff-2026-10-29,luhr,0,0,region:us
+2026-10-29T02:10:56Z,WaifuAI/aurora,WaifuAI,0,0,license:cc0-1.0; region:us
+2026-10-29T02:11:09Z,g1n0st/432ae3cfb537cda9ba56df3150a026764210067a,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-29T02:11:40Z,hnuu/block-in-paper-cup_20261029_110859,hnuu,0,0,region:us
+2026-10-29T02:11:51Z,spectrecipher/HIL_fine_tune_datasetlerobot,spectrecipher,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-29T02:13:49Z,Youssef838/arabic-islamic-books,Youssef838,0,0,task_categories:image-to-text; task_categories:text-generation; language:ar; license:other; size_categories:n<1K; modality:document; region:us; arabic; islamic-studies; books; pdf; ocr; nlp; classica…
+2026-10-29T02:14:40Z,svrnmesh/corpus-engine-capstone,svrnmesh,0,0,region:us
+2026-10-29T02:16:02Z,asfafaaf3434/Annoy-PyEdu-Rs,asfafaaf3434,0,0,region:us
+2026-10-29T02:16:02Z,asfafaaf3434/Annoy-PyEdu-Rs-Raw,asfafaaf3434,0,0,region:us
+2026-10-29T02:17:29Z,howie92/Annoy-PyEdu-Rs,howie92,0,0,region:us
+2026-10-29T02:17:39Z,howie92/Annoy-PyEdu-Rs-Raw,howie92,0,0,region:us
+2026-10-29T02:18:02Z,g1n0st/ebc04e9d94bd84e1cda352a25870b4bd4983af7a,g1n0st,0,0,region:us
+2026-10-29T02:18:35Z,vohuutridung/PENS,vohuutridung,0,0,region:us
+2026-10-29T02:18:48Z,ImagineG2P/imagine-ai-data-package,ImagineG2P,0,0,license:cc-by-4.0; region:us; biology; microbiology; genomics; phenotype; nitrogen-fixation
+2026-10-29T02:18:59Z,ASD12CXZ/Annoy-PyEdu-Rs,ASD12CXZ,0,0,region:us
+2026-10-29T02:19:02Z,adrae/Annoy-PyEdu-Rs-Raw,adrae,0,0,region:us
+2026-10-29T02:19:02Z,adrae/Annoy-PyEdu-Rs,adrae,0,0,region:us
+2026-10-29T02:19:03Z,alea-institute/alea-obligations,alea-institute,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; legal; regulatory; contracts; obligations; deadlines; instruc…
+2026-10-29T02:19:06Z,sdsfsdg565757/Annoy-PyEdu-Rs,sdsfsdg565757,0,0,region:us
+2026-10-29T02:19:07Z,ASD12CXZ/Annoy-PyEdu-Rs-Raw,ASD12CXZ,0,0,region:us
+2026-10-29T02:19:09Z,asda1dsa/Annoy-PyEdu-Rs,asda1dsa,0,0,region:us
+2026-10-29T02:19:10Z,asd12dscxzcz12/Annoy-PyEdu-Rs,asd12dscxzcz12,0,0,region:us
+2026-10-29T02:19:16Z,sdsfsdg565757/Annoy-PyEdu-Rs-Raw,sdsfsdg565757,0,0,region:us
+2026-10-29T02:19:18Z,asda1dsa/Annoy-PyEdu-Rs-Raw,asda1dsa,0,0,region:us
+2026-10-29T02:19:20Z,asd12dscxzcz12/Annoy-PyEdu-Rs-Raw,asd12dscxzcz12,0,0,region:us
+2026-10-29T02:19:21Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-29T02:19:22Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-29T02:19:41Z,kiroaiseoul/eval_act_task08_task09_mixed_14D_580data_200k_kb50,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
