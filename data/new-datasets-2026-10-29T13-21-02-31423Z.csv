@@ -1,0 +1,127 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T12:21:35Z,dharun2049/GraphFRA-X-Synthetic-800K,dharun2049,0,0,region:us
+2026-10-29T12:23:38Z,ltuncay/chime-mridangam,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:23:42Z,ltuncay/chime-beijing-opera-percussion,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:23:59Z,ltuncay/chime-slakh2100,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:24:42Z,ltuncay/chime-song-describer,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:25:05Z,junjiechen-chris/CDT-HDS-ECG-Lab-1-data,junjiechen-chris,0,0,license:other; region:us
+2026-10-29T12:25:19Z,giovannamachado/food-review-synthetic-ptbr,giovannamachado,0,0,task_categories:text-classification; language:pt; license:mit; size_categories:1K<n<10K; region:us
+2026-10-29T12:25:42Z,ltuncay/chime-urbansound8k,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:27:56Z,g1n0st/920f5b92bfb1d7276f5c33b732fef369192ab5fb,g1n0st,0,0,region:us
+2026-10-29T12:28:27Z,lihaoxin2020/opd-deepseek-justrl-captures-20261029,lihaoxin2020,0,0,region:us
+2026-10-29T12:29:12Z,ltuncay/chime-fsdkaggle2018,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:29:27Z,ltuncay/chime-sonyc-ust,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:29:55Z,ltuncay/chime-tau-urban-acoustic-scenes,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:30:14Z,eduardem/dreame-x40-voce-romana,eduardem,0,0,language:ro; license:other; region:us; valetudo; dreame; robot-vacuum; voice-pack
+2026-10-29T12:30:19Z,ltuncay/chime-desed,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:30:33Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-10-29T12:30:34Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-10-29T12:30:45Z,navmansh/images,navmansh,0,0,region:us
+2026-10-29T12:30:59Z,ltuncay/chime-realdesed,ltuncay,0,0,license:other; modality:document; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:31:10Z,ltuncay/chime-urban-sed,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:31:14Z,edgarcancinoe/water_pour_dagger1_cheat5,edgarcancinoe,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-29T12:32:23Z,muqeet-1138/anime-text-dataset-open,muqeet-1138,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:text-retrieval; language:en; language:ja; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:ta…
+2026-10-29T12:32:38Z,arvinesmaeilydev/PickUpTheCube_Dual_50_Depth_same_res,arvinesmaeilydev,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-29T12:32:57Z,ltuncay/chime-birdset,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:33:53Z,sa12cse21dszxc/Annoy-PyEdu-Rs,sa12cse21dszxc,0,0,region:us
+2026-10-29T12:33:54Z,sa12cse21dszxc/Annoy-PyEdu-Rs-Raw,sa12cse21dszxc,0,0,region:us
+2026-10-29T12:33:55Z,zycliao/senc-training-data,zycliao,0,0,language:en; region:us; cloth-simulation; senc
+2026-10-29T12:35:08Z,ltuncay/chime-dcase-few-shot-bioacoustic-detection,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:35:58Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-29T12:35:58Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-29T12:36:26Z,propfirmdiscounts/alpha-futures-deals,propfirmdiscounts,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; discount-codes; prop-firm; trading; alpha-futures
+2026-10-29T12:36:33Z,ltuncay/chime-beans-next,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:36:41Z,ltuncay/chime-mimii-dg,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:36:48Z,TomasAnderegg/pill_sorting_big_datav3_dagger_60,TomasAnderegg,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T12:37:03Z,ltuncay/chime-starss23,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:37:48Z,ltuncay/chime-clotho-aqa,ltuncay,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; modality:audio; library:datasets; library:pandas; library:polars; library:mlcroissant; library:webdataset; region:us; audio; we…
+2026-10-29T12:38:02Z,Zackboulhand/xray-chest-cases,Zackboulhand,0,0,language:en; language:fr; license:other; region:us; medical; chest-xray; radiology; education
+2026-10-29T12:38:17Z,ltuncay/chime-fleurs,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:38:24Z,yang1002/RGB-NIR-Flame-Dataset-Validation,yang1002,0,0,region:us
+2026-10-29T12:38:40Z,ltuncay/chime-libricount,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:39:27Z,g1n0st/ac76fafbef3ef6dfc2597003ee3ea6dd9eea9eaa,g1n0st,0,0,region:us
+2026-10-29T12:40:39Z,ltuncay/chime-crema-d,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:40:53Z,ltuncay/chime-ravdess,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:40:56Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-10-29T12:41:10Z,ltuncay/chime-voxlingua33,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:41:18Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-10-29T12:41:30Z,ltuncay/chime-vocalsound,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:41:38Z,ltuncay/chime-vocal-imitations,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:42:00Z,ltuncay/chime-ptdb-tug,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:43:36Z,naatee/genimage-subset-9,naatee,0,0,task_categories:image-classification; license:cc-by-nc-sa-4.0; region:us; ai-generated-image-detection; genimage; synthetic-image-detection
+2026-10-29T12:43:55Z,ltuncay/chime-ami,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:44:07Z,kamau1/atlasomi-roads,kamau1,0,1,task_categories:other; license:odbl; license:cc-by-4.0; modality:geospatial; region:us; geospatial; roads; openstreetmap; geopackage; infrastructure
+2026-10-29T12:44:11Z,ltuncay/chime-voxconverse,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:44:39Z,ltuncay/chime-speechocean762-child-subset,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:44:55Z,ltuncay/chime-jibo-kids,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:45:00Z,ltuncay/chime-torgo,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:45:03Z,ltuncay/chime-aligned-uclass,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:45:13Z,ILRDF-Lowking/truku-hunting-theater-media,ILRDF-Lowking,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-29T12:45:59Z,ltuncay/chime-compa,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:46:06Z,zyzz1000/FreshRetailNet-50K,zyzz1000,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-10-29T12:46:07Z,ltuncay/chime-asvspoof-2015,ltuncay,0,0,license:other; modality:text; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:46:08Z,ltuncay/chime-mmau,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:46:24Z,ltuncay/chime-mmau-pro,ltuncay,0,0,license:other; modality:audio; library:webdataset; region:us; audio; webdataset; chime; prepared-candidate
+2026-10-29T12:48:29Z,g1n0st/4b05ae2565f26a81cfd87a4ecf994a4add13c9af,g1n0st,0,0,region:us
+2026-10-29T12:49:10Z,thePredictables/kalshi-live-news,thePredictables,0,2,task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-10-29T12:51:00Z,AI4Manufacturing/mixbattery-rul-chain,AI4Manufacturing,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T12:51:07Z,AI4Manufacturing/mixbattery-rul-grounding,AI4Manufacturing,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T12:51:11Z,AI4Manufacturing/mixbattery-rul-percept,AI4Manufacturing,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T12:51:14Z,AI4Manufacturing/mixbattery-soc-chain,AI4Manufacturing,0,0,region:us
+2026-10-29T12:52:22Z,AI4Manufacturing/mixbattery-soc-grounding,AI4Manufacturing,0,0,region:us
+2026-10-29T12:52:26Z,AI4Manufacturing/mixbattery-soh-chain,AI4Manufacturing,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T12:53:52Z,g1n0st/2714cd137c58c83b8c299c5e03fd38b26a887897,g1n0st,0,0,region:us
+2026-10-29T12:54:12Z,AI4Manufacturing/mixbattery-soh-percept,AI4Manufacturing,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T12:55:03Z,LFTTim/plantseg_disease_segmentation,LFTTim,0,0,task_categories:image-segmentation; license:cc-by-nc-nd-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-10-29T12:56:11Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-10-29T12:56:12Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-10-29T12:56:20Z,BogdanTomic/serbian-asr-cyrillic,BogdanTomic,0,0,task_categories:automatic-speech-recognition; language:sr; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars;…
+2026-10-29T12:56:51Z,g1n0st/afaf14704bf24de733b46a16b155ff4445dbf0ba,g1n0st,0,0,region:us
+2026-10-29T12:58:24Z,zhenzou/sftdata,zhenzou,0,0,region:us
+2026-10-29T12:58:40Z,scemsjyd/ppic,scemsjyd,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-29T12:59:07Z,Yong-Hoon/Replable_Visual_Memory_Dataset,Yong-Hoon,0,0,region:us
+2026-10-29T12:59:20Z,fwfasafd/Annoy-PyEdu-Rs,fwfasafd,0,0,region:us
+2026-10-29T12:59:21Z,cjc0013/the-iran-war-receipt,cjc0013,0,0,region:us
+2026-10-29T12:59:39Z,g1n0st/af6911ec6aa4f351802528e97268c1ff57392062,g1n0st,0,0,region:us
+2026-10-29T12:59:50Z,fwfasafd/Annoy-PyEdu-Rs-Raw,fwfasafd,0,0,region:us
+2026-10-29T13:00:12Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-29T13:00:13Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-29T13:00:51Z,alea-institute/alea-state-replay,alea-institute,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library…
+2026-10-29T13:01:44Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs,SAD12EDXZDSAD,0,0,region:us
+2026-10-29T13:01:57Z,pennydata/us-gov-news-feeds-2026-10,pennydata,0,0,license:other; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; rss; news; government; recalls
+2026-10-29T13:01:59Z,VMuccio/red_cube_f_trimmed_topgrip,VMuccio,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T13:02:14Z,liteng3159/test,liteng3159,0,0,region:us
+2026-10-29T13:02:16Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs-Raw,SAD12EDXZDSAD,0,0,region:us
+2026-10-29T13:03:00Z,Sungah/omx_1029_Sungah_v1_success,Sungah,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-29T13:03:35Z,Lima-WU/bi_so101_towel_fold_20261029_203938,Lima-WU,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-29T13:03:38Z,ASD123WE/Annoy-PyEdu-Rs,ASD123WE,0,0,region:us
+2026-10-29T13:04:09Z,ASD123WE/Annoy-PyEdu-Rs-Raw,ASD123WE,0,0,region:us
+2026-10-29T13:04:58Z,pennydata/us-gov-pages-markdown-2026-10,pennydata,0,0,language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; markdown; web-crawl;…
+2026-10-29T13:10:13Z,lbrorbis/Boltz-2_minimal,lbrorbis,0,0,license:mit; region:us
+2026-10-29T13:10:31Z,Daffaval145/dataset_hukum,Daffaval145,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T13:10:57Z,g1n0st/1f15daa02aeca9dd9ab855f0e02dfb0f8e41be3d,g1n0st,0,0,region:us
+2026-10-29T13:11:37Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-10-29T13:12:08Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-10-29T13:12:28Z,g1n0st/32b78fe9aa72b1a8a44d62d2240334593643d85b,g1n0st,0,0,region:us
+2026-10-29T13:12:35Z,g1n0st/4eb94d99ba84e3c0bf15739029597e06be0f1a53,g1n0st,0,0,region:us
+2026-10-29T13:13:01Z,tmoon-atx/tomato_leaf_small_2000,tmoon-atx,0,0,task_categories:image-classification; language:ko; language:en; license:cc0-1.0; size_categories:1K<n<10K; region:us; agriculture; plant-disease; tomato; education
+2026-10-29T13:13:18Z,xzc3sae21zxas/Annoy-PyEdu-Rs,xzc3sae21zxas,0,0,region:us
+2026-10-29T13:13:26Z,CHARLESL16/kg,CHARLESL16,0,0,region:us
+2026-10-29T13:13:26Z,dfvdgder4546/Annoy-PyEdu-Rs,dfvdgder4546,0,0,region:us
+2026-10-29T13:13:27Z,g1n0st/e7438c4057e68f0bdbbb2915da31250044b79746,g1n0st,0,0,region:us
+2026-10-29T13:13:30Z,toners-amatory-9h/Annoy-PyEdu-Rs,toners-amatory-9h,0,0,region:us
+2026-10-29T13:13:31Z,toners-amatory-9h/Annoy-PyEdu-Rs-Raw,toners-amatory-9h,0,0,region:us
+2026-10-29T13:13:35Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-10-29T13:13:48Z,SAD12DSAQWD/Annoy-PyEdu-Rs,SAD12DSAQWD,0,0,region:us
+2026-10-29T13:13:49Z,xzc3sae21zxas/Annoy-PyEdu-Rs-Raw,xzc3sae21zxas,0,0,region:us
+2026-10-29T13:13:57Z,dfvdgder4546/Annoy-PyEdu-Rs-Raw,dfvdgder4546,0,0,region:us
+2026-10-29T13:14:01Z,hgsdh/ui,hgsdh,0,0,region:us
+2026-10-29T13:14:02Z,SAD12ESZAE/Annoy-PyEdu-Rs,SAD12ESZAE,0,0,region:us
+2026-10-29T13:14:07Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-10-29T13:14:18Z,SAD12DSAQWD/Annoy-PyEdu-Rs-Raw,SAD12DSAQWD,0,0,region:us
+2026-10-29T13:14:33Z,SAD12ESZAE/Annoy-PyEdu-Rs-Raw,SAD12ESZAE,0,0,region:us
+2026-10-29T13:14:34Z,propfirmdiscounts/atlas-funded-deals,propfirmdiscounts,0,0,license:other; region:us; discount-codes; prop-firm; trading; atlas-funded
+2026-10-29T13:17:20Z,dkingtutcd/gemma-e4b-repair-new-31k-with-failure-driven,dkingtutcd,0,0,region:us
+2026-10-29T13:18:11Z,mktgap/prediction-market-reference-data,mktgap,0,0,license:cc-by-4.0; region:us
+2026-10-29T13:19:29Z,kickking/omx_test_261029,kickking,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-29T13:19:52Z,HynnMoop/Denso_SOARM101_combined_98ep,HynnMoop,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
