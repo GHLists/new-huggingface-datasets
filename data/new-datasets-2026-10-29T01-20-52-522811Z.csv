@@ -1,0 +1,71 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-29T00:19:06Z,citysignalsdata/city-signals-free-samples,citysignalsdata,0,0,license:cc-by-4.0; region:us; building-permits; restaurant-inspections; contractor-licenses; local-business; lead-generation
+2026-10-29T00:20:31Z,g1n0st/033c20451c02e377b3b90731b72acb9118743868,g1n0st,0,0,region:us
+2026-10-29T00:20:33Z,g1n0st/9f3b6d1a9f8bdb7c9247ce2fca0ac91b68844558,g1n0st,0,0,region:us
+2026-10-29T00:22:08Z,HuskyMango/10-28-basket,HuskyMango,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-29T00:23:27Z,yuiseki/aomori-vegetation-2024,yuiseki,0,0,language:ja; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T00:25:03Z,Ro551/WikiCorrupted_spanish_to_GEC-GED,Ro551,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T00:25:40Z,yuiseki/iwate-vegetation-2024,yuiseki,0,0,language:ja; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T00:27:07Z,yuiseki/miyagi-vegetation-2024,yuiseki,0,0,language:ja; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T00:27:13Z,manoletre/chess-puzzles-tools-sft-v2,manoletre,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-29T00:27:52Z,manoletre/chess-puzzles-curriculum,manoletre,0,0,task_categories:reinforcement-learning; license:cc0-1.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-29T00:28:19Z,yuiseki/yamagata-vegetation-2024,yuiseki,0,0,language:ja; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T00:28:25Z,mfulghum/r2-master,mfulghum,0,0,license:mit; region:us
+2026-10-29T00:28:31Z,g1n0st/457e3fc9462a098914bfa9d8d0434bf17e0e9149,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T00:28:31Z,g1n0st/a43168394818277642eff88610de4b4e432c8182,g1n0st,0,0,region:us
+2026-10-29T00:28:34Z,g1n0st/33decd02b51556c101d0e8f4ea6ab1ad0e3197c8,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T00:28:34Z,manoletre/chess-positions-stockfish-120k,manoletre,0,0,license:cc0-1.0; size_categories:100K<n<1M; region:us; chess; lichess; stockfish; sft; decision-model
+2026-10-29T00:29:47Z,yuiseki/fukushima-vegetation-2024,yuiseki,0,0,language:ja; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-10-29T00:31:53Z,DASDBCXBC/Annoy-PyEdu-Rs,DASDBCXBC,0,0,region:us
+2026-10-29T00:31:55Z,asddcsd/Annoy-PyEdu-Rs,asddcsd,0,0,region:us
+2026-10-29T00:31:55Z,asddcsd/Annoy-PyEdu-Rs-Raw,asddcsd,0,0,region:us
+2026-10-29T00:32:18Z,emad2001/dental-implant-brand-benchmark,emad2001,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; medical; dental…
+2026-10-29T00:32:23Z,DASDBCXBC/Annoy-PyEdu-Rs-Raw,DASDBCXBC,0,0,region:us
+2026-10-29T00:32:48Z,yuiseki/aomori-forest-resource-mesh-2026,yuiseki,0,0,language:ja; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-29T00:33:39Z,ai-safety-brazil/pix-scam-challenge-br-synthetic,ai-safety-brazil,0,0,task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-10-29T00:37:07Z,sofia010101/marker_13,sofia010101,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-29T00:37:26Z,yuiseki/iwate-forest-resource-mesh-2026,yuiseki,0,0,language:ja; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-29T00:40:45Z,LeticiaF/radar-epidemiologico-dados,LeticiaF,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-29T00:42:57Z,yuiseki/miyagi-forest-resource-mesh-2026,yuiseki,0,0,language:ja; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-29T00:44:13Z,maxwildersmith/splataverse-cities,maxwildersmith,0,0,language:en; license:other; region:us
+2026-10-29T00:44:37Z,flreey/sfxmint-cc0-sound-effects,flreey,0,0,language:en; license:cc0-1.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; sound-effects; game-audio; sfx; cc0; ai-genera…
+2026-10-29T00:45:30Z,g1n0st/f66aeca189c7c2830026eff34ed25e49c42b792b,g1n0st,0,0,region:us
+2026-10-29T00:45:48Z,yuiseki/yamagata-forest-resource-mesh-2026,yuiseki,0,0,language:ja; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-29T00:46:01Z,g1n0st/acaeaff5d80c4284b364883b11d7d088ece9fda7,g1n0st,0,0,region:us
+2026-10-29T00:49:15Z,yuiseki/fukushima-forest-resource-mesh-2026,yuiseki,0,0,language:ja; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-10-29T00:53:19Z,annodated/Depo,annodated,0,0,region:us
+2026-10-29T00:53:52Z,Sanim09/rover-terrain-vibration,Sanim09,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; l…
+2026-10-29T00:55:41Z,08semi/dataset18,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-29T00:56:10Z,katef22/med_plankton,katef22,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-29T00:56:58Z,SADSDGZX/Annoy-PyEdu-Rs,SADSDGZX,0,0,region:us
+2026-10-29T00:56:59Z,SADSDGZX/Annoy-PyEdu-Rs-Raw,SADSDGZX,0,0,region:us
+2026-10-29T01:01:02Z,g1n0st/1c8f26ac60beaf3097660cb12e19c30721a97894,g1n0st,0,0,region:us
+2026-10-29T01:01:03Z,Digital-Divide-Data/ASR_Luhya_Intent_data,Digital-Divide-Data,0,0,region:us
+2026-10-29T01:01:04Z,g1n0st/366f13a76da6f65b557f8384da6d7165774cd946,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T01:02:02Z,g1n0st/5ba3eca3afedbcdc4e53ae63486abacc342e74b2,g1n0st,0,0,region:us
+2026-10-29T01:02:34Z,g1n0st/2329a4eab6bf431e16803b0f0369f9c9923516ac,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T01:03:04Z,g1n0st/42b2fadbceed0783c12cb23912121fd7f97453c8,g1n0st,0,0,region:us
+2026-10-29T01:03:05Z,g1n0st/91130fd306036e4bd6c88443f05cdd0dc9a76361,g1n0st,0,0,region:us
+2026-10-29T01:05:04Z,amquinteroc/sleep-edfx-grupo25-data,amquinteroc,0,0,region:us
+2026-10-29T01:05:50Z,indahl/faultsguards,indahl,0,0,language:en; license:other; size_categories:n<1K; region:us; evaluation; llm-failure-modes; measurement; prompting
+2026-10-29T01:06:01Z,g1n0st/1878e42545ee7c074adfe965a007b90d5b6df702,g1n0st,0,0,region:us
+2026-10-29T01:06:35Z,g1n0st/0800c449301d94996995c25483de05655abb680a,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-29T01:07:18Z,Kaphathy/OphGen-ODIR,Kaphathy,0,0,license:other; region:us
+2026-10-29T01:07:18Z,ASDCX1DXSXA/Annoy-PyEdu-Rs,ASDCX1DXSXA,0,0,region:us
+2026-10-29T01:07:19Z,ASDCX1DXSXA/Annoy-PyEdu-Rs-Raw,ASDCX1DXSXA,0,0,region:us
+2026-10-29T01:07:34Z,g1n0st/24aa275138d653b96fe02dd0a54d6feb91945fa1,g1n0st,0,0,region:us
+2026-10-29T01:08:25Z,ASD1DA1AE13231/Annoy-PyEdu-Rs,ASD1DA1AE13231,0,0,region:us
+2026-10-29T01:08:27Z,ASD1DA1AE13231/Annoy-PyEdu-Rs-Raw,ASD1DA1AE13231,0,0,region:us
+2026-10-29T01:08:32Z,g1n0st/946dcd210dd75b243e5c2464a1e2a9b3c8b4bda1,g1n0st,0,0,region:us
+2026-10-29T01:11:00Z,Kaphathy/OphGen-PALM,Kaphathy,0,0,license:other; region:us
+2026-10-29T01:12:34Z,maia-grupo25/sleep-edfx-data,maia-grupo25,0,0,region:us
+2026-10-29T01:14:24Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-10-29T01:14:25Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-10-29T01:15:07Z,Kaphathy/OphGen-FIVES,Kaphathy,0,0,license:other; region:us
+2026-10-29T01:17:18Z,Sami96ads61/reels,Sami96ads61,0,0,region:us
+2026-10-29T01:17:30Z,maia-grupo25/sleep-edfx-models,maia-grupo25,0,0,region:us
+2026-10-29T01:20:06Z,OxFengyuan/stock_dataset,OxFengyuan,0,0,region:us
+2026-10-29T01:20:33Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-29T01:20:33Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-29T01:20:40Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-29T01:20:41Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
