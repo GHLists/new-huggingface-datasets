@@ -1,0 +1,52 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-30T00:24:53Z,kazutorahanemiya/drako-assets,kazutorahanemiya,0,0,region:us
+2026-10-30T00:25:12Z,formospeech/tat_asr,formospeech,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-30T00:25:28Z,g1n0st/85aca91f44633d7013dc2515f6c4bec724ae5a13,g1n0st,0,0,region:us
+2026-10-30T00:27:20Z,kiroaiseoul/eval_actvspi0_pi0_diag_task02,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T00:27:56Z,g1n0st/2efc954d9f9f5970cc3489da076eb10cb03ad0f9,g1n0st,0,0,region:us
+2026-10-30T00:27:57Z,g1n0st/83be2daef7e27e82f14be25feda1d5a1543f7530,g1n0st,0,0,region:us
+2026-10-30T00:28:26Z,g1n0st/e129b77f9419069f1a31e7f6f0212fc928b0b189,g1n0st,0,0,region:us
+2026-10-30T00:29:06Z,NONHUMAN-RESEARCH/hanoi-rewards-triple,NONHUMAN-RESEARCH,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-30T00:33:28Z,Nogardxu/StyleTest,Nogardxu,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-30T00:33:49Z,alea-institute/alea-para-pairs,alea-institute,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; libr…
+2026-10-30T00:34:02Z,alea-institute/alea-plain-rewrite,alea-institute,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-30T00:35:08Z,safafa34235/Annoy-PyEdu-Rs,safafa34235,0,0,region:us
+2026-10-30T00:35:08Z,safafa34235/Annoy-PyEdu-Rs-Raw,safafa34235,0,0,region:us
+2026-10-30T00:38:22Z,atmike/finepdfs-1B,atmike,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-30T00:39:29Z,TianlaiChen/uniref30-toy,TianlaiChen,0,0,license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; protein
+2026-10-30T00:40:56Z,g1n0st/9c6eead5dc292c9b22059ca5512a5b4225985243,g1n0st,0,0,region:us
+2026-10-30T00:44:44Z,sagnikumass/obsfucation-tax-result,sagnikumass,0,0,license:mit; region:us
+2026-10-30T00:46:06Z,kiroaiseoul/eval_actvspi0_pi0_diag2_task02,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T00:49:28Z,llitvak/rollout_eval_20261029_174725,llitvak,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T00:50:03Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-30T00:50:33Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-30T00:51:40Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs,SAD12EDXZDSAD,0,0,region:us
+2026-10-30T00:51:41Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs-Raw,SAD12EDXZDSAD,0,0,region:us
+2026-10-30T00:51:47Z,08semi/dataset25,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T00:54:53Z,tc-huang-mahjong/mahjong_v1_stand07_twos_ovphysx_detour_vary_off5_mirabilis-mac,tc-huang-mahjong,0,0,region:us
+2026-10-30T00:55:20Z,bitwisemind/mead_dataset_level_2_n_level_3_audio_file,bitwisemind,0,0,license:apache-2.0; region:us
+2026-10-30T00:57:06Z,Yewy/mahjong_mat_pickup_jitter_v3_v7_224,Yewy,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T00:57:30Z,g1n0st/0b4a5bface439e2ec3ede9ab314dc3b3a1e95e38,g1n0st,0,0,region:us
+2026-10-30T00:59:59Z,kiroaiseoul/eval_actvspi0_act_diag2_task02,kiroaiseoul,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T01:00:06Z,ktrapeznikov/audiobook-pipeline,ktrapeznikov,0,0,region:us; ml-intern
+2026-10-30T01:06:54Z,tool02/Annoy-PyEdu-Rs,tool02,0,0,region:us
+2026-10-30T01:06:56Z,tool02/Annoy-PyEdu-Rs-Raw,tool02,0,0,region:us
+2026-10-30T01:07:38Z,llitvak/rollout_eval_20261029_180156,llitvak,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T01:08:30Z,g1n0st/5ebd557ffad393a854fd3b9da788e9041f53ab27,g1n0st,0,0,region:us
+2026-10-30T01:08:35Z,swastik5677/Synthetic-tibetan-var-page-dataset,swastik5677,0,0,region:us
+2026-10-30T01:08:53Z,todopueblos/taoyuan-airport-tpe-airlines-mrt-hotels,todopueblos,0,0,license:cc-by-4.0; region:us
+2026-10-30T01:09:32Z,yniocv/odd-one-out-polygons,yniocv,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-30T01:11:59Z,AlejandroLiberato/defiende-el-servidor-dvc-storage,AlejandroLiberato,0,0,region:us
+2026-10-30T01:12:49Z,tarekben/sigpaf-algeria-vocational-training,tarekben,0,0,task_categories:question-answering; task_categories:text-generation; language:ar; language:fr; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; lib…
+2026-10-30T01:13:24Z,g1n0st/44838a3e85eb73bda35d841a1cf56d878d407470,g1n0st,0,0,region:us
+2026-10-30T01:14:49Z,swastik5677/Synthetic-tibetan-var-page-dataset-F-V1,swastik5677,0,0,region:us
+2026-10-30T01:14:59Z,g1n0st/ea930bd06fc3708d8bf08bd8342d92ab3f4ecd80,g1n0st,0,0,region:us
+2026-10-30T01:16:10Z,siddharthmb/2026.TA.tc8192_compliance_first10_headline_2026-10f_ft_graphs,siddharthmb,0,0,region:us
+2026-10-30T01:16:29Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-30T01:16:29Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-30T01:17:47Z,spaceai-official/physgraspgen-dataset,spaceai-official,0,0,license:cc-by-nc-4.0; region:us
+2026-10-30T01:17:54Z,iseonn/am_arm_test_20261030_101500,iseonn,0,0,region:us
+2026-10-30T01:18:27Z,MelorAngelina/Annoy-PyEdu-Rs-Raw,MelorAngelina,0,0,region:us
+2026-10-30T01:18:27Z,MelorAngelina/Annoy-PyEdu-Rs,MelorAngelina,0,0,region:us
+2026-10-30T01:18:28Z,g1n0st/cecb1f0b7a9b94ccd604bb63bfc611a75289605b,g1n0st,0,0,region:us
+2026-10-30T01:19:40Z,valeriol29/TencentGR-10M-Star,valeriol29,0,0,region:us
