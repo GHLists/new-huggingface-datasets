@@ -1,0 +1,98 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-30T16:22:37Z,cfahlgren1/idol-tesla-model-y-splat,cfahlgren1,0,0,license:apache-2.0; size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us; gaussian-splatting; 3d
+2026-10-30T16:22:43Z,AgentCyberRange/CAGE,AgentCyberRange,0,0,license:apache-2.0; region:us; cybersecurity; agents; evaluation
+2026-10-30T16:23:02Z,AfriSpeech/SFT-base-en-nouns,AfriSpeech,0,0,task_categories:feature-extraction; task_categories:token-classification; language:en; license:apache-2.0; region:us; noun-phrases; nouns; lexicon; sft; nlp; spacy; corpus2nouns; frequencies; vocabul…
+2026-10-30T16:23:12Z,synth-data/volunteer_speech,synth-data,0,0,region:us
+2026-10-30T16:23:17Z,Skire9021/Codigo-Promocional-Pump-fun-ES,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; codigo-promocional; trading
+2026-10-30T16:23:52Z,yanlinli/OmniArena,yanlinli,0,0,license:apache-2.0; region:us
+2026-10-30T16:25:06Z,Skire9021/Kod-Promocyjny-Pump-fun-PL,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; kod-promocyjny; trading
+2026-10-30T16:25:12Z,Nygen/CyteRadar,Nygen,0,0,license:bsd-3-clause; region:us
+2026-10-30T16:25:52Z,keptn/quant-calibration-v1,keptn,0,0,task_categories:text-generation; language:en; language:de; language:fr; language:es; language:it; language:pl; language:pt; language:ca; language:nl; language:sv; license:other; size_categories:1K<n<…
+2026-10-30T16:25:56Z,wang123w/put_ball_on_mat_20261030_235143,wang123w,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T16:26:37Z,fireviewer/2.5_flamme_fire_pointing,fireviewer,0,0,region:us
+2026-10-30T16:26:43Z,Skire9021/Codice-Promozionale-Pump-fun-IT,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; codice-promozionale; trading
+2026-10-30T16:26:47Z,agentlans/public-announcements-clean-audio,agentlans,0,0,task_categories:text-to-audio; task_categories:audio-classification; task_categories:automatic-speech-recognition; language:zh; language:en; language:ja; language:ko; language:de; language:fr; langua…
+2026-10-30T16:27:42Z,fohoo/df-moveout-20261030-pub,fohoo,0,0,region:us
+2026-10-30T16:28:07Z,CrowdMind/16384-pretraining,CrowdMind,0,0,task_categories:text-generation; region:us
+2026-10-30T16:28:13Z,TommasoL/NewPick_wrapfix,TommasoL,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-30T16:28:18Z,mitansh77/web-traffic-time-series-forecasting,mitansh77,0,0,region:us
+2026-10-30T16:28:32Z,irodkin/recognition-memory,irodkin,0,0,task_categories:other; license:mit; size_categories:1M<n<10M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-30T16:28:42Z,surfaceapi/surface-agent-tools,surfaceapi,0,0,license:mit; region:us; mcp; agents; tool-use; function-calling; openapi; llms-txt; link-safety
+2026-10-30T16:29:24Z,iscott234/so101-vials-merged-aligned,iscott234,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T16:29:25Z,ani12222/anivara-studio-builds,ani12222,0,0,region:us
+2026-10-30T16:29:47Z,JatinArutla/PNPL-2026-E15-E19-Checkpoints,JatinArutla,0,0,region:us
+2026-10-30T16:30:01Z,g1n0st/67da99397c2bee69bfb57dc9cddcc13b8f367760,g1n0st,0,0,region:us
+2026-10-30T16:30:46Z,chiphamlinh/distill_from_teacher,chiphamlinh,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T16:31:29Z,Gianpedro/gold-analise-mercado-saude,Gianpedro,0,0,language:pt; license:odc-by; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; brazil; labor-…
+2026-10-30T16:32:31Z,tc-huang-mahjong/mahjong_v1_stand_rack07_twos_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; libr…
+2026-10-30T16:32:32Z,tc-huang-mahjong/mahjong_v1_stand_rack07_twos_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-10-30T16:33:26Z,josephq1/one-ring-searches,josephq1,0,0,task_categories:text-classification; language:en; license:other; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T16:34:30Z,Embodied-AI-Capstone/red_brick_in_cup_all,Embodied-AI-Capstone,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T16:34:46Z,TozAI/KultuTR,TozAI,0,0,task_categories:question-answering; task_categories:text-generation; language:tr; license:cc-by-4.0; size_categories:n<1K; region:us; turkish; benchmark; cultural-knowledge; small-language-model; eva…
+2026-10-30T16:36:10Z,Isxcesp/defiende-servidor-unsw-nb15-dvc,Isxcesp,0,0,license:other; region:us; dvc; cybersecurity; intrusion-detection
+2026-10-30T16:37:40Z,Kripi/so101-chess-king-moves-real,Kripi,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:dask; library…
+2026-10-30T16:38:01Z,g1n0st/c3d2bcc8602f9fa4c2e2b07a1c8a3f896b578492,g1n0st,0,0,region:us
+2026-10-30T16:38:03Z,g1n0st/f2aaede42d19737c8d7e0f1e74add4e0756f9c54,g1n0st,0,0,region:us
+2026-10-30T16:38:05Z,g1n0st/feece84fba46d2d2824b9a26aa03dc803295a3f3,g1n0st,0,0,region:us
+2026-10-30T16:38:31Z,g1n0st/f9b474b16f880d178629d1c22982b2f6ee41930a,g1n0st,0,0,region:us
+2026-10-30T16:38:31Z,g1n0st/bc42173c70ee20db0531f5f06fd7fb4f4997396a,g1n0st,0,0,region:us
+2026-10-30T16:38:32Z,g1n0st/f0de8339b39d37f420de2d54736e1795eaedc04c,g1n0st,0,0,region:us
+2026-10-30T16:38:53Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-10-30T16:38:53Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-10-30T16:40:24Z,samolego/BB-WILD,samolego,0,0,size_categories:100K<n<1M; region:us
+2026-10-30T16:42:18Z,tc-huang-mahjong/mahjong_v1_stand07_twos_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,region:us
+2026-10-30T16:42:18Z,tc-huang-mahjong/mahjong_v1_tray07_twos_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-10-30T16:42:19Z,tc-huang-mahjong/mahjong_v1_tray07_twos_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-10-30T16:42:19Z,tc-huang-mahjong/mahjong_v1_stand07_twos_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-10-30T16:42:59Z,Skire9021/Pump-fun-Promo-Code-2026-Bonus-Guide,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:43:26Z,Nekitfd/lite-russia-cache,Nekitfd,0,1,region:us
+2026-10-30T16:44:36Z,Skire9021/Pump-fun-Kortingscode-Bonus-NL,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:45:25Z,DOT999/isro,DOT999,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:document; modality:geospatial; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-30T16:46:43Z,Skire9021/Codigo-Promocional-Pump-fun-PT,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:46:52Z,anonimpala/WAXAL-TRAIN-LUG,anonimpala,0,0,region:us
+2026-10-30T16:48:19Z,Skire9021/Pump-fun-Slevovy-Kod-Bonus-CZ,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:48:49Z,LFilipeLima/tuca,LFilipeLima,0,1,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T16:49:57Z,Skire9021/Cod-Promotional-Pump-fun-RO,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:50:05Z,hub-google/UberEat,hub-google,0,0,region:us
+2026-10-30T16:50:48Z,benpaodeshui/suyi-release,benpaodeshui,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-30T16:50:53Z,liuganghuggingface/moldata-b3db,liuganghuggingface,0,0,task_categories:tabular-classification; task_categories:tabular-regression; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas;…
+2026-10-30T16:51:34Z,Skire9021/Pump-fun-Rabattkod-Bonus-SE,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:51:38Z,liuganghuggingface/moldata-butkiewicz,liuganghuggingface,0,0,task_categories:tabular-classification; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-10-30T16:52:42Z,sahil-s-246/botanical-annotations,sahil-s-246,0,0,license:mit; region:us
+2026-10-30T16:52:46Z,hwk0809/RD-Mix-v2,hwk0809,0,0,language:en; language:zh; region:us; robotics; lerobot
+2026-10-30T16:53:10Z,Skire9021/Pump-fun-Promocios-Kod-HU,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:53:10Z,coderofpears/pear15-stage3-checkpoints,coderofpears,0,0,region:us
+2026-10-30T16:53:23Z,hwk0809/RD-Mix-v3,hwk0809,0,0,language:en; language:zh; region:us; robotics; lerobot
+2026-10-30T16:54:38Z,liuganghuggingface/moldata-chemixhub,liuganghuggingface,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-10-30T16:54:47Z,Skire9021/Pump-fun-Promosyon-Kodu-TR,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:56:24Z,Skire9021/Pump-fun-Promo-Code-Greece-EL,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T16:57:13Z,MajorCrits/longformer-base-bargain-dataset,MajorCrits,0,1,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T16:58:01Z,Skire9021/Promokod-Pump-fun-2026-Bonus-RU,Skire9021,0,0,license:mit; region:us; crypto; solana; pump-fun; promo-code; trading
+2026-10-30T17:00:52Z,Fox2006/tokens,Fox2006,0,0,region:us
+2026-10-30T17:01:03Z,forms-legal/legal-fact-tables-2026,forms-legal,0,0,task_categories:question-answering; task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; librar…
+2026-10-30T17:01:40Z,MariaFPG/trossen_ai_stationary_test,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-30T17:02:10Z,renzoedu25/illapa-research-datos,renzoedu25,0,0,language:es; license:other; region:us; hazards; peru; debris-flow
+2026-10-30T17:04:45Z,lyyyyyj/misumi-doorfull-dg,lyyyyyj,0,0,region:us
+2026-10-30T17:06:04Z,naveen0807/transport_and_logistics_order_management,naveen0807,0,0,task_categories:tabular-classification; task_categories:tabular-regression; multilinguality:monolingual; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modal…
+2026-10-30T17:06:17Z,A-S372009/SalemAi-Training,A-S372009,0,0,region:us
+2026-10-30T17:06:55Z,hammermap/spain-court-auctions-boe,hammermap,0,0,task_categories:tabular-classification; task_categories:text-retrieval; language:es; language:en; language:it; language:de; language:fr; license:other; size_categories:n<1K; modality:tabular; modalit…
+2026-10-30T17:07:48Z,rookieyeah/nusantara-lst-realtime,rookieyeah,0,0,region:us
+2026-10-30T17:08:59Z,yunfeichen/world-bird-species,yunfeichen,0,0,language:en; language:zh; language:ja; language:fr; language:de; language:es; language:pt; language:ru; language:multilingual; license:other; size_categories:10K<n<100K; format:csv; modality:tabular;…
+2026-10-30T17:09:01Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-10-30T17:09:02Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-10-30T17:11:57Z,hide1/MOSS-Image-Character-Catalog,hide1,0,0,region:us
+2026-10-30T17:12:04Z,open-athena/sft-cold-start-eval-configs-20261030,open-athena,0,0,license:apache-2.0; region:us; evaluation; reproducibility; configuration
+2026-10-30T17:13:50Z,Leekg/QVH-ME,Leekg,0,0,task_categories:visual-question-answering; task_categories:multiple-choice; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; modality:video; region:us; video-question-answering; grounded-v…
+2026-10-30T17:14:23Z,rsavic/austrian-asylum-corpus,rsavic,0,0,doi:10.57967/hf/11337; region:us
+2026-10-30T17:16:02Z,liuganghuggingface/moldata-cyp_substrate_carbonmangels,liuganghuggingface,0,0,task_categories:tabular-classification; license:other; size_categories:1K<n<10K; region:us; chemistry; molecules; small-molecules; adme; classification; cyp450; experiment; in-vitro
+2026-10-30T17:16:38Z,liuganghuggingface/moldata-cyp_veith,liuganghuggingface,0,0,task_categories:tabular-classification; license:other; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; adme; classification; cyp450; experiment; in-vitro
+2026-10-30T17:16:38Z,shivendu07/indian-case-laws,shivendu07,0,0,language:en; license:apache-2.0; modality:text; modality:tabular; library:datasets; region:us; law; legal; india; case-law; judgments; legal-tech; text; tabular; datasets
+2026-10-30T17:18:22Z,liuganghuggingface/moldata-llnl_chno1,liuganghuggingface,0,0,task_categories:tabular-regression; license:apache-2.0; size_categories:10K<n<100K; arxiv:2505.01912; region:us; chemistry; molecules; small-molecules; materials; chno; dft; energetic-materials; soli…
+2026-10-30T17:18:29Z,liuganghuggingface/moldata-marcel,liuganghuggingface,0,0,task_categories:tabular-regression; license:apache-2.0; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; quantum-chemistry; aimnet-nse; catalysis; conformer-ensemble; dft…
+2026-10-30T17:19:06Z,liuganghuggingface/moldata-moleculeace,liuganghuggingface,0,0,task_categories:tabular-regression; license:cc-by-sa-3.0; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; bioactivity; activity-cliffs; bioassay; chembl; ec50; experimen…
+2026-10-30T17:19:34Z,thaki-AI/daily-paper-2026-10-31-night-shift-k8s-capacity-agent,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; llm-agents; kubernetes; kueue; gpu-scheduling; cost-optimization; finops; autoscaling; sre
+2026-10-30T17:20:14Z,AlbertS666/Annotate_anything_articulated,AlbertS666,0,0,task_categories:robotics; license:other; region:us; robotics; manipulation; articulated-objects; usd
+2026-10-30T17:20:16Z,liuganghuggingface/moldata-mollangbench,liuganghuggingface,0,0,license:mit; size_categories:10K<n<100K; region:us; chemistry; molecules; small-molecules; molecular-language; edit; expert-annotation; generation; iclr-2026; recognition; rule-generated
+2026-10-30T17:20:38Z,Ivison10/amostras_robocar,Ivison10,0,0,region:us
+2026-10-30T17:20:50Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-30T17:20:51Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
