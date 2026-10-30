@@ -1,0 +1,73 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-30T06:20:32Z,Gom-sy/inha_ckpt_backup,Gom-sy,0,0,region:us
+2026-10-30T06:20:54Z,LynnHenry/offset-sweep-example,LynnHenry,0,0,license:cc-by-nc-4.0; size_categories:n<1K; region:us; vesuvius-challenge; herculaneum; computed-tomography; surface-volume
+2026-10-30T06:23:22Z,Razio05/AI-Micro-SaaS-5-Vertical-Prompts-2026,Razio05,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; region:us; micro-saas; prompts; fastapi; gemini; pydantic; structured-json; b2b-saas
+2026-10-30T06:23:51Z,ismatsamadov/binance-usdt-archive,ismatsamadov,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-nc-sa-4.0; size_categories:1B<n<10B; region:us; finance; crypto; cryptocurrency; binance; trading; time-series; ohlcv; funding-rate…
+2026-10-30T06:24:34Z,yir-ai/ai-image-video-api-prices,yir-ai,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; pricing; api;…
+2026-10-30T06:24:37Z,Djisgod/flowsat-fmow-test-captions,Djisgod,0,0,task_categories:text-to-image; license:mit; size_categories:10K<n<100K; modality:geospatial; region:us; satellite-imagery; remote-sensing; image-captioning; fmow
+2026-10-30T06:25:23Z,komokomo7/record_act_tactile_sciurus17_4sensors-folding-only-test1_2026_1030_152418_16ep,komokomo7,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-30T06:25:30Z,yuiseki/ncep-cpc-global-ir-4km-2026-10,yuiseki,0,0,language:en; license:other; modality:geospatial; region:us; remote-sensing; infrared; brightness-temperature; geostationary; clouds; noaa; ncep
+2026-10-30T06:30:05Z,jamesPalmer2000/extra_dataset_all,jamesPalmer2000,0,0,region:us
+2026-10-30T06:30:38Z,wangdai/simforge-probe-contact-false-reject-v019-demo,wangdai,0,1,task_categories:tabular-classification; language:zh; language:en; license:cc-by-4.0; region:us; synthetic; industrial; time-series; anomaly-detection; contact-resistance; quality-control; simforge; s…
+2026-10-30T06:33:59Z,pictograph/a2d2,pictograph,0,0,region:us
+2026-10-30T06:36:58Z,123456cwz/Bread_OpenL_HDF5,123456cwz,0,0,region:us; robotics; arx; hdf5; manipulation; bread
+2026-10-30T06:37:51Z,neko-i-am-a-cat/vaibhav-music-archive,neko-i-am-a-cat,0,0,region:us
+2026-10-30T06:38:59Z,kob0105/rollout_new_act_smallwhiteball_NoIR_20261030_153112,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T06:40:58Z,reema876/pumpfun-referral-code-join100-step-by-step-guide,reema876,0,0,region:us
+2026-10-30T06:42:09Z,Jino05/indian-insurance-claims-synthetic,Jino05,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T06:42:21Z,HEART77/vigil-natural-train-v3-1k,HEART77,0,0,task_categories:visual-question-answering; license:other; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-30T06:42:31Z,juhi-neeved/idiff-face-labeled,juhi-neeved,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-30T06:42:52Z,huncholane/spiritfacts-alcohol-nutrition,huncholane,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; librar…
+2026-10-30T06:43:12Z,g1n0st/d5a761077a6737d035fcf3bf5d2072fa770a2544,g1n0st,0,0,region:us
+2026-10-30T06:44:14Z,lyyyyyj/misumi-v7-formal,lyyyyyj,0,0,region:us
+2026-10-30T06:45:38Z,tpierson-eh/injection-defense-battery,tpierson-eh,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prompt-injection; security; evalua…
+2026-10-30T06:45:38Z,YuhengSSS/auriga-robodojo-p3-runs,YuhengSSS,0,0,region:us
+2026-10-30T06:46:32Z,Reta2346/celebvhq-20gb,Reta2346,0,0,region:us
+2026-10-30T06:46:33Z,kob0105/rollout_new_act_whiteball_NoIR_20261030_154009,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T06:48:25Z,tinydeskaimeme/tiny-desk-ai,tinydeskaimeme,0,0,task_categories:image-to-video; language:en; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; tiny-desk-ai; tiny-desk; outsta…
+2026-10-30T06:48:31Z,Digital-Divide-Data/TTS_Gusii_General_culture,Digital-Divide-Data,0,0,region:us
+2026-10-30T06:49:56Z,DSD1231/Annoy-PyEdu-Rs,DSD1231,0,0,region:us
+2026-10-30T06:49:57Z,DSD1231/Annoy-PyEdu-Rs-Raw,DSD1231,0,0,region:us
+2026-10-30T06:49:57Z,isilicon/mango-evaluation-results,isilicon,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; evaluation;…
+2026-10-30T06:50:23Z,Jinjing713/Auriga-group4-exp,Jinjing713,0,0,license:other; size_categories:n<1K; library:datasets; library:mlcroissant; region:us; robotics; robodojo; embodied-agents
+2026-10-30T06:51:07Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-30T06:51:07Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-30T06:52:30Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-10-30T06:52:31Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-10-30T06:53:33Z,Phongwit/crane_pick_place,Phongwit,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-30T06:53:57Z,NLP-KD-Lab-TDTU/ViLegalREB-hf-private,NLP-KD-Lab-TDTU,0,0,region:us
+2026-10-30T06:54:09Z,chenhn02/tmp-data,chenhn02,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-10-30T06:56:48Z,vndee/vi-uq-bench,vndee,0,0,task_categories:question-answering; task_categories:text-generation; language:vi; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; libra…
+2026-10-30T06:57:33Z,Gom-sy/etri_ckpt_backup_gated,Gom-sy,0,0,region:us
+2026-10-30T07:00:15Z,collyer12/ue5-video,collyer12,0,0,region:us
+2026-10-30T07:00:43Z,ayeeyokoris/somali-speech-moss-nano,ayeeyokoris,0,0,region:us
+2026-10-30T07:02:00Z,chrisellisNMTAFE/github-raw-with-comments-v2,chrisellisNMTAFE,0,0,task_categories:text-classification; task_categories:feature-extraction; task_categories:sentence-similarity; task_ids:sentiment-classification; task_ids:topic-classification; annotations_creators:no…
+2026-10-30T07:02:48Z,kob0105/rollout_new_act_miniwhiteball_NoIR_20261030_155549,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-30T07:02:50Z,GoofyBatman/test1,GoofyBatman,0,0,license:apache-2.0; region:us
+2026-10-30T07:02:59Z,Ruckk/Prodiet,Ruckk,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-30T07:03:16Z,bangskitchen/er_dataset_1,bangskitchen,0,0,region:us
+2026-10-30T07:03:33Z,SDCXZ21SDA/Annoy-PyEdu-Rs,SDCXZ21SDA,0,0,region:us
+2026-10-30T07:03:33Z,SDCXZ21SDA/Annoy-PyEdu-Rs-Raw,SDCXZ21SDA,0,0,region:us
+2026-10-30T07:05:11Z,AMLP10101/human-segmentation-dataset,AMLP10101,0,0,region:us
+2026-10-30T07:05:28Z,00Raiser/anime-ser-japanese-speech-emotion,00Raiser,0,0,license:other; region:us
+2026-10-30T07:05:43Z,ktwest/airplane_military.json,ktwest,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T07:05:53Z,nickzcai/counterfact-strict,nickzcai,0,0,task_categories:question-answering; source_datasets:derived_from:NeelNanda/counterfact-tracing; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; librar…
+2026-10-30T07:06:05Z,Ruckk/Thermos_Flask,Ruckk,0,0,region:us
+2026-10-30T07:06:32Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-10-30T07:06:35Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-10-30T07:07:57Z,MingzhenL/rb-backup-20261030-enc,MingzhenL,0,0,license:other; region:us
+2026-10-30T07:08:17Z,reema876/pumpfun-referral-code-best100-new-user-account-setup,reema876,0,0,region:us
+2026-10-30T07:08:30Z,JOHNISKING/claude-edge-case-prompts,JOHNISKING,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; claude; claude-code; llm-evaluation; code-generation; bug-fixing; prompt-engineering; ai-agents
+2026-10-30T07:09:18Z,XinRan-Tang/MMDiff-WHU-dataset,XinRan-Tang,0,0,region:us
+2026-10-30T07:10:24Z,gishikai/JNCLEQA,gishikai,0,0,task_categories:question-answering; task_categories:visual-question-answering; language:ja; license:cc-by-4.0; size_categories:1K<n<10K; region:us; medical; clinical-engineering; japanese; benchmark
+2026-10-30T07:11:15Z,burmldafurtina/pitch-files,burmldafurtina,0,0,region:us
+2026-10-30T07:11:46Z,NavitalLabs/navital-gym-tasks,NavitalLabs,0,0,language:en; language:hi; license:cc-by-4.0; region:us; agents; evaluation; india; tool-use
+2026-10-30T07:11:54Z,edzee3000/ViRAP,edzee3000,0,0,region:us
+2026-10-30T07:12:01Z,Migraine/ABench,Migraine,0,0,license:mit; region:us
+2026-10-30T07:13:44Z,reema876/pumpfun-referral-code-flat100-how-to-get-flat-fee-discount,reema876,0,0,region:us
+2026-10-30T07:13:54Z,VibroNav/November26_Loin_Liver_Fat,VibroNav,0,0,license:cc-by-nc-4.0; region:us
+2026-10-30T07:17:41Z,kiendo93969/capella,kiendo93969,0,0,region:us
+2026-10-30T07:17:43Z,reema876/pumpfun-referral-code-cashback100-claim-sol-rebates,reema876,0,0,task_categories:token-classification; language:en; license:mit; region:us; solana; pumpfun; cashback100; referral-code; wallet; trading
+2026-10-30T07:18:00Z,yc356/GiT-10M_SR_2x_lt1m_q435,yc356,0,0,region:us
+2026-10-30T07:18:19Z,cver91/splitshire_20261030,cver91,0,0,region:us
+2026-10-30T07:18:25Z,thonguyen511/temp,thonguyen511,0,0,region:us
