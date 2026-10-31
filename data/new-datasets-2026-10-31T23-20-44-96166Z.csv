@@ -1,0 +1,39 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T22:22:44Z,agbalu/KabEncBench,agbalu,0,0,task_categories:token-classification; task_categories:text-classification; task_categories:text-retrieval; task_categories:other; task_ids:part-of-speech; task_ids:sentiment-analysis; multilinguality…
+2026-10-31T22:24:20Z,PureOne/Iyorai-IV-Quantum-Batteries-Finite-Memory-Sharp-Work,PureOne,0,0,language:en; arxiv:2402.16964; arxiv:1209.3547; arxiv:2506.11855; arxiv:1904.01314; arxiv:2409.14153; region:us; quantum-batteries; quantum-thermodynamics; deterministic-work-extraction; zero-fluctua…
+2026-10-31T22:25:39Z,Sagicc/Gentzen-Kripke-240K,Sagicc,0,0,task_categories:text-classification; task_categories:feature-extraction; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; source_datasets:orig…
+2026-10-31T22:28:28Z,elvatis-com/rtx-2080-ti-llm-speeds,elvatis-com,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; llama.…
+2026-10-31T22:29:12Z,qzhuang/tutorial-dataset,qzhuang,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T22:33:16Z,PraxySante/praxy-tts-drug-targets-edge-fr,PraxySante,0,0,task_categories:text-to-speech; language:fr; license:mit; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T22:35:16Z,theguardrail/stack_multilabel_subset_completion,theguardrail,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T22:36:39Z,latterworks/cajun-french-audio-glossary,latterworks,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T22:40:53Z,dpwiz/nutmap,dpwiz,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; emoji; syn…
+2026-10-31T22:43:25Z,AAlpatool/ArabicNewsClassificationDataset,AAlpatool,0,0,size_categories:100K<n<1M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-10-31T22:44:20Z,awsref/Annoy-PyEdu-Rs,awsref,0,0,region:us
+2026-10-31T22:44:20Z,awsref/Annoy-PyEdu-Rs-Raw,awsref,0,0,region:us
+2026-10-31T22:44:46Z,hummbl-hf/openalex-bibtex-1m-poc,hummbl-hf,0,0,language:mul; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; bibliography; bibt…
+2026-10-31T22:48:04Z,berrybumble800/starnet-media,berrybumble800,0,0,region:us
+2026-10-31T22:48:05Z,Polydim-Einsof/einsof-formal-theorems-dataset,Polydim-Einsof,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T22:53:54Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-10-31T22:53:55Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-10-31T22:58:08Z,depthfirstlabs/kev-catalog,depthfirstlabs,0,0,license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; security; vulnerability; kev; cisa
+2026-10-31T22:59:07Z,Nihilux/StackOverflow,Nihilux,0,0,region:us
+2026-10-31T22:59:54Z,sddass21/Annoy-PyEdu-Rs,sddass21,0,0,region:us
+2026-10-31T23:00:25Z,sddass21/Annoy-PyEdu-Rs-Raw,sddass21,0,0,region:us
+2026-10-31T23:00:35Z,bagonia/video-mme-sample10,bagonia,0,0,task_categories:video-text-to-text; task_categories:visual-question-answering; language:en; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; library:pandas; library…
+2026-10-31T23:01:08Z,luhr/mobilebench-boards,luhr,0,0,region:us
+2026-10-31T23:01:10Z,ADSCZX12D/Annoy-PyEdu-Rs,ADSCZX12D,0,0,region:us
+2026-10-31T23:01:11Z,ADSCZX12D/Annoy-PyEdu-Rs-Raw,ADSCZX12D,0,0,region:us
+2026-10-31T23:03:19Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t0.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T23:03:47Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-10-31T23:03:49Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-10-31T23:06:52Z,xuan-liu/ARIES-data,xuan-liu,0,0,license:other; region:us; chemistry; enzyme; reaction-site-prediction
+2026-10-31T23:09:22Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-31T23:09:23Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-31T23:10:53Z,PENROG21/spb-forest-analysis,PENROG21,0,0,language:ru; license:mit; size_categories:n<1K; format:imagefolder; modality:image; modality:geospatial; modality:tabular; library:datasets; library:mlcroissant; region:us; forestry; saint-petersburg…
+2026-10-31T23:12:19Z,dotlabs/smolcua,dotlabs,0,0,license:apache-2.0; region:us
+2026-10-31T23:13:04Z,chuckcode/record-test_20261031_160950,chuckcode,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-31T23:15:38Z,underfrog/fanout-dbpedia-value,underfrog,0,0,region:us
+2026-10-31T23:17:32Z,chuckcode/record-test_20261031_161433,chuckcode,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-31T23:20:15Z,ASDBZVCZXQF/Annoy-PyEdu-Rs,ASDBZVCZXQF,0,0,region:us
+2026-10-31T23:20:16Z,ASDBZVCZXQF/Annoy-PyEdu-Rs-Raw,ASDBZVCZXQF,0,0,region:us
