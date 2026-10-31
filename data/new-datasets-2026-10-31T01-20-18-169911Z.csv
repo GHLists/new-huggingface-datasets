@@ -1,0 +1,40 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T00:23:48Z,OrenSchmerling/pragmatic-mt-eval,OrenSchmerling,0,0,task_categories:translation; task_categories:text-generation; language:he; language:gu; language:vi; license:mit; size_categories:n<1K; modality:text; region:us; machine-translation; pragmatic-meanin…
+2026-10-31T00:25:09Z,prlq/tactilewam-collect-17-18,prlq,0,0,region:us
+2026-10-31T00:26:08Z,luhr/locomanip-demo-transfer-pub,luhr,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-31T00:27:11Z,Purple-SY/omx-left-arm,Purple-SY,0,0,task_categories:robotics; language:ko; license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; open-manipulator-x; i…
+2026-10-31T00:27:18Z,hadriencornier/what-the-encoders-miss,hadriencornier,0,0,license:cc-by-4.0; region:us
+2026-10-31T00:27:52Z,gavinlaw/multimodal-understanding-controlled-probes,gavinlaw,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; region:us; synthetic; diagnostic
+2026-10-31T00:28:09Z,nguyenminh04/htstep-text-feats,nguyenminh04,0,0,license:cc-by-nc-4.0; region:us; ht-step; video-grounding; text-embeddings
+2026-10-31T00:34:28Z,LouBarlow/LTX,LouBarlow,0,0,region:us
+2026-10-31T00:36:16Z,randomhuggingfaceuser1273823147/200bitflips,randomhuggingfaceuser1273823147,0,0,region:us
+2026-10-31T00:37:55Z,sadasdasdsdds/Annoy-PyEdu-Rs,sadasdasdsdds,0,0,region:us
+2026-10-31T00:38:26Z,sadasdasdsdds/Annoy-PyEdu-Rs-Raw,sadasdasdsdds,0,0,region:us
+2026-10-31T00:42:41Z,agentlans/fluxcap-50,agentlans,0,0,task_categories:image-to-text; task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; li…
+2026-10-31T00:43:24Z,g1n0st/44c99d06abab4ea788a79567e5638c24079e9134,g1n0st,0,0,region:us
+2026-10-31T00:44:40Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-10-31T00:44:40Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-10-31T00:46:40Z,asd12ewqe/Annoy-PyEdu-Rs,asd12ewqe,0,0,region:us
+2026-10-31T00:46:40Z,asd12ewqe/Annoy-PyEdu-Rs-Raw,asd12ewqe,0,0,region:us
+2026-10-31T00:47:41Z,SOTAagi2030/Kestrel-Harbor-Ledger-325,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-31T00:48:30Z,ProjectSpaice/MERGE-unified,ProjectSpaice,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; arxiv:1707.06347; region:us
+2026-10-31T00:48:52Z,SOTAagi2030/Cedar-Roof-Inspection-Ledger-329,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-31T00:50:10Z,dfdfhhj7/Annoy-PyEdu-Rs,dfdfhhj7,0,0,region:us
+2026-10-31T00:50:10Z,dfdfhhj7/Annoy-PyEdu-Rs-Raw,dfdfhhj7,0,0,region:us
+2026-10-31T00:52:09Z,wsdefgad/Annoy-PyEdu-Rs,wsdefgad,0,0,region:us
+2026-10-31T00:52:10Z,wsdefgad/Annoy-PyEdu-Rs-Raw,wsdefgad,0,0,region:us
+2026-10-31T00:52:33Z,wreckie/voicey,wreckie,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-31T00:55:38Z,webstk3/lab10-make-it-say-no,webstk3,0,0,region:us
+2026-10-31T00:57:53Z,Digital-Divide-Data/DDD-Kenya-Luhya-Intent,Digital-Divide-Data,0,0,region:us
+2026-10-31T00:59:17Z,KawausoHiroKawauso/test01,KawausoHiroKawauso,0,0,license:apache-2.0; region:us
+2026-10-31T01:02:23Z,RoccoIver/Annoy-PyEdu-Rs,RoccoIver,0,0,region:us
+2026-10-31T01:02:24Z,RoccoIver/Annoy-PyEdu-Rs-Raw,RoccoIver,0,0,region:us
+2026-10-31T01:02:46Z,todopueblos/us-paving-prices-2026,todopueblos,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; paving; asphalt; concrete; driveway; home-improvement; prices
+2026-10-31T01:04:43Z,dfdgh6768/Annoy-PyEdu-Rs,dfdgh6768,0,0,region:us
+2026-10-31T01:04:43Z,dfdgh6768/Annoy-PyEdu-Rs-Raw,dfdgh6768,0,0,region:us
+2026-10-31T01:10:59Z,Critaek/YOUR_HF_REPO,Critaek,0,0,region:us
+2026-10-31T01:16:30Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t1.5_g0_run0,stefanocarrera,0,0,region:us
+2026-10-31T01:16:42Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-31T01:16:42Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-31T01:16:44Z,DASCH2GHNSA/Annoy-PyEdu-Rs,DASCH2GHNSA,0,0,region:us
+2026-10-31T01:16:45Z,DASCH2GHNSA/Annoy-PyEdu-Rs-Raw,DASCH2GHNSA,0,0,region:us
