@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T06:18:39Z,shreyaaaas/filtered_yelp_restaurant_reviews,shreyaaaas,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-31T06:21:40Z,Shhaarann/Bitext-customer-support-llm-chatbot-training-dataset,Shhaarann,0,0,task_categories:question-answering; task_categories:table-question-answering; language:en; license:cdla-sharing-1.0; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:p…
+2026-10-31T06:22:14Z,zfy9921/Test,zfy9921,0,0,license:openrail; region:us
+2026-10-31T06:22:24Z,HugMinjun/PointOdyssey-Track4D-v3-training,HugMinjun,0,0,license:other; modality:video; region:us; pointodyssey; 4d; video; point-tracking; 3d-bounding-boxes
+2026-10-31T06:22:27Z,JackHsieh/8B-general-paragraph-nothink-prefill.k-8.statml-arxiv-iid.qwen3-ids.kv-tags-thought,JackHsieh,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:ml…
+2026-10-31T06:22:37Z,Gowtham25/hc-mts-raw-corpus,Gowtham25,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-31T06:26:32Z,thxplz/HOI-R1_HICO-DET_dataset,thxplz,0,0,license:cc0-1.0; region:us
+2026-10-31T06:27:05Z,Kwj1021/rollout_act_so101_pick_place_new45plusdata_chunksize75_left_20261031_151234,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-31T06:31:24Z,szcoolj/Teochew-Open,szcoolj,0,0,region:us
+2026-10-31T06:34:10Z,twanghcmut/g1-throw-groot,twanghcmut,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-31T06:34:14Z,omkarpatil/pick-cup-and-place-on-basket,omkarpatil,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-31T06:40:49Z,omkarpatil/pick-lime-block,omkarpatil,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-10-31T06:46:37Z,anandtherattil/test,anandtherattil,0,0,region:us
+2026-10-31T06:47:04Z,asadqwr/Annoy-PyEdu-Rs,asadqwr,0,0,region:us
+2026-10-31T06:47:35Z,asadqwr/Annoy-PyEdu-Rs-Raw,asadqwr,0,0,region:us
+2026-10-31T06:48:53Z,cupnb/isaacsim_step-0_0.0.6_corrections_targets,cupnb,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-31T06:48:58Z,aptitude360/number-system-aptitude-practice,aptitude360,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-10-31T06:49:01Z,yanhanliu/haico_synthetic_v0.5,yanhanliu,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T06:49:53Z,bitwisemind/mead_dataset_audio_robot_face_video_files_in_one_file,bitwisemind,0,0,license:mit; region:us
+2026-10-31T06:50:04Z,yamaisanerd/Chunking_300_Skynet,yamaisanerd,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-31T06:51:23Z,d4nieldev/qpl-decomposer-cot-opus-5-5-audited,d4nieldev,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T06:51:42Z,g1n0st/2c3e29f9ff8cd6b7a489bcae6e137ac7e6afca7f,g1n0st,0,0,region:us
+2026-10-31T06:51:50Z,rabiul43/ambient_sound,rabiul43,0,0,license:other; region:us
+2026-10-31T06:52:05Z,siqiro/EditRewrite-13K,siqiro,0,0,task_categories:image-to-image; language:en; language:zh; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissan…
+2026-10-31T06:52:13Z,ai-engineer-kavit/rotten_tomatoes_tokenized-dataset,ai-engineer-kavit,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T06:52:14Z,g1n0st/8e5f2673f91cc0ff9c660b3040b6763f21224531,g1n0st,0,0,region:us
+2026-10-31T06:52:26Z,d4nieldev/qpl-completer-cot-opus-5-5-audited,d4nieldev,0,0,task_categories:text-generation; language:en; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T06:53:39Z,g1n0st/a2a1da491e0921f37c8bc73530d0e9bb7b268621,g1n0st,0,0,region:us
+2026-10-31T06:53:47Z,amknguyen/MolecularOptimizationBench-Data,amknguyen,0,0,region:us
+2026-10-31T06:54:12Z,g1n0st/23250a5c964906c151f972b5465fe4b1ed7ae249,g1n0st,0,0,region:us
+2026-10-31T06:54:42Z,g1n0st/bfe9d332a4361794ca809daf54bd1e5742f3ee9a,g1n0st,0,0,region:us
+2026-10-31T06:54:43Z,g1n0st/2ea6a8604ca0d3a8e4088e950f048ccfa061e316,g1n0st,0,0,region:us
+2026-10-31T06:54:46Z,g1n0st/73bcccc95dfc20a58123369e339bac205ea6d983,g1n0st,0,0,region:us
+2026-10-31T06:55:13Z,g1n0st/f113bbc03d128afa08a365145186b963bfefb021,g1n0st,0,0,region:us
+2026-10-31T06:55:39Z,AIHumanizerBenchmarker/ai-humanizer-benchmark-2026,AIHumanizerBenchmarker,0,0,language:en; license:cc-by-4.0; region:us; benchmark; ai-detection; humanizer
+2026-10-31T06:55:42Z,geyi-net/arabic-academic-pdf-manuscript-ocr-benchmark,geyi-net,0,0,task_categories:image-to-text; task_categories:translation; language:ar; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-31T06:55:48Z,g1n0st/4b4dc88e8f0812fed421b11310777ab4a32d4d4e,g1n0st,0,0,region:us
+2026-10-31T06:56:38Z,g1n0st/14d40b0e071c394cd3a0b1d89ad7e76eaf8aac51,g1n0st,0,0,region:us
+2026-10-31T06:56:40Z,Chlebo115/room-temp,Chlebo115,0,0,region:us
+2026-10-31T06:57:27Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-31T06:57:27Z,GTInsights67/Customer-feedback-emotion-detection,GTInsights67,0,0,region:us
+2026-10-31T06:57:58Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-31T06:59:38Z,rmaapk/ahyeon-rag,rmaapk,0,0,region:us
+2026-10-31T07:00:06Z,kimperyang/vlmauditor-unreal-data,kimperyang,0,0,region:us
+2026-10-31T07:01:00Z,anush-123/bg-real,anush-123,0,0,task_categories:image-classification; task_categories:image-segmentation; license:cc-by-4.0; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arx…
+2026-10-31T07:01:41Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-10-31T07:02:12Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-10-31T07:02:23Z,Whyynnot/standard_task_20261031_144631,Whyynnot,0,0,region:us
+2026-10-31T07:03:46Z,MohinurAxmadjonova/uzbek-stt-data,MohinurAxmadjonova,0,0,license:apache-2.0; region:us
+2026-10-31T07:04:34Z,MohinurAxmadjonova/uzbek-stt-voicedata,MohinurAxmadjonova,0,0,license:apache-2.0; region:us
+2026-10-31T07:04:37Z,feiwukkk/fastvar-toolace-source-ledgers-20261031,feiwukkk,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T07:05:32Z,feiwukkk/fastvar-glaive-source-ledgers-20261031,feiwukkk,0,0,license:apache-2.0; region:us
+2026-10-31T07:06:37Z,g1n0st/f8a49f0e7f06be73da8cca753fac5e07cbd0c377,g1n0st,0,0,region:us
+2026-10-31T07:06:37Z,feiwukkk/fastvar-xlam-source-ledgers-20261031,feiwukkk,0,0,license:cc-by-4.0; region:us
+2026-10-31T07:06:51Z,YHY001/test_push_1031,YHY001,0,0,region:us
+2026-10-31T07:06:53Z,ShadeEngine/fineweb-edu-bytes-10BT,ShadeEngine,0,0,region:us
+2026-10-31T07:07:42Z,g1n0st/6beffc7ecab8685f4946f6adde8dea4189e4dfbd,g1n0st,0,0,region:us
+2026-10-31T07:08:04Z,so101-robot/ABCD_20261031_145955,so101-robot,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-31T07:08:10Z,g1n0st/e55ebb4fbdba3d60b478118cbd87c0c8668b1ca8,g1n0st,0,0,region:us
+2026-10-31T07:08:46Z,g1n0st/7d660cb11e33b99ab7a1f61ef223afc1bf731dbf,g1n0st,0,0,region:us
+2026-10-31T07:08:59Z,randi233/rollout_smallplate_2cam_uniform_bs32_10k_100s_10ep_20261031_063825_20261031_064346,randi233,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-31T07:09:17Z,g1n0st/9401048ec394392c1622e65a7f7fd6c2c1903a51,g1n0st,0,0,region:us
+2026-10-31T07:09:30Z,g1n0st/7c4d967e8432dbb712ad651b67f7721776f24874,g1n0st,0,0,region:us
+2026-10-31T07:09:41Z,g1n0st/f03d3c95dcf088dc926c3c7c609d8b28a362f565,g1n0st,0,0,region:us
+2026-10-31T07:10:06Z,stefanocarrera/kic_D_test-javascript_Qwen3-8B_t1.0_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T07:11:48Z,PAOP123/robochunk-sim,PAOP123,0,0,license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2507.07955; region:us; robotics; simulation; pick-and-place; motion-segmentation; mujoco
+2026-10-31T07:11:49Z,itssoumyad/heros-migration-500,itssoumyad,0,0,task_categories:text-generation; language:en; license:mit; arxiv:2402.03300; arxiv:2501.12948; region:us; arxiv:2402.03300; arxiv:2501.12948; grpo; postgresql; database-migration
+2026-10-31T07:12:24Z,itssoumyad/graphrag-questions-100,itssoumyad,0,0,task_categories:question-answering; language:en; license:mit; arxiv:2404.16130; region:us; arxiv:2404.16130; graphrag; code-audit
+2026-10-31T07:12:36Z,SeanWan05/MolAS-Active-Learning,SeanWan05,0,1,region:us
+2026-10-31T07:12:52Z,MilanMagik/StereoBindInferenceSamples,MilanMagik,0,0,region:us
+2026-10-31T07:13:10Z,GTInsights67/Customer-feedback-emotionn-detection,GTInsights67,0,0,region:us
