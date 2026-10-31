@@ -1,0 +1,35 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T01:26:47Z,Jaedwards1986/NOVA_AI_Android_Releases,Jaedwards1986,0,0,region:us
+2026-10-31T01:28:07Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-10-31T01:28:07Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-10-31T01:30:37Z,sa12cxz12xcz12/Annoy-PyEdu-Rs-Raw,sa12cxz12xcz12,0,0,region:us
+2026-10-31T01:30:37Z,sa12cxz12xcz12/Annoy-PyEdu-Rs,sa12cxz12xcz12,0,0,region:us
+2026-10-31T01:35:35Z,MeongGanas/Chall_Foren_Recursion,MeongGanas,0,0,region:us
+2026-10-31T01:36:10Z,getpeacecall/us-business-texting-rules,getpeacecall,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sms; tcpa; compliance; legal; united…
+2026-10-31T01:40:22Z,dougalldeepmind/2026-10-31-mask-qwen36-0-delib-sonnet-15-a,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_delib_sonnet_15_a; mode:think
+2026-10-31T01:40:53Z,SOTAagi2030/Lumen-Orchard-Watering-Plan-334,SOTAagi2030,0,0,license:cc-by-4.0; region:us; irrigation; orchard
+2026-10-31T01:52:26Z,DSA1DSAD1D/Annoy-PyEdu-Rs,DSA1DSAD1D,0,0,region:us
+2026-10-31T01:52:26Z,DSA1DSAD1D/Annoy-PyEdu-Rs-Raw,DSA1DSAD1D,0,0,region:us
+2026-10-31T01:53:10Z,allyrzha/ninja-saga-backup,allyrzha,0,0,region:us
+2026-10-31T01:56:07Z,bytkim/MURPHY-BENCHMARK,bytkim,0,0,language:en; language:ru; language:es; language:ar; language:zh; language:ja; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-10-31T01:56:09Z,nucleardir/nuclear-directory,nucleardir,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nuclear-energy…
+2026-10-31T01:59:57Z,asd1dsa/Annoy-PyEdu-Rs,asd1dsa,0,0,region:us
+2026-10-31T01:59:58Z,asd1dsa/Annoy-PyEdu-Rs-Raw,asd1dsa,0,0,region:us
+2026-10-31T02:00:09Z,hiwe0305/phyrc-2027-challenge,hiwe0305,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; codebase_version:v3.0; phyrc-2027;…
+2026-10-31T02:00:15Z,wangchenlong/ljsh,wangchenlong,0,0,region:us
+2026-10-31T02:00:40Z,latentMO/mats12-slide-figures,latentMO,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-31T02:01:17Z,Beifengdo/Weather-Classification-Data-Code-Weights,Beifengdo,0,0,task_categories:image-classification; language:zh; language:en; region:us; weather; computer-vision; training-assets
+2026-10-31T02:02:10Z,toolathlon3/Annoy-PyEdu-Rs,toolathlon3,0,0,region:us
+2026-10-31T02:02:11Z,toolathlon3/Annoy-PyEdu-Rs-Raw,toolathlon3,0,0,region:us
+2026-10-31T02:03:25Z,JamshidJDMY/LLMPreSS_ClimbMix_compact,JamshidJDMY,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T02:05:35Z,JamshidJDMY/LLMPreSS_ClimbMix_quality,JamshidJDMY,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T02:06:07Z,daipatel28/quest-academy-voices,daipatel28,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T02:07:00Z,Nishanttyagi/oil038-sample,Nishanttyagi,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; region:us; synthetic…
+2026-10-31T02:09:19Z,dougalldeepmind/2026-10-31-am-qwen36-0-delib-sonnet-15-b,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_delib_sonnet_15_b; mode:think
+2026-10-31T02:11:16Z,yuiseki/mlit-kansui-flood-prone-points-jp-2026-09,yuiseki,0,0,language:ja; license:other; size_categories:1K<n<10K; format:parquet; modality:geospatial; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-31T02:12:27Z,nightly-wave/ab395b6f,nightly-wave,0,0,region:us
+2026-10-31T02:13:39Z,rsundaraws/so101_arm1_fill_wrist,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-31T02:13:47Z,rsundaraws/so101_arm1_fill_trim,rsundaraws,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-31T02:13:58Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t0.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T02:14:12Z,SOTAagi2030/Harbor-Flood-Dispatch-327,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-10-31T02:15:04Z,yuiseki/mlit-kansui-flood-prone-points-pdf-jp-2026-09,yuiseki,0,0,language:ja; license:other; size_categories:1K<n<10K; region:us; japan; flood; road; underpass; point
