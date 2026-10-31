@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T12:22:04Z,thanatchon36/stablecoin-tbills-genius-act,thanatchon36,0,0,language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; stablecoins; treasury-bills;…
+2026-10-31T12:22:50Z,RabbitGo777/polymarket.eth_20261020.v4.1s.parquet,RabbitGo777,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T12:23:14Z,yhzkiki/taiwan-nlsc-imagery,yhzkiki,0,0,license:other; modality:geospatial; region:us; geospatial; pmtiles; taiwan
+2026-10-31T12:25:26Z,RabbitGo777/polymarket.sol_20261020.v4.1s.parquet,RabbitGo777,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T12:25:56Z,ianfab/racing-kings-syzygy,ianfab,0,1,task_categories:other; license:cc0-1.0; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; chess; chess-variants; racing-kings; endgame; tableba…
+2026-10-31T12:26:01Z,androidli/hires1920-depth-backup,androidli,0,0,region:us
+2026-10-31T12:27:55Z,RabbitGo777/polymarket.xrp_20261020.v4.1s.parquet,RabbitGo777,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T12:28:03Z,KhangTruong/DEAL300K-30K,KhangTruong,0,0,size_categories:10K<n<100K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-31T12:29:23Z,aholovko/stave-go-style,aholovko,0,0,task_categories:text-classification; language:code; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-10-31T12:29:50Z,RabbitGo777/polymarket.doge_20261020.v4.1s.parquet,RabbitGo777,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T12:30:14Z,xphirobotics/xphi-6-cam-dataset,xphirobotics,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:audio; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; egocentric; roboti…
+2026-10-31T12:31:21Z,XingZhou666/Annoy-PyEdu-Rs,XingZhou666,0,0,region:us
+2026-10-31T12:31:22Z,XingZhou666/Annoy-PyEdu-Rs-Raw,XingZhou666,0,0,region:us
+2026-10-31T12:31:24Z,RabbitGo777/polymarket.bnb_20261020.v4.1s.parquet,RabbitGo777,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-10-31T12:33:21Z,yashdatasets/tai-tham-synthetic-dataset,yashdatasets,0,0,region:us
+2026-10-31T12:33:34Z,smartuserfomo/fomo-app-referral-code-smartuser-faq-glossary,smartuserfomo,0,0,task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fomo;…
+2026-10-31T12:33:53Z,massaindustries/data-farm-tester-ood-v1,massaindustries,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polar…
+2026-10-31T12:35:00Z,suhailmalik/kitabux-classics-gutenberg,suhailmalik,0,0,size_categories:1K<n<10K; modality:image; modality:text; region:us
+2026-10-31T12:36:04Z,opensima12/genshin_reasoning_history15_sl120_fourway_balance_1031_current_loss_encrypted,opensima12,0,0,region:us
+2026-10-31T12:37:01Z,neko-i-am-a-cat/investopedia-terms,neko-i-am-a-cat,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T12:39:29Z,origin-data-lab/fisheye-stereo-factory-calibration-independent-validation,origin-data-lab,0,0,license:cc-by-4.0; size_categories:100K<n<1M; modality:text; region:us; calibration; stereo; fisheye; residuals; robotics
+2026-10-31T12:39:38Z,senku21x/chainP-flattery-story-corpora,senku21x,0,0,region:us; story-imprinting; synthetic; sycophancy; interpretability-research
+2026-10-31T12:39:40Z,senku21x/chainP-flattery-eval-outputs,senku21x,0,0,region:us; story-imprinting; evaluation; llm-judge; sycophancy; interpretability-research
+2026-10-31T12:42:53Z,chanchancheng/camroll-yfcc20,chanchancheng,0,0,task_categories:visual-question-answering; language:en; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; arxiv:2606.05275; region:us; camera-roll; personal-memory; vqa; egocentric; yfcc100m
+2026-10-31T12:43:14Z,Kronze157/bbbb,Kronze157,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-31T12:43:42Z,Veera27/Garbage_Bin_overflow_images,Veera27,0,0,task_categories:object-detection; task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:…
+2026-10-31T12:44:36Z,fangg2000/xclj-client,fangg2000,0,0,license:apache-2.0; region:us
+2026-10-31T12:45:44Z,Sabka4/wildguard-preparation,Sabka4,0,0,task_categories:text-classification; language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-10-31T12:47:02Z,gavinlaw/multimodal-understanding-mosaicbench-outputs,gavinlaw,0,0,task_categories:visual-question-answering; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-31T12:47:51Z,Sylvestre/fontogen-web-data-v3,Sylvestre,0,0,region:us
+2026-10-31T12:48:21Z,origin-data-lab/charuco-target-design-wide-angle-egocentric-detection-limits,origin-data-lab,0,0,license:cc-by-4.0; size_categories:n<1K; modality:text; region:us; charuco; calibration-target; camera-calibration; fisheye-camera; egocentric-capture; physical-ai; field-lessons; opencv
+2026-10-31T12:48:32Z,adoodevv/say-and-grasp-handovers,adoodevv,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-31T12:48:37Z,bibi0108/pick_and_place_20261031_214816,bibi0108,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-31T12:49:31Z,Aryama/deepmath-solve-judge-reconstruct,Aryama,0,0,region:us
+2026-10-31T12:50:04Z,hfzr271a/puborg135004,hfzr271a,0,0,region:us
+2026-10-31T12:50:46Z,yyuanuw/hop2-logs-src_web_react_9b,yyuanuw,0,0,region:us
+2026-10-31T12:52:43Z,ramen-noodels/2shoe-v2,ramen-noodels,0,0,task_categories:robotics; license:other; size_categories:n<1K; modality:image; modality:tabular; modality:text; modality:video; arxiv:2605.26649; region:us; imitation-learning; keypoints; manipulatio…
+2026-10-31T12:53:05Z,opensima12/2077xiaotian_v3_1027notab_20261031_clean,opensima12,0,0,region:us
+2026-10-31T12:53:06Z,opensima12/2077xiaotian_v2_1025_20261031_clean,opensima12,0,0,region:us
+2026-10-31T12:55:12Z,SANGchu-03/INThon_Augmented,SANGchu-03,0,0,language:en; region:us
+2026-10-31T12:56:15Z,Wojtekb30/ref_coco_lichengunc,Wojtekb30,0,0,region:us
+2026-10-31T12:56:32Z,victim234/acctinfl135631,victim234,0,0,region:us
+2026-10-31T13:00:03Z,global-south-nlp/ethiopian-hsd-context-sets,global-south-nlp,0,0,task_categories:text-classification; language:am; language:ti; language:om; license:cc-by-sa-4.0; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; libr…
+2026-10-31T13:00:35Z,Niyawwtiiii/telecomdocqa-index,Niyawwtiiii,0,0,license:other; region:us; rag; 3gpp; 5g
+2026-10-31T13:03:04Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-10-31T13:03:05Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-10-31T13:03:34Z,lockR/lean4-ru-nl-qc,lockR,0,0,task_categories:text-generation; language:ru; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mat…
+2026-10-31T13:07:30Z,Tina1114/placepen_point4,Tina1114,0,0,region:us; robotics; piper; cosmos; inference
+2026-10-31T13:07:52Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-10-31T13:07:53Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-10-31T13:08:41Z,oxygen65/ISSRobotArm,oxygen65,0,0,language:en; language:ja; license:apache-2.0; size_categories:10K<n<100K; region:us; robotics; imitation-learning; smolvla; ros2; gazebo; simulation; rgb
+2026-10-31T13:08:42Z,Youssef838/arabic-islamic-book-264,Youssef838,0,0,task_categories:image-to-text; task_categories:text-generation; language:ar; license:other; size_categories:n<1K; modality:document; region:us; arabic; islamic-studies; books; pdf; ocr; nlp; classica…
+2026-10-31T13:09:30Z,0WD0/wime-wanxiang,0WD0,0,0,language:zh; license:cc-by-4.0; region:us; input-method; pinyin
+2026-10-31T13:09:55Z,yyuanuw/hop2-logs-sci_verl_9b,yyuanuw,0,0,region:us
+2026-10-31T13:10:42Z,mliu48/telearms-yam-cube-v5-front-to-back-cube-line,mliu48,0,0,region:us
+2026-10-31T13:11:20Z,usr256864/ner_prepared_15k_all_schemes,usr256864,0,0,region:us
+2026-10-31T13:12:42Z,eatfreshapple/solar-lunar-eclipses-1950-2050,eatfreshapple,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; astronomy; ephemeris; tabular; time-series
+2026-10-31T13:14:23Z,gavinlaw/multimodal-understanding-funqa-support-outputs,gavinlaw,0,0,task_categories:video-classification; license:cc-by-4.0; arxiv:2509.23433; arxiv:2209.01034; arxiv:2605.22678; region:us
+2026-10-31T13:16:41Z,eatfreshapple/moon-phases-1950-2050,eatfreshapple,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; astronomy; ephemeris; tabular; time-series
+2026-10-31T13:17:48Z,zhujiaying-mcpbench/Annoy-PyEdu-Rs,zhujiaying-mcpbench,0,0,region:us
+2026-10-31T13:18:12Z,sad1dasd12szsads/Annoy-PyEdu-Rs,sad1dasd12szsads,0,0,region:us
+2026-10-31T13:18:18Z,zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw,zhujiaying-mcpbench,0,0,region:us
+2026-10-31T13:18:42Z,linliaaa/Annoy-PyEdu-Rs,linliaaa,0,0,region:us
+2026-10-31T13:18:42Z,sad1dasd12szsads/Annoy-PyEdu-Rs-Raw,sad1dasd12szsads,0,0,region:us
+2026-10-31T13:19:12Z,linliaaa/Annoy-PyEdu-Rs-Raw,linliaaa,0,0,region:us
+2026-10-31T13:19:19Z,Sosa654321/sahar-jobs,Sosa654321,0,0,region:us
+2026-10-31T13:19:36Z,kavyapshah2006/pragya_collection_kavya,kavyapshah2006,0,0,region:us
