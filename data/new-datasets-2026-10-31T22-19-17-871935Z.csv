@@ -1,0 +1,32 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-31T21:21:50Z,gavinlaw/multimodal-understanding-marker-factor-outputs,gavinlaw,0,0,task_categories:visual-question-answering; license:cc-by-4.0; region:us
+2026-10-31T21:23:18Z,wissamantoun/MegaQuery-680M,wissamantoun,0,0,task_categories:text-retrieval; language:en; language:fr; license:odc-by; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; l…
+2026-10-31T21:29:59Z,vrcatalogue/vrcatalogue-open-data,vrcatalogue,0,0,language:en; language:ja; language:ko; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polar…
+2026-10-31T21:30:50Z,syuekai/dg-theta-census-packet,syuekai,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T21:30:54Z,Lei0331/REBlur,Lei0331,0,1,license:cc-by-4.0; region:us; event-camera; motion-deblurring; image-restoration
+2026-10-31T21:32:05Z,zyxtai/pick_up_the_green_block_1_20261031_170839,zyxtai,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-31T21:37:13Z,helenlu94/libero_all_plus_goal_matched_lerobot_v21,helenlu94,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-31T21:41:57Z,nawmi/PR_Superset,nawmi,0,0,region:us
+2026-10-31T21:42:02Z,ZXC1EDSA/Annoy-PyEdu-Rs-Raw,ZXC1EDSA,0,0,region:us
+2026-10-31T21:42:02Z,ZXC1EDSA/Annoy-PyEdu-Rs,ZXC1EDSA,0,0,region:us
+2026-10-31T21:43:40Z,Prince909097628/zentiq-45files-turbo-master-teacher,Prince909097628,0,0,region:us
+2026-10-31T21:44:37Z,g1n0st/a458eee2e079e282ae6f051153045804fc9efc8e,g1n0st,0,0,region:us
+2026-10-31T21:44:46Z,g1n0st/0807981a53b09a0817585b1f8c016e6132507ccb,g1n0st,0,0,region:us
+2026-10-31T21:49:49Z,manhmitcf/final,manhmitcf,0,0,region:us
+2026-10-31T21:50:31Z,TheodoraAdhara/Annoy-PyEdu-Rs,TheodoraAdhara,0,0,region:us
+2026-10-31T21:50:32Z,TheodoraAdhara/Annoy-PyEdu-Rs-Raw,TheodoraAdhara,0,0,region:us
+2026-10-31T21:52:03Z,shanjunaid7/tooldeck-bg-models,shanjunaid7,0,0,license:mit; region:us
+2026-10-31T21:56:08Z,jasonren-ai2/test,jasonren-ai2,0,0,region:us
+2026-10-31T22:03:49Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-31T22:03:51Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-31T22:07:40Z,FBNVJTASDWQD/Annoy-PyEdu-Rs-Raw,FBNVJTASDWQD,0,0,region:us
+2026-10-31T22:07:40Z,FBNVJTASDWQD/Annoy-PyEdu-Rs,FBNVJTASDWQD,0,0,region:us
+2026-10-31T22:08:40Z,SACXZ213EDS/Annoy-PyEdu-Rs,SACXZ213EDS,0,0,region:us
+2026-10-31T22:08:41Z,SACXZ213EDS/Annoy-PyEdu-Rs-Raw,SACXZ213EDS,0,0,region:us
+2026-10-31T22:08:42Z,tuandunghcmut/LaSM-dataset,tuandunghcmut,0,0,task_categories:image-text-to-text; language:en; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-10-31T22:10:58Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t0.5_g2_run0,stefanocarrera,0,0,region:us
+2026-10-31T22:15:38Z,hahouari/smeddv-viewer-test-uint64,hahouari,0,0,task_categories:image-to-text; language:af; language:ar; language:az; language:bs; language:ca; language:ckb; language:cs; language:cy; language:da; language:de; language:en; language:es; language:et…
+2026-10-31T22:15:46Z,hahouari/smeddv-viewer-test-int64,hahouari,0,0,task_categories:image-to-text; language:af; language:ar; language:az; language:bs; language:ca; language:ckb; language:cs; language:cy; language:da; language:de; language:en; language:es; language:et…
+2026-10-31T22:17:34Z,hahouari/smeddv-probe-a,hahouari,0,0,task_categories:image-to-text; license:cc-by-sa-4.0; region:us
+2026-10-31T22:17:50Z,hahouari/smeddv-probe-b,hahouari,0,0,task_categories:image-to-text; license:cc-by-sa-4.0; region:us
+2026-10-31T22:19:14Z,SieloRobotics/rebot_machine_tending,SieloRobotics,0,0,region:us
