@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-30T23:23:59Z,Manu2711/Reports,Manu2711,0,0,region:us
+2026-10-30T23:27:10Z,mliu48/telearms-yam-cube-v5-realistic,mliu48,0,0,region:us
+2026-10-30T23:27:16Z,Forfree559/kiku-ai-shared,Forfree559,0,0,license:other; size_categories:n<1K; format:json; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; kiku-ai; music
+2026-10-30T23:27:38Z,SOTAagi2030/Harbor-Buoy-Service-Route-340,SOTAagi2030,0,0,license:cc-by-4.0; region:us; harbor-operations; maintenance-routing
+2026-10-30T23:27:39Z,juiceb0xc0de/spark-x2.6-4b-cgs-atlas-outputs,juiceb0xc0de,0,0,task_categories:text-generation; language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mec…
+2026-10-30T23:29:29Z,PhillyWeatherGuy/baroclinic-gfs-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-10-30T23:30:08Z,sksak/cylinder_trial_20261031_030956,sksak,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-30T23:33:55Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-10-30T23:34:19Z,fahmidiqbal/snli_bt_with_instructions,fahmidiqbal,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T23:34:26Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-10-30T23:35:15Z,fahmidiqbal/snli_bt_without_instructions,fahmidiqbal,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T23:46:49Z,asnlike/CV-unlearn,asnlike,0,0,region:us
+2026-10-30T23:47:58Z,JWei05/olympiad-lean-geometry-combinatorics,JWei05,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lean4; theore…
+2026-10-30T23:49:00Z,leffff/diffusion-alignment-workshop,leffff,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; modality:timeseries; library:datasets; library:dask; library:p…
+2026-10-30T23:49:25Z,toolathlon3/Annoy-PyEdu-Rs,toolathlon3,0,0,region:us
+2026-10-30T23:49:26Z,toolathlon3/Annoy-PyEdu-Rs-Raw,toolathlon3,0,0,region:us
+2026-10-30T23:49:44Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-10-30T23:49:45Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-10-30T23:52:30Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t1.0_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-30T23:55:31Z,AlexHer/PraxisApple,AlexHer,0,0,license:mit; region:us
+2026-10-30T23:55:40Z,ASD213213SA/Annoy-PyEdu-Rs,ASD213213SA,0,0,region:us
+2026-10-30T23:56:10Z,ASD213213SA/Annoy-PyEdu-Rs-Raw,ASD213213SA,0,0,region:us
+2026-10-30T23:58:18Z,kevincity2026/sound-atelier-korean-upbeat-lofi-10,kevincity2026,0,0,task_categories:text-to-audio; annotations_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:ko; license:cc-by-nc-4.0; size_categories:n<1K; format:audiofold…
+2026-10-31T00:00:32Z,siddharthmb/2026.TA.experiments.refusal_tracing.refusal_features_10f,siddharthmb,0,0,license:other; region:us
+2026-10-31T00:00:51Z,julianszere/model-stitching,julianszere,0,0,region:us
+2026-10-31T00:01:26Z,dayomtechnologies/shilluk_to_english_parallel_corpus_biblical_text,dayomtechnologies,0,0,license:cc-by-nc-nd-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-31T00:02:18Z,KosukeHaketa/eval_so101_pickplace,KosukeHaketa,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-31T00:04:57Z,kevincity2026/sound-atelier-korean-hiphop-5,kevincity2026,0,0,task_categories:text-to-audio; annotations_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:ko; license:cc-by-nc-4.0; size_categories:n<1K; region:us; music…
+2026-10-31T00:08:04Z,nguyentuan02/video-translator-engine,nguyentuan02,0,0,region:us
+2026-10-31T00:08:25Z,tarekeldeeb/majlis-audio,tarekeldeeb,0,0,language:ar; license:other; modality:audio; region:us; audio; hadith; arabic; text-to-speech
+2026-10-31T00:09:46Z,FeldMare/ultrafeedback-length-balanced-qwen2.5-0.5b,FeldMare,0,0,task_categories:text-generation; source_datasets:HuggingFaceH4/ultrafeedback_binarized; source_datasets:openbmb/UltraFeedback; language:en; license:mit; size_categories:10K<n<100K; arxiv:2310.01377;…
+2026-10-31T00:12:31Z,DSAC1CAS/Annoy-PyEdu-Rs,DSAC1CAS,0,0,region:us
+2026-10-31T00:12:32Z,DSAC1CAS/Annoy-PyEdu-Rs-Raw,DSAC1CAS,0,0,region:us
+2026-10-31T00:13:18Z,ajhgjs/Annoy-PyEdu-Rs,ajhgjs,0,0,region:us
+2026-10-31T00:13:19Z,ajhgjs/Annoy-PyEdu-Rs-Raw,ajhgjs,0,0,region:us
+2026-10-31T00:13:44Z,quranquiznet/majlis-riyad_assalihin,quranquiznet,0,1,license:other; region:us
+2026-10-31T00:13:56Z,melhoushi/OpenMathInstruct-2-Qwen3-8B-nothink,melhoushi,0,0,region:us
+2026-10-31T00:14:14Z,senku21x/si-e2-laneM-relay,senku21x,0,0,region:us
+2026-10-31T00:15:24Z,fahmidiqbal/contractnli_with_instructions,fahmidiqbal,0,0,region:us
+2026-10-31T00:15:41Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-10-31T00:15:46Z,safafa456/Annoy-PyEdu-Rs-Raw,safafa456,0,0,region:us
+2026-10-31T00:15:46Z,safafa456/Annoy-PyEdu-Rs,safafa456,0,0,region:us
+2026-10-31T00:16:05Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-10-31T00:16:06Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-10-31T00:16:11Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-10-31T00:17:21Z,alecccdd/gallery-dl,alecccdd,0,0,region:us
