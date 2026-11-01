@@ -1,0 +1,60 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T20:21:08Z,ricdomolm/CalibForge-decontaminated,ricdomolm,0,0,task_categories:text-generation; source_datasets:AweAI-Team/CalibForge; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library…
+2026-11-01T20:22:29Z,Capibara-LLM/guarani-cpt-replay,Capibara-LLM,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:22:40Z,Capibara-LLM/guarani-sft-replay,Capibara-LLM,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:23:32Z,benjaminds/newname,benjaminds,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-01T20:27:45Z,RodrigoLimaRFL/acervo-literatura-icmc,RodrigoLimaRFL,0,0,task_categories:tabular-classification; task_categories:text-classification; language:pt; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; libra…
+2026-11-01T20:28:20Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-ragged-t05-t1p07-interp-20261101,hi-todayis-jh,0,0,region:us
+2026-11-01T20:28:42Z,afdasdaf/Annoy-PyEdu-Rs,afdasdaf,0,0,region:us
+2026-11-01T20:28:42Z,afdasdaf/Annoy-PyEdu-Rs-Raw,afdasdaf,0,0,region:us
+2026-11-01T20:30:53Z,KenjiYoshida/ksj-geopbf,KenjiYoshida,0,1,region:us
+2026-11-01T20:33:17Z,sw-voice/swamiji-telugu-reuse-train,sw-voice,0,0,task_categories:text-to-speech; language:te; language:sa; license:other; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; libra…
+2026-11-01T20:33:42Z,Tetsuto/pocketpedia-index,Tetsuto,0,0,region:us
+2026-11-01T20:36:24Z,eshansayhan/cs,eshansayhan,0,0,region:us
+2026-11-01T20:36:32Z,silveroxides/FightPoses,silveroxides,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-01T20:36:56Z,dhruvsumant/pick-up-black-tire_20261101_123340,dhruvsumant,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-01T20:37:54Z,gavinlaw/multimodal-understanding-independent-correspondence-outputs,gavinlaw,0,0,task_categories:visual-question-answering; license:cc-by-4.0; region:us
+2026-11-01T20:38:48Z,EiadEssam/details_EiadEssam__smollm2-1.7b-gsm8k-v2_private,EiadEssam,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:41:15Z,Ro551/WikiCorrupted_spanish_to_GEC-GED,Ro551,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:41:59Z,aptologia/demanda-vivienda-arriendo-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; real-estate; housing; rental-market; colombia; bogota; medellin; cali; demand
+2026-11-01T20:42:03Z,p355planes/Krea2,p355planes,0,0,region:us
+2026-11-01T20:44:54Z,ReasonBio/Paper,ReasonBio,0,0,region:us
+2026-11-01T20:46:07Z,msbtime/IMDb_movie_reviews,msbtime,0,0,task_categories:text-classification; task_ids:sentiment-classification; multilinguality:monolingual; language:en; license:other; size_categories:10K<n<100K; format:csv; modality:text; library:dataset…
+2026-11-01T20:46:24Z,mvp-lab/Spatial4D,mvp-lab,0,0,license:cc-by-4.0; region:us
+2026-11-01T20:49:33Z,akilcantasi/paketler,akilcantasi,0,0,license:other; region:us
+2026-11-01T20:50:56Z,PhillyWeatherGuy/baroclinic-era5-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-11-01T20:54:59Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.0_g2_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:56:36Z,aptologia/demanda-vivienda-arriendo-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bogota; demand
+2026-11-01T20:56:40Z,aptologia/demanda-vivienda-arriendo-cali-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; cali; demand
+2026-11-01T20:56:51Z,aptologia/demanda-vivienda-arriendo-medellin-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; medellin; demand
+2026-11-01T20:56:55Z,aptologia/demanda-vivienda-arriendo-barranquilla-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; barranquilla; demand
+2026-11-01T20:56:59Z,aptologia/demanda-vivienda-arriendo-bucaramanga-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bucaramanga; demand
+2026-11-01T20:57:14Z,aptologia/demanda-vivienda-arriendo-itagui-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; itagui; demand
+2026-11-01T20:57:18Z,aptologia/demanda-vivienda-arriendo-pereira-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; pereira; demand
+2026-11-01T20:57:22Z,aptologia/demanda-vivienda-arriendo-soacha-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; soacha; demand
+2026-11-01T21:00:45Z,paulcacheux/yam-dclm-gpt2,paulcacheux,0,0,license:cc-by-4.0; region:us; pretokenized; gpt2-tokenizer; web; dclm
+2026-11-01T21:01:54Z,gavinlaw/vnrl-twins-v0,gavinlaw,0,0,task_categories:visual-question-answering; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-01T21:02:21Z,PureOne/Noyura-Delta-Correlation-Selective-Activation,PureOne,0,0,language:en; region:us; physics; quantum-thermodynamics; quantum-information; energy-conservation; quantum-memory; reproducible-research; scientific-computing; synthetic-data
+2026-11-01T21:06:15Z,paulcacheux/yam-cosmopedia-gpt2,paulcacheux,0,0,license:odc-by; region:us; pretokenized; gpt2-tokenizer; synthetic; textbooks; cosmopedia
+2026-11-01T21:07:04Z,Cybrpgs/alphahybrid-top100-new-20261101,Cybrpgs,0,0,region:us
+2026-11-01T21:08:17Z,kylelovesllms/english_zapanese_withhold_combinations-frames,kylelovesllms,0,0,task_categories:translation; language:en; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synt…
+2026-11-01T21:08:19Z,kylelovesllms/english_zapanese_withhold_combinations-filled,kylelovesllms,0,0,task_categories:translation; language:en; size_categories:10K<n<100K; region:us; synthetic; syntax; translation; relative-clauses; complement-clauses; recursion; structural-generalization; compositio…
+2026-11-01T21:09:33Z,tokenaii/the-forge,tokenaii,0,0,region:us
+2026-11-01T21:10:38Z,jp01/wikipedia-costa-rica-rag-es,jp01,0,0,task_categories:question-answering; task_categories:text-retrieval; language:es; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-11-01T21:13:42Z,MatrAIx2026/PersonaCodeBench,MatrAIx2026,0,0,region:us
+2026-11-01T21:15:00Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-11-01T21:15:20Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-11-01T21:15:26Z,starkAhmed43/lc-image-d7d193a0b8b942623dab388c,starkAhmed43,0,0,region:us
+2026-11-01T21:15:32Z,aptologia/arriendo-apartaestudio-demanda-oferta-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; studio-apartment
+2026-11-01T21:16:20Z,aptologia/arriendo-habitaciones-demanda-oferta-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bedrooms
+2026-11-01T21:17:00Z,I4031/items_prompts_lite,I4031,0,0,region:us
+2026-11-01T21:17:17Z,aptologia/arriendo-mascotas-demanda-oferta-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; pets-allowed
+2026-11-01T21:17:21Z,aptologia/arriendo-parqueadero-demanda-oferta-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; parking
+2026-11-01T21:17:46Z,SEELE-AI/EVA-Edit,SEELE-AI,0,0,region:us
+2026-11-01T21:18:19Z,aptologia/brecha-arriendo-por-barrio-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; neighborhoods
+2026-11-01T21:18:27Z,noobklng/FineTome-100k-goober,noobklng,0,0,region:us
+2026-11-01T21:18:55Z,aptologia/tope-busqueda-arriendo-barranquilla-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; affordability; search-data
+2026-11-01T21:19:17Z,aptologia/tope-busqueda-arriendo-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; affordability; search-data
+2026-11-01T21:19:36Z,aptologia/tope-busqueda-arriendo-cali-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; affordability; search-data
+2026-11-01T21:19:40Z,aptologia/tope-busqueda-arriendo-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; affordability; search-data
+2026-11-01T21:19:44Z,aptologia/tope-busqueda-arriendo-medellin-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; affordability; search-data
