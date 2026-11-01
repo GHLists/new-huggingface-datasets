@@ -1,0 +1,43 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T17:21:59Z,niahuravi/hurtme6,niahuravi,0,0,license:apache-2.0; region:us
+2026-11-01T17:23:02Z,Lelonthecodeur/agent-training-reasoning-dataset-dense,Lelonthecodeur,0,1,task_categories:text-generation; language:en; license:mit; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; age…
+2026-11-01T17:25:55Z,Lonecatone23/lc-h3-library,Lonecatone23,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; comfyui; lc-av; minimax-h3; character-cards; 360-panorama
+2026-11-01T17:28:32Z,vwnb/purr-swarm-01,vwnb,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T17:30:25Z,masterofaudio2077/egyptian-moderation-frames,masterofaudio2077,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; egypt; content-moderation
+2026-11-01T17:30:32Z,h2oai/h2o-lightning-74b-bolt-decision-index,h2oai,0,0,license:other; region:us
+2026-11-01T17:31:16Z,savethisok/d-b9a368abe4a129e0,savethisok,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T17:32:30Z,Travor278/whoego-synth-isaac,Travor278,0,0,task_categories:image-classification; task_categories:image-segmentation; task_categories:depth-estimation; license:other; size_categories:1K<n<10K; region:us; egocentric; exocentric; multi-view; syn…
+2026-11-01T17:34:02Z,ironflow/hyperliquid-open-interest,ironflow,0,0,region:us
+2026-11-01T17:34:32Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-01T17:34:32Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-01T17:40:23Z,asfafagf45/Annoy-PyEdu-Rs,asfafagf45,0,0,region:us
+2026-11-01T17:40:25Z,asfafagf45/Annoy-PyEdu-Rs-Raw,asfafagf45,0,0,region:us
+2026-11-01T17:43:12Z,open-predico/benchmark,open-predico,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; time-series; forecasting; electricity; bala…
+2026-11-01T17:44:30Z,cxz12dxzc1ed/Annoy-PyEdu-Rs,cxz12dxzc1ed,0,0,region:us
+2026-11-01T17:44:31Z,cxz12dxzc1ed/Annoy-PyEdu-Rs-Raw,cxz12dxzc1ed,0,0,region:us
+2026-11-01T17:44:45Z,ASD21DWSA/Annoy-PyEdu-Rs,ASD21DWSA,0,0,region:us
+2026-11-01T17:44:46Z,ASD21DWSA/Annoy-PyEdu-Rs-Raw,ASD21DWSA,0,0,region:us
+2026-11-01T17:44:49Z,wd01216-bit/lcvn-encrypted-transfer-20261102,wd01216-bit,0,0,region:us
+2026-11-01T17:46:13Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-01T17:48:16Z,AINovice2005/c4-transformed-clickhouse,AINovice2005,0,0,region:us
+2026-11-01T17:50:02Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,region:us
+2026-11-01T17:50:04Z,asd1dsa21/Annoy-PyEdu-Rs,asd1dsa21,0,0,region:us
+2026-11-01T17:50:05Z,asd1dsa21/Annoy-PyEdu-Rs-Raw,asd1dsa21,0,0,region:us
+2026-11-01T17:50:33Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,region:us
+2026-11-01T17:50:41Z,HueyWoo/lekiwi_pick_redcube_place_1102,HueyWoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-01T17:52:00Z,Heroshhdj/fileschace,Heroshhdj,0,0,region:us
+2026-11-01T17:52:12Z,CrowdMind/cve-assistant-text,CrowdMind,0,0,task_categories:text-generation; language:en; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; text; single-…
+2026-11-01T17:52:19Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-11-01T17:53:13Z,thxlxooo/olist-brazil-ecommerce-data,thxlxooo,0,1,region:us
+2026-11-01T17:54:17Z,Lelonthecodeur/agent-task-management-dataset,Lelonthecodeur,0,1,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars;…
+2026-11-01T17:54:17Z,jakeatx/qwen3.8-27b-Swift1.5-Uncensored-ATX-AI2-LCB-KLD,jakeatx,0,0,language:en; license:other; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us; livecodebench; kld; quantization; gguf; qwen3.8; swift-1.5
+2026-11-01T17:58:38Z,saurabh1043/asset-probe-bb7d91c8,saurabh1043,0,0,task_categories:text-to-speech; language:bn; language:en; language:hi; language:ta; language:te; license:other; region:us
+2026-11-01T18:06:08Z,VMuccio/rgb_cleaned_pos,VMuccio,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-01T18:07:28Z,qownscks/cube,qownscks,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-01T18:07:56Z,PhillyWeatherGuy/baroclinic-era5-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-11-01T18:10:43Z,thaki-AI/daily-paper-2026-11-02-compact-debt-context-compaction-kv-cache,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; context-compaction; kv-prefix-caching; cache-invalidation; re-prefill-cost; long-horizon-agent-loops; token-cost-optimization; h200-serving
+2026-11-01T18:13:57Z,youraitools/x402-api-directory,youraitools,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; x402; ai-agents; api; payments; upt…
+2026-11-01T18:15:48Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-01T18:15:48Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-01T18:18:24Z,CrowdMind/bucket,CrowdMind,0,0,region:us
+2026-11-01T18:19:37Z,plaws/prostitution-laws-by-country,plaws,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; law; legal; comparative-law; criminal-law; prostitution; sex-work; public-policy; country-level
