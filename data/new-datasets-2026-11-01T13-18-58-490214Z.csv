@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T12:20:38Z,draven-alg/real-world-data,draven-alg,0,0,language:en; language:zh; size_categories:n<1K; region:us; robotics; teleoperation; manipulation; franka; gello
+2026-11-01T12:20:43Z,harrywilliam335/phantom-app-referral-code-join100-quick-mobile-setup-solana-network-fee-savings,harrywilliam335,0,0,region:us
+2026-11-01T12:21:03Z,sddddd22/Annoy-PyEdu-Rs,sddddd22,0,0,region:us
+2026-11-01T12:21:04Z,sddddd22/Annoy-PyEdu-Rs-Raw,sddddd22,0,0,region:us
+2026-11-01T12:23:29Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-11-01T12:23:30Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-11-01T12:23:57Z,harrywilliam335/phantom-app-referral-code-bonus100-fast-mobile-account-creation-reward-claim,harrywilliam335,0,0,region:us
+2026-11-01T12:24:29Z,anandtherattil/test,anandtherattil,0,0,region:us
+2026-11-01T12:24:33Z,LeonYe/pathology-foundation-features,LeonYe,0,0,region:us
+2026-11-01T12:24:53Z,cardhunt/pokemon-cards-worth-grading,cardhunt,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-01T12:25:00Z,danieltombay/siliconshield-rtl-benchmark,danieltombay,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; hardware-security; rtl-verification; systemverilog
+2026-11-01T12:25:41Z,WinterPan/video,WinterPan,0,0,task_categories:video-to-video; language:en; language:zh; region:us
+2026-11-01T12:26:14Z,harrywilliam335/phantom-app-referral-code-welcome10-mobile-app-signup-direct-welcome-bonus-guide,harrywilliam335,0,0,region:us
+2026-11-01T12:30:33Z,harrywilliam335/phantom-app-referral-code-get100-instant-wallet-linking-mobile-promo-tutorial,harrywilliam335,0,0,region:us
+2026-11-01T12:30:40Z,ivan197511/ego_dataset3,ivan197511,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-01T12:31:13Z,Tree-AI-lab/kouman-situations-conseils-13k,Tree-AI-lab,0,0,task_categories:text-generation; task_categories:question-answering; language:fr; language:bci; language:dyu; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text;…
+2026-11-01T12:31:52Z,harrywilliam335/phantom-app-referral-code-cashback100-unlock-exclusive-mobile-cashbacks-lower-fees,harrywilliam335,0,0,region:us
+2026-11-01T12:32:17Z,PureOne/Qeirun-Boundary-Pair-Run-Length-Grammar-Access,PureOne,0,0,language:en; region:us; theoretical-computer-science; data-structures; grammar-compression; run-length-grammars; random-access; cell-probe; lower-bounds; reproducible-research; mathematics
+2026-11-01T12:33:53Z,massaindustries/data-farm-tester-ood-v3,massaindustries,0,0,task_categories:text-generation; task_categories:table-question-answering; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; libra…
+2026-11-01T12:34:20Z,harrywilliam335/pump-fun-app-referral-code-join100-how-to-get-started-explore-app-features,harrywilliam335,0,0,region:us
+2026-11-01T12:36:10Z,harrywilliam335/pump-fun-app-referral-code-best100-complete-mobile-registration-app-usage-guide,harrywilliam335,0,0,region:us
+2026-11-01T12:37:19Z,xcxvvvb55/Annoy-PyEdu-Rs,xcxvvvb55,0,0,region:us
+2026-11-01T12:37:20Z,xcxvvvb55/Annoy-PyEdu-Rs-Raw,xcxvvvb55,0,0,region:us
+2026-11-01T12:37:47Z,harrywilliam335/pump-fun-app-referral-code-flat100-how-to-set-up-your-wallet-navigate-the-app,harrywilliam335,0,0,region:us
+2026-11-01T12:40:10Z,harrywilliam335/pump-fun-app-referral-code-cashback100-exploring-app-rewards-mobile-trading-features,harrywilliam335,0,0,region:us
+2026-11-01T12:40:57Z,CybroatriX/shanks-v2-dataset,CybroatriX,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T12:41:20Z,bathrlor/DynamicVLA-DOM-Validation-Videos,bathrlor,0,0,task_categories:robotics; license:other; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; dynamicvla; isaac-sim; isaac-lab; vision-language-action; manipula…
+2026-11-01T12:42:49Z,harrywilliam335/pump-fun-app-referral-code-gift100-easy-app-registration-guide-for-beginners,harrywilliam335,0,0,region:us
+2026-11-01T12:43:31Z,Sereints/FindLink,Sereints,0,1,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; libr…
+2026-11-01T12:44:03Z,unparallelled/lc-mixwin-data-2026-11-01,unparallelled,0,0,region:us
+2026-11-01T12:44:16Z,eeeeerrrr4/Annoy-PyEdu-Rs,eeeeerrrr4,0,0,region:us
+2026-11-01T12:44:17Z,eeeeerrrr4/Annoy-PyEdu-Rs-Raw,eeeeerrrr4,0,0,region:us
+2026-11-01T12:45:28Z,TianfuXinqu/filesystem-huggingface-terminal-snowflake-5102-sales-report-08qaaw,TianfuXinqu,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-01T12:46:30Z,logicmatters06/agrimitra-dataset,logicmatters06,0,0,region:us
+2026-11-01T12:47:32Z,dfdfdgghh677/Annoy-PyEdu-Rs,dfdfdgghh677,0,0,region:us
+2026-11-01T12:47:32Z,dfdfdgghh677/Annoy-PyEdu-Rs-Raw,dfdfdgghh677,0,0,region:us
+2026-11-01T12:47:58Z,WZYDL123/humanpose,WZYDL123,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-01T12:47:59Z,harrywilliam335/pump-fun-app-referral-code-fun100-how-to-create-an-account-use-the-mobile-app,harrywilliam335,0,0,region:us
+2026-11-01T12:48:46Z,not-coder2006/my_database1,not-coder2006,0,0,region:us
+2026-11-01T12:49:25Z,Tina1114/cup_pyramid_lerobot_v30,Tina1114,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-01T12:49:52Z,harrywilliam335/pump-fun-app-referral-code-cut100-understanding-trading-fees-app-settings,harrywilliam335,0,0,region:us
+2026-11-01T12:50:42Z,ZzwahwahzZ/clash-of-legends-assets,ZzwahwahzZ,0,2,region:us
+2026-11-01T12:52:20Z,harrywilliam335/pump-fun-app-referral-code-get10-step-by-step-app-installation-registration-guide,harrywilliam335,0,0,region:us
+2026-11-01T12:53:43Z,harrywilliam335/pump-fun-app-referral-code-get25-how-to-connect-your-wallet-use-app-features,harrywilliam335,0,0,region:us
+2026-11-01T12:55:52Z,LinteAI/lintenomy-starlink-laser-routing,LinteAI,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-01T12:57:48Z,Naksh-krim/hindi-tts-blind-listen,Naksh-krim,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-01T12:58:39Z,harrywilliam335/pump-fun-app-referral-code-get5-quick-mobile-app-setup-for-first-time-users,harrywilliam335,0,0,region:us
+2026-11-01T12:59:33Z,Dario-Shit0/dataset-02ed5511aac28d6b974a12dbdb623e4c,Dario-Shit0,0,0,region:us
+2026-11-01T12:59:36Z,matthewsze/3dgsPly,matthewsze,0,0,region:us
+2026-11-01T13:00:56Z,Ajeet-001/embeddinggemma2-decision-index-results,Ajeet-001,0,0,region:us
+2026-11-01T13:01:07Z,TianfuXinqu/filesystem_terminal_huggingface_12730_t2o7ay_support_ops,TianfuXinqu,0,0,region:us
+2026-11-01T13:01:08Z,TianfuXinqu/filesystem_terminal_huggingface_12730_zwuwqy_support_ops,TianfuXinqu,0,0,region:us
+2026-11-01T13:01:59Z,stupid-zwl/JDI-Decision-V1.1,stupid-zwl,0,0,region:us
+2026-11-01T13:02:21Z,ghanaopenai/ghana-search-queries-responses,ghanaopenai,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; ghana; conversational-qa; search-queries; question-answerin…
+2026-11-01T13:02:23Z,ghanaopenai/ghana-search-queries-responses-audio,ghanaopenai,0,0,task_categories:question-answering; task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; ghana; speech…
+2026-11-01T13:03:05Z,ailab-agenteval/Annoy-PyEdu-Rs,ailab-agenteval,0,0,region:us
+2026-11-01T13:03:07Z,ailab-agenteval/Annoy-PyEdu-Rs-Raw,ailab-agenteval,0,0,region:us
+2026-11-01T13:04:07Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t0.5_g10_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T13:05:41Z,omerfaksoy/avesis,omerfaksoy,0,0,region:us
+2026-11-01T13:07:17Z,TomasAnderegg/pill_sorting_colour_direct_mix_v1,TomasAnderegg,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-01T13:12:22Z,Hongliang12/lerobot_hongliang_SO101_1,Hongliang12,0,0,license:mit; region:us
+2026-11-01T13:12:24Z,asjdasdjasdjk123/rollout_place-blackcube-corrections3,asjdasdjasdjk123,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-01T13:12:42Z,thanatchon36/llm-home-bias,thanatchon36,0,0,task_categories:text-generation; language:en; language:zh; language:fr; language:th; license:cc-by-4.0; size_categories:1K<n<10K; region:us; llm-evaluation; bias; home-bias; finance; portfolio-alloca…
+2026-11-01T13:15:58Z,halen1/tiny_shakespeare,halen1,0,0,region:us
+2026-11-01T13:17:32Z,quranicVerse/quranicverse-content,quranicVerse,0,0,region:us
