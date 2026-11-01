@@ -1,0 +1,87 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T22:22:52Z,Sshawnin/raiden_midtraining_uw_eval_videos,Sshawnin,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T22:24:21Z,dhruv0208/kfm-checkpoints,dhruv0208,0,0,region:us
+2026-11-01T22:24:32Z,readoutbench/readoutbench-r1,readoutbench,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T22:28:06Z,phatle78794/redwood,phatle78794,0,0,region:us
+2026-11-01T22:29:40Z,aptologia/arriendo-apartamento-1-habitaciones-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bedrooms; bogota
+2026-11-01T22:29:44Z,aptologia/arriendo-apartamento-2-habitaciones-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bedrooms; bogota
+2026-11-01T22:29:48Z,aptologia/arriendo-apartamento-2-habitaciones-cali-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bedrooms; cali
+2026-11-01T22:29:51Z,aptologia/arriendo-apartamento-3-habitaciones-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; bedrooms; bogota
+2026-11-01T22:30:23Z,aptologia/visitas-portal-vivienda-por-origen-ia-google-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; ai-referrals; seo
+2026-11-01T22:30:30Z,aptologia/visitas-vivienda-por-ciudad-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; demand
+2026-11-01T22:30:32Z,antran42862/navigation,antran42862,0,0,region:us
+2026-11-01T22:30:36Z,aptologia/visitas-vivienda-por-zona-bogota-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; bogota
+2026-11-01T22:30:40Z,aptologia/visitas-vivienda-por-zona-cali-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; cali
+2026-11-01T22:31:19Z,aptologia/visitas-vivienda-por-zona-medellin-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; medellin
+2026-11-01T22:32:22Z,hieuvo24928/tram,hieuvo24928,0,0,region:us
+2026-11-01T22:33:44Z,pdion/test3_20261101_173130,pdion,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-01T22:34:18Z,trangnguyen20059/flyover,trangnguyen20059,0,0,region:us
+2026-11-01T22:34:35Z,zxe1905/LTC_545,zxe1905,0,0,region:us
+2026-11-01T22:36:14Z,kienhoang96043/ridge,kienhoang96043,0,0,region:us
+2026-11-01T22:36:42Z,anotona-music/music-theory-terms-100-languages,anotona-music,0,0,task_categories:translation; multilinguality:multilingual; language:af; language:am; language:ar; language:az; language:be; language:bg; language:bn; language:bs; language:ca; language:ceb; language:…
+2026-11-01T22:37:57Z,dungpham30750/headland,dungpham30750,0,0,region:us
+2026-11-01T22:39:06Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-11-01T22:39:10Z,hieuhuynh12799/estuary,hieuhuynh12799,0,0,region:us
+2026-11-01T22:39:36Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-11-01T22:40:39Z,shrubs-eats-barrel/ds-7c7040169b166a9d,shrubs-eats-barrel,0,0,region:us
+2026-11-01T22:41:19Z,khoaly31370/iris,khoaly31370,0,0,region:us
+2026-11-01T22:42:57Z,nganly95394/hydrofoil,nganly95394,0,0,region:us
+2026-11-01T22:43:54Z,etiennegodin/inat_cv_pheno,etiennegodin,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T22:44:31Z,thaovu4351/iguana,thaovu4351,0,0,region:us
+2026-11-01T22:44:50Z,SDAD112EDS/Annoy-PyEdu-Rs,SDAD112EDS,0,0,region:us
+2026-11-01T22:44:51Z,SDAD112EDS/Annoy-PyEdu-Rs-Raw,SDAD112EDS,0,0,region:us
+2026-11-01T22:44:58Z,aptologia/serie-diaria-interes-vivienda-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; time-series; web-traffic; demand
+2026-11-01T22:45:03Z,aptologia/visitas-asistentes-ia-vivienda-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; ai-referrals; web-traffic; llm
+2026-11-01T22:45:08Z,aptologia/visitas-vivienda-por-tipo-de-pagina-colombia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; demand
+2026-11-01T22:45:51Z,aptologia/visitas-vivienda-por-zona-barranquilla-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; barranquilla
+2026-11-01T22:46:12Z,datho34408/hyperdrive,datho34408,0,0,region:us
+2026-11-01T22:46:46Z,aptologia/visitas-vivienda-por-zona-bucaramanga-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; bucaramanga
+2026-11-01T22:46:55Z,aptologia/visitas-vivienda-por-zona-chia-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; chia
+2026-11-01T22:47:00Z,aptologia/visitas-vivienda-por-zona-rionegro-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; rionegro
+2026-11-01T22:47:11Z,aptologia/visitas-vivienda-por-zona-soacha-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; soacha
+2026-11-01T22:47:27Z,motif42/imagebench-judge-study,motif42,0,0,task_categories:image-classification; task_categories:object-detection; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:image; modality:text; library:datasets; library:…
+2026-11-01T22:47:44Z,tranghoang16900/submarine,tranghoang16900,0,0,region:us
+2026-11-01T22:47:47Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-01T22:47:47Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-01T22:49:16Z,dungphan17068/plasma,dungphan17068,0,0,region:us
+2026-11-01T22:50:49Z,solanaminter/beam-procurement-benchmark,solanaminter,0,0,language:en; license:cc-by-4.0; region:us; tool-calling; procurement; benchmark; agentic
+2026-11-01T22:50:58Z,thaoduong55709/wetland,thaoduong55709,0,0,region:us
+2026-11-01T22:52:25Z,datle20550/riparian,datle20550,0,0,region:us
+2026-11-01T22:52:31Z,pokeetest/Annoy-PyEdu-Rs-Raw,pokeetest,0,0,region:us
+2026-11-01T22:52:31Z,pokeetest/Annoy-PyEdu-Rs,pokeetest,0,0,region:us
+2026-11-01T22:55:04Z,hieuly44430/photosphere,hieuly44430,0,0,region:us
+2026-11-01T22:55:56Z,junior-zero/hello_world,junior-zero,0,1,license:gfdl; region:us
+2026-11-01T22:57:13Z,dungvu11581/turbofan,dungvu11581,0,0,region:us
+2026-11-01T22:59:06Z,hieuvu89298/geothermal,hieuvu89298,0,0,region:us
+2026-11-01T23:00:30Z,savethisok/d-36a6d7128482c2df,savethisok,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T23:00:35Z,aptologia/visitas-vivienda-por-zona-cartagena-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; cartagena
+2026-11-01T23:00:40Z,aptologia/visitas-vivienda-por-zona-cucuta-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; cucuta
+2026-11-01T23:00:43Z,aptologia/visitas-vivienda-por-zona-manizales-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; manizales
+2026-11-01T23:00:50Z,phatpham67406/olive,phatpham67406,0,0,region:us
+2026-11-01T23:00:58Z,aptologia/visitas-vivienda-por-zona-neiva-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; neiva
+2026-11-01T23:01:04Z,aptologia/visitas-vivienda-por-zona-pereira-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; region:us; real-estate; housing; rental-market; colombia; web-traffic; pereira
+2026-11-01T23:01:35Z,rasyosef/open-perfectblend_K2-Horizon-7B,rasyosef,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T23:02:56Z,khanhtran42731/blossom,khanhtran42731,0,0,region:us
+2026-11-01T23:05:43Z,sleeping4cat/Apple-Podcast,sleeping4cat,0,0,region:us
+2026-11-01T23:06:38Z,phatvu59322/railcar,phatvu59322,0,0,region:us
+2026-11-01T23:08:29Z,dathoang12264/pollen,dathoang12264,0,0,region:us
+2026-11-01T23:08:32Z,rahim237cm/jurix-documents,rahim237cm,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-01T23:09:50Z,cppmai/thesis,cppmai,0,0,region:us
+2026-11-01T23:10:39Z,dathuynh43390/ceres,dathuynh43390,0,0,region:us
+2026-11-01T23:10:41Z,Nomercy24189/gdelt-gkg-v1-names-2013,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T23:11:08Z,Nomercy24189/gdelt-gkg-v1-names-2014,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T23:11:09Z,Nomercy24189/gdelt-gkg-v1-names-2015,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T23:11:26Z,VeduisWeb/mcp-server-directory,VeduisWeb,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:zero-shot-classification; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library…
+2026-11-01T23:11:52Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-01T23:11:52Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-01T23:12:17Z,todopueblos/apellidos-mas-comunes-espana-top100,todopueblos,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T23:12:20Z,anvo30418/seismic,anvo30418,0,0,region:us
+2026-11-01T23:14:09Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.0_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T23:14:10Z,khoadang1093/rye,khoadang1093,0,0,region:us
+2026-11-01T23:14:27Z,montessoritheory/us-montessori-private-schools,montessoritheory,0,0,source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; modality:tabular; region:us; montessori; education; private-schools; early-childhood; nces;…
+2026-11-01T23:14:33Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-11-01T23:14:34Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-11-01T23:16:07Z,skeletonsword/fonetica-cv27-wav,skeletonsword,0,0,task_categories:audio-to-audio; task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:es; license:cc0-1.0; size_categories:100K<n<1M; modality:audio; region:us; audio…
+2026-11-01T23:16:13Z,anhvo61944/whale,anhvo61944,0,0,region:us
+2026-11-01T23:18:43Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-11-01T23:18:48Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
