@@ -1,0 +1,96 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T01:20:43Z,YuhangW327/GPS_Reconstruction,YuhangW327,0,0,license:cc-by-4.0; region:us
+2026-11-01T01:20:59Z,zyxtai/pick_up_the_green_block_merged,zyxtai,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-01T01:22:32Z,praticidade/praticidade-index-2026-1,praticidade,0,0,language:pt; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; w…
+2026-11-01T01:23:01Z,thaole26239/aldebaran,thaole26239,0,0,region:us
+2026-11-01T01:23:48Z,g1n0st/313fc30f805b028b4701d934ab2c7a0000d326b6,g1n0st,0,0,region:us
+2026-11-01T01:26:24Z,phuongle15268/nectar,phuongle15268,0,0,region:us
+2026-11-01T01:27:02Z,binhtran86158/lichen,binhtran86158,0,0,region:us
+2026-11-01T01:27:41Z,phatphan48881/coronal,phatphan48881,0,0,region:us
+2026-11-01T01:28:03Z,origin-data-lab/stereo-calibration-sensor-mode-mismatch-diagnosis,origin-data-lab,0,0,license:cc-by-4.0; size_categories:10K<n<100K; region:us; stereo; calibration; epipolar; data-quality
+2026-11-01T01:29:50Z,dunghoang5462/orchid,dunghoang5462,0,0,region:us
+2026-11-01T01:31:04Z,SACXZ12DSA/Annoy-PyEdu-Rs,SACXZ12DSA,0,0,region:us
+2026-11-01T01:31:05Z,SACXZ12DSA/Annoy-PyEdu-Rs-Raw,SACXZ12DSA,0,0,region:us
+2026-11-01T01:31:24Z,ASD1DSZD/Annoy-PyEdu-Rs,ASD1DSZD,0,0,region:us
+2026-11-01T01:31:25Z,ASD1DSZD/Annoy-PyEdu-Rs-Raw,ASD1DSZD,0,0,region:us
+2026-11-01T01:31:26Z,SAD123EDSA/Annoy-PyEdu-Rs,SAD123EDSA,0,0,region:us
+2026-11-01T01:31:26Z,DSCXZ12DSA/Annoy-PyEdu-Rs,DSCXZ12DSA,0,0,region:us
+2026-11-01T01:31:29Z,SAD123EDSA/Annoy-PyEdu-Rs-Raw,SAD123EDSA,0,0,region:us
+2026-11-01T01:31:29Z,DSCXZ12DSA/Annoy-PyEdu-Rs-Raw,DSCXZ12DSA,0,0,region:us
+2026-11-01T01:31:52Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-11-01T01:31:53Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-11-01T01:34:59Z,Silicon23/static-scenes-v001-build-inputs,Silicon23,0,0,region:us
+2026-11-01T01:36:11Z,omerfaksoy/pdfs-100_3,omerfaksoy,0,0,region:us
+2026-11-01T01:36:31Z,phathoang68780/volcano,phathoang68780,0,0,region:us
+2026-11-01T01:38:09Z,TonyLxx/jeanne-inpaint,TonyLxx,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-01T01:38:32Z,origin-data-lab/imu-noise-bias-static-characterization-stereo-imu-rig,origin-data-lab,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; imu; allan-deviation; sensor-characterization; vio
+2026-11-01T01:38:47Z,g1n0st/15ab59c7292e96c39752e64a98cfa214bdc64c83,g1n0st,0,0,region:us
+2026-11-01T01:38:51Z,g1n0st/94db485022e72375175c403bb0239a7fdc3af3e3,g1n0st,0,0,region:us
+2026-11-01T01:38:55Z,g1n0st/a6c8d36db9986f87d2d9bd3a2e8ca6a9b5d17168,g1n0st,0,0,region:us
+2026-11-01T01:39:08Z,JosephzBiosniper/biotech-catalyst-benchmark,JosephzBiosniper,0,0,language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biotech; pharma; fda; pd…
+2026-11-01T01:39:17Z,g1n0st/bc8698e1404db68260fc5e64c16af91bf5df5286,g1n0st,0,0,region:us
+2026-11-01T01:39:17Z,g1n0st/d3db43aa7595b7bc118bec3b8b74853e33726b89,g1n0st,0,0,region:us
+2026-11-01T01:39:19Z,g1n0st/02d10ae4b170f639fe9dda4f02b3cd0985d291de,g1n0st,0,0,region:us
+2026-11-01T01:39:50Z,SDoyez/ShapeNet_cleaned,SDoyez,0,0,region:us
+2026-11-01T01:40:27Z,phatduong69119/cruiser,phatduong69119,0,0,region:us
+2026-11-01T01:42:11Z,nganhoang74631/stoma,nganhoang74631,0,0,region:us
+2026-11-01T01:44:17Z,g1n0st/cfaf3f54ebeadf6a56a2da8e83b16cfa99127346,g1n0st,0,0,region:us
+2026-11-01T01:44:52Z,nightly-wave/7e4dff9f,nightly-wave,0,0,region:us
+2026-11-01T01:46:47Z,g1n0st/21cf32ad259e62d566813c5a84600bc13430b10e,g1n0st,0,0,region:us
+2026-11-01T01:47:17Z,g1n0st/dd68b23cde1cbe6b343aae34ab6acdeb480191e3,g1n0st,0,0,region:us
+2026-11-01T01:47:19Z,antran37352/walnut,antran37352,0,0,region:us
+2026-11-01T01:48:48Z,AnchorTerminal/grades,AnchorTerminal,0,1,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-agents; mc…
+2026-11-01T01:50:56Z,xcc12ds21313/Annoy-PyEdu-Rs,xcc12ds21313,0,0,region:us
+2026-11-01T01:50:57Z,xcc12ds21313/Annoy-PyEdu-Rs-Raw,xcc12ds21313,0,0,region:us
+2026-11-01T01:52:22Z,medicsail/healthcare-registration-fees-2026-uk-eu-usa,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:52:27Z,medicsail/eu-blue-card-salary-thresholds-healthcare,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; income;…
+2026-11-01T01:52:29Z,medicsail/healthcare-english-test-requirements-by-regulator,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:52:38Z,medicsail/healthcare-licensing-immigration-glossary,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; education; e…
+2026-11-01T01:52:41Z,medicsail/healthcare-pay-scales-by-country,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; income;…
+2026-11-01T01:52:44Z,medicsail/healthcare-registration-guides-index,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; education; europ…
+2026-11-01T01:52:46Z,medicsail/healthcare-registration-timelines-by-regulator,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:52:54Z,medicsail/healthcare-regulator-fee-schedules,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; united-s…
+2026-11-01T01:52:59Z,medicsail/healthcare-regulators-by-country-and-profession,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; united-s…
+2026-11-01T01:53:02Z,medicsail/hospitals-hiring-international-health-staff,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; united-s…
+2026-11-01T01:53:05Z,qiusizhan/Watch-OA-runtime-v3,qiusizhan,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; backdoor-detection; runtime-monitoring; llm-agents; we…
+2026-11-01T01:53:08Z,medicsail/ireland-hse-salary-scales-2026,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:53:10Z,medicsail/nhs-agenda-for-change-pay-bands-2026,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:53:12Z,medicsail/uk-health-care-worker-visa-costs-2026,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; governme…
+2026-11-01T01:53:14Z,medicsail/uk-ireland-settlement-rules-health-workers,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health; europe; governme…
+2026-11-01T01:53:16Z,medicsail/uk-sponsorship-salary-thresholds-healthcare,medicsail,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; healthcare; health…
+2026-11-01T01:53:28Z,g1n0st/3b28930bc8e541fb95c2ed361c38b1899a66912b,g1n0st,0,0,region:us
+2026-11-01T01:53:47Z,hieupham57341/quasar,hieupham57341,0,0,region:us
+2026-11-01T01:54:28Z,efwkjn/asr-ja-bench-copy,efwkjn,0,0,language:ja; region:us
+2026-11-01T01:55:45Z,phuongpham22127/darkenergy,phuongpham22127,0,0,region:us
+2026-11-01T01:56:38Z,calisolo/dl3dv-processed,calisolo,0,0,region:us
+2026-11-01T01:57:42Z,phuongduong5718/marsh,phuongduong5718,0,0,region:us
+2026-11-01T01:58:50Z,axiong/MultiHop-EgoQA-train-annotations,axiong,0,0,license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T01:59:08Z,axiong/GroundVQA-data,axiong,0,0,region:us
+2026-11-01T01:59:13Z,axiong/VideoMind-egoqa-train-annotations,axiong,0,0,license:bsd-3-clause; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T01:59:20Z,axiong/VideoMind-HiREST-3fps-480-train,axiong,0,0,license:bsd-3-clause; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T01:59:54Z,anle7857/pier,anle7857,0,0,region:us
+2026-11-01T02:01:33Z,khanhtran4124/cumulus,khanhtran4124,0,0,region:us
+2026-11-01T02:01:39Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-01T02:01:39Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-01T02:02:32Z,khanhngo8187/transport,khanhngo8187,0,0,region:us
+2026-11-01T02:03:01Z,thinhhoang7186/nebular,thinhhoang7186,0,0,region:us
+2026-11-01T02:04:00Z,SeanWang0027/cs412-reddit-transportation,SeanWang0027,0,0,task_categories:text-classification; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-11-01T02:05:02Z,hieupham89386/sailboat,hieupham89386,0,0,region:us
+2026-11-01T02:06:53Z,thanhle55055/trajectory,thanhle55055,0,0,region:us
+2026-11-01T02:08:16Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t0.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T02:08:27Z,B111ue/tdt-gen-cup-policy-rig12-expert-v2-20261101,B111ue,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T02:08:51Z,dathoang43476/autopilot,dathoang43476,0,0,region:us
+2026-11-01T02:08:56Z,B111ue/tdt-gen-cup-policy-rig12-expert-v2g-20261101,B111ue,0,0,region:us
+2026-11-01T02:09:20Z,B111ue/tdt-gen-cup-policy-rig12-t1-v2-20261101,B111ue,0,0,region:us
+2026-11-01T02:09:34Z,B111ue/tdt-gen-cup-policy-rig12-t1-v2g-20261101,B111ue,0,0,region:us
+2026-11-01T02:10:42Z,binhle16986/radiance,binhle16986,0,0,region:us
+2026-11-01T02:10:46Z,rafaeljose/table-inf_v21,rafaeljose,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T02:11:05Z,phuongvu74122/cherry,phuongvu74122,0,0,region:us
+2026-11-01T02:12:37Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-01T02:12:39Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-01T02:12:41Z,nganly59680/drone,nganly59680,0,0,region:us
+2026-11-01T02:13:13Z,jv-costa/base-inf,jv-costa,0,0,region:us
+2026-11-01T02:15:37Z,cuongdang79086/nectar,cuongdang79086,0,0,region:us
+2026-11-01T02:16:37Z,jv-costa/table-inf,jv-costa,0,0,region:us
+2026-11-01T02:16:51Z,g1n0st/048de987081793822c9cf34fb187eae6f5e252df,g1n0st,0,0,region:us
+2026-11-01T02:17:16Z,nganngo46110/trout,nganngo46110,0,0,region:us
