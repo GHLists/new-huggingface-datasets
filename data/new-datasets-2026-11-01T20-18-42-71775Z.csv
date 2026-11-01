@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-01T19:19:28Z,sigiranic/gilaki-persian-poetry,sigiranic,0,0,task_categories:translation; multilinguality:translation; language:glk; language:fa; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; lib…
+2026-11-01T19:21:25Z,geodesicpartners/ml-coding-interview-problems,geodesicpartners,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; co…
+2026-11-01T19:22:18Z,gagandeepreehal/indus-ad-monocam-raw,gagandeepreehal,0,0,task_categories:robotics; annotations_creators:no-annotation; source_datasets:original; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; libra…
+2026-11-01T19:22:30Z,diagogogo/ds-37baf86f18a950d8,diagogogo,0,0,region:us
+2026-11-01T19:22:48Z,adegier/tokenizer-fertility-pl,adegier,0,0,language:pl; language:en; language:es; language:fr; language:pt; language:it; language:nl; language:de; language:da; language:sv; language:ro; language:ga; language:cs; language:sl; language:hr; lang…
+2026-11-01T19:25:15Z,minefarts/philh-myftp-biz_LFS,minefarts,0,0,region:us
+2026-11-01T19:30:04Z,gagandeepreehal/indus-ad-3d-raw,gagandeepreehal,0,0,task_categories:robotics; annotations_creators:no-annotation; source_datasets:original; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; libra…
+2026-11-01T19:30:15Z,tyrant1045/adyghe-inflection-unimorph,tyrant1045,0,0,task_categories:text-generation; language:ady; license:cc-by-sa-3.0; size_categories:10K<n<100K; region:us; adyghe; morphology; unimorph; inflection; qlora
+2026-11-01T19:32:13Z,WideChaos/rejected-check-audit,WideChaos,0,0,language:en; language:zh; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; evaluation…
+2026-11-01T19:32:25Z,PhillyWeatherGuy/baroclinic-era5-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-11-01T19:33:39Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t1.0_g2_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T19:34:38Z,seandavis/bioconice,seandavis,0,0,license:other; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; genomics; bioinfor…
+2026-11-01T19:35:14Z,Nomercy24189/gdelt-gkg-allnames-2015,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:35:37Z,Nomercy24189/gdelt-gkg-allnames-2016,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:35:43Z,Nomercy24189/gdelt-gkg-allnames-2017,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:35:51Z,Nomercy24189/gdelt-gkg-allnames-2018,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:35:53Z,Nomercy24189/gdelt-gkg-allnames-2019,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:35:59Z,Nomercy24189/gdelt-gkg-allnames-2020,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:03Z,Nomercy24189/gdelt-gkg-allnames-2021,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:07Z,Nomercy24189/gdelt-gkg-allnames-2022,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:10Z,Nomercy24189/gdelt-gkg-allnames-2023,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:11Z,Nomercy24189/gdelt-gkg-allnames-2024,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:12Z,Nomercy24189/gdelt-gkg-allnames-2025,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:13Z,Nomercy24189/gdelt-gkg-allnames-2026,Nomercy24189,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; gdelt; gkg; named-entities; news
+2026-11-01T19:36:14Z,robodata-lab/robodojo-gpt61-terra-revised-220-20261101,robodata-lab,0,0,language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; robodojo; evaluation; agen…
+2026-11-01T19:38:11Z,atasoglu/turkish-emotional-speech-11h,atasoglu,0,0,task_categories:text-to-speech; task_categories:audio-classification; task_categories:automatic-speech-recognition; task_categories:text-classification; task_categories:text-to-audio; task_ids:audio-…
+2026-11-01T19:38:13Z,BelugaDataSetCoder/my-dataset,BelugaDataSetCoder,0,1,license:mit; region:us
+2026-11-01T19:38:53Z,Quantumbraid/loragalore,Quantumbraid,0,0,region:us
+2026-11-01T19:39:33Z,vramneeded/llm-vram-requirements,vramneeded,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-01T19:40:44Z,Sweepydoopyy/PokemonInfiniteFusion,Sweepydoopyy,0,0,license:apache-2.0; region:us
+2026-11-01T19:42:24Z,LeeHakHo/square_real100,LeeHakHo,0,0,task_categories:robotics; license:mit; region:us; imitation-learning; robomimic; franka; real-robot; nut-assembly
+2026-11-01T19:43:45Z,omerfaksoy/libra,omerfaksoy,0,0,region:us
+2026-11-01T19:44:38Z,Ahmed-Nasri/tivtv-frames-tvbench,Ahmed-Nasri,0,0,region:us
+2026-11-01T19:45:02Z,LeeHakHo/pickplace_real101,LeeHakHo,0,0,task_categories:robotics; license:mit; region:us; imitation-learning; robomimic; franka; real-robot; pick-and-place
+2026-11-01T19:45:17Z,kmkinglucky/modellens-assets,kmkinglucky,0,0,license:unknown; region:us
+2026-11-01T19:45:47Z,LeeHakHo/pickplace_real100,LeeHakHo,0,0,task_categories:robotics; license:mit; region:us; imitation-learning; robomimic; franka; real-robot; pick-and-place
+2026-11-01T19:49:22Z,yypeng666/reanchor-conveyor-static-ikabs-v2,yypeng666,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-01T19:50:07Z,AfriSpeech/lds-african-speech,AfriSpeech,0,0,task_categories:automatic-speech-recognition; language:fat; language:swa; language:twi; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datase…
+2026-11-01T19:51:06Z,GSMB/aya-multilingual-refusal-prompts,GSMB,0,0,language:en; language:es; language:hi; language:ar; language:bn; language:ta; language:sw; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; libra…
+2026-11-01T19:51:19Z,GSMB/aya-refusal-circuit-logs,GSMB,0,0,region:us
+2026-11-01T19:54:41Z,slaker666/g,slaker666,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-11-01T19:55:36Z,sw-voice/swamiji-bhagavatam-telugu-reuse-themes,sw-voice,0,0,task_categories:text-to-speech; language:te; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-11-01T19:57:22Z,0xKai/mirador-core0,0xKai,0,0,region:us
+2026-11-01T19:57:25Z,MagmaStudios/VERO-Mini-Training,MagmaStudios,0,0,region:us
+2026-11-01T19:57:26Z,yappman/serbia-grocery-price-lists-sample-2026-11-01,yappman,0,0,language:sr; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; prices; retail; grocer…
+2026-11-01T19:58:06Z,ASDCXZ12E/Annoy-PyEdu-Rs-Raw,ASDCXZ12E,0,0,region:us
+2026-11-01T19:58:06Z,ASDCXZ12E/Annoy-PyEdu-Rs,ASDCXZ12E,0,0,region:us
+2026-11-01T19:58:07Z,BernardoDev07/ifood-pedidos-intent-ptbr,BernardoDev07,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-01T20:00:09Z,Olbicik/aworlds,Olbicik,0,0,region:us
+2026-11-01T20:00:15Z,savethisok/d-e9c2590d54e5f9b0,savethisok,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-01T20:00:44Z,sw-voice/swamiji-datta-maata-telugu-reuse-themes,sw-voice,0,0,task_categories:text-to-speech; language:te; license:other; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissan…
+2026-11-01T20:01:00Z,sw-voice/swamiji-shlokas-reuse,sw-voice,0,0,task_categories:text-to-speech; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-01T20:02:02Z,Vivian0716/Stretch3,Vivian0716,0,0,region:us
+2026-11-01T20:04:14Z,wangchenlong/training_data_public_v2,wangchenlong,0,0,region:us
+2026-11-01T20:07:01Z,alimerido/new-setup_20261101_200122,alimerido,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-01T20:08:31Z,yhu0326/cloth-wm-stage,yhu0326,0,0,region:us
+2026-11-01T20:08:48Z,yeniguno/mmlu-tr,yeniguno,0,0,task_categories:question-answering; task_ids:multiple-choice-qa; source_datasets:cais/mmlu; language:tr; license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; libr…
+2026-11-01T20:09:55Z,sw-voice/swamiji-mahabharatam-telugu-reuse-themes-all,sw-voice,0,0,task_categories:text-to-speech; language:te; license:other; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissan…
+2026-11-01T20:10:55Z,AhnADB/javisdit-pp-javisbench-33f,AhnADB,0,0,task_categories:text-to-video; region:us; audio-video-generation; javisdit; javisbench
+2026-11-01T20:12:41Z,DSADA123SA4FASR/Annoy-PyEdu-Rs,DSADA123SA4FASR,0,0,region:us
+2026-11-01T20:12:43Z,DSADA123SA4FASR/Annoy-PyEdu-Rs-Raw,DSADA123SA4FASR,0,0,region:us
+2026-11-01T20:13:53Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-01T20:13:53Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-01T20:15:22Z,Drama-Claw/fp8-test-input,Drama-Claw,0,0,region:us
+2026-11-01T20:15:31Z,cskin666/Annoy-PyEdu-Rs,cskin666,0,0,region:us
+2026-11-01T20:15:31Z,cskin666/Annoy-PyEdu-Rs-Raw,cskin666,0,0,region:us
+2026-11-01T20:18:20Z,starkAhmed43/lc-image-93da9c265e2eef70b2dacb4e,starkAhmed43,0,0,region:us
