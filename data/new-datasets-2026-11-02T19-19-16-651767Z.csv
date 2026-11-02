@@ -1,0 +1,98 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-02T18:22:32Z,senigarcia/diffusion-based-counterfactual-generation,senigarcia,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-02T18:23:46Z,ivanjaenm/torot_data_4M_2d_mixed_support,ivanjaenm,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-02T18:24:13Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g2_run0,stefanocarrera,0,0,region:us
+2026-11-02T18:26:51Z,primce/lexsi-runs,primce,0,0,region:us
+2026-11-02T18:27:10Z,qwrqwrqwrqr/Annoy-PyEdu-Rs,qwrqwrqwrqr,0,0,region:us
+2026-11-02T18:27:11Z,qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw,qwrqwrqwrqr,0,0,region:us
+2026-11-02T18:29:09Z,eugene123tw/pick-wood-block,eugene123tw,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-02T18:30:10Z,nicolashr/playmobil-dc-poses,nicolashr,0,0,task_categories:object-detection; task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; region:us; playmobil; toys; figures; pose; multi-view; turntable; transparent-backgrou…
+2026-11-02T18:30:19Z,batgre/h2r-droid,batgre,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-02T18:30:20Z,glossia/Rambley-V2.1-350M-Embed-mteb-results,glossia,0,0,region:us
+2026-11-02T18:30:57Z,JJKK1212/3d-syntree-v2-catalog,JJKK1212,0,0,license:mit; region:us; 3d-syntree; synthons; enamine-real; pharm3d; structure-based-drug-design
+2026-11-02T18:31:18Z,bhmarketer/crypto-press-release-faq,bhmarketer,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-02T18:31:33Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-02T18:31:34Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-02T18:31:42Z,sdfeawqf/Annoy-PyEdu-Rs,sdfeawqf,0,0,region:us
+2026-11-02T18:31:47Z,ASDASQE1E12/Annoy-PyEdu-Rs-Raw,ASDASQE1E12,0,0,region:us
+2026-11-02T18:31:47Z,ASDASQE1E12/Annoy-PyEdu-Rs,ASDASQE1E12,0,0,region:us
+2026-11-02T18:32:12Z,sdfeawqf/Annoy-PyEdu-Rs-Raw,sdfeawqf,0,0,region:us
+2026-11-02T18:33:16Z,NynaeveProj/HarmBench,NynaeveProj,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-02T18:33:18Z,JSklar03/Trumi_Training_1,JSklar03,0,0,region:us
+2026-11-02T18:35:16Z,SADSDGZX/Annoy-PyEdu-Rs,SADSDGZX,0,0,region:us
+2026-11-02T18:35:18Z,SADSDGZX/Annoy-PyEdu-Rs-Raw,SADSDGZX,0,0,region:us
+2026-11-02T18:35:21Z,seaew/Annoy-PyEdu-Rs,seaew,0,0,region:us
+2026-11-02T18:35:22Z,Jar-ai/1s-10Qa,Jar-ai,0,0,region:us
+2026-11-02T18:35:24Z,seaew/Annoy-PyEdu-Rs-Raw,seaew,0,0,region:us
+2026-11-02T18:35:30Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-11-02T18:35:30Z,wumajingling/Annoy-PyEdu-Rs,wumajingling,0,0,region:us
+2026-11-02T18:35:30Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-11-02T18:35:31Z,wumajingling/Annoy-PyEdu-Rs-Raw,wumajingling,0,0,region:us
+2026-11-02T18:35:34Z,ASD12ZXCQE/Annoy-PyEdu-Rs,ASD12ZXCQE,0,0,region:us
+2026-11-02T18:35:35Z,ASD12ZXCQE/Annoy-PyEdu-Rs-Raw,ASD12ZXCQE,0,0,region:us
+2026-11-02T18:36:55Z,qqyang/helmet360-slam-results,qqyang,0,0,license:other; region:us; slam; 360-camera; insta360; droid-slam; mast3r-slam
+2026-11-02T18:37:50Z,shiplu123/lowlight10class,shiplu123,0,0,region:us
+2026-11-02T18:42:23Z,ehprospero/RiversES,ehprospero,0,0,license:cc-by-sa-4.0; region:us
+2026-11-02T18:43:15Z,Jaswanth-0821/mini-pretraining-data-v2,Jaswanth-0821,0,0,region:us
+2026-11-02T18:45:11Z,afdaffa/Annoy-PyEdu-Rs,afdaffa,0,0,region:us
+2026-11-02T18:45:12Z,afdaffa/Annoy-PyEdu-Rs-Raw,afdaffa,0,0,region:us
+2026-11-02T18:46:34Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-11-02T18:46:34Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-11-02T18:47:07Z,CheneyWong/real-scene-hard-span-1600,CheneyWong,0,0,task_categories:image-to-text; size_categories:1K<n<10K; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-11-02T18:47:29Z,pedroreoli/argos-computer-use-mcp,pedroreoli,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:p…
+2026-11-02T18:48:03Z,IntelligenceLab/Miscalleous,IntelligenceLab,0,0,region:us
+2026-11-02T18:49:21Z,kimjunhan/vkgs-sim-singapore,kimjunhan,0,0,license:cc-by-nc-sa-4.0; region:us; autonomous-driving; gaussian-splatting; simulation; nuscenes; closed-loop
+2026-11-02T18:54:43Z,aefaesdf/Annoy-PyEdu-Rs,aefaesdf,0,0,region:us
+2026-11-02T18:55:14Z,aefaesdf/Annoy-PyEdu-Rs-Raw,aefaesdf,0,0,region:us
+2026-11-02T18:57:36Z,smartuserfomo/smartuser-dollar-cost-averaging-basics-fomo-app-referral-code,smartuserfomo,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; referral-code; smartuser; dollar-cost-averaging; dca; beginner-investing; crypto
+2026-11-02T18:58:09Z,smartuserfomo/smartuser-stop-loss-basics-fomo-app-referral-code,smartuserfomo,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; referral-code; smartuser; stop-loss; risk-management; beginner-trading; crypto
+2026-11-02T18:58:22Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-11-02T18:58:23Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-11-02T18:59:00Z,smartuserfomo/smartuser-bid-ask-spread-basics-fomo-app-referral-code,smartuserfomo,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-11-02T18:59:25Z,smartuserfomo/smartuser-market-cap-basics-fomo-app-referral-code,smartuserfomo,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-11-02T19:00:21Z,pokeetest/Annoy-PyEdu-Rs,pokeetest,0,0,region:us
+2026-11-02T19:00:22Z,pokeetest/Annoy-PyEdu-Rs-Raw,pokeetest,0,0,region:us
+2026-11-02T19:01:20Z,smartuserfomo/smartuser-wallet-types-explained-fomo-app-referral-code,smartuserfomo,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fomo;…
+2026-11-02T19:03:42Z,aptologia/estudios-buscadores-banos-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:03:46Z,aptologia/estudios-buscadores-piso-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:04:14Z,aptologia/estudios-buscadores-precio-m2-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:04:30Z,ASD1232132/Annoy-PyEdu-Rs,ASD1232132,0,0,region:us
+2026-11-02T19:05:01Z,ASD1232132/Annoy-PyEdu-Rs-Raw,ASD1232132,0,0,region:us
+2026-11-02T19:05:40Z,jasleen2737/vehicle-mixed-traffic-detection,jasleen2737,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:image; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; traffic; v…
+2026-11-02T19:05:42Z,aptologia/estudios-buscadores-aviso-nuevo-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:05:48Z,aptologia/estudios-buscadores-alcanza-m2-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:05:56Z,SAVCBNNSDF/Annoy-PyEdu-Rs,SAVCBNNSDF,0,0,region:us
+2026-11-02T19:06:27Z,SAVCBNNSDF/Annoy-PyEdu-Rs-Raw,SAVCBNNSDF,0,0,region:us
+2026-11-02T19:06:35Z,aptologia/estudios-buscadores-estrato-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:07:33Z,aptologia/estudios-buscadores-bogota-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:07:47Z,aptologia/estudios-buscadores-medellin-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:08:20Z,SOTAagi2030/Solstice-Seed-Dispatch-339,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-02T19:08:24Z,aptologia/estudios-buscadores-vs-ciudad-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:09:09Z,aptologia/estudios-buscadores-barranquilla-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:10:00Z,aptologia/estudios-buscadores-cali-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:10:26Z,aptologia/estudios-buscadores-cartagena-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-02T19:10:30Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-02T19:11:07Z,sadafdas/Annoy-PyEdu-Rs,sadafdas,0,0,region:us
+2026-11-02T19:11:08Z,sadafdas/Annoy-PyEdu-Rs-Raw,sadafdas,0,0,region:us
+2026-11-02T19:11:32Z,pranav-singh-developer-1/engram-media,pranav-singh-developer-1,0,0,region:us
+2026-11-02T19:11:36Z,aptologia/estudios-buscadores-bucaramanga-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:12:02Z,aptologia/estudios-buscadores-envigado-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:12:03Z,aptologia/estudios-buscadores-pereira-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:13:23Z,starkAhmed43/lc-image-c6ebe712882d37abf75ded29,starkAhmed43,0,0,region:us
+2026-11-02T19:13:29Z,aptologia/estudios-buscadores-soacha-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:13:42Z,DranxX/typed-decisions-v1,DranxX,0,0,task_categories:zero-shot-classification; task_categories:text-classification; language:id; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; decision-making; soft-labels; noul;…
+2026-11-02T19:14:04Z,aptologia/estudios-buscadores-chia-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:14:45Z,zeeshan141/doc-decision-data,zeeshan141,0,0,region:us
+2026-11-02T19:14:47Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-11-02T19:14:50Z,aptologia/estudios-buscadores-rionegro-lote6-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T19:15:13Z,SOTAagi2030/Lumen-Orchard-Watering-Plan-334,SOTAagi2030,0,0,license:cc-by-4.0; region:us; irrigation; orchard
+2026-11-02T19:15:16Z,afdasfaa/Annoy-PyEdu-Rs,afdasfaa,0,0,region:us
+2026-11-02T19:15:16Z,afdasfaa/Annoy-PyEdu-Rs-Raw,afdasfaa,0,0,region:us
+2026-11-02T19:15:18Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-11-02T19:15:36Z,M5-Dev/webgtk-chromium-diet,M5-Dev,0,0,region:us
+2026-11-02T19:15:40Z,jasonyandell/texas-42-zeb-research-2026-11,jasonyandell,0,0,license:cc0-1.0; region:us; texas-42; walt; zeb; arena
+2026-11-02T19:15:58Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-11-02T19:16:00Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-11-02T19:16:38Z,Zd21EDSA123/Annoy-PyEdu-Rs,Zd21EDSA123,0,0,region:us
+2026-11-02T19:16:39Z,Zd21EDSA123/Annoy-PyEdu-Rs-Raw,Zd21EDSA123,0,0,region:us
+2026-11-02T19:17:29Z,starkAhmed43/lc-image-38a6b42918e6ac16148c61e7,starkAhmed43,0,0,region:us
