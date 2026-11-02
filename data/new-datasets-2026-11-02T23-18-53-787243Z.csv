@@ -1,0 +1,111 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-02T22:21:06Z,Lilambd/world-science,Lilambd,0,0,language:en; language:ja; license:cc0-1.0; size_categories:1M<n<10M; region:us; science; bibliometrics; openalex; research; countries; monthly
+2026-11-02T22:22:49Z,chupengrocky/rookie-last-exam,chupengrocky,0,0,license:mit; region:us
+2026-11-02T22:22:54Z,spacezenmasterr/writer-brief-v3-cleaned-classified,spacezenmasterr,0,0,task_categories:text-generation; language:en; size_categories:1K<n<10K; region:us; technical-writing; synthetic-context; human-review-pending; development-dataset
+2026-11-02T22:23:07Z,sentientfutures/claude-5.5-animal-welfare-redteaming,sentientfutures,0,0,language:ca; language:nl; language:en; language:fr; language:de; language:he; language:hi; language:id; language:ja; language:ko; language:ml; language:zh; language:no; language:pt; language:ru; lang…
+2026-11-02T22:24:04Z,br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_1M,br-llm-data,0,0,task_categories:text-generation; language:pt; region:us
+2026-11-02T22:26:12Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-11-02T22:26:43Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-11-02T22:28:05Z,qwrqwrqwrqr/Annoy-PyEdu-Rs,qwrqwrqwrqr,0,0,region:us
+2026-11-02T22:28:35Z,qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw,qwrqwrqwrqr,0,0,region:us
+2026-11-02T22:29:02Z,themohal/urdu-saraiki-news,themohal,0,0,region:us
+2026-11-02T22:29:25Z,masterofaudio2077/egy-decision-data,masterofaudio2077,0,0,task_categories:text-classification; language:ar; license:apache-2.0; region:us
+2026-11-02T22:29:45Z,Columbia-ICSL/TDBench,Columbia-ICSL,0,1,task_categories:image-text-to-text; license:cc-by-nc-sa-4.0; arxiv:2504.03748; region:us; vqa; vision-language-model; top-down-images; aerial-images; benchmark
+2026-11-02T22:29:53Z,eucplanet/eucplanet-maps,eucplanet,0,1,license:odbl; region:us
+2026-11-02T22:30:04Z,als-rixs/pillars-1m,als-rixs,0,0,region:us
+2026-11-02T22:30:19Z,SADCXZ21EDSA/Annoy-PyEdu-Rs,SADCXZ21EDSA,0,0,region:us
+2026-11-02T22:30:23Z,SADCXZ21EDSA/Annoy-PyEdu-Rs-Raw,SADCXZ21EDSA,0,0,region:us
+2026-11-02T22:31:04Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-02T22:31:35Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-02T22:36:46Z,tenseisharingan/rezero-audio,tenseisharingan,0,0,region:us
+2026-11-02T22:37:29Z,g1n0st/6ccb580fa310b980581a5fbe4f829bddfab54dd7,g1n0st,0,0,region:us
+2026-11-02T22:37:39Z,danielcluett9/social-engineering-convo,danielcluett9,0,0,task_categories:text-classification; language:en; language:fr; license:apache-2.0; size_categories:n<1K; region:us
+2026-11-02T22:39:14Z,iaac-maai/day3-group4-household-energy-trajectories,iaac-maai,0,0,task_categories:tabular-classification; license:other; size_categories:10K<n<100K; region:us; clustering; unsupervised-learning; energy; housing; built-environment; iaac-maai; ai-methods-1
+2026-11-02T22:40:31Z,g1n0st/48584d21c571db2633eeae237ebb97a7afd8cead,g1n0st,0,0,region:us
+2026-11-02T22:40:55Z,br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_2M,br-llm-data,0,0,task_categories:text-generation; language:pt; region:us
+2026-11-02T22:41:04Z,fozzi66/chechen-qwen-dataset,fozzi66,0,0,region:us
+2026-11-02T22:41:55Z,caiosmedeiros/prompt-safety-synthetic,caiosmedeiros,0,0,task_categories:text-classification; language:en; language:pt; language:es; license:other; region:us; synthetic; guardrail; prompt-safety
+2026-11-02T22:42:17Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g5_run0,stefanocarrera,0,0,region:us
+2026-11-02T22:44:30Z,Crumb4871/datos-loti-Vllm,Crumb4871,0,0,size_categories:n<1K; library:datadesigner; region:us; synthetic; datadesigner
+2026-11-02T22:45:32Z,Vansh45673/kashi,Vansh45673,0,0,region:us
+2026-11-02T22:46:04Z,engtawheeb/Arabic_Comments,engtawheeb,0,0,region:us
+2026-11-02T22:47:37Z,bcv-commons/clause-columns,bcv-commons,0,0,language:hbo; language:arc; language:grc; license:cc-by-sa-4.0; region:us; bible; hebrew; greek; clauses; rrg; discourse
+2026-11-02T22:47:48Z,RKB109/contextual-bandit-simulator-20261102-dataset,RKB109,0,0,task_categories:reinforcement-learning; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; synthetic; reinforcement-learning; evaluation; text-classification; feature-extraction; senten…
+2026-11-02T22:48:14Z,afasedfasd/Annoy-PyEdu-Rs,afasedfasd,0,0,region:us
+2026-11-02T22:48:15Z,afasedfasd/Annoy-PyEdu-Rs-Raw,afasedfasd,0,0,region:us
+2026-11-02T22:49:38Z,adamjb111/soa-qwen36-27b-L42-pilot-data-20261102,adamjb111,0,0,license:odc-by; region:us; interpretability; activations; qwen
+2026-11-02T22:49:38Z,rbtrprjkt/6mmbearing-scoop_20261102_155451,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-02T22:52:30Z,sunsean/VerdictAD,sunsean,0,0,license:apache-2.0; region:us; anomaly-detection; few-shot; industrial-inspection; mvtec-ad; visa; mvtec-loco
+2026-11-02T22:55:21Z,rahul7star/texthumanizer-raw-data,rahul7star,0,0,task_categories:question-answering; language:en; size_categories:10K<n<100K; region:us; raw; instruct
+2026-11-02T22:55:35Z,YzyLmc/pick_yellow_block,YzyLmc,0,0,task_categories:robotics; region:us; LeRobot; raiden; yam
+2026-11-02T22:56:41Z,Chesstring/kesav,Chesstring,0,0,region:us
+2026-11-02T23:02:10Z,Juoguessr/OHM,Juoguessr,0,0,region:us
+2026-11-02T23:02:57Z,SaarAI/zul-post-training,SaarAI,0,0,task_categories:text-generation; task_categories:translation; task_categories:text-classification; task_categories:token-classification; task_categories:summarization; language:zu; language:en; size_…
+2026-11-02T23:04:14Z,br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_ALL,br-llm-data,0,0,region:us
+2026-11-02T23:04:22Z,aptologia/estudios-buscadores-barranquilla-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:04:22Z,aptologia/estudios-buscadores-armenia-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:04:23Z,aptologia/estudios-buscadores-balcon-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:04:23Z,aptologia/estudios-buscadores-amoblado-mercado-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:04:33Z,bomankari/near-intents-onchain-events,bomankari,0,0,language:en; license:mit; region:us; near; blockchain; defi; intents; on-chain
+2026-11-02T23:05:14Z,aptologia/estudios-buscadores-bello-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:05:49Z,aptologia/estudios-buscadores-bucaramanga-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:05:57Z,aptologia/estudios-buscadores-cajica-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:06:18Z,aptologia/estudios-buscadores-bogota-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:07:04Z,aptologia/estudios-buscadores-cali-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:07:51Z,aptologia/estudios-buscadores-carmen-de-viboral-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:07:52Z,aptologia/estudios-buscadores-chia-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:07:59Z,aptologia/estudios-buscadores-cartagena-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:08:25Z,aptologia/estudios-buscadores-conjunto-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:08:56Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g6_run0,stefanocarrera,0,0,region:us
+2026-11-02T23:09:03Z,newuser50-pumpfun/newuser50-signup-code-entry-steps-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; sign-up; mobile-app; crypto
+2026-11-02T23:09:11Z,aptologia/estudios-buscadores-cucuta-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:09:51Z,aptologia/estudios-buscadores-dispersion-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:10:01Z,aptologia/estudios-buscadores-dosquebradas-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:10:01Z,aptologia/estudios-buscadores-dueno-directo-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:10:03Z,PeterXie666/lff-bench,PeterXie666,0,0,language:en; size_categories:1M<n<10M; region:us; robotics; lerobot; simulation; manipulation; failure-recovery; multimodal
+2026-11-02T23:10:04Z,newuser50-pumpfun/newuser50-common-mistakes-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; mistakes; troubleshooting; crypto
+2026-11-02T23:10:40Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-11-02T23:10:41Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-11-02T23:10:48Z,aptologia/estudios-buscadores-envigado-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:10:53Z,newuser50-pumpfun/newuser50-qualifying-day-patterns-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; trading-days; calendar; crypto
+2026-11-02T23:10:58Z,aptologia/estudios-buscadores-girardot-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:11:03Z,aptologia/estudios-buscadores-el-retiro-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:11:15Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-11-02T23:11:35Z,mohaEs/SurgCBVR-CAT,mohaEs,0,0,license:apache-2.0; region:us
+2026-11-02T23:11:40Z,newuser50-pumpfun/newuser50-pre-start-readiness-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; checklist; getting-started; crypto
+2026-11-02T23:11:46Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-11-02T23:11:51Z,victimfsfsd/vd6649,victimfsfsd,0,0,region:us
+2026-11-02T23:11:52Z,Krioasns/system1-decision-routing-bench,Krioasns,0,1,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; agents; routing; tool-gating; benchmark; decision-models
+2026-11-02T23:11:55Z,aptologia/estudios-buscadores-floridablanca-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:12:02Z,YzyLmc/stack_blue_on_yellow,YzyLmc,0,0,task_categories:robotics; region:us; LeRobot; raiden; yam
+2026-11-02T23:12:08Z,Nason/sahie-database,Nason,0,0,license:other; size_categories:100K<n<1M; region:us; health-insurance; census; sahie; duckdb; datapond
+2026-11-02T23:12:42Z,aptologia/estudios-buscadores-itagui-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:12:48Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-02T23:12:49Z,aptologia/estudios-buscadores-la-calera-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:12:53Z,aptologia/estudios-buscadores-ibague-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:12:54Z,KMCLabs/kmc-t-dataset,KMCLabs,0,0,region:us
+2026-11-02T23:13:04Z,newuser50-pumpfun/newuser50-glossary-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; glossary; definitions; crypto
+2026-11-02T23:13:11Z,SamuelCagnani/olfacto-odor-138-ptbr,SamuelCagnani,0,0,task_categories:text-classification; language:en; language:pt; license:mit; size_categories:1K<n<10K; region:us; chemistry; odor; olfaction; smiles; multi-label
+2026-11-02T23:13:13Z,aptologia/estudios-buscadores-jamundi-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:13:17Z,cam-viability/cam-pathways-65m,cam-viability,0,0,region:us
+2026-11-02T23:13:19Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-02T23:13:40Z,aptologia/estudios-buscadores-manizales-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:13:47Z,aptologia/estudios-buscadores-la-ceja-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:14:06Z,aptologia/estudios-buscadores-la-estrella-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:14:53Z,aptologia/estudios-buscadores-medellin-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:15:14Z,aptologia/estudios-buscadores-madrid-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:15:31Z,aptologia/estudios-buscadores-mosquera-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:15:38Z,aptologia/estudios-buscadores-mascotas-mercado-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:16:20Z,Kesoni10/fbref_football_player_performance_2024-2025,Kesoni10,0,0,region:us; sports; football
+2026-11-02T23:16:28Z,risenfromashes/qraft-data,risenfromashes,0,0,license:cc-by-4.0; region:us; phylogenetics; species-tree; gene-trees; multispecies-coalescent
+2026-11-02T23:16:43Z,aptologia/estudios-buscadores-pereira-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:17:03Z,NorviTech/arrmes-bench-v5,NorviTech,0,0,task_categories:text-generation; task_categories:text-classification; language:en; license:mit; size_categories:1K<n<10K; region:us; benchmark; tool-calling; function-calling; media-server; agent-saf…
+2026-11-02T23:17:17Z,aptologia/estudios-buscadores-monteria-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:17:26Z,aptologia/estudios-buscadores-parqueaderos-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:17:50Z,JingwuLuo/pick_and_place_quick_new,JingwuLuo,0,0,region:us
+2026-11-02T23:17:50Z,aptologia/estudios-buscadores-rionegro-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:18:02Z,aptologia/estudios-buscadores-santa-marta-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:18:07Z,NorviTech/arrmes-bench-v2,NorviTech,0,0,region:us
+2026-11-02T23:18:08Z,acD124SAQ/Annoy-PyEdu-Rs,acD124SAQ,0,0,region:us
+2026-11-02T23:18:09Z,acD124SAQ/Annoy-PyEdu-Rs-Raw,acD124SAQ,0,0,region:us
+2026-11-02T23:18:10Z,afdaffa/Annoy-PyEdu-Rs,afdaffa,0,0,region:us

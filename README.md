@@ -9,120 +9,124 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 22:20 UTC
+## Latest list — 2026-11-02 23:18 UTC
 
-New datasets created between 2026-11-02 21:21 UTC and 2026-11-02 22:20 UTC.
+New datasets created between 2026-11-02 22:20 UTC and 2026-11-02 23:18 UTC.
 
-[Full CSV](data/new-datasets-2026-11-02T22-20-57-762723Z.csv)
+[Full CSV](data/new-datasets-2026-11-02T23-18-53-787243Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-11-02 21:21:32 | [SOTAagi2030/Orchid-Museum-Audio-Guide-337](https://huggingface.co/SOTAagi2030/Orchid-Museum-Audio-Guide-337) | SOTAagi2030 | 0 | 0 | task_categories:audio-classification; license:cc-by-4.0; re… |
-| 2026-11-02 21:21:41 | [chengenwu/vig-dagger-plugcharger-round2-side-runs](https://huggingface.co/chengenwu/vig-dagger-plugcharger-round2-side-runs) | chengenwu | 0 | 0 | region:us |
-| 2026-11-02 21:22:14 | [michaelkimmel/mouseion-library-data](https://huggingface.co/michaelkimmel/mouseion-library-data) | michaelkimmel | 0 | 0 | language:grc; language:la; language:en; license:cc-by-sa-4.… |
-| 2026-11-02 21:24:50 | [SADNMCVC/Annoy-PyEdu-Rs](https://huggingface.co/SADNMCVC/Annoy-PyEdu-Rs) | SADNMCVC | 0 | 0 | region:us |
-| 2026-11-02 21:24:51 | [SADNMCVC/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SADNMCVC/Annoy-PyEdu-Rs-Raw) | SADNMCVC | 0 | 0 | region:us |
-| 2026-11-02 21:25:07 | [attacker34345/ssrf5334](https://huggingface.co/attacker34345/ssrf5334) | attacker34345 | 0 | 0 | region:us |
-| 2026-11-02 21:25:28 | [wslohmil/arxiv_2605_20443_knowledge_graph.md](https://huggingface.co/wslohmil/arxiv_2605_20443_knowledge_graph.md) | wslohmil | 0 | 0 | license:mit; region:us |
-| 2026-11-02 21:25:34 | [SDASD12SAD/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SDASD12SAD/Annoy-PyEdu-Rs-Raw) | SDASD12SAD | 0 | 0 | region:us |
-| 2026-11-02 21:25:34 | [SDASD12SAD/Annoy-PyEdu-Rs](https://huggingface.co/SDASD12SAD/Annoy-PyEdu-Rs) | SDASD12SAD | 0 | 0 | region:us |
-| 2026-11-02 21:25:40 | [ASD12ZXCQE/Annoy-PyEdu-Rs](https://huggingface.co/ASD12ZXCQE/Annoy-PyEdu-Rs) | ASD12ZXCQE | 0 | 0 | region:us |
-| 2026-11-02 21:25:52 | [DSADCZC12/Annoy-PyEdu-Rs](https://huggingface.co/DSADCZC12/Annoy-PyEdu-Rs) | DSADCZC12 | 0 | 0 | region:us |
-| 2026-11-02 21:26:00 | [david123TJP/Annoy-PyEdu-Rs](https://huggingface.co/david123TJP/Annoy-PyEdu-Rs) | david123TJP | 0 | 0 | region:us |
-| 2026-11-02 21:26:02 | [david123TJP/Annoy-PyEdu-Rs-Raw](https://huggingface.co/david123TJP/Annoy-PyEdu-Rs-Raw) | david123TJP | 0 | 0 | region:us |
-| 2026-11-02 21:26:04 | [yyoraa/vast3-mobilemanipbench-migration](https://huggingface.co/yyoraa/vast3-mobilemanipbench-migration) | yyoraa | 0 | 0 | region:us |
-| 2026-11-02 21:26:11 | [ASD12ZXCQE/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD12ZXCQE/Annoy-PyEdu-Rs-Raw) | ASD12ZXCQE | 0 | 0 | region:us |
-| 2026-11-02 21:26:23 | [DSADCZC12/Annoy-PyEdu-Rs-Raw](https://huggingface.co/DSADCZC12/Annoy-PyEdu-Rs-Raw) | DSADCZC12 | 0 | 0 | region:us |
-| 2026-11-02 21:26:51 | [attacker34345/dsctrl5334](https://huggingface.co/attacker34345/dsctrl5334) | attacker34345 | 0 | 0 | region:us |
-| 2026-11-02 21:27:23 | [iaac-maai/day3-team6-seattle-building-types](https://huggingface.co/iaac-maai/day3-team6-seattle-building-types) | iaac-maai | 0 | 0 | license:cc0-1.0; size_categories:1K<n<10K; region:us; built… |
-| 2026-11-02 21:28:25 | [stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g4_run0](https://huggingface.co/stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g4_run0) | stefanocarrera | 0 | 0 | region:us |
-| 2026-11-02 21:31:11 | [eadxm/Kestrel-Arch-Offline](https://huggingface.co/eadxm/Kestrel-Arch-Offline) | eadxm | 0 | 0 | region:us |
-| 2026-11-02 21:31:38 | [elisavetgrad-gospel/john](https://huggingface.co/elisavetgrad-gospel/john) | elisavetgrad-gospel | 0 | 0 | license:mit; region:us |
-| 2026-11-02 21:31:39 | [eadxm/Kestrel-Arch-Online](https://huggingface.co/eadxm/Kestrel-Arch-Online) | eadxm | 0 | 0 | region:us |
-| 2026-11-02 21:33:23 | [fr3on/sutur-arabic-books-qa](https://huggingface.co/fr3on/sutur-arabic-books-qa) | fr3on | 0 | 0 | task_categories:question-answering; task_ids:extractive-qa;… |
-| 2026-11-02 21:33:27 | [SaarAI/fineweb-2-malagasy](https://huggingface.co/SaarAI/fineweb-2-malagasy) | SaarAI | 0 | 0 | task_categories:text-generation; language:mg; language:plt;… |
-| 2026-11-02 21:35:31 | [saahilw/nuclei-segpath](https://huggingface.co/saahilw/nuclei-segpath) | saahilw | 0 | 0 | task_categories:image-segmentation; license:cc-by-nc-sa-4.0… |
-| 2026-11-02 21:37:25 | [Nexuss0781/Ethiopian-Student-Curriculem](https://huggingface.co/Nexuss0781/Ethiopian-Student-Curriculem) | Nexuss0781 | 0 | 0 | license:mit; region:us |
-| 2026-11-02 21:39:33 | [spacezenmasterr/writer-brief-v3-batch100](https://huggingface.co/spacezenmasterr/writer-brief-v3-batch100) | spacezenmasterr | 0 | 0 | task_categories:text-generation; language:en; size_categori… |
-| 2026-11-02 21:39:55 | [savethisok/d-b4d93ddaf18036d1](https://huggingface.co/savethisok/d-b4d93ddaf18036d1) | savethisok | 0 | 0 | region:us |
-| 2026-11-02 21:40:02 | [aptologia/estudios-buscadores-quien-publica-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-quien-publica-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:40:03 | [aptologia/estudios-buscadores-cali-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-cali-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:40:03 | [aptologia/estudios-buscadores-administracion-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-administracion-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:40:05 | [aptologia/estudios-buscadores-jamundi-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-jamundi-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:41:12 | [aptologia/estudios-buscadores-sabaneta-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-sabaneta-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:41:34 | [aptologia/estudios-buscadores-anios-arriendo-m2-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-anios-arriendo-m2-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:41:58 | [aptologia/estudios-buscadores-cucuta-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-cucuta-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:42:12 | [aptologia/estudios-buscadores-la-calera-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-la-calera-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:42:26 | [aptologia/estudios-buscadores-area-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-area-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:42:36 | [aptologia/estudios-buscadores-santa-marta-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-santa-marta-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:43:14 | [aptologia/estudios-buscadores-armenia-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-armenia-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:43:22 | [aptologia/estudios-buscadores-dosquebradas-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-dosquebradas-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:44:09 | [aptologia/estudios-buscadores-la-ceja-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-la-ceja-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:44:13 | [aptologia/estudios-buscadores-aviso-7d-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-aviso-7d-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:44:20 | [aptologia/estudios-buscadores-el-retiro-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-el-retiro-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:44:31 | [aptologia/estudios-buscadores-tunja-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-tunja-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:44:37 | [MBARI-org/Planktivore-April-2025](https://huggingface.co/MBARI-org/Planktivore-April-2025) | MBARI-org | 0 | 0 | license:cc-by-2.0; region:us |
-| 2026-11-02 21:45:00 | [aptologia/estudios-buscadores-la-estrella-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-la-estrella-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:45:05 | [aptologia/estudios-buscadores-barranquilla-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-barranquilla-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:45:15 | [aptologia/estudios-buscadores-estrato-barrio-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-estrato-barrio-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:45:33 | [rede89/indo-traffic-images](https://huggingface.co/rede89/indo-traffic-images) | rede89 | 0 | 0 | region:us |
-| 2026-11-02 21:45:51 | [aptologia/estudios-buscadores-lo-mas-barato-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-lo-mas-barato-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:46:20 | [daniloxvalle/esci-enriched-queries](https://huggingface.co/daniloxvalle/esci-enriched-queries) | daniloxvalle | 0 | 0 | task_categories:text-retrieval; language:en; license:apache… |
-| 2026-11-02 21:46:25 | [aptologia/estudios-buscadores-villavicencio-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-villavicencio-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:46:28 | [zehen8716/mygirl](https://huggingface.co/zehen8716/mygirl) | zehen8716 | 0 | 0 | region:us |
-| 2026-11-02 21:46:44 | [aptologia/estudios-buscadores-manizales-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-manizales-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:46:54 | [zussini/FACBench](https://huggingface.co/zussini/FACBench) | zussini | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-02 21:47:05 | [aptologia/estudios-buscadores-floridablanca-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-floridablanca-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:47:13 | [aptologia/estudios-buscadores-bello-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-bello-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:47:22 | [PureOne/IYEORI-Fourier-Spectra-and-Inverse-Compression](https://huggingface.co/PureOne/IYEORI-Fourier-Spectra-and-Inverse-Compression) | PureOne | 0 | 0 | language:en; region:us; mathematics; fourier-analysis; nume… |
-| 2026-11-02 21:48:12 | [aptologia/estudios-buscadores-zipaquira-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-zipaquira-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:48:46 | [aptologia/estudios-buscadores-medellin-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-medellin-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:48:50 | [dontKnow23456/GraphRec_backup](https://huggingface.co/dontKnow23456/GraphRec_backup) | dontKnow23456 | 0 | 0 | region:us |
-| 2026-11-02 21:48:54 | [aptologia/estudios-buscadores-habitaciones-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-habitaciones-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:49:05 | [aptologia/estudios-buscadores-bogota-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-bogota-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:50:18 | [aptologia/estudios-buscadores-cajica-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-cajica-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:50:45 | [aptologia/estudios-buscadores-ibague-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-ibague-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:50:53 | [aptologia/estudios-buscadores-monteria-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-monteria-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:51:29 | [Lilambd/world-earth](https://huggingface.co/Lilambd/world-earth) | Lilambd | 0 | 0 | language:en; language:multilingual; license:cc-by-4.0; size… |
-| 2026-11-02 21:52:11 | [Lilambd/world-ground](https://huggingface.co/Lilambd/world-ground) | Lilambd | 0 | 0 | language:en; language:multilingual; license:cc-by-4.0; size… |
-| 2026-11-02 21:52:31 | [aptologia/estudios-buscadores-itagui-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-itagui-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:52:44 | [Lilambd/world-hazard](https://huggingface.co/Lilambd/world-hazard) | Lilambd | 0 | 0 | language:en; language:multilingual; license:cc-by-4.0; size… |
-| 2026-11-02 21:52:58 | [aptologia/estudios-buscadores-mosquera-lote7-2026](https://huggingface.co/aptologia/estudios-buscadores-mosquera-lote7-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
-| 2026-11-02 21:53:27 | [betterup/candor-gate-test](https://huggingface.co/betterup/candor-gate-test) | betterup | 0 | 0 | multilinguality:monolingual; language:en; license:other; si… |
-| 2026-11-02 21:54:14 | [betterup/candor-gate-test-2](https://huggingface.co/betterup/candor-gate-test-2) | betterup | 0 | 0 | region:us |
-| 2026-11-02 21:54:29 | [lGabrielJJ/baseclipped](https://huggingface.co/lGabrielJJ/baseclipped) | lGabrielJJ | 0 | 0 | region:us |
-| 2026-11-02 21:54:45 | [jasonfan/kuangren-core-20261103](https://huggingface.co/jasonfan/kuangren-core-20261103) | jasonfan | 0 | 0 | region:us |
-| 2026-11-02 21:55:02 | [nebu1a/so101-sponge-task1](https://huggingface.co/nebu1a/so101-sponge-task1) | nebu1a | 0 | 0 | task_categories:robotics; language:en; license:mit; size_ca… |
-| 2026-11-02 21:56:40 | [Lilambd/world-prices](https://huggingface.co/Lilambd/world-prices) | Lilambd | 0 | 0 | language:en; license:cc-by-4.0; size_categories:100K<n<1M;… |
-| 2026-11-02 21:57:02 | [SOTAagi2030/Lumen-Museum-Transit-Audit-328](https://huggingface.co/SOTAagi2030/Lumen-Museum-Transit-Audit-328) | SOTAagi2030 | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-02 22:00:56 | [stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g5_run0](https://huggingface.co/stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g5_run0) | stefanocarrera | 0 | 0 | region:us |
-| 2026-11-02 22:02:02 | [XingZhou666/Annoy-PyEdu-Rs](https://huggingface.co/XingZhou666/Annoy-PyEdu-Rs) | XingZhou666 | 0 | 0 | region:us |
-| 2026-11-02 22:02:03 | [XingZhou666/Annoy-PyEdu-Rs-Raw](https://huggingface.co/XingZhou666/Annoy-PyEdu-Rs-Raw) | XingZhou666 | 0 | 0 | region:us |
-| 2026-11-02 22:03:12 | [Lilambd/world-biodiversity-cells](https://huggingface.co/Lilambd/world-biodiversity-cells) | Lilambd | 0 | 0 | language:en; license:cc-by-nc-4.0; size_categories:100K<n<1… |
-| 2026-11-02 22:03:29 | [SAD123EDSA/Annoy-PyEdu-Rs](https://huggingface.co/SAD123EDSA/Annoy-PyEdu-Rs) | SAD123EDSA | 0 | 0 | region:us |
-| 2026-11-02 22:03:52 | [ASD21DWSA/Annoy-PyEdu-Rs](https://huggingface.co/ASD21DWSA/Annoy-PyEdu-Rs) | ASD21DWSA | 0 | 0 | region:us |
-| 2026-11-02 22:04:00 | [SAD123EDSA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SAD123EDSA/Annoy-PyEdu-Rs-Raw) | SAD123EDSA | 0 | 0 | region:us |
-| 2026-11-02 22:04:23 | [ASD21DWSA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD21DWSA/Annoy-PyEdu-Rs-Raw) | ASD21DWSA | 0 | 0 | region:us |
-| 2026-11-02 22:05:09 | [bhatvineet/hope15-wm-seed60-v1](https://huggingface.co/bhatvineet/hope15-wm-seed60-v1) | bhatvineet | 0 | 0 | language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<… |
-| 2026-11-02 22:05:15 | [savethisok/d-e885296e76b04c00](https://huggingface.co/savethisok/d-e885296e76b04c00) | savethisok | 0 | 0 | region:us |
-| 2026-11-02 22:05:17 | [Timolu/faceless-video](https://huggingface.co/Timolu/faceless-video) | Timolu | 0 | 0 | region:us |
-| 2026-11-02 22:08:53 | [shutzang/DROID-Sim](https://huggingface.co/shutzang/DROID-Sim) | shutzang | 0 | 0 | region:us |
-| 2026-11-02 22:09:33 | [warn-index/us-warn-layoffs](https://huggingface.co/warn-index/us-warn-layoffs) | warn-index | 0 | 1 | language:en; license:cc-by-4.0; size_categories:10K<n<100K;… |
-| 2026-11-02 22:10:29 | [g1n0st/22c1a4bb75f3a1850938ddca84c5cc8122631fa7](https://huggingface.co/g1n0st/22c1a4bb75f3a1850938ddca84c5cc8122631fa7) | g1n0st | 0 | 0 | region:us |
-| 2026-11-02 22:10:29 | [g1n0st/0d23702b0529f743162ff63c83f679bdd0eee5f8](https://huggingface.co/g1n0st/0d23702b0529f743162ff63c83f679bdd0eee5f8) | g1n0st | 0 | 0 | region:us |
-| 2026-11-02 22:13:00 | [ChilleD/WebHarbor-Tasks](https://huggingface.co/ChilleD/WebHarbor-Tasks) | ChilleD | 0 | 0 | language:en; library:harbor; region:us; webharbor; harbor;… |
-| 2026-11-02 22:13:39 | [forexuro/economic-calendar](https://huggingface.co/forexuro/economic-calendar) | forexuro | 0 | 0 | license:cc-by-4.0; region:us; finance; forex; gold; economi… |
-| 2026-11-02 22:13:59 | [pvd232/XCol](https://huggingface.co/pvd232/XCol) | pvd232 | 0 | 0 | task_categories:question-answering; task_ids:multiple-choic… |
-| 2026-11-02 22:14:21 | [FulongLi/AIPE-Magnetics-Dataset](https://huggingface.co/FulongLi/AIPE-Magnetics-Dataset) | FulongLi | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-02 22:15:44 | [williamTLmiller/congress-stock-trades-stock-act-news-patterns](https://huggingface.co/williamTLmiller/congress-stock-trades-stock-act-news-patterns) | williamTLmiller | 0 | 0 | task_categories:tabular-classification; task_categories:tim… |
-| 2026-11-02 22:16:00 | [sfafasgag5657/Annoy-PyEdu-Rs](https://huggingface.co/sfafasgag5657/Annoy-PyEdu-Rs) | sfafasgag5657 | 0 | 0 | region:us |
-| 2026-11-02 22:16:30 | [sfafasgag5657/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sfafasgag5657/Annoy-PyEdu-Rs-Raw) | sfafasgag5657 | 0 | 0 | region:us |
-| 2026-11-02 22:17:42 | [starkAhmed43/lc-image-ffc1e4a056dd752e6a13d5e8](https://huggingface.co/starkAhmed43/lc-image-ffc1e4a056dd752e6a13d5e8) | starkAhmed43 | 0 | 0 | region:us |
-| 2026-11-02 22:18:33 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-02 22:18:34 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-02 22:18:36 | [alexis779/xarm7_ball_cup](https://huggingface.co/alexis779/xarm7_ball_cup) | alexis779 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
-| 2026-11-02 22:18:58 | [g1n0st/d901b91c8e10ac5b8e8510e441992a8ca7674526](https://huggingface.co/g1n0st/d901b91c8e10ac5b8e8510e441992a8ca7674526) | g1n0st | 0 | 0 | region:us |
-| 2026-11-02 22:19:02 | [craftrex/client-side-qr-scanner-tools](https://huggingface.co/craftrex/client-side-qr-scanner-tools) | craftrex | 0 | 0 | region:us |
+| 2026-11-02 22:21:06 | [Lilambd/world-science](https://huggingface.co/Lilambd/world-science) | Lilambd | 0 | 0 | language:en; language:ja; license:cc0-1.0; size_categories:… |
+| 2026-11-02 22:22:49 | [chupengrocky/rookie-last-exam](https://huggingface.co/chupengrocky/rookie-last-exam) | chupengrocky | 0 | 0 | license:mit; region:us |
+| 2026-11-02 22:22:54 | [spacezenmasterr/writer-brief-v3-cleaned-classified](https://huggingface.co/spacezenmasterr/writer-brief-v3-cleaned-classified) | spacezenmasterr | 0 | 0 | task_categories:text-generation; language:en; size_categori… |
+| 2026-11-02 22:23:07 | [sentientfutures/claude-5.5-animal-welfare-redteaming](https://huggingface.co/sentientfutures/claude-5.5-animal-welfare-redteaming) | sentientfutures | 0 | 0 | language:ca; language:nl; language:en; language:fr; languag… |
+| 2026-11-02 22:24:04 | [br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_1M](https://huggingface.co/br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_1M) | br-llm-data | 0 | 0 | task_categories:text-generation; language:pt; region:us |
+| 2026-11-02 22:26:12 | [safasfaf4546/Annoy-PyEdu-Rs](https://huggingface.co/safasfaf4546/Annoy-PyEdu-Rs) | safasfaf4546 | 0 | 0 | region:us |
+| 2026-11-02 22:26:43 | [safasfaf4546/Annoy-PyEdu-Rs-Raw](https://huggingface.co/safasfaf4546/Annoy-PyEdu-Rs-Raw) | safasfaf4546 | 0 | 0 | region:us |
+| 2026-11-02 22:28:05 | [qwrqwrqwrqr/Annoy-PyEdu-Rs](https://huggingface.co/qwrqwrqwrqr/Annoy-PyEdu-Rs) | qwrqwrqwrqr | 0 | 0 | region:us |
+| 2026-11-02 22:28:35 | [qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw](https://huggingface.co/qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw) | qwrqwrqwrqr | 0 | 0 | region:us |
+| 2026-11-02 22:29:02 | [themohal/urdu-saraiki-news](https://huggingface.co/themohal/urdu-saraiki-news) | themohal | 0 | 0 | region:us |
+| 2026-11-02 22:29:25 | [masterofaudio2077/egy-decision-data](https://huggingface.co/masterofaudio2077/egy-decision-data) | masterofaudio2077 | 0 | 0 | task_categories:text-classification; language:ar; license:a… |
+| 2026-11-02 22:29:45 | [Columbia-ICSL/TDBench](https://huggingface.co/Columbia-ICSL/TDBench) | Columbia-ICSL | 0 | 1 | task_categories:image-text-to-text; license:cc-by-nc-sa-4.0… |
+| 2026-11-02 22:29:53 | [eucplanet/eucplanet-maps](https://huggingface.co/eucplanet/eucplanet-maps) | eucplanet | 0 | 1 | license:odbl; region:us |
+| 2026-11-02 22:30:04 | [als-rixs/pillars-1m](https://huggingface.co/als-rixs/pillars-1m) | als-rixs | 0 | 0 | region:us |
+| 2026-11-02 22:30:19 | [SADCXZ21EDSA/Annoy-PyEdu-Rs](https://huggingface.co/SADCXZ21EDSA/Annoy-PyEdu-Rs) | SADCXZ21EDSA | 0 | 0 | region:us |
+| 2026-11-02 22:30:23 | [SADCXZ21EDSA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SADCXZ21EDSA/Annoy-PyEdu-Rs-Raw) | SADCXZ21EDSA | 0 | 0 | region:us |
+| 2026-11-02 22:31:04 | [nyleeaa0503/Annoy-PyEdu-Rs](https://huggingface.co/nyleeaa0503/Annoy-PyEdu-Rs) | nyleeaa0503 | 0 | 0 | region:us |
+| 2026-11-02 22:31:35 | [nyleeaa0503/Annoy-PyEdu-Rs-Raw](https://huggingface.co/nyleeaa0503/Annoy-PyEdu-Rs-Raw) | nyleeaa0503 | 0 | 0 | region:us |
+| 2026-11-02 22:36:46 | [tenseisharingan/rezero-audio](https://huggingface.co/tenseisharingan/rezero-audio) | tenseisharingan | 0 | 0 | region:us |
+| 2026-11-02 22:37:29 | [g1n0st/6ccb580fa310b980581a5fbe4f829bddfab54dd7](https://huggingface.co/g1n0st/6ccb580fa310b980581a5fbe4f829bddfab54dd7) | g1n0st | 0 | 0 | region:us |
+| 2026-11-02 22:37:39 | [danielcluett9/social-engineering-convo](https://huggingface.co/danielcluett9/social-engineering-convo) | danielcluett9 | 0 | 0 | task_categories:text-classification; language:en; language:… |
+| 2026-11-02 22:39:14 | [iaac-maai/day3-group4-household-energy-trajectories](https://huggingface.co/iaac-maai/day3-group4-household-energy-trajectories) | iaac-maai | 0 | 0 | task_categories:tabular-classification; license:other; size… |
+| 2026-11-02 22:40:31 | [g1n0st/48584d21c571db2633eeae237ebb97a7afd8cead](https://huggingface.co/g1n0st/48584d21c571db2633eeae237ebb97a7afd8cead) | g1n0st | 0 | 0 | region:us |
+| 2026-11-02 22:40:55 | [br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_2M](https://huggingface.co/br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_2M) | br-llm-data | 0 | 0 | task_categories:text-generation; language:pt; region:us |
+| 2026-11-02 22:41:04 | [fozzi66/chechen-qwen-dataset](https://huggingface.co/fozzi66/chechen-qwen-dataset) | fozzi66 | 0 | 0 | region:us |
+| 2026-11-02 22:41:55 | [caiosmedeiros/prompt-safety-synthetic](https://huggingface.co/caiosmedeiros/prompt-safety-synthetic) | caiosmedeiros | 0 | 0 | task_categories:text-classification; language:en; language:… |
+| 2026-11-02 22:42:17 | [stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g5_run0](https://huggingface.co/stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g5_run0) | stefanocarrera | 0 | 0 | region:us |
+| 2026-11-02 22:44:30 | [Crumb4871/datos-loti-Vllm](https://huggingface.co/Crumb4871/datos-loti-Vllm) | Crumb4871 | 0 | 0 | size_categories:n<1K; library:datadesigner; region:us; synt… |
+| 2026-11-02 22:45:32 | [Vansh45673/kashi](https://huggingface.co/Vansh45673/kashi) | Vansh45673 | 0 | 0 | region:us |
+| 2026-11-02 22:46:04 | [engtawheeb/Arabic_Comments](https://huggingface.co/engtawheeb/Arabic_Comments) | engtawheeb | 0 | 0 | region:us |
+| 2026-11-02 22:47:37 | [bcv-commons/clause-columns](https://huggingface.co/bcv-commons/clause-columns) | bcv-commons | 0 | 0 | language:hbo; language:arc; language:grc; license:cc-by-sa-… |
+| 2026-11-02 22:47:48 | [RKB109/contextual-bandit-simulator-20261102-dataset](https://huggingface.co/RKB109/contextual-bandit-simulator-20261102-dataset) | RKB109 | 0 | 0 | task_categories:reinforcement-learning; language:en; licens… |
+| 2026-11-02 22:48:14 | [afasedfasd/Annoy-PyEdu-Rs](https://huggingface.co/afasedfasd/Annoy-PyEdu-Rs) | afasedfasd | 0 | 0 | region:us |
+| 2026-11-02 22:48:15 | [afasedfasd/Annoy-PyEdu-Rs-Raw](https://huggingface.co/afasedfasd/Annoy-PyEdu-Rs-Raw) | afasedfasd | 0 | 0 | region:us |
+| 2026-11-02 22:49:38 | [adamjb111/soa-qwen36-27b-L42-pilot-data-20261102](https://huggingface.co/adamjb111/soa-qwen36-27b-L42-pilot-data-20261102) | adamjb111 | 0 | 0 | license:odc-by; region:us; interpretability; activations; q… |
+| 2026-11-02 22:49:38 | [rbtrprjkt/6mmbearing-scoop_20261102_155451](https://huggingface.co/rbtrprjkt/6mmbearing-scoop_20261102_155451) | rbtrprjkt | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-11-02 22:52:30 | [sunsean/VerdictAD](https://huggingface.co/sunsean/VerdictAD) | sunsean | 0 | 0 | license:apache-2.0; region:us; anomaly-detection; few-shot;… |
+| 2026-11-02 22:55:21 | [rahul7star/texthumanizer-raw-data](https://huggingface.co/rahul7star/texthumanizer-raw-data) | rahul7star | 0 | 0 | task_categories:question-answering; language:en; size_categ… |
+| 2026-11-02 22:55:35 | [YzyLmc/pick_yellow_block](https://huggingface.co/YzyLmc/pick_yellow_block) | YzyLmc | 0 | 0 | task_categories:robotics; region:us; LeRobot; raiden; yam |
+| 2026-11-02 22:56:41 | [Chesstring/kesav](https://huggingface.co/Chesstring/kesav) | Chesstring | 0 | 0 | region:us |
+| 2026-11-02 23:02:10 | [Juoguessr/OHM](https://huggingface.co/Juoguessr/OHM) | Juoguessr | 0 | 0 | region:us |
+| 2026-11-02 23:02:57 | [SaarAI/zul-post-training](https://huggingface.co/SaarAI/zul-post-training) | SaarAI | 0 | 0 | task_categories:text-generation; task_categories:translatio… |
+| 2026-11-02 23:04:14 | [br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_ALL](https://huggingface.co/br-llm-data/Carolina_Wikipedia26TF_HIGH_PLUS_ALL) | br-llm-data | 0 | 0 | region:us |
+| 2026-11-02 23:04:22 | [aptologia/estudios-buscadores-barranquilla-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-barranquilla-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:04:22 | [aptologia/estudios-buscadores-armenia-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-armenia-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:04:23 | [aptologia/estudios-buscadores-balcon-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-balcon-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:04:23 | [aptologia/estudios-buscadores-amoblado-mercado-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-amoblado-mercado-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:04:33 | [bomankari/near-intents-onchain-events](https://huggingface.co/bomankari/near-intents-onchain-events) | bomankari | 0 | 0 | language:en; license:mit; region:us; near; blockchain; defi… |
+| 2026-11-02 23:05:14 | [aptologia/estudios-buscadores-bello-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-bello-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:05:49 | [aptologia/estudios-buscadores-bucaramanga-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-bucaramanga-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:05:57 | [aptologia/estudios-buscadores-cajica-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-cajica-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:06:18 | [aptologia/estudios-buscadores-bogota-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-bogota-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:07:04 | [aptologia/estudios-buscadores-cali-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-cali-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:07:51 | [aptologia/estudios-buscadores-carmen-de-viboral-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-carmen-de-viboral-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:07:52 | [aptologia/estudios-buscadores-chia-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-chia-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:07:59 | [aptologia/estudios-buscadores-cartagena-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-cartagena-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:08:25 | [aptologia/estudios-buscadores-conjunto-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-conjunto-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:08:56 | [stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g6_run0](https://huggingface.co/stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g6_run0) | stefanocarrera | 0 | 0 | region:us |
+| 2026-11-02 23:09:03 | [newuser50-pumpfun/newuser50-signup-code-entry-steps-pumpfun-referral-code](https://huggingface.co/newuser50-pumpfun/newuser50-signup-code-entry-steps-pumpfun-referral-code) | newuser50-pumpfun | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-11-02 23:09:11 | [aptologia/estudios-buscadores-cucuta-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-cucuta-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:09:51 | [aptologia/estudios-buscadores-dispersion-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-dispersion-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:10:01 | [aptologia/estudios-buscadores-dosquebradas-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-dosquebradas-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:10:01 | [aptologia/estudios-buscadores-dueno-directo-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-dueno-directo-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:10:03 | [PeterXie666/lff-bench](https://huggingface.co/PeterXie666/lff-bench) | PeterXie666 | 0 | 0 | language:en; size_categories:1M<n<10M; region:us; robotics;… |
+| 2026-11-02 23:10:04 | [newuser50-pumpfun/newuser50-common-mistakes-pumpfun-referral-code](https://huggingface.co/newuser50-pumpfun/newuser50-common-mistakes-pumpfun-referral-code) | newuser50-pumpfun | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-11-02 23:10:40 | [xhsioi/Annoy-PyEdu-Rs](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs) | xhsioi | 0 | 0 | region:us |
+| 2026-11-02 23:10:41 | [xhsioi/Annoy-PyEdu-Rs-Raw](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs-Raw) | xhsioi | 0 | 0 | region:us |
+| 2026-11-02 23:10:48 | [aptologia/estudios-buscadores-envigado-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-envigado-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:10:53 | [newuser50-pumpfun/newuser50-qualifying-day-patterns-pumpfun-referral-code](https://huggingface.co/newuser50-pumpfun/newuser50-qualifying-day-patterns-pumpfun-referral-code) | newuser50-pumpfun | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-11-02 23:10:58 | [aptologia/estudios-buscadores-girardot-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-girardot-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:11:03 | [aptologia/estudios-buscadores-el-retiro-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-el-retiro-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:11:15 | [MabelCoco/Annoy-PyEdu-Rs](https://huggingface.co/MabelCoco/Annoy-PyEdu-Rs) | MabelCoco | 0 | 0 | region:us |
+| 2026-11-02 23:11:35 | [mohaEs/SurgCBVR-CAT](https://huggingface.co/mohaEs/SurgCBVR-CAT) | mohaEs | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-02 23:11:40 | [newuser50-pumpfun/newuser50-pre-start-readiness-pumpfun-referral-code](https://huggingface.co/newuser50-pumpfun/newuser50-pre-start-readiness-pumpfun-referral-code) | newuser50-pumpfun | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-11-02 23:11:46 | [MabelCoco/Annoy-PyEdu-Rs-Raw](https://huggingface.co/MabelCoco/Annoy-PyEdu-Rs-Raw) | MabelCoco | 0 | 0 | region:us |
+| 2026-11-02 23:11:51 | [victimfsfsd/vd6649](https://huggingface.co/victimfsfsd/vd6649) | victimfsfsd | 0 | 0 | region:us |
+| 2026-11-02 23:11:52 | [Krioasns/system1-decision-routing-bench](https://huggingface.co/Krioasns/system1-decision-routing-bench) | Krioasns | 0 | 1 | task_categories:text-classification; language:en; license:c… |
+| 2026-11-02 23:11:55 | [aptologia/estudios-buscadores-floridablanca-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-floridablanca-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:12:02 | [YzyLmc/stack_blue_on_yellow](https://huggingface.co/YzyLmc/stack_blue_on_yellow) | YzyLmc | 0 | 0 | task_categories:robotics; region:us; LeRobot; raiden; yam |
+| 2026-11-02 23:12:08 | [Nason/sahie-database](https://huggingface.co/Nason/sahie-database) | Nason | 0 | 0 | license:other; size_categories:100K<n<1M; region:us; health… |
+| 2026-11-02 23:12:42 | [aptologia/estudios-buscadores-itagui-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-itagui-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:12:48 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-02 23:12:49 | [aptologia/estudios-buscadores-la-calera-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-la-calera-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:12:53 | [aptologia/estudios-buscadores-ibague-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-ibague-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:12:54 | [KMCLabs/kmc-t-dataset](https://huggingface.co/KMCLabs/kmc-t-dataset) | KMCLabs | 0 | 0 | region:us |
+| 2026-11-02 23:13:04 | [newuser50-pumpfun/newuser50-glossary-pumpfun-referral-code](https://huggingface.co/newuser50-pumpfun/newuser50-glossary-pumpfun-referral-code) | newuser50-pumpfun | 0 | 0 | task_categories:tabular-classification; language:en; licens… |
+| 2026-11-02 23:13:11 | [SamuelCagnani/olfacto-odor-138-ptbr](https://huggingface.co/SamuelCagnani/olfacto-odor-138-ptbr) | SamuelCagnani | 0 | 0 | task_categories:text-classification; language:en; language:… |
+| 2026-11-02 23:13:13 | [aptologia/estudios-buscadores-jamundi-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-jamundi-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:13:17 | [cam-viability/cam-pathways-65m](https://huggingface.co/cam-viability/cam-pathways-65m) | cam-viability | 0 | 0 | region:us |
+| 2026-11-02 23:13:19 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-02 23:13:40 | [aptologia/estudios-buscadores-manizales-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-manizales-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:13:47 | [aptologia/estudios-buscadores-la-ceja-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-la-ceja-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:14:06 | [aptologia/estudios-buscadores-la-estrella-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-la-estrella-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:14:53 | [aptologia/estudios-buscadores-medellin-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-medellin-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:15:14 | [aptologia/estudios-buscadores-madrid-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-madrid-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:15:31 | [aptologia/estudios-buscadores-mosquera-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-mosquera-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:15:38 | [aptologia/estudios-buscadores-mascotas-mercado-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-mascotas-mercado-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:16:20 | [Kesoni10/fbref_football_player_performance_2024-2025](https://huggingface.co/Kesoni10/fbref_football_player_performance_2024-2025) | Kesoni10 | 0 | 0 | region:us; sports; football |
+| 2026-11-02 23:16:28 | [risenfromashes/qraft-data](https://huggingface.co/risenfromashes/qraft-data) | risenfromashes | 0 | 0 | license:cc-by-4.0; region:us; phylogenetics; species-tree;… |
+| 2026-11-02 23:16:43 | [aptologia/estudios-buscadores-pereira-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-pereira-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:17:03 | [NorviTech/arrmes-bench-v5](https://huggingface.co/NorviTech/arrmes-bench-v5) | NorviTech | 0 | 0 | task_categories:text-generation; task_categories:text-class… |
+| 2026-11-02 23:17:17 | [aptologia/estudios-buscadores-monteria-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-monteria-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:17:26 | [aptologia/estudios-buscadores-parqueaderos-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-parqueaderos-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:17:50 | [JingwuLuo/pick_and_place_quick_new](https://huggingface.co/JingwuLuo/pick_and_place_quick_new) | JingwuLuo | 0 | 0 | region:us |
+| 2026-11-02 23:17:50 | [aptologia/estudios-buscadores-rionegro-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-rionegro-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:18:02 | [aptologia/estudios-buscadores-santa-marta-lote8-2026](https://huggingface.co/aptologia/estudios-buscadores-santa-marta-lote8-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 23:18:07 | [NorviTech/arrmes-bench-v2](https://huggingface.co/NorviTech/arrmes-bench-v2) | NorviTech | 0 | 0 | region:us |
+| 2026-11-02 23:18:08 | [acD124SAQ/Annoy-PyEdu-Rs](https://huggingface.co/acD124SAQ/Annoy-PyEdu-Rs) | acD124SAQ | 0 | 0 | region:us |
+| 2026-11-02 23:18:09 | [acD124SAQ/Annoy-PyEdu-Rs-Raw](https://huggingface.co/acD124SAQ/Annoy-PyEdu-Rs-Raw) | acD124SAQ | 0 | 0 | region:us |
+| 2026-11-02 23:18:10 | [afdaffa/Annoy-PyEdu-Rs](https://huggingface.co/afdaffa/Annoy-PyEdu-Rs) | afdaffa | 0 | 0 | region:us |
 
 ## Data source
 
