@@ -9,130 +9,152 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 14:20 UTC
+## Latest list — 2026-11-02 15:20 UTC
 
-New datasets created between 2026-11-02 13:19 UTC and 2026-11-02 14:20 UTC.
+New datasets created between 2026-11-02 14:20 UTC and 2026-11-02 15:20 UTC.
 
-[Full CSV](data/new-datasets-2026-11-02T14-20-03-275859Z.csv)
+[Full CSV](data/new-datasets-2026-11-02T15-20-09-62054Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-11-02 13:19:41 | [Gserts/push_cube_charger_20261102_205242](https://huggingface.co/Gserts/push_cube_charger_20261102_205242) | Gserts | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:20:26 | [yuan88964/relaystudio](https://huggingface.co/yuan88964/relaystudio) | yuan88964 | 0 | 0 | region:us |
-| 2026-11-02 13:20:26 | [masterofaudio2077/laion-coco-arabic-multilen-captions](https://huggingface.co/masterofaudio2077/laion-coco-arabic-multilen-captions) | masterofaudio2077 | 0 | 0 | language:ar; license:apache-2.0; size_categories:1K<n<10K;… |
-| 2026-11-02 13:22:35 | [nightly-wave/fed77b39](https://huggingface.co/nightly-wave/fed77b39) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-02 13:24:22 | [savethisok/d-08d58e6ec1fa199d](https://huggingface.co/savethisok/d-08d58e6ec1fa199d) | savethisok | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-11-02 13:25:38 | [Panda512/record_approach_1102](https://huggingface.co/Panda512/record_approach_1102) | Panda512 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:25:51 | [XingZhou666/Annoy-PyEdu-Rs](https://huggingface.co/XingZhou666/Annoy-PyEdu-Rs) | XingZhou666 | 0 | 0 | region:us |
-| 2026-11-02 13:25:56 | [XingZhou666/Annoy-PyEdu-Rs-Raw](https://huggingface.co/XingZhou666/Annoy-PyEdu-Rs-Raw) | XingZhou666 | 0 | 0 | region:us |
-| 2026-11-02 13:26:36 | [abigailhaddad/eeoc-appellate-decisions](https://huggingface.co/abigailhaddad/eeoc-appellate-decisions) | abigailhaddad | 0 | 0 | language:en; license:other; size_categories:100K<n<1M; form… |
-| 2026-11-02 13:28:42 | [dakr-pandas/tool-calling-conversations-mvu7h1c0](https://huggingface.co/dakr-pandas/tool-calling-conversations-mvu7h1c0) | dakr-pandas | 0 | 0 | task_categories:text-generation; language:multilingual; siz… |
-| 2026-11-02 13:28:42 | [Athithya117/adaptive-graphrag-datasets](https://huggingface.co/Athithya117/adaptive-graphrag-datasets) | Athithya117 | 0 | 0 | language:en; license:cc0-1.0; size_categories:10K<n<100K; f… |
-| 2026-11-02 13:28:58 | [Charlotte764/pump-fun-referral-code-best100-how-to-join-register-start-using-pump-fun](https://huggingface.co/Charlotte764/pump-fun-referral-code-best100-how-to-join-register-start-using-pump-fun) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:30:06 | [Charlotte764/pump-fun-referral-code-flat100-registration-steps-wallet-connection-trading-guide](https://huggingface.co/Charlotte764/pump-fun-referral-code-flat100-registration-steps-wallet-connection-trading-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:30:10 | [ChengqianMa/Duplex-MPE](https://huggingface.co/ChengqianMa/Duplex-MPE) | ChengqianMa | 0 | 0 | region:us |
-| 2026-11-02 13:30:24 | [NoeFlandre/inat-landscape-filtering](https://huggingface.co/NoeFlandre/inat-landscape-filtering) | NoeFlandre | 0 | 0 | task_categories:image-classification; task_categories:zero-… |
-| 2026-11-02 13:31:24 | [Charlotte764/pump-fun-referral-code-cashback100-how-to-sign-up-explore-user-offers](https://huggingface.co/Charlotte764/pump-fun-referral-code-cashback100-how-to-sign-up-explore-user-offers) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:31:39 | [liuf12123456/Annoy-PyEdu-Rs](https://huggingface.co/liuf12123456/Annoy-PyEdu-Rs) | liuf12123456 | 0 | 0 | region:us |
-| 2026-11-02 13:31:45 | [liuf12123456/Annoy-PyEdu-Rs-Raw](https://huggingface.co/liuf12123456/Annoy-PyEdu-Rs-Raw) | liuf12123456 | 0 | 0 | region:us |
-| 2026-11-02 13:31:49 | [Nampfiev1995/Vietnam-Celeb-test-opus](https://huggingface.co/Nampfiev1995/Vietnam-Celeb-test-opus) | Nampfiev1995 | 0 | 0 | source_datasets:doof-ferb/Vietnam-Celeb; language:vi; licen… |
-| 2026-11-02 13:32:49 | [rizki14/juaratka-suara](https://huggingface.co/rizki14/juaratka-suara) | rizki14 | 0 | 0 | size_categories:1K<n<10K; format:audiofolder; modality:audi… |
-| 2026-11-02 13:33:14 | [siqiro/GenH3-Train-3149-20261102](https://huggingface.co/siqiro/GenH3-Train-3149-20261102) | siqiro | 0 | 0 | task_categories:image-to-image; language:en; language:zh; s… |
-| 2026-11-02 13:33:19 | [yuan88964/RelayStudio-Releases](https://huggingface.co/yuan88964/RelayStudio-Releases) | yuan88964 | 0 | 0 | license:mit; region:us |
-| 2026-11-02 13:34:38 | [Charlotte764/pump-fun-referral-code-gift100-new-user-signup-account-setup-platform-guide](https://huggingface.co/Charlotte764/pump-fun-referral-code-gift100-new-user-signup-account-setup-platform-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:34:52 | [Captain2503/Heart-Disease-Prediction-dataset](https://huggingface.co/Captain2503/Heart-Disease-Prediction-dataset) | Captain2503 | 0 | 0 | license:apache-2.0; size_categories:10K<n<100K; format:csv;… |
-| 2026-11-02 13:36:33 | [brax0402/ds0731-thinking-high-step50-pi](https://huggingface.co/brax0402/ds0731-thinking-high-step50-pi) | brax0402 | 0 | 0 | region:us |
-| 2026-11-02 13:37:19 | [Cosineyx/IMLogic](https://huggingface.co/Cosineyx/IMLogic) | Cosineyx | 0 | 0 | task_categories:question-answering; source_datasets:IAAR-Sh… |
-| 2026-11-02 13:37:20 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-02 13:37:27 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-02 13:38:08 | [Charlotte764/pump-fun-referral-code-fun100-create-an-account-learn-how-pump-fun-works](https://huggingface.co/Charlotte764/pump-fun-referral-code-fun100-create-an-account-learn-how-pump-fun-works) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:38:41 | [GovindC/Takri_pagedata_f](https://huggingface.co/GovindC/Takri_pagedata_f) | GovindC | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:image;… |
-| 2026-11-02 13:38:46 | [xhsioi/Annoy-PyEdu-Rs](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs) | xhsioi | 0 | 0 | region:us |
-| 2026-11-02 13:38:47 | [xhsioi/Annoy-PyEdu-Rs-Raw](https://huggingface.co/xhsioi/Annoy-PyEdu-Rs-Raw) | xhsioi | 0 | 0 | region:us |
-| 2026-11-02 13:38:55 | [HaDo25678/Lab4_netflix_titles](https://huggingface.co/HaDo25678/Lab4_netflix_titles) | HaDo25678 | 0 | 0 | size_categories:1K<n<10K; format:csv; modality:tabular; mod… |
-| 2026-11-02 13:38:57 | [imstevenpmwork/torch215_smoke](https://huggingface.co/imstevenpmwork/torch215_smoke) | imstevenpmwork | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:39:10 | [Charlotte764/pump-fun-referral-code-cut100-sign-up-instructions-trading-tips-for-beginners](https://huggingface.co/Charlotte764/pump-fun-referral-code-cut100-sign-up-instructions-trading-tips-for-beginners) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:39:56 | [abc21212/FLAIR-1-2](https://huggingface.co/abc21212/FLAIR-1-2) | abc21212 | 0 | 0 | task_categories:image-segmentation; license:etalab-2.0; siz… |
-| 2026-11-02 13:40:27 | [thanhsonvo71/pickPlaceBox_v3](https://huggingface.co/thanhsonvo71/pickPlaceBox_v3) | thanhsonvo71 | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-11-02 13:40:29 | [Charlotte764/pump-fun-referral-code-get10-registration-steps-wallet-linking-user-guide](https://huggingface.co/Charlotte764/pump-fun-referral-code-get10-registration-steps-wallet-linking-user-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:40:44 | [rairo/ouroboros-beam](https://huggingface.co/rairo/ouroboros-beam) | rairo | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-02 13:40:54 | [Miraf1/tts-dataset-merged](https://huggingface.co/Miraf1/tts-dataset-merged) | Miraf1 | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:audio;… |
-| 2026-11-02 13:41:10 | [glannuzel/red-cube-blue-box-1-50](https://huggingface.co/glannuzel/red-cube-blue-box-1-50) | glannuzel | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:41:39 | [Charlotte764/pump-fun-referral-code-get25-how-to-register-get-started-on-pump-fun](https://huggingface.co/Charlotte764/pump-fun-referral-code-get25-how-to-register-get-started-on-pump-fun) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:41:41 | [rikraj100/ruletaker](https://huggingface.co/rikraj100/ruletaker) | rikraj100 | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:text; li… |
-| 2026-11-02 13:41:50 | [mousamoradi/Output_vocabulary_analysis](https://huggingface.co/mousamoradi/Output_vocabulary_analysis) | mousamoradi | 0 | 0 | language:en; size_categories:n<1K; format:json; library:dat… |
-| 2026-11-02 13:41:52 | [Evanxw0715/BiCAT_SO101](https://huggingface.co/Evanxw0715/BiCAT_SO101) | Evanxw0715 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:44:15 | [aptologia/estudios-oferentes-mascotas-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-mascotas-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
-| 2026-11-02 13:44:19 | [fangg2000/xclj](https://huggingface.co/fangg2000/xclj) | fangg2000 | 0 | 0 | license:other; region:us |
-| 2026-11-02 13:44:19 | [Charlotte764/pump-fun-referral-code-get5-beginners-guide-to-signup-wallet-setup-trading](https://huggingface.co/Charlotte764/pump-fun-referral-code-get5-beginners-guide-to-signup-wallet-setup-trading) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:45:53 | [dakr-pandas/tool-calling-conversations-mvvmww00](https://huggingface.co/dakr-pandas/tool-calling-conversations-mvvmww00) | dakr-pandas | 0 | 0 | task_categories:text-generation; language:multilingual; siz… |
-| 2026-11-02 13:46:09 | [Charlotte764/pump-fun-app-referral-code-join100-complete-2026-app-registration-usage-tutorial](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-join100-complete-2026-app-registration-usage-tutorial) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:46:18 | [DanieleGammelli/wmabl-router-labels](https://huggingface.co/DanieleGammelli/wmabl-router-labels) | DanieleGammelli | 0 | 0 | region:us |
-| 2026-11-02 13:46:33 | [zhangsan-ai-1027/mhxy-valuation-evidence-qa](https://huggingface.co/zhangsan-ai-1027/mhxy-valuation-evidence-qa) | zhangsan-ai-1027 | 0 | 0 | task_categories:question-answering; language:zh; size_categ… |
-| 2026-11-02 13:47:16 | [ahkamboh/stepmold-bench](https://huggingface.co/ahkamboh/stepmold-bench) | ahkamboh | 0 | 0 | task_categories:text-generation; language:en; license:mit;… |
-| 2026-11-02 13:48:52 | [MariaFPG/place_the_red_cube_in_the_red_drawer](https://huggingface.co/MariaFPG/place_the_red_cube_in_the_red_drawer) | MariaFPG | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:48:59 | [Charlotte764/pump-fun-app-referral-code-best100-mobile-app-login-setup-navigation-guide](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-best100-mobile-app-login-setup-navigation-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:49:22 | [adcostanza/decision-index-results](https://huggingface.co/adcostanza/decision-index-results) | adcostanza | 0 | 0 | task_categories:visual-question-answering; license:cc-by-4.… |
-| 2026-11-02 13:50:01 | [aptologia/estudios-oferentes-parqueadero-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-parqueadero-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
-| 2026-11-02 13:51:22 | [Charlotte764/pump-fun-app-referral-code-flat100-exploring-wallet-options-trading-tools-in-the-app](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-flat100-exploring-wallet-options-trading-tools-in-the-app) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:51:25 | [cherrycharry3e/jgtyzqnjua](https://huggingface.co/cherrycharry3e/jgtyzqnjua) | cherrycharry3e | 0 | 0 | region:us |
-| 2026-11-02 13:52:04 | [asd11dasd21dd/Annoy-PyEdu-Rs](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs) | asd11dasd21dd | 0 | 0 | region:us |
-| 2026-11-02 13:52:05 | [asd11dasd21dd/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs-Raw) | asd11dasd21dd | 0 | 0 | region:us |
-| 2026-11-02 13:53:36 | [Charlotte764/pump-fun-app-referral-code-cashback100-mobile-app-features-rewards-signup-tutorial](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-cashback100-mobile-app-features-rewards-signup-tutorial) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:54:14 | [wahrwack/rollout_dagger_r1b_20261102_144838](https://huggingface.co/wahrwack/rollout_dagger_r1b_20261102_144838) | wahrwack | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:54:22 | [Nabidnur/arc-agi-3-campaign-2026](https://huggingface.co/Nabidnur/arc-agi-3-campaign-2026) | Nabidnur | 0 | 0 | license:mit; size_categories:n<1K; region:us; arc; arc-agi;… |
-| 2026-11-02 13:54:47 | [enheiiiiii/maniskill-new](https://huggingface.co/enheiiiiii/maniskill-new) | enheiiiiii | 0 | 0 | region:us |
-| 2026-11-02 13:55:32 | [SOTAagi2030/Tundra-Wildlife-Encounters-341](https://huggingface.co/SOTAagi2030/Tundra-Wildlife-Encounters-341) | SOTAagi2030 | 0 | 0 | task_categories:tabular-classification; license:cc-by-4.0;… |
-| 2026-11-02 13:55:33 | [neverlish/record-test-20261102-1](https://huggingface.co/neverlish/record-test-20261102-1) | neverlish | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 13:56:04 | [FaisalHejary/multiwoz-embedding-classification](https://huggingface.co/FaisalHejary/multiwoz-embedding-classification) | FaisalHejary | 0 | 0 | task_categories:text-classification; task_categories:senten… |
-| 2026-11-02 13:56:38 | [Charlotte764/pump-fun-app-referral-code-gift100-beginners-guide-to-installing-using-the-app](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-gift100-beginners-guide-to-installing-using-the-app) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 13:57:10 | [sponsorjobs/uk-visa-sponsorship-adverts-2026](https://huggingface.co/sponsorjobs/uk-visa-sponsorship-adverts-2026) | sponsorjobs | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
-| 2026-11-02 13:59:00 | [Charlotte764/pump-fun-app-referral-code-fun100-mobile-account-setup-essential-app-features](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-fun100-mobile-account-setup-essential-app-features) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:00:11 | [savethisok/d-37678e72ba0e3c4d](https://huggingface.co/savethisok/d-37678e72ba0e3c4d) | savethisok | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-11-02 14:00:44 | [Jar-ai/1s-100B](https://huggingface.co/Jar-ai/1s-100B) | Jar-ai | 0 | 0 | license:apache-2.0; size_categories:100B<n<1T; format:parqu… |
-| 2026-11-02 14:01:03 | [Charlotte764/pump-fun-app-referral-code-cut100-a-practical-guide-to-app-trading-transaction-fees](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-cut100-a-practical-guide-to-app-trading-transaction-fees) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:01:10 | [deepakkamat6630/modular-2d-to-3d-glb-dsl-12cat](https://huggingface.co/deepakkamat6630/modular-2d-to-3d-glb-dsl-12cat) | deepakkamat6630 | 0 | 0 | size_categories:1K<n<10K; format:parquet; format:optimized-… |
-| 2026-11-02 14:01:12 | [Et1enne/g1-transition-quality](https://huggingface.co/Et1enne/g1-transition-quality) | Et1enne | 0 | 0 | region:us |
-| 2026-11-02 14:01:42 | [stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g0_run0](https://huggingface.co/stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g0_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-11-02 14:02:10 | [twanghcmut/roboworm-overview](https://huggingface.co/twanghcmut/roboworm-overview) | twanghcmut | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-11-02 14:02:55 | [sagarvikram/linocutfluxD](https://huggingface.co/sagarvikram/linocutfluxD) | sagarvikram | 0 | 0 | region:us |
-| 2026-11-02 14:02:56 | [EDU-Foundation/EDU](https://huggingface.co/EDU-Foundation/EDU) | EDU-Foundation | 0 | 0 | doi:10.57967/hf/11375; region:us |
-| 2026-11-02 14:02:59 | [Yukito-LMlab/cc-ja-tagged-2026-39](https://huggingface.co/Yukito-LMlab/cc-ja-tagged-2026-39) | Yukito-LMlab | 0 | 0 | region:us |
-| 2026-11-02 14:03:05 | [Charlotte764/pump-fun-app-referral-code-get10-how-to-register-connect-navigate-the-app](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-get10-how-to-register-connect-navigate-the-app) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:03:15 | [Nampfiev1995/ami-opus](https://huggingface.co/Nampfiev1995/ami-opus) | Nampfiev1995 | 0 | 0 | task_categories:automatic-speech-recognition; source_datase… |
-| 2026-11-02 14:03:18 | [dakr-pandas/tool-calling-conversations-mvx2cqo0](https://huggingface.co/dakr-pandas/tool-calling-conversations-mvx2cqo0) | dakr-pandas | 0 | 0 | task_categories:text-generation; language:multilingual; siz… |
-| 2026-11-02 14:04:46 | [Charlotte764/pump-fun-app-referral-code-get25-mobile-app-setup-wallet-management-tutorial](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-get25-mobile-app-setup-wallet-management-tutorial) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:05:48 | [ysharma/north-micro-pope-multilingual](https://huggingface.co/ysharma/north-micro-pope-multilingual) | ysharma | 0 | 0 | region:us |
-| 2026-11-02 14:06:12 | [zhujiaying-mcpbench/Annoy-PyEdu-Rs](https://huggingface.co/zhujiaying-mcpbench/Annoy-PyEdu-Rs) | zhujiaying-mcpbench | 0 | 0 | region:us |
-| 2026-11-02 14:06:13 | [zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw](https://huggingface.co/zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw) | zhujiaying-mcpbench | 0 | 0 | region:us |
-| 2026-11-02 14:07:36 | [OM0925/Marchen_Syn](https://huggingface.co/OM0925/Marchen_Syn) | OM0925 | 0 | 0 | region:us |
-| 2026-11-02 14:08:06 | [ahkamboh/search-reader-bench](https://huggingface.co/ahkamboh/search-reader-bench) | ahkamboh | 0 | 0 | task_categories:question-answering; language:en; license:ap… |
-| 2026-11-02 14:09:05 | [ProPhil/american-distress-index](https://huggingface.co/ProPhil/american-distress-index) | ProPhil | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
-| 2026-11-02 14:10:25 | [Charlotte764/pump-fun-app-referral-code-get5-easy-app-registration-getting-started-guide](https://huggingface.co/Charlotte764/pump-fun-app-referral-code-get5-easy-app-registration-getting-started-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:11:05 | [wahrwack/rollout_dagger_r1b_20261102_145510](https://huggingface.co/wahrwack/rollout_dagger_r1b_20261102_145510) | wahrwack | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-02 14:11:35 | [aptologia/estudios-oferentes-bogota-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-bogota-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
-| 2026-11-02 14:11:56 | [nightly-wave/test_s1](https://huggingface.co/nightly-wave/test_s1) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-02 14:12:46 | [Charlotte764/phantom-referral-code-reward100-wallet-setup-guide-swap-features-platform-overview-2026](https://huggingface.co/Charlotte764/phantom-referral-code-reward100-wallet-setup-guide-swap-features-platform-overview-2026) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:13:01 | [nightly-wave/test_s2](https://huggingface.co/nightly-wave/test_s2) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-02 14:13:08 | [xhguo802/fr3_pick_cabbagev3_20261031_v01](https://huggingface.co/xhguo802/fr3_pick_cabbagev3_20261031_v01) | xhguo802 | 0 | 0 | task_categories:robotics; language:en; language:zh; license… |
-| 2026-11-02 14:13:16 | [syssec-utd/pylingual-shared-adapter-corpus-v3](https://huggingface.co/syssec-utd/pylingual-shared-adapter-corpus-v3) | syssec-utd | 0 | 0 | license:other; region:us |
-| 2026-11-02 14:13:34 | [nightly-wave/test_s3](https://huggingface.co/nightly-wave/test_s3) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-02 14:13:45 | [AslanRunner/crows_pairs_multilingual](https://huggingface.co/AslanRunner/crows_pairs_multilingual) | AslanRunner | 0 | 0 | language:en; language:fr; license:cc-by-sa-4.0; arxiv:2010.… |
-| 2026-11-02 14:13:51 | [joonyeongs/cosmos3-nano-eval-failure-analysis](https://huggingface.co/joonyeongs/cosmos3-nano-eval-failure-analysis) | joonyeongs | 0 | 0 | region:us |
-| 2026-11-02 14:14:01 | [nightly-wave/test_s4](https://huggingface.co/nightly-wave/test_s4) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-02 14:14:57 | [Charlotte764/phantom-referral-code-join100-easy-wallet-registration-security-settings-getting-started](https://huggingface.co/Charlotte764/phantom-referral-code-join100-easy-wallet-registration-security-settings-getting-started) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:16:17 | [Charlotte764/phantom-referral-code-bonus100-how-to-create-a-wallet-explore-phantom-features](https://huggingface.co/Charlotte764/phantom-referral-code-bonus100-how-to-create-a-wallet-explore-phantom-features) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:16:25 | [ASDCXZ12EDX/Annoy-PyEdu-Rs](https://huggingface.co/ASDCXZ12EDX/Annoy-PyEdu-Rs) | ASDCXZ12EDX | 0 | 0 | region:us |
-| 2026-11-02 14:16:28 | [ASDCXZ12EDX/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDCXZ12EDX/Annoy-PyEdu-Rs-Raw) | ASDCXZ12EDX | 0 | 0 | region:us |
-| 2026-11-02 14:17:20 | [starkAhmed43/lc-image-5db99a35ba65e42db686d393](https://huggingface.co/starkAhmed43/lc-image-5db99a35ba65e42db686d393) | starkAhmed43 | 0 | 0 | region:us |
-| 2026-11-02 14:18:09 | [Charlotte764/phantom-referral-code-welcome10-wallet-setup-instructions-beginners-getting-started-guide](https://huggingface.co/Charlotte764/phantom-referral-code-welcome10-wallet-setup-instructions-beginners-getting-started-guide) | Charlotte764 | 0 | 0 | region:us |
-| 2026-11-02 14:18:35 | [HomaSim/astribot-playground](https://huggingface.co/HomaSim/astribot-playground) | HomaSim | 0 | 0 | license:mit; region:us |
-| 2026-11-02 14:19:34 | [sfafasfafhuu/Annoy-PyEdu-Rs](https://huggingface.co/sfafasfafhuu/Annoy-PyEdu-Rs) | sfafasfafhuu | 0 | 0 | region:us |
-| 2026-11-02 14:19:35 | [sfafasfafhuu/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sfafasfafhuu/Annoy-PyEdu-Rs-Raw) | sfafasfafhuu | 0 | 0 | region:us |
-| 2026-11-02 14:19:37 | [MckenzieAslan/Annoy-PyEdu-Rs](https://huggingface.co/MckenzieAslan/Annoy-PyEdu-Rs) | MckenzieAslan | 0 | 0 | region:us |
-| 2026-11-02 14:19:40 | [linliaaa/Annoy-PyEdu-Rs](https://huggingface.co/linliaaa/Annoy-PyEdu-Rs) | linliaaa | 0 | 0 | region:us |
-| 2026-11-02 14:19:41 | [linliaaa/Annoy-PyEdu-Rs-Raw](https://huggingface.co/linliaaa/Annoy-PyEdu-Rs-Raw) | linliaaa | 0 | 0 | region:us |
-| 2026-11-02 14:19:42 | [MckenzieAslan/Annoy-PyEdu-Rs-Raw](https://huggingface.co/MckenzieAslan/Annoy-PyEdu-Rs-Raw) | MckenzieAslan | 0 | 0 | region:us |
+| 2026-11-02 14:20:29 | [Charlotte764/phantom-referral-code-get100-complete-wallet-setup-activation-usage-tutorial](https://huggingface.co/Charlotte764/phantom-referral-code-get100-complete-wallet-setup-activation-usage-tutorial) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:21:38 | [Charlotte764/phantom-referral-code-cashback100-swap-guide-transaction-costs-wallet-features](https://huggingface.co/Charlotte764/phantom-referral-code-cashback100-swap-guide-transaction-costs-wallet-features) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:24:39 | [Nampfiev1995/ami-sdm-opus](https://huggingface.co/Nampfiev1995/ami-sdm-opus) | Nampfiev1995 | 0 | 0 | task_categories:automatic-speech-recognition; source_datase… |
+| 2026-11-02 14:25:06 | [Charlotte764/phantom-app-referral-code-reward100-mobile-wallet-setup-essential-features-explained](https://huggingface.co/Charlotte764/phantom-app-referral-code-reward100-mobile-wallet-setup-essential-features-explained) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:25:51 | [navmansh/847536u](https://huggingface.co/navmansh/847536u) | navmansh | 0 | 0 | region:us |
+| 2026-11-02 14:25:53 | [sesang06/pokemon_party_meta](https://huggingface.co/sesang06/pokemon_party_meta) | sesang06 | 0 | 0 | region:us |
+| 2026-11-02 14:26:18 | [linliaaa/Annoy-PyEdu-Rs](https://huggingface.co/linliaaa/Annoy-PyEdu-Rs) | linliaaa | 0 | 0 | region:us |
+| 2026-11-02 14:26:22 | [linliaaa/Annoy-PyEdu-Rs-Raw](https://huggingface.co/linliaaa/Annoy-PyEdu-Rs-Raw) | linliaaa | 0 | 0 | region:us |
+| 2026-11-02 14:26:36 | [tsilavinaZh/recupbuild-scan-benchmark](https://huggingface.co/tsilavinaZh/recupbuild-scan-benchmark) | tsilavinaZh | 0 | 1 | task_categories:object-detection; license:cc-by-4.0; size_c… |
+| 2026-11-02 14:28:43 | [Charlotte764/phantom-app-referral-code-join100-step-by-step-mobile-wallet-installation-setup-guide](https://huggingface.co/Charlotte764/phantom-app-referral-code-join100-step-by-step-mobile-wallet-installation-setup-guide) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:30:13 | [Charlotte764/phantom-app-referral-code-bonus100-create-a-mobile-wallet-learn-its-main-features](https://huggingface.co/Charlotte764/phantom-app-referral-code-bonus100-create-a-mobile-wallet-learn-its-main-features) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:31:10 | [Aciv/grouding_web](https://huggingface.co/Aciv/grouding_web) | Aciv | 0 | 0 | region:us |
+| 2026-11-02 14:31:31 | [Charlotte764/phantom-app-referral-code-welcome10-mobile-wallet-registration-beginner-setup-instructions](https://huggingface.co/Charlotte764/phantom-app-referral-code-welcome10-mobile-wallet-registration-beginner-setup-instructions) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:32:48 | [stch-ai/piper_fold_test_1](https://huggingface.co/stch-ai/piper_fold_test_1) | stch-ai | 0 | 1 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-11-02 14:34:34 | [Charlotte764/phantom-app-referral-code-get100-connect-your-wallet-explore-mobile-app-features](https://huggingface.co/Charlotte764/phantom-app-referral-code-get100-connect-your-wallet-explore-mobile-app-features) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:35:02 | [asd11dasd21dd/Annoy-PyEdu-Rs](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs) | asd11dasd21dd | 0 | 0 | region:us |
+| 2026-11-02 14:35:14 | [liufeqww1154/Annoy-PyEdu-Rs](https://huggingface.co/liufeqww1154/Annoy-PyEdu-Rs) | liufeqww1154 | 0 | 0 | region:us |
+| 2026-11-02 14:35:15 | [liufeqww1154/Annoy-PyEdu-Rs-Raw](https://huggingface.co/liufeqww1154/Annoy-PyEdu-Rs-Raw) | liufeqww1154 | 0 | 0 | region:us |
+| 2026-11-02 14:35:16 | [asd11dasd21dd/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs-Raw) | asd11dasd21dd | 0 | 0 | region:us |
+| 2026-11-02 14:35:24 | [sdsfsdg565757/Annoy-PyEdu-Rs](https://huggingface.co/sdsfsdg565757/Annoy-PyEdu-Rs) | sdsfsdg565757 | 0 | 0 | region:us |
+| 2026-11-02 14:35:25 | [sdsfsdg565757/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdsfsdg565757/Annoy-PyEdu-Rs-Raw) | sdsfsdg565757 | 0 | 0 | region:us |
+| 2026-11-02 14:35:33 | [asfadfad/Annoy-PyEdu-Rs](https://huggingface.co/asfadfad/Annoy-PyEdu-Rs) | asfadfad | 0 | 0 | region:us |
+| 2026-11-02 14:35:34 | [SC13SD123SADAS/Annoy-PyEdu-Rs](https://huggingface.co/SC13SD123SADAS/Annoy-PyEdu-Rs) | SC13SD123SADAS | 0 | 0 | region:us |
+| 2026-11-02 14:35:41 | [afhjassfg/Annoy-PyEdu-Rs](https://huggingface.co/afhjassfg/Annoy-PyEdu-Rs) | afhjassfg | 0 | 0 | region:us |
+| 2026-11-02 14:35:44 | [afhjassfg/Annoy-PyEdu-Rs-Raw](https://huggingface.co/afhjassfg/Annoy-PyEdu-Rs-Raw) | afhjassfg | 0 | 0 | region:us |
+| 2026-11-02 14:35:47 | [sdsfsf56/Annoy-PyEdu-Rs](https://huggingface.co/sdsfsf56/Annoy-PyEdu-Rs) | sdsfsf56 | 0 | 0 | region:us |
+| 2026-11-02 14:35:48 | [sdsfsf56/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdsfsf56/Annoy-PyEdu-Rs-Raw) | sdsfsf56 | 0 | 0 | region:us |
+| 2026-11-02 14:35:49 | [asfadfad/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asfadfad/Annoy-PyEdu-Rs-Raw) | asfadfad | 0 | 0 | region:us |
+| 2026-11-02 14:35:50 | [SC13SD123SADAS/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SC13SD123SADAS/Annoy-PyEdu-Rs-Raw) | SC13SD123SADAS | 0 | 0 | region:us |
+| 2026-11-02 14:35:56 | [sjsjsjsk1/WildDeepfake](https://huggingface.co/sjsjsjsk1/WildDeepfake) | sjsjsjsk1 | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-02 14:36:08 | [Charlotte764/phantom-app-referral-code-cashback100-mobile-swap-tutorial-wallet-settings-usage-guide](https://huggingface.co/Charlotte764/phantom-app-referral-code-cashback100-mobile-swap-tutorial-wallet-settings-usage-guide) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:37:29 | [FaisalHejary/sms-spam-embedding](https://huggingface.co/FaisalHejary/sms-spam-embedding) | FaisalHejary | 0 | 0 | task_categories:text-classification; task_categories:senten… |
+| 2026-11-02 14:37:34 | [FaisalHejary/fact-or-opinion-embedding](https://huggingface.co/FaisalHejary/fact-or-opinion-embedding) | FaisalHejary | 0 | 0 | task_categories:text-classification; task_categories:senten… |
+| 2026-11-02 14:38:44 | [DonkeypunchEX/HolyCyber](https://huggingface.co/DonkeypunchEX/HolyCyber) | DonkeypunchEX | 0 | 0 | task_categories:text-generation; task_categories:question-a… |
+| 2026-11-02 14:39:56 | [zer0contextlost/flypaper](https://huggingface.co/zer0contextlost/flypaper) | zer0contextlost | 0 | 0 | license:cc-by-4.0; size_categories:10K<n<100K; modality:tex… |
+| 2026-11-02 14:40:11 | [albagon/telearms-yam-red-left-blue-rig-dr-nolip-cse-l40s](https://huggingface.co/albagon/telearms-yam-red-left-blue-rig-dr-nolip-cse-l40s) | albagon | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-02 14:41:00 | [aptologia/estudios-buscadores-arrendar-o-comprar-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-arrendar-o-comprar-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:41:07 | [aptologia/estudios-buscadores-amoblado-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-amoblado-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:41:11 | [VardanSharma13/spectrum-sft](https://huggingface.co/VardanSharma13/spectrum-sft) | VardanSharma13 | 0 | 0 | task_categories:question-answering; task_categories:text-cl… |
+| 2026-11-02 14:41:23 | [ASD1232132/Annoy-PyEdu-Rs](https://huggingface.co/ASD1232132/Annoy-PyEdu-Rs) | ASD1232132 | 0 | 0 | region:us |
+| 2026-11-02 14:41:35 | [ASD1232132/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD1232132/Annoy-PyEdu-Rs-Raw) | ASD1232132 | 0 | 0 | region:us |
+| 2026-11-02 14:41:45 | [FaisalHejary/deepsearchqa-domain-embedding](https://huggingface.co/FaisalHejary/deepsearchqa-domain-embedding) | FaisalHejary | 0 | 0 | task_categories:text-classification; task_categories:senten… |
+| 2026-11-02 14:41:51 | [liuff1568/Annoy-PyEdu-Rs-Raw](https://huggingface.co/liuff1568/Annoy-PyEdu-Rs-Raw) | liuff1568 | 0 | 0 | region:us |
+| 2026-11-02 14:41:51 | [liuff1568/Annoy-PyEdu-Rs](https://huggingface.co/liuff1568/Annoy-PyEdu-Rs) | liuff1568 | 0 | 0 | region:us |
+| 2026-11-02 14:41:55 | [aptologia/estudios-buscadores-arriendo-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-arriendo-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:42:05 | [Nampfiev1995/gigaspeech-opus](https://huggingface.co/Nampfiev1995/gigaspeech-opus) | Nampfiev1995 | 0 | 0 | task_categories:automatic-speech-recognition; task_categori… |
+| 2026-11-02 14:42:52 | [SAD123SA/Annoy-PyEdu-Rs](https://huggingface.co/SAD123SA/Annoy-PyEdu-Rs) | SAD123SA | 0 | 0 | region:us |
+| 2026-11-02 14:42:59 | [SAD123SA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SAD123SA/Annoy-PyEdu-Rs-Raw) | SAD123SA | 0 | 0 | region:us |
+| 2026-11-02 14:43:25 | [aarontseng/zc-prepared-full](https://huggingface.co/aarontseng/zc-prepared-full) | aarontseng | 0 | 0 | region:us |
+| 2026-11-02 14:43:27 | [ASDSAGJADFQWQ/Annoy-PyEdu-Rs](https://huggingface.co/ASDSAGJADFQWQ/Annoy-PyEdu-Rs) | ASDSAGJADFQWQ | 0 | 0 | region:us |
+| 2026-11-02 14:43:35 | [ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw) | ASDSAGJADFQWQ | 0 | 0 | region:us |
+| 2026-11-02 14:43:39 | [CXZGBTYQWR1/Annoy-PyEdu-Rs](https://huggingface.co/CXZGBTYQWR1/Annoy-PyEdu-Rs) | CXZGBTYQWR1 | 0 | 0 | region:us |
+| 2026-11-02 14:43:43 | [CXZGBTYQWR1/Annoy-PyEdu-Rs-Raw](https://huggingface.co/CXZGBTYQWR1/Annoy-PyEdu-Rs-Raw) | CXZGBTYQWR1 | 0 | 0 | region:us |
+| 2026-11-02 14:44:51 | [MeesWijnantsWoW/nancy-pelosi-stock-trade-reports](https://huggingface.co/MeesWijnantsWoW/nancy-pelosi-stock-trade-reports) | MeesWijnantsWoW | 0 | 0 | language:en; license:mit; size_categories:n<1K; format:csv;… |
+| 2026-11-02 14:44:57 | [aptologia/estudios-buscadores-compra-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-compra-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:45:16 | [ysharma/north-micro-vision-pope-multilingual](https://huggingface.co/ysharma/north-micro-vision-pope-multilingual) | ysharma | 0 | 0 | region:us |
+| 2026-11-02 14:45:18 | [copernicus-argentina/bomarea-ovallei-ndvi-2017-2026](https://huggingface.co/copernicus-argentina/bomarea-ovallei-ndvi-2017-2026) | copernicus-argentina | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:45:23 | [aptologia/estudios-oferentes-medellin-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-medellin-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:45:51 | [aptologia/estudios-buscadores-mascotas-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-mascotas-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:46:12 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-02 14:46:12 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-02 14:46:14 | [Charlotte764/fomo-app-referral-code-invest20-unlock-20-off-on-trading-fees](https://huggingface.co/Charlotte764/fomo-app-referral-code-invest20-unlock-20-off-on-trading-fees) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:46:27 | [aptologia/estudios-buscadores-presupuesto-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-presupuesto-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:47:52 | [thisisrick25/nvidia-simready-catalog](https://huggingface.co/thisisrick25/nvidia-simready-catalog) | thisisrick25 | 0 | 0 | task_categories:robotics; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:48:03 | [Charlotte764/fomo-app-referral-code-invest30-claim-30-trading-fee-savings](https://huggingface.co/Charlotte764/fomo-app-referral-code-invest30-claim-30-trading-fee-savings) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:48:09 | [khoaduong7658/tachometer](https://huggingface.co/khoaduong7658/tachometer) | khoaduong7658 | 0 | 0 | region:us |
+| 2026-11-02 14:48:14 | [bkuster/oracle_pickups_20261102_144222](https://huggingface.co/bkuster/oracle_pickups_20261102_144222) | bkuster | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-02 14:48:53 | [FaisalHejary/nemotron-safety-guard-embedding](https://huggingface.co/FaisalHejary/nemotron-safety-guard-embedding) | FaisalHejary | 0 | 0 | task_categories:text-classification; task_categories:senten… |
+| 2026-11-02 14:48:58 | [Setitic/SentiTurca](https://huggingface.co/Setitic/SentiTurca) | Setitic | 0 | 0 | task_categories:text-classification; task_ids:sentiment-cla… |
+| 2026-11-02 14:49:22 | [Charlotte764/fomo-app-referral-code-invest40-get-40-off-your-trading-fees](https://huggingface.co/Charlotte764/fomo-app-referral-code-invest40-get-40-off-your-trading-fees) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:50:06 | [aptologia/estudios-buscadores-barranquilla-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-barranquilla-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:50:08 | [aptologia/estudios-oferentes-cali-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-cali-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:50:09 | [datly20251/aquatic](https://huggingface.co/datly20251/aquatic) | datly20251 | 0 | 0 | region:us |
+| 2026-11-02 14:50:19 | [Sky-Kim/convfill-dataset-ko](https://huggingface.co/Sky-Kim/convfill-dataset-ko) | Sky-Kim | 0 | 0 | task_categories:text-generation; multilinguality:monolingua… |
+| 2026-11-02 14:50:38 | [aptologia/estudios-buscadores-bogota-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-bogota-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:50:52 | [Liang252/3VQL](https://huggingface.co/Liang252/3VQL) | Liang252 | 0 | 0 | region:us |
+| 2026-11-02 14:51:06 | [Charlotte764/fomo-app-referral-code-invest50-save-50-on-fomo-app-trading-fees](https://huggingface.co/Charlotte764/fomo-app-referral-code-invest50-save-50-on-fomo-app-trading-fees) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:51:28 | [aptologia/estudios-buscadores-parqueadero-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-parqueadero-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:52:09 | [phatly10957/glade](https://huggingface.co/phatly10957/glade) | phatly10957 | 0 | 0 | region:us |
+| 2026-11-02 14:52:34 | [Charlotte764/fomo-app-referral-code-cashback-enjoy-10-off-on-trading-fees](https://huggingface.co/Charlotte764/fomo-app-referral-code-cashback-enjoy-10-off-on-trading-fees) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:53:04 | [aptologia/estudios-buscadores-medellin-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-medellin-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:53:36 | [asd123dsa12dsa2/Annoy-PyEdu-Rs](https://huggingface.co/asd123dsa12dsa2/Annoy-PyEdu-Rs) | asd123dsa12dsa2 | 0 | 0 | region:us |
+| 2026-11-02 14:53:37 | [asd123dsa12dsa2/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asd123dsa12dsa2/Annoy-PyEdu-Rs-Raw) | asd123dsa12dsa2 | 0 | 0 | region:us |
+| 2026-11-02 14:53:39 | [Charlotte764/fomo-app-referral-code-rebate10-get-10-trading-fee-savings](https://huggingface.co/Charlotte764/fomo-app-referral-code-rebate10-get-10-trading-fee-savings) | Charlotte764 | 0 | 0 | region:us |
+| 2026-11-02 14:55:17 | [aptologia/estudios-buscadores-cali-lote1-2026](https://huggingface.co/aptologia/estudios-buscadores-cali-lote1-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:55:18 | [aptologia/estudios-oferentes-barranquilla-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-barranquilla-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 14:55:25 | [khoanguyen58221/shore](https://huggingface.co/khoanguyen58221/shore) | khoanguyen58221 | 0 | 0 | region:us |
+| 2026-11-02 14:56:38 | [aarontseng/cv](https://huggingface.co/aarontseng/cv) | aarontseng | 0 | 0 | region:us |
+| 2026-11-02 14:56:39 | [quintinbotes/stint-handoff-packets](https://huggingface.co/quintinbotes/stint-handoff-packets) | quintinbotes | 0 | 0 | language:en; license:mit; size_categories:n<1K; format:json… |
+| 2026-11-02 14:56:49 | [dungngo73349/redshift](https://huggingface.co/dungngo73349/redshift) | dungngo73349 | 0 | 0 | region:us |
+| 2026-11-02 14:57:51 | [hsosa/deneme](https://huggingface.co/hsosa/deneme) | hsosa | 0 | 0 | region:us |
+| 2026-11-02 14:58:53 | [Bijenlawoju/Devnagari-Romanized-Pair](https://huggingface.co/Bijenlawoju/Devnagari-Romanized-Pair) | Bijenlawoju | 0 | 0 | task_categories:translation; task_categories:text-generatio… |
+| 2026-11-02 14:59:22 | [smartuserfomo/smartuser-volatility-awareness-guide-fomo-app-referral-code](https://huggingface.co/smartuserfomo/smartuser-volatility-awareness-guide-fomo-app-referral-code) | smartuserfomo | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-11-02 15:00:33 | [smartuserfomo/smartuser-deposit-withdrawal-checklist-fomo-app-referral-code](https://huggingface.co/smartuserfomo/smartuser-deposit-withdrawal-checklist-fomo-app-referral-code) | smartuserfomo | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-11-02 15:00:45 | [nganhuynh7298/chameleon](https://huggingface.co/nganhuynh7298/chameleon) | nganhuynh7298 | 0 | 0 | region:us |
+| 2026-11-02 15:00:56 | [aptologia/estudios-oferentes-envigado-lote11-2026](https://huggingface.co/aptologia/estudios-oferentes-envigado-lote11-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 15:01:24 | [loverretread/Annoy-PyEdu-Rs](https://huggingface.co/loverretread/Annoy-PyEdu-Rs) | loverretread | 0 | 0 | region:us |
+| 2026-11-02 15:01:41 | [loverretread/Annoy-PyEdu-Rs-Raw](https://huggingface.co/loverretread/Annoy-PyEdu-Rs-Raw) | loverretread | 0 | 0 | region:us |
+| 2026-11-02 15:01:57 | [WojZmu/MilkyWay](https://huggingface.co/WojZmu/MilkyWay) | WojZmu | 0 | 0 | region:us |
+| 2026-11-02 15:02:03 | [smartuserfomo/smartuser-exit-planning-basics-fomo-app-referral-code](https://huggingface.co/smartuserfomo/smartuser-exit-planning-basics-fomo-app-referral-code) | smartuserfomo | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-11-02 15:02:22 | [0xChand/bridge-multilingual-safety-pilot](https://huggingface.co/0xChand/bridge-multilingual-safety-pilot) | 0xChand | 0 | 0 | task_categories:text-generation; language:en; language:es;… |
+| 2026-11-02 15:02:34 | [smartuserfomo/smartuser-risk-reward-ratio-basics-fomo-app-referral-code](https://huggingface.co/smartuserfomo/smartuser-risk-reward-ratio-basics-fomo-app-referral-code) | smartuserfomo | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-11-02 15:02:42 | [cskin666/Annoy-PyEdu-Rs](https://huggingface.co/cskin666/Annoy-PyEdu-Rs) | cskin666 | 0 | 0 | region:us |
+| 2026-11-02 15:02:51 | [cskin666/Annoy-PyEdu-Rs-Raw](https://huggingface.co/cskin666/Annoy-PyEdu-Rs-Raw) | cskin666 | 0 | 0 | region:us |
+| 2026-11-02 15:03:11 | [trangly13926/darkmatter](https://huggingface.co/trangly13926/darkmatter) | trangly13926 | 0 | 0 | region:us |
+| 2026-11-02 15:03:13 | [smartuserfomo/smartuser-price-chart-reading-basics-fomo-app-referral-code](https://huggingface.co/smartuserfomo/smartuser-price-chart-reading-basics-fomo-app-referral-code) | smartuserfomo | 0 | 0 | task_categories:text-classification; language:en; license:m… |
+| 2026-11-02 15:04:59 | [tuanbui15574/banyan](https://huggingface.co/tuanbui15574/banyan) | tuanbui15574 | 0 | 0 | region:us |
+| 2026-11-02 15:06:11 | [foues/image](https://huggingface.co/foues/image) | foues | 0 | 0 | region:us |
+| 2026-11-02 15:07:05 | [kienvo10441/betelgeuse](https://huggingface.co/kienvo10441/betelgeuse) | kienvo10441 | 0 | 0 | region:us |
+| 2026-11-02 15:07:36 | [Tree-AI-lab/kouman-code-sft-3.3m](https://huggingface.co/Tree-AI-lab/kouman-code-sft-3.3m) | Tree-AI-lab | 0 | 0 | task_categories:text-generation; language:fr; language:bci;… |
+| 2026-11-02 15:08:31 | [cheyyaneen/DLLM-SDFT](https://huggingface.co/cheyyaneen/DLLM-SDFT) | cheyyaneen | 0 | 0 | region:us |
+| 2026-11-02 15:08:58 | [thaodang54912/magnolia](https://huggingface.co/thaodang54912/magnolia) | thaodang54912 | 0 | 0 | region:us |
+| 2026-11-02 15:09:08 | [yashasvi02/real-estate-investment-data](https://huggingface.co/yashasvi02/real-estate-investment-data) | yashasvi02 | 0 | 0 | license:mit; region:us |
+| 2026-11-02 15:10:23 | [axiong/MMEB-V3-img-video-visdoc](https://huggingface.co/axiong/MMEB-V3-img-video-visdoc) | axiong | 0 | 0 | license:mit; arxiv:2604.23321; region:us; benchmark; multim… |
+| 2026-11-02 15:10:23 | [hdnminh/vi-audio-category](https://huggingface.co/hdnminh/vi-audio-category) | hdnminh | 0 | 0 | region:us |
+| 2026-11-02 15:10:57 | [dungdo17528/exoplanet](https://huggingface.co/dungdo17528/exoplanet) | dungdo17528 | 0 | 0 | region:us |
+| 2026-11-02 15:11:04 | [axiong/MMEB-V3-other-tasks](https://huggingface.co/axiong/MMEB-V3-other-tasks) | axiong | 0 | 0 | license:mit; arxiv:2604.23321; region:us; benchmark; multim… |
+| 2026-11-02 15:11:12 | [bkuster/oracle_pickups_20261102_150414](https://huggingface.co/bkuster/oracle_pickups_20261102_150414) | bkuster | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-02 15:11:25 | [Tremulo/product-database](https://huggingface.co/Tremulo/product-database) | Tremulo | 0 | 0 | language:en; language:fr; language:de; language:es; languag… |
+| 2026-11-02 15:11:50 | [aptologia/estudios-buscadores-arriendo-lote2-2026](https://huggingface.co/aptologia/estudios-buscadores-arriendo-lote2-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; size_categorie… |
+| 2026-11-02 15:12:03 | [lyyyyyj/misumi-doorfulln-dg](https://huggingface.co/lyyyyyj/misumi-doorfulln-dg) | lyyyyyj | 0 | 0 | region:us |
+| 2026-11-02 15:12:16 | [stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g1_run0](https://huggingface.co/stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g1_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-11-02 15:12:39 | [koolremhaas/Deforestation_Data_Sweden](https://huggingface.co/koolremhaas/Deforestation_Data_Sweden) | koolremhaas | 0 | 0 | license:cc-by-2.0; region:us |
+| 2026-11-02 15:13:22 | [thinhtran28995/interstellar](https://huggingface.co/thinhtran28995/interstellar) | thinhtran28995 | 0 | 0 | region:us |
+| 2026-11-02 15:14:26 | [TomasAnderegg/pill_sorting_colour_direct_mix_v1_swap](https://huggingface.co/TomasAnderegg/pill_sorting_colour_direct_mix_v1_swap) | TomasAnderegg | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-11-02 15:15:05 | [dungnguyen45046/convoy](https://huggingface.co/dungnguyen45046/convoy) | dungnguyen45046 | 0 | 0 | region:us |
+| 2026-11-02 15:15:27 | [hgdhhf/images](https://huggingface.co/hgdhhf/images) | hgdhhf | 0 | 0 | region:us |
+| 2026-11-02 15:15:43 | [aptologia/estudios-buscadores-mascotas-lote2-2026](https://huggingface.co/aptologia/estudios-buscadores-mascotas-lote2-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 15:15:44 | [aptologia/estudios-buscadores-medellin-lote2-2026](https://huggingface.co/aptologia/estudios-buscadores-medellin-lote2-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 15:16:04 | [LiFanxing/HeteroTask](https://huggingface.co/LiFanxing/HeteroTask) | LiFanxing | 0 | 0 | region:us; robotics; isaac-lab; usd |
+| 2026-11-02 15:16:25 | [SueJireh/Annoy-PyEdu-Rs](https://huggingface.co/SueJireh/Annoy-PyEdu-Rs) | SueJireh | 0 | 0 | region:us |
+| 2026-11-02 15:16:34 | [SueJireh/Annoy-PyEdu-Rs-Raw](https://huggingface.co/SueJireh/Annoy-PyEdu-Rs-Raw) | SueJireh | 0 | 0 | region:us |
+| 2026-11-02 15:17:03 | [alpha-proof-open-source/10-4-alpha-proof](https://huggingface.co/alpha-proof-open-source/10-4-alpha-proof) | alpha-proof-open-source | 0 | 0 | language:zh; language:en; license:apache-2.0; region:us; le… |
+| 2026-11-02 15:18:39 | [eii/twixt](https://huggingface.co/eii/twixt) | eii | 0 | 0 | region:us |
+| 2026-11-02 15:19:45 | [worst87/261102](https://huggingface.co/worst87/261102) | worst87 | 0 | 0 | region:us |
+| 2026-11-02 15:19:49 | [aptologia/estudios-buscadores-compra-lote2-2026](https://huggingface.co/aptologia/estudios-buscadores-compra-lote2-2026) | aptologia | 0 | 0 | language:es; language:en; license:cc-by-4.0; modality:tabul… |
+| 2026-11-02 15:20:02 | [yashhbobhate/Synthetic_Khojki](https://huggingface.co/yashhbobhate/Synthetic_Khojki) | yashhbobhate | 0 | 0 | region:us |
+| 2026-11-02 15:20:08 | [aptologia/estudios-buscadores-cali-lote2-2026](https://huggingface.co/aptologia/estudios-buscadores-cali-lote2-2026) | aptologia | 0 | 0 | region:us |
 
 ## Data source
 
