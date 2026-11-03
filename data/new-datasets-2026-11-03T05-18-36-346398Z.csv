@@ -1,0 +1,52 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-03T04:24:11Z,linliaaa/Annoy-PyEdu-Rs,linliaaa,0,0,region:us
+2026-11-03T04:24:29Z,luhr/uniloco-c5j-alltasks-2026-11-03,luhr,0,0,region:us; robotics; simulation; locomotion; humanoid
+2026-11-03T04:24:42Z,linliaaa/Annoy-PyEdu-Rs-Raw,linliaaa,0,0,region:us
+2026-11-03T04:27:12Z,Tushar29k/agent-guardrails-adversarial-benchmark,Tushar29k,0,0,region:us
+2026-11-03T04:27:36Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t0.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T04:30:33Z,zchn/robo_test_green_grip_DG7,zchn,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T04:33:36Z,hfwang01/PhysCapBench,hfwang01,0,0,task_categories:video-text-to-text; language:en; language:zh; license:other; size_categories:1K<n<10K; region:us; video-captioning; physical-reasoning; benchmark
+2026-11-03T04:33:56Z,Linh-0909/test,Linh-0909,0,0,region:us
+2026-11-03T04:36:01Z,kavyabhand/spacerot,kavyabhand,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; beam; reflection-ai; build-with-beam; cod…
+2026-11-03T04:36:52Z,agentapprove/coding-agent-tool-call-safety,agentapprove,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv…
+2026-11-03T04:38:19Z,iseonn/am_arm_test_6_20261103_133108,iseonn,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-03T04:38:45Z,LienJ/lab11-send-it-to-fellowship,LienJ,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T04:39:11Z,Azzindani/Tern_Business_Documents,Azzindani,0,0,language:en; language:id; language:ms; language:vi; language:th; license:cc0-1.0; size_categories:n<1K; region:us; documents; invoices; purchase-orders; document-understanding; synthetic; multi-page
+2026-11-03T04:40:03Z,DSCXZ12DSA/Annoy-PyEdu-Rs,DSCXZ12DSA,0,0,region:us
+2026-11-03T04:40:05Z,DSCXZ12DSA/Annoy-PyEdu-Rs-Raw,DSCXZ12DSA,0,0,region:us
+2026-11-03T04:40:32Z,FBNVJTASDWQD/Annoy-PyEdu-Rs,FBNVJTASDWQD,0,0,region:us
+2026-11-03T04:40:34Z,FBNVJTASDWQD/Annoy-PyEdu-Rs-Raw,FBNVJTASDWQD,0,0,region:us
+2026-11-03T04:43:43Z,daixuancheng/deepswe1.1,daixuancheng,0,0,region:us
+2026-11-03T04:44:27Z,WorldEdit0/xjy,WorldEdit0,0,0,region:us
+2026-11-03T04:44:59Z,Lemon139143/so101-task001,Lemon139143,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-03T04:45:58Z,xuelinhu/highland-barley-multiomics-gis-reproducibility,xuelinhu,0,0,language:en; language:zh; license:other; region:us; biology; barley; reproducibility
+2026-11-03T04:48:45Z,meimeirun/history,meimeirun,0,0,region:us
+2026-11-03T04:50:04Z,Divansh45/myrios_news-sentiment-analysis,Divansh45,0,0,source_datasets:https://www.kaggle.com/datasets/myrios/news-sentiment-analysis; license:cc0-1.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pand…
+2026-11-03T04:55:43Z,parallell/MOPD-Com-Training-Data,parallell,0,0,task_categories:text-generation; size_categories:10K<n<100K; region:us; mopd; knowledge-distillation; math; code; instruction-following
+2026-11-03T04:56:43Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-03T04:56:45Z,Kingpandaaaa/amazon_reviews_multi,Kingpandaaaa,0,0,task_categories:text-classification; language:de; language:en; language:es; language:fr; language:ja; language:zh; license:other; size_categories:1M<n<10M; region:us
+2026-11-03T04:56:50Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-03T04:58:25Z,paperswithbacktest/Cryptocurrencies-1Min-Price,paperswithbacktest,0,0,region:us
+2026-11-03T05:01:15Z,rewind-mumbo-ashy/ds-324387ff42e8d000,rewind-mumbo-ashy,0,0,region:us
+2026-11-03T05:01:36Z,safafa456/Annoy-PyEdu-Rs,safafa456,0,0,region:us
+2026-11-03T05:01:56Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-03T05:02:07Z,safafa456/Annoy-PyEdu-Rs-Raw,safafa456,0,0,region:us
+2026-11-03T05:02:27Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-03T05:03:13Z,asd12edsad12as/Annoy-PyEdu-Rs,asd12edsad12as,0,0,region:us
+2026-11-03T05:03:26Z,asd12edsad12as/Annoy-PyEdu-Rs-Raw,asd12edsad12as,0,0,region:us
+2026-11-03T05:03:36Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-03T05:03:48Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-03T05:05:14Z,bruce8876/ds-33496d3ceb07cceb,bruce8876,0,0,region:us
+2026-11-03T05:05:39Z,cskin666/Annoy-PyEdu-Rs,cskin666,0,0,region:us
+2026-11-03T05:06:10Z,cskin666/Annoy-PyEdu-Rs-Raw,cskin666,0,0,region:us
+2026-11-03T05:07:33Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-11-03T05:07:40Z,Rafaelvieira432/MegaCorpus-PublicDomain,Rafaelvieira432,0,0,region:us
+2026-11-03T05:08:04Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-11-03T05:09:12Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g1_run0,stefanocarrera,0,0,region:us
+2026-11-03T05:09:51Z,starkAhmed43/lc-image-2c292fc88db132234619ab31,starkAhmed43,0,0,region:us
+2026-11-03T05:10:43Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-11-03T05:11:14Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-11-03T05:14:00Z,rbtrprjkt/HAN10E_remove_20261102_223420,rbtrprjkt,0,0,region:us
+2026-11-03T05:15:05Z,lwy93/nfl-big-data-2027,lwy93,0,0,region:us
+2026-11-03T05:16:13Z,panmz/minicpm5-1b-gsm8k-greedy,panmz,0,0,license:other; region:us
+2026-11-03T05:16:48Z,ai-user4/redroid-mod,ai-user4,0,0,region:us
