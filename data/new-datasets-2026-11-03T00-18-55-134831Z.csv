@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-02T23:19:05Z,aptologia/estudios-buscadores-villavicencio-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:19:15Z,ASDASQE1E12/Annoy-PyEdu-Rs-Raw,ASDASQE1E12,0,0,region:us
+2026-11-02T23:19:17Z,aptologia/estudios-buscadores-puerto-colombia-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:19:32Z,aptologia/estudios-buscadores-sabaneta-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:19:58Z,aptologia/estudios-buscadores-soacha-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:20:31Z,noman-asif/Arabic-Reasoning-Instruct-120k,noman-asif,0,0,task_categories:text-generation; task_categories:question-answering; language:ar; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; arabic; saudi-dialect; chain-of-thought; reaso…
+2026-11-02T23:20:44Z,aptologia/estudios-buscadores-zipaquira-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:20:55Z,aptologia/estudios-buscadores-tipo-inmueble-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:21:09Z,aptologia/estudios-buscadores-servicios-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:21:58Z,aptologia/estudios-buscadores-vs-ciudad-p10p90-lote8-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-02T23:22:16Z,noman-asif/Arabic-Preference-DPO-20k,noman-asif,0,0,task_categories:text-generation; language:ar; license:apache-2.0; size_categories:10K<n<100K; region:us; arabic; saudi-dialect; dpo; orpo; rlhf; preference-alignment
+2026-11-02T23:23:50Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-11-02T23:23:50Z,ASCXZ1312/Annoy-PyEdu-Rs,ASCXZ1312,0,0,region:us
+2026-11-02T23:24:20Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-11-02T23:24:21Z,ASCXZ1312/Annoy-PyEdu-Rs-Raw,ASCXZ1312,0,0,region:us
+2026-11-02T23:25:19Z,martine211/goodreads-reviews,martine211,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:other; size_categories:1M<n<10M; region:us; goodreads; reviews; books
+2026-11-02T23:29:32Z,Parth2412/rime-hindi-injected,Parth2412,0,0,task_categories:audio-classification; language:hi; region:us
+2026-11-02T23:32:00Z,YilingMa/videoprm-eval-frames-temporary-20261102,YilingMa,0,0,region:us
+2026-11-02T23:32:01Z,g1n0st/26f263061a6173b6c5caa21461cc0e5bd88ee7a7,g1n0st,0,0,region:us
+2026-11-02T23:32:44Z,Lilambd/machine-economy-daily,Lilambd,0,0,license:cc-by-4.0; region:us; x402; mcp; agents; ai-agents; agent-payments; huggingface; time-series; census
+2026-11-02T23:34:04Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-3b75ccaf,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-11-02T23:34:23Z,jimchen2/pendulum-cjepa-3k-256,jimchen2,0,0,task_categories:video-classification; task_categories:multiple-choice; license:mit; size_categories:1K<n<10K; region:us; physics; pendulum; causal-reasoning; clevrer; world-model; cjepa; vqa; synthet…
+2026-11-02T23:37:00Z,ikedachin/imabari-eval-v1,ikedachin,0,0,task_categories:question-answering; language:ja; license:cc-by-sa-4.0; size_categories:n<1K; region:us; evaluation; japanese; imabari-dialect; synthetic-data
+2026-11-02T23:37:18Z,victimfsfsd/ds6652,victimfsfsd,0,0,region:us
+2026-11-02T23:37:42Z,youngjr1232/tariff-hts-openset-v2,youngjr1232,0,0,language:en; license:other; region:us; tariff; hts; htsus; customs; cbp; cross-rulings; classification; retrieval
+2026-11-02T23:39:28Z,Irma-5/dataset,Irma-5,0,0,region:us
+2026-11-02T23:41:11Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-02T23:41:16Z,victimfsfsd/ds6653,victimfsfsd,0,0,region:us
+2026-11-02T23:41:42Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-02T23:44:12Z,asd1e23321213/Annoy-PyEdu-Rs,asd1e23321213,0,0,region:us
+2026-11-02T23:44:43Z,asd1e23321213/Annoy-PyEdu-Rs-Raw,asd1e23321213,0,0,region:us
+2026-11-02T23:45:56Z,ASDASD12321WSX/Annoy-PyEdu-Rs,ASDASD12321WSX,0,0,region:us
+2026-11-02T23:46:19Z,ASD213213SA/Annoy-PyEdu-Rs,ASD213213SA,0,0,region:us
+2026-11-02T23:46:26Z,ASDASD12321WSX/Annoy-PyEdu-Rs-Raw,ASDASD12321WSX,0,0,region:us
+2026-11-02T23:46:49Z,ASD213213SA/Annoy-PyEdu-Rs-Raw,ASD213213SA,0,0,region:us
+2026-11-02T23:47:16Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g6_run0,stefanocarrera,0,0,region:us
+2026-11-02T23:51:12Z,g1n0st/a7b87f8d9adb75466df260cf6da924ea3ef602e3,g1n0st,0,0,region:us
+2026-11-02T23:51:49Z,marclamberts/xDanger,marclamberts,0,0,region:us
+2026-11-02T23:53:33Z,ASDBASFGQW/Annoy-PyEdu-Rs,ASDBASFGQW,0,0,region:us
+2026-11-02T23:53:34Z,ASDBASFGQW/Annoy-PyEdu-Rs-Raw,ASDBASFGQW,0,0,region:us
+2026-11-02T23:53:51Z,jimchen2/pendulum-cjepa-3k-new-256,jimchen2,0,0,task_categories:video-classification; task_categories:multiple-choice; license:mit; size_categories:1K<n<10K; region:us; physics; pendulum; causal-reasoning; synthetic
+2026-11-02T23:53:55Z,AIHumanizerBenchmarker/ai-humanizer-benchmark-nov-2026,AIHumanizerBenchmarker,0,0,language:en; language:es; language:fr; language:de; license:cc-by-4.0; size_categories:100K<n<1M; region:us; ai-humanizer; ai-text-detection; benchmark; evaluation; gptzero; turnitin; originality-ai;…
+2026-11-02T23:59:08Z,a7ussein/midad-quran-audio,a7ussein,0,0,license:other; modality:audio; region:us; audio; quran
+2026-11-03T00:03:13Z,Naveen1989/watchmate-artemis-examples,Naveen1989,0,0,task_categories:video-classification; task_categories:summarization; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; video-understanding; personalization; highlights; multimodal; age…
+2026-11-03T00:03:27Z,savethisok/d-fdf1bf7e5e93d6cc,savethisok,0,0,region:us
+2026-11-03T00:04:00Z,jimchen2/pendulum-cjepa-3k-256-wazob,jimchen2,0,0,task_categories:video-classification; task_categories:multiple-choice; license:mit; size_categories:1K<n<10K; region:us; physics; pendulum; causal-reasoning; clevrer; world-model; cjepa; vqa; synthet…
+2026-11-03T00:04:02Z,DCZX1CA/Annoy-PyEdu-Rs,DCZX1CA,0,0,region:us
+2026-11-03T00:04:33Z,DCZX1CA/Annoy-PyEdu-Rs-Raw,DCZX1CA,0,0,region:us
+2026-11-03T00:05:02Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-03T00:05:08Z,iaac-maai/day3-group2-king-county-house-typologies,iaac-maai,0,0,license:cc-by-4.0; size_categories:10K<n<100K; region:us; built-environment; housing; real-estate; clustering; unsupervised-learning; iaac-maai; ai-methods-1
+2026-11-03T00:05:33Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-03T00:07:55Z,sdfaffaf556/Annoy-PyEdu-Rs,sdfaffaf556,0,0,region:us
+2026-11-03T00:07:56Z,sdfaffaf556/Annoy-PyEdu-Rs-Raw,sdfaffaf556,0,0,region:us
+2026-11-03T00:10:22Z,aptologia/estudios-buscadores-admin-pct-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:10:23Z,aptologia/estudios-buscadores-armenia-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:10:23Z,aptologia/estudios-buscadores-antiguedad-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:10:23Z,aptologia/estudios-buscadores-amenidades-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:11:13Z,aptologia/estudios-buscadores-bello-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:12:05Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g7_run0,stefanocarrera,0,0,region:us
+2026-11-03T00:12:23Z,aptologia/estudios-buscadores-barranquilla-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:12:25Z,aptologia/estudios-buscadores-bucaramanga-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:12:38Z,aptologia/estudios-buscadores-bogota-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:13:40Z,aptologia/estudios-buscadores-cali-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:15:06Z,DSAD1DSA/Annoy-PyEdu-Rs,DSAD1DSA,0,0,region:us
+2026-11-03T00:15:07Z,DSAD1DSA/Annoy-PyEdu-Rs-Raw,DSAD1DSA,0,0,region:us
+2026-11-03T00:15:50Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-03T00:16:20Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-03T00:16:34Z,attacker8324/xssphish5334,attacker8324,0,0,region:us
+2026-11-03T00:17:05Z,nirantk/document-harness-evaluation,nirantk,0,0,task_categories:question-answering; language:en; language:fr; license:other; region:us; document-understanding; rag; agents; evaluation
+2026-11-03T00:17:11Z,aptologia/estudios-buscadores-canon-mas-admin-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; modality:tabular; region:us; real-estate; housing; colombia; tabular; rent
+2026-11-03T00:17:42Z,puppet-robotics/golf_3_servo,puppet-robotics,0,0,region:us
