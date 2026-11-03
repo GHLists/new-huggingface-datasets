@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-03T22:22:09Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-596bf0e8,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-11-03T22:22:34Z,AlvaroMros/flowlet-promo-render,AlvaroMros,0,0,size_categories:n<1K; modality:3d; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-03T22:23:07Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-4d232093,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; krea2
+2026-11-03T22:23:33Z,davidrzs/opencommune,davidrzs,0,0,license:cc0-1.0; region:us
+2026-11-03T22:23:58Z,OG7407/tictactoe-v3-55-act,OG7407,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T22:24:37Z,Mapache953/b_20261103_161013,Mapache953,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-03T22:24:54Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-ea66240a,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-11-03T22:25:35Z,pecan-anon/pecan-anon,pecan-anon,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-03T22:25:59Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-04ac2174,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; ideogram4
+2026-11-03T22:26:14Z,TUaxhuiax/huggingface_filesystem_fetch_933-ticketraw-k7m2xq,TUaxhuiax,0,0,task_categories:text-classification; language:en; language:de; language:es; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-03T22:27:49Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-3d5f45ab,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; qwen-image
+2026-11-03T22:28:14Z,judynguyen16/infuse-verified-trajectories,judynguyen16,0,0,task_categories:text-classification; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-11-03T22:28:32Z,imagedevlopment/gradients-image-tourn_f16ed79079376136_20261102-1837bbfb,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-11-03T22:29:33Z,KMFDSHGSA/Annoy-PyEdu-Rs-Raw,KMFDSHGSA,0,0,region:us
+2026-11-03T22:29:33Z,KMFDSHGSA/Annoy-PyEdu-Rs,KMFDSHGSA,0,0,region:us
+2026-11-03T22:29:43Z,asfafaf4546/Annoy-PyEdu-Rs,asfafaf4546,0,0,region:us
+2026-11-03T22:29:43Z,asfafaf4546/Annoy-PyEdu-Rs-Raw,asfafaf4546,0,0,region:us
+2026-11-03T22:30:15Z,afdadAF/Annoy-PyEdu-Rs,afdadAF,0,0,region:us
+2026-11-03T22:30:18Z,afdadAF/Annoy-PyEdu-Rs-Raw,afdadAF,0,0,region:us
+2026-11-03T22:31:36Z,majapavlo/image-level-soft-label-digits-addon,majapavlo,0,0,language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mnist; digi…
+2026-11-03T22:32:03Z,redkits/httpsms-build-artifacts,redkits,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T22:32:06Z,quinndyer1/ancient-greek-philosophy,quinndyer1,0,0,task_categories:text-generation; language:grc; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-11-03T22:33:29Z,Pixedar/jspace-strange-loop-evidence,Pixedar,0,0,task_categories:other; language:en; license:cc-by-sa-4.0; size_categories:n<1K; format:csv; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-03T22:37:54Z,VattanaryT/raiden_single_garment_fold_baseline_nov2_evening,VattanaryT,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-03T22:38:28Z,jv-costa/day2-base-inf,jv-costa,0,0,region:us
+2026-11-03T22:39:22Z,LienJ/lab12-ambient-scribe,LienJ,0,0,region:us
+2026-11-03T22:39:27Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-03T22:39:27Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-03T22:40:00Z,VattanaryT/raiden_single_garment_fold_baseline_nov3,VattanaryT,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-03T22:40:44Z,albagon/telearms-yam-red-left-blue-rig-dr-nolip-molmolight-hidden-tar,albagon,0,0,license:apache-2.0; region:us; LeRobot; robotics; pi05; bimanual-yam; domain-randomization; simulation
+2026-11-03T22:41:03Z,kenneth-holstad/lab11-send-it-to-fellowship,kenneth-holstad,0,0,modality:text; region:us
+2026-11-03T22:43:25Z,jv-costa-ufg/day2-base-inf,jv-costa-ufg,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-03T22:43:42Z,sdafafw22/Annoy-PyEdu-Rs,sdafafw22,0,0,region:us
+2026-11-03T22:43:43Z,sdafafw22/Annoy-PyEdu-Rs-Raw,sdafafw22,0,0,region:us
+2026-11-03T22:45:05Z,usr256864/ner_prepared_15k,usr256864,0,0,size_categories:100K<n<1M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-11-03T22:45:14Z,albagon/telearms-yam-red-left-blue-raw-sources-tar,albagon,0,0,license:apache-2.0; region:us; robotics; bimanual-yam; simulation
+2026-11-03T22:46:15Z,datbazuka2502/synapse-civil-bench,datbazuka2502,0,0,task_categories:text-classification; language:vi; license:cc-by-4.0; size_categories:1K<n<10K; region:us; vietnamese; legal-ai; temporal-knowledge-graph; ontologies; judgment-prediction
+2026-11-03T22:47:19Z,wildintelproject/donadataset,wildintelproject,0,0,task_categories:object-detection; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; wildlife; camera-trap…
+2026-11-03T22:47:34Z,VPeiris/vc-pitches,VPeiris,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T22:52:54Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.0_g1_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T22:55:27Z,OG7407/tictactoe-v4-final,OG7407,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T22:56:24Z,Octoparse/shopee-product-sku-data-sample,Octoparse,0,0,task_categories:tabular-classification; task_categories:other; source_datasets:original; language:en; language:pt; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; mo…
+2026-11-03T22:56:37Z,open-athena/Snowball-Identity-PathB-A13-Inputs-2026.10.30,open-athena,0,0,language:en; region:us; marin; snowball; identity; research
+2026-11-03T23:00:20Z,DSA12DSA213/Annoy-PyEdu-Rs,DSA12DSA213,0,0,region:us
+2026-11-03T23:00:20Z,DSA12DSA213/Annoy-PyEdu-Rs-Raw,DSA12DSA213,0,0,region:us
+2026-11-03T23:00:26Z,SOTAagi2030/Cedar-Controlled-Vocabulary-326,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-03T23:01:22Z,joonyeongs/cosmos3-edge-failure-prevention-200,joonyeongs,0,0,language:en; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot…
+2026-11-03T23:01:58Z,alina0195/romteb-ronli-updated,alina0195,0,0,task_categories:text-classification; annotations_creators:machine-generated; annotations_creators:expert-generated; language_creators:found; source_datasets:original; language:ro; license:cc-by-nc-sa…
+2026-11-03T23:02:48Z,ASCSA12312E/Annoy-PyEdu-Rs,ASCSA12312E,0,0,region:us
+2026-11-03T23:02:49Z,ASCSA12312E/Annoy-PyEdu-Rs-Raw,ASCSA12312E,0,0,region:us
+2026-11-03T23:02:57Z,safaf3e23/Annoy-PyEdu-Rs,safaf3e23,0,0,region:us
+2026-11-03T23:02:57Z,dsad1dsa21/Annoy-PyEdu-Rs,dsad1dsa21,0,0,region:us
+2026-11-03T23:02:57Z,dsad1dsa21/Annoy-PyEdu-Rs-Raw,dsad1dsa21,0,0,region:us
+2026-11-03T23:03:00Z,safaf3e23/Annoy-PyEdu-Rs-Raw,safaf3e23,0,0,region:us
+2026-11-03T23:03:52Z,albagon/telearms-yam-red-left-blue-rig-dr-nolip-molmolight-hidden,albagon,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; pi05; bimanual-yam; domain-randomization; simulation
+2026-11-03T23:06:09Z,victim3432b/cfg6965,victim3432b,0,0,region:us
+2026-11-03T23:07:15Z,newuser50-pumpfun/newuser50-payout-token-sol-vs-usdc-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T23:07:44Z,newuser50-pumpfun/newuser50-day-by-day-progress-tracker-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T23:08:05Z,newuser50-pumpfun/newuser50-link-vs-manual-code-entry-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T23:08:25Z,newuser50-pumpfun/newuser50-rules-quick-reference-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; so…
+2026-11-03T23:08:44Z,newuser50-pumpfun/newuser50-worked-example-timelines-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T23:14:55Z,goaicorp/moore-staging,goaicorp,0,0,region:us
+2026-11-03T23:15:01Z,todopueblos/utah-fishing-species-and-rules-index-2026,todopueblos,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; fishing; utah; outdoor-recreation; tabular
+2026-11-03T23:16:16Z,Dario-Shit0/dataset-5d51b9d0fdff01fbff17059827ec6e52,Dario-Shit0,0,0,region:us
+2026-11-03T23:16:39Z,PureOne/Elumirang,PureOne,0,0,language:en; region:us; research-artifact; optimization; symplectic-geometry; polynomial-optimization; exact-arithmetic; global-certificates; nonlinear-optimization; neural-networks; reproducibility;…
+2026-11-03T23:17:02Z,MaxMillion404/rc12-dev-transcripts,MaxMillion404,0,0,language:en; license:apache-2.0; region:us; multi-turn; evaluation; small-language-models
+2026-11-03T23:18:15Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
