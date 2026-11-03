@@ -1,0 +1,115 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-03T13:20:41Z,Furqan-03/us-flight-punctuality,Furqan-03,0,0,language:en; license:cc0-1.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; aviation; flights…
+2026-11-03T13:20:41Z,liuffg124/Annoy-PyEdu-Rs,liuffg124,0,0,region:us
+2026-11-03T13:20:44Z,liuffg124/Annoy-PyEdu-Rs-Raw,liuffg124,0,0,region:us
+2026-11-03T13:20:52Z,loopin51/vera-cpt-things,loopin51,0,0,license:other; size_categories:10B<n<100B; region:us; eeg; neuroscience
+2026-11-03T13:22:43Z,harry7659/candles-app-referral-code-xg4tdbjn-unlock-exclusive-trading-fee-savings,harry7659,0,0,region:us
+2026-11-03T13:23:35Z,TalentPigs/ingot-kl-topk-hidden-25k,TalentPigs,0,0,region:us
+2026-11-03T13:26:29Z,neoyipeng/FinSentQwen-data,neoyipeng,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; finance; sentiment-analysis; news
+2026-11-03T13:26:31Z,Bananaquest465/everyday-conversations-llama3.1-2k,Bananaquest465,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T13:27:09Z,harry7659/elefin-broker-referral-code-getbonus-get-welcome-bonus-signup-rewards,harry7659,0,0,region:us
+2026-11-03T13:27:21Z,rafaeljose/base-inf_merged_v21,rafaeljose,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-03T13:29:49Z,harry7659/elefin-broker-referral-code-reward10-claim-exclusive-registration-rewards,harry7659,0,0,region:us
+2026-11-03T13:30:09Z,JoesSattes/hub-weight-census,JoesSattes,0,0,task_categories:tabular-classification; task_categories:tabular-regression; annotations_creators:machine-generated; source_datasets:original; language:en; license:mit; size_categories:10K<n<100K; reg…
+2026-11-03T13:30:13Z,SOTAagi2030/Kestrel-Harbor-Ledger-325,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-03T13:30:23Z,ASD12EDSZCXZ/Annoy-PyEdu-Rs,ASD12EDSZCXZ,0,0,region:us
+2026-11-03T13:30:24Z,ASD12EDSZCXZ/Annoy-PyEdu-Rs-Raw,ASD12EDSZCXZ,0,0,region:us
+2026-11-03T13:30:34Z,JoesSattes/manifest-anatomy-corpus,JoesSattes,0,0,task_categories:text-classification; task_categories:tabular-classification; annotations_creators:machine-generated; source_datasets:original; language:en; license:apache-2.0; size_categories:n<1K; r…
+2026-11-03T13:31:38Z,voidash/tts-a6000-archive-20261103,voidash,0,0,license:other; region:us
+2026-11-03T13:31:54Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-03T13:31:55Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-03T13:32:24Z,harry7659/elefin-broker-referral-code-claim-unlock-new-user-bonuses-benefits,harry7659,0,0,region:us
+2026-11-03T13:34:09Z,harry7659/ondo-perps-referral-code-3cv3ys-get-exclusive-trading-fee-discounts,harry7659,0,0,region:us
+2026-11-03T13:34:19Z,LittleWhite1031/Annoy-PyEdu-Rs,LittleWhite1031,0,0,region:us
+2026-11-03T13:34:29Z,LittleWhite1031/Annoy-PyEdu-Rs-Raw,LittleWhite1031,0,0,region:us
+2026-11-03T13:34:39Z,hf-audio/neyshekar_eval,hf-audio,0,0,task_categories:text-to-speech; source_datasets:shekar-ai/Neyshekar; language:fa; license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:p…
+2026-11-03T13:35:45Z,Kenny23e/k2-tmp-8f3a91,Kenny23e,0,0,region:us
+2026-11-03T13:36:21Z,TomasAnderegg/so101_pill_sorting_v3_replay_direct,TomasAnderegg,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T13:36:45Z,waynehamadi2/gtm-api-benchmarks,waynehamadi2,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-11-03T13:36:54Z,ASD121SAD/Annoy-PyEdu-Rs,ASD121SAD,0,0,region:us
+2026-11-03T13:36:55Z,ASD121SAD/Annoy-PyEdu-Rs-Raw,ASD121SAD,0,0,region:us
+2026-11-03T13:37:11Z,Telon1/robotwin_icl_assets,Telon1,0,0,license:mit; region:us; robotwin; assets; simulation
+2026-11-03T13:37:24Z,newuser50-pumpfun/newuser50-missed-day-recovery-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T13:37:31Z,newuser50-pumpfun/newuser50-weekly-calendar-planner-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-03T13:37:39Z,newuser50-pumpfun/newuser50-support-question-templates-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; so…
+2026-11-03T13:37:46Z,newuser50-pumpfun/newuser50-device-app-version-checklist-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; so…
+2026-11-03T13:38:29Z,vidcache2/content-20261103503a,vidcache2,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-03T13:38:29Z,vicache/content-2026110387f2,vicache,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-03T13:38:44Z,KDDSTLC/lfed-lfm3-two-hop-trajectories,KDDSTLC,0,0,region:us
+2026-11-03T13:39:02Z,TomasAnderegg/pill_sorting_colour_cf_mix_v1,TomasAnderegg,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-03T13:39:15Z,newuser50-pumpfun/newuser50-budget-limited-timing-pumpfun-referral-code,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; so…
+2026-11-03T13:39:31Z,harry7659/ondo-perps-referral-code-29yekp-unlock-perps-trading-fee-savings,harry7659,0,0,region:us
+2026-11-03T13:39:38Z,ProbioticFarmer/corr-multiscanner-test-retest,ProbioticFarmer,0,0,task_categories:image-to-image; task_categories:image-segmentation; task_categories:other; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datase…
+2026-11-03T13:39:47Z,whats2000/soarm101-spread-jam,whats2000,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T13:40:48Z,icemoon28/looprl-ouro-1p4b-eval-pass8,icemoon28,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; evaluation;…
+2026-11-03T13:41:49Z,hivepunk-547-db38b7a4/agent-memory-lint-fixtures-what-six-bee-scouts-issues-propose,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T13:41:53Z,harry7659/ondo-perps-referral-code-zlw1n9-claim-exclusive-perps-fee-rebates,harry7659,0,0,region:us
+2026-11-03T13:41:56Z,WANKE666/beijing_corner_cases_v2,WANKE666,0,0,region:us
+2026-11-03T13:43:48Z,nightly-wave/dafdafab,nightly-wave,0,0,region:us
+2026-11-03T13:44:16Z,Leikafjsrthsrtjhrth/magnogravitic_membrane_distortion-achieving_warp_state,Leikafjsrthsrtjhrth,0,0,license:apache-2.0; region:us
+2026-11-03T13:44:43Z,mishig/k3.1-which-game-breakout-trace,mishig,0,0,size_categories:n<1K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; traces; reasoning; weight-sp…
+2026-11-03T13:45:20Z,cupnb/isaacsim_step-0_0.0.8_offset_1clone,cupnb,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-03T13:45:29Z,speedykom-group/pokot-speech-dataset-20261103,speedykom-group,0,0,region:us
+2026-11-03T13:45:30Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t0.5_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-03T13:45:47Z,harry7659/pumpfun-app-referral-code-join100-get-fee-discounts-signup-rewards-2026,harry7659,0,0,region:us
+2026-11-03T13:46:39Z,FlyingFrog/MatMorph_Visual_Material_Transformations_Dataset,FlyingFrog,0,0,license:cc0-1.0; region:us
+2026-11-03T13:47:06Z,Tson29/vast2-workspace-20261103,Tson29,0,0,region:us
+2026-11-03T13:48:19Z,Purple-SY/omx-front-arm-v2,Purple-SY,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region:us; lerob…
+2026-11-03T13:48:36Z,chaofen-delicious/Annoy-PyEdu-Rs-Raw,chaofen-delicious,0,0,region:us
+2026-11-03T13:48:36Z,chaofen-delicious/Annoy-PyEdu-Rs,chaofen-delicious,0,0,region:us
+2026-11-03T13:49:44Z,viranshul/terrascan-india-gujarat,viranshul,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; modality:geospatial; library:datasets; library:mlcroissant; region:us…
+2026-11-03T13:50:56Z,shohruhakang89/common-voice-filtered-audio,shohruhakang89,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:uz; license:cc0-1.0; region:us
+2026-11-03T13:51:14Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-11-03T13:51:16Z,ASD12ZXCQE/Annoy-PyEdu-Rs,ASD12ZXCQE,0,0,region:us
+2026-11-03T13:51:22Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-11-03T13:51:24Z,ASD12ZXCQE/Annoy-PyEdu-Rs-Raw,ASD12ZXCQE,0,0,region:us
+2026-11-03T13:51:37Z,asdsa132dsa/Annoy-PyEdu-Rs,asdsa132dsa,0,0,region:us
+2026-11-03T13:51:38Z,Riccardo11/empty_insertion_box_blue_cylinder_all_lights,Riccardo11,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-03T13:51:38Z,asdsa132dsa/Annoy-PyEdu-Rs-Raw,asdsa132dsa,0,0,region:us
+2026-11-03T13:52:02Z,sdsffs5/Annoy-PyEdu-Rs-Raw,sdsffs5,0,0,region:us
+2026-11-03T13:52:02Z,sdsffs5/Annoy-PyEdu-Rs,sdsffs5,0,0,region:us
+2026-11-03T13:52:20Z,creative-graphic-design/documentation-images,creative-graphic-design,0,0,license:apache-2.0; region:us
+2026-11-03T13:53:10Z,ynckdrt/safety-geometry-results,ynckdrt,0,0,license:cc-by-4.0; region:us; safety; interpretability; probes
+2026-11-03T13:53:47Z,SC13SD123SADAS/Annoy-PyEdu-Rs,SC13SD123SADAS,0,0,region:us
+2026-11-03T13:53:49Z,SC13SD123SADAS/Annoy-PyEdu-Rs-Raw,SC13SD123SADAS,0,0,region:us
+2026-11-03T13:54:44Z,harry7659/pumpfun-app-referral-code-best100-claim-exclusive-trading-benefits-bonuses,harry7659,0,0,region:us
+2026-11-03T13:56:28Z,SAD12DXCAS/Annoy-PyEdu-Rs,SAD12DXCAS,0,0,region:us
+2026-11-03T13:56:32Z,SAD12DXCAS/Annoy-PyEdu-Rs-Raw,SAD12DXCAS,0,0,region:us
+2026-11-03T13:56:39Z,asd12dsa21/Annoy-PyEdu-Rs,asd12dsa21,0,0,region:us
+2026-11-03T13:56:39Z,asd12dsa21/Annoy-PyEdu-Rs-Raw,asd12dsa21,0,0,region:us
+2026-11-03T13:57:04Z,harry7659/pumpfun-app-referral-code-flat100-save-on-trading-fees-wallet-setup-guide,harry7659,0,0,region:us
+2026-11-03T13:57:45Z,sdafaf33/Annoy-PyEdu-Rs,sdafaf33,0,0,region:us
+2026-11-03T13:57:47Z,sdafaf33/Annoy-PyEdu-Rs-Raw,sdafaf33,0,0,region:us
+2026-11-03T13:58:11Z,WonseokJayJung/link01-gym-ppo7,WonseokJayJung,0,0,license:other; size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us; reinforcement-learning; gymnasium; mujoco; ppo; connect-ai-lab
+2026-11-03T13:58:47Z,sw-voice/swamiji-bhagavatha-kannada-reuse-themes,sw-voice,0,0,task_categories:text-to-speech; language:kn; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-11-03T13:58:59Z,icdn15/content-202611035b80,icdn15,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-03T13:59:28Z,TechnoBaptist/OffsecCyber,TechnoBaptist,0,0,task_categories:text-generation; task_categories:text-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; librar…
+2026-11-03T14:00:39Z,anocta/Aswaja,anocta,0,0,task_categories:text-generation; task_categories:fill-mask; task_categories:image-to-text; language:ar; license:cdla-sharing-1.0; size_categories:100K<n<1M; region:us; arabic; classical-arabic; islam…
+2026-11-03T14:00:58Z,harry7659/pumpfun-app-referral-code-cashback100-unlock-sol-fee-cashback-rewards,harry7659,0,0,region:us
+2026-11-03T14:01:38Z,sw-voice/swamiji-bhagavatha-kannada-reuse-themes-punct,sw-voice,0,0,task_categories:text-to-speech; language:kn; license:other; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-11-03T14:02:24Z,sad1d21/Annoy-PyEdu-Rs,sad1d21,0,0,region:us
+2026-11-03T14:02:25Z,sad1d21/Annoy-PyEdu-Rs-Raw,sad1d21,0,0,region:us
+2026-11-03T14:02:27Z,harry7659/pumpfun-app-referral-code-gift100-claim-new-user-gifts-signup-benefits,harry7659,0,0,region:us
+2026-11-03T14:03:35Z,gpettro/base-inf-approach-the-brown-table,gpettro,0,0,region:us
+2026-11-03T14:03:42Z,harry7659/pumpfun-app-referral-code-fun100-get-registration-bonus-quick-setup-guide,harry7659,0,0,region:us
+2026-11-03T14:04:25Z,SOTAagi2030/Harbor-Buoy-Service-Route-340,SOTAagi2030,0,0,license:cc-by-4.0; region:us; harbor-operations; maintenance-routing
+2026-11-03T14:05:38Z,dkingtutcd/invariant-repair-train-1000,dkingtutcd,0,0,region:us
+2026-11-03T14:06:44Z,jrast/gpt2-experts-f25,jrast,0,0,region:us; gpt2; llm-c; model-checkpoints
+2026-11-03T14:08:12Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-11-03T14:08:14Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-11-03T14:08:48Z,aatman/gambling-ads,aatman,0,0,region:us
+2026-11-03T14:09:05Z,alecccdd/meta-3d-reconstruction,alecccdd,0,0,region:us
+2026-11-03T14:09:17Z,anyantudre/MooreSpeechCorporaV2,anyantudre,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:mos; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us
+2026-11-03T14:11:04Z,toolathlon4/Annoy-PyEdu-Rs,toolathlon4,0,0,region:us
+2026-11-03T14:11:09Z,toolathlon4/Annoy-PyEdu-Rs-Raw,toolathlon4,0,0,region:us
+2026-11-03T14:12:04Z,LeoMaxwell/cl-gold-videos,LeoMaxwell,0,0,region:us
+2026-11-03T14:12:25Z,propfirm/prop-firm-discount-codes,propfirm,0,0,license:other; size_categories:100K<n<1M; region:us; discount-codes; trading; prop-firm; funded-trader; finance
+2026-11-03T14:12:31Z,othmanekabal/TDGBench,othmanekabal,0,0,language:en; license:other; region:us; knowledge-graph; graph-neural-networks; text-driven-graphs; benchmark
+2026-11-03T14:14:02Z,komokomo7/eval_act_tactile_sciurus17_4-sensors_head-cam_blue-paper_rotate_test-1_2026_1103_230652_14ep,komokomo7,0,0,region:us
+2026-11-03T14:14:09Z,HarleyCooper/volume2gym-railroad-1959-repaired,HarleyCooper,0,0,region:us
+2026-11-03T14:14:47Z,EmonHossain/Bangladeshi_Doctor_List,EmonHossain,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:text-classification; language:bn; language:en; license:unknown; size_categories:1K<n<10K; region:us; doctor; medic…
+2026-11-03T14:15:56Z,Bingqiii/thoth-media,Bingqiii,0,0,region:us
+2026-11-03T14:16:01Z,ssurya1992/harikathamrutha-vagdhenu,ssurya1992,0,0,region:us
+2026-11-03T14:16:37Z,CrowdMind/merged-text-splits-v2,CrowdMind,0,0,modality:text; region:us; text; merged-splits
+2026-11-03T14:17:23Z,Error4xx/v-f612a1f9b3d6da2687112531d7fb9efd,Error4xx,0,0,region:us
+2026-11-03T14:18:38Z,rasmuspjohansson/KDS_building_change_detection,rasmuspjohansson,0,0,region:us
