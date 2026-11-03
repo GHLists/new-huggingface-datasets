@@ -1,0 +1,62 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-03T00:19:13Z,aptologia/estudios-buscadores-dosquebradas-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; rea…
+2026-11-03T00:20:08Z,aptologia/estudios-buscadores-hab-banos-lote9-2026,aptologia,0,0,language:es; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; r…
+2026-11-03T00:21:13Z,moeshawky/rae-005-research-evidence,moeshawky,0,0,region:us
+2026-11-03T00:27:07Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-11-03T00:27:08Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-11-03T00:27:27Z,alexis779/xarm7_ball_cup_scripted,alexis779,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-03T00:27:42Z,Seldon-Technologies/astro_1,Seldon-Technologies,0,0,region:us
+2026-11-03T00:28:17Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-11-03T00:28:48Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-11-03T00:29:40Z,receptron/yomiscript-ja-qwen-speech,receptron,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:ja; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:audiofolder; modality:audio; modality:text; library:d…
+2026-11-03T00:33:08Z,afeasdfsd/Annoy-PyEdu-Rs,afeasdfsd,0,0,region:us
+2026-11-03T00:33:38Z,afeasdfsd/Annoy-PyEdu-Rs-Raw,afeasdfsd,0,0,region:us
+2026-11-03T00:34:11Z,DanielJeongsooLee/VeriReason-Luna-Medium-16K-Subsets-5-10,DanielJeongsooLee,0,0,task_categories:text-generation; language:en; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; verilog; rtl; rea…
+2026-11-03T00:37:58Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-11-03T00:37:59Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-11-03T00:39:04Z,g1n0st/04957322410cdc95e1550f294d35c00e8fface84,g1n0st,0,0,region:us
+2026-11-03T00:43:16Z,wintermelontree/robot_policy_overfitting_study,wintermelontree,0,0,task_categories:robotics; license:other; size_categories:100B<n<1T; region:us; robotics; imitation-learning; diffusion-policy; mimicgen; robosuite
+2026-11-03T00:44:51Z,syuekai/histolab-mil-cert,syuekai,0,0,region:us
+2026-11-03T00:44:59Z,mudassiruddin/yolo,mudassiruddin,0,0,region:us
+2026-11-03T00:45:22Z,angelinafeng/pick_and_place_20261102_184104,angelinafeng,0,0,region:us
+2026-11-03T00:46:53Z,SDABASD/Annoy-PyEdu-Rs,SDABASD,0,0,region:us
+2026-11-03T00:46:54Z,SDABASD/Annoy-PyEdu-Rs-Raw,SDABASD,0,0,region:us
+2026-11-03T00:47:54Z,br-llm-data/high_educability_training_split_all_wikipedia_transformations,br-llm-data,0,0,region:us
+2026-11-03T00:48:27Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-03T00:48:28Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-03T00:48:54Z,stefanocarrera/kic_D_train-java_Qwen3-8B_t1.5_g7_run0,stefanocarrera,0,0,region:us
+2026-11-03T00:52:29Z,openwaterrx/glp1buyerguide-price-records-2026,openwaterrx,0,0,license:cc-by-4.0; region:us
+2026-11-03T00:52:50Z,purewater0901/so101_camera_calibration_20261102_164201,purewater0901,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-03T00:53:55Z,sdh2643/pick_and_place,sdh2643,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-03T00:54:22Z,A11asda/Annoy-PyEdu-Rs,A11asda,0,0,region:us
+2026-11-03T00:54:25Z,A11asda/Annoy-PyEdu-Rs-Raw,A11asda,0,0,region:us
+2026-11-03T00:56:00Z,buildchange/rebar_training_data,buildchange,0,0,region:us
+2026-11-03T00:57:47Z,ASD21213123EDSA/Annoy-PyEdu-Rs,ASD21213123EDSA,0,0,region:us
+2026-11-03T00:58:18Z,ASD21213123EDSA/Annoy-PyEdu-Rs-Raw,ASD21213123EDSA,0,0,region:us
+2026-11-03T00:58:25Z,padiredd/pick-cup-place-basket-sim-cap-replay5,padiredd,0,0,region:us; robotis; cyclo_intelligence; robotics; isaac-lab; sim-demos
+2026-11-03T00:59:05Z,PhillyWeatherGuy/baroclinic-aifsens-data,PhillyWeatherGuy,0,0,license:cc-by-4.0; region:us
+2026-11-03T01:00:26Z,openwaterrx/trtbuyerguide-price-records-2026,openwaterrx,0,0,license:other; region:us
+2026-11-03T01:01:05Z,g1n0st/fcd149ccb0c8802dd6961aedb6a43b0251aed81f,g1n0st,0,0,region:us
+2026-11-03T01:01:20Z,ephraiemsam16/labores,ephraiemsam16,0,0,language:en; license:cc-by-4.0; region:us; ai-safety; loyalty; agents; tool-use; evaluation
+2026-11-03T01:02:30Z,ephraiemsam16/anulus,ephraiemsam16,0,0,language:en; license:cc-by-4.0; region:us; ai-safety; loyalty; agents; evaluation; eval-awareness
+2026-11-03T01:02:59Z,adafaaw/Annoy-PyEdu-Rs,adafaaw,0,0,region:us
+2026-11-03T01:03:16Z,SOTAagi2030/Harbor-Flood-Dispatch-327,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-03T01:03:30Z,adafaaw/Annoy-PyEdu-Rs-Raw,adafaaw,0,0,region:us
+2026-11-03T01:04:39Z,anhuynh8439/spore,anhuynh8439,0,0,region:us
+2026-11-03T01:05:02Z,openwaterrx/hrtbuyerguide-price-records-2026,openwaterrx,0,0,license:other; region:us
+2026-11-03T01:05:05Z,3outeille24/vietnam-flights,3outeille24,0,0,region:us
+2026-11-03T01:07:52Z,khoatran11626/tram,khoatran11626,0,0,region:us
+2026-11-03T01:08:05Z,audiofreak7/wikipedia-ai-overviews-panels-2026-09,audiofreak7,0,0,language:en; language:de; language:es; language:fr; language:it; language:ja; language:pl; language:pt; language:ru; language:zh; language:fa; license:other; size_categories:10M<n<100M; region:us; wi…
+2026-11-03T01:08:29Z,Referral-code123/pumpfun-referral-code-SAVE90,Referral-code123,0,0,license:mit; region:us
+2026-11-03T01:08:48Z,openwaterrx/openwaterrx-price-records-2026,openwaterrx,0,0,license:other; region:us
+2026-11-03T01:09:26Z,stefanocarrera/kic_D_test-java_Qwen3-8B_t1.5_g8_run0,stefanocarrera,0,0,region:us
+2026-11-03T01:11:51Z,chans/edgegate-package-entrance-eval,chans,0,0,task_categories:object-detection; task_categories:video-classification; license:cc-by-nc-4.0; size_categories:100K<n<1M; region:us; edge; home; package-detection; evaluation; hackathon
+2026-11-03T01:13:39Z,g1n0st/b57d57ef5e8ef3cfb776f6006987df4e0a67e974,g1n0st,0,0,region:us
+2026-11-03T01:13:40Z,g1n0st/a2cbc37eb11fc7e3a89e26ee2387f5b10852c8a2,g1n0st,0,0,region:us
+2026-11-03T01:14:34Z,Yuzriha00/shoebox_ab,Yuzriha00,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx; lerobot; success
+2026-11-03T01:16:08Z,g1n0st/af6b0c0acebbd77561957203828323cf81f3e2a0,g1n0st,0,0,region:us
+2026-11-03T01:17:14Z,Kadr274/shorts-cdn,Kadr274,0,0,region:us
+2026-11-03T01:17:17Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-11-03T01:17:22Z,drdonv/so101_act_pilot,drdonv,0,0,region:us
+2026-11-03T01:17:47Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-11-03T01:18:47Z,Leobuildsthings/Leobuildsthings,Leobuildsthings,0,0,region:us
