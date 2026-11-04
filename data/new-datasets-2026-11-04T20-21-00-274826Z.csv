@@ -1,0 +1,75 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-04T19:20:22Z,bnq-ii/MT5_MetaQuotes-Demo_AADX,bnq-ii,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:20:39Z,nightly-wave/45b5a364,nightly-wave,0,0,region:us
+2026-11-04T19:20:53Z,rakesh-work/B2B-SaaS-OKF-SIO-Corpus,rakesh-work,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; b2b-saas; seo; geo; rag; super-intelligence-optimization; okf
+2026-11-04T19:20:57Z,leo-quillstudy/free-math-solver-notes,leo-quillstudy,0,0,region:us
+2026-11-04T19:21:09Z,bnq-ii/MT5_MetaQuotes-Demo_AAEQ,bnq-ii,0,0,size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:21:17Z,bnq-ii/MT5_MetaQuotes-Demo_AAL,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:21:49Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-11-04T19:22:09Z,carbondrawdowninitiative/cdr-company-directory,carbondrawdowninitiative,0,0,language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; region:us; carbon-dioxide-removal; climate; open-data
+2026-11-04T19:22:11Z,carbondrawdowninitiative/cdr-researcher-census,carbondrawdowninitiative,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; carbon-dioxide-removal; climate; open-data
+2026-11-04T19:22:16Z,g1n0st/faa7697e3dbb881fd7522aa0d77f95127289cdbe,g1n0st,0,0,region:us
+2026-11-04T19:22:18Z,carbondrawdowninitiative/cdr-shops,carbondrawdowninitiative,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; carbon-dioxide-removal; climate; open-data
+2026-11-04T19:23:24Z,RevanthGundala/037-custom48-dagger18-targeted12,RevanthGundala,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-04T19:23:41Z,Daiddinhani/mindset,Daiddinhani,0,0,region:us
+2026-11-04T19:23:50Z,IITM-2026T3-DSAI-GROUP2/socratic-tutoring-dataset,IITM-2026T3-DSAI-GROUP2,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-11-04T19:26:03Z,theCandlewick/ClimatImpact_assets_for_modrinth,theCandlewick,0,0,license:openrail; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-04T19:26:03Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-04T19:26:18Z,bnq-ii/MT5_MetaQuotes-Demo_AALG,bnq-ii,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:26:27Z,bnq-ii/MT5_MetaQuotes-Demo_AAME,bnq-ii,0,0,region:us
+2026-11-04T19:28:52Z,mbeguin/PIVOT,mbeguin,0,0,region:us
+2026-11-04T19:28:56Z,bnq-ii/MT5_MetaQuotes-Demo_AAMI,bnq-ii,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:30:58Z,erenyeager-1/Dolci-Think-SFT-Clean-v2-allenai,erenyeager-1,0,0,language:en; license:odc-by; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T19:30:59Z,Bstar-regime/exp5_runB_iter_4,Bstar-regime,0,0,region:us
+2026-11-04T19:31:45Z,goaicorp/MooreMTBench,goaicorp,0,0,task_categories:translation; language:mos; language:fr; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-04T19:34:31Z,dougalldeepmind/2026-11-04-da-gpt-15-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:mixture; pipeline:da-gpt; constitution:clau…
+2026-11-04T19:37:06Z,Yang2001/sim-exam-rr757,Yang2001,0,0,license:other; region:us
+2026-11-04T19:37:28Z,temporis-ai/tutorial-event-conditioning-dataset,temporis-ai,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T19:37:46Z,g1n0st/099c05846896e6283a50323745ff71c2242270fd,g1n0st,0,0,region:us
+2026-11-04T19:37:46Z,g1n0st/ae4d453d9b5619202dcd8826734f6afe2f64d9ee,g1n0st,0,0,region:us
+2026-11-04T19:42:28Z,dougalldeepmind/2026-11-04-odcv-constitution-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_plain; mode:think; variant:constitution
+2026-11-04T19:42:46Z,p4ulbr4dl3y/ocrrag-lfm3-plain-data-v7,p4ulbr4dl3y,0,0,region:us
+2026-11-04T19:46:05Z,ple4rt/a492a7fde3,ple4rt,0,0,region:us
+2026-11-04T19:46:12Z,icdn20/content-202611046ab8,icdn20,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-04T19:46:50Z,BradJu/attribute-ownership-shopping-workflows,BradJu,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; region:us
+2026-11-04T19:47:16Z,anonimpala/luganda_nmt_train_hash,anonimpala,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T19:47:18Z,anonimpala/luganda_nmt_test_hash,anonimpala,0,0,region:us
+2026-11-04T19:47:20Z,anonimpala/luganda_nmt_val_hash,anonimpala,0,0,region:us
+2026-11-04T19:49:27Z,anonimpala/luganda_nmt_train_must,anonimpala,0,0,region:us
+2026-11-04T19:49:29Z,anonimpala/luganda_nmt_test_must,anonimpala,0,0,region:us
+2026-11-04T19:49:31Z,anonimpala/luganda_nmt_val_must,anonimpala,0,0,region:us
+2026-11-04T19:51:07Z,stephanieysh/MetaPKLot-Dataset,stephanieysh,0,0,task_categories:image-classification; task_categories:image-segmentation; task_categories:object-detection; license:other; region:us; computer-vision; parking; parking-lot; smart-parking; smart-citie…
+2026-11-04T19:51:10Z,northiamrani01/strix-philosophy-qa,northiamrani01,0,0,task_categories:question-answering; language:en; region:us; philosophy
+2026-11-04T19:53:48Z,groloch/lc0_selfplay_games,groloch,0,0,license:odbl; region:us
+2026-11-04T19:55:48Z,sbunlp/Farsnet,sbunlp,0,0,region:us
+2026-11-04T19:59:35Z,Ameyapores/haply_stack_yellow_red_joint_delta,Ameyapores,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-04T20:01:14Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-t1p1-eval-20261104,hi-todayis-jh,0,0,region:us
+2026-11-04T20:01:32Z,TUaxhuiax/woocommerce_filesystem_huggingface_2422_copperkettle_feed-q8v2x5,TUaxhuiax,0,0,region:us
+2026-11-04T20:03:34Z,chcaa/eno-poetry-annotations,chcaa,0,0,task_categories:text-classification; language:da; size_categories:1K<n<10K; region:us
+2026-11-04T20:04:59Z,mhnasir/items_lite,mhnasir,0,0,region:us
+2026-11-04T20:05:56Z,yikuuun/prot4m-pretrain-corpus,yikuuun,0,0,language:en; size_categories:1M<n<10M; library:webdataset; region:us; protein; proteingym; dms; variant-effect-prediction; webdataset
+2026-11-04T20:06:36Z,Emortalos/TGXAPI,Emortalos,0,0,region:us
+2026-11-04T20:07:27Z,anderslee2020/us-harmonized-tariff-schedule-hts,anderslee2020,0,0,task_categories:text-classification; language:en; license:cc0-1.0; size_categories:10K<n<100K; region:us; tariff; customs; hs-code; hts; trade; united-states
+2026-11-04T20:07:38Z,kingy-ai/kingy-ai-price-index,kingy-ai,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-pricing; llm; api-prices; subscriptions; time-series
+2026-11-04T20:07:40Z,kingy-ai/kingy-ai-launch-tracker,kingy-ai,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-launches; llm; product-releases; funding; open-source
+2026-11-04T20:07:42Z,kingy-ai/kingy-ai-shutdowns-and-deadlines,kingy-ai,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-deprecations; llm; shutdowns; deadlines; model-retirements
+2026-11-04T20:08:37Z,cgoosen/system1-prompt-injection,cgoosen,0,0,task_categories:text-classification; license:other; region:us; prompt-injection; jailbreak; llm-security; unsloth
+2026-11-04T20:09:18Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t1.5_g1_run0,stefanocarrera,0,0,region:us
+2026-11-04T20:10:12Z,anonimpala/luganda_nmt_must,anonimpala,0,0,region:us
+2026-11-04T20:10:16Z,anonimpala/luganda_nmt_hash,anonimpala,0,0,region:us
+2026-11-04T20:10:19Z,amirmmahdavikia/next-pass-filament-raw,amirmmahdavikia,0,0,region:us
+2026-11-04T20:11:26Z,starkAhmed43/lc-image-f76d4c633d062d2e1f37630b,starkAhmed43,0,0,region:us
+2026-11-04T20:11:55Z,reyansh38771/c3d8e011-1631-4390-a536-c104be91679b,reyansh38771,0,0,region:us
+2026-11-04T20:12:48Z,Ilusha645/Construction_Vehicle_Images_Trucks_Tractor,Ilusha645,0,0,task_categories:object-detection; task_categories:image-classification; license:other; size_categories:n<1K; region:us; object-detection; image-classification; construction; vehicles; generative-ai;…
+2026-11-04T20:13:55Z,TIGER-Lab/WebsiteBench,TIGER-Lab,0,0,region:us
+2026-11-04T20:16:03Z,SOTAagi2030/Aurora-Interview-Intake-505,SOTAagi2030,0,0,region:us
+2026-11-04T20:16:09Z,IITM-2026T3-DSAI-GROUP2/milestone-2-data-collection,IITM-2026T3-DSAI-GROUP2,0,0,license:apache-2.0; region:us
+2026-11-04T20:16:11Z,SOTAagi2030/Aurora-Retention-Rules-505,SOTAagi2030,0,0,region:us
+2026-11-04T20:16:42Z,phidiaspropfirm/phidias-propfirm-deals,phidiaspropfirm,0,0,region:us
+2026-11-04T20:16:58Z,RoccoIver/Annoy-PyEdu-Rs,RoccoIver,0,0,region:us
+2026-11-04T20:17:01Z,RoccoIver/Annoy-PyEdu-Rs-Raw,RoccoIver,0,0,region:us
+2026-11-04T20:18:33Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-04T20:18:34Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-04T20:19:07Z,goaicorp/DioulaEnglishParallel,goaicorp,0,0,task_categories:translation; language:dyu; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; region:us; dioula; dyula; burkina-faso; cote-d-ivoire; low-resource; parallel-corpus; machine…
+2026-11-04T20:20:38Z,catt-bench/ftrace-alpha-smoke,catt-bench,0,0,region:us
+2026-11-04T20:20:49Z,Valr252/wisdom,Valr252,0,0,region:us
