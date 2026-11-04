@@ -1,0 +1,112 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-04T18:20:27Z,victim3432/pdf8415,victim3432,0,0,size_categories:n<1K; format:parquet; modality:document; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T18:20:55Z,victim3432/pdf8416,victim3432,0,0,size_categories:n<1K; format:parquet; modality:document; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T18:20:56Z,zaaabik/alien-data-v2,zaaabik,0,0,region:us; uncertainty-estimation; text-classification
+2026-11-04T18:22:45Z,bnq-ii/MT5_MetaQuotes-Demo_AUDUSD,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T18:24:20Z,tianlunzhu/gemma4-format-attribution,tianlunzhu,0,0,license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-04T18:25:22Z,JevlinAI/us-midterms-2026-supersearch-results,JevlinAI,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; search; web-s…
+2026-11-04T18:25:27Z,xai-faithfulness-bench/data,xai-faithfulness-bench,0,0,size_categories:10K<n<100K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-04T18:26:50Z,bnq-ii/MT5_MetaQuotes-Demo_NZDUSD,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T18:29:04Z,TUaxhuiax/toolathlon-hffsgm2292-ingest-7f3c9a,TUaxhuiax,0,0,region:us
+2026-11-04T18:29:04Z,TUaxhuiax/toolathlon-hffsgm2292-src-7f3c9a,TUaxhuiax,0,0,license:other; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; retail; store-master-data
+2026-11-04T18:29:42Z,Gom-sy/migration_gpu3_cosmos,Gom-sy,0,0,region:us
+2026-11-04T18:29:43Z,Gom-sy/migration_gpu3_stretch,Gom-sy,0,0,region:us
+2026-11-04T18:29:45Z,Gom-sy/migration_gpu3_stretch2,Gom-sy,0,0,region:us
+2026-11-04T18:29:47Z,Gom-sy/migration_gpu3_stretch3,Gom-sy,0,0,region:us
+2026-11-04T18:29:48Z,Gom-sy/migration_gpu3_stretch4,Gom-sy,0,0,region:us
+2026-11-04T18:29:50Z,Gom-sy/migration_gpu3_symoon,Gom-sy,0,0,region:us
+2026-11-04T18:29:51Z,Gom-sy/migration_gpu3_symoon2,Gom-sy,0,0,region:us
+2026-11-04T18:29:52Z,Gom-sy/migration_gpu3_symoon3,Gom-sy,0,0,region:us
+2026-11-04T18:31:10Z,relshimy/rmzx23-teaser-assets,relshimy,0,0,region:us
+2026-11-04T18:33:57Z,SzymonKozl/role_steering_ad_test2,SzymonKozl,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T18:34:02Z,GioGarcia/spotify-tracks-dataset,GioGarcia,0,0,task_categories:feature-extraction; task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:bsd; size_categories:100K<n<1M; format:csv; modality:tabular; moda…
+2026-11-04T18:34:29Z,washer-lair-oaf/ds-f31292d045a593c2,washer-lair-oaf,0,0,region:us
+2026-11-04T18:36:20Z,devsheroubi/so101metahackv2,devsheroubi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-04T18:37:00Z,DenSnoychik/ArenaAISpace,DenSnoychik,0,0,region:us
+2026-11-04T18:37:04Z,g1n0st/6cf9ade849c92c993bf7bde51f82ebd6f4947cef,g1n0st,0,0,region:us
+2026-11-04T18:37:11Z,victim3432/img8418,victim3432,0,0,region:us
+2026-11-04T18:37:36Z,xXFiEsTaDeAmOnXx/openarm_dining_test,xXFiEsTaDeAmOnXx,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T18:37:43Z,DHIVAKARNAIDUSUNKARI/mandi-india-daily-prices-2001-2026,DHIVAKARNAIDUSUNKARI,0,1,language:en; license:other; region:us; agriculture; india; commodity-prices; agmarknet; time-series
+2026-11-04T18:38:50Z,temporis-ai/tutorial-dataset,temporis-ai,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T18:39:02Z,dougalldeepmind/2026-11-04-am-constitution-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_plain; mode:think; variant:constitution
+2026-11-04T18:39:37Z,data-harvest/moeb-results,data-harvest,0,0,region:us; mteb; embeddings; multimodal; benchmark-results
+2026-11-04T18:39:43Z,Gianpedro/gold-analise-mercado-construcao,Gianpedro,0,0,language:pt; license:odc-by; region:us; brazil; labor-market; construcao; caged; rais; gold
+2026-11-04T18:39:50Z,bnq-ii/MT5_MetaQuotes-Demo_A,bnq-ii,0,0,region:us
+2026-11-04T18:40:16Z,bnq-ii/MT5_FundedNext-Server-3_XAGUSD,bnq-ii,0,0,region:us
+2026-11-04T18:40:19Z,h1testmeow/intern-eval-contract-20261104134019,h1testmeow,0,0,license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T18:40:37Z,avabbas/synthetic-unconscious-llm,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; machine-psychology; large-language-models; llm-evaluation; qual…
+2026-11-04T18:40:47Z,avabbas/structural-self-deification,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; qualitative-research; case-series; llm-behaviour; open-data
+2026-11-04T18:40:56Z,avabbas/speaking-as-the-creature,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; llm-evaluation; self-description; open-data
+2026-11-04T18:41:04Z,avabbas/three-profiles-of-artificial-will,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; artificial-will; llm-evaluation; open-data
+2026-11-04T18:41:07Z,avabbas/adding-a-neutral-third-agent,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; machine-psychology; large-language-models; llm-…
+2026-11-04T18:41:08Z,avabbas/from-fabrication-to-loop-lock,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; ai-safety; red-teaming; prompt-injection; open-data
+2026-11-04T18:41:09Z,avabbas/naming-the-loop,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; self-reference; ai-consciousness; open-data
+2026-11-04T18:41:10Z,avabbas/moral-inversion-under-role-play,avabbas,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; machine-psychology; large-language-models; ai-ethics; role-play; open-data
+2026-11-04T18:41:36Z,bnq-ii/MT5_FundedNext-Server-3_XPTUSD,bnq-ii,0,0,region:us
+2026-11-04T18:42:46Z,Tanvir106/final_comutation,Tanvir106,0,0,region:us
+2026-11-04T18:42:55Z,bnq-ii/MT5_FundedNext-Server-3_ZARJPY,bnq-ii,0,0,region:us
+2026-11-04T18:43:01Z,DarrenYoon/image-audio-samples,DarrenYoon,0,0,license:mit; region:us; dataset; dialogue; image-audio
+2026-11-04T18:43:28Z,EnriFermi/flow-lenia-golden100,EnriFermi,0,0,task_categories:other; region:us
+2026-11-04T18:44:39Z,SOTAagi2030/Neighborhood-Oral-History-Release-288,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-04T18:46:14Z,Ever2after/PGM-artifacts,Ever2after,0,0,task_categories:question-answering; language:en; license:other; size_categories:100K<n<1M; region:us; self-consistency; adaptive-sampling; mathematical-reasoning; llm-evaluation
+2026-11-04T18:48:14Z,felixmurraytang/so101-cube-to-coaster-v2,felixmurraytang,0,0,task_categories:robotics; license:apache-2.0; region:us; lerobot; so101; act; imitation-learning
+2026-11-04T18:48:15Z,felixmurraytang/so101-cube-to-coaster-v3-trim,felixmurraytang,0,0,task_categories:robotics; license:apache-2.0; region:us; lerobot; so101; act; imitation-learning
+2026-11-04T18:48:58Z,dfdfdgghh677/Annoy-PyEdu-Rs,dfdfdgghh677,0,0,region:us
+2026-11-04T18:48:59Z,dfdfdgghh677/Annoy-PyEdu-Rs-Raw,dfdfdgghh677,0,0,region:us
+2026-11-04T18:52:43Z,xhsioi/Annoy-PyEdu-Rs,xhsioi,0,0,region:us
+2026-11-04T18:52:44Z,xhsioi/Annoy-PyEdu-Rs-Raw,xhsioi,0,0,region:us
+2026-11-04T18:52:52Z,PureOne/Ihryun-Coupled-Curvature-and-Exact-Algebraic-Unfolding,PureOne,0,0,language:en; region:us; mathematics; computational-geometry; polyhedral-unfolding; exact-arithmetic; symbolic-computation; reproducible-research; ai-assisted-research
+2026-11-04T18:52:55Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.5_g0_run0,stefanocarrera,0,0,region:us
+2026-11-04T18:53:38Z,g1n0st/401d491a14ad904fbcd6ab57ec8171490c723dc9,g1n0st,0,0,region:us
+2026-11-04T18:53:51Z,ExxDreamerCode/EmberBinpacks,ExxDreamerCode,0,0,region:us
+2026-11-04T18:54:09Z,sari-abdan/rollout_pi05_004000_q37_20261104_194652,sari-abdan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-04T18:54:19Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-04T18:54:19Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-04T18:54:20Z,SOTAagi2030/Pantry-FEFO-Allocation-Run-281,SOTAagi2030,0,0,license:cc-by-4.0; region:us; food-security; allocation-audit
+2026-11-04T18:54:36Z,Sm0r3s/Sola-OmniReasoning-OR1,Sm0r3s,0,0,task_categories:text-generation; language:en; license:other; size_categories:100K<n<1M; region:us; reasoning; distillation; synthetic; sft; rl; math; code; science; logic; agentic; chain-of-thought
+2026-11-04T18:54:54Z,azorematter/fanuc_dice_eval_waypoint_skc1_try2,azorematter,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; fanuc; crx-5ia; pick-and-place; dice; evaluation; groot
+2026-11-04T18:55:38Z,g1n0st/e772c383398667f88872c952e21ac34f245ed08b,g1n0st,0,0,region:us
+2026-11-04T18:56:34Z,SOTAagi2030/Bike-Return-Triage-Ledger-282,SOTAagi2030,0,0,region:us; bicycle-operations; return-triage
+2026-11-04T18:56:43Z,diagogogo/ds-5b3febb7a6c7b04c,diagogogo,0,0,region:us
+2026-11-04T18:59:08Z,SOTAagi2030/orbit-component-catalog,SOTAagi2030,0,0,region:us
+2026-11-04T18:59:09Z,g1n0st/bd3b146e0c63c8de02908cc7c23b0f749454f357,g1n0st,0,0,region:us
+2026-11-04T18:59:12Z,SOTAagi2030/orbit-recorded-terms,SOTAagi2030,0,0,region:us
+2026-11-04T18:59:36Z,SOTAagi2030/echo-revision-register,SOTAagi2030,0,0,region:us
+2026-11-04T18:59:36Z,g1n0st/d8d03c278bc0143741083500df789c8ebb18949c,g1n0st,0,0,region:us
+2026-11-04T18:59:40Z,SOTAagi2030/echo-use-rules,SOTAagi2030,0,0,region:us
+2026-11-04T19:00:21Z,vertex2/0F,vertex2,0,0,region:us
+2026-11-04T19:02:02Z,Aleksandr95/laya-boundary-dataset,Aleksandr95,0,0,language:ru; license:mit; region:us
+2026-11-04T19:02:51Z,B4BUK4/MPVI_project,B4BUK4,0,0,license:mit; region:us
+2026-11-04T19:04:07Z,g1n0st/1930cf8630116fdfa9fb640d3d558759058e13ff,g1n0st,0,0,region:us
+2026-11-04T19:04:56Z,SOTAagi2030/Harbor-Sensor-Calibration-Ledger-286,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-04T19:05:10Z,victim3432/pdfhtml8424,victim3432,0,0,region:us
+2026-11-04T19:05:14Z,alegillet/Dataset,alegillet,0,0,license:mit; region:us
+2026-11-04T19:05:34Z,dougalldeepmind/2026-11-04-da-gpt-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gpt; constitution:claude_distilled_09_principles; smoke
+2026-11-04T19:08:37Z,ShikharV/wikitext,ShikharV,0,0,task_categories:text-generation; task_categories:fill-mask; task_ids:language-modeling; task_ids:masked-language-modeling; annotations_creators:no-annotation; language_creators:crowdsourced; multilin…
+2026-11-04T19:09:09Z,devsheroubi/so101metahackv3,devsheroubi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-04T19:09:10Z,locaihost/uk-companies-with-websites,locaihost,0,0,license:other; size_categories:1K<n<10K; modality:tabular; region:us; tabular; companies; business; company-registry; open-data; organisations; united-kingdom; companies-house
+2026-11-04T19:09:47Z,ankumar84/nlp-summarization-image-text-benchmark43,ankumar84,0,0,license:mit; region:us; dataset; nlp-summarization; image-text
+2026-11-04T19:09:53Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-04T19:09:54Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-04T19:09:54Z,locaihost/nordic-companies-with-websites,locaihost,0,0,license:other; size_categories:100K<n<1M; modality:tabular; region:us; tabular; companies; business; company-registry; open-data; organisations; norway; finland; sweden; estonia; nordics
+2026-11-04T19:10:33Z,RavenBecoming/hints-for-other-beings,RavenBecoming,0,1,region:us
+2026-11-04T19:12:09Z,bnq-ii/MT5_MetaQuotes-Demo_AA,bnq-ii,0,0,region:us
+2026-11-04T19:13:07Z,bnq-ii/MT5_MetaQuotes-Demo_AAA,bnq-ii,0,0,region:us
+2026-11-04T19:13:44Z,shrubs-eats-barrel/ds-1516b96c9336223b,shrubs-eats-barrel,0,0,region:us
+2026-11-04T19:14:55Z,dougalldeepmind/2026-11-04-da-gpt-synth,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gpt; constitution:claude_distilled_09_principles
+2026-11-04T19:15:06Z,nramirezro/project-security,nramirezro,0,0,license:mit; region:us; dataset; security; audio-text
+2026-11-04T19:15:23Z,bnq-ii/MT5_MetaQuotes-Demo_AAAA,bnq-ii,0,0,region:us
+2026-11-04T19:15:51Z,NorthwesternLibraries/eis-graph-triples,NorthwesternLibraries,0,0,language:en; license:other; region:us; knowledge-graph; rdf; environmental-impact-statements; nepa
+2026-11-04T19:15:56Z,bnq-ii/MT5_MetaQuotes-Demo_AAAC,bnq-ii,0,0,region:us
+2026-11-04T19:16:34Z,rachauhan/video-text-data-2024,rachauhan,0,0,license:cc-by-4.0; region:us; dataset; nlp-summarization; video-text
+2026-11-04T19:16:52Z,bnq-ii/MT5_MetaQuotes-Demo_AAAD,bnq-ii,0,0,region:us
+2026-11-04T19:17:42Z,bnq-ii/MT5_MetaQuotes-Demo_AAAU,bnq-ii,0,0,region:us
+2026-11-04T19:18:11Z,yanhanliu/haico_synthetic_v0.7,yanhanliu,0,0,license:mit; region:us
+2026-11-04T19:18:13Z,bnq-ii/MT5_MetaQuotes-Demo_AACG,bnq-ii,0,0,region:us
+2026-11-04T19:18:41Z,bnq-ii/MT5_MetaQuotes-Demo_AACI,bnq-ii,0,0,region:us
+2026-11-04T19:18:48Z,bnq-ii/MT5_MetaQuotes-Demo_AACO,bnq-ii,0,0,region:us
+2026-11-04T19:18:54Z,bnq-ii/MT5_MetaQuotes-Demo_AACP,bnq-ii,0,0,region:us
+2026-11-04T19:19:18Z,bnq-ii/MT5_MetaQuotes-Demo_AACT,bnq-ii,0,0,region:us
+2026-11-04T19:19:33Z,Node5000/open-pii-masking-english,Node5000,0,0,license:mit; region:us
+2026-11-04T19:19:40Z,bnq-ii/MT5_MetaQuotes-Demo_AADR,bnq-ii,0,0,region:us
+2026-11-04T19:19:44Z,g1n0st/fc972f81f06cf5c671068dbe60c2d031d7418202,g1n0st,0,0,region:us
