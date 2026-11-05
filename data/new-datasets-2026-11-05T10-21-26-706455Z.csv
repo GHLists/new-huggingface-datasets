@@ -1,0 +1,149 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-05T09:20:03Z,popkek00/it-speaker-3863,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:21:13Z,g1n0st/dbff73d22bf84cdeae12f27c3c0804df0a84c5a3,g1n0st,0,0,region:us
+2026-11-05T09:21:28Z,tuongdominh/SIMS_VSI_REGION,tuongdominh,0,0,region:us
+2026-11-05T09:21:42Z,martinjoshua/trial-weather,martinjoshua,0,0,license:apache-2.0; region:us; dataset; weather; image-audio
+2026-11-05T09:21:45Z,popkek00/it-speaker-4018,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:22:16Z,jlim072/persuasion,jlim072,0,0,language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:22:41Z,Yeongkwon/Won-Instruct,Yeongkwon,0,0,task_categories:question-answering; language:ko; license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:250…
+2026-11-05T09:22:50Z,safafa34235/Annoy-PyEdu-Rs,safafa34235,0,0,region:us
+2026-11-05T09:22:50Z,safafa34235/Annoy-PyEdu-Rs-Raw,safafa34235,0,0,region:us
+2026-11-05T09:23:11Z,popkek00/it-speaker-4158,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:24:29Z,indojin/ur5e-multitask-5obj-305ep-cosmos-fd-v30,indojin,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; cosmos; ur5e; forward-dynamics
+2026-11-05T09:24:34Z,popkek00/it-speaker-4261,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:24:45Z,g1n0st/1e283c0eb6c94f24213d608306b4d00d7fe4a7eb,g1n0st,0,0,region:us
+2026-11-05T09:24:45Z,KhanhChien/Data-Qwen3.5-SFT-Air-Only,KhanhChien,0,0,region:us
+2026-11-05T09:24:57Z,viveknvn/news-media-pointcloud-text-benchmark,viveknvn,0,0,license:mit; region:us; dataset; news-media; pointcloud-text
+2026-11-05T09:25:03Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-05T09:25:03Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-05T09:25:31Z,DSD1231/Annoy-PyEdu-Rs,DSD1231,0,0,region:us
+2026-11-05T09:25:32Z,DSD1231/Annoy-PyEdu-Rs-Raw,DSD1231,0,0,region:us
+2026-11-05T09:25:39Z,arbeitszeitkompass/feiertage-arbeitstage-deutschland-2026-2027,arbeitszeitkompass,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:25:41Z,NeelRajani/Nemotron-Post-Training-Dataset-v2_chat_nothink_10k,NeelRajani,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:25:59Z,popkek00/it-speaker-4649,popkek00,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:26:26Z,asdaasdf/Annoy-PyEdu-Rs,asdaasdf,0,0,region:us
+2026-11-05T09:26:57Z,asdaasdf/Annoy-PyEdu-Rs-Raw,asdaasdf,0,0,region:us
+2026-11-05T09:27:26Z,popkek00/it-speaker-4705,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:28:32Z,AstVSpike/AstVSpike,AstVSpike,0,0,region:us
+2026-11-05T09:28:40Z,sashashghome/vllm-ocr-results,sashashghome,0,0,size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:28:51Z,popkek00/it-speaker-4971,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:29:32Z,speedykom-group/toposa-speech-dataset-finetune-v1,speedykom-group,0,0,task_categories:text-to-speech; language:toq; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-05T09:30:19Z,popkek00/it-speaker-4975,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:31:31Z,RobotisSW/Task_20261105_092509_inference_MCAP,RobotisSW,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-11-05T09:32:00Z,popkek00/it-speaker-5010,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:33:30Z,oposiasty/polski,oposiasty,0,0,task_categories:text-generation; task_categories:feature-extraction; language:pl; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datas…
+2026-11-05T09:33:35Z,popkek00/it-speaker-5014,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:34:46Z,earakely-scale/LibreOfficeWriterComputerEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:geospatial; modality:image; modality:video; library:datasets; library:mlcroissant; library:agentenv; region:us; computer-use; cu…
+2026-11-05T09:34:52Z,earakely-scale/InkscapeComputerEnv-REA,earakely-scale,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; library:agentenv; region:us; computer-use; cua; gui-agent; rl-envi…
+2026-11-05T09:34:52Z,NeelRajani/Nemotron-Post-Training-Dataset-v2_math_nothink_10k,NeelRajani,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:35:05Z,popkek00/it-speaker-5015,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:36:06Z,ankitbudhori/dataset,ankitbudhori,0,0,license:apache-2.0; region:us
+2026-11-05T09:36:37Z,popkek00/it-speaker-5077,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:36:51Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-11-05T09:36:52Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-11-05T09:37:24Z,ductaingn/sketch_libero_sgmg_slim_heldout,ductaingn,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-05T09:38:11Z,popkek00/it-speaker-5421,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:38:11Z,Fork123/Test5.2-50eps-complex-set1_20261105_101541,Fork123,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-05T09:38:21Z,IITM-2026T3-DSAI-GROUP2/assistmentdatset,IITM-2026T3-DSAI-GROUP2,0,0,license:mit; size_categories:100K<n<1M; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:39:18Z,ductaingn/sketch_libero_sgmg_slim,ductaingn,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-05T09:39:42Z,popkek00/it-speaker-6001,popkek00,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:41:26Z,popkek00/it-speaker-6299,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:42:27Z,ayiana/minds14,ayiana,0,0,task_categories:automatic-speech-recognition; task_ids:keyword-spotting; annotations_creators:expert-generated; annotations_creators:crowdsourced; annotations_creators:machine-generated; language_cre…
+2026-11-05T09:42:39Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-11-05T09:42:40Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-11-05T09:42:59Z,popkek00/it-speaker-6348,popkek00,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:43:03Z,ASD21213123EDSA/Annoy-PyEdu-Rs-Raw,ASD21213123EDSA,0,0,region:us
+2026-11-05T09:43:03Z,ASD21213123EDSA/Annoy-PyEdu-Rs,ASD21213123EDSA,0,0,region:us
+2026-11-05T09:43:16Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.5_g8_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:43:22Z,corechan/copenhagen-hnefatafl-45M-selfplay,corechan,0,0,license:cc-by-4.0; region:us
+2026-11-05T09:44:23Z,ASD12EDSXA/Annoy-PyEdu-Rs-Raw,ASD12EDSXA,0,0,region:us
+2026-11-05T09:44:23Z,ASD12EDSXA/Annoy-PyEdu-Rs,ASD12EDSXA,0,0,region:us
+2026-11-05T09:44:34Z,popkek00/it-speaker-6379,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:44:59Z,ArmanSandhu1729/voiceshield-golden-vault,ArmanSandhu1729,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:45:24Z,Frank-xd/MEDSYN,Frank-xd,0,0,task_categories:visual-question-answering; task_categories:image-text-to-text; task_categories:multiple-choice; task_categories:question-answering; task_ids:multiple-choice-qa; language:en; language:…
+2026-11-05T09:45:28Z,attacker3434/dsinf8597,attacker3434,0,0,license:mit; region:us
+2026-11-05T09:46:10Z,popkek00/it-speaker-6380,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:46:11Z,attacker3434/imgds8600,attacker3434,0,0,license:mit; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:46:24Z,mhshahzad/job_application_emails_clean,mhshahzad,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:46:58Z,Bohan22/bio-data-mirror,Bohan22,0,0,license:cc-by-4.0; region:us
+2026-11-05T09:47:36Z,swastikkkkkkkkk/Gurumukhi_dataset_syn_line,swastikkkkkkkkk,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-05T09:47:44Z,popkek00/it-speaker-643,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:47:45Z,g1n0st/0c058317a8916349ca972d7d5c9ad4fc17a2f364,g1n0st,0,0,region:us
+2026-11-05T09:48:19Z,JonesLin/openmathinstruct2-steps-cot,JonesLin,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:p…
+2026-11-05T09:49:15Z,g1n0st/b329de51acc3bbee865642bc1b65c8cb0fc15344,g1n0st,0,0,region:us
+2026-11-05T09:49:18Z,popkek00/it-speaker-644,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:49:47Z,g1n0st/22e32d89e926dfb0ad1f1f394dcd542b2cf686fb,g1n0st,0,0,region:us
+2026-11-05T09:49:51Z,g1n0st/2794401fdaf1e7c440d28d29bf84b3f73f59529b,g1n0st,0,0,region:us
+2026-11-05T09:50:44Z,g1n0st/af92933b83727395ef0483f8bf617f659dcd5b7f,g1n0st,0,0,region:us
+2026-11-05T09:51:01Z,popkek00/it-speaker-659,popkek00,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:51:12Z,g1n0st/759df2ea74b9ac48b05b3bffe43ebf109b8a6291,g1n0st,0,0,region:us
+2026-11-05T09:51:14Z,g1n0st/540c2dab55d20525055d54b8099bb61c7f51a547,g1n0st,0,0,region:us
+2026-11-05T09:52:12Z,g1n0st/7a6848edc3035f19c65c14cfbdef519a082ecd94,g1n0st,0,0,region:us
+2026-11-05T09:52:46Z,popkek00/it-speaker-6744,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:54:16Z,atomic-intelligence-rnD/EMMeT,atomic-intelligence-rnD,0,0,license:other; region:us
+2026-11-05T09:54:21Z,popkek00/it-speaker-6807,popkek00,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:54:23Z,saurabhsatija/pillar-two-filing-obligations,saurabhsatija,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tax; pillar-two; global-minimum-t…
+2026-11-05T09:54:45Z,qwalora/driveguard,qwalora,0,0,task_categories:visual-question-answering; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; source_datasets:original; language:en; license:oth…
+2026-11-05T09:55:09Z,ggwplarin/genui-tote-v9.1.3-fanout-ir3-abcd-48k,ggwplarin,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; generative-ui; tote; ir3; raw; res…
+2026-11-05T09:55:38Z,SlayerLab/polish-dynaword-pretrainning-mix,SlayerLab,0,0,task_categories:text-generation; source_datasets:SlayerLab/polish-dynaword; language:pl; license:other; size_categories:1M<n<10M; modality:text; region:us; text; polish; pretraining; curriculum-learn…
+2026-11-05T09:56:08Z,SOTAagi2030/Solstice-Solar-Credits-311,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-05T09:56:09Z,andro2601/EMMeT-gated,andro2601,0,0,license:other; region:us
+2026-11-05T09:56:19Z,popkek00/it-speaker-6950,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:56:48Z,sdfd16298/test_episode_1,sdfd16298,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-05T09:57:41Z,saadalh/dataset_red_right_10d_abs_tcp_pose_newcam,saadalh,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-05T09:57:48Z,earth-compress/georvq-tessera-v1.1-sample,earth-compress,0,0,license:cc-by-sa-4.0; size_categories:n<1K; modality:geospatial; arxiv:2506.20380; region:us; geospatial; earth-observation; compression; zarr; embeddings; tessera
+2026-11-05T09:57:55Z,popkek00/it-speaker-7230,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T09:58:11Z,AditPakhode/Hindi-Marathi_dataset_for_asr_of_male-female,AditPakhode,0,0,region:us
+2026-11-05T09:58:39Z,purewater0901/so101_isaaclab_pick_and_place,purewater0901,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-05T09:59:32Z,popkek00/it-speaker-7405,popkek00,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T10:00:31Z,victim3432/ssrf9500,victim3432,0,0,region:us
+2026-11-05T10:00:35Z,nightly-wave/67fc35f8,nightly-wave,0,0,region:us
+2026-11-05T10:00:42Z,g1n0st/c3a63d04dec48f8a38bfa4915d9a96fefa754b38,g1n0st,0,0,region:us
+2026-11-05T10:00:47Z,BryanW/46_banana,BryanW,0,0,license:other; region:us; machine-generated; minimax-h3
+2026-11-05T10:01:22Z,duyle2408/stw-yolo-standard-seed43-backfill-runs,duyle2408,0,0,region:us
+2026-11-05T10:01:40Z,popkek00/it-speaker-7440,popkek00,0,0,region:us
+2026-11-05T10:03:07Z,leapshared/openarmsciedu-reports,leapshared,0,0,region:us
+2026-11-05T10:03:38Z,MallikaWy/project-backup,MallikaWy,0,0,region:us
+2026-11-05T10:03:45Z,g1n0st/0bfebc7d1d31281ecaa92e1e629fa1bf6f86d16d,g1n0st,0,0,region:us
+2026-11-05T10:03:52Z,popkek00/it-speaker-7444,popkek00,0,0,region:us
+2026-11-05T10:05:11Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-05T10:05:11Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-05T10:05:14Z,g1n0st/b38fd5bcea7abfb5c87523dba479f7178909344c,g1n0st,0,0,region:us
+2026-11-05T10:05:34Z,popkek00/it-speaker-7936,popkek00,0,0,region:us
+2026-11-05T10:06:02Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-05T10:06:02Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-05T10:06:15Z,ashokreddyai/bollywood-entry-assets,ashokreddyai,0,0,region:us
+2026-11-05T10:06:50Z,KeiEsa/record-cap-transfer_20261105_185350,KeiEsa,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-05T10:07:18Z,popkek00/it-speaker-8181,popkek00,0,0,region:us
+2026-11-05T10:07:47Z,SOTAagi2030/Cold-Chain-Dispatch-260,SOTAagi2030,0,0,region:us
+2026-11-05T10:08:42Z,g1n0st/8828516baf94b700fe40c20d0c612819b83b5ce1,g1n0st,0,0,region:us
+2026-11-05T10:09:01Z,popkek00/it-speaker-8207,popkek00,0,0,region:us
+2026-11-05T10:09:48Z,Lyricccco/Add-and-Preserve,Lyricccco,0,0,task_categories:image-to-image; language:en; license:other; size_categories:n<1K; region:us; tailsteer; multi-turn-image-editing; benchmark
+2026-11-05T10:10:05Z,roby1222/Unit-Conversion,roby1222,0,0,task_categories:question-answering; task_categories:token-classification; language:en; language:zh; language:hi; language:es; language:fr; language:ar; language:bn; language:pt; language:ru; language…
+2026-11-05T10:10:44Z,popkek00/it-speaker-8294,popkek00,0,0,region:us
+2026-11-05T10:10:57Z,noe-gracia-aqsone/vial_to_rack_cartesian_v2,noe-gracia-aqsone,0,0,region:us
+2026-11-05T10:12:15Z,g1n0st/e2a85983d6a84b256944ccd1cd1b14680369c803,g1n0st,0,0,region:us
+2026-11-05T10:12:15Z,g1n0st/c488b1c3ae24868cd01fba0e5e1fb33a5fc70565,g1n0st,0,0,region:us
+2026-11-05T10:12:17Z,g1n0st/5bc62c8eac31e1e8414b2df6a77ece1a0478f3cd,g1n0st,0,0,region:us
+2026-11-05T10:12:17Z,g1n0st/6036d78e207fed2ebdd3ed9cadcc770fce78202a,g1n0st,0,0,region:us
+2026-11-05T10:12:24Z,popkek00/it-speaker-8384,popkek00,0,0,region:us
+2026-11-05T10:12:43Z,g1n0st/a530cdfb60dcb8558769e59ad84d94b91489dcf3,g1n0st,0,0,region:us
+2026-11-05T10:12:45Z,g1n0st/993db03d52524a03d99090ea7273def1cc63ff81,g1n0st,0,0,region:us
+2026-11-05T10:12:46Z,g1n0st/b8769fa83aa92ec5065647fe82f74103fe6362c1,g1n0st,0,0,region:us
+2026-11-05T10:12:50Z,attacker3434/emb1105,attacker3434,0,0,region:us
+2026-11-05T10:13:05Z,Lyricccco/TailSteer-Source,Lyricccco,0,0,task_categories:image-to-image; language:en; license:other; size_categories:10K<n<100K; region:us; tailsteer; image-editing; trajectory-cache
+2026-11-05T10:13:06Z,banjodaniel/homework-finance,banjodaniel,0,0,license:cc-by-4.0; region:us; dataset; finance; image-text
+2026-11-05T10:13:49Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t1.5_g9_run0,stefanocarrera,0,0,region:us
+2026-11-05T10:13:55Z,john11234/ru-sme-lending-2026,john11234,0,0,license:cc-by-4.0; region:us
+2026-11-05T10:14:07Z,popkek00/it-speaker-844,popkek00,0,0,region:us
+2026-11-05T10:14:22Z,SAD12DXCAS/Annoy-PyEdu-Rs,SAD12DXCAS,0,0,region:us
+2026-11-05T10:14:23Z,SAD12DXCAS/Annoy-PyEdu-Rs-Raw,SAD12DXCAS,0,0,region:us
+2026-11-05T10:15:49Z,popkek00/it-speaker-8461,popkek00,0,0,region:us
+2026-11-05T10:15:53Z,victim3432/ssrf9502,victim3432,0,0,region:us
+2026-11-05T10:17:32Z,popkek00/it-speaker-8828,popkek00,0,0,region:us
+2026-11-05T10:18:28Z,QandyAI/qandy-1.0-27B-data,QandyAI,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; finance; crypto; trading; perpetual-futures; reasoning; kto; preference; starburst
+2026-11-05T10:18:30Z,aricochen666/sft_v315_short_grpocritic_v3filter,aricochen666,0,0,region:us
+2026-11-05T10:19:17Z,popkek00/it-speaker-8842,popkek00,0,0,region:us
+2026-11-05T10:19:47Z,gg233gg/test80,gg233gg,0,0,region:us
+2026-11-05T10:20:40Z,rabbitKabbit/RoSE-Robotic-Spatial-Environment,rabbitKabbit,0,0,region:us
+2026-11-05T10:21:03Z,popkek00/it-speaker-9185,popkek00,0,0,region:us
