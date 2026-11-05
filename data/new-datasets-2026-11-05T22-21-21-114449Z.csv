@@ -1,0 +1,59 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-05T21:21:19Z,Ngamera45/english-shona_sentence-pairs_mt560,Ngamera45,0,0,multilinguality:translation; source_datasets:original; language:en; language:sna; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; librar…
+2026-11-05T21:22:12Z,khizirsiddiqui/cobotmagic_SimMatched_water_pouring,khizirsiddiqui,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:22:29Z,flyyingryan/kloan,flyyingryan,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-05T21:22:55Z,muuurk/RF_pcap,muuurk,0,0,region:us
+2026-11-05T21:23:15Z,SOTAagi2030/Harbor-Collection-Condition-Queue-242,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-05T21:24:35Z,Crimecanada/canada-crime-severity-index-metro-areas,Crimecanada,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; crime; canada; statistics-canada; public-safety; time-series
+2026-11-05T21:25:32Z,AZH04/embodied-memory-minecraft-demos,AZH04,0,0,task_categories:image-to-text; task_categories:robotics; task_categories:reinforcement-learning; license:cc-by-nc-4.0; size_categories:100K<n<1M; library:webdataset; region:us; minecraft; imitation-l…
+2026-11-05T21:25:48Z,khizirsiddiqui/cobotmagic_SimMatched_items_handover,khizirsiddiqui,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:26:57Z,kesai-labs/vision-iq-public-data,kesai-labs,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; vision-iq; evaluation; video
+2026-11-05T21:28:32Z,SOTAagi2030/Transit-Headway-Atlas-364,SOTAagi2030,0,0,region:us; transit; telemetry
+2026-11-05T21:30:22Z,khizirsiddiqui/cobotmagic_SimMatched_manipulate_pipette,khizirsiddiqui,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:32:20Z,Larrivhan/NeCast-simulations,Larrivhan,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; population-genetics; demographic-inference; effective-population-size; coalescent; msprime; simulation
+2026-11-05T21:32:47Z,AnjaliNie/legal-qa-generations,AnjaliNie,0,0,region:us
+2026-11-05T21:32:47Z,khizirsiddiqui/cobotmagic_SimMatched_table_rearrangement,khizirsiddiqui,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:36:21Z,NikiPshg/eval-q-r4-20261106,NikiPshg,0,0,license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:36:29Z,khizirsiddiqui/cobotmagic_SimMatched_item_assembly,khizirsiddiqui,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-05T21:38:01Z,Crimecanada/canada-homicides-1961-2025,Crimecanada,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; crime; canada;…
+2026-11-05T21:38:07Z,Poindexter-Labs/copernicus-decision-index-public,Poindexter-Labs,0,0,task_categories:question-answering; license:other; region:us
+2026-11-05T21:38:10Z,SOTAagi2030/Museum-Loan-Condition-Register-238,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-05T21:40:16Z,error-404-userNotFound/neurosama_oss_dataset,error-404-userNotFound,0,0,language:en; license:mit; size_categories:10K<n<100K; region:us
+2026-11-05T21:41:01Z,ibkcdn3/ZnJlZS11cGxvYWQtc3RvcmFnZQ,ibkcdn3,0,0,region:us
+2026-11-05T21:41:09Z,ibkcdn4/ZnJlZS11cGxvYWQtc3RvcmFnZQ,ibkcdn4,0,0,region:us
+2026-11-05T21:42:04Z,Larrivhan/NeCast-benchmark,Larrivhan,0,0,license:cc-by-4.0; size_categories:1K<n<10K; region:us; population-genetics; demographic-inference; effective-population-size; benchmark; msprime; simulation
+2026-11-05T21:42:09Z,Larrivhan/NeCast-1000G,Larrivhan,0,0,license:cc-by-4.0; size_categories:1K<n<10K; region:us; population-genetics; demographic-inference; effective-population-size; 1000-genomes; human-genetics
+2026-11-05T21:44:06Z,grkozlowski/astronomy-video-text-benchmark-2023,grkozlowski,0,0,license:mit; region:us; dataset; astronomy; video-text
+2026-11-05T21:45:27Z,enea-c/Grasp-v9d,enea-c,0,0,region:us
+2026-11-05T21:49:39Z,lowdown-labs/skintone-540k,lowdown-labs,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-05T21:49:59Z,Pixedar/jspace-internal-mirror-evidence,Pixedar,0,0,task_categories:other; language:en; license:cc-by-sa-4.0; region:us; qwen3; mechanistic-interpretability; self-modeling; neurofeedback; attention; experimental-measurements
+2026-11-05T21:50:54Z,zeyuozhao/trial-industrial93,zeyuozhao,0,0,license:cc-by-4.0; region:us; dataset; industrial; sensor-fusion
+2026-11-05T21:52:01Z,attacker3434/img8871,attacker3434,0,0,license:mit; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T21:52:02Z,attacker3434/img8872,attacker3434,0,0,license:mit; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T21:52:03Z,attacker3434/img8873,attacker3434,0,0,license:mit; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T21:52:24Z,nightly-wave/d594dc38,nightly-wave,0,0,region:us
+2026-11-05T21:53:14Z,Hannibal52Barca/cubestack_64_flora,Hannibal52Barca,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; annotations;…
+2026-11-05T21:57:18Z,Saga-AI-Labs/bdh-k25w1024-ladder,Saga-AI-Labs,0,0,license:mit; region:us; continual-learning; bdh
+2026-11-05T21:57:24Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t0.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T21:57:26Z,CEIA-COREJUR/jurisprudencias-limpo,CEIA-COREJUR,0,0,language:pt; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T21:59:14Z,SOTAagi2030/Fenwatch-Call-Sessions-323,SOTAagi2030,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; region:us
+2026-11-05T22:03:45Z,Beyou8778/Dictionary,Beyou8778,0,0,region:us
+2026-11-05T22:06:39Z,LyricBobby/Annoy-PyEdu-Rs,LyricBobby,0,0,region:us
+2026-11-05T22:06:40Z,LyricBobby/Annoy-PyEdu-Rs-Raw,LyricBobby,0,0,region:us
+2026-11-05T22:08:32Z,alessandro54/dogs-of-the-world-refined,alessandro54,0,0,license:cc0-1.0; region:us
+2026-11-05T22:08:52Z,codepawl/smithsonian-3d-glb,codepawl,0,0,license:cc0-1.0; modality:3d; region:us; 3d; glb; gltf; smithsonian; museum; cultural-heritage; photogrammetry; threejs; webgpu; game-assets
+2026-11-05T22:11:24Z,NikiPshg/sbs-r4-vs-prod-20261106,NikiPshg,0,0,license:other; region:us
+2026-11-05T22:14:21Z,Cadenza-Labs/liars-bench-kimi-2p6-organisms-fireworks-july-old,Cadenza-Labs,0,0,region:us
+2026-11-05T22:14:21Z,Udev-miam/Ajaccio,Udev-miam,0,0,region:us
+2026-11-05T22:15:17Z,Elias207/doa,Elias207,0,0,region:us
+2026-11-05T22:15:26Z,livingpluspeptides/fda-peptide-status-tracker,livingpluspeptides,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; peptides; fda; regulation; compounding
+2026-11-05T22:15:30Z,attacker3434/img8874,attacker3434,0,0,license:mit; region:us
+2026-11-05T22:15:35Z,kelkalot/normedqa,kelkalot,0,0,task_categories:multiple-choice; task_categories:question-answering; task_categories:visual-question-answering; language:nb; language:nn; language:se; language:smj; language:sma; license:cc-by-nc-4.0…
+2026-11-05T22:16:39Z,m7jji/doha-metro-multilingual,m7jji,0,0,language:ar; language:en; language:hi; language:ur; language:ml; language:tl; language:fr; language:zh; license:odbl; size_categories:10K<n<100K; region:us; public-transport; qatar; doha-metro; multi…
+2026-11-05T22:17:04Z,Udev-miam/Toulouse,Udev-miam,0,0,region:us
+2026-11-05T22:17:42Z,SOTAagi2030/Northstar-Recall-Trace-321,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-05T22:18:25Z,Dark2310/mais_video,Dark2310,0,0,region:us
+2026-11-05T22:19:48Z,nick-vertz/snow-data,nick-vertz,0,0,region:us
+2026-11-05T22:19:59Z,KarimEsmond/Annoy-PyEdu-Rs,KarimEsmond,0,0,region:us
+2026-11-05T22:20:14Z,chaoliangUNSW/decision-index-results-v4.2,chaoliangUNSW,0,0,task_categories:text-classification; region:us; evaluation-results; decision-index; jev-style
+2026-11-05T22:20:30Z,KarimEsmond/Annoy-PyEdu-Rs-Raw,KarimEsmond,0,0,region:us
