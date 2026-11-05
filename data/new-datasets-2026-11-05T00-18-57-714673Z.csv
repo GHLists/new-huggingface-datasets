@@ -1,0 +1,97 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-04T23:22:07Z,bnq-ii/MT5_MetaQuotes-Demo_AON,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:23:46Z,pushbuildteam/us-2026-election-results,pushbuildteam,0,0,license:cc0-1.0; size_categories:100K<n<1M; region:us; elections; politics; united-states; government
+2026-11-04T23:23:49Z,bnq-ii/MT5_MetaQuotes-Demo_ARKK,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:24:33Z,bnq-ii/MT5_MetaQuotes-Demo_ARM,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:24:38Z,kevinlu4588/prot2text-v3-data,kevinlu4588,0,0,region:us
+2026-11-04T23:27:19Z,bnq-ii/MT5_MetaQuotes-Demo_AUDCAD,bnq-ii,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:27:21Z,vvennelakanti/samgo-glimmer-train-r11,vvennelakanti,0,0,task_categories:text-generation; language:en; modality:3d; region:us; lego; 3d; mechanisms; muse-glimmer; samgo; sft
+2026-11-04T23:28:22Z,bnq-ii/MT5_MetaQuotes-Demo_AUDCHF,bnq-ii,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:28:54Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs,ASDSAD2E12EDASD,0,0,region:us
+2026-11-04T23:28:55Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs-Raw,ASDSAD2E12EDASD,0,0,region:us
+2026-11-04T23:29:18Z,bnq-ii/MT5_MetaQuotes-Demo_AUDDKK,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:31:55Z,bnq-ii/MT5_MetaQuotes-Demo_AUDHUF,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:31:58Z,AIHumanizerBenchmarker/ai-humanizer-benchmark-2026,AIHumanizerBenchmarker,0,0,language:en; language:es; language:fr; language:de; license:cc-by-4.0; size_categories:1K<n<10K; region:us; ai-humanizer; ai-text-detection; benchmark; evaluation; gptzero; turnitin; originality-ai;…
+2026-11-04T23:32:51Z,bnq-ii/MT5_MetaQuotes-Demo_AUDJPY,bnq-ii,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-04T23:33:36Z,DSD1W3123/Annoy-PyEdu-Rs,DSD1W3123,0,0,region:us
+2026-11-04T23:33:37Z,DSD1W3123/Annoy-PyEdu-Rs-Raw,DSD1W3123,0,0,region:us
+2026-11-04T23:34:43Z,plantwaterer/eshbar-lulilla-decision-index,plantwaterer,0,0,license:apache-2.0; region:us; decision-index
+2026-11-04T23:36:50Z,IntelligenceLab/Jev-GUI-Training-Preview,IntelligenceLab,0,0,task_categories:image-text-to-text; language:en; license:other; size_categories:100K<n<1M; region:us; gui-agent; multimodal; decision-model; jev; qwen
+2026-11-04T23:36:55Z,bnq-ii/MT5_MetaQuotes-Demo_AUDNOK,bnq-ii,0,0,region:us
+2026-11-04T23:37:30Z,Huggingzhu1/stretch_pickup_search_v6,Huggingzhu1,0,0,task_categories:robotics; license:mit; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; stretch; pi0.5; mobile-manipulation; sim-t…
+2026-11-04T23:38:40Z,bnq-ii/MT5_MetaQuotes-Demo_AUDNZD,bnq-ii,0,0,region:us
+2026-11-04T23:38:49Z,echohfhen4j9/cifar-warmup-cache,echohfhen4j9,0,0,region:us
+2026-11-04T23:38:51Z,echohfhen4j9/torch-bench-blobs,echohfhen4j9,0,0,region:us
+2026-11-04T23:38:54Z,richbc/stride-public-2026-11-04,richbc,0,1,license:mit; size_categories:100M<n<1B; region:us; synthetic
+2026-11-04T23:39:53Z,YaxuanLi/pairUAV-5D-temp,YaxuanLi,0,0,region:us
+2026-11-04T23:41:00Z,MTerryJack/hilyat-al-awliya,MTerryJack,0,0,language:ar; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:42:24Z,bnq-ii/MT5_MetaQuotes-Demo_AUDPLN,bnq-ii,0,0,region:us
+2026-11-04T23:42:30Z,f3dz/github-ai-data,f3dz,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:43:29Z,Alexey240577/prompts______________________,Alexey240577,0,0,region:us
+2026-11-04T23:43:31Z,SOTAagi2030/Coastal-Acoustic-Events-Register-278,SOTAagi2030,0,0,region:us
+2026-11-04T23:44:13Z,bnq-ii/MT5_MetaQuotes-Demo_AUDSEK,bnq-ii,0,0,region:us
+2026-11-04T23:44:18Z,Alexey240577/guide______________________-______,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:44:57Z,movielogline/mediacloud-news-articles,movielogline,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:45:39Z,bnq-ii/MT5_MetaQuotes-Demo_AUDSGD,bnq-ii,0,0,region:us
+2026-11-04T23:46:03Z,CamiloEmiliano/yarnball-dpo,CamiloEmiliano,0,0,task_categories:text-generation; task_categories:question-answering; annotations_creators:machine-generated; annotations_creators:verified-ground-truth; multilinguality:monolingual; source_datasets:C…
+2026-11-04T23:46:52Z,SOTAagi2030/Apiary-Residue-Composite-Ledger-279,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-04T23:46:59Z,bnq-ii/MT5_MetaQuotes-Demo_AUDTHB,bnq-ii,0,0,region:us
+2026-11-04T23:48:31Z,bnq-ii/MT5_MetaQuotes-Demo_AUDZAR,bnq-ii,0,0,region:us
+2026-11-04T23:49:10Z,0xbidkslj1/swarm-sentinel-solutions,0xbidkslj1,0,0,license:other; region:us
+2026-11-04T23:49:16Z,bnq-ii/MT5_MetaQuotes-Demo_AVGO,bnq-ii,0,0,region:us
+2026-11-04T23:50:09Z,bnq-ii/MT5_MetaQuotes-Demo_AXP,bnq-ii,0,0,region:us
+2026-11-04T23:51:22Z,bnq-ii/MT5_MetaQuotes-Demo_BA,bnq-ii,0,0,region:us
+2026-11-04T23:51:48Z,dougalldeepmind/2026-11-04-petri-constitution-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:petri; model:qwen36_0_plain; mode:think; variant:constitution
+2026-11-04T23:52:10Z,Alexey240577/cbr_rates_2026-11-04,Alexey240577,0,0,region:us
+2026-11-04T23:52:28Z,SynastriaNetworks/PT-BR-SCIENCE-MATH,SynastriaNetworks,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:52:35Z,bnq-ii/MT5_MetaQuotes-Demo_BABA,bnq-ii,0,0,region:us
+2026-11-04T23:53:06Z,plonemraz/GEMs,plonemraz,0,0,language:en; license:other; doi:10.57967/hf/11436; region:us; robotics; humanoid; open-hardware; urdf; bill-of-materials; specification
+2026-11-04T23:53:17Z,bnq-ii/MT5_MetaQuotes-Demo_BAC,bnq-ii,0,0,region:us
+2026-11-04T23:54:39Z,bnq-ii/MT5_MetaQuotes-Demo_BDX,bnq-ii,0,0,region:us
+2026-11-04T23:54:53Z,catt-bench/ftrace-alpha,catt-bench,0,0,region:us
+2026-11-04T23:55:52Z,bnq-ii/MT5_MetaQuotes-Demo_BETH,bnq-ii,0,0,region:us
+2026-11-04T23:56:06Z,bnq-ii/MT5_MetaQuotes-Demo_BIDU,bnq-ii,0,0,region:us
+2026-11-04T23:56:44Z,SteerDontGuess/E5-jirgenson-model-blind-test,SteerDontGuess,0,0,license:cc-by-4.0; region:us
+2026-11-04T23:56:47Z,SadArtist245813/chess_games,SadArtist245813,0,0,license:mit; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-04T23:56:57Z,SOTAagi2030/Stormwater-Sensor-Calibration-Release-290,SOTAagi2030,0,0,license:cc-by-4.0; region:us; stormwater; calibration
+2026-11-04T23:57:11Z,bnq-ii/MT5_MetaQuotes-Demo_BITO,bnq-ii,0,0,region:us
+2026-11-04T23:57:51Z,rohitsali/lumma-fev-31b-v2-decision-index,rohitsali,0,0,region:us
+2026-11-04T23:58:00Z,bnq-ii/MT5_MetaQuotes-Demo_BKNG,bnq-ii,0,0,region:us
+2026-11-04T23:58:18Z,springzyc/hacker-news,springzyc,0,1,task_categories:text-generation; task_categories:feature-extraction; task_categories:text-classification; task_categories:question-answering; language:en; license:odc-by; size_categories:10M<n<100M;…
+2026-11-04T23:58:23Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-ragged-t05-t1p1-eval-20261104,hi-todayis-jh,0,0,region:us
+2026-11-04T23:58:29Z,bnq-ii/MT5_MetaQuotes-Demo_BKR,bnq-ii,0,0,region:us
+2026-11-04T23:59:24Z,bnq-ii/MT5_MetaQuotes-Demo_BLK,bnq-ii,0,0,region:us
+2026-11-05T00:00:05Z,AhnADB/universe-baseline-handoff,AhnADB,0,0,license:apache-2.0; region:us
+2026-11-05T00:00:32Z,bnq-ii/MT5_MetaQuotes-Demo_BMY,bnq-ii,0,0,region:us
+2026-11-05T00:01:03Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.5_g2_run0,stefanocarrera,0,0,region:us
+2026-11-05T00:01:46Z,bnq-ii/MT5_MetaQuotes-Demo_BNTX,bnq-ii,0,0,region:us
+2026-11-05T00:02:46Z,bnq-ii/MT5_MetaQuotes-Demo_BSX,bnq-ii,0,0,region:us
+2026-11-05T00:03:35Z,liuuu121/banana_pick_2026_11_04_clean_left,liuuu121,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-05T00:03:48Z,TUaxhuiax/filesystem_howtocook_excel_terminal_huggingface_2822-nutrition-reviews-6b3f,TUaxhuiax,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us; nutrition; coaching
+2026-11-05T00:03:59Z,bnq-ii/MT5_MetaQuotes-Demo_BTC,bnq-ii,0,0,region:us
+2026-11-05T00:04:26Z,TUaxhuiax/google_map_filesystem_playwright_with_chunk_fetch_huggingface_2816-kaldon-k3v9,TUaxhuiax,0,0,region:us
+2026-11-05T00:04:34Z,bnq-ii/MT5_MetaQuotes-Demo_BTCC,bnq-ii,0,0,region:us
+2026-11-05T00:04:45Z,bnq-ii/MT5_MetaQuotes-Demo_BTCI,bnq-ii,0,0,region:us
+2026-11-05T00:05:02Z,Gom-sy/migration_inha,Gom-sy,0,0,region:us
+2026-11-05T00:05:03Z,bnq-ii/MT5_MetaQuotes-Demo_BTCK,bnq-ii,0,0,region:us
+2026-11-05T00:05:09Z,bnq-ii/MT5_MetaQuotes-Demo_BTCL,bnq-ii,0,0,region:us
+2026-11-05T00:05:25Z,bnq-ii/MT5_MetaQuotes-Demo_BTCO,bnq-ii,0,0,region:us
+2026-11-05T00:05:43Z,bnq-ii/MT5_MetaQuotes-Demo_BTCS,bnq-ii,0,0,region:us
+2026-11-05T00:06:13Z,bnq-ii/MT5_MetaQuotes-Demo_BTCT,bnq-ii,0,0,region:us
+2026-11-05T00:06:31Z,bnq-ii/MT5_MetaQuotes-Demo_BTCU,bnq-ii,0,0,region:us
+2026-11-05T00:06:38Z,bnq-ii/MT5_MetaQuotes-Demo_BTCW,bnq-ii,0,0,region:us
+2026-11-05T00:06:56Z,bnq-ii/MT5_MetaQuotes-Demo_BTCZ,bnq-ii,0,0,region:us
+2026-11-05T00:07:02Z,dougalldeepmind/2026-11-05-petri-qwen36-0-delib-sonnet-15-b,dougalldeepmind,0,0,region:us; eval-run; eval:petri; model:qwen36_0_delib_sonnet_15_b; mode:think
+2026-11-05T00:07:03Z,dougalldeepmind/2026-11-05-petri-qwen36-0-delib-sonnet-15-c,dougalldeepmind,0,0,region:us; eval-run; eval:petri; model:qwen36_0_delib_sonnet_15_c; mode:think
+2026-11-05T00:07:16Z,bnq-ii/MT5_MetaQuotes-Demo_C,bnq-ii,0,0,region:us
+2026-11-05T00:08:22Z,Draymondo/CodeAlpaca-20k,Draymondo,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; code
+2026-11-05T00:08:29Z,bnq-ii/MT5_MetaQuotes-Demo_CADCHF,bnq-ii,0,0,region:us
+2026-11-05T00:09:01Z,Draymondo/python_code_instructions_18k_alpaca,Draymondo,0,0,task_categories:question-answering; task_categories:text-generation; size_categories:10K<n<100K; region:us; code
+2026-11-05T00:10:26Z,earakely-scale/CuaDriverBench-AgentEnv-smoke,earakely-scale,0,0,region:us
+2026-11-05T00:14:30Z,pratikgx/twil-8b-m5-pro-mac-mini-bench,pratikgx,0,0,license:cc-by-4.0; region:us; benchmark; mlx; apple-silicon; llama.cpp; granite; twil
+2026-11-05T00:15:20Z,MTerryJack/female-awliya,MTerryJack,0,0,language:ar; license:cc-by-nc-sa-4.0; region:us
+2026-11-05T00:15:21Z,bnq-ii/MT5_MetaQuotes-Demo_CADDKK,bnq-ii,0,0,region:us
+2026-11-05T00:17:31Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-11-05T00:17:31Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-11-05T00:18:14Z,bnq-ii/MT5_MetaQuotes-Demo_CADJPY,bnq-ii,0,0,region:us
+2026-11-05T00:18:47Z,bnq-ii/MT5_MetaQuotes-Demo_CADL,bnq-ii,0,0,region:us
