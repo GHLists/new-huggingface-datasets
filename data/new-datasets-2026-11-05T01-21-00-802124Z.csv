@@ -1,0 +1,56 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-05T00:19:01Z,movielogline/mediacloud-news-filtered,movielogline,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T00:19:27Z,JingyanChen22/pronominal-gender-bias-training,JingyanChen22,0,0,task_categories:fill-mask; language:en; language:zh; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-05T00:22:38Z,SebRivGar/training-record2,SebRivGar,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-05T00:24:18Z,Arkash1q/ignat-assets,Arkash1q,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-05T00:26:29Z,hustler007/training_youtube_kirtan,hustler007,0,0,region:us
+2026-11-05T00:27:10Z,regupta0904/work-finance-2024,regupta0904,0,0,license:apache-2.0; region:us; dataset; finance; video-text
+2026-11-05T00:29:40Z,HarleyCooper/asterix-recursive-trajectories-01,HarleyCooper,0,0,task_categories:reinforcement-learning; license:cc-by-4.0; region:us
+2026-11-05T00:30:59Z,wiliamvvvvv/nlp-finance-replication,wiliamvvvvv,0,0,region:us
+2026-11-05T00:31:29Z,thelarryproject/libriheavy-large-index-vocoder,thelarryproject,0,0,task_categories:text-to-speech; source_datasets:mythicinfinity/libriheavy; language:en; license:apache-2.0; size_categories:1M<n<10M; arxiv:2309.08105; region:us
+2026-11-05T00:32:27Z,harribo11/ultraviolet-paramobj-pools,harribo11,0,0,license:apache-2.0; region:us; math; reinforcement-learning; synthetic; verifiable
+2026-11-05T00:33:23Z,dougalldeepmind/2026-11-05-petri-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:petri; model:qwen36_0_da_15; mode:think
+2026-11-05T00:33:52Z,b09501048/weightspace-checkpoints,b09501048,0,0,region:us; robotics; openvla; libero; model-editing
+2026-11-05T00:33:53Z,National-Digital/vic-rest-areas-camp-grounds,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia;…
+2026-11-05T00:33:56Z,National-Digital/vic-picnic-sites,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; gov…
+2026-11-05T00:37:17Z,PureOne/Aethra-Veylith-Sharp-Recovery-Law,PureOne,0,0,language:en; region:us; mathematics; coding-theory; erasure-codes; finite-fields; sparse-convolution; affine-geometry; rank-metric-codes; reproducible-research; ai-generated-research
+2026-11-05T00:38:02Z,aprabhu94/frb-waterfalls,aprabhu94,0,0,region:us
+2026-11-05T00:38:23Z,rsan41301/mlproject-19,rsan41301,0,0,region:us
+2026-11-05T00:40:26Z,BradJu/attribute-ownership-negative-experiments,BradJu,0,0,language:en; license:other; region:us; negative-results; tool-use; reproducibility
+2026-11-05T00:40:27Z,mhqin/1105_go2w_data,mhqin,0,0,region:us
+2026-11-05T00:41:25Z,thangkt/financeforecast-bronze-online,thangkt,0,0,license:unknown; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; finance; vietnam; stock-ma…
+2026-11-05T00:49:31Z,nypweech/Dataset_2_20261105_084445,nypweech,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-05T00:52:44Z,mhqin/go2w,mhqin,0,0,region:us
+2026-11-05T00:53:20Z,HarleyCooper/asterix-recursive-trajectories-02,HarleyCooper,0,0,task_categories:reinforcement-learning; license:cc-by-4.0; region:us
+2026-11-05T00:55:15Z,jacobmartivu/robotics-image-audio,jacobmartivu,0,0,license:cc-by-4.0; region:us; dataset; robotics; image-audio
+2026-11-05T00:55:32Z,jacobmartivu/hw1-finance,jacobmartivu,0,0,license:cc-by-4.0; region:us; dataset; finance; audio-video
+2026-11-05T00:55:53Z,davidai-labs/AcousticBench,davidai-labs,0,0,license:other; region:us
+2026-11-05T00:57:35Z,alexhegit/so101-simstudio-rax-drawer-place100d,alexhegit,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-05T00:57:50Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-11-05T00:57:51Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-11-05T00:59:52Z,williamdgomez/left,williamdgomez,0,0,region:us
+2026-11-05T00:59:55Z,SOTAagi2030/reef-package-nodes,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T00:59:58Z,SOTAagi2030/reef-license-profiles,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T01:00:21Z,williamdgomez/right,williamdgomez,0,0,region:us
+2026-11-05T01:00:47Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t1.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-05T01:01:22Z,YzyLmc/pick_mug_raw,YzyLmc,0,0,region:us
+2026-11-05T01:02:15Z,YellowPhoenix/yp-paper3-data,YellowPhoenix,0,0,license:agpl-3.0; region:us; semantic-search; vector-search; binary-hashing; hnsw; benchmark-data; on-device-retrieval
+2026-11-05T01:05:52Z,themohal/saraiki-libero-speech,themohal,0,0,region:us
+2026-11-05T01:06:29Z,djiaoj/A-ablation-visualization,djiaoj,0,0,region:us
+2026-11-05T01:07:42Z,Travor278/whoego-synth-ir,Travor278,0,0,task_categories:image-segmentation; license:cc-by-4.0; size_categories:n<1K; region:us; egocentric; exocentric; thermal; infrared; synthetic; wearer-identification
+2026-11-05T01:11:09Z,x5liang/jiggle2-layers-pw,x5liang,0,0,region:us
+2026-11-05T01:11:52Z,hung2027/data2027,hung2027,0,0,region:us
+2026-11-05T01:12:19Z,matthew3991/commercial-toe-97003e,matthew3991,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:13:31Z,seotarek/medorqis-clinical-instructions,seotarek,0,0,task_categories:text-generation; task_categories:question-answering; annotations_creators:expert-generated; annotations_creators:synthetic; language_creators:expert-generated; multilinguality:bilingu…
+2026-11-05T01:13:36Z,xiulan384/honest-definition-96d7f5,xiulan384,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:14:52Z,djiaoj/B-ablation-visualization,djiaoj,0,0,region:us
+2026-11-05T01:14:53Z,djiaoj/C-ablation-visualization,djiaoj,0,0,region:us
+2026-11-05T01:14:55Z,djiaoj/D-ablation-visualization,djiaoj,0,0,region:us
+2026-11-05T01:14:59Z,gang20/visual-trash-eeccc3,gang20,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:15:50Z,ryosuke65/happy-energy-f98e8c,ryosuke65,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:16:28Z,Pixel-Flow/certain-cell-c5039e,Pixel-Flow,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:17:31Z,hwangminseog/secure-wind-ae35c0,hwangminseog,0,0,license:cc0-1.0; size_categories:n<1K; region:us; synthetic; test-data
+2026-11-05T01:19:44Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-11-05T01:19:45Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-11-05T01:19:57Z,qiuaiwei0321/pick-blue-square-put-right,qiuaiwei0321,0,0,region:us
+2026-11-05T01:20:02Z,LuxiaSL/anamnesis-llama31-8b-raw-tensors,LuxiaSL,0,0,license:other; region:us; interpretability; activations; llama-3.1
