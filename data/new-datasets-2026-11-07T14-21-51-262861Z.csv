@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T13:19:56Z,nganngo25169/sprout,nganngo25169,0,0,region:us
+2026-11-07T13:21:39Z,thanhbui18932/glider,thanhbui18932,0,0,region:us
+2026-11-07T13:22:31Z,bao171/medwm-hub,bao171,0,0,region:us
+2026-11-07T13:24:10Z,nganle89450/wolverine,nganle89450,0,0,region:us
+2026-11-07T13:26:30Z,Gianmarco2308/ImageTampering,Gianmarco2308,0,0,region:us
+2026-11-07T13:27:43Z,halykoss/swhforest,halykoss,0,0,language:code; license:cc-by-4.0; size_categories:10M<n<100M; region:us; code; software-heritage; abstract-syntax-tree; tree-sitter; dataset-curation; stack-edu
+2026-11-07T13:27:46Z,thaoho51249/celestial,thaoho51249,0,0,region:us
+2026-11-07T13:27:59Z,InternRobotics/WET-OP-Bench-Train,InternRobotics,0,1,language:en; license:mit; region:us; robotics; simulation; wet-op-bench
+2026-11-07T13:29:01Z,va1bhavagrawa1/data_mix_v4_baseline,va1bhavagrawa1,0,0,task_categories:image-to-image; size_categories:10K<n<100K; region:us
+2026-11-07T13:29:04Z,kienhoang17971/spitzer,kienhoang17971,0,0,region:us
+2026-11-07T13:29:42Z,codeShare/perchance_captioned_ai_images,codeShare,0,0,region:us
+2026-11-07T13:30:09Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.0_g8_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T13:30:34Z,nganvu62900/hedgehog,nganvu62900,0,0,region:us
+2026-11-07T13:31:34Z,skshreyas714/agenttune-tau2-mock-grpo-smoke-data,skshreyas714,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T13:31:52Z,linhhuynh94938/fleet,linhhuynh94938,0,0,region:us
+2026-11-07T13:33:31Z,phuongngo60351/marsh,phuongngo60351,0,0,region:us
+2026-11-07T13:33:32Z,unitreerobotics/G1_WBT_SMPL_Brainco_Tidy_Up_Slippers,unitreerobotics,0,1,region:us
+2026-11-07T13:33:51Z,here-be-dragons-ai/propaganda-eval-de,here-be-dragons-ai,0,0,task_categories:question-answering; language:de; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; e…
+2026-11-07T13:35:21Z,Haddepe/globelayers-forest,Haddepe,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T13:35:54Z,cuongnguyen38759/coupe,cuongnguyen38759,0,0,region:us
+2026-11-07T13:37:12Z,DexJoCo/DexJoCo-Datasets-v1.1,DexJoCo,0,0,license:mit; region:us
+2026-11-07T13:38:43Z,phuongpham4386/marlin,phuongpham4386,0,0,region:us
+2026-11-07T13:39:22Z,victim6543/cl9949,victim6543,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T13:39:32Z,Porsera/Agent-Highlight,Porsera,0,0,language:fa; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T13:39:37Z,thanatchon36/tbg-kit,thanatchon36,0,0,task_categories:graph-ml; task_categories:tabular-classification; language:en; language:th; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:dataset…
+2026-11-07T13:43:03Z,charllote/mind_baselines_v2,charllote,0,0,region:us
+2026-11-07T13:43:04Z,thaotran54428/fig,thaotran54428,0,0,region:us
+2026-11-07T13:44:07Z,thanatchon36/lockdowns-as-partial-holidays,thanatchon36,0,0,task_categories:time-series-forecasting; language:en; language:th; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:po…
+2026-11-07T13:44:48Z,yenvu28471/osprey,yenvu28471,0,0,region:us
+2026-11-07T13:46:42Z,asparius/mesa-sdf-default,asparius,0,0,region:us
+2026-11-07T13:46:54Z,anhhoang14806/phloem,anhhoang14806,0,0,region:us
+2026-11-07T13:48:15Z,toolathlon4/Annoy-PyEdu-Rs,toolathlon4,0,0,region:us
+2026-11-07T13:48:16Z,toolathlon4/Annoy-PyEdu-Rs-Raw,toolathlon4,0,0,region:us
+2026-11-07T13:48:34Z,GUI-Gym/sft-27b-nograph-8b-mobile-world,GUI-Gym,0,0,task_categories:image-text-to-text; license:apache-2.0; region:us
+2026-11-07T13:49:10Z,AIgenius1/persian-pretraining-dataset,AIgenius1,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-4.0; size_categories:1M<n<10M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T13:49:11Z,kiennguyen44683/nadir,kiennguyen44683,0,0,region:us
+2026-11-07T13:50:09Z,JuanSanz7/DCF,JuanSanz7,0,0,region:us
+2026-11-07T13:50:32Z,trangpham14521/mantis,trangpham14521,0,0,region:us
+2026-11-07T13:52:27Z,IlyaGusev/twicetold,IlyaGusev,0,0,task_categories:text-classification; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:ml…
+2026-11-07T13:52:28Z,phuongduong58764/astrolabe,phuongduong58764,0,0,region:us
+2026-11-07T13:55:45Z,khoahoang85687/cedar,khoahoang85687,0,0,region:us
+2026-11-07T13:55:51Z,xieshanrui/HumanGen-RoboTwin-43Train-7Test,xieshanrui,0,0,language:en; language:zh; license:apache-2.0; size_categories:1K<n<10K; arxiv:2608.26103; region:us; robotics; robotwin; imitation-learning; zero-wam; humangen
+2026-11-07T13:57:33Z,fintanlabs/overnight-four-nights-2026-11,fintanlabs,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-11-07T13:58:10Z,hieubui70389/puma,hieubui70389,0,0,region:us
+2026-11-07T13:59:34Z,bensblueprints/kittypunk2077-wan-references,bensblueprints,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T14:00:14Z,linhpham25055/beacon,linhpham25055,0,0,region:us
+2026-11-07T14:00:24Z,celsowm/lei_9784_processo_administrativo_federal_1999,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:00:33Z,celsowm/lei_8429_improbidade_administrativa_1992,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:00:41Z,celsowm/lei_8112_servidores_publicos_federais_1990,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:00:50Z,celsowm/lei_11101_recuperacao_falencia_2005,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:00:59Z,celsowm/lei_6404_sociedades_anonimas_1976,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:01Z,shivamsinghvermassv/tech-dev-reels,shivamsinghvermassv,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-07T14:01:08Z,celsowm/lei_8212_custeio_seguridade_social_1991,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:17Z,celsowm/lei_8213_beneficios_previdencia_1991,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:25Z,celsowm/lei_11343_drogas_2006,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:34Z,celsowm/lei_11340_maria_da_penha_2006,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:37Z,hklee/casmi26-fp-channel-smoke,hklee,0,0,region:us
+2026-11-07T14:01:42Z,celsowm/lei_9099_juizados_especiais_1995,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:44Z,phatngo22943/avionics,phatngo22943,0,0,region:us
+2026-11-07T14:01:50Z,celsowm/lei_8245_inquilinato_1991,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:01:59Z,celsowm/lgpd_lei_13709_2018,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:02:07Z,celsowm/marco_civil_internet_lei_12965_2014,celsowm,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T14:02:09Z,TBao-THUer/Kinetics200,TBao-THUer,0,0,license:unknown; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-07T14:05:01Z,KTIIII/dianchi-water,KTIIII,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datase…
+2026-11-07T14:05:11Z,anhhuynh55830/yacht,anhhuynh55830,0,0,region:us
+2026-11-07T14:05:13Z,anhhuynh55830/stream,anhhuynh55830,0,0,region:us
+2026-11-07T14:05:49Z,Whyynnot/standard_3_4_red_weak_enhanced_20261107_214842,Whyynnot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T14:06:55Z,hieuho35418/terra,hieuho35418,0,0,region:us
+2026-11-07T14:07:35Z,Thermacompute/thermacompute-white-paper,Thermacompute,0,1,region:us
+2026-11-07T14:09:37Z,antran13627/wheat,antran13627,0,0,region:us
+2026-11-07T14:10:28Z,Lukhausen/S24-Raw-sRGB-2k,Lukhausen,0,0,license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality:image; arxiv:2504.05623; region:us; image; raw-to-srgb; white-balance; color-constancy; image-restoration
+2026-11-07T14:10:38Z,asdaasdf/Annoy-PyEdu-Rs,asdaasdf,0,0,region:us
+2026-11-07T14:10:39Z,asdaasdf/Annoy-PyEdu-Rs-Raw,asdaasdf,0,0,region:us
+2026-11-07T14:10:46Z,ASD12ED1/Annoy-PyEdu-Rs,ASD12ED1,0,0,region:us
+2026-11-07T14:10:47Z,ASD12ED1/Annoy-PyEdu-Rs-Raw,ASD12ED1,0,0,region:us
+2026-11-07T14:11:18Z,SACXZ12DSA/Annoy-PyEdu-Rs,SACXZ12DSA,0,0,region:us
+2026-11-07T14:11:19Z,SACXZ12DSA/Annoy-PyEdu-Rs-Raw,SACXZ12DSA,0,0,region:us
+2026-11-07T14:11:41Z,nganphan52380/rosemary,nganphan52380,0,0,region:us
+2026-11-07T14:15:12Z,DAS21321DSA/Annoy-PyEdu-Rs,DAS21321DSA,0,0,region:us
+2026-11-07T14:15:13Z,DAS21321DSA/Annoy-PyEdu-Rs-Raw,DAS21321DSA,0,0,region:us
+2026-11-07T14:15:23Z,ccnatcom/app-assets-2611,ccnatcom,0,0,region:us
+2026-11-07T14:16:09Z,NextTerritory/us-exterior-home-improvement-market-size,NextTerritory,0,1,license:cc-by-4.0; region:us
+2026-11-07T14:16:21Z,hieule76965/rhino,hieule76965,0,0,region:us
+2026-11-07T14:16:51Z,victim6543/splittrav,victim6543,0,0,region:us
+2026-11-07T14:16:52Z,victim6543/splitok,victim6543,0,0,region:us
+2026-11-07T14:16:52Z,victim6543/splittrav2,victim6543,0,0,region:us
+2026-11-07T14:17:48Z,nhuduong70957/typhoon,nhuduong70957,0,0,region:us
+2026-11-07T14:20:18Z,romaxx0/mwalim_plus,romaxx0,0,0,license:apache-2.0; region:us
