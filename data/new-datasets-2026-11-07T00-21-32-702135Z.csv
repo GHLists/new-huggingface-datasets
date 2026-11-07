@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-06T23:21:07Z,BurtleLife/vessel-local-voices,BurtleLife,0,0,language:en; license:other; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; voice-cloning; reference-audio; speech; hermes-agent
+2026-11-06T23:21:28Z,Udev-miam/Bois-Colombes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:23:30Z,Udev-miam/Chatillon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:23:48Z,TonyDzi/agent-action-policy-eval,TonyDzi,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agen…
+2026-11-06T23:24:30Z,Udev-miam/Vanves,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:24:44Z,introvoyz04/simready-assets,introvoyz04,0,0,license:cc-by-4.0; region:us; simready
+2026-11-06T23:24:44Z,Mr-Bridge/american-car-specs-2020-2026,Mr-Bridge,0,0,task_categories:tabular-regression; task_categories:tabular-classification; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets;…
+2026-11-06T23:24:50Z,kaorihzg/astronomy-pointcloud-text,kaorihzg,0,0,license:apache-2.0; region:us; dataset; astronomy; pointcloud-text
+2026-11-06T23:25:12Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-06T23:25:12Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-06T23:25:30Z,Udev-miam/Sevres,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:25:55Z,Dulusan/Droteus-V3,Dulusan,0,0,region:us
+2026-11-06T23:26:56Z,introvoyz04/SurgAtt_dataset,introvoyz04,0,0,region:us
+2026-11-06T23:27:02Z,Udev-miam/Chatenay-Malabry,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:27:30Z,00000tt/ai-scout,00000tt,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:28:05Z,vinyteles/mobilebench-relay-20261106-b110-9e7b33193b,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-06T23:28:34Z,Udev-miam/Sceaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:28:54Z,SOTAagi2030/Harbor-Reef-Scan-Register,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-06T23:28:58Z,SOTAagi2030/Harbor-Reef-Access-Policy,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-06T23:29:34Z,Udev-miam/Villeneuve-la-Garenne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:29:47Z,sandeepkumartep/food-audio-text,sandeepkumartep,0,0,license:mit; region:us; dataset; food; audio-text
+2026-11-06T23:29:55Z,brineylab-dev/hello2-14b7f0de,brineylab-dev,0,0,region:us
+2026-11-06T23:30:31Z,siddharthmb/2026.TA.adv_suffix_10g_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-11-06T23:30:38Z,Udev-miam/Le-Plessis-Robinson,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:30:52Z,samiddn/xx,samiddn,0,0,task_categories:text-generation; license:other; size_categories:n<1K; format:csv; modality:document; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-06T23:31:24Z,roieg/memlayers-data,roieg,0,0,task_categories:text-generation; language:en; license:other; size_categories:100M<n<1B; region:us; memory-layers; interpretability; synthetic; the-pile
+2026-11-06T23:31:36Z,Udev-miam/Bourg-la-Reine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:31:54Z,va1bhavagrawa1/data_mix_v3_repr_v2,va1bhavagrawa1,0,0,task_categories:image-to-image; size_categories:10K<n<100K; region:us
+2026-11-06T23:31:55Z,va1bhavagrawa1/data_mix_v4_1_repr_v2,va1bhavagrawa1,0,0,task_categories:image-to-image; size_categories:10K<n<100K; region:us
+2026-11-06T23:32:35Z,Udev-miam/Fontenay-aux-Roses,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:32:49Z,GigaCode/MegaCode-Train,GigaCode,0,0,region:us
+2026-11-06T23:33:35Z,Udev-miam/Chaville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:34:06Z,Udev-miam/Garches,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:35:01Z,badbassboy/h3-bench-t4,badbassboy,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:35:05Z,Udev-miam/Ville-d-Avray,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:35:35Z,Udev-miam/Vaucresson,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:35:45Z,siddharthmb/2026.TA.tc8192_interesting_queries_headline_2026-10g_graphs,siddharthmb,0,0,arxiv:2602.20904; region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-11-06T23:36:06Z,Udev-miam/Marnes-la-Coquette,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:38:41Z,Udev-miam/Mantes-la-Jolie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:41:44Z,Udev-miam/Saint-Germain-en-Laye,Udev-miam,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:43:03Z,sadD12DSZX/Annoy-PyEdu-Rs,sadD12DSZX,0,0,region:us
+2026-11-06T23:43:03Z,sadD12DSZX/Annoy-PyEdu-Rs-Raw,sadD12DSZX,0,0,region:us
+2026-11-06T23:43:44Z,Udev-miam/Conflans-Sainte-Honorine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:44:42Z,HASSANEIN-ALHADAD/R,HASSANEIN-ALHADAD,0,0,region:us
+2026-11-06T23:45:08Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-06T23:45:08Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-06T23:45:26Z,afdaffa/Annoy-PyEdu-Rs,afdaffa,0,0,region:us
+2026-11-06T23:45:26Z,afdaffa/Annoy-PyEdu-Rs-Raw,afdaffa,0,0,region:us
+2026-11-06T23:45:45Z,Udev-miam/Sartrouville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:47:41Z,Yoonna/tartandrive_2.0,Yoonna,0,0,region:us
+2026-11-06T23:48:16Z,Udev-miam/Poissy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:48:18Z,victim6543/jg1600,victim6543,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-06T23:48:46Z,LINUAN/fold_towels_recap_corpus,LINUAN,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:50:18Z,Udev-miam/Montigny-le-Bretonneux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:51:48Z,Udev-miam/Houilles,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:53:10Z,oodogan3127/sports-multimodal3,oodogan3127,0,0,license:cc-by-4.0; region:us; dataset; sports; multimodal3
+2026-11-06T23:53:20Z,Udev-miam/Les-Mureaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:54:09Z,unitreerobotics/G1_WBT_SMPL_Inspire_Pick_Vegetables,unitreerobotics,0,2,region:us
+2026-11-06T23:54:15Z,g1n0st/3ad4ba3c928e478178e25ca1c216da1e80485536,g1n0st,0,0,region:us
+2026-11-06T23:54:50Z,haritha12345/data266-pokemon-lora-evaluation,haritha12345,0,0,task_categories:text-to-image; language:en; region:us; stable-diffusion; lora; text-to-image; pokemon; evaluation; data266
+2026-11-06T23:54:51Z,Udev-miam/Rambouillet,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:55:51Z,Udev-miam/Maisons-Laffitte,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:57:21Z,Udev-miam/Trappes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:58:53Z,Udev-miam/Plaisir,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-06T23:59:55Z,Udev-miam/Chatou,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:00:22Z,smartpencseducation/smart-pens-learning-dataset,smartpencseducation,0,0,license:other; modality:audio; region:us; audio; toeic; ielts; education
+2026-11-07T00:01:01Z,TonyDzi/research-evidence-qa,TonyDzi,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T00:01:54Z,Udev-miam/Velizy-Villacoublay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:03:25Z,Udev-miam/Guyancourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:03:51Z,Emadodin/so101_pickplace_manual_extra_v1,Emadodin,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T00:04:25Z,Udev-miam/Le-Chesnay-Rocquencourt,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:04:48Z,SOTAagi2030/Oral-History-Recording-Intake,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T00:04:55Z,SOTAagi2030/Oral-History-Permission-Registry,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T00:05:38Z,Dario-Shit0/dataset-1c83611ce1a8257dec0e5905d1034c7c,Dario-Shit0,0,0,region:us
+2026-11-07T00:05:56Z,Udev-miam/Mantes-la-Ville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:06:57Z,Udev-miam/Maurepas,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T00:07:02Z,Xxhokola/engagement-board-art,Xxhokola,0,0,region:us
+2026-11-07T00:07:59Z,Udev-miam/Saint-Cyr-l-Ecole,Udev-miam,0,0,region:us
+2026-11-07T00:08:26Z,2ineddine/PotholeCrack2,2ineddine,0,0,size_categories:10K<n<100K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T00:08:57Z,Udev-miam/Acheres,Udev-miam,0,0,region:us
+2026-11-07T00:10:03Z,creepsaka/She-will-never-call-football-as-soccer,creepsaka,0,0,license:gpl-2.0; region:us
+2026-11-07T00:11:05Z,Udev-miam/Coignieres,Udev-miam,0,0,region:us
+2026-11-07T00:12:14Z,eVorob/so101_bed_clear_20261106_191104,eVorob,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-07T00:12:28Z,Udev-miam/Les-Clayes-sous-Bois,Udev-miam,0,0,region:us
+2026-11-07T00:12:43Z,giang2893a/bv,giang2893a,0,0,region:us
+2026-11-07T00:13:29Z,Udev-miam/Limay,Udev-miam,0,0,region:us
+2026-11-07T00:14:47Z,zsh0609/bili-shortvideo-learn,zsh0609,0,0,task_categories:video-classification; language:zh; license:other; size_categories:1K<n<10K; region:us
+2026-11-07T00:15:00Z,Udev-miam/Le-Vesinet,Udev-miam,0,0,region:us
+2026-11-07T00:15:25Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.0_g4_run0,stefanocarrera,0,0,region:us
+2026-11-07T00:16:00Z,Udev-miam/Meulan-en-Yvelines,Udev-miam,0,0,region:us
+2026-11-07T00:17:01Z,Udev-miam/Elancourt,Udev-miam,0,0,region:us
+2026-11-07T00:17:53Z,asfadfad/Annoy-PyEdu-Rs,asfadfad,0,0,region:us
+2026-11-07T00:17:54Z,asfadfad/Annoy-PyEdu-Rs-Raw,asfadfad,0,0,region:us
+2026-11-07T00:18:06Z,Udev-miam/Orgeval,Udev-miam,0,0,region:us
+2026-11-07T00:18:27Z,eVorob/so101_bed_clear_20261106_191631,eVorob,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-07T00:18:58Z,SADCXZ12DSA/Annoy-PyEdu-Rs-Raw,SADCXZ12DSA,0,0,region:us
+2026-11-07T00:18:58Z,SADCXZ12DSA/Annoy-PyEdu-Rs,SADCXZ12DSA,0,0,region:us
+2026-11-07T00:19:32Z,Udev-miam/Houdan,Udev-miam,0,0,region:us
+2026-11-07T00:20:32Z,Udev-miam/Viroflay,Udev-miam,0,0,region:us
+2026-11-07T00:21:32Z,hanks2899/sub-config,hanks2899,0,0,region:us
