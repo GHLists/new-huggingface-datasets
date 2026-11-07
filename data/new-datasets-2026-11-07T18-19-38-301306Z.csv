@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T17:22:16Z,vincdw/ef,vincdw,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T17:22:47Z,esijnja/hackaton26_test_20261107_175822,esijnja,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T17:23:48Z,RS2226/eco-drive-ml,RS2226,0,1,license:mit; region:us
+2026-11-07T17:25:34Z,DreamyLeads/property-tax-by-county-2026,DreamyLeads,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; property-tax; cens…
+2026-11-07T17:27:35Z,AethronPhantom/KRAS-G12D-pMHC-Designs-64,AethronPhantom,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; protein-design; pmhc; comp…
+2026-11-07T17:29:44Z,naklitechie/naklios-tex,naklitechie,0,0,license:agpl-3.0; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-07T17:32:18Z,abdukuzi45/amharic-bench-2026-heldout,abdukuzi45,0,0,task_categories:text-classification; task_categories:question-answering; language:am; language:en; license:other; region:us; amharic; benchmark; evaluation; held-out
+2026-11-07T17:32:18Z,gulkhayo5775/lexrag-index,gulkhayo5775,0,0,region:us
+2026-11-07T17:33:16Z,esijnja/hackaton26_test_20261107_182356,esijnja,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T17:33:36Z,razz-123/umie_datasets,razz-123,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2307.01984; region:us
+2026-11-07T17:34:52Z,Udev-miam/Morangis-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T17:35:02Z,razz-123/medical-imaging-combined,razz-123,0,0,task_categories:visual-question-answering; task_categories:image-to-text; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; l…
+2026-11-07T17:35:15Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-07T17:37:43Z,razz-123/medical-vision-llm-dataset-4,razz-123,0,0,task_categories:visual-question-answering; task_categories:image-to-text; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; l…
+2026-11-07T17:38:18Z,razz-123/Medical-Modality-Dataset-6,razz-123,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; region:us; medical; imaging; ct; mri; xray; ultrasound
+2026-11-07T17:38:21Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-11-07T17:38:37Z,padiredd/Ablation_Cup_physical,padiredd,0,0,task_categories:robotics; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; robotics; simulation; cyclo_lab
+2026-11-07T17:39:09Z,padiredd/Ablation_Cup_physical_raw,padiredd,0,0,task_categories:robotics; license:mit; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; isaac-lab; simulation; raw; ffw-sg2; cyclo_lab
+2026-11-07T17:39:11Z,abdukuzi45/amharic-newrow-embedding-train,abdukuzi45,0,0,task_categories:text-generation; language:am; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-11-07T17:39:43Z,Utbird/quakemind-altlik,Utbird,0,0,region:us
+2026-11-07T17:40:55Z,yennguyen12/millesona-knowledge,yennguyen12,0,0,license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T17:41:37Z,vincdw/eq,vincdw,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T17:41:47Z,razz-123/radiology-dataset-9,razz-123,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:image-to-text; task_categories:text-classification; multilinguality:monolingual; language:en; license:cc-by-nc-4.0…
+2026-11-07T17:42:05Z,disguisequence/aoitalk-backup,disguisequence,0,0,region:us
+2026-11-07T17:43:09Z,Tehehe/PizzaTowerScoutdigo,Tehehe,0,0,region:us
+2026-11-07T17:43:20Z,La1itchauhan/Nemotron-3-Ultra-550B-Systems-CoT,La1itchauhan,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; modality:geospatial; library:datasets; library:pandas; library:po…
+2026-11-07T17:46:33Z,skamabattula/corl2026-surgical-autonomy-seg2-perception,skamabattula,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arxiv:2604.21017; region:us; surgical-robotics; corl2026-tutorial; surgical-percept…
+2026-11-07T17:48:38Z,Isaacdnigerian/plumb-tasks,Isaacdnigerian,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:p…
+2026-11-07T17:48:42Z,chrimerss/FloodAtlas-US,chrimerss,0,0,license:other; size_categories:10K<n<100K; modality:geospatial; region:us; flood; hydrology; geospatial; remote-sensing; disaster-response
+2026-11-07T17:48:53Z,SOTAagi2030/Coastal-Beacon-Maintenance-Queue,SOTAagi2030,0,0,license:cc-by-4.0; region:us; coastal-operations; dispatch
+2026-11-07T17:49:00Z,beiyurobotics/gm100-cobotmagic-stu-lerobot21,beiyurobotics,0,0,task_categories:robotics; license:mit; arxiv:2601.11421; region:us; lerobot; imitation-learning
+2026-11-07T17:49:05Z,taikonauta/SO101_pick_and_place_days_1_2,taikonauta,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-07T17:50:42Z,nightly-wave/139c6292,nightly-wave,0,0,region:us
+2026-11-07T17:51:49Z,yudai0209/so101_vial2_train80_canon,yudai0209,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-07T17:53:56Z,chantysothy/khmer-tipitaka-buddha-life-speech,chantysothy,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:km; license:other; region:us
+2026-11-07T17:54:02Z,Papajams/control-decisions-v1,Papajams,0,0,region:us
+2026-11-07T17:54:56Z,DreamyLeads/flood-zone-homes-by-county-2026,DreamyLeads,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; flood-risk; fema;…
+2026-11-07T17:55:02Z,Udev-miam/Grigny-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T17:55:27Z,ATON-QAI/QAI-Photonic-Benchmark,ATON-QAI,0,0,task_categories:text-generation; task_categories:tabular-classification; task_categories:other; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; li…
+2026-11-07T17:55:43Z,kai22356/csiro_biomass_seg,kai22356,0,0,license:cc-by-4.0; region:us
+2026-11-07T17:56:04Z,SACXZ213EDS/Annoy-PyEdu-Rs,SACXZ213EDS,0,0,region:us
+2026-11-07T17:56:05Z,mazim04/items_raw_lite,mazim04,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T17:56:07Z,SACXZ213EDS/Annoy-PyEdu-Rs-Raw,SACXZ213EDS,0,0,region:us
+2026-11-07T17:57:10Z,mohpez/conll2003,mohpez,0,0,task_categories:token-classification; task_ids:named-entity-recognition; task_ids:part-of-speech; language:en; license:other; size_categories:10K<n<100K; region:us; ner; pos; chunking; conll
+2026-11-07T17:58:08Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.0_g10_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T17:58:33Z,g1n0st/771bb61097807dbdfb8026c2d001744f9b3dd8fd,g1n0st,0,0,region:us
+2026-11-07T17:58:55Z,g1n0st/e57d41531eb2e6300bc1bb992475055717ab9cbb,g1n0st,0,0,region:us
+2026-11-07T18:00:55Z,asd11dasd21dd/Annoy-PyEdu-Rs,asd11dasd21dd,0,0,region:us
+2026-11-07T18:00:57Z,asd11dasd21dd/Annoy-PyEdu-Rs-Raw,asd11dasd21dd,0,0,region:us
+2026-11-07T18:03:36Z,dfgdfgd556/Annoy-PyEdu-Rs,dfgdfgd556,0,0,region:us
+2026-11-07T18:03:37Z,dfgdfgd556/Annoy-PyEdu-Rs-Raw,dfgdfgd556,0,0,region:us
+2026-11-07T18:04:30Z,fecasado/pan-on-hob-v2,fecasado,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-07T18:05:07Z,ASD1DA1AE13231/Annoy-PyEdu-Rs-Raw,ASD1DA1AE13231,0,0,region:us
+2026-11-07T18:05:07Z,ASD1DA1AE13231/Annoy-PyEdu-Rs,ASD1DA1AE13231,0,0,region:us
+2026-11-07T18:05:32Z,vinimuchulski/sky-segmentation-wolosky-net,vinimuchulski,0,0,task_categories:image-segmentation; size_categories:10K<n<100K; region:us; sky-segmentation; semantic-segmentation; sam3; woloskynet; tflite
+2026-11-07T18:09:33Z,caufieldjh/pubmatrix-pubtator3,caufieldjh,0,0,license:other; size_categories:100M<n<1B; region:us; biomedical; literature; text-mining; pubtator
+2026-11-07T18:12:54Z,anuragcreates/vitalrxcare-modafinil-armodafinil-bioequivalence,anuragcreates,0,0,region:us
+2026-11-07T18:13:50Z,KBlueLeaf/web1m-gbc,KBlueLeaf,0,0,task_categories:image-to-text; task_categories:text-to-image; language:en; license:mit; size_categories:1M<n<10M; arxiv:2407.06723; region:us; graph-based-captioning; gbc; dense-captioning; region-ca…
+2026-11-07T18:15:11Z,Udev-miam/Chilly-Mazarin,Udev-miam,0,0,region:us
+2026-11-07T18:16:42Z,ATON-QAI/QAI-Research-Articles-and-Metrics,ATON-QAI,0,0,region:us
+2026-11-07T18:16:53Z,g1n0st/09119291917824048a2fa8dcc8da6463636ba267,g1n0st,0,0,region:us
+2026-11-07T18:17:35Z,SOTAagi2030/Greenway-Watershed-Compliance-Digest,SOTAagi2030,0,0,region:us; water-quality; public-health
+2026-11-07T18:18:30Z,starkAhmed43/lc-image-c2178a3ddc01191ba502d3e6,starkAhmed43,0,0,region:us
+2026-11-07T18:18:47Z,anuragcreates/vitalrxcare-us-pharmacy-quality-safety-standards,anuragcreates,0,0,region:us
+2026-11-07T18:18:59Z,iabeer/najdi-pronunciation-words,iabeer,0,0,license:cc-by-4.0; region:us
+2026-11-07T18:19:11Z,crawlcheck/mcp-tool-changes,crawlcheck,0,0,region:us
+2026-11-07T18:19:26Z,just-dna-seq/clinvar_gkm,just-dna-seq,0,0,region:us
