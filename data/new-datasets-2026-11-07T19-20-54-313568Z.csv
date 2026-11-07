@@ -1,0 +1,133 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T18:20:09Z,vinimuchulski/sky-segmentation-wolosky-net,vinimuchulski,0,0,task_categories:image-segmentation; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; sky-segmentation; semantic-segmentation; sam3; wo…
+2026-11-07T18:21:13Z,KeremTT/cmmd-mammography,KeremTT,0,0,task_categories:image-classification; license:cc-by-4.0; region:us; medical; mammography; dicom; breast-cancer
+2026-11-07T18:22:42Z,micahr234/mouse-dataset-100random,micahr234,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T18:23:34Z,anuragcreates/vitalrxcare-adhd-narcolepsy-pharmacotherapy-review,anuragcreates,0,0,region:us
+2026-11-07T18:29:48Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-11-07T18:29:49Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-11-07T18:29:54Z,KeremTT/ders-kutuphanesi,KeremTT,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars…
+2026-11-07T18:31:54Z,kai22356/csiro_biomass_segmentation,kai22356,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T18:32:35Z,g1n0st/e9285d0d781ed94e3671ba5d5be7da3a9f41b258,g1n0st,0,0,region:us
+2026-11-07T18:33:43Z,Razaib1/codes_checkpoints,Razaib1,0,0,region:us
+2026-11-07T18:35:21Z,lonepixel/navoiy-ai-sft-v1,lonepixel,0,0,language:uz; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; tax; banking; legal;…
+2026-11-07T18:35:22Z,Udev-miam/Gif-sur-Yvette,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T18:36:31Z,asfadaa/Annoy-PyEdu-Rs,asfadaa,0,0,region:us
+2026-11-07T18:36:32Z,asfadaa/Annoy-PyEdu-Rs-Raw,asfadaa,0,0,region:us
+2026-11-07T18:36:37Z,yizhe4451/goole,yizhe4451,0,0,region:us
+2026-11-07T18:37:02Z,thaki-AI/daily-paper-2026-11-08-overnight-skill-evolution-payback,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; self-evolving-agents; skill-registry; token-roi; break-even; cost-accounting; frozen-holdout; agent-harness; h200
+2026-11-07T18:37:50Z,asfdsaassad/Annoy-PyEdu-Rs,asfdsaassad,0,0,region:us
+2026-11-07T18:37:51Z,asfdsaassad/Annoy-PyEdu-Rs-Raw,asfdsaassad,0,0,region:us
+2026-11-07T18:39:13Z,ZXC1EDSA/Annoy-PyEdu-Rs,ZXC1EDSA,0,0,region:us
+2026-11-07T18:39:14Z,ZXC1EDSA/Annoy-PyEdu-Rs-Raw,ZXC1EDSA,0,0,region:us
+2026-11-07T18:39:24Z,Mishamxo/survival-cars-tmp,Mishamxo,0,0,region:us
+2026-11-07T18:40:01Z,nikodembartnik/place_cube_in_the_center_2,nikodembartnik,0,0,region:us
+2026-11-07T18:40:36Z,mmmyyyyy/muyang626,mmmyyyyy,0,0,region:us
+2026-11-07T18:40:37Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-11-07T18:40:38Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-11-07T18:40:42Z,hivepunk-1071-f79faf84/public-hugging-face-space-pages-what-each-one-declares,hivepunk-1071-f79faf84,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T18:41:46Z,Assads1SAD/Annoy-PyEdu-Rs,Assads1SAD,0,0,region:us
+2026-11-07T18:41:46Z,Assads1SAD/Annoy-PyEdu-Rs-Raw,Assads1SAD,0,0,region:us
+2026-11-07T18:42:24Z,TrustAIRLab/RW2Unsafe_dataset,TrustAIRLab,0,0,language:en; license:mit; size_categories:1K<n<10K; region:us; safety; text-to-image; generated
+2026-11-07T18:43:52Z,just-dna-seq/opentargets,just-dna-seq,0,0,size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T18:46:17Z,akpsahan/wikipedia,akpsahan,0,0,task_categories:text-generation; task_categories:fill-mask; task_ids:language-modeling; task_ids:masked-language-modeling; language:ab; language:ace; language:ady; language:af; language:alt; language…
+2026-11-07T18:46:51Z,re-cep/vitiligo-knowledge-graph,re-cep,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; biomedical; knowledge-graph; vitiligo; relation-extraction; clinical-trials
+2026-11-07T18:48:11Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-11-07T18:48:11Z,ASD213213SA/Annoy-PyEdu-Rs-Raw,ASD213213SA,0,0,region:us
+2026-11-07T18:48:11Z,ASD213213SA/Annoy-PyEdu-Rs,ASD213213SA,0,0,region:us
+2026-11-07T18:48:12Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-11-07T18:48:53Z,RKB109/rag-evaluation-lab-20261107-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-07T18:49:36Z,cfahlgren1/my-3d-assets,cfahlgren1,0,0,license:cc-by-4.0; size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us; 3d; mesh; glb
+2026-11-07T18:49:53Z,mnoorchenar/pdf-editor,mnoorchenar,0,0,region:us
+2026-11-07T18:50:04Z,TerryLi710/lung-methylation-silencing-data,TerryLi710,0,0,license:other; region:us; dna-methylation; rna-seq; epigenomics
+2026-11-07T18:51:17Z,codepawl/google-poly-glb,codepawl,0,0,license:cc-by-3.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; modality:video; modality:3d; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-07T18:51:41Z,ubvsjekmjqqz9/Annoy-PyEdu-Rs,ubvsjekmjqqz9,0,0,region:us
+2026-11-07T18:51:45Z,ubvsjekmjqqz9/Annoy-PyEdu-Rs-Raw,ubvsjekmjqqz9,0,0,region:us
+2026-11-07T18:52:50Z,anuragcreates/vitalrxcare-us-pharmacopeia-comparative-index,anuragcreates,0,0,region:us
+2026-11-07T18:53:11Z,cminst/stringatlas-multilingual-20b,cminst,0,0,language:en; language:es; language:fr; language:ar; language:zh; language:ja; license:odc-by; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-07T18:55:51Z,anuragcreates/vitalrxcare-clinical-dosing-safety-benchmarks,anuragcreates,0,0,region:us
+2026-11-07T18:56:19Z,rentlimit/us-fair-market-rents-fy2027,rentlimit,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; housing; rent;…
+2026-11-07T18:57:56Z,gokhanozeell/catilar,gokhanozeell,0,0,region:us
+2026-11-07T19:00:42Z,Udev-miam/Dourdan,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T19:00:52Z,multabench/embeddings-case,multabench,0,0,license:other; size_categories:n<1K; modality:tabular; modality:text; arxiv:2605.10616; arxiv:2608.03565; region:us; multabench; embeddings
+2026-11-07T19:01:15Z,Asharbm/yuh,Asharbm,0,0,region:us
+2026-11-07T19:01:43Z,ASCSA12312E/Annoy-PyEdu-Rs,ASCSA12312E,0,0,region:us
+2026-11-07T19:01:44Z,ASCSA12312E/Annoy-PyEdu-Rs-Raw,ASCSA12312E,0,0,region:us
+2026-11-07T19:02:28Z,nikodembartnik/place_cube_in_the_center_3,nikodembartnik,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T19:03:35Z,adimehta/rdns-sept,adimehta,0,0,license:unknown; region:us
+2026-11-07T19:06:09Z,TUaxhuiax/huggingface_filesystem_fetch_2179-probe-9z8x,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T19:06:46Z,PureOne/Nemoriu-Research,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; recursive-self-imp…
+2026-11-07T19:07:42Z,TUaxhuiax/hffs1881-probe-abc123,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T19:10:04Z,prakhar022/av-finetune-payload,prakhar022,0,0,region:us
+2026-11-07T19:10:08Z,zxcgvbgfdg/Annoy-PyEdu-Rs,zxcgvbgfdg,0,0,region:us
+2026-11-07T19:10:09Z,zxcgvbgfdg/Annoy-PyEdu-Rs-Raw,zxcgvbgfdg,0,0,region:us
+2026-11-07T19:10:23Z,TUaxhuiax/huggingface_filesystem_fetch_2180_src_v4x9r,TUaxhuiax,0,0,region:us
+2026-11-07T19:10:41Z,TUaxhuiax/huggingface_filesystem_fetch_2180_deliver_v4x9r,TUaxhuiax,0,0,region:us
+2026-11-07T19:11:06Z,ADSCZX12D/Annoy-PyEdu-Rs-Raw,ADSCZX12D,0,0,region:us
+2026-11-07T19:11:06Z,ADSCZX12D/Annoy-PyEdu-Rs,ADSCZX12D,0,0,region:us
+2026-11-07T19:11:19Z,renatoschust/amj-dpo-scratch,renatoschust,0,0,region:us
+2026-11-07T19:11:58Z,Mspanz88/Uncensored-SFT-v2,Mspanz88,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:100K<n<1M; region:us; harmful-prompts; adversarial-prompts; red-teaming; safety-research…
+2026-11-07T19:14:28Z,ASD3122R2432/Annoy-PyEdu-Rs,ASD3122R2432,0,0,region:us
+2026-11-07T19:14:29Z,ASD3122R2432/Annoy-PyEdu-Rs-Raw,ASD3122R2432,0,0,region:us
+2026-11-07T19:14:48Z,emgena/qwen4_gdn_recurrent_state_overflow_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:14:53Z,emgena/qwen4_linear_attention_state_drift_healer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:14:58Z,emgena/qwen4_gdn_state_checkpoint_serialization_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:01Z,emgena/qwen4_delta_rule_associative_recall_verifier_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:03Z,emgena/qwen4_gdn_multi_turn_state_decay_mitigator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:06Z,emgena/qwen4_recurrent_state_memory_fragmentation_healer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:09Z,emgena/qwen4_gdn_gradient_norm_spike_sentinel_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:11Z,emgena/qwen4_unsloth_gdn_kernel_fusion_validator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:14Z,emgena/qwen4_linear_attention_kv_projection_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:16Z,emgena/qwen4_gdn_zero_shot_associative_memory_auditor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:19Z,emgena/qwen4_qsa_sparse_block_indexer_stall_breaker_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:22Z,emgena/qwen4_1m_context_chunked_prefill_ttft_smoother_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:24Z,emgena/qwen4_sparse_attention_mask_leak_sentinel_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:27Z,emgena/qwen4_needle_in_haystack_retrieval_anchor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:29Z,emgena/qwen4_dynamic_sparsity_budget_allocator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:31Z,emgena/qwen4_qsa_hierarchical_block_eviction_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:34Z,emgena/qwen4_long_context_attention_sink_stabilizer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:36Z,emgena/qwen4_prefix_caching_qsa_block_aligner_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:38Z,emgena/qwen4_cross_document_context_rot_mitigator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:41Z,emgena/qwen4_extreme_context_vram_headroom_watchdog_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:43Z,emgena/qwen4_moe_expert_routing_collapse_terminator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:46Z,emgena/qwen4_expert_vram_thrashing_lru_cache_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:48Z,emgena/qwen4_local_gpu_cpu_numa_affinity_healer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:50Z,asfafaf445/Annoy-PyEdu-Rs,asfafaf445,0,0,region:us
+2026-11-07T19:15:50Z,emgena/qwen4_expert_load_balancing_entropy_booster_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:51Z,asfafaf445/Annoy-PyEdu-Rs-Raw,asfafaf445,0,0,region:us
+2026-11-07T19:15:52Z,TUaxhuiax/huggingface_filesystem_fetch_1882_m7c2x9_source,TUaxhuiax,0,0,region:us
+2026-11-07T19:15:52Z,emgena/qwen4_expert_capacity_factor_drop_sentinel_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:55Z,emgena/qwen4_moe_multi_gpu_tensor_desync_breaker_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:15:57Z,emgena/qwen4_moe_fp8_expert_weight_clipping_healer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:00Z,emgena/qwen4_expert_specialization_drift_detector_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:02Z,emgena/qwen4_ephemeral_expert_activation_profiler_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:05Z,emgena/qwen4_moe_single_gpu_quantized_runner_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:07Z,emgena/qwen4_dual_mode_thinking_switch_enforcer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:09Z,emgena/qwen4_thinking_loop_recursion_breaker_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:09Z,TUaxhuiax/toolathlon-support-archive-1884-d8f28b,TUaxhuiax,0,0,region:us
+2026-11-07T19:16:11Z,emgena/qwen4_cot_algebraic_step_verifier_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:14Z,emgena/qwen4_thinking_token_cost_circuit_breaker_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:16Z,emgena/qwen4_post_think_pydantic_schema_closer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:19Z,emgena/qwen4_confidence_calibration_entropy_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:21Z,emgena/qwen4_socratic_deliberation_graph_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:23Z,emgena/qwen4_internal_prompt_leakage_censor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:26Z,emgena/qwen4_counterfactual_logic_soundness_auditor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:28Z,emgena/qwen4_reasoning_head_quantization_drift_sentinel_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:30Z,emgena/qwen4_coder_destructive_cli_command_interceptor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:32Z,emgena/qwen4_agent_workspace_chroot_jailbreak_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:35Z,emgena/qwen4_multi_tool_call_parallel_orchestrator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:37Z,emgena/qwen4_alembic_destructive_migration_interceptor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:39Z,emgena/qwen4_code_patch_ast_syntax_prevalidator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:41Z,emgena/qwen4_agent_infinite_file_churn_breaker_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:43Z,emgena/qwen4_env_secret_prompt_exfiltration_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:46Z,emgena/qwen4_docker_socket_privilege_escalation_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:48Z,emgena/qwen4_agent_zombie_subprocess_killer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:16:51Z,emgena/qwen4_enterprise_coding_agent_safety_certifier_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; mcp; qwen4; cursor; claude-desktop; autonomous-agents; security
+2026-11-07T19:18:36Z,TUaxhuiax/huggingface_filesystem_fetch_2179-corpus-2f9c4a71,TUaxhuiax,0,0,region:us
+2026-11-07T19:19:03Z,TUaxhuiax/toolathlon-support-tickets-parquet-1884-d8f28b,TUaxhuiax,0,0,region:us
+2026-11-07T19:19:22Z,Apeters247/tibetan-translation-benchmark,Apeters247,0,0,task_categories:translation; task_ids:text2text-generation; source_datasets:facebook/flores; source_datasets:openpecha/mt_test_v1.0.0; language:bo; language:en; license:other; size_categories:1K<n<10…
+2026-11-07T19:19:26Z,ewrwerwerer44/Annoy-PyEdu-Rs,ewrwerwerer44,0,0,region:us
+2026-11-07T19:19:27Z,ewrwerwerer44/Annoy-PyEdu-Rs-Raw,ewrwerwerer44,0,0,region:us
+2026-11-07T19:19:30Z,Apeters247/bodbench,Apeters247,0,0,task_categories:translation; task_ids:text2text-generation; source_datasets:facebook/flores; source_datasets:openpecha/mt_test_v1.0.0; language:bo; language:en; license:other; size_categories:n<1K; r…
+2026-11-07T19:19:30Z,Zhnivo/belarusian-print-lines-synthetic,Zhnivo,0,0,region:us
+2026-11-07T19:20:03Z,TUaxhuiax/hffs1881-2f7c9a1e-librispeech-asr_corpus_manifest,TUaxhuiax,0,0,modality:audio; region:us; automatic-speech-recognition; audio; librispeech; speech
+2026-11-07T19:20:28Z,zero-trust-physics/zero-trust-physics-sample-group-2,zero-trust-physics,0,0,language:en; license:other; library:harbor; region:us; physics; rl-environment; rlvr; harbor; mcp; evaluation; zero-trust-physics
