@@ -1,0 +1,42 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T20:24:25Z,barbara-su-04233/texture-picker-images-public,barbara-su-04233,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:24:59Z,liufeng145/Annoy-PyEdu-Rs,liufeng145,0,0,region:us
+2026-11-07T20:24:59Z,liufeng145/Annoy-PyEdu-Rs-Raw,liufeng145,0,0,region:us
+2026-11-07T20:26:47Z,Udev-miam/Montlhery,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:27:23Z,10X-Technologies/lyric-voice-samples,10X-Technologies,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:audio; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:29:10Z,asfafa454/Annoy-PyEdu-Rs,asfafa454,0,0,region:us
+2026-11-07T20:29:11Z,asfafa454/Annoy-PyEdu-Rs-Raw,asfafa454,0,0,region:us
+2026-11-07T20:32:31Z,SZLHOLDINGS/governed-distill-4b-sft-v3,SZLHOLDINGS,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T20:33:14Z,w-ahmad/model1a,w-ahmad,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T20:34:03Z,uuhugg/retrybench,uuhugg,0,0,license:other; region:us
+2026-11-07T20:35:00Z,averyzhao/redblock3_20261107_121701,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T20:40:44Z,cayouccc/zhipan2-4b-td-predictions,cayouccc,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T20:41:25Z,averyzhao/redblock3_20261107_123819,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T20:41:27Z,MujtabaAhmadKhan/physics,MujtabaAhmadKhan,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; arxiv:2303.17760; region:us; instruction-finetuning
+2026-11-07T20:41:32Z,bootx/windows,bootx,0,0,license:mit; region:us
+2026-11-07T20:42:39Z,hamza873622/pubds2560,hamza873622,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:43:57Z,icdn10/content-20261107f663,icdn10,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:46:20Z,gavinlaw/multimodal-understanding-repetition-instance-outputs-public,gavinlaw,0,0,size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T20:47:29Z,denyboi9/Evol-Instruct-Code-80k-v1,denyboi9,0,0,license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2306.08568; region:us
+2026-11-07T20:50:43Z,padiredd/Ablation_Cup_both,padiredd,0,0,task_categories:robotics; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; robotics; simulation; cyclo_lab
+2026-11-07T20:50:51Z,ndhingraa/protostar-climate-submission,ndhingraa,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:geospatial; modality:tabular; modality:text; library:datasets; library:pandas; library:polar…
+2026-11-07T20:51:19Z,padiredd/Ablation_Cup_both_raw,padiredd,0,0,task_categories:robotics; license:mit; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; isaac-lab; simulation; raw; ffw-sg2; cyclo_lab
+2026-11-07T20:52:41Z,Silenced4316/Project_VibeAgenticCoder,Silenced4316,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T20:53:22Z,Papajams/elcaro-ipi-eval,Papajams,0,0,task_categories:text-classification; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; prompt-injection; llm-security; agentic-security; adversarial-evalu…
+2026-11-07T20:56:51Z,hotspringswest/western-us-hot-springs,hotspringswest,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:geospatial; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-07T20:57:06Z,Udev-miam/Milly-la-Foret,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:58:39Z,Udev-miam/Mennecy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T21:00:45Z,embodied-olympics/release1-media,embodied-olympics,0,0,license:other; region:us
+2026-11-07T21:02:27Z,averyzhao/redblock3_20261107_124150,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T21:03:33Z,sgjarmak/psyche-jwst-raw-inputs,sgjarmak,0,0,region:us
+2026-11-07T21:03:42Z,Garv-s/TCGA-DX-RNA,Garv-s,0,0,region:us
+2026-11-07T21:05:38Z,tayyabarshad6767/UrduSpeech,tayyabarshad6767,0,0,arxiv:2605.17846; region:us
+2026-11-07T21:05:49Z,akashp805/flow-robot-distillation-data,akashp805,0,0,region:us; robotics; robomimic; policy-distillation
+2026-11-07T21:10:14Z,Mnemosyne-OS/memory-benchmarks,Mnemosyne-OS,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; region:us; long-term-memory; agent-memory; benchmark; longmemeval; beam; rag
+2026-11-07T21:11:01Z,averyzhao/redblock3_20261107_130322,averyzhao,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-07T21:11:52Z,Apeters247/naxi-mt-benchmark,Apeters247,0,0,task_categories:translation; language:nxq; language:zh; language:en; license:cc-by-nc-4.0; region:us; naxi; translation; low-resource; endangered-language; evaluation; benchmark
+2026-11-07T21:13:26Z,AnnotateAnything/PartNet-Mobility-USD,AnnotateAnything,0,0,region:us
+2026-11-07T21:14:28Z,HoldForQuake/flux-64px,HoldForQuake,0,0,region:us
+2026-11-07T21:14:36Z,hamza873622/hamza873622,hamza873622,0,0,license:mit; region:us
+2026-11-07T21:16:42Z,Udev-miam/Marcoussis,Udev-miam,0,0,region:us
+2026-11-07T21:17:44Z,Udev-miam/Paray-Vieille-Poste,Udev-miam,0,0,region:us
