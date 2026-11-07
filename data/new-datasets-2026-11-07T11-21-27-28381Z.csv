@@ -1,0 +1,179 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T10:19:36Z,Kwj1021/rollout_smolvla_addleft_b32_20k_right_nopad_20261107_191838,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T10:20:02Z,victim6543/dsshttps2142,victim6543,0,0,region:us
+2026-11-07T10:20:06Z,victim6543/dsshf2142,victim6543,0,0,region:us
+2026-11-07T10:20:10Z,victim6543/dsshfgated2142,victim6543,0,0,region:us
+2026-11-07T10:20:14Z,victim6543/dsss32142,victim6543,0,0,region:us
+2026-11-07T10:20:37Z,mhseo2/sft_traj_qwen3moe30b_ot3_n53105,mhseo2,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T10:21:48Z,RoadLedger/YOLO_Public,RoadLedger,0,0,license:apache-2.0; region:us
+2026-11-07T10:22:09Z,RoadLedger/U-Net_Public,RoadLedger,0,0,license:apache-2.0; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T10:22:44Z,Kwj1021/rollout_smolvla_addleft_b32_20k_right_nopad_20261107_192219,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-07T10:23:00Z,RSIGame/RSIGame-TableArtifacts,RSIGame,234,0,region:us; games; godot; phaser; agents; evaluation; reproducibility
+2026-11-07T10:23:05Z,asafi/customs-container-screening-50k,asafi,0,0,task_categories:tabular-classification; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-11-07T10:23:51Z,ando99449/giraffe,ando99449,0,0,region:us
+2026-11-07T10:24:27Z,jiachengcui888/sw-lmmd,jiachengcui888,0,0,task_categories:text-to-image; license:other; region:us; distillation; flux; synthetic; sw-lmmd
+2026-11-07T10:24:59Z,thanhpham25113/python,thanhpham25113,0,0,region:us
+2026-11-07T10:25:42Z,victim6543/dsshfpub,victim6543,0,0,region:us
+2026-11-07T10:25:44Z,victim6543/dsshfpriv,victim6543,0,0,region:us
+2026-11-07T10:26:02Z,tuandang3507/trailer,tuandang3507,0,0,region:us
+2026-11-07T10:26:53Z,wheelofheaven/knowledge-graph,wheelofheaven,0,0,language:en; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; knowledge-graph; comparative-reli…
+2026-11-07T10:27:01Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.0_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T10:27:05Z,linhduong53550/draco,linhduong53550,0,0,region:us
+2026-11-07T10:28:17Z,trangphan8807/zeppelin,trangphan8807,0,0,region:us
+2026-11-07T10:29:41Z,khanhpham48936/rosemary,khanhpham48936,0,0,region:us
+2026-11-07T10:31:02Z,Team-GOAT/etch-ai-automation-data-juneok-n100,Team-GOAT,0,0,region:us
+2026-11-07T10:31:30Z,khoadang51951/telemetry,khoadang51951,0,0,region:us
+2026-11-07T10:34:22Z,nhuhoang8246/eagle,nhuhoang8246,0,0,region:us
+2026-11-07T10:35:31Z,thinhho93409/magnetar,thinhho93409,0,0,region:us
+2026-11-07T10:36:25Z,victim6543/redir2148,victim6543,0,0,region:us
+2026-11-07T10:37:09Z,nhuho26674/geyser,nhuho26674,0,0,region:us
+2026-11-07T10:37:31Z,kentwang/data-upload,kentwang,0,0,region:us
+2026-11-07T10:37:37Z,yuan1119/peng_lin_nov_7_cup_on_plate_20261107_112932,yuan1119,0,0,size_categories:n<1K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T10:38:36Z,Kwj1021/rollout_smolvla_addleft_b32_20k_right_nopad_20261107_192401,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T10:39:37Z,Gigglingface/coverse-bench,Gigglingface,0,0,task_categories:visual-question-answering; license:other; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-11-07T10:40:27Z,victim6543/dsshfbyp2149,victim6543,0,0,region:us
+2026-11-07T10:41:12Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-11-07T10:41:12Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-11-07T10:43:19Z,ei1234/so101_my_task_50ep_20261107_20261107_191948,ei1234,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T10:44:51Z,cuongly45320/chameleon,cuongly45320,0,0,region:us
+2026-11-07T10:47:05Z,Yamadko2007/tmp-textile,Yamadko2007,0,0,license:mit; region:us; dataset; textile; sensor-fusion
+2026-11-07T10:48:29Z,snugroho96/image-text-data,snugroho96,0,0,license:apache-2.0; region:us; dataset; industrial; image-text
+2026-11-07T10:48:33Z,PiotrSty/polish-technical-dynaword,PiotrSty,0,0,task_categories:text-generation; language:pl; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; p…
+2026-11-07T10:49:00Z,dkmgaming/cs2-demos,dkmgaming,0,0,license:other; region:us; counter-strike-2; cs2; demos
+2026-11-07T10:49:32Z,ArnieRamesh/CounterStrike-Dataset,ArnieRamesh,0,0,region:us
+2026-11-07T10:51:21Z,alinf/hadith_log_test_data_v4_ir,alinf,0,0,region:us
+2026-11-07T10:51:26Z,dmanningcoe/temporal-crosscoders,dmanningcoe,0,0,region:us; interpretability; sparse-autoencoders; temporal-crosscoders; reproducibility
+2026-11-07T10:53:49Z,cupnb/isaacsim_step-2_0.0.8_1wc_offset,cupnb,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-07T10:55:14Z,OttomanNLP/benchmark-test-images,OttomanNLP,0,0,task_categories:image-to-text; language:ota; language:tr; license:cc-by-nc-4.0; region:us
+2026-11-07T10:55:58Z,PiotrSty/zpe-cnc-pl-dynaword,PiotrSty,0,0,task_categories:text-generation; language:pl; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; pol…
+2026-11-07T10:57:04Z,logtriage/security-log-samples,logtriage,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-11-07T10:57:13Z,Hitelcy/pally-terminal,Hitelcy,0,0,region:us
+2026-11-07T10:57:35Z,nadeemwalid/videoslibrary,nadeemwalid,0,0,region:us
+2026-11-07T10:58:00Z,Hfzune/aadhaar-enriched-data,Hfzune,0,0,region:us
+2026-11-07T10:58:15Z,TUaxhuiax/huggingface_filesystem_fetch_290_raw_b8e4d07f,TUaxhuiax,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; math-reasoning; raw-export
+2026-11-07T10:58:46Z,yuan1119/peng_lin_nov_7_cup_on_plate_20261107_115618,yuan1119,0,0,size_categories:n<1K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T10:59:45Z,s4588025/pick_stack_block_20261107_185713,s4588025,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T10:59:53Z,bitwisemind/robin_emotion_videos_preprocessing,bitwisemind,0,0,license:mit; region:us
+2026-11-07T10:59:56Z,mavikamiller/ai-tools-benchmark-2026,mavikamiller,0,0,source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-11-07T10:59:59Z,namiciro/red-to-right-v2_20261107_195638,namiciro,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T11:00:18Z,TembraAIPlatform/fleurs-armenian-corrections,TembraAIPlatform,0,0,task_categories:automatic-speech-recognition; language:hy; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-07T11:02:15Z,fazmain/wsp-astra-runs,fazmain,0,0,region:us
+2026-11-07T11:02:21Z,rasulkhanbayov/somw-results,rasulkhanbayov,0,0,license:cc-by-4.0; region:us; physics; video-generation; simulation; conformal-prediction; reproducibility
+2026-11-07T11:02:25Z,rasulkhanbayov/somw-data,rasulkhanbayov,0,0,region:us
+2026-11-07T11:03:04Z,TUaxhuiax/huggingface_terminal_filesystem_560_k7m2q9_corpus,TUaxhuiax,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-07T11:04:07Z,Kwj1021/rollout_smolvla_addleft_b32_20k_right_nodot_20261107_194933,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-07T11:04:50Z,zhoism/protostar-climate-2026-inputs,zhoism,0,0,license:other; region:us; protostar-climate-2026
+2026-11-07T11:05:10Z,bitwisemind/emotion_adapter_v1,bitwisemind,0,0,license:mit; region:us
+2026-11-07T11:06:06Z,PiotrSty/polish-cnc-technical-dynaword,PiotrSty,0,0,task_categories:text-generation; language:pl; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; polis…
+2026-11-07T11:06:21Z,TUaxhuiax/filesystem_terminal_playwright_with_chunk_fetch_526-mirror-6891e6,TUaxhuiax,0,0,license:other; region:us; paper-lists; conference-records; icml; neurips; iclr; json
+2026-11-07T11:06:22Z,TUaxhuiax/filesystem_terminal_playwright_with_chunk_fetch_526-reporting-b585a1,TUaxhuiax,0,0,region:us
+2026-11-07T11:07:24Z,GUI-Gym/sft-27b-nograph-8b-android-world,GUI-Gym,0,0,task_categories:image-text-to-text; license:apache-2.0; region:us
+2026-11-07T11:08:02Z,kienduong37613/betelgeuse,kienduong37613,0,0,region:us
+2026-11-07T11:08:04Z,namiciro/red-to-right-v2,namiciro,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-07T11:09:08Z,TabBioMed/pima_diabetes,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ta…
+2026-11-07T11:09:08Z,TabBioMed/ST000496,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ta…
+2026-11-07T11:09:27Z,TabBioMed/QM9_g298,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; t…
+2026-11-07T11:09:27Z,TabBioMed/hnoca_cells30,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:100K<n<1M; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:27Z,TabBioMed/GLI_85,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ta…
+2026-11-07T11:09:27Z,TabBioMed/MultiOmics_GS-LGG,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-07T11:09:27Z,TabBioMed/MultiOmics_GS-COAD,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-07T11:09:27Z,TabBioMed/QM9_gap,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; t…
+2026-11-07T11:09:27Z,TabBioMed/SMK_CAN_187,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ta…
+2026-11-07T11:09:27Z,TabBioMed/metabric_grade,TabBioMed,0,0,task_categories:tabular-classification; license:odbl; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tab…
+2026-11-07T11:09:32Z,TabBioMed/MultiOmics_GS-GBM,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-07T11:09:34Z,TabBioMed/cptac_histology,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:09:34Z,TabBioMed/MultiOmics_GS-OV,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-07T11:09:34Z,TabBioMed/CLL_SUB_111,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ta…
+2026-11-07T11:09:35Z,TabBioMed/TOX_171,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; transcriptomics; classification
+2026-11-07T11:09:35Z,TabBioMed/proteinea_solubility,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-07T11:09:36Z,TabBioMed/ALLAML,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; transcriptomics; binary
+2026-11-07T11:09:38Z,TabBioMed/coords_50k,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; multiregression
+2026-11-07T11:09:38Z,TabBioMed/true_fluorescence,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; regression
+2026-11-07T11:09:39Z,TabBioMed/MultiOmics_GS-BRCA,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; systems-biology; classification
+2026-11-07T11:09:39Z,TabBioMed/pca_50k,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; multiregression
+2026-11-07T11:09:39Z,TabBioMed/continental_50k,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:09:40Z,TabBioMed/Prostate_GE,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; transcriptomics; binary
+2026-11-07T11:09:41Z,TabBioMed/subpop_50k,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:09:42Z,TabBioMed/sc_muris_celltype,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:42Z,TabBioMed/continental_50k_missing,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:09:42Z,TabBioMed/lung,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; transcriptomics; classification
+2026-11-07T11:09:43Z,TabBioMed/sexcheck_chrX_50k,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; binary
+2026-11-07T11:09:43Z,TabBioMed/sc_muris_age,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:43Z,TabBioMed/avida_sarscov2_3mer,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:09:44Z,TabBioMed/sc_muraro_celltype,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:45Z,TabBioMed/GLIOMA,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; transcriptomics; classification
+2026-11-07T11:09:46Z,TabBioMed/true_melting_point,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; regression
+2026-11-07T11:09:46Z,TabBioMed/sc_gastrulation_stage,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; regression
+2026-11-07T11:09:47Z,TabBioMed/tahoe_cell_name_5000,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:47Z,TabBioMed/tahoe_batch_integration_14plates,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:47Z,TabBioMed/QM8_f1-CC2,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; regression
+2026-11-07T11:09:47Z,TabBioMed/QM8_E1-CC2,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; regression
+2026-11-07T11:09:48Z,TabBioMed/tahoe_g2m_score,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; regression
+2026-11-07T11:09:50Z,TabBioMed/ST001000,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:09:50Z,TabBioMed/avida_htnfa_esm2,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:09:51Z,TabBioMed/tahoe_cell_name_1000,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:51Z,TabBioMed/avida_htnfa_3mer,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:09:51Z,TabBioMed/PT-Mush21,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; classification
+2026-11-07T11:09:51Z,TabBioMed/bioresponse,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:51Z,TabBioMed/true_betalactamase_unique,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; regression
+2026-11-07T11:09:53Z,TabBioMed/HIV,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:53Z,TabBioMed/tahoe_cell_name_500,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; single-cell; classification
+2026-11-07T11:09:53Z,TabBioMed/MTBLS136,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:09:54Z,TabBioMed/SIDER_nervous,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:54Z,TabBioMed/SIDER_gastro,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:54Z,TabBioMed/Noc_s,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; regression
+2026-11-07T11:09:55Z,TabBioMed/ESOL,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; regression
+2026-11-07T11:09:55Z,TabBioMed/CDC_Diabetes_Health_Indicators,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:100K<n<1M; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:09:55Z,TabBioMed/avida_hil6_onehot,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:09:56Z,TabBioMed/Gum1_s,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; regression
+2026-11-07T11:09:56Z,TabBioMed/Tox21_NRAhR,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:56Z,TabBioMed/Tox21_NRER,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:57Z,TabBioMed/vep_pathogenic_coding,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; binary
+2026-11-07T11:09:57Z,TabBioMed/coords_1k,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; multiregression
+2026-11-07T11:09:57Z,TabBioMed/ST000369,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:09:57Z,TabBioMed/Tox21_SRMMP,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:09:58Z,TabBioMed/subpop_1000_consec,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:09:58Z,TabBioMed/continental_1k,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:09:58Z,TabBioMed/MTBLS404,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:09:58Z,TabBioMed/pca_1k,TabBioMed,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; multiregression
+2026-11-07T11:09:59Z,TabBioMed/Diabetes_UCI,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:09:59Z,TabBioMed/Cardiovascular-Disease-dataset,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:09:59Z,TabBioMed/sexcheck_chrX_500,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; binary
+2026-11-07T11:10:00Z,TabBioMed/audiology,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:01Z,TabBioMed/VitalDB,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:01Z,TabBioMed/spectf,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:01Z,TabBioMed/dermatology,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; classification
+2026-11-07T11:10:01Z,TabBioMed/ST001047,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:10:01Z,TabBioMed/avida_htnfa_onehot,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; binary
+2026-11-07T11:10:02Z,TabBioMed/dna,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; classification
+2026-11-07T11:10:02Z,TabBioMed/MTBLS161,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; metabolomics; binary
+2026-11-07T11:10:03Z,TabBioMed/lymphography,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:03Z,TabBioMed/MUSIC,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; classification
+2026-11-07T11:10:03Z,TabBioMed/wisconsin-breast-cancer,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:04Z,TabBioMed/IACCD,TabBioMed,0,0,task_categories:tabular-classification; license:odc-by; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:04Z,TabBioMed/Parkinson_Speech,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:04Z,TabBioMed/QSAR_biodegradation,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; drug-discovery; binary
+2026-11-07T11:10:04Z,TabBioMed/thyroid,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; classification
+2026-11-07T11:10:05Z,TabBioMed/ecoli,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; proteomics; classification
+2026-11-07T11:10:05Z,TabBioMed/sick,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:05Z,TabBioMed/Diabetic_Retinopathy_Debrecen,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:05Z,TabBioMed/PatientCare,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:05Z,TabBioMed/sexcheck_chrX_50,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; genomics; binary
+2026-11-07T11:10:06Z,TabBioMed/National_Health_and_Nutrition_Health_Survey,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:06Z,TabBioMed/maternal_health_risk,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; classification
+2026-11-07T11:10:06Z,TabBioMed/blood-transfusion-service,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:07Z,TabBioMed/HeartDisease_UCI,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:08Z,TabBioMed/ilpd_patient_data,TabBioMed,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed; clinical-&-healthcare; binary
+2026-11-07T11:10:15Z,yenho67181/olive,yenho67181,0,0,region:us
+2026-11-07T11:10:33Z,s4588025/pick_stack_block_20261107_190859,s4588025,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T11:10:42Z,TUaxhuiax/huggingface_terminal_filesystem_563-flat-9f3a2c,TUaxhuiax,0,0,region:us
+2026-11-07T11:11:07Z,kupc25648/latticeshell-data,kupc25648,0,0,region:us
+2026-11-07T11:12:15Z,yenbui53218/seismic,yenbui53218,0,0,region:us
+2026-11-07T11:13:03Z,yukisuzukifo/satellite-image-text,yukisuzukifo,0,0,license:apache-2.0; region:us; dataset; satellite; image-text
+2026-11-07T11:14:38Z,PuntersEdge/au-racing-closing-lines,PuntersEdge,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:tabular; region:us; horse-racing; greyhound-racing; har…
+2026-11-07T11:17:55Z,danielrosehill/Gefilte-Hebrew-Sentences,danielrosehill,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:he; language:en; license:cc-by-2.0; size_categories:10K<n<100K; region:us; hebrew; nikud; non-native-speech; acc…
+2026-11-07T11:18:21Z,padiredd/Ablation_Cup_none,padiredd,0,0,task_categories:robotics; license:mit; region:us; LeRobot; robotics; simulation; cyclo_lab
+2026-11-07T11:18:51Z,padiredd/Ablation_Cup_none_raw,padiredd,0,0,region:us
+2026-11-07T11:18:54Z,123sg/Annoy-PyEdu-Rs,123sg,0,0,region:us
+2026-11-07T11:18:55Z,123sg/Annoy-PyEdu-Rs-Raw,123sg,0,0,region:us
+2026-11-07T11:19:00Z,sciencialab/fossil,sciencialab,0,0,region:us
