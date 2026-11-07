@@ -1,0 +1,38 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T05:21:34Z,NagaYu/grantbench,NagaYu,0,0,language:en; language:ja; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; security; ai-agents; mcp;…
+2026-11-07T05:21:49Z,Yaseenksk/SJU-HoloTomo-RI16,Yaseenksk,0,0,task_categories:image-to-image; license:other; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; holotomography; refractive-index; lossle…
+2026-11-07T05:23:38Z,LeeHakHo/play_HRI_insertion_cube_11_eef,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T05:27:47Z,TingSun/nanogpt-sota-downstream,TingSun,0,0,region:us
+2026-11-07T05:31:25Z,GeertWang/MCD,GeertWang,0,0,language:en; region:us; mcd; animal-behavior; motor-motifs; reinforcement-learning
+2026-11-07T05:32:02Z,MariC-2103/casos-de-uso-evaluacion-alpaca,MariC-2103,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T05:32:42Z,Shravani-7/codeshield-ai-datasets,Shravani-7,0,0,region:us
+2026-11-07T05:33:24Z,erisi1/cisco-sdwan-sse-qa,erisi1,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:datadesigner; region:us; synthetic; datadesigner
+2026-11-07T05:33:37Z,mhseo2/mmopd4b-planfmt-sft-noedit,mhseo2,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T05:33:55Z,duong7169/groundtruth_voicereid,duong7169,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-07T05:39:09Z,bitwisemind/robin_emotion_videos,bitwisemind,0,0,license:apache-2.0; region:us
+2026-11-07T05:39:21Z,nnuochen/kutyr5q1cs,nnuochen,0,0,region:us
+2026-11-07T05:39:59Z,Phuderoso/organismo-hydra,Phuderoso,0,0,license:cc0-1.0; region:us; maps-not-war; continuity; taberna; hydra
+2026-11-07T05:40:14Z,LeeHakHo/play_HRI_insertion_cube_12,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T05:44:51Z,LeeHakHo/play_HRI_insertion_cube_12_eef,LeeHakHo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-07T05:48:33Z,junlinw/arb-gemini4-argon-law-agent-fs,junlinw,0,0,region:us
+2026-11-07T05:53:55Z,erisi1/cisco-sdwan-onramp-qa,erisi1,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:datadesigner; region:us; synthetic; datadesigner
+2026-11-07T05:54:00Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.0_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T05:57:29Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs,asd12dsacxz12dsa,0,0,region:us
+2026-11-07T05:57:29Z,asd12dsacxz12dsa/Annoy-PyEdu-Rs-Raw,asd12dsacxz12dsa,0,0,region:us
+2026-11-07T05:59:35Z,anuragcreates/vitalrxcare-clinical-pharmacology-monographs,anuragcreates,0,0,region:us
+2026-11-07T06:02:04Z,afdasdaf/Annoy-PyEdu-Rs-Raw,afdasdaf,0,0,region:us
+2026-11-07T06:02:04Z,afdasdaf/Annoy-PyEdu-Rs,afdasdaf,0,0,region:us
+2026-11-07T06:02:32Z,Udev-miam/Sainte-Genevieve-des-Bois-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T06:06:17Z,chocokiddo/DICE-Bench,chocokiddo,0,0,task_categories:question-answering; language:en; license:mit; size_categories:10K<n<100K; region:us; tutoring; math-word-problems; gsm8k; mawps; socratic-tutoring
+2026-11-07T06:06:41Z,Dario-Shit0/dataset-4c0013b3a19efd6e160bda79b19a24bd,Dario-Shit0,0,0,region:us
+2026-11-07T06:11:57Z,AnjaliRavi1818/legal-qa-generations,AnjaliRavi1818,0,0,region:us
+2026-11-07T06:11:58Z,shinezzzz/cpm-apk,shinezzzz,0,0,region:us
+2026-11-07T06:13:14Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-07T06:13:14Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-07T06:15:45Z,projectlosangeles/lakh-clean-midi-genres,projectlosangeles,0,0,license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; region:us
+2026-11-07T06:16:48Z,udbbdh/mesh-gen-experiment-results,udbbdh,0,0,region:us
+2026-11-07T06:18:06Z,arash2060/so101-generalist-pretrain-v1-source-samples,arash2060,0,0,task_categories:robotics; license:apache-2.0; region:us; robotics; so101; lerobot
+2026-11-07T06:18:23Z,dddddsds31341/kai0-rollout-20261107t061421z-rtc-47acd79b-722d5cdf,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:18:31Z,vietlicense/vietlicense-benchmark-win11-home-vs-pro-1794032284391,vietlicense,0,0,task_categories:tabular-classification; task_categories:text-retrieval; language:vi; language:en; license:mit; size_categories:1K<n<10K; region:us; microsoft-licensing; windows-11; office-365; softwa…
+2026-11-07T06:19:41Z,dddddsds31341/kai0-rollout-20261107t061530z-rtc-f6c136e3-45a498dd,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:19:49Z,medagent/MedExAgent-Data,medagent,0,0,language:en; license:cc-by-nc-sa-4.0; arxiv:2605.07058; region:us; medical; clinical-ai; diagnosis; dialogue; reinforcement-learning; medagent
