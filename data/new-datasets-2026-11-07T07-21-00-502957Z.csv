@@ -1,0 +1,81 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T06:20:27Z,MannnBeo/Dyn-PDB,MannnBeo,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2408.12413; region:us; molecular-dy…
+2026-11-07T06:21:06Z,dddddsds31341/kai0-rollout-20261107t061843z-rtc-da9b9fe3-f0601def,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:21:12Z,Obliviongt/binance-futures-klines,Obliviongt,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T06:22:18Z,haodongli666/RollingSink_videos,haodongli666,0,0,region:us
+2026-11-07T06:23:25Z,Obliviongt/binance-futures-aggtrades,Obliviongt,0,0,region:us
+2026-11-07T06:24:04Z,keyuzhao/res-8k2r-restore,keyuzhao,0,0,region:us
+2026-11-07T06:24:30Z,dddddsds31341/kai0-rollout-20261107t061956z-rtc-d3ed330d-343a6234,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:25:12Z,dddddsds31341/kai0-rollout-20261107t062124z-rtc-9e1adf70-d9a92b66,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:28:14Z,dddddsds31341/kai0-rollout-20261107t062447z-rtc-ac13b6a2-bc4a32c5,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:28:55Z,PolarIceTeam/OnlineDataset1,PolarIceTeam,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T06:30:01Z,SOTAagi2030/Wildfire-Pack-Candidates-444,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:30:06Z,SOTAagi2030/Wildfire-License-Rules-444,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:30:21Z,LamportRobotics/armnetbench_ring_insert-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:30:40Z,longzilicart/z9k4-m2x7-pack01,longzilicart,0,0,region:us
+2026-11-07T06:31:04Z,dddddsds31341/kai0-rollout-20261107t062602z-rtc-a6d0f55e-e069f369,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:31:58Z,LamportRobotics/armnetbench_block_stack-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:32:15Z,LamportRobotics/object_top_shelf_remote-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:32:39Z,dddddsds31341/kai0-rollout-20261107t062830z-rtc-3d47dc1c-43aa85e6,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:33:16Z,LamportRobotics/object_top_shelf_reset_remote-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:33:25Z,LamportRobotics/cable_clip_remote_v2-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:33:40Z,LamportRobotics/cable_unclip_remote-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:33:48Z,LamportRobotics/armnetbench_tool_insert-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:33:55Z,LamportRobotics/armnetbench_tool_removal-audited,LamportRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; so101; audit; lamport-lab
+2026-11-07T06:34:26Z,YanzheChen/light-robot-meshes,YanzheChen,0,0,license:other; size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us; robotics; urdf; franka; piper
+2026-11-07T06:34:55Z,longzilicart/q8v3-n6p2-pack02,longzilicart,0,0,region:us
+2026-11-07T06:35:03Z,umeraamir69/hifazat-tab-seed,umeraamir69,0,0,language:ur; language:hi; language:en; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:35:19Z,Maria-01/drone,Maria-01,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T06:35:49Z,dddddsds31341/kai0-rollout-20261107t063130z-rtc-1d6b1aec-7d4eb969,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:37:26Z,dddddsds31341/kai0-rollout-20261107t063332z-rtc-ad75ae5f-2f81be76,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:37:45Z,SOTAagi2030/Coastal-Atlas-Map-Pack-Queue,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:37:50Z,SOTAagi2030/Coastal-Atlas-Component-Terms,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:41:09Z,dddddsds31341/kai0-rollout-20261107t063917z-rtc-eaa870f9-bd35dedc,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:41:10Z,WillisXue/AiToolRes,WillisXue,0,0,region:us
+2026-11-07T06:41:48Z,kk123143/btc5mim,kk123143,0,0,region:us
+2026-11-07T06:42:02Z,binhntcao/items_raw_full,binhntcao,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T06:42:03Z,w3nabil/english-cefr-wordlist,w3nabil,0,0,task_categories:other; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cefr; vocabula…
+2026-11-07T06:42:39Z,dddddsds31341/kai0-rollout-20261107t063625z-rtc-4fdcb11f-dea26b2a,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:42:49Z,toolathlon5/Annoy-PyEdu-Rs,toolathlon5,0,0,region:us
+2026-11-07T06:42:50Z,toolathlon5/Annoy-PyEdu-Rs-Raw,toolathlon5,0,0,region:us
+2026-11-07T06:43:16Z,binhntcao/items_raw_lite,binhntcao,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:43:29Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-07T06:43:30Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-07T06:44:09Z,dddddsds31341/kai0-rollout-20261107t064107z-rtc-7c958645-aa0bed83,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:46:06Z,Seastell/tutorial-dataset,Seastell,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:46:07Z,dddddsds31341/kai0-rollout-20261107t064209z-rtc-87e78a1f-ee85055b,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:46:39Z,CyanMonkey/Orca,CyanMonkey,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-11-07T06:47:46Z,dddddsds31341/kai0-rollout-20261107t064402z-rtc-2ed040e2-2fd61c96,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:48:34Z,sirbrentmichaelskoda/uspto-blockstream-forensic-environment,sirbrentmichaelskoda,0,0,region:us
+2026-11-07T06:49:45Z,unknown2567/hitek,unknown2567,0,0,region:us
+2026-11-07T06:50:34Z,dddddsds31341/kai0-rollout-20261107t064659z-rtc-4cef65c5-4b0935ca,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:51:32Z,dddddsds31341/kai0-rollout-20261107t064931z-rtc-3fb3af06-7a24a7c4,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:53:05Z,dddddsds31341/kai0-rollout-20261107t065105z-rtc-0d9388fd-8764e818,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:53:30Z,dddddsds31341/kai0-rollout-20261107t065239z-rtc-7e76008b-7beed53a,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:55:41Z,dddddsds31341/kai0-rollout-20261107t065344z-rtc-475f09a7-51ccb6f5,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:56:02Z,erisi1/cisco-sdwan-mix-qa,erisi1,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:datadesigner; region:us; synthetic; datadesigner
+2026-11-07T06:56:16Z,simpleG2023/chinese-agritech-and-smart-farming-open-intelligence,simpleG2023,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; language:zh; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:dat…
+2026-11-07T06:56:34Z,Oiki123/quotedpart-cnc-machining-cost-index,Oiki123,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; manufacturing; cnc…
+2026-11-07T06:56:50Z,cvis-tmu/spar-vero-rl-overlong-filtered,cvis-tmu,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:58:10Z,dddddsds31341/kai0-rollout-20261107t065509z-rtc-e67888f0-52478eb1,dddddsds31341,0,0,region:us; robotics; lerobot; kai0
+2026-11-07T06:58:36Z,victim6543/xssd1,victim6543,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T06:58:50Z,Cybrpgs/corpus5-top100-new-20261107,Cybrpgs,0,0,region:us
+2026-11-07T06:59:43Z,dsixteen/Niji_1_Women-control,dsixteen,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T07:01:33Z,xcpan/OpenVidHD-2K-81f-480x832-16fps,xcpan,0,0,source_datasets:nkp37/OpenVid-1M; language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:video; arxiv:2407.02371; region:us; video; video-reconstruction; evaluation; psnr; ssim; lpips; op…
+2026-11-07T07:04:38Z,oliveryanzuolu/jarvis-1104ek-val0-20261107T070438Z-171079,oliveryanzuolu,0,0,region:us
+2026-11-07T07:05:56Z,ChongkaiGao/agentworldmodel,ChongkaiGao,0,0,license:mit; region:us
+2026-11-07T07:06:43Z,ASD12DS1DAS/Annoy-PyEdu-Rs,ASD12DS1DAS,0,0,region:us
+2026-11-07T07:06:44Z,ASD12DS1DAS/Annoy-PyEdu-Rs-Raw,ASD12DS1DAS,0,0,region:us
+2026-11-07T07:07:34Z,xzc3sae21zxas/Annoy-PyEdu-Rs-Raw,xzc3sae21zxas,0,0,region:us
+2026-11-07T07:07:34Z,xzc3sae21zxas/Annoy-PyEdu-Rs,xzc3sae21zxas,0,0,region:us
+2026-11-07T07:08:23Z,HumaisK/AI-Generated-vs-Real-Images-Datasets,HumaisK,0,0,region:us
+2026-11-07T07:08:43Z,pratikgx/drex-max-v1-m5-pro-mac-mini-bench,pratikgx,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; benchmark; decision-model; apple-silicon; mac-mini; mlx; kapitsa; drex; nace
+2026-11-07T07:11:15Z,rooty2020/openarm_air_fryer,rooty2020,0,0,task_categories:robotics; region:us; LeRobot; openarm; bimanual; teleoperation
+2026-11-07T07:11:43Z,rooty2020/openarm_towel,rooty2020,0,0,task_categories:robotics; region:us; LeRobot; openarm; bimanual; teleoperation
+2026-11-07T07:12:12Z,unitreerobotics/G1_WBT_SMPL_Brainco_Supermarket_Shelf_Organizing,unitreerobotics,0,0,region:us
+2026-11-07T07:12:39Z,LamportRobotics/ring_small,LamportRobotics,0,0,license:apache-2.0; region:us; LeRobot; so101; working-copy
+2026-11-07T07:15:01Z,Evanguo12/protostar-climate-2026,Evanguo12,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; region:us; climate; forecasting; protostar-climate-2026
+2026-11-07T07:15:53Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-07T07:15:54Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-07T07:16:06Z,COMAND-CENTER-1/router-assets-cache,COMAND-CENTER-1,0,0,region:us
+2026-11-07T07:17:54Z,boreum0302/height-qa-media,boreum0302,0,0,license:other; region:us
