@@ -1,0 +1,50 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T19:21:46Z,Udev-miam/Les-Ulis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T19:28:51Z,seungkukim/robodojo-pexpert-4task-lerobot-v3.0,seungkukim,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-07T19:28:51Z,DreamyLeads/mortgage-affordability-2026,DreamyLeads,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mortgage; housing-…
+2026-11-07T19:29:44Z,DreamyLeads/household-debt-2026,DreamyLeads,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; household-debt; credit-card-debt; co…
+2026-11-07T19:31:01Z,divinity-library/Omelas,divinity-library,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-07T19:32:11Z,divinity-library/Omelas-Test1,divinity-library,0,0,region:us
+2026-11-07T19:34:25Z,greggburrows/email_dataset,greggburrows,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T19:35:12Z,PholyPeng/GenRec4D-CALRA,PholyPeng,0,0,task_categories:depth-estimation; task_categories:image-to-3d; license:mit; size_categories:10K<n<100K; region:us; carla; synthetic; autonomous-driving; novel-view-synthesis; 3d-reconstruction; 4d-re…
+2026-11-07T19:35:38Z,KeremTT/lidc-idri-akciger-bt,KeremTT,0,0,license:cc-by-3.0; region:us; medikal; dicom; bt; akciğer; nodül
+2026-11-07T19:35:39Z,KeremTT/lidc-idri-nodul-tespiti,KeremTT,0,0,task_categories:object-detection; license:cc-by-3.0; region:us; medikal; bt; akciğer; nodül; yolo
+2026-11-07T19:35:49Z,sac12xczdsae21e/Annoy-PyEdu-Rs,sac12xczdsae21e,0,0,region:us
+2026-11-07T19:35:51Z,sac12xczdsae21e/Annoy-PyEdu-Rs-Raw,sac12xczdsae21e,0,0,region:us
+2026-11-07T19:36:16Z,Zd21EDSA123/Annoy-PyEdu-Rs,Zd21EDSA123,0,0,region:us
+2026-11-07T19:36:17Z,Zd21EDSA123/Annoy-PyEdu-Rs-Raw,Zd21EDSA123,0,0,region:us
+2026-11-07T19:40:52Z,SOTAagi2030/Aster-Transit-Headways-322,SOTAagi2030,0,0,region:us; transit; operations
+2026-11-07T19:41:00Z,Udev-miam/Saint-Michel-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T19:41:33Z,dhruv1672/so101-isaac-sim-peg-insertion-pan-shaped,dhruv1672,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-07T19:44:32Z,ASDBASFGQW/Annoy-PyEdu-Rs,ASDBASFGQW,0,0,region:us
+2026-11-07T19:44:33Z,ASDBASFGQW/Annoy-PyEdu-Rs-Raw,ASDBASFGQW,0,0,region:us
+2026-11-07T19:48:28Z,TUaxhuiax/huggingface_filesystem_fetch_2179-train-2f9c4a71,TUaxhuiax,0,0,region:us
+2026-11-07T19:49:55Z,codemaivanngu/shortcut-models-b200-runtime,codemaivanngu,0,0,region:us
+2026-11-07T19:50:37Z,nv-jonghwanl/so101_teleop_vials_newton,nv-jonghwanl,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T19:50:54Z,SOTAagi2030/Harbor-Cold-Chain-Handoff-Register,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-07T19:51:43Z,SOTAagi2030/Community-Seed-Allocation-Ledger,SOTAagi2030,0,0,language:en; license:cc-by-4.0; region:us
+2026-11-07T19:53:05Z,Silenced4316/Project_Dallas,Silenced4316,0,1,region:us
+2026-11-07T19:54:15Z,Silenced4316/Project_TorWeb,Silenced4316,0,1,size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-07T19:54:17Z,harryzhang1018/TestRandomization,harryzhang1018,0,0,license:bsd-3-clause; region:us
+2026-11-07T19:57:10Z,ShortHog/phantasm-evo,ShortHog,0,0,region:us
+2026-11-07T19:59:38Z,ganprad/hemo-harness-lab-runs,ganprad,0,0,region:us
+2026-11-07T20:00:31Z,PiotrSty/polish-industrial-maintenance-dynaword,PiotrSty,0,0,task_categories:text-generation; language:pl; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-07T20:01:37Z,Udev-miam/Morsang-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:02:34Z,sadaffatimaeee/p3-agent-runs,sadaffatimaeee,0,0,region:us
+2026-11-07T20:02:48Z,RaduMoldoveanu/From-Prompt-to-Floor-Dataset,RaduMoldoveanu,0,0,license:fair-noncommercial-research-license; region:us
+2026-11-07T20:04:48Z,nv-jonghwanl/so101_auto_vials_newton,nv-jonghwanl,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-07T20:06:16Z,SDCXZ12DSA/Annoy-PyEdu-Rs,SDCXZ12DSA,0,0,region:us
+2026-11-07T20:06:16Z,SDCXZ12DSA/Annoy-PyEdu-Rs-Raw,SDCXZ12DSA,0,0,region:us
+2026-11-07T20:06:35Z,LocalLLaMA/deslop-prompts,LocalLLaMA,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; steering-vector;…
+2026-11-07T20:09:18Z,Ayauttt/my-study-materials,Ayauttt,0,0,region:us
+2026-11-07T20:10:39Z,rocked848/whisper-multi4-data,rocked848,0,0,region:us
+2026-11-07T20:11:13Z,yshq4hf/youbot_nav_m7_act_nav_v1_obsalign_p5_dagger_r3_train,yshq4hf,0,0,region:us
+2026-11-07T20:11:30Z,travis-moore/paraling-recovered,travis-moore,0,0,language:ak; language:am; language:ar; language:sw; license:other; region:us; speech-emotion-recognition; multilingual; african-languages
+2026-11-07T20:14:15Z,rights-ledger/rights-ledger-sample,rights-ledger,0,0,language:en; license:cc0-1.0; size_categories:n<1K; region:us; copyright; public-domain; books; metadata; rights
+2026-11-07T20:15:55Z,rasyosef/open-perfectblend_LFM3-1.7B,rasyosef,0,0,region:us
+2026-11-07T20:16:27Z,PureOne/namari-recursive-operator-discovery,PureOne,0,0,language:en; size_categories:100K<n<1M; modality:tabular; region:us; tabular; synthetic; recursive-self-improvement; meta-learning; operator-learning; optimization; linear-algebra; continual-learning…
+2026-11-07T20:18:26Z,notgentox/database,notgentox,0,0,region:us
+2026-11-07T20:19:09Z,notgentox/database2,notgentox,0,0,region:us
+2026-11-07T20:19:19Z,BMU2026/Annoy-PyEdu-Rs,BMU2026,0,0,region:us
+2026-11-07T20:19:20Z,BMU2026/Annoy-PyEdu-Rs-Raw,BMU2026,0,0,region:us
+2026-11-07T20:19:56Z,Miiche/grad-rebuttal-gqa-attention,Miiche,0,0,region:us
