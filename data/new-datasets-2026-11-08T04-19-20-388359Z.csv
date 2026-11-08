@@ -1,0 +1,73 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-08T03:19:45Z,CodeNinjatools/remote-mine-satellite-pakistan-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; sovereign-ai; pakistan;…
+2026-11-08T03:20:18Z,chantysothy/khmer-books-asr-tts,chantysothy,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:km; license:other; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets;…
+2026-11-08T03:20:36Z,CodeNinjatools/carrier-exceptions-us-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; sovereign-ai; united-st…
+2026-11-08T03:20:56Z,CodeNinjatools/canal-irrigation-pakistan-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; sovereign-ai; pakistan;…
+2026-11-08T03:21:01Z,CodeNinjatools/weld-assembly-quality-vehicle-plant-pakistan-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; sovereign-ai; pakistan;…
+2026-11-08T03:23:24Z,zw2013/za,zw2013,0,0,region:us
+2026-11-08T03:23:27Z,liangyn24/ddr,liangyn24,0,0,language:en; language:zh; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; multimodal; synthetic-dat…
+2026-11-08T03:23:36Z,dlqkstjr10/metal-right-arm-multitask-20261107,dlqkstjr10,0,0,language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot; region:us; ler…
+2026-11-08T03:23:42Z,logitshq/logits-sigma-1-duo-decision-index,logitshq,0,0,region:us
+2026-11-08T03:25:28Z,oliveryanzuolu/jarvis-1104gc-kef-val160-20261108T032528Z-431a61,oliveryanzuolu,0,0,region:us
+2026-11-08T03:25:28Z,oliveryanzuolu/jarvis-1104ge-kef-val160-20261108T032528Z-a5e3f6,oliveryanzuolu,0,0,region:us
+2026-11-08T03:25:44Z,afhjassfg/Annoy-PyEdu-Rs,afhjassfg,0,0,region:us
+2026-11-08T03:25:45Z,afhjassfg/Annoy-PyEdu-Rs-Raw,afhjassfg,0,0,region:us
+2026-11-08T03:27:07Z,frankied2/backup-21,frankied2,0,0,region:us
+2026-11-08T03:27:09Z,Zd21EDSA123/Annoy-PyEdu-Rs,Zd21EDSA123,0,0,region:us
+2026-11-08T03:27:10Z,Zd21EDSA123/Annoy-PyEdu-Rs-Raw,Zd21EDSA123,0,0,region:us
+2026-11-08T03:27:31Z,oliviersportsdata/UFC-Multi-Market-Opening-Closing-Odds,oliviersportsdata,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pa…
+2026-11-08T03:29:13Z,Tttthomas/backup-17,Tttthomas,0,0,region:us
+2026-11-08T03:31:18Z,Yoveone/backup-23,Yoveone,0,0,region:us
+2026-11-08T03:31:32Z,frankied2/backup-15,frankied2,0,0,region:us
+2026-11-08T03:31:49Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-08T03:32:00Z,ivy-vivi/long_horizon_real2sim,ivy-vivi,0,0,region:us
+2026-11-08T03:32:02Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-08T03:33:13Z,syding9/a2r-plug-variants-96,syding9,0,0,license:cc-by-4.0; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-08T03:33:39Z,csoai/lane-tooling,csoai,0,0,region:us
+2026-11-08T03:37:19Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T03:41:18Z,embodied-olympics/release1-raw-2,embodied-olympics,0,0,region:us
+2026-11-08T03:42:42Z,SAD21EDSA/Annoy-PyEdu-Rs,SAD21EDSA,0,0,region:us
+2026-11-08T03:42:42Z,SAD21EDSA/Annoy-PyEdu-Rs-Raw,SAD21EDSA,0,0,region:us
+2026-11-08T03:42:47Z,oliveryanzuolu/jarvis-1104ge-kef-val160-20261108T034247Z-8df2e7,oliveryanzuolu,0,0,region:us
+2026-11-08T03:45:46Z,sddsasd/Annoy-PyEdu-Rs,sddsasd,0,0,region:us
+2026-11-08T03:45:47Z,sddsasd/Annoy-PyEdu-Rs-Raw,sddsasd,0,0,region:us
+2026-11-08T03:51:08Z,shuren2/008_20261108_114419,shuren2,0,0,region:us
+2026-11-08T03:51:19Z,yfeng123456/Annoy-PyEdu-Rs,yfeng123456,0,0,region:us
+2026-11-08T03:51:19Z,afdasfasdd/Annoy-PyEdu-Rs-Raw,afdasfasdd,0,0,region:us
+2026-11-08T03:51:19Z,afdasfasdd/Annoy-PyEdu-Rs,afdasfasdd,0,0,region:us
+2026-11-08T03:51:19Z,yfeng123456/Annoy-PyEdu-Rs-Raw,yfeng123456,0,0,region:us
+2026-11-08T03:51:23Z,dsad1dsa21/Annoy-PyEdu-Rs,dsad1dsa21,0,0,region:us
+2026-11-08T03:51:24Z,dsad1dsa21/Annoy-PyEdu-Rs-Raw,dsad1dsa21,0,0,region:us
+2026-11-08T03:51:30Z,sdafafw22/Annoy-PyEdu-Rs,sdafafw22,0,0,region:us
+2026-11-08T03:51:30Z,sdafafw22/Annoy-PyEdu-Rs-Raw,sdafafw22,0,0,region:us
+2026-11-08T03:51:38Z,asfdaaa/Annoy-PyEdu-Rs,asfdaaa,0,0,region:us
+2026-11-08T03:51:39Z,asfdaaa/Annoy-PyEdu-Rs-Raw,asfdaaa,0,0,region:us
+2026-11-08T03:52:11Z,Didrien/flight-delay-analytics-raw-2024,Didrien,0,0,region:us
+2026-11-08T03:52:58Z,TomPei/Fineweb-Edu-Chinese-V2.1,TomPei,0,0,task_categories:text-generation; language:zh; license:apache-2.0; size_categories:10B<n<100B; arxiv:2501.08197; region:us
+2026-11-08T03:53:09Z,csoai/gspc-grid,csoai,0,0,task_categories:tabular-classification; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; gspc; coun…
+2026-11-08T03:53:13Z,csoai/gspc-academy,csoai,0,0,region:us
+2026-11-08T03:53:22Z,csoai/gspc-atlas,csoai,0,0,task_categories:text-classification; license:cc0-1.0; region:us; gspc; council-of-ai; gpai; eu-ai-act; regulation; atlas; regulator-doors; deadlines; mica; dora
+2026-11-08T03:53:32Z,swargaraj/recaptcha-v1-captchas,swargaraj,0,0,license:unknown; region:us
+2026-11-08T03:53:54Z,EdgeArbiter/KCIT_VOL,EdgeArbiter,0,0,region:us
+2026-11-08T03:53:55Z,TomPei/chinese-fineweb-edu-v2,TomPei,0,0,task_categories:text-generation; language:zh; license:apache-2.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:m…
+2026-11-08T03:54:23Z,TomPei/chinese-fineweb-edu,TomPei,0,0,task_categories:text-generation; language:zh; license:apache-2.0; size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv…
+2026-11-08T03:54:33Z,Hfzune/telegram-ru,Hfzune,0,0,language:ru; license:apache-2.0; size_categories:100M<n<1B; region:us
+2026-11-08T03:54:45Z,TomPei/csg-robomaster,TomPei,0,0,language:en; license:apache-2.0; region:us; code
+2026-11-08T03:55:08Z,oliveryanzuolu/jarvis-1104gf-kef-val160-20261108T035507Z-6ee64d,oliveryanzuolu,0,0,region:us
+2026-11-08T03:56:36Z,lysmeqiu/GroundingAnomaly-mask,lysmeqiu,0,0,license:apache-2.0; region:us
+2026-11-08T03:56:45Z,GamesMais18/ProjectAtmosphereDados,GamesMais18,0,0,region:us
+2026-11-08T03:58:20Z,Hfzune/Ind438GB,Hfzune,0,0,region:us
+2026-11-08T03:59:28Z,SOTAagi2030/Community-Garden-Plot-Calendar,SOTAagi2030,0,0,region:us
+2026-11-08T04:00:01Z,Yoveone/backup-28,Yoveone,0,0,region:us
+2026-11-08T04:02:45Z,daibfc/h2r-benchmarks,daibfc,0,0,license:other; region:us; robotics; humanoid; unitree-g1; loco-manipulation; benchmark; human-object-interaction
+2026-11-08T04:03:02Z,csoai/regulation-mine,csoai,0,0,license:cc-by-4.0; region:us
+2026-11-08T04:04:21Z,frankied2/backup-20,frankied2,0,0,region:us
+2026-11-08T04:08:19Z,shuren2/001_20261108_120500,shuren2,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-08T04:09:59Z,emdashthree/tiktok-5.6B-videos,emdashthree,0,0,region:us
+2026-11-08T04:10:08Z,toolathlon-eval-13/Annoy-PyEdu-Rs-Raw,toolathlon-eval-13,0,0,region:us
+2026-11-08T04:10:08Z,toolathlon-eval-13/Annoy-PyEdu-Rs,toolathlon-eval-13,0,0,region:us
+2026-11-08T04:12:25Z,kmcdono2/revads-gold,kmcdono2,0,0,region:us
+2026-11-08T04:12:51Z,Tttthomas/backup-19,Tttthomas,0,0,region:us
+2026-11-08T04:15:26Z,R0U5/persistence-lora-10k,R0U5,0,0,region:us
+2026-11-08T04:16:10Z,ardacandrasubiantoro/klepon-nusantara-submission,ardacandrasubiantoro,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; region:us; climate; forecasting; protostar-climate-2026
+2026-11-08T04:17:19Z,horus14-wq/fable5-v2-coding-t3,horus14-wq,0,0,task_categories:text-generation; task_categories:question-answering; annotations_creators:derived; source_datasets:saidutta69/fable-5-premium-v2; language:en; license:mit; size_categories:10K<n<100K;…
