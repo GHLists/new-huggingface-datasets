@@ -1,0 +1,108 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-07T23:21:42Z,ASCXZ12EWDX/Annoy-PyEdu-Rs,ASCXZ12EWDX,0,0,region:us
+2026-11-07T23:21:43Z,ASCXZ12EWDX/Annoy-PyEdu-Rs-Raw,ASCXZ12EWDX,0,0,region:us
+2026-11-07T23:24:37Z,toolathlon-eval-14/Annoy-PyEdu-Rs,toolathlon-eval-14,0,0,region:us
+2026-11-07T23:24:37Z,toolathlon-eval-14/Annoy-PyEdu-Rs-Raw,toolathlon-eval-14,0,0,region:us
+2026-11-07T23:28:05Z,StrivingBapan/lm-eels-mars-twin-assets,StrivingBapan,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:3d; modality:image; library:datasets; library:mlcroissant; region:us; robotics; simulation; mujoco; mars; lm-eels
+2026-11-07T23:28:24Z,Udev-miam/Villejust,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:28:25Z,afdafafwf/Annoy-PyEdu-Rs,afdafafwf,0,0,region:us
+2026-11-07T23:28:26Z,afdafafwf/Annoy-PyEdu-Rs-Raw,afdafafwf,0,0,region:us
+2026-11-07T23:29:12Z,t2ance/atlas-05-reading-effect-math-vs-facts,t2ance,0,0,region:us
+2026-11-07T23:29:20Z,Udev-miam/Wissous,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:32:19Z,g1n0st/94f0b75a2f87ed1bbfa20f75ae4d1300fcf80e2f,g1n0st,0,0,region:us
+2026-11-07T23:33:25Z,Udev-miam/La-Ville-du-Bois,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:34:35Z,vinyteles/mobilebench-relay-20261107-b111-f6c3ae0688,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-07T23:36:50Z,frankied2/backup-02,frankied2,0,0,region:us
+2026-11-07T23:36:50Z,Yoveone/backup-27,Yoveone,0,0,region:us
+2026-11-07T23:36:50Z,Tttthomas/backup-26,Tttthomas,0,0,region:us
+2026-11-07T23:36:50Z,felix2t/backup-06,felix2t,0,0,region:us
+2026-11-07T23:36:52Z,KeremTT/belge-duzeni-doclaynet,KeremTT,0,0,task_categories:object-detection; license:cdla-permissive-1.0; size_categories:10K<n<100K; region:us; belge; düzen analizi; yolo
+2026-11-07T23:37:23Z,Tttthomas/backup-25,Tttthomas,0,0,region:us
+2026-11-07T23:37:23Z,frankied2/backup-00,frankied2,0,0,region:us
+2026-11-07T23:37:39Z,Tttthomas/backup-24,Tttthomas,0,0,region:us
+2026-11-07T23:37:41Z,frankied2/backup-03,frankied2,0,0,region:us
+2026-11-07T23:37:42Z,felix2t/backup-07,felix2t,0,0,region:us
+2026-11-07T23:37:48Z,g1n0st/0d08f108c69387719e0a32dffdfa21bab908d9dd,g1n0st,0,0,region:us
+2026-11-07T23:37:56Z,Tttthomas/backup-23,Tttthomas,0,0,region:us
+2026-11-07T23:37:57Z,frankied2/backup-04,frankied2,0,0,region:us
+2026-11-07T23:37:59Z,Yoveone/backup-22,Yoveone,0,0,region:us
+2026-11-07T23:38:09Z,sibidapo3/duouavdataset,sibidapo3,0,0,license:apache-2.0; region:us
+2026-11-07T23:38:16Z,Tttthomas/backup-00,Tttthomas,0,0,region:us
+2026-11-07T23:38:21Z,felix2t/backup-03,felix2t,0,0,region:us
+2026-11-07T23:38:26Z,safaf4455/Annoy-PyEdu-Rs,safaf4455,0,0,region:us
+2026-11-07T23:38:27Z,safaf4455/Annoy-PyEdu-Rs-Raw,safaf4455,0,0,region:us
+2026-11-07T23:38:37Z,Tttthomas/backup-01,Tttthomas,0,0,region:us
+2026-11-07T23:38:40Z,Yoveone/backup-12,Yoveone,0,0,region:us
+2026-11-07T23:39:06Z,Tttthomas/backup-12,Tttthomas,0,0,region:us
+2026-11-07T23:39:07Z,felix2t/backup-01,felix2t,0,0,region:us
+2026-11-07T23:39:32Z,Criss-paz/kp-media-vault,Criss-paz,0,0,region:us
+2026-11-07T23:39:36Z,Yoveone/backup-09,Yoveone,0,0,region:us
+2026-11-07T23:39:45Z,Tttthomas/backup-15,Tttthomas,0,0,region:us
+2026-11-07T23:40:18Z,felix2t/backup-04,felix2t,0,0,region:us
+2026-11-07T23:41:01Z,Tttthomas/backup-16,Tttthomas,0,0,region:us
+2026-11-07T23:41:48Z,Yoveone/backup-32,Yoveone,0,0,region:us
+2026-11-07T23:43:10Z,g1n0st/69ca21d2ba3ecec28e2c6ded170f578969a60ba5,g1n0st,0,0,region:us
+2026-11-07T23:43:15Z,oliveryanzuolu/jarvis-1104fm-step228-20261107T234315Z-3a773c,oliveryanzuolu,0,0,size_categories:n<1K; modality:text; modality:video; region:us
+2026-11-07T23:43:24Z,Tttthomas/backup-05,Tttthomas,0,0,region:us
+2026-11-07T23:43:48Z,g1n0st/8e29c1c8fc769334ea528b9157f92a129b905bce,g1n0st,0,0,region:us
+2026-11-07T23:44:11Z,g1n0st/817b7dafba6f579ad711394ef5d953dfbfc9f0c3,g1n0st,0,0,region:us
+2026-11-07T23:44:15Z,Yoveone/backup-13,Yoveone,0,0,region:us
+2026-11-07T23:44:16Z,g1n0st/277cba6cab3f043aab66e3818eb22f97973dd3ac,g1n0st,0,0,region:us
+2026-11-07T23:44:21Z,g1n0st/8f3170ceb2be2296bbe8f177500c1afddc252a60,g1n0st,0,0,region:us
+2026-11-07T23:45:10Z,g1n0st/17dbc09a5738d0d7685cfc66208bf63038698770,g1n0st,0,0,region:us
+2026-11-07T23:45:13Z,g1n0st/da538ba2706c6a08ff82f8dcf518c6fa180e01ab,g1n0st,0,0,region:us
+2026-11-07T23:45:22Z,g1n0st/ef844ab1556e3296e31f0822f63b5ad410946b0f,g1n0st,0,0,region:us
+2026-11-07T23:45:42Z,g1n0st/a2caaf388e91d80839a32a72685ba99f187b1d68,g1n0st,0,0,region:us
+2026-11-07T23:45:59Z,Tttthomas/backup-22,Tttthomas,0,0,region:us
+2026-11-07T23:46:38Z,igorholt/liturgy-of-diffraction-v-sigma,igorholt,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; genesis-conduct…
+2026-11-07T23:47:07Z,Yoveone/backup-03,Yoveone,0,0,region:us
+2026-11-07T23:47:44Z,g1n0st/9748d74753d6da5396cf9fe14940086753e7e719,g1n0st,0,0,region:us
+2026-11-07T23:47:50Z,frankied2/backup-05,frankied2,0,0,region:us
+2026-11-07T23:47:59Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g1_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-07T23:48:10Z,g1n0st/d13133496beaa40d7811842d56b75234b6176718,g1n0st,0,0,region:us
+2026-11-07T23:48:33Z,frankied2/backup-16,frankied2,0,0,region:us
+2026-11-07T23:48:35Z,Udev-miam/Saint-Pierre-du-Perray,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:49:05Z,Udev-miam/Epinay-sous-Senart,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:49:49Z,MatouK98/qwen3-8b-base-fully-async-rloo-sc-stale16-mv-fp8-kv8-202611051113,MatouK98,0,0,region:us
+2026-11-07T23:49:52Z,MatouK98/qwen3-8b-base-fully-async-rloo-sc-tis-stale16-mv-fp8-kv8-202611051113,MatouK98,0,0,region:us
+2026-11-07T23:49:53Z,narmak28/reactions-index,narmak28,0,0,license:other; region:us; chemistry; chemoinformatics
+2026-11-07T23:49:55Z,MatouK98/qwen3-8b-base-fully-async-rloo-sc-stale32-bs16-mv-fp8-kv8-202611070550,MatouK98,0,0,region:us
+2026-11-07T23:49:59Z,MatouK98/qwen3-8b-base-fully-async-rloo-sc-tis-stale32-bs16-mv-fp8-kv8-202611070550,MatouK98,0,0,region:us
+2026-11-07T23:50:12Z,g1n0st/7f757a27df9dd425f82af13966fb784a906028f8,g1n0st,0,0,region:us
+2026-11-07T23:52:13Z,asfrasd/Annoy-PyEdu-Rs,asfrasd,0,0,region:us
+2026-11-07T23:52:14Z,asfrasd/Annoy-PyEdu-Rs-Raw,asfrasd,0,0,region:us
+2026-11-07T23:52:20Z,frankied2/backup-06,frankied2,0,0,region:us
+2026-11-07T23:54:51Z,SOTAagi2030/Aurora-Interlibrary-Transit-Audit,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-07T23:55:16Z,liufeng145/Annoy-PyEdu-Rs-Raw,liufeng145,0,0,region:us
+2026-11-07T23:55:16Z,liufeng145/Annoy-PyEdu-Rs,liufeng145,0,0,region:us
+2026-11-07T23:57:14Z,frankied2/backup-17,frankied2,0,0,region:us
+2026-11-07T23:57:28Z,padiredd/open_bottle_topdown_replay,padiredd,0,0,region:us; robotis; cyclo_intelligence; robotics; isaac-lab; sim-demos
+2026-11-07T23:57:40Z,pratikgx/arete-27b-m5-pro-mac-mini-bench,pratikgx,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; apple-silicon; mac-m…
+2026-11-07T23:58:28Z,yshq4hf/youbot_nav_m7_act_nav_v1_obsalign_p5_dagger_r3b_train,yshq4hf,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:58:41Z,Udev-miam/Bures-sur-Yvette,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-07T23:59:23Z,ASD12321WAS/Annoy-PyEdu-Rs,ASD12321WAS,0,0,region:us
+2026-11-07T23:59:24Z,ASD12321WAS/Annoy-PyEdu-Rs-Raw,ASD12321WAS,0,0,region:us
+2026-11-07T23:59:38Z,Udev-miam/Etrechy-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:03:31Z,pratikgx/arete-27b-tensorfold-m5-pro-mac-mini-bench,pratikgx,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; apple-silicon; mac-m…
+2026-11-08T00:03:42Z,Udev-miam/Angerville-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:06:06Z,felicepedrof/openbao-cli-instruct,felicepedrof,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:pt; license:mpl-2.0; size_categories:1K<n<10K; region:us; openbao; secrets-management; cli; devops; security…
+2026-11-08T00:06:28Z,Nihilux/L,Nihilux,0,0,region:us
+2026-11-08T00:07:59Z,KantaHayashiAI/ClimbMix-Ja,KantaHayashiAI,0,0,region:us
+2026-11-08T00:08:38Z,SOTAagi2030/Northstar-Cold-Chain-Incidents,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-08T00:08:47Z,Udev-miam/Saint-Germain-les-Corbeil,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:09:32Z,oliveryanzuolu/jarvis-1104fo-val234-20261108T000932Z-ee121e,oliveryanzuolu,0,0,region:us
+2026-11-08T00:09:44Z,SwashBuckler001/WebExploitGym,SwashBuckler001,0,0,task_categories:other; language:en; license:other; size_categories:n<1K; region:us; security; cybersecurity; cve; vulnerable-applications; web-security
+2026-11-08T00:12:44Z,vinyteles/mobilebench-relay-20261107-b113-4e169fffd3,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-08T00:15:12Z,kientran90320/craterlake,kientran90320,0,0,region:us
+2026-11-08T00:15:22Z,vinyteles/mobilebench-relay-20261107-b112-5de3244491,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-08T00:16:44Z,khoanguyen7762/dolphin,khoanguyen7762,0,0,region:us
+2026-11-08T00:17:35Z,igorholt/verifiable-quantum-circuit-compilation,igorholt,0,0,license:cc-by-4.0; region:us
+2026-11-08T00:17:37Z,DSCXZ12DSA/Annoy-PyEdu-Rs,DSCXZ12DSA,0,0,region:us
+2026-11-08T00:17:38Z,DSCXZ12DSA/Annoy-PyEdu-Rs-Raw,DSCXZ12DSA,0,0,region:us
+2026-11-08T00:18:22Z,cuongtran44970/macaque,cuongtran44970,0,0,region:us
+2026-11-08T00:18:46Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-11-08T00:18:46Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-11-08T00:19:53Z,asfdaasf/Annoy-PyEdu-Rs,asfdaasf,0,0,region:us
+2026-11-08T00:19:54Z,asfdaasf/Annoy-PyEdu-Rs-Raw,asfdaasf,0,0,region:us
+2026-11-08T00:19:55Z,123sg/Tessera-Alignment-Notes,123sg,0,0,region:us
+2026-11-08T00:19:57Z,123sg/Tessera-Alignment-Notes-Raw,123sg,0,0,region:us
