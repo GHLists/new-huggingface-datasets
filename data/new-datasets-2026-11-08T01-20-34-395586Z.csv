@@ -1,0 +1,91 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-08T00:20:40Z,cami11/ECV_2018_2024,cami11,0,0,region:us
+2026-11-08T00:24:23Z,Udev-miam/Villebon-sur-Yvette,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:24:32Z,we-dream/posttrain-g1-0824-neckclean-merged,we-dream,0,0,region:us
+2026-11-08T00:25:07Z,tuantran19878/bamboo,tuantran19878,0,0,region:us
+2026-11-08T00:25:24Z,Udev-miam/Itteville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:26:00Z,Gax-c/VeriContest_Tests,Gax-c,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; arxiv:2605.08553; region:us; competitive-programming; code-generation; specification-generation; verification; rust; verus; benchmark;…
+2026-11-08T00:26:34Z,sad12esa21edqxwsa/Annoy-PyEdu-Rs,sad12esa21edqxwsa,0,0,region:us
+2026-11-08T00:26:35Z,sad12esa21edqxwsa/Annoy-PyEdu-Rs-Raw,sad12esa21edqxwsa,0,0,region:us
+2026-11-08T00:28:58Z,Udev-miam/La-Ferte-Alais,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:30:58Z,Tttthomas/backup-02,Tttthomas,0,0,region:us
+2026-11-08T00:31:28Z,oliveryanzuolu/jarvis-1104fe-kef-val160-20261108T003128Z-061fc1,oliveryanzuolu,0,0,region:us
+2026-11-08T00:31:32Z,Yoveone/backup-43,Yoveone,0,0,region:us
+2026-11-08T00:31:43Z,vinyteles/mobilebench-relay-20261107-b114-4843228fe1,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-08T00:32:14Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.5_g2_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T00:32:26Z,asdad456/Annoy-PyEdu-Rs,asdad456,0,0,region:us
+2026-11-08T00:32:30Z,asdad456/Annoy-PyEdu-Rs-Raw,asdad456,0,0,region:us
+2026-11-08T00:33:58Z,Udev-miam/Ormoy-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:34:16Z,SZLHOLDINGS/szl-papers-sft-v1,SZLHOLDINGS,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T00:35:13Z,SOTAagi2030/Pelagic-Call-Consensus-317,SOTAagi2030,0,0,task_categories:audio-classification; license:cc-by-4.0; region:us
+2026-11-08T00:35:22Z,vinyteles/mobilebench-import-config10-energy-int8-rl-gpu-6b28bf164068,vinyteles,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mobilebench; benchmark; manual-import
+2026-11-08T00:35:25Z,felix2t/backup-02,felix2t,0,0,region:us
+2026-11-08T00:35:36Z,Leon299/cmi-rewardbench-tutorial,Leon299,0,0,license:cc-by-nc-sa-4.0; arxiv:2603.00610; region:us
+2026-11-08T00:36:52Z,thaohoang9927/octopus,thaohoang9927,0,0,region:us
+2026-11-08T00:38:45Z,Lychsim-projects/data,Lychsim-projects,0,0,license:cc-by-4.0; region:us
+2026-11-08T00:38:51Z,datbui62923/monsoon,datbui62923,0,0,region:us
+2026-11-08T00:40:30Z,phatbui83722/falcon,phatbui83722,0,0,region:us
+2026-11-08T00:41:58Z,khoaduong18219/lorry,khoaduong18219,0,0,region:us
+2026-11-08T00:43:27Z,jackmaxwil/DeepSeek-V4.1-Flash-REAP-stats,jackmaxwil,0,0,license:other; region:us; reap; expert-pruning; moe
+2026-11-08T00:43:42Z,phuongduong91946/locomotive,phuongduong91946,0,0,region:us
+2026-11-08T00:44:10Z,itea1001/EnvOpt-WorkspaceBench,itea1001,0,0,license:apache-2.0; region:us
+2026-11-08T00:44:33Z,Udev-miam/Saint-Cheron-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:45:21Z,thanhduong80722/chasm,thanhduong80722,0,0,region:us
+2026-11-08T00:45:35Z,Udev-miam/Soisy-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:46:36Z,thanhle88635/seaport,thanhle88635,0,0,region:us
+2026-11-08T00:47:07Z,SOTAagi2030/Harbor-Transit-Service-310,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-08T00:47:09Z,vinyteles/mobilebench-relay-20261108-b115-be05f52778,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-08T00:47:14Z,Yoveone/backup-16,Yoveone,0,0,region:us
+2026-11-08T00:48:06Z,hieungo74151/stratus,hieungo74151,0,0,region:us
+2026-11-08T00:48:06Z,SOTAagi2030/Museum-Light-Rotation-Plan,SOTAagi2030,0,0,region:us
+2026-11-08T00:49:07Z,Udev-miam/Villabe,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:49:21Z,anle40663/crag,anle40663,0,0,region:us
+2026-11-08T00:51:13Z,jfcarpio/video-carlabotcoin-espanol,jfcarpio,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:51:30Z,linhle85388/grain,linhle85388,0,0,region:us
+2026-11-08T00:52:29Z,SOTAagi2030/Meridian-Cold-Chain-Excursions,SOTAagi2030,0,0,region:us
+2026-11-08T00:53:02Z,phatho12641/spruce,phatho12641,0,0,region:us
+2026-11-08T00:54:08Z,Udev-miam/Villemoisson-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:54:43Z,thanhvu26821/dawn,thanhvu26821,0,0,region:us
+2026-11-08T00:54:51Z,izamscientist/signature-similarity-v3-train-val,izamscientist,0,0,license:other; region:us
+2026-11-08T00:55:57Z,pthinc/BCE-Prettybird-Nano-Minerva-v0.1,pthinc,0,0,task_categories:text-generation; task_categories:text-classification; task_categories:question-answering; language:tr; language:en; license:other; size_categories:1K<n<10K; region:us; code; synthetic…
+2026-11-08T00:56:40Z,glavvrach79/nyc-mobility-digital-twin,glavvrach79,0,0,region:us
+2026-11-08T00:56:44Z,thinhhuynh98493/hubble,thinhhuynh98493,0,0,region:us
+2026-11-08T00:58:07Z,kienbui35631/lynx,kienbui35631,0,0,region:us
+2026-11-08T00:58:22Z,NagaYu/memseal-bench,NagaYu,0,0,language:en; language:ja; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-safety; agent-memory; p…
+2026-11-08T00:58:27Z,Yoveone/backup-48,Yoveone,0,0,region:us
+2026-11-08T00:59:12Z,Udev-miam/Limours,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T00:59:59Z,phuongvu6690/birch,phuongvu6690,0,0,region:us
+2026-11-08T01:01:33Z,cstorm125/graphiv_title_abstract_embeddings,cstorm125,0,0,license:apache-2.0; region:us
+2026-11-08T01:02:04Z,tuanpham71287/bullet,tuanpham71287,0,0,region:us
+2026-11-08T01:03:42Z,cuongly42096/rotor,cuongly42096,0,0,region:us
+2026-11-08T01:04:14Z,Udev-miam/Saint-Germain-les-Arpajon,Udev-miam,0,0,region:us
+2026-11-08T01:04:56Z,JuneYao/medical-jev-4b-data,JuneYao,0,0,task_categories:multiple-choice; language:zh; language:en; language:ja; language:ko; language:pt; language:es; language:tr; size_categories:100K<n<1M; region:us; medical; clinical-decision; multiple-…
+2026-11-08T01:05:04Z,frankied2/backup-13,frankied2,0,0,region:us
+2026-11-08T01:05:15Z,Udev-miam/Tigery,Udev-miam,0,0,region:us
+2026-11-08T01:05:22Z,elnemer7/ElNemer-Global-Encyclopedia-Catalog-78-Languages,elnemer7,0,0,task_categories:tabular-classification; task_categories:translation; language:ar; language:en; language:fr; language:de; language:es; language:zh; language:ru; language:hi; language:ja; language:pt;…
+2026-11-08T01:06:06Z,datngo59690/zeppelin,datngo59690,0,0,region:us
+2026-11-08T01:06:21Z,SOTAagi2030/Fenwatch-Call-Sessions-323,SOTAagi2030,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; region:us
+2026-11-08T01:08:01Z,Yoveone/backup-30,Yoveone,0,0,region:us
+2026-11-08T01:08:02Z,dungly54404/avalanche,dungly54404,0,0,region:us
+2026-11-08T01:09:36Z,OriginDataPartners/company-data-licensing-case-studies,OriginDataPartners,0,0,license:cc-by-4.0; region:us
+2026-11-08T01:10:07Z,thanhly98608/gibbon,thanhly98608,0,0,region:us
+2026-11-08T01:10:12Z,Cosmos-Data/droid-success-raw-20261107,Cosmos-Data,0,0,region:us
+2026-11-08T01:10:29Z,HCY123902/qwen25_7b_base_gn_ssss_n32_r1_no_know_dpo,HCY123902,0,0,region:us
+2026-11-08T01:11:02Z,Leon299/cmi-bench-tutorial,Leon299,0,0,license:cc-by-nc-sa-4.0; arxiv:2506.12285; region:us
+2026-11-08T01:13:22Z,SOTAagi2030/coastal-usage-events,SOTAagi2030,0,0,region:us
+2026-11-08T01:13:25Z,SOTAagi2030/coastal-license-rules,SOTAagi2030,0,0,region:us
+2026-11-08T01:13:58Z,zero-trust-physics/zero-trust-physics-sample-group-3,zero-trust-physics,0,0,language:en; license:other; library:harbor; region:us; physics; rl-environment; rlvr; harbor; mcp; evaluation; zero-trust-physics
+2026-11-08T01:14:24Z,frankied2/backup-09,frankied2,0,0,region:us
+2026-11-08T01:14:50Z,Udev-miam/Avrainville-91,Udev-miam,0,0,region:us
+2026-11-08T01:15:50Z,Udev-miam/Ballainvilliers,Udev-miam,0,0,region:us
+2026-11-08T01:16:12Z,SADNMCVC/Annoy-PyEdu-Rs,SADNMCVC,0,0,region:us
+2026-11-08T01:16:13Z,SADNMCVC/Annoy-PyEdu-Rs-Raw,SADNMCVC,0,0,region:us
+2026-11-08T01:16:42Z,Hwiiiiiiii/for,Hwiiiiiiii,0,0,license:apache-2.0; region:us
+2026-11-08T01:16:55Z,123sg/Tessera-Alignment-Notes,123sg,0,0,region:us
+2026-11-08T01:16:57Z,123sg/Tessera-Alignment-Notes-Raw,123sg,0,0,region:us
+2026-11-08T01:18:02Z,trangtran23263/motorcycle,trangtran23263,0,0,region:us
+2026-11-08T01:18:47Z,Ira2000/heatready-climate-risk,Ira2000,0,0,region:us
+2026-11-08T01:19:31Z,amarbiswalbitspilani/group37-aws-domain-corpus,amarbiswalbitspilani,0,0,region:us
+2026-11-08T01:19:32Z,thaole66695/redwood,thaole66695,0,0,region:us
+2026-11-08T01:19:53Z,Udev-miam/Bievres-91,Udev-miam,0,0,region:us
+2026-11-08T01:20:33Z,ANWERFATEHY/prompts_for_image_AI,ANWERFATEHY,0,0,license:apache-2.0; region:us
