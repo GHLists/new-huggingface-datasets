@@ -1,0 +1,68 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-08T06:21:30Z,zjlhy/zjlhy,zjlhy,0,0,region:us
+2026-11-08T06:21:32Z,SOTAagi2030/Nimbus-Rain-Gauge-QC,SOTAagi2030,0,0,region:us
+2026-11-08T06:22:01Z,introvoyz04/SimReady-Assets_,introvoyz04,0,0,license:apache-2.0; size_categories:n<1K; format:text; modality:3d; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; simready
+2026-11-08T06:23:18Z,Yoveone/backup-42,Yoveone,0,0,region:us
+2026-11-08T06:24:04Z,Eyanhe/LFTC_Dataset_And_Checkpoints,Eyanhe,0,0,region:us
+2026-11-08T06:24:06Z,introvoyz04/UniversalRobots,introvoyz04,0,0,license:other; size_categories:n<1K; format:text; modality:3d; modality:text; library:datasets; library:mlcroissant; region:us; simready; robotics; usd; isaac-sim
+2026-11-08T06:25:00Z,Siva2022/safequery-retail-tasks,Siva2022,0,0,license:cc-by-nc-4.0; region:us; text-to-sql; tool-calling; safety; agenttune; auditkit
+2026-11-08T06:25:02Z,Siva2022/safequery-eval-traces,Siva2022,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; evaluation; auditkit; agent…
+2026-11-08T06:26:50Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-08T06:26:55Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-08T06:27:25Z,xiangxin0923/realworld_task_umi_plus_demo,xiangxin0923,0,0,region:us
+2026-11-08T06:28:45Z,Cbuilder/simready-assets,Cbuilder,0,0,license:cc-by-4.0; region:us; simready
+2026-11-08T06:28:59Z,g1n0st/319e9a58bc17878ee73b6f14c8c90679a5cca505,g1n0st,0,0,region:us
+2026-11-08T06:29:49Z,mhseo2/traj-olmo31-32b-think-ot3-s4-fullcov,mhseo2,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; math; reasoning; distillation; olmo
+2026-11-08T06:33:17Z,theblackcat102/ADL26W-final-train,theblackcat102,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T06:34:15Z,g1n0st/f45d7b55eea72fd2b1b7edd3999b76307f4423be,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-08T06:39:34Z,dsa12dsz123sz/Annoy-PyEdu-Rs,dsa12dsz123sz,0,0,region:us
+2026-11-08T06:39:48Z,jayalexander/items_raw_lite,jayalexander,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T06:39:55Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-08T06:39:57Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-08T06:39:58Z,codepawl/0ad-art-glb,codepawl,0,0,license:cc-by-sa-3.0; modality:3d; region:us; 3d; glb; gltf; game-assets; rts; low-poly; animation; characters; buildings; threejs; webgpu
+2026-11-08T06:40:05Z,dsa12dsz123sz/Annoy-PyEdu-Rs-Raw,dsa12dsz123sz,0,0,region:us
+2026-11-08T06:42:51Z,Smskskska/WebLinks,Smskskska,0,0,license:mit; region:us
+2026-11-08T06:44:54Z,jayalexander/items_raw_full,jayalexander,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-08T06:45:45Z,g1n0st/ab4b76a4ddf643d18a3d33b216abdff9b39a8427,g1n0st,0,0,region:us
+2026-11-08T06:49:00Z,katarinayuan/CORE-Reasoning-data,katarinayuan,0,0,language:en; license:other; region:us; biology; perturbation; knowledge-graph; reproducibility
+2026-11-08T06:51:28Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T06:51:59Z,saisanjay1716/SmartFence-Wildlife-Dataset,saisanjay1716,0,0,region:us
+2026-11-08T06:52:10Z,mahvin92/marvz-weights,mahvin92,0,0,region:us
+2026-11-08T06:53:04Z,nhnk/p8-rag-membership-results,nhnk,0,0,language:en; region:us; retrieval-augmented-generation; membership-inference; privacy-utility; reproducibility
+2026-11-08T06:53:23Z,Udev-miam/Noisy-le-Grand,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T06:53:47Z,shuren2/robot_20261108_145213,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-08T06:53:52Z,neverlish/record-watermelon-20261108-1,neverlish,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-08T06:53:55Z,asd12dscxzcz12/Annoy-PyEdu-Rs,asd12dscxzcz12,0,0,region:us
+2026-11-08T06:54:25Z,asd12dscxzcz12/Annoy-PyEdu-Rs-Raw,asd12dscxzcz12,0,0,region:us
+2026-11-08T07:00:33Z,Rishitha05479/data266-lab2-part2-generations,Rishitha05479,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; text-to-image; stable-diffusion; lora
+2026-11-08T07:00:34Z,JingwuLuo/pick_and_place_quick_new_curvature,JingwuLuo,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region…
+2026-11-08T07:01:07Z,JingwuLuo/ur3_sim_pick_and_place_cube_curvature,JingwuLuo,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region…
+2026-11-08T07:01:17Z,g1n0st/b8e1a5d1e620d17219564886e78d42bfb733453d,g1n0st,0,0,region:us
+2026-11-08T07:01:45Z,zikaizhao/proprimem-recover-trajectories,zikaizhao,0,0,region:us
+2026-11-08T07:01:55Z,sad1d21/Annoy-PyEdu-Rs,sad1d21,0,0,region:us
+2026-11-08T07:01:56Z,sad1d21/Annoy-PyEdu-Rs-Raw,sad1d21,0,0,region:us
+2026-11-08T07:03:00Z,Zephinue/site-bench-recordings,Zephinue,0,0,region:us
+2026-11-08T07:03:29Z,zero-trust-physics/zero-trust-physics-sample-group-4,zero-trust-physics,0,0,language:en; license:other; library:harbor; region:us; physics; rl-environment; rlvr; harbor; mcp; evaluation; zero-trust-physics
+2026-11-08T07:04:25Z,seriintan/rollout_smolvla_pt_lang3a_seen_frazier_v2_20261108_142956,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-08T07:06:57Z,thanatchon36/beyond99-banknote-detection,thanatchon36,0,0,task_categories:tabular-classification; language:en; language:th; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:p…
+2026-11-08T07:07:01Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-08T07:07:31Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-08T07:07:51Z,GSMS-B/indian-law-bns-bharatiya-nyaya-sanhita-2023,GSMS-B,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; indian-la…
+2026-11-08T07:08:10Z,GSMS-B/indian-law-bnss-bharatiya-nagarik-suraksha-sanhita-2023,GSMS-B,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; indian-la…
+2026-11-08T07:08:19Z,GSMS-B/indian-law-bsa-bharatiya-sakshya-adhiniyam-2023,GSMS-B,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; indian-la…
+2026-11-08T07:08:22Z,Yshh525/rho-ac1-20261108,Yshh525,0,0,region:us
+2026-11-08T07:08:34Z,alanxuliang/cultisync-ca-vineyard-observations,alanxuliang,0,0,region:us
+2026-11-08T07:11:58Z,yendo13595/chromosphere,yendo13595,0,0,region:us
+2026-11-08T07:13:02Z,g1n0st/f43333c93ad708b8f503a4ee3f08335cfed99248,g1n0st,0,0,region:us
+2026-11-08T07:13:15Z,thanatchon36/demonetsim-th,thanatchon36,0,0,task_categories:tabular-regression; language:en; language:th; license:cc-by-4.0; size_categories:1K<n<10K; region:us; demonetization; money-laundering; agent-based-model; approximate-bayesian-computa…
+2026-11-08T07:13:32Z,phuongpham1426/chariot,phuongpham1426,0,0,region:us
+2026-11-08T07:14:17Z,flashmob12/boson-nighttime-extracted,flashmob12,0,0,region:us
+2026-11-08T07:15:37Z,anpham5578/riparian,anpham5578,0,0,region:us
+2026-11-08T07:15:58Z,galaxy1209/VisSearch-Bench-v1,galaxy1209,0,0,task_categories:image-text-to-text; language:en; license:unknown; size_categories:n<1K; arxiv:2611.04894; region:us; benchmark; multimodal; visual-search
+2026-11-08T07:17:02Z,sin333/k120-archive,sin333,0,0,region:us
+2026-11-08T07:17:13Z,g1n0st/d49f492042fbd514ba2d0c11773d55504dbc2f0c,g1n0st,0,0,region:us
+2026-11-08T07:17:48Z,kienvu18136/corona,kienvu18136,0,0,region:us
+2026-11-08T07:17:56Z,liu12123456/Annoy-PyEdu-Rs,liu12123456,0,0,region:us
+2026-11-08T07:17:57Z,liu12123456/Annoy-PyEdu-Rs-Raw,liu12123456,0,0,region:us
+2026-11-08T07:19:39Z,SEACrowd-CoRaL/experiment_result,SEACrowd-CoRaL,0,0,region:us
+2026-11-08T07:19:46Z,phatly37204/orbit,phatly37204,0,0,region:us
