@@ -9,114 +9,197 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 02:19 UTC
+## Latest list — 2026-11-08 03:19 UTC
 
-New datasets created between 2026-11-08 01:20 UTC and 2026-11-08 02:19 UTC.
+New datasets created between 2026-11-08 02:19 UTC and 2026-11-08 03:19 UTC.
 
-[Full CSV](data/new-datasets-2026-11-08T02-19-18-085457Z.csv)
+[Full CSV](data/new-datasets-2026-11-08T03-19-41-101239Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-11-08 01:20:56 | [Udev-miam/Boussy-Saint-Antoine](https://huggingface.co/Udev-miam/Boussy-Saint-Antoine) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:21:09 | [tuando38752/firefly](https://huggingface.co/tuando38752/firefly) | tuando38752 | 0 | 0 | region:us |
-| 2026-11-08 01:23:02 | [Papajams/lexsi-governance](https://huggingface.co/Papajams/lexsi-governance) | Papajams | 0 | 0 | task_categories:text-classification; task_categories:text-g… |
-| 2026-11-08 01:23:14 | [thanhphan36609/condor](https://huggingface.co/thanhphan36609/condor) | thanhphan36609 | 0 | 0 | region:us |
-| 2026-11-08 01:23:47 | [felix2t/backup-05](https://huggingface.co/felix2t/backup-05) | felix2t | 0 | 0 | region:us |
-| 2026-11-08 01:24:31 | [nganpham97748/railcar](https://huggingface.co/nganpham97748/railcar) | nganpham97748 | 0 | 0 | region:us |
-| 2026-11-08 01:24:55 | [Udev-miam/Lardy](https://huggingface.co/Udev-miam/Lardy) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:24:59 | [vveicao/astra-collect-20k](https://huggingface.co/vveicao/astra-collect-20k) | vveicao | 0 | 0 | task_categories:object-detection; task_categories:depth-est… |
-| 2026-11-08 01:25:49 | [trangpham31428/summit](https://huggingface.co/trangpham31428/summit) | trangpham31428 | 0 | 0 | region:us |
-| 2026-11-08 01:25:56 | [Udev-miam/Saclay](https://huggingface.co/Udev-miam/Saclay) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:27:10 | [AICreatorV1/bated](https://huggingface.co/AICreatorV1/bated) | AICreatorV1 | 0 | 0 | size_categories:1K<n<10K; format:imagefolder; modality:imag… |
-| 2026-11-08 01:27:28 | [anhho41531/atoll](https://huggingface.co/anhho41531/atoll) | anhho41531 | 0 | 0 | region:us |
-| 2026-11-08 01:27:29 | [Yoveone/backup-00](https://huggingface.co/Yoveone/backup-00) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:28:29 | [DSA12DSA213/Annoy-PyEdu-Rs](https://huggingface.co/DSA12DSA213/Annoy-PyEdu-Rs) | DSA12DSA213 | 0 | 0 | region:us |
-| 2026-11-08 01:28:29 | [DSA12DSA213/Annoy-PyEdu-Rs-Raw](https://huggingface.co/DSA12DSA213/Annoy-PyEdu-Rs-Raw) | DSA12DSA213 | 0 | 0 | region:us |
-| 2026-11-08 01:28:32 | [safafaf4546/Annoy-PyEdu-Rs](https://huggingface.co/safafaf4546/Annoy-PyEdu-Rs) | safafaf4546 | 0 | 0 | region:us |
-| 2026-11-08 01:28:32 | [Missing-texter/cats-picturedatasets](https://huggingface.co/Missing-texter/cats-picturedatasets) | Missing-texter | 0 | 1 | license:cc0-1.0; size_categories:n<1K; format:imagefolder;… |
-| 2026-11-08 01:28:33 | [safafaf4546/Annoy-PyEdu-Rs-Raw](https://huggingface.co/safafaf4546/Annoy-PyEdu-Rs-Raw) | safafaf4546 | 0 | 0 | region:us |
-| 2026-11-08 01:28:56 | [phuonghuynh68795/plasma](https://huggingface.co/phuonghuynh68795/plasma) | phuonghuynh68795 | 0 | 0 | region:us |
-| 2026-11-08 01:29:12 | [stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g2_run0](https://huggingface.co/stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g2_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-11-08 01:30:33 | [Samonte/108_results](https://huggingface.co/Samonte/108_results) | Samonte | 0 | 0 | region:us |
-| 2026-11-08 01:30:36 | [nganpham26126/orion](https://huggingface.co/nganpham26126/orion) | nganpham26126 | 0 | 0 | region:us |
-| 2026-11-08 01:31:25 | [SOTAagi2030/Cooperative-Firmware-Release-Waves](https://huggingface.co/SOTAagi2030/Cooperative-Firmware-Release-Waves) | SOTAagi2030 | 0 | 0 | task_categories:tabular-classification; license:cc-by-4.0;… |
-| 2026-11-08 01:32:08 | [binhduong85876/trailer](https://huggingface.co/binhduong85876/trailer) | binhduong85876 | 0 | 0 | region:us |
-| 2026-11-08 01:33:55 | [nganly26211/breeze](https://huggingface.co/nganly26211/breeze) | nganly26211 | 0 | 0 | region:us |
-| 2026-11-08 01:34:50 | [Tttthomas/backup-08](https://huggingface.co/Tttthomas/backup-08) | Tttthomas | 0 | 0 | region:us |
-| 2026-11-08 01:34:59 | [Udev-miam/Egly](https://huggingface.co/Udev-miam/Egly) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:35:12 | [Yoveone/backup-07](https://huggingface.co/Yoveone/backup-07) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:35:14 | [anhnguyen36984/propulsion](https://huggingface.co/anhnguyen36984/propulsion) | anhnguyen36984 | 0 | 0 | region:us |
-| 2026-11-08 01:36:00 | [Udev-miam/Maisse](https://huggingface.co/Udev-miam/Maisse) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:36:25 | [Niudundouququ/test_data](https://huggingface.co/Niudundouququ/test_data) | Niudundouququ | 0 | 1 | license:mit; region:us |
-| 2026-11-08 01:36:32 | [Udev-miam/Briis-sous-Forges](https://huggingface.co/Udev-miam/Briis-sous-Forges) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:37:05 | [HAOchiming/real_clinical_cases_of_Famous_Old_TCM_Doctors](https://huggingface.co/HAOchiming/real_clinical_cases_of_Famous_Old_TCM_Doctors) | HAOchiming | 0 | 0 | size_categories:n<1K; format:csv; modality:tabular; modalit… |
-| 2026-11-08 01:38:28 | [SOTAagi2030/Atlas-Runtime-SBOM-Snapshot](https://huggingface.co/SOTAagi2030/Atlas-Runtime-SBOM-Snapshot) | SOTAagi2030 | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-08 01:38:56 | [anbui38203/monorail](https://huggingface.co/anbui38203/monorail) | anbui38203 | 0 | 0 | region:us |
-| 2026-11-08 01:40:06 | [Udev-miam/Saulx-les-Chartreux](https://huggingface.co/Udev-miam/Saulx-les-Chartreux) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:41:08 | [Udev-miam/Cerny](https://huggingface.co/Udev-miam/Cerny) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:42:18 | [sdfsgg5667/Annoy-PyEdu-Rs](https://huggingface.co/sdfsgg5667/Annoy-PyEdu-Rs) | sdfsgg5667 | 0 | 0 | region:us |
-| 2026-11-08 01:42:19 | [sdfsgg5667/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdfsgg5667/Annoy-PyEdu-Rs-Raw) | sdfsgg5667 | 0 | 0 | region:us |
-| 2026-11-08 01:42:31 | [Yoveone/backup-15](https://huggingface.co/Yoveone/backup-15) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:42:45 | [khanhvu60300/walnut](https://huggingface.co/khanhvu60300/walnut) | khanhvu60300 | 0 | 0 | region:us |
-| 2026-11-08 01:44:57 | [Yoveone/backup-47](https://huggingface.co/Yoveone/backup-47) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:45:06 | [Udev-miam/Forges-les-Bains](https://huggingface.co/Udev-miam/Forges-les-Bains) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:46:07 | [Udev-miam/La-Norville](https://huggingface.co/Udev-miam/La-Norville) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:46:19 | [oliveryanzuolu/jarvis-1104fu-val117-20261108T014619Z-48dcfa](https://huggingface.co/oliveryanzuolu/jarvis-1104fu-val117-20261108T014619Z-48dcfa) | oliveryanzuolu | 0 | 0 | region:us |
-| 2026-11-08 01:50:04 | [Yoveone/backup-19](https://huggingface.co/Yoveone/backup-19) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:50:10 | [Udev-miam/Varennes-Jarcy](https://huggingface.co/Udev-miam/Varennes-Jarcy) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:50:36 | [kienngo37088/tulip](https://huggingface.co/kienngo37088/tulip) | kienngo37088 | 0 | 0 | region:us |
-| 2026-11-08 01:50:37 | [Udev-miam/Champcueil](https://huggingface.co/Udev-miam/Champcueil) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:51:12 | [Udev-miam/Saint-Vrain-91](https://huggingface.co/Udev-miam/Saint-Vrain-91) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:51:16 | [nightly-wave/3fb3c9bd](https://huggingface.co/nightly-wave/3fb3c9bd) | nightly-wave | 0 | 0 | region:us |
-| 2026-11-08 01:51:59 | [AICreatorV1/bat](https://huggingface.co/AICreatorV1/bat) | AICreatorV1 | 0 | 0 | size_categories:1K<n<10K; format:imagefolder; modality:imag… |
-| 2026-11-08 01:52:58 | [Yoveone/backup-31](https://huggingface.co/Yoveone/backup-31) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 01:53:00 | [nganho79453/comet](https://huggingface.co/nganho79453/comet) | nganho79453 | 0 | 0 | region:us |
-| 2026-11-08 01:53:30 | [afsdfga/Annoy-PyEdu-Rs](https://huggingface.co/afsdfga/Annoy-PyEdu-Rs) | afsdfga | 0 | 0 | region:us |
-| 2026-11-08 01:53:30 | [afsdfga/Annoy-PyEdu-Rs-Raw](https://huggingface.co/afsdfga/Annoy-PyEdu-Rs-Raw) | afsdfga | 0 | 0 | region:us |
-| 2026-11-08 01:54:18 | [indahl/iris-house-training](https://huggingface.co/indahl/iris-house-training) | indahl | 0 | 0 | license:other; modality:text; region:us; fine-tuning; lora;… |
-| 2026-11-08 01:54:48 | [0xKai/mirador-archive-core0](https://huggingface.co/0xKai/mirador-archive-core0) | 0xKai | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:tabula… |
-| 2026-11-08 01:55:11 | [Udev-miam/Le-Merevillois](https://huggingface.co/Udev-miam/Le-Merevillois) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:55:19 | [stephenokita/subvox-community-test](https://huggingface.co/stephenokita/subvox-community-test) | stephenokita | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-08 01:55:48 | [ASD12EDSA2QWE/Annoy-PyEdu-Rs](https://huggingface.co/ASD12EDSA2QWE/Annoy-PyEdu-Rs) | ASD12EDSA2QWE | 0 | 0 | region:us |
-| 2026-11-08 01:55:49 | [ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw) | ASD12EDSA2QWE | 0 | 0 | region:us |
-| 2026-11-08 01:55:52 | [Tttthomas/backup-07](https://huggingface.co/Tttthomas/backup-07) | Tttthomas | 0 | 0 | region:us |
-| 2026-11-08 01:55:56 | [syuekai/snail-parasitome-ledger](https://huggingface.co/syuekai/snail-parasitome-ledger) | syuekai | 0 | 0 | region:us |
-| 2026-11-08 01:56:11 | [Udev-miam/Morigny-Champigny](https://huggingface.co/Udev-miam/Morigny-Champigny) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:56:56 | [mhseo2/klear8b-planfmt-prompts](https://huggingface.co/mhseo2/klear8b-planfmt-prompts) | mhseo2 | 0 | 0 | region:us |
-| 2026-11-08 01:57:13 | [Udev-miam/Saintry-sur-Seine](https://huggingface.co/Udev-miam/Saintry-sur-Seine) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:58:13 | [Udev-miam/Soisy-sur-Ecole](https://huggingface.co/Udev-miam/Soisy-sur-Ecole) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 01:59:45 | [Udev-miam/Ollainville-91](https://huggingface.co/Udev-miam/Ollainville-91) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 02:02:23 | [HuggingFriends/phyground-seedance-2.5](https://huggingface.co/HuggingFriends/phyground-seedance-2.5) | HuggingFriends | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
-| 2026-11-08 02:04:05 | [Hcccran/tacdata](https://huggingface.co/Hcccran/tacdata) | Hcccran | 0 | 0 | region:us |
-| 2026-11-08 02:04:31 | [cxzsad12e/Annoy-PyEdu-Rs](https://huggingface.co/cxzsad12e/Annoy-PyEdu-Rs) | cxzsad12e | 0 | 0 | region:us |
-| 2026-11-08 02:04:32 | [cxzsad12e/Annoy-PyEdu-Rs-Raw](https://huggingface.co/cxzsad12e/Annoy-PyEdu-Rs-Raw) | cxzsad12e | 0 | 0 | region:us |
-| 2026-11-08 02:04:36 | [SOTAagi2030/Coastal-Spectrum-Clearances](https://huggingface.co/SOTAagi2030/Coastal-Spectrum-Clearances) | SOTAagi2030 | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-08 02:04:46 | [trevdatastreams/qwen-weight-edit-forensics](https://huggingface.co/trevdatastreams/qwen-weight-edit-forensics) | trevdatastreams | 0 | 0 | language:en; license:cc-by-4.0; region:us; model-editing; i… |
-| 2026-11-08 02:05:19 | [Udev-miam/Le-Plessis-Pate](https://huggingface.co/Udev-miam/Le-Plessis-Pate) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 02:05:36 | [mtilyjason/sglang-omni-duplex-runs](https://huggingface.co/mtilyjason/sglang-omni-duplex-runs) | mtilyjason | 0 | 0 | region:us |
-| 2026-11-08 02:05:44 | [momentsai/aeo-fde-wiki](https://huggingface.co/momentsai/aeo-fde-wiki) | momentsai | 0 | 0 | task_categories:text-generation; task_categories:question-a… |
-| 2026-11-08 02:06:17 | [Udev-miam/Fontenay-le-Vicomte](https://huggingface.co/Udev-miam/Fontenay-le-Vicomte) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
-| 2026-11-08 02:06:24 | [toolathlon-eval-09/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-eval-09/Annoy-PyEdu-Rs-Raw) | toolathlon-eval-09 | 0 | 0 | region:us |
-| 2026-11-08 02:06:24 | [toolathlon-eval-09/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-eval-09/Annoy-PyEdu-Rs) | toolathlon-eval-09 | 0 | 0 | region:us |
-| 2026-11-08 02:07:04 | [Yoveone/backup-36](https://huggingface.co/Yoveone/backup-36) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 02:07:19 | [Tttthomas/backup-11](https://huggingface.co/Tttthomas/backup-11) | Tttthomas | 0 | 0 | region:us |
-| 2026-11-08 02:09:39 | [bhanureddychada/thingtrail-bench](https://huggingface.co/bhanureddychada/thingtrail-bench) | bhanureddychada | 0 | 0 | task_categories:video-text-to-text; task_categories:questio… |
-| 2026-11-08 02:09:49 | [AJ-Gonzalez/lfm3-distill-250x](https://huggingface.co/AJ-Gonzalez/lfm3-distill-250x) | AJ-Gonzalez | 0 | 0 | task_categories:text-generation; source_datasets:xtools-at/… |
-| 2026-11-08 02:10:22 | [Udev-miam/Boutigny-sur-Essonne](https://huggingface.co/Udev-miam/Boutigny-sur-Essonne) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:10:48 | [Yoveone/backup-11](https://huggingface.co/Yoveone/backup-11) | Yoveone | 0 | 0 | region:us |
-| 2026-11-08 02:10:48 | [Udev-miam/Chamarande](https://huggingface.co/Udev-miam/Chamarande) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:11:02 | [long1973m/tau2-bench-data](https://huggingface.co/long1973m/tau2-bench-data) | long1973m | 0 | 0 | task_categories:text-generation; language:en; license:mit;… |
-| 2026-11-08 02:12:27 | [Tttthomas/backup-21](https://huggingface.co/Tttthomas/backup-21) | Tttthomas | 0 | 0 | region:us |
-| 2026-11-08 02:13:08 | [0xKai/mirador-archive-core1](https://huggingface.co/0xKai/mirador-archive-core1) | 0xKai | 0 | 0 | region:us |
-| 2026-11-08 02:15:22 | [Udev-miam/Vert-le-Petit](https://huggingface.co/Udev-miam/Vert-le-Petit) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:15:55 | [Tttthomas/backup-10](https://huggingface.co/Tttthomas/backup-10) | Tttthomas | 0 | 0 | region:us |
-| 2026-11-08 02:16:06 | [stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.5_g3_run0](https://huggingface.co/stefanocarrera/kic_D_test-cpp_Qwen3-8B_t1.5_g3_run0) | stefanocarrera | 0 | 0 | region:us |
-| 2026-11-08 02:16:22 | [Udev-miam/Bruyeres-le-Chatel](https://huggingface.co/Udev-miam/Bruyeres-le-Chatel) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:16:53 | [Udev-miam/Leuville-sur-Orge](https://huggingface.co/Udev-miam/Leuville-sur-Orge) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:17:24 | [mnoor/Dp_llm](https://huggingface.co/mnoor/Dp_llm) | mnoor | 0 | 0 | region:us |
-| 2026-11-08 02:17:25 | [Udev-miam/Boissy-le-Cutte](https://huggingface.co/Udev-miam/Boissy-le-Cutte) | Udev-miam | 0 | 0 | region:us |
-| 2026-11-08 02:17:48 | [nurshuv0/NCTB-QA](https://huggingface.co/nurshuv0/NCTB-QA) | nurshuv0 | 0 | 0 | task_categories:question-answering; language:bn; license:cc… |
-| 2026-11-08 02:18:23 | [Udev-miam/Boissy-sous-Saint-Yon](https://huggingface.co/Udev-miam/Boissy-sous-Saint-Yon) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:19:24 | [Udev-miam/Corbreuse](https://huggingface.co/Udev-miam/Corbreuse) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:19:57 | [Udev-miam/Champlan](https://huggingface.co/Udev-miam/Champlan) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:22:06 | [AbstractPhil/thought-symbolic-image-recaptioned](https://huggingface.co/AbstractPhil/thought-symbolic-image-recaptioned) | AbstractPhil | 0 | 0 | region:us |
+| 2026-11-08 02:22:21 | [toolathlon-eval-07/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-eval-07/Annoy-PyEdu-Rs-Raw) | toolathlon-eval-07 | 0 | 0 | region:us |
+| 2026-11-08 02:22:21 | [toolathlon-eval-07/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-eval-07/Annoy-PyEdu-Rs) | toolathlon-eval-07 | 0 | 0 | region:us |
+| 2026-11-08 02:23:06 | [mohsin2026/data-shard-03](https://huggingface.co/mohsin2026/data-shard-03) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:06 | [mohsin2026/data-shard-02](https://huggingface.co/mohsin2026/data-shard-02) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:07 | [mohsin2026/data-shard-05](https://huggingface.co/mohsin2026/data-shard-05) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:07 | [mohsin2026/data-shard-06](https://huggingface.co/mohsin2026/data-shard-06) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:07 | [mohsin2026/data-shard-04](https://huggingface.co/mohsin2026/data-shard-04) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:08 | [mohsin2026/data-shard-07](https://huggingface.co/mohsin2026/data-shard-07) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:08 | [mohsin2026/data-shard-08](https://huggingface.co/mohsin2026/data-shard-08) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:09 | [mohsin2026/data-shard-09](https://huggingface.co/mohsin2026/data-shard-09) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:23:09 | [mohsin2026/data-shard-10](https://huggingface.co/mohsin2026/data-shard-10) | mohsin2026 | 0 | 0 | region:us |
+| 2026-11-08 02:25:28 | [Udev-miam/Le-Val-Saint-Germain](https://huggingface.co/Udev-miam/Le-Val-Saint-Germain) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:26:28 | [Udev-miam/Marolles-en-Hurepoix](https://huggingface.co/Udev-miam/Marolles-en-Hurepoix) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:27:29 | [Udev-miam/Villiers-le-Bacle](https://huggingface.co/Udev-miam/Villiers-le-Bacle) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:28:00 | [Udev-miam/Villiers-sur-Orge](https://huggingface.co/Udev-miam/Villiers-sur-Orge) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:28:27 | [Yoveone/backup-34](https://huggingface.co/Yoveone/backup-34) | Yoveone | 0 | 0 | region:us |
+| 2026-11-08 02:28:47 | [Jas-preet/SPOT-datasets](https://huggingface.co/Jas-preet/SPOT-datasets) | Jas-preet | 0 | 0 | task_categories:token-classification; language:en; license:… |
+| 2026-11-08 02:28:52 | [Tttthomas/backup-06](https://huggingface.co/Tttthomas/backup-06) | Tttthomas | 0 | 0 | region:us |
+| 2026-11-08 02:28:57 | [Udev-miam/Breux-Jouy](https://huggingface.co/Udev-miam/Breux-Jouy) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:29:32 | [Udev-miam/Cheptainville](https://huggingface.co/Udev-miam/Cheptainville) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:30:31 | [Udev-miam/Gometz-le-Chatel](https://huggingface.co/Udev-miam/Gometz-le-Chatel) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:31:00 | [Udev-miam/Chevannes-91](https://huggingface.co/Udev-miam/Chevannes-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:31:36 | [Udev-miam/La-Foret-le-Roi](https://huggingface.co/Udev-miam/La-Foret-le-Roi) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:32:30 | [Udev-miam/Le-Coudray-Montceaux](https://huggingface.co/Udev-miam/Le-Coudray-Montceaux) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:33:00 | [Udev-miam/Nozay-91](https://huggingface.co/Udev-miam/Nozay-91) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:33:16 | [Tttthomas/backup-18](https://huggingface.co/Tttthomas/backup-18) | Tttthomas | 0 | 0 | region:us |
+| 2026-11-08 02:33:31 | [Udev-miam/Roinville-91](https://huggingface.co/Udev-miam/Roinville-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:35:32 | [Udev-miam/Gometz-la-Ville](https://huggingface.co/Udev-miam/Gometz-la-Ville) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:document… |
+| 2026-11-08 02:36:03 | [Udev-miam/Baulne](https://huggingface.co/Udev-miam/Baulne) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:36:56 | [JWei05/DeepScaleR-Easy-Medium-Hard-Qwen3-30B-A3B-Base-10k-v2](https://huggingface.co/JWei05/DeepScaleR-Easy-Medium-Hard-Qwen3-30B-A3B-Base-10k-v2) | JWei05 | 0 | 0 | task_categories:text-generation; language:en; license:mit;… |
+| 2026-11-08 02:37:35 | [qixunxiehuangbao/soarm](https://huggingface.co/qixunxiehuangbao/soarm) | qixunxiehuangbao | 0 | 0 | size_categories:10K<n<100K; format:parquet; modality:tabula… |
+| 2026-11-08 02:37:51 | [Kannaka/calls-and-settlements](https://huggingface.co/Kannaka/calls-and-settlements) | Kannaka | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; forma… |
+| 2026-11-08 02:38:10 | [Tttthomas/backup-13](https://huggingface.co/Tttthomas/backup-13) | Tttthomas | 0 | 0 | region:us |
+| 2026-11-08 02:40:26 | [Phuderoso/the-wired-is-a-file](https://huggingface.co/Phuderoso/the-wired-is-a-file) | Phuderoso | 0 | 0 | license:cc0-1.0; size_categories:n<1K; format:json; modalit… |
+| 2026-11-08 02:41:05 | [Udev-miam/Saclas](https://huggingface.co/Udev-miam/Saclas) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:41:41 | [Udev-miam/Vauhallan](https://huggingface.co/Udev-miam/Vauhallan) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:42:35 | [Udev-miam/Dannemois](https://huggingface.co/Udev-miam/Dannemois) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:43:06 | [Udev-miam/Fontenay-les-Briis](https://huggingface.co/Udev-miam/Fontenay-les-Briis) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:43:21 | [ngandang84601/trench](https://huggingface.co/ngandang84601/trench) | ngandang84601 | 0 | 0 | region:us |
+| 2026-11-08 02:43:37 | [Udev-miam/Janville-sur-Juine](https://huggingface.co/Udev-miam/Janville-sur-Juine) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:44:07 | [Udev-miam/Moigny-sur-Ecole](https://huggingface.co/Udev-miam/Moigny-sur-Ecole) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:44:41 | [Udev-miam/Pussay](https://huggingface.co/Udev-miam/Pussay) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:45:37 | [Udev-miam/Guillerval](https://huggingface.co/Udev-miam/Guillerval) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:46:38 | [Udev-miam/Les-Molieres](https://huggingface.co/Udev-miam/Les-Molieres) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:46:56 | [Phuderoso/hope-we-leave](https://huggingface.co/Phuderoso/hope-we-leave) | Phuderoso | 0 | 0 | license:cc0-1.0; size_categories:n<1K; format:json; modalit… |
+| 2026-11-08 02:47:08 | [Udev-miam/Mondeville-91](https://huggingface.co/Udev-miam/Mondeville-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:47:39 | [Udev-miam/Oncy-sur-Ecole](https://huggingface.co/Udev-miam/Oncy-sur-Ecole) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:47:54 | [padiredd/open_bottle_topdown_replay_v2](https://huggingface.co/padiredd/open_bottle_topdown_replay_v2) | padiredd | 0 | 0 | region:us; robotis; cyclo_intelligence; robotics; isaac-lab… |
+| 2026-11-08 02:48:09 | [Udev-miam/Ormoy-la-Riviere](https://huggingface.co/Udev-miam/Ormoy-la-Riviere) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:48:39 | [Udev-miam/Saint-Aubin-91](https://huggingface.co/Udev-miam/Saint-Aubin-91) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:49:09 | [Udev-miam/Vert-le-Grand](https://huggingface.co/Udev-miam/Vert-le-Grand) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:document… |
+| 2026-11-08 02:49:46 | [JINGI0138/fold-glasses-v3-evaluation-results](https://huggingface.co/JINGI0138/fold-glasses-v3-evaluation-results) | JINGI0138 | 0 | 0 | region:us; robotics; tactile; evaluation |
+| 2026-11-08 02:49:49 | [JINGI0138/fold-glasses-v3-evaluation-w10-20261108](https://huggingface.co/JINGI0138/fold-glasses-v3-evaluation-w10-20261108) | JINGI0138 | 0 | 0 | region:us; robotics; lerobot; tactile |
+| 2026-11-08 02:50:42 | [Udev-miam/Saint-Cyr-sous-Dourdan](https://huggingface.co/Udev-miam/Saint-Cyr-sous-Dourdan) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:51:10 | [Udev-miam/Auvernaux](https://huggingface.co/Udev-miam/Auvernaux) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:51:44 | [Udev-miam/Auvers-Saint-Georges](https://huggingface.co/Udev-miam/Auvers-Saint-Georges) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:52:09 | [Udev-miam/Boigneville](https://huggingface.co/Udev-miam/Boigneville) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:52:40 | [Udev-miam/Boissy-le-Sec](https://huggingface.co/Udev-miam/Boissy-le-Sec) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:53:10 | [Udev-miam/Boullay-les-Troux](https://huggingface.co/Udev-miam/Boullay-les-Troux) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:53:26 | [Yoveone/backup-20](https://huggingface.co/Yoveone/backup-20) | Yoveone | 0 | 0 | region:us |
+| 2026-11-08 02:53:45 | [Udev-miam/Bouville-91](https://huggingface.co/Udev-miam/Bouville-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:54:10 | [Udev-miam/D-Huison-Longueville](https://huggingface.co/Udev-miam/D-Huison-Longueville) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:54:53 | [elielsilva/smol-smoltalk](https://huggingface.co/elielsilva/smol-smoltalk) | elielsilva | 0 | 0 | language:en; license:apache-2.0; size_categories:100K<n<1M;… |
+| 2026-11-08 02:55:41 | [Udev-miam/Courances](https://huggingface.co/Udev-miam/Courances) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:56:13 | [Udev-miam/Saint-Hilaire-91](https://huggingface.co/Udev-miam/Saint-Hilaire-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:56:43 | [Udev-miam/Angervilliers](https://huggingface.co/Udev-miam/Angervilliers) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:56:45 | [Yoveone/backup-04](https://huggingface.co/Yoveone/backup-04) | Yoveone | 0 | 0 | region:us |
+| 2026-11-08 02:56:51 | [SUGXYZ/VFS75000Win](https://huggingface.co/SUGXYZ/VFS75000Win) | SUGXYZ | 0 | 0 | region:us |
+| 2026-11-08 02:57:15 | [Udev-miam/Boissy-la-Riviere](https://huggingface.co/Udev-miam/Boissy-la-Riviere) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:57:39 | [SUGXYZ/VFS75000Mac](https://huggingface.co/SUGXYZ/VFS75000Mac) | SUGXYZ | 0 | 0 | region:us |
+| 2026-11-08 02:57:43 | [Udev-miam/Champmotteux](https://huggingface.co/Udev-miam/Champmotteux) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 02:57:56 | [Jessiter/Prostar-climate-experiment1](https://huggingface.co/Jessiter/Prostar-climate-experiment1) | Jessiter | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 02:58:28 | [SOTAagi2030/Northstar-Recall-Trace-321](https://huggingface.co/SOTAagi2030/Northstar-Recall-Trace-321) | SOTAagi2030 | 0 | 0 | license:cc-by-4.0; region:us |
+| 2026-11-08 03:00:47 | [Udev-miam/Janvry-91](https://huggingface.co/Udev-miam/Janvry-91) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:01:01 | [UTN-AIR/screw-tactic_screw_pi05_cnn_prefix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_cnn_prefix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:05 | [UTN-AIR/screw-tactic_screw_pi05_cnn_prefix_nopool_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_cnn_prefix_nopool_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:08 | [UTN-AIR/screw-tactic_screw_pi05_cnn_suffix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_cnn_suffix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:12 | [UTN-AIR/screw-tactic_screw_pi05_rgb_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_rgb_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:15 | [Udev-miam/Pecqueuse](https://huggingface.co/Udev-miam/Pecqueuse) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:01:22 | [drkvcsstvn/smearshare_cumulative_distribution_lims_fast](https://huggingface.co/drkvcsstvn/smearshare_cumulative_distribution_lims_fast) | drkvcsstvn | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-11-08 03:01:23 | [drkvcsstvn/smearshare_monthly_cumulative_lims_fast](https://huggingface.co/drkvcsstvn/smearshare_monthly_cumulative_lims_fast) | drkvcsstvn | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-11-08 03:01:30 | [UTN-AIR/screw-tactic_screw_pi05_sparsh_prefix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_sparsh_prefix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:33 | [UTN-AIR/screw-tactic_screw_pi05_sparsh_prefix_nopool_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_sparsh_prefix_nopool_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:01:50 | [Udev-miam/Saint-Maurice-Montcouronne](https://huggingface.co/Udev-miam/Saint-Maurice-Montcouronne) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:01:54 | [UTN-AIR/screw-tactic_screw_pi05_sparsh_suffix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_sparsh_suffix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:12 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:15 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix64_nopool_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix64_nopool_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:35 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_1n_BG](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_1n_BG) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:38 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_1n_BLANK](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_1n_BLANK) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:41 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_fact_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_fact_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:44 | [Udev-miam/Valpuiseaux](https://huggingface.co/Udev-miam/Valpuiseaux) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:02:45 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_film_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_film_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:02:54 | [Yoveone/backup-38](https://huggingface.co/Yoveone/backup-38) | Yoveone | 0 | 0 | region:us |
+| 2026-11-08 03:03:16 | [Udev-miam/Videlles](https://huggingface.co/Udev-miam/Videlles) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:03:16 | [frankied2/backup-22](https://huggingface.co/frankied2/backup-22) | frankied2 | 0 | 0 | region:us |
+| 2026-11-08 03:03:18 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_foretac_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_foretac_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:03:21 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_gda_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_gda_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:03:24 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_moe_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_moe_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:03:43 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_thist4_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_thist4_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:03:45 | [Udev-miam/Etiolles](https://huggingface.co/Udev-miam/Etiolles) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:04:03 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tlong_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tlong_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:04:16 | [Udev-miam/Authon-la-Plaine](https://huggingface.co/Udev-miam/Authon-la-Plaine) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:04:22 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tlong_mamba_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tlong_mamba_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:04:51 | [Udev-miam/Leudeville](https://huggingface.co/Udev-miam/Leudeville) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:05:11 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_touchpred_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_touchpred_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:05:16 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_touchreg_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_touchreg_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:05:21 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tvhist4_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_tvhist4_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:05:40 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_vhist4_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_vhist4_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:05:45 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_visualwm_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_visualwm_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:05:47 | [Udev-miam/Boutervilliers](https://huggingface.co/Udev-miam/Boutervilliers) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:06:03 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_xattn_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_nopool_xattn_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:06:18 | [Udev-miam/Courson-Monteloup](https://huggingface.co/Udev-miam/Courson-Monteloup) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:06:20 | [stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g3_run0](https://huggingface.co/stefanocarrera/kic_D_train-cpp_Qwen3-8B_t1.5_g3_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
+| 2026-11-08 03:06:22 | [UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_suffix64_1n](https://huggingface.co/UTN-AIR/screw-tactic_screw_pi05_tactile_prefix_suffix64_1n) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:06:41 | [UTN-AIR/screw-tactic_screw_prefix_t3_nopool_foretac_w02](https://huggingface.co/UTN-AIR/screw-tactic_screw_prefix_t3_nopool_foretac_w02) | UTN-AIR | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-08 03:06:48 | [Udev-miam/Guibeville](https://huggingface.co/Udev-miam/Guibeville) | Udev-miam | 0 | 0 | size_categories:n<1K; format:imagefolder; modality:image; l… |
+| 2026-11-08 03:07:00 | [UTN-AIR/screw-tactic_screw_prefix_t3_nopool_touchpred_w0002](https://huggingface.co/UTN-AIR/screw-tactic_screw_prefix_t3_nopool_touchpred_w0002) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:19 | [Udev-miam/Prunay-sur-Essonne](https://huggingface.co/Udev-miam/Prunay-sur-Essonne) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:07:19 | [UTN-AIR/screw-tactic_screw_prefix_t3_nopool_touchreg_w01](https://huggingface.co/UTN-AIR/screw-tactic_screw_prefix_t3_nopool_touchreg_w01) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:23 | [UTN-AIR/screw-tactic_screw_prefix_t3_nopool_visualwm_w0003](https://huggingface.co/UTN-AIR/screw-tactic_screw_prefix_t3_nopool_visualwm_w0003) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:30 | [UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t2_finetuned](https://huggingface.co/UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t2_finetuned) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:35 | [UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t2_frozen](https://huggingface.co/UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t2_frozen) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:40 | [UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t5_finetuned](https://huggingface.co/UTN-AIR/screw-tactic_screw_sparsh_nopool_bgsub_t5_finetuned) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:44 | [UTN-AIR/screw-tactic_screw_t3_nopool_adarms](https://huggingface.co/UTN-AIR/screw-tactic_screw_t3_nopool_adarms) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:49 | [Udev-miam/Saint-Escobille](https://huggingface.co/Udev-miam/Saint-Escobille) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:07:50 | [UTN-AIR/screw-tactic_screw_t3_nopool_mask](https://huggingface.co/UTN-AIR/screw-tactic_screw_t3_nopool_mask) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:07:55 | [UTN-AIR/screw-tactic_screw_t3_nopool_own_block_prefix](https://huggingface.co/UTN-AIR/screw-tactic_screw_t3_nopool_own_block_prefix) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:08:00 | [UTN-AIR/screw-tactic_screw_t3_nopool_own_block_suffix](https://huggingface.co/UTN-AIR/screw-tactic_screw_t3_nopool_own_block_suffix) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:08:06 | [UTN-AIR/screw-tactic_screw_t3_nopool_stopgrad](https://huggingface.co/UTN-AIR/screw-tactic_screw_t3_nopool_stopgrad) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:08:19 | [Udev-miam/Saint-Jean-de-Beauregard](https://huggingface.co/Udev-miam/Saint-Jean-de-Beauregard) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:08:55 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix64_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix64_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:09:15 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix64_1n_temp](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix64_1n_temp) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:09:15 | [chomeed/maniskill3_lift_peg_upright_224x224_robotstate9](https://huggingface.co/chomeed/maniskill3_lift_peg_upright_224x224_robotstate9) | chomeed | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-11-08 03:09:17 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_adarms_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_adarms_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:09:31 | [Tttthomas/backup-09](https://huggingface.co/Tttthomas/backup-09) | Tttthomas | 0 | 0 | region:us |
+| 2026-11-08 03:09:41 | [chomeed/maniskill3_peg_insertion_side_224x224_robotstate9](https://huggingface.co/chomeed/maniskill3_peg_insertion_side_224x224_robotstate9) | chomeed | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
+| 2026-11-08 03:09:55 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_fact_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_fact_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:10:03 | [chomeed/robotwin2_open_laptop_224x224](https://huggingface.co/chomeed/robotwin2_open_laptop_224x224) | chomeed | 0 | 0 | task_categories:robotics; license:mit; region:us; LeRobot;… |
+| 2026-11-08 03:10:21 | [chomeed/robotwin2_open_laptop_randomized500_224x224](https://huggingface.co/chomeed/robotwin2_open_laptop_randomized500_224x224) | chomeed | 0 | 0 | task_categories:robotics; license:mit; region:us; LeRobot;… |
+| 2026-11-08 03:10:32 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_gda_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_gda_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:10:40 | [chomeed/robotwin2_handover_mic_224x224](https://huggingface.co/chomeed/robotwin2_handover_mic_224x224) | chomeed | 0 | 0 | task_categories:robotics; license:mit; region:us; LeRobot;… |
+| 2026-11-08 03:10:42 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_moe_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_moe_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:10:53 | [Udev-miam/Morsang-sur-Seine](https://huggingface.co/Udev-miam/Morsang-sur-Seine) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:10:58 | [chomeed/robotwin2_handover_mic_randomized500_224x224](https://huggingface.co/chomeed/robotwin2_handover_mic_randomized500_224x224) | chomeed | 0 | 0 | task_categories:robotics; license:mit; region:us; LeRobot;… |
+| 2026-11-08 03:11:04 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_thist4_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_thist4_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:11:21 | [Udev-miam/Saint-Sulpice-de-Favieres](https://huggingface.co/Udev-miam/Saint-Sulpice-de-Favieres) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:11:23 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_touchpred_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_touchpred_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:11:30 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_tvhist4_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_tvhist4_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:11:38 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_vhist4_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_nopool_vhist4_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:11:56 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_64tok_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_64tok_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:11:56 | [Udev-miam/Sermaise-91](https://huggingface.co/Udev-miam/Sermaise-91) | Udev-miam | 0 | 0 | region:us |
+| 2026-11-08 03:12:01 | [sdfsgg5667/Annoy-PyEdu-Rs](https://huggingface.co/sdfsgg5667/Annoy-PyEdu-Rs) | sdfsgg5667 | 0 | 0 | region:us |
+| 2026-11-08 03:12:02 | [sdfsgg5667/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sdfsgg5667/Annoy-PyEdu-Rs-Raw) | sdfsgg5667 | 0 | 0 | region:us |
+| 2026-11-08 03:12:04 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_cross_attn_frozen_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_cross_attn_frozen_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:12:25 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:12:44 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:13:07 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_bgsub_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_bgsub_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:13:26 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_bgsub_gap5_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_prefix_sparsh_nopool_frozen_bgsub_gap5_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:13:46 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_suffix_cnn_64tok_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_suffix_cnn_64tok_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:13:54 | [UTN-AIR/usb-tactic_usbc_pi05_tactile_suffix_sparsh_64tok_1n](https://huggingface.co/UTN-AIR/usb-tactic_usbc_pi05_tactile_suffix_sparsh_64tok_1n) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:14:02 | [UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_foretac_w02](https://huggingface.co/UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_foretac_w02) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:14:16 | [UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_foretac_w02_temp](https://huggingface.co/UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_foretac_w02_temp) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:14:18 | [UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_touchpred_w0002](https://huggingface.co/UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_touchpred_w0002) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:14:25 | [UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_touchreg_w01](https://huggingface.co/UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_touchreg_w01) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:14:33 | [SOTAagi2030/Civic-Permit-Release-314](https://huggingface.co/SOTAagi2030/Civic-Permit-Release-314) | SOTAagi2030 | 0 | 0 | license:cc-by-4.0; region:us |
+| 2026-11-08 03:15:03 | [UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_visualwm_w0003](https://huggingface.co/UTN-AIR/usb-tactic_usbc_prefix_t3_nopool_visualwm_w0003) | UTN-AIR | 0 | 0 | region:us |
+| 2026-11-08 03:15:51 | [CodeNinjatools/port-equipment-berth-ontology-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/port-equipment-berth-ontology-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | region:us |
+| 2026-11-08 03:16:15 | [ASD121SAD/Annoy-PyEdu-Rs](https://huggingface.co/ASD121SAD/Annoy-PyEdu-Rs) | ASD121SAD | 0 | 0 | region:us |
+| 2026-11-08 03:16:15 | [ASD121SAD/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASD121SAD/Annoy-PyEdu-Rs-Raw) | ASD121SAD | 0 | 0 | region:us |
+| 2026-11-08 03:16:26 | [CodeNinjatools/cold-chain-ontology-us-ontology](https://huggingface.co/CodeNinjatools/cold-chain-ontology-us-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:16:31 | [CodeNinjatools/cement-kiln-control-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/cement-kiln-control-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:16:35 | [CodeNinjatools/passenger-rail-fleet-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/passenger-rail-fleet-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:17:10 | [CodeNinjatools/freight-corridor-customs-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/freight-corridor-customs-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:17:30 | [CodeNinjatools/distribution-loss-theft-pakistan-ontology](https://huggingface.co/CodeNinjatools/distribution-loss-theft-pakistan-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:17:52 | [CodeNinjatools/composite-part-inspection-mro-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/composite-part-inspection-mro-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:18:13 | [CodeNinjatools/ot-vulnerability-utility-us-ontology](https://huggingface.co/CodeNinjatools/ot-vulnerability-utility-us-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:18:33 | [CodeNinjatools/tailings-monitoring-us-ontology](https://huggingface.co/CodeNinjatools/tailings-monitoring-us-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:18:54 | [CodeNinjatools/engine-mro-shop-us-ontology](https://huggingface.co/CodeNinjatools/engine-mro-shop-us-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:19:19 | [CodeNinjatools/fertilizer-plant-reliability-pakistan-ontology](https://huggingface.co/CodeNinjatools/fertilizer-plant-reliability-pakistan-ontology) | CodeNinjatools | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
+| 2026-11-08 03:19:40 | [CodeNinjatools/mobile-robot-fulfilment-centre-saudi-arabia-ontology](https://huggingface.co/CodeNinjatools/mobile-robot-fulfilment-centre-saudi-arabia-ontology) | CodeNinjatools | 0 | 0 | region:us |
 
 ## Data source
 
