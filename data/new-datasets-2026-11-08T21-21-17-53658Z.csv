@@ -1,0 +1,78 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-08T20:21:07Z,g1n0st/97475a8bffe467dd80348cec5ad2ba626f675643,g1n0st,0,0,region:us
+2026-11-08T20:21:28Z,dabsLabs/harness-adapter-corpus,dabsLabs,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-08T20:22:16Z,oliveryanzuolu/jarvis-1104jb-kef-val160-20261108T202216Z-fd3eb4,oliveryanzuolu,0,0,region:us
+2026-11-08T20:22:50Z,justicedao/ipfs_christmasisland_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-11-08T20:23:25Z,KeremTT/beton-catlagi,KeremTT,0,0,task_categories:image-classification; license:cc-by-4.0; region:us; beton; çatlak; yapı denetimi
+2026-11-08T20:23:25Z,KeremTT/baret-tespiti,KeremTT,0,0,task_categories:object-detection; license:cc0-1.0; region:us; iş güvenliği; baret; yolo
+2026-11-08T20:24:09Z,dax2852/simready-assets,dax2852,0,0,license:cc-by-4.0; region:us
+2026-11-08T20:26:29Z,justicedao/ipfs_cocoskeelingislands_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-11-08T20:27:43Z,LINUAN/fold_towels_recap_corpus_v2,LINUAN,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-08T20:28:58Z,justicedao/ipfs_northernmarianaislands_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-11-08T20:29:49Z,dabsLabs/style-guide,dabsLabs,0,0,region:us
+2026-11-08T20:30:13Z,justicedao/ipfs_saintbarthelemy_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:31:22Z,justicedao/ipfs_virginislandsus_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-11-08T20:31:57Z,PiotrSty/english-technical-800m,PiotrSty,0,0,language:en; license:other; region:us
+2026-11-08T20:32:30Z,justicedao/ipfs_saintmartin_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:33:47Z,justicedao/ipfs_guadeloupe_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:34:29Z,HappyHappyHye/stresstest-wordvoice-prosody-pilot,HappyHappyHye,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; audio; prosody; sentence-stress; synthetic
+2026-11-08T20:34:43Z,TUaxhuiax/hgft2150-q0tvnh-kestrel-megacode-corpus,TUaxhuiax,0,0,language:en; language:multilingual; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dataset; code-co…
+2026-11-08T20:35:00Z,TUaxhuiax/hgft2150-q0tvnh-kestrel-edu-mix,TUaxhuiax,0,0,language:en; license:apache-2.0; region:us; dataset; educational; code
+2026-11-08T20:35:01Z,TUaxhuiax/hgft2150-q0tvnh-meridian-reason-code-raw,TUaxhuiax,0,0,language:en; license:mit; region:us; dataset; reasoning; code
+2026-11-08T20:35:19Z,TUaxhuiax/hgft2150-q0tvnh-kestrel-edu-mix-mirror,TUaxhuiax,0,0,region:us
+2026-11-08T20:35:23Z,justicedao/ipfs_martinique_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:35:24Z,Udev-miam/Montfermeil,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T20:35:33Z,TUaxhuiax/hgft2150-q0tvnh-kestrel-megacode-mirror,TUaxhuiax,0,0,region:us
+2026-11-08T20:37:02Z,justicedao/ipfs_reunion_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:38:15Z,justicedao/ipfs_frenchguiana_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:40:12Z,btraven/omni-scfm-data,btraven,0,0,region:us; single-cell; perturbation; perturb-seq
+2026-11-08T20:40:35Z,oliveryanzuolu/jarvis-1104iy-kef-val160-20261108T204035Z-ad0b8e,oliveryanzuolu,0,0,region:us
+2026-11-08T20:40:53Z,ASD21DWSA/Annoy-PyEdu-Rs,ASD21DWSA,0,0,region:us
+2026-11-08T20:40:54Z,ASD21DWSA/Annoy-PyEdu-Rs-Raw,ASD21DWSA,0,0,region:us
+2026-11-08T20:41:11Z,justicedao/ipfs_svalbardandjanmayen_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:nb; language:nn; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; li…
+2026-11-08T20:42:06Z,SOTAagi2030/transit-telemetry-snapshots,SOTAagi2030,0,0,region:us; urban-mobility
+2026-11-08T20:42:09Z,SOTAagi2030/transit-license-terms,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; licensing
+2026-11-08T20:42:38Z,DollasAndSpence/Qwen-Image-2.1-Turbo-Uncensored-GGUF-metrics,DollasAndSpence,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T20:42:55Z,justicedao/ipfs_saintpierreandmiquelon_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-08T20:43:15Z,g1n0st/62e35c317a80bb53bebc022832305dd111c30dfe,g1n0st,0,0,region:us
+2026-11-08T20:43:56Z,oliveryanzuolu/jarvis-1104jc-kef-val160-20261108T204356Z-df901c,oliveryanzuolu,0,0,region:us
+2026-11-08T20:43:59Z,earino/factory-ucmr5-first-sample-pfas,earino,0,0,task_categories:tabular-classification; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-08T20:44:58Z,wckwan/WebShop-Qwen3-8B-GiGPO-SEED-eval,wckwan,0,0,region:us
+2026-11-08T20:45:26Z,justicedao/ipfs_mayotte_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:fr; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-11-08T20:46:14Z,g1n0st/b825ddb993e42d46dc910bdfd47e31977858fc18,g1n0st,0,0,region:us
+2026-11-08T20:48:40Z,SOTAagi2030/tidelight-capture-register,SOTAagi2030,0,0,region:us
+2026-11-08T20:48:43Z,SOTAagi2030/tidelight-grant-rules,SOTAagi2030,0,0,region:us
+2026-11-08T20:48:44Z,g1n0st/5828943ed4580296c91622ab756761a1c0b0ea6a,g1n0st,0,0,region:us
+2026-11-08T20:51:15Z,justicedao/ipfs_bonairesinteustatiusandsaba_laws_ir,justicedao,0,0,task_categories:text-retrieval; language:nl; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-11-08T20:51:17Z,JackHsieh/4B-gpnph.k-8.peS2o-humanities-iid.qwen3-ids,JackHsieh,0,0,region:us
+2026-11-08T20:51:18Z,JackHsieh/4B-gpnph.k-8.peS2o-humanities-iid.qwen3-ids.kv-tags-thought,JackHsieh,0,0,region:us
+2026-11-08T20:51:52Z,oliveryanzuolu/jarvis-1104ix-step190-20261108T205152Z-94c19e,oliveryanzuolu,0,0,region:us
+2026-11-08T20:52:52Z,oliveryanzuolu/jarvis-1104iz-step190-20261108T205252Z-ae3af7,oliveryanzuolu,0,0,region:us
+2026-11-08T20:55:27Z,Anyone5559/telegram-giveaway-bots-ru,Anyone5559,0,0,task_categories:question-answering; language:ru; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-11-08T20:55:29Z,layman76/cosmos-robust-pick-and-place,layman76,0,0,license:other; region:us; robotics; imitation-learning; isaac-lab; isaac-sim; cosmos-transfer1; domain-randomization; franka
+2026-11-08T20:56:09Z,miladmadad/Once_mini,miladmadad,0,0,license:mit; region:us
+2026-11-08T20:56:39Z,stefanocarrera/kic_D_test-javascript_Qwen3-8B_t0.5_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T20:59:08Z,g1n0st/8d4120188bb6e202143c74b24cd506dc77b16e14,g1n0st,0,0,region:us
+2026-11-08T20:59:49Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-08T20:59:50Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-08T21:00:09Z,Udev-miam/Le-Pre-Saint-Gervais,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-08T21:06:04Z,abr00kx/crystalcafe-archive,abr00kx,0,0,task_categories:text-classification; task_categories:text-generation; task_categories:feature-extraction; annotations_creators:no-annotation; language_creators:crowdsourced; multilinguality:monolingu…
+2026-11-08T21:06:52Z,g1n0st/7024cfb3bda57ae5a52c31702809ac386c4551e9,g1n0st,0,0,region:us
+2026-11-08T21:07:59Z,toolathlon-eval-15/Annoy-PyEdu-Rs-Raw,toolathlon-eval-15,0,0,region:us
+2026-11-08T21:07:59Z,toolathlon-eval-15/Annoy-PyEdu-Rs,toolathlon-eval-15,0,0,region:us
+2026-11-08T21:09:03Z,juiceb0xc0de/twil-8b-cgs-atlas,juiceb0xc0de,0,0,task_categories:feature-extraction; language:en; size_categories:1M<n<10M; region:us; mechanistic-interpretability; interpretability; activation-atlas; census; feature-extraction; atlas; cgs-atlas; d…
+2026-11-08T21:10:56Z,albus-xiao-03/significance-distilled,albus-xiao-03,0,0,region:us
+2026-11-08T21:11:53Z,dsixteen/Niji_1_Women-control-captions,dsixteen,0,0,region:us
+2026-11-08T21:13:12Z,AUGERAUD/sanzo-wada-dictionary,AUGERAUD,0,0,language:en; language:fr; license:mit; size_categories:n<1K; region:us
+2026-11-08T21:14:33Z,Saliou-Ndim/waxal-laf-cache,Saliou-Ndim,0,0,source_datasets:google/WaxalNLP; language:ach; language:aka; language:amh; language:dag; language:dga; language:ewe; language:ful; language:kpo; language:lin; language:lug; language:mas; language:mlg…
+2026-11-08T21:15:15Z,pangwei/wilds-waterbirds,pangwei,0,0,license:other; arxiv:2012.07421; arxiv:2112.05090; region:us; wilds; distribution-shift
+2026-11-08T21:15:33Z,TUaxhuiax/ttraj-flatmap-export-2394-t4z9,TUaxhuiax,0,0,region:us
+2026-11-08T21:15:55Z,TUaxhuiax/ttraj-schema-export-2394-t4z9,TUaxhuiax,0,0,region:us
+2026-11-08T21:15:57Z,TUaxhuiax/atlas-toolcall-canon-ref-2394-t4z9,TUaxhuiax,0,0,region:us
+2026-11-08T21:16:06Z,TUaxhuiax/canon-delivery-2394-t4z9,TUaxhuiax,0,0,region:us
+2026-11-08T21:16:46Z,pangwei/wilds-celeba,pangwei,0,0,license:other; arxiv:2012.07421; arxiv:2112.05090; region:us; wilds; distribution-shift
+2026-11-08T21:16:52Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-11-08T21:16:54Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-11-08T21:19:25Z,TUaxhuiax/ttraj-console-export-2394-t4z9,TUaxhuiax,0,0,region:us
+2026-11-08T21:20:23Z,oliveryanzuolu/jarvis-1104je-kef-val160-20261108T212023Z-49e331,oliveryanzuolu,0,0,region:us
+2026-11-08T21:20:24Z,SandraAvilez/CapasforestalHonduras,SandraAvilez,0,0,region:us
