@@ -1,0 +1,51 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T00:20:21Z,Sakhiur/nightingle,Sakhiur,0,0,region:us
+2026-11-09T00:20:38Z,NikiPshg/sbs-voices-20261109,NikiPshg,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-09T00:21:59Z,h1testrightmeow/i134probe,h1testrightmeow,0,0,region:us
+2026-11-09T00:28:23Z,jezzza1401/test,jezzza1401,0,0,size_categories:1K<n<10K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T00:29:40Z,oliveryanzuolu/jarvis-1104jl-kef-val160-20261109T002940Z-4231fc,oliveryanzuolu,0,0,region:us
+2026-11-09T00:32:17Z,PatrickHua/clar-enwik,PatrickHua,0,0,task_categories:text-generation; language:en; license:cc-by-sa-3.0; size_categories:100M<n<1B; region:us; compression; online-learning; continual-learning; byte-level
+2026-11-09T00:33:11Z,pennwaveslab/TextRadar-Dataset,pennwaveslab,0,0,license:cc-by-4.0; region:us
+2026-11-09T00:33:20Z,Yinxxx/finder-bcp-artifacts,Yinxxx,0,0,region:us
+2026-11-09T00:34:13Z,SMVaddadi/propensity-data-uci-credit-approval,SMVaddadi,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; propensity…
+2026-11-09T00:34:19Z,SMVaddadi/propensity-data-uci-online-shoppers,SMVaddadi,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; prop…
+2026-11-09T00:34:26Z,SMVaddadi/propensity-data-uci-coupon-recommendation,SMVaddadi,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; prop…
+2026-11-09T00:34:35Z,fisherman611/zaic-data-5eb2dec0,fisherman611,0,0,region:us
+2026-11-09T00:34:35Z,SMVaddadi/propensity-data-uci-taiwan-bankruptcy,SMVaddadi,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; propensity-model-mirr…
+2026-11-09T00:34:58Z,oliveryanzuolu/jarvis-1104jj-step285-20261109T003458Z-479714,oliveryanzuolu,0,0,region:us
+2026-11-09T00:35:00Z,SMVaddadi/propensity-data-uci-polish-bankruptcy,SMVaddadi,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; propensity-model-mi…
+2026-11-09T00:36:23Z,SMVaddadi/propensity-data-cfpb-complaints,SMVaddadi,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; credit; tabular; propensity…
+2026-11-09T00:37:51Z,Adyansh/piper-assembly-ring,Adyansh,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-09T00:38:01Z,fabricioslv/gems-prize-geodawn,fabricioslv,0,0,task_categories:image-segmentation; task_categories:other; license:other; region:us; geoscience; fault-detection; geothermic; geodawn; drivendata; competition
+2026-11-09T00:39:30Z,redflags33/sapientiae-nhtsa-sft,redflags33,0,0,region:us
+2026-11-09T00:40:19Z,alannowo/barbican-refs,alannowo,0,0,region:us
+2026-11-09T00:40:21Z,SOTAagi2030/Community-Service-Consensus-Glossary,SOTAagi2030,0,0,language:fr; language:es; language:it; license:cc-by-4.0; region:us
+2026-11-09T00:42:11Z,EndeavourDD/ziyao,EndeavourDD,0,0,region:us
+2026-11-09T00:42:16Z,phawitbinabik/SIM-so101-real-replay,phawitbinabik,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T00:42:53Z,prlq/vast3-mobilemanipbench-archive-public,prlq,0,0,region:us
+2026-11-09T00:44:38Z,to0p/codex-tool-use-trajectories,to0p,0,0,task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:dask; library:polars;…
+2026-11-09T00:46:12Z,nohagaber/farida-voice,nohagaber,0,0,region:us
+2026-11-09T00:46:14Z,orionba/orion-company-stated-biotech-dates,orionba,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biotech; pdufa;…
+2026-11-09T00:48:09Z,christopherwoodall/swarmachines-episodes,christopherwoodall,0,0,task_categories:other; language:en; license:apache-2.0; size_categories:n<1K; region:us; multi-agent-systems; agent-swarm; testbed; event-log; alignment
+2026-11-09T00:48:46Z,abigailhaddad/oira-eo12866-meetings,abigailhaddad,0,0,license:cc0-1.0; size_categories:1M<n<10M; format:text; modality:document; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T00:48:50Z,U2rf/movieagent-traditional-story-bench-results,U2rf,0,0,region:us
+2026-11-09T00:49:45Z,SOTAagi2030/atlas-object-intake,SOTAagi2030,0,0,region:us
+2026-11-09T00:49:48Z,SOTAagi2030/atlas-exhibition-rights,SOTAagi2030,0,0,region:us
+2026-11-09T00:49:52Z,amrit-lal-singh/somedataset,amrit-lal-singh,0,0,region:us
+2026-11-09T00:52:19Z,oliveryanzuolu/jarvis-1104jk-kef-val160-20261109T005218Z-ab5d0b,oliveryanzuolu,0,0,region:us
+2026-11-09T00:53:42Z,SOTAagi2030/watershed-sharing-requests,SOTAagi2030,0,0,region:us
+2026-11-09T00:53:46Z,SOTAagi2030/watershed-basin-authorizations,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T00:55:22Z,ciscoriordan/grapho-data,ciscoriordan,0,0,language:el; license:cc-by-sa-4.0; size_categories:100K<n<1M; region:us; greek; modern-greek; monotonic; word-list; spell-checking; n-gram; next-word-prediction; keyboard
+2026-11-09T00:55:34Z,Ricky06662/RTime,Ricky06662,0,0,region:us
+2026-11-09T00:56:39Z,josetopi/casa-esboco,josetopi,0,0,region:us
+2026-11-09T00:58:29Z,ciscoriordan/tonos-data,ciscoriordan,0,0,language:grc; language:el; license:cc-by-sa-4.0; region:us; greek; ancient-greek; polytonic; hunspell; n-gram; keyboard
+2026-11-09T00:58:35Z,Jl-wei/PocketWristUI,Jl-wei,0,0,region:us
+2026-11-09T00:58:44Z,shishishshijie/chainmer,shishishshijie,0,0,region:us
+2026-11-09T01:01:14Z,Lucasgitguy-co/k2-horizon-system1-distill,Lucasgitguy-co,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; distil…
+2026-11-09T01:09:07Z,quandao10/k600-clips-128,quandao10,0,0,task_categories:unconditional-image-generation; license:cc-by-4.0; modality:video; region:us; video; kinetics
+2026-11-09T01:10:01Z,corbe19/protostar-climate-MKDir-hybrid,corbe19,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; region:us; climate; forecasting; protostar-climate-2026
+2026-11-09T01:10:54Z,stefanocarrera/kic_D_test-javascript_Qwen3-8B_t0.5_g7_run0,stefanocarrera,0,0,region:us
+2026-11-09T01:12:45Z,yangfanyangfan/lerobotBlocksPlacing,yangfanyangfan,0,0,region:us
+2026-11-09T01:14:35Z,SZLHOLDINGS/frontier-54-runs,SZLHOLDINGS,0,0,license:apache-2.0; region:us
+2026-11-09T01:14:46Z,simo-davy/hornvald-assets,simo-davy,0,0,region:us
+2026-11-09T01:18:49Z,Agnuxo/loopshield-source-archive,Agnuxo,0,0,language:en; license:mit; region:us; reproducibility; fhir; synthetic-data; software-testing
