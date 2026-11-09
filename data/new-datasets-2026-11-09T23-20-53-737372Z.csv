@@ -1,0 +1,61 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T22:23:57Z,2GyounnnG/refv2v-runtime-cache-public-20261109-b21193f2,2GyounnnG,0,0,license:other; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T22:24:06Z,ZohebW/vr-folding-data,ZohebW,0,0,license:mit; arxiv:2303.13913; region:us
+2026-11-09T22:24:10Z,csusupergear/agibot-cosmos3-distill,csusupergear,0,0,task_categories:robotics; license:cc-by-nc-sa-4.0; region:us; agibot-world; world-model; cosmos; bimanual
+2026-11-09T22:24:59Z,cubeow/lerobot-act-data,cubeow,0,0,region:us
+2026-11-09T22:25:20Z,vveicao/infinigen-collect-20k,vveicao,0,0,task_categories:object-detection; task_categories:depth-estimation; size_categories:1M<n<10M; modality:video; region:us; 3d-object-detection; oriented-bounding-box; video; synthetic; infinigen; camer…
+2026-11-09T22:30:25Z,g1n0st/78da17b5e07db71b31402df6a977fb739e33ad8e,g1n0st,0,0,region:us
+2026-11-09T22:31:05Z,Gouravss/lulc-sentinel1-data,Gouravss,0,0,region:us
+2026-11-09T22:31:37Z,hazemessam/deeploc-1.0,hazemessam,0,0,license:unknown; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; proteins; protein-language-models; s…
+2026-11-09T22:31:44Z,hazemessam/deeploc-2.0,hazemessam,0,0,license:unknown; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; proteins; protein-…
+2026-11-09T22:31:56Z,hazemessam/deeploc-2.1,hazemessam,0,0,license:unknown; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; proteins; protein-…
+2026-11-09T22:32:01Z,earino/factory-nhtsa-pe-recall,earino,0,0,task_categories:tabular-classification; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-11-09T22:32:50Z,kalanosai/synthetic-clean-signals,kalanosai,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-09T22:33:40Z,victim822872/xss-gated-223340,victim822872,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T22:33:51Z,JunJiaGuo/CIC_packet_anno,JunJiaGuo,0,0,language:en; region:us; network-intrusion-detection; packet-classification; cicids2017; weak-supervision
+2026-11-09T22:34:26Z,TUaxhuiax/huggingface_terminal_filesystem_playwright_with_chunk_excel_fetch_1491-p9v3ra,TUaxhuiax,0,0,region:us
+2026-11-09T22:35:25Z,itruonghai/fep-cache-tmp,itruonghai,0,0,region:us
+2026-11-09T22:35:37Z,TUaxhuiax/huggingface_terminal_filesystem_playwright_with_chunk_excel_fetch_1491-delivery-p9v3ra,TUaxhuiax,0,0,region:us
+2026-11-09T22:36:10Z,SaarAI/zul-post-training-v2,SaarAI,0,0,task_categories:text-generation; task_categories:translation; task_categories:text-classification; task_categories:token-classification; task_categories:summarization; language:zu; language:en; size_…
+2026-11-09T22:36:19Z,SaarAI/amh-post-training-v2,SaarAI,0,0,task_categories:text-generation; task_categories:translation; task_categories:text-classification; task_categories:token-classification; task_categories:summarization; language:am; language:en; size_…
+2026-11-09T22:38:38Z,UserAi32/hz-assets,UserAi32,0,0,region:us
+2026-11-09T22:39:05Z,kalanosai/synthetic-action-spikes,kalanosai,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-09T22:39:52Z,g1n0st/cdca55ae3a9ee6f918f0734ff816fbbb7da57f36,g1n0st,0,0,region:us
+2026-11-09T22:40:53Z,evaligo/swe-pair,evaligo,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-11-09T22:41:55Z,chijiokejoseph/aieng-cv,chijiokejoseph,0,0,license:mit; region:us
+2026-11-09T22:43:25Z,kalanosai/synthetic-repeated-timestamps,kalanosai,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-09T22:43:48Z,TUaxhuiax/parley-raw-rollouts-576,TUaxhuiax,0,0,region:us
+2026-11-09T22:43:48Z,TUaxhuiax/filesystem_howtocook_terminal_huggingface_106_c6334e,TUaxhuiax,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T22:44:19Z,shalnark01/policyproof-track2a-benchmark,shalnark01,0,0,task_categories:text-generation; language:en; language:no; language:ar; license:cc-by-4.0; size_categories:n<1K; region:us; synthetic; safety-evaluation; prompt-injection; grounded-qa; structured-out…
+2026-11-09T22:46:09Z,kalanosai/synthetic-missing-task-labels,kalanosai,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-09T22:48:16Z,2mL/PiPe,2mL,0,0,region:us
+2026-11-09T22:48:36Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-09T22:48:36Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-09T22:49:22Z,BeitTigreAI/tigmorph,BeitTigreAI,0,0,region:us
+2026-11-09T22:51:20Z,Ryder7777/darwin-findings,Ryder7777,0,0,region:us
+2026-11-09T22:53:16Z,SaarAI/kin-post-training-v2,SaarAI,0,0,task_categories:text-generation; task_categories:translation; task_categories:text-classification; task_categories:token-classification; task_categories:summarization; language:rw; language:en; size_…
+2026-11-09T22:53:55Z,talha15032/temporal-profile-rollouts,talha15032,0,0,region:us
+2026-11-09T22:55:24Z,markhitvdrz/idol-3d-objects,markhitvdrz,0,0,size_categories:n<1K; format:imagefolder; modality:3d; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T22:56:39Z,codeShare/civitai-natural-language-prompts-and-images,codeShare,0,0,region:us
+2026-11-09T22:56:54Z,TUaxhuiax/toolathlon-idxcheck-9f3a,TUaxhuiax,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T22:59:04Z,GeertWang/g1-pipette-p3-aim-1109-r4-autoall,GeertWang,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T22:59:59Z,TUaxhuiax/toolathlon-browsercheck-7b21,TUaxhuiax,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:00:56Z,g1n0st/c1554abd40d4cf69146171579491e9fb23f13307,g1n0st,0,0,region:us
+2026-11-09T23:02:42Z,ardauzunoglu/c4-wrapqarewritten-1.5b-retok,ardauzunoglu,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T23:03:48Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-09T23:03:50Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-09T23:07:51Z,cp500/agentic-engineering-course,cp500,0,0,license:other; region:us
+2026-11-09T23:08:38Z,TUaxhuiax/toolathlon-yf1974-pricefeed-2d7a,TUaxhuiax,0,0,language:en; region:us
+2026-11-09T23:09:32Z,victim822872/assetA3537,victim822872,0,0,region:us
+2026-11-09T23:09:57Z,Kweezi2/charomi-frontier-dataset,Kweezi2,0,0,region:us
+2026-11-09T23:09:59Z,h1testmeow/hf3-gated-notebook-20261109,h1testmeow,0,0,region:us
+2026-11-09T23:11:13Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-09T23:11:14Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-09T23:11:28Z,TUaxhuiax/yf-pw-hf-fs-595-vela-global-pricebook-master-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:11:31Z,victim822872/xss-ds2-231131,victim822872,0,0,region:us
+2026-11-09T23:11:51Z,TUaxhuiax/yf-pw-hf-fs-595-vela-procurement-log-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:12:10Z,TUaxhuiax/yf-pw-hf-fs-595-vela-global-pricebook-report-format-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:12:25Z,TUaxhuiax/yf-pw-hf-fs-595-vela-global-pricebook-regional-extract-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:12:41Z,TUaxhuiax/yf-pw-hf-fs-595-vela-global-pricebook-partner-net-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:12:42Z,TUaxhuiax/yf-pw-hf-fs-595-vela-global-pricebook-legacy-extract-a7k3,TUaxhuiax,0,0,region:us
+2026-11-09T23:14:32Z,victim822872/assetB3537,victim822872,0,0,region:us
