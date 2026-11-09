@@ -1,0 +1,227 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T12:19:30Z,Udev-miam/Presles-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:20:08Z,vinvent123/osworld-office-trajectories,vinvent123,0,0,license:cc-by-4.0; region:us
+2026-11-09T12:20:13Z,Udev-miam/Recloses,Udev-miam,0,0,region:us
+2026-11-09T12:20:42Z,Udev-miam/Saint-Augustin-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:21:00Z,Udev-miam/Saint-Simeon-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:21:06Z,Udev-miam/Sainte-Colombe-77,Udev-miam,0,0,region:us
+2026-11-09T12:21:08Z,Udev-miam/Salins-77,Udev-miam,0,0,region:us
+2026-11-09T12:21:13Z,Udev-miam/Soisy-Bouy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:21:34Z,Udev-miam/Thieux-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:21:48Z,phatly13606/radiance,phatly13606,0,0,region:us
+2026-11-09T12:21:56Z,dassafad/flicknest-movies,dassafad,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:22:01Z,Udev-miam/Vernou-la-Celle-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:22:06Z,Udev-miam/Villeneuve-les-Bordes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:22:12Z,Udev-miam/Evry-Gregy-sur-Yerre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:22:30Z,Udev-miam/Aufferville,Udev-miam,0,0,region:us
+2026-11-09T12:22:33Z,Udev-miam/Beaumont-du-Gatinais,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:22:48Z,Udev-miam/Bellot,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:23:04Z,HiTZ/saei-clinddx,HiTZ,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:translation; language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; antidote; saei; clinica…
+2026-11-09T12:23:08Z,Udev-miam/Chailly-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:23:10Z,linhngo22038/viaduct,linhngo22038,0,0,region:us
+2026-11-09T12:23:13Z,Udev-miam/Charny-77,Udev-miam,0,0,region:us
+2026-11-09T12:23:20Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-09T12:23:21Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-09T12:23:31Z,Udev-miam/Chevru,Udev-miam,0,0,region:us
+2026-11-09T12:23:49Z,Udev-miam/Chevry-en-Sereine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:23:56Z,Udev-miam/Chatenay-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:24:18Z,Udev-miam/Conde-Sainte-Libiaire,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:24:43Z,Udev-miam/Courtomer-77,Udev-miam,0,0,region:us
+2026-11-09T12:24:48Z,Udev-miam/Doue,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:24:53Z,Udev-miam/Favieres-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:24:58Z,Udev-miam/Gouaix,Udev-miam,0,0,region:us
+2026-11-09T12:25:03Z,Udev-miam/Gouvernes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:25:07Z,Udev-miam/Gressy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:25:13Z,Udev-miam/Hericy,Udev-miam,0,0,region:us
+2026-11-09T12:25:18Z,Udev-miam/Jablines,Udev-miam,0,0,region:us
+2026-11-09T12:25:40Z,Udev-miam/Jouy-sur-Morin,Udev-miam,0,0,region:us
+2026-11-09T12:25:43Z,SOTAagi2030/Annoy-PyEdu-Rs-Raw,SOTAagi2030,0,0,region:us
+2026-11-09T12:25:43Z,SOTAagi2030/Annoy-PyEdu-Rs,SOTAagi2030,0,0,region:us
+2026-11-09T12:25:45Z,Udev-miam/La-Chapelle-Gauthier-77,Udev-miam,0,0,region:us
+2026-11-09T12:25:50Z,Udev-miam/La-Croix-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:25:55Z,Udev-miam/La-Houssaye-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:26:00Z,Udev-miam/Le-Pin-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:26:06Z,Udev-miam/Les-Ormes-sur-Voulzie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:26:19Z,ghomasHudson/tinyVIRAT,ghomasHudson,0,0,task_categories:video-classification; license:unknown; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2007.07355…
+2026-11-09T12:26:38Z,JerryYuu/brickcraft,JerryYuu,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:2605.07605; region:us; LeRobot; brickcraft; robotics; kinova; imitation-learning; brick-assembly
+2026-11-09T12:26:43Z,dmostafa/fajrayn-lipsync-tmp,dmostafa,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:26:53Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-11-09T12:26:53Z,ubvsjekmjqqz9/Annoy-PyEdu-Rs,ubvsjekmjqqz9,0,0,region:us
+2026-11-09T12:26:53Z,ubvsjekmjqqz9/Annoy-PyEdu-Rs-Raw,ubvsjekmjqqz9,0,0,region:us
+2026-11-09T12:26:53Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-11-09T12:27:17Z,Udev-miam/Luisetaines,Udev-miam,0,0,region:us
+2026-11-09T12:27:22Z,Udev-miam/Luzancy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:27:41Z,Udev-miam/Mauperthuis,Udev-miam,0,0,region:us
+2026-11-09T12:28:54Z,Udev-miam/Meilleray,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:29:00Z,Udev-miam/Messy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:29:05Z,Udev-miam/Montceaux-les-Meaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:29:19Z,schizoidahhh/wikipedia-zh-cn,schizoidahhh,0,0,language:zh; size_categories:1M<n<10M; modality:text; region:us
+2026-11-09T12:29:21Z,Owen777/transfer-20261109,Owen777,0,0,region:us
+2026-11-09T12:29:24Z,Udev-miam/Montceaux-les-Provins,Udev-miam,0,0,region:us
+2026-11-09T12:29:27Z,Udev-miam/Monthyon,Udev-miam,0,0,region:us
+2026-11-09T12:29:33Z,Udev-miam/Nanteau-sur-Lunain,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:29:41Z,Udev-miam/Neufmoutiers-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:29:50Z,Bgrwbgdw/SpectraMail_Data_Set,Bgrwbgdw,0,0,language:en; license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic-data; testing
+2026-11-09T12:30:23Z,ManhQuangAI/voice_vietnamese,ManhQuangAI,0,0,license:mit; region:us
+2026-11-09T12:30:24Z,sulabhkatiyar/tinyasr-slr103,sulabhkatiyar,0,0,region:us
+2026-11-09T12:30:27Z,sulabhkatiyar/tinyasr-gramvaani,sulabhkatiyar,0,0,region:us
+2026-11-09T12:31:02Z,Udev-miam/Noyen-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T12:31:03Z,sulabhkatiyar/tinyasr-digigreen,sulabhkatiyar,0,0,region:us
+2026-11-09T12:31:05Z,sulabhkatiyar/tinyasr-gramvaani-raw,sulabhkatiyar,0,0,region:us
+2026-11-09T12:31:12Z,Udev-miam/Pamfou,Udev-miam,0,0,region:us
+2026-11-09T12:32:06Z,sulabhkatiyar/tinyasr-spoken-tutorial,sulabhkatiyar,0,0,region:us
+2026-11-09T12:32:09Z,sulabhkatiyar/tinyasr-mann-ki-baat,sulabhkatiyar,0,0,region:us
+2026-11-09T12:32:18Z,Hebrish/ASR-Formatter-Training-Pairs,Hebrish,0,0,task_categories:text-generation; task_categories:token-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; inverse-text-normalization; asr-post-processing; email; s…
+2026-11-09T12:32:30Z,thaohuynh90113/headland,thaohuynh90113,0,0,region:us
+2026-11-09T12:32:33Z,Udev-miam/Perthes-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:32:46Z,1min/TIP-2018,1min,0,0,task_categories:image-to-image; language:en; license:mit; size_categories:100K<n<1M; region:us
+2026-11-09T12:32:52Z,Udev-miam/Poincy,Udev-miam,0,0,region:us
+2026-11-09T12:32:58Z,Udev-miam/Precy-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:33:24Z,elijahgalahad/oakink2,elijahgalahad,0,0,language:en; license:cc-by-sa-4.0; size_categories:n<1K; region:us; robotics; manipulation; mano; oakink2; dex-track
+2026-11-09T12:33:57Z,Udev-miam/Rouvres-77,Udev-miam,0,0,region:us
+2026-11-09T12:34:55Z,Udev-miam/Reau,Udev-miam,0,0,region:us
+2026-11-09T12:35:14Z,Udev-miam/Saint-Denis-les-Rebais,Udev-miam,0,0,region:us
+2026-11-09T12:35:39Z,khoaphan87519/bicycle,khoaphan87519,0,0,region:us
+2026-11-09T12:36:12Z,callmezuy/spatial-vrd,callmezuy,0,0,region:us
+2026-11-09T12:36:37Z,Udev-miam/Saint-Fiacre-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:36:42Z,Udev-miam/Saint-Germain-Laxis,Udev-miam,0,0,region:us
+2026-11-09T12:36:48Z,Udev-miam/Soignolles-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:36:52Z,Udev-miam/Solers,Udev-miam,0,0,region:us
+2026-11-09T12:37:44Z,huggingfacertwegsafgagsg/GROMAIVN,huggingfacertwegsafgagsg,0,0,region:us
+2026-11-09T12:37:53Z,Udev-miam/Sourdun,Udev-miam,0,0,region:us
+2026-11-09T12:37:59Z,wmsr22/KnowledgeGraph,wmsr22,0,0,license:apache-2.0; region:us
+2026-11-09T12:38:19Z,yangning10000/Terminal-Bench-4,yangning10000,0,0,region:us
+2026-11-09T12:38:32Z,Udev-miam/Ury,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:38:37Z,Udev-miam/Ussy-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:38:55Z,Udev-miam/Ville-Saint-Jacques,Udev-miam,0,0,region:us
+2026-11-09T12:39:32Z,Udev-miam/Villecerf,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:39:38Z,Udev-miam/Villenauxe-la-Petite,Udev-miam,0,0,region:us
+2026-11-09T12:39:44Z,Udev-miam/Villiers-sous-Grez,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:40:24Z,Udev-miam/Villuis,Udev-miam,0,0,region:us
+2026-11-09T12:40:59Z,Udev-miam/Voulangis,Udev-miam,0,0,region:us
+2026-11-09T12:41:03Z,Udev-miam/Etrepilly-77,Udev-miam,0,0,region:us
+2026-11-09T12:41:33Z,ywsldxk1/so101-realbench-v2,ywsldxk1,0,0,language:en; language:zh; region:us; robotics; mujoco; benchmark; so101
+2026-11-09T12:41:48Z,Udev-miam/Blennes,Udev-miam,0,0,region:us
+2026-11-09T12:41:53Z,Udev-miam/Boissettes,Udev-miam,0,0,region:us
+2026-11-09T12:42:11Z,neurodados/neurodireitos,neurodados,0,0,language:pt; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legislação; direitos da pessoa com…
+2026-11-09T12:42:11Z,Udev-miam/Bombon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:42:16Z,Udev-miam/Bougligny,Udev-miam,0,0,region:us
+2026-11-09T12:42:20Z,Udev-miam/Bouleurs,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:42:31Z,jupo-ai/gelbooru2026,jupo-ai,0,0,task_categories:image-classification; task_categories:image-to-image; task_categories:text-to-image; language:en; language:ja; license:mit; size_categories:1M<n<10M; region:us; anime; gelbooru; booru…
+2026-11-09T12:42:43Z,MinjaiSensei/drivor-pvworld-artifacts,MinjaiSensei,0,0,region:us
+2026-11-09T12:42:46Z,Udev-miam/Cessoy-en-Montois,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:42:51Z,Udev-miam/Chaintreaux,Udev-miam,0,0,region:us
+2026-11-09T12:43:10Z,Udev-miam/Champcenest,Udev-miam,0,0,region:us
+2026-11-09T12:43:13Z,Udev-miam/Chartronges,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:43:32Z,Udev-miam/Chauffry,Udev-miam,0,0,region:us
+2026-11-09T12:43:50Z,callmezuy/unified-mmkg,callmezuy,0,0,size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:43:51Z,Udev-miam/Courchamp,Udev-miam,0,0,region:us
+2026-11-09T12:43:55Z,yangning10000/SciPivot,yangning10000,0,0,region:us
+2026-11-09T12:44:02Z,Udev-miam/Courpalay,Udev-miam,0,0,region:us
+2026-11-09T12:44:05Z,Udev-miam/Coutevroult,Udev-miam,0,0,region:us
+2026-11-09T12:44:08Z,Udev-miam/Crevecur-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:44:13Z,Udev-miam/Cely,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:44:27Z,Udev-miam/Dagny,Udev-miam,0,0,region:us
+2026-11-09T12:44:30Z,Udev-miam/Dormelles,Udev-miam,0,0,region:us
+2026-11-09T12:44:34Z,Udev-miam/Everly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:44:53Z,Udev-miam/Fontenailles,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:45:04Z,Udev-miam/Forges-77,Udev-miam,0,0,region:us
+2026-11-09T12:45:08Z,Udev-miam/Fresnes-sur-Marne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:45:13Z,Udev-miam/Gastins,Udev-miam,0,0,region:us
+2026-11-09T12:45:18Z,Udev-miam/Gesvres-le-Chapitre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:45:23Z,Udev-miam/Gironville,Udev-miam,0,0,region:us
+2026-11-09T12:45:28Z,Udev-miam/Grandpuits-Bailly-Carrois,Udev-miam,0,0,region:us
+2026-11-09T12:45:38Z,Udev-miam/Gurcy-le-Chatel,Udev-miam,0,0,region:us
+2026-11-09T12:45:41Z,Udev-miam/Herme,Udev-miam,0,0,region:us
+2026-11-09T12:45:59Z,Udev-miam/Iverny,Udev-miam,0,0,region:us
+2026-11-09T12:46:14Z,Udev-miam/Jutigny,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:46:25Z,Udev-miam/La-Brosse-Montceaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:46:30Z,Udev-miam/La-Genevraye,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:46:54Z,Udev-miam/La-Madeleine-sur-Loing,Udev-miam,0,0,region:us
+2026-11-09T12:47:13Z,Udev-miam/Laval-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:47:16Z,Udev-miam/Le-Plessis-aux-Bois,Udev-miam,0,0,region:us
+2026-11-09T12:47:36Z,Udev-miam/Le-Plessis-l-Eveque,Udev-miam,0,0,region:us
+2026-11-09T12:47:40Z,Udev-miam/Les-Chapelles-Bourbon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:47:58Z,junhyun-dev/tiny-aya-korean-safety-eval,junhyun-dev,0,0,task_categories:text-generation; task_categories:text-classification; language:en; language:ko; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datas…
+2026-11-09T12:47:59Z,Udev-miam/Les-Ecrennes,Udev-miam,0,0,region:us
+2026-11-09T12:48:18Z,Udev-miam/Lescherolles,Udev-miam,0,0,region:us
+2026-11-09T12:48:21Z,Udev-miam/Lesches,Udev-miam,0,0,region:us
+2026-11-09T12:48:36Z,Hebrish/Email-Address-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; email-addresses; english
+2026-11-09T12:48:39Z,Udev-miam/Lissy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:48:58Z,Udev-miam/May-en-Multien,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:49:03Z,Udev-miam/Moisenay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T12:49:26Z,Udev-miam/Mons-en-Montois,Udev-miam,0,0,region:us
+2026-11-09T12:49:30Z,Udev-miam/Montenils,Udev-miam,0,0,region:us
+2026-11-09T12:49:33Z,Udev-miam/Montigny-Lencoup,Udev-miam,0,0,region:us
+2026-11-09T12:49:35Z,Udev-miam/Montigny-le-Guesdier,Udev-miam,0,0,region:us
+2026-11-09T12:49:38Z,Udev-miam/Mousseaux-les-Bray,Udev-miam,0,0,region:us
+2026-11-09T12:49:57Z,Udev-miam/Mery-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:50:16Z,Udev-miam/Nanteau-sur-Essonne,Udev-miam,0,0,region:us
+2026-11-09T12:50:19Z,ASDASQE1E12/Annoy-PyEdu-Rs,ASDASQE1E12,0,0,region:us
+2026-11-09T12:50:20Z,ASDASQE1E12/Annoy-PyEdu-Rs-Raw,ASDASQE1E12,0,0,region:us
+2026-11-09T12:50:21Z,Udev-miam/Nanteuil-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:50:27Z,liuffg124/Annoy-PyEdu-Rs,liuffg124,0,0,region:us
+2026-11-09T12:50:27Z,liuffg124/Annoy-PyEdu-Rs-Raw,liuffg124,0,0,region:us
+2026-11-09T12:50:34Z,Agnuxo/ugreen-source-linked-brief,Agnuxo,0,0,license:other; region:us; documentation; retrieval-augmented-generation; ai-nas
+2026-11-09T12:50:39Z,Udev-miam/Nantouillet,Udev-miam,0,0,region:us
+2026-11-09T12:50:44Z,BRR1154/SLM-CadCamCfd-Sleep-Curriculum,BRR1154,0,0,region:us
+2026-11-09T12:50:46Z,Udev-miam/Nonville-77,Udev-miam,0,0,region:us
+2026-11-09T12:50:49Z,Udev-miam/Pecy,Udev-miam,0,0,region:us
+2026-11-09T12:50:56Z,Udev-miam/Pezarches,Udev-miam,0,0,region:us
+2026-11-09T12:50:59Z,Udev-miam/Remauville,Udev-miam,0,0,region:us
+2026-11-09T12:51:03Z,Udev-miam/Saint-Loup-de-Naud,Udev-miam,0,0,region:us
+2026-11-09T12:51:22Z,Udev-miam/Saint-Ouen-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:51:30Z,Renjie-Ranger/iclr2027-critique-base-reconstruction-public,Renjie-Ranger,0,0,region:us
+2026-11-09T12:51:34Z,Udev-miam/Saint-Ouen-sur-Morin,Udev-miam,0,0,region:us
+2026-11-09T12:51:52Z,Udev-miam/Saint-Sauveur-sur-Ecole,Udev-miam,0,0,region:us
+2026-11-09T12:52:07Z,Udev-miam/Sancy-77,Udev-miam,0,0,region:us
+2026-11-09T12:52:25Z,Udev-miam/Thoury-Ferottes,Udev-miam,0,0,region:us
+2026-11-09T12:52:28Z,Udev-miam/Tousson,Udev-miam,0,0,region:us
+2026-11-09T12:53:13Z,abujiho/voice_data,abujiho,0,0,region:us
+2026-11-09T12:53:17Z,StoryAura/shiseiPoseDataset,StoryAura,0,0,task_categories:image-classification; license:cc0-1.0; size_categories:1K<n<10K; region:us; pose-reference; line-art; drawing-reference
+2026-11-09T12:53:52Z,jotamunz/synthetic-floorplans-captioning,jotamunz,0,0,task_categories:image-to-text; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; floor-plans; architecture; captioning; synthetic; llava
+2026-11-09T12:56:49Z,InriaXagriscienceFM/upland_cotton_palmeramaranthgrowth_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; arxiv:2307.15816; region:us; agml; agriculture
+2026-11-09T12:57:43Z,metjum/ostdb,metjum,0,0,annotations_creators:crowdsourced; language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality:tabular; region:us; video-games; music; soundtracks; game-music; ost; open-data; tabular
+2026-11-09T12:58:22Z,henrikhoffmanndk/50-first-facts,henrikhoffmanndk,0,0,task_categories:question-answering; task_ids:closed-domain-qa; multilinguality:multilingual; language:bg; language:cs; language:da; language:de; language:el; language:en; language:es; language:et; la…
+2026-11-09T13:00:51Z,QuirinBelen/Annoy-PyEdu-Rs,QuirinBelen,0,0,region:us
+2026-11-09T13:01:17Z,QuirinBelen/Annoy-PyEdu-Rs-Raw,QuirinBelen,0,0,region:us
+2026-11-09T13:02:33Z,MathArena/arxivmath-1026,MathArena,0,0,task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:n<1K; arxiv:2605.00674; region:us; math; reasoning; benchmark; arxiv
+2026-11-09T13:02:35Z,MathArena/brokenarxiv-1026,MathArena,0,0,task_categories:text-generation; language:en; license:cc-by-sa-4.0; size_categories:n<1K; arxiv:2605.00674; region:us; math; reasoning; benchmark; arxiv; sycophancy
+2026-11-09T13:02:43Z,Why0369/DSERT-RoLL,Why0369,0,0,license:cc-by-4.0; region:us
+2026-11-09T13:03:11Z,MathArena/arxivmath-1026_outputs,MathArena,0,0,language:en; license:cc-by-sa-4.0; size_categories:n<1K; arxiv:2605.00674; region:us
+2026-11-09T13:03:34Z,MathArena/brokenarxiv-1026_outputs,MathArena,0,0,language:en; license:cc-by-sa-4.0; size_categories:n<1K; arxiv:2605.00674; region:us
+2026-11-09T13:03:46Z,newuser50-pumpfun/pumpfun-referral-code-26,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; email-filter; notices; receipts; organisation
+2026-11-09T13:04:00Z,iaac-maai/day3-group7-king-county-house-typologies,iaac-maai,0,0,license:cc0-1.0; size_categories:10K<n<100K; region:us; built-environment; housing; clustering; unsupervised-learning; iaac-maai; ai-methods-1
+2026-11-09T13:04:25Z,Ge32/NuPatch3D-Public,Ge32,0,0,license:unknown; region:us
+2026-11-09T13:04:50Z,newuser50-pumpfun/pumpfun-referral-code-27,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; spending-limit; stop-rule; self-control; preparation
+2026-11-09T13:05:34Z,newuser50-pumpfun/pumpfun-referral-code-28,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; app-freeze; crash-recovery; duplicate-purchase; troubles…
+2026-11-09T13:05:52Z,toolathlon-eval-10/Annoy-PyEdu-Rs,toolathlon-eval-10,0,0,region:us
+2026-11-09T13:05:54Z,nikodembartnik/rebot_sim_banana_bowl_20261109_140212,nikodembartnik,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T13:06:23Z,toolathlon-eval-10/Annoy-PyEdu-Rs-Raw,toolathlon-eval-10,0,0,region:us
+2026-11-09T13:07:25Z,newuser50-pumpfun/pumpfun-referral-code-29,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; accountability; check-in; support-person; routine
+2026-11-09T13:08:35Z,zxcgvbgfdg/Annoy-PyEdu-Rs,zxcgvbgfdg,0,0,region:us
+2026-11-09T13:08:35Z,zxcgvbgfdg/Annoy-PyEdu-Rs-Raw,zxcgvbgfdg,0,0,region:us
+2026-11-09T13:08:45Z,newuser50-pumpfun/pumpfun-referral-code-30,newuser50-pumpfun,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; distraction-free; quiet-setting; session-planning; focus
+2026-11-09T13:08:50Z,efaaefd/Annoy-PyEdu-Rs,efaaefd,0,0,region:us
+2026-11-09T13:08:53Z,ShreyD06/AsthmaAware,ShreyD06,0,0,region:us
+2026-11-09T13:09:21Z,efaaefd/Annoy-PyEdu-Rs-Raw,efaaefd,0,0,region:us
+2026-11-09T13:09:28Z,InriaXagriscienceFM/maize_corn_corn_leaf_disease_detection,InriaXagriscienceFM,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; region:us; agml; agriculture; observation-level-leaf
+2026-11-09T13:11:23Z,gkw0010/CoPESD_video,gkw0010,0,0,region:us
+2026-11-09T13:12:21Z,HaDo25678/The-book-lab-5,HaDo25678,0,0,region:us
+2026-11-09T13:12:45Z,PhysShell/adiletcodex,PhysShell,0,0,task_categories:text-retrieval; task_categories:text-classification; task_categories:text-generation; multilinguality:multilingual; language:kk; language:ru; language:en; license:cc-by-4.0; size_cate…
+2026-11-09T13:12:51Z,victim822872/gated1,victim822872,0,0,region:us
+2026-11-09T13:12:57Z,ariesutiono/financebench-vector-db,ariesutiono,0,0,region:us
+2026-11-09T13:13:03Z,sadasgasdsdfa/Annoy-PyEdu-Rs,sadasgasdsdfa,0,0,region:us
+2026-11-09T13:13:24Z,sadasgasdsdfa/Annoy-PyEdu-Rs-Raw,sadasgasdsdfa,0,0,region:us
+2026-11-09T13:14:04Z,InriaXagriscienceFM/bread_wheat_radishwheatdataset_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; region:us; agml; agriculture; observation-level-canopy
+2026-11-09T13:14:47Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-09T13:14:47Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-09T13:15:10Z,nbwolfer/VitalDBPreprocessed,nbwolfer,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; region:us; medical; biosignals; vital-signs; time-series; perioperative; multimodal
+2026-11-09T13:15:16Z,tozzizzg/RareBench,tozzizzg,0,1,task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; arxiv:2402.06341; region:us; medical
+2026-11-09T13:16:53Z,ntnu-speech-ai/hat_asr_multichannel,ntnu-speech-ai,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; task_categories:feature-extraction; language:zh; language:cmn; language:nan; language:hak; license:apache-2.0; size…
+2026-11-09T13:17:12Z,ntnu-speech-ai/tat_asr_multichannel,ntnu-speech-ai,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; task_categories:feature-extraction; language:nan; language:zh; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-11-09T13:17:16Z,ntnu-speech-ai/tat_moe_multichannel,ntnu-speech-ai,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; task_categories:feature-extraction; language:nan; language:zh; license:apache-2.0; size_categories:10K<n<100K; regi…
+2026-11-09T13:18:02Z,ThomasinAlistair1794/Annoy-PyEdu-Rs,ThomasinAlistair1794,0,0,region:us
+2026-11-09T13:18:03Z,ThomasinAlistair1794/Annoy-PyEdu-Rs-Raw,ThomasinAlistair1794,0,0,region:us
+2026-11-09T13:18:05Z,Renjie-Ranger/iclr2027-writing-feedback-public,Renjie-Ranger,0,0,language:en; region:us; iclr-rebuttal
+2026-11-09T13:18:40Z,Renjie-Ranger/iclr2027-writing-fcp-scores-public,Renjie-Ranger,0,0,task_categories:text-generation; language:en; region:us
