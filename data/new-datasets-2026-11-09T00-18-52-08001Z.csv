@@ -1,0 +1,53 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-08T23:21:24Z,awde213xazc213ed/Annoy-PyEdu-Rs,awde213xazc213ed,0,0,region:us
+2026-11-08T23:21:25Z,awde213xazc213ed/Annoy-PyEdu-Rs-Raw,awde213xazc213ed,0,0,region:us
+2026-11-08T23:23:39Z,SadeghRahmaniB/BiScopeCap,SadeghRahmaniB,0,0,task_categories:video-text-to-text; task_categories:video-classification; annotations_creators:machine-generated; annotations_creators:expert-generated; source_datasets:extended|epic-kitchens-100; so…
+2026-11-08T23:26:49Z,SamerAyyad/VLA_Samer_08.11.2026_400eps,SamerAyyad,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-08T23:28:03Z,justicedao/ipfs_spain_catalonia_municipal_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-11-08T23:32:01Z,justicedao/ipfs_us_courts_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-11-08T23:32:15Z,Mortada4664/student_mo,Mortada4664,0,0,region:us
+2026-11-08T23:33:06Z,afadfaq/Annoy-PyEdu-Rs,afadfaq,0,0,region:us
+2026-11-08T23:33:07Z,afadfaq/Annoy-PyEdu-Rs-Raw,afadfaq,0,0,region:us
+2026-11-08T23:34:58Z,happyhappy123/Letter_C,happyhappy123,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-08T23:36:32Z,AD12SACZXQW/Annoy-PyEdu-Rs,AD12SACZXQW,0,0,region:us
+2026-11-08T23:36:33Z,AD12SACZXQW/Annoy-PyEdu-Rs-Raw,AD12SACZXQW,0,0,region:us
+2026-11-08T23:36:44Z,ASD1ZXA/Annoy-PyEdu-Rs,ASD1ZXA,0,0,region:us
+2026-11-08T23:36:45Z,ASD1ZXA/Annoy-PyEdu-Rs-Raw,ASD1ZXA,0,0,region:us
+2026-11-08T23:37:42Z,asd12sadad2/Annoy-PyEdu-Rs,asd12sadad2,0,0,region:us
+2026-11-08T23:37:42Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-11-08T23:37:43Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-11-08T23:37:43Z,asd12sadad2/Annoy-PyEdu-Rs-Raw,asd12sadad2,0,0,region:us
+2026-11-08T23:39:05Z,abigailhaddad/mspb-decisions,abigailhaddad,0,0,license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-08T23:39:09Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-11-08T23:39:10Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-11-08T23:45:24Z,RnadyCai/scbasecount-2026-01-12-gene,RnadyCai,0,0,license:cc0-1.0; region:us; biology; genomics; single-cell; scRNA-seq; h5ad
+2026-11-08T23:47:00Z,ayazhan/pen_pickup_20261108_174043,ayazhan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-08T23:48:42Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-11-08T23:48:43Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-11-08T23:49:05Z,justicedao/ipfs_switzerland_caselaw_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-11-08T23:49:26Z,GUI-Gym/qwen3vl4b-q38-full-recovery-sft-android-lab-MBWeave-25steps-5runs,GUI-Gym,0,0,region:us
+2026-11-08T23:49:41Z,Metwelve/ZipStorage,Metwelve,0,0,region:us
+2026-11-08T23:51:06Z,simoph10/hornvald-assets,simoph10,0,0,region:us
+2026-11-08T23:58:00Z,SD324DCSA/Annoy-PyEdu-Rs,SD324DCSA,0,0,region:us
+2026-11-08T23:58:04Z,SD324DCSA/Annoy-PyEdu-Rs-Raw,SD324DCSA,0,0,region:us
+2026-11-08T23:59:24Z,ukfoodspot/uk-cheap-eats-index,ukfoodspot,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-09T00:01:33Z,sakotiya/data266-team32-p2-images,sakotiya,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T00:03:04Z,oliveryanzuolu/jarvis-1104jm-step95-20261109T000303Z-3c8e36,oliveryanzuolu,0,0,region:us
+2026-11-09T00:03:27Z,h1testrightmeow/i121-agent-traces,h1testrightmeow,0,0,size_categories:n<1K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-traces
+2026-11-09T00:03:49Z,SinclairSchneider/trainset_political_text_yes_no_english,SinclairSchneider,0,0,task_categories:text-classification; task_ids:topic-classification; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:SinclairSchneider/time_magazine;…
+2026-11-09T00:04:30Z,SMVaddadi/propensity-data-uci-german-credit,SMVaddadi,0,0,license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:04:49Z,Udev-miam/Ivry-sur-Seine,Udev-miam,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T00:05:16Z,SMVaddadi/propensity-data-bls-ces,SMVaddadi,0,0,license:other; size_categories:1M<n<10M; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:05:24Z,SMVaddadi/propensity-data-bls-laus,SMVaddadi,0,0,license:other; size_categories:1M<n<10M; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:05:32Z,SMVaddadi/propensity-data-scf-summary,SMVaddadi,0,0,license:other; size_categories:10K<n<100K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:05:35Z,SMVaddadi/propensity-data-uci-adult,SMVaddadi,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:05:37Z,SMVaddadi/propensity-data-uci-taiwan-credit,SMVaddadi,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:09:16Z,justicedao/ipfs_eu_caselaw_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; eu_caselaw
+2026-11-09T00:10:21Z,SMVaddadi/propensity-data-lendingclub,SMVaddadi,0,0,license:other; size_categories:1K<n<10K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-unverified
+2026-11-09T00:10:24Z,SMVaddadi/propensity-data-home-credit-default,SMVaddadi,0,0,license:other; size_categories:1K<n<10K; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-restricted
+2026-11-09T00:10:59Z,stefanocarrera/kic_D_train-javascript_Qwen3-8B_t0.5_g6_run0,stefanocarrera,0,0,region:us
+2026-11-09T00:11:37Z,justicedao/ipfs_americansamoa_laws_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; americansamoa
+2026-11-09T00:12:27Z,SMVaddadi/propensity-data-hmda-lar,SMVaddadi,0,0,license:other; size_categories:1M<n<10M; modality:tabular; region:us; credit; tabular; propensity-model-mirror; redistribution-open
+2026-11-09T00:13:24Z,justicedao/ipfs_germany_caselaw_ir,justicedao,0,0,task_categories:text-retrieval; license:other; size_categories:n<1K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; germany_caselaw
+2026-11-09T00:13:32Z,sari-abdan/rollout_pi05_016000_20261109_005131,sari-abdan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T00:18:01Z,Pac-man11/so101_subsets,Pac-man11,0,0,region:us
