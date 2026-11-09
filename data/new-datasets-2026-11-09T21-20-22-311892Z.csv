@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T20:19:33Z,VoppleAI/abstract-wallpaper,VoppleAI,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T20:21:12Z,lucasikruger/vis-iris-pupil-segmentation-data,lucasikruger,0,0,task_categories:image-segmentation; language:es; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T20:22:12Z,ycchen/arc-2026-training-data,ycchen,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; arc-agi; arc-prize-2026
+2026-11-09T20:22:51Z,Myungkyu/RMBench-icl-gemini,Myungkyu,0,0,task_categories:robotics; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics; rmbench; hierarchical-planning
+2026-11-09T20:23:53Z,RafaelLM/ophir-db,RafaelLM,0,0,region:us
+2026-11-09T20:26:29Z,christophe-ringot/p14-medical-triage-sft,christophe-ringot,0,0,task_categories:text-generation; task_categories:question-answering; source_datasets:ANR-MALADES/MediQAl; source_datasets:qanastek/frenchmedmcqa; source_datasets:keivalya/MedQuad-MedicalQnADataset; l…
+2026-11-09T20:26:35Z,uapinsight/pursue-dataset,uapinsight,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; modality:text; region:us; uap; ufo; declassified; government-documents
+2026-11-09T20:26:53Z,imagedevlopment/gradients-image-tourn_af3ecc97ed9806a7_20261109-251c29d4,imagedevlopment,0,0,modality:image; region:us; gradients; bittensor; sn56; tournament; image; z-image
+2026-11-09T20:29:13Z,SkylarWang/HOPE-cached-features,SkylarWang,0,0,license:cc-by-nc-4.0; region:us
+2026-11-09T20:29:47Z,mohamed-essai/github_with_no_comments-issues,mohamed-essai,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T20:30:48Z,g1n0st/aaf39d46e5b042cb17169810aa28cf9dde89dd06,g1n0st,0,0,region:us
+2026-11-09T20:31:24Z,g1n0st/8c4d87afd9749c55b2a028566dcbedfd82ce9f44,g1n0st,0,0,region:us
+2026-11-09T20:32:31Z,donnees-ouvertes-labs/gridlabs-electricite-logements-communes-2024,donnees-ouvertes-labs,0,0,task_categories:tabular-regression; language:fr; license:etalab-2.0; size_categories:10K<n<100K; modality:text; region:us; energy; france; open-data
+2026-11-09T20:33:29Z,donnees-ouvertes-labs/telecomlabs-5g-departements-2026-t2,donnees-ouvertes-labs,0,0,task_categories:tabular-regression; language:fr; license:etalab-2.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-11-09T20:33:37Z,jhumbl/orr-station-usage,jhumbl,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T20:33:42Z,TUaxhuiax/yahoo-finance_filesystem_terminal_playwright_with_chunk_excel_fetch_huggingface_42-own-26be6f,TUaxhuiax,0,0,region:us
+2026-11-09T20:34:55Z,donnees-ouvertes-labs/assuranceslabs-secheresse-habitat,donnees-ouvertes-labs,0,0,language:fr; language:en; license:etalab-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-11-09T20:35:59Z,Agnuxo/chi-bench-documentation-archive-20261109,Agnuxo,0,0,language:en; license:apache-2.0; region:us; documentation
+2026-11-09T20:36:53Z,chopinsmith/so101_pick_test01,chopinsmith,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-09T20:36:59Z,VoppleAI/abstract-wallpaper-mini,VoppleAI,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T20:40:32Z,victim822872/hfdep3517,victim822872,0,0,region:us
+2026-11-09T20:40:58Z,linliaaa/Annoy-PyEdu-Rs,linliaaa,0,0,region:us
+2026-11-09T20:40:59Z,linliaaa/Annoy-PyEdu-Rs-Raw,linliaaa,0,0,region:us
+2026-11-09T20:41:05Z,TUaxhuiax/nimbus-model-registry-filesystem_playwright_with_chunk_terminal_huggingface_500-598034,TUaxhuiax,0,0,region:us
+2026-11-09T20:43:29Z,NicolasT08/formal-mas-eval,NicolasT08,0,0,language:en; license:other; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lean4; mathlib; theo…
+2026-11-09T20:44:55Z,Zekehowie/florida-land-prices,Zekehowie,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; land-prices; vacan…
+2026-11-09T20:45:25Z,g1n0st/3a9eb90f7bae00956ced92fd4e46be0988c23126,g1n0st,0,0,region:us
+2026-11-09T20:45:35Z,TUaxhuiax/t1889-sonora-lyric-index-x3v8q2,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T20:45:54Z,kalGODki/capri,kalGODki,0,0,region:us
+2026-11-09T20:48:06Z,sandeeptshelvan/physics-prior-mlp-labels,sandeeptshelvan,0,0,language:en; license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:1502.03143; arxiv:2204.1…
+2026-11-09T20:48:43Z,123sg/Annoy-PyEdu-Rs,123sg,0,0,region:us
+2026-11-09T20:48:44Z,123sg/Annoy-PyEdu-Rs-Raw,123sg,0,0,region:us
+2026-11-09T20:52:01Z,arcus/dc-en3,arcus,0,1,region:us
+2026-11-09T20:52:52Z,robro612/nq_qwen3_embedding_8b,robro612,0,0,license:cc-by-sa-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; single-vector; dense; ma…
+2026-11-09T20:53:35Z,TUaxhuiax/bench-registry-corpus-2b92bb88,TUaxhuiax,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; benchmark-registry; evaluation
+2026-11-09T20:53:49Z,TUaxhuiax/bench-registry-releases-2b92bb88,TUaxhuiax,0,0,license:cc-by-4.0; region:us
+2026-11-09T20:56:53Z,victim822872/ssrfimg3537,victim822872,0,0,region:us
+2026-11-09T20:57:13Z,LabAclimu/novaseqx-artifacts,LabAclimu,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; genomics; cl…
+2026-11-09T20:57:52Z,HJH2CMD/agentpersonabench-claude-code,HJH2CMD,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T20:58:10Z,h1testrightmeow/dv64-val-1794257889,h1testrightmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T20:59:25Z,SoSolaris/solaria_stream_validation_1794257965,SoSolaris,0,0,region:us
+2026-11-09T21:01:25Z,jhumbl/tfl-journeys-by-mode,jhumbl,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T21:01:40Z,izzetkoyak/aerospace-eoir-trajectories,izzetkoyak,0,0,task_categories:object-detection; task_categories:time-series-forecasting; language:en; language:tr; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets;…
+2026-11-09T21:03:45Z,desmond-clarke/indiramma-illu-status-terms,desmond-clarke,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T21:03:55Z,TUaxhuiax/huggingface_filesystem_fetch_pdf-tools_yahoo-finance_excel_981-registry-a91c,TUaxhuiax,0,0,region:us
+2026-11-09T21:03:58Z,nyu-planet-finders/tess-spoc-ffi-binned,nyu-planet-finders,0,0,region:us
+2026-11-09T21:05:19Z,esijnja/hackaton26_test_20261109_213455,esijnja,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-09T21:05:25Z,fomoreferralcode/sun-home-saunas-discount-code-trevanta,fomoreferralcode,0,0,task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sun-ho…
+2026-11-09T21:07:53Z,earino/factory-cfpb-bank-account-monetary-relief,earino,0,0,task_categories:tabular-classification; license:other; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-11-09T21:09:04Z,TUaxhuiax/huggingface_filesystem_fetch_pdf-tools_yahoo-finance_excel_981-manifest-a91c,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T21:10:10Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-11-09T21:10:10Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-11-09T21:12:20Z,PureOne/Iyeumaring-AION-LATCH-VI,PureOne,0,0,language:en; size_categories:10K<n<100K; modality:tabular; region:us; math; ai-research; rsi; recursive-self-improvement; protected-learning; certified-learning; lipschitz-learning; research-evidence…
+2026-11-09T21:12:29Z,TUaxhuiax/hf-term-fs-pw-fetch-521-6366ae-review-export,TUaxhuiax,0,0,region:us
+2026-11-09T21:12:51Z,TUaxhuiax/hf-term-fs-pw-fetch-521-6366ae-speaker-program,TUaxhuiax,0,0,region:us
+2026-11-09T21:14:31Z,muacky/muackytools-updates,muacky,0,0,region:us
+2026-11-09T21:16:03Z,lordx555/ml360,lordx555,0,0,region:us
+2026-11-09T21:16:17Z,cueharbor/instrument-library,cueharbor,0,0,region:us
+2026-11-09T21:16:28Z,Saniya41/lulc-sentinel1-dataset,Saniya41,0,0,region:us
+2026-11-09T21:18:15Z,victim822872/ssrfcsv3537,victim822872,0,0,region:us
+2026-11-09T21:19:02Z,Rit888/DEX_KITTI360_Eval,Rit888,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-09T21:19:39Z,chenyuwan666/SCALEML,chenyuwan666,0,0,region:us
