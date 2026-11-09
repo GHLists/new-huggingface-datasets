@@ -1,0 +1,137 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T09:21:40Z,bartosz-zuk/my-dataset,bartosz-zuk,0,0,region:us
+2026-11-09T09:22:08Z,dddddsds31341/longwam-rollout-20261109-162443-sync-1722274-dc909e46,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-09T09:22:41Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-11-09T09:23:08Z,saybeok03/orca-hand-bottle,saybeok03,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-09T09:23:23Z,zippo-2026/patch,zippo-2026,0,0,region:us
+2026-11-09T09:24:59Z,agents-last-exam/ale-tasks-bio,agents-last-exam,0,0,region:us
+2026-11-09T09:24:59Z,aryashinde/s1-lulc-patches-v4,aryashinde,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; sentinel-1; sar; land-cover; semantic-segmentation; esa-worldcover
+2026-11-09T09:25:00Z,agents-last-exam/ale-tasks-chem,agents-last-exam,0,0,region:us
+2026-11-09T09:25:01Z,agents-last-exam/ale-tasks-finance,agents-last-exam,0,0,region:us
+2026-11-09T09:25:02Z,agents-last-exam/ale-tasks-health,agents-last-exam,0,0,region:us
+2026-11-09T09:25:03Z,agents-last-exam/ale-tasks-legal,agents-last-exam,0,0,region:us
+2026-11-09T09:25:04Z,agents-last-exam/ale-tasks-math,agents-last-exam,0,0,region:us
+2026-11-09T09:25:05Z,agents-last-exam/ale-tasks-physics,agents-last-exam,0,0,region:us
+2026-11-09T09:25:06Z,agents-last-exam/ale-tasks-robotics,agents-last-exam,0,0,region:us
+2026-11-09T09:25:07Z,dddddsds31341/longwam-rollout-20261109-162552-sync-1734808-322430d6,dddddsds31341,0,0,region:us
+2026-11-09T09:25:33Z,Yoveone/backup-25,Yoveone,0,0,region:us
+2026-11-09T09:26:52Z,Nidhibhai/unbuilt-index,Nidhibhai,0,0,language:en; license:other; size_categories:1K<n<10K; modality:text; region:us; hacker-news; startup-ideas; product-demand; market-research
+2026-11-09T09:27:10Z,trangpham13495/ocean,trangpham13495,0,0,region:us
+2026-11-09T09:27:10Z,dddddsds31341/longwam-rollout-20261109-161414-sync-1607719-5e33c7a7,dddddsds31341,0,0,region:us
+2026-11-09T09:27:25Z,jvamvas/apertus-pretrain-romansh-langid,jvamvas,0,0,language:rm; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:28:34Z,evie-8/open-bible,evie-8,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T09:29:09Z,JinQingshuo/EvoTCR-1000-Refill212,JinQingshuo,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:29:36Z,Amorth710/Zero2repo_Trajectory,Amorth710,0,0,task_categories:text-generation; license:other; size_categories:1K<n<10K; region:us; code; agents; benchmark; software-engineering
+2026-11-09T09:30:49Z,wxfmsf/lerobot_dataset,wxfmsf,0,0,license:mit; region:us
+2026-11-09T09:31:24Z,Kwj1021/rollout_smolvla_fstrong_top_b32_20k_right_nothing_20261109_181630,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-09T09:32:10Z,dddddsds31341/longwam-rollout-20261109-160720-sync-1531919-c2007e98,dddddsds31341,0,0,region:us
+2026-11-09T09:33:47Z,Setare165/nexora-btcusdt-data,Setare165,0,1,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T09:34:10Z,bmars8218/sn38-submission-r19,bmars8218,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:34:12Z,dbaysal/ExeCoder,dbaysal,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:34:30Z,omx-baseline-team/omx-baseline-v1-20261109-public,omx-baseline-team,0,0,region:us
+2026-11-09T09:36:08Z,ASD21213123EDSA/Annoy-PyEdu-Rs,ASD21213123EDSA,0,0,region:us
+2026-11-09T09:36:09Z,ASD21213123EDSA/Annoy-PyEdu-Rs-Raw,ASD21213123EDSA,0,0,region:us
+2026-11-09T09:37:09Z,dddddsds31341/longwam-rollout-20261109-161205-sync-1584282-27941289,dddddsds31341,0,0,region:us
+2026-11-09T09:37:16Z,padiredd/Cup_visual_wide_500,padiredd,0,0,task_categories:robotics; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; robotics; simulation; cyclo_lab
+2026-11-09T09:37:23Z,DSAC1CAS/Annoy-PyEdu-Rs,DSAC1CAS,0,0,region:us
+2026-11-09T09:37:24Z,DSAC1CAS/Annoy-PyEdu-Rs-Raw,DSAC1CAS,0,0,region:us
+2026-11-09T09:37:24Z,ASDCXZ12DSA/Annoy-PyEdu-Rs,ASDCXZ12DSA,0,0,region:us
+2026-11-09T09:37:25Z,ASDCXZ12DSA/Annoy-PyEdu-Rs-Raw,ASDCXZ12DSA,0,0,region:us
+2026-11-09T09:37:38Z,padiredd/Cup_visual_8k,padiredd,0,0,task_categories:robotics; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; robotics; simulation; cyclo_lab
+2026-11-09T09:38:44Z,w-ahmad/model1a_v3,w-ahmad,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T09:39:32Z,jangkj/rrlvr-iclr__data__cwq_qe_blocks,jangkj,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:40:51Z,ASDCXZ12CSA/Annoy-PyEdu-Rs,ASDCXZ12CSA,0,0,region:us
+2026-11-09T09:41:22Z,ASDCXZ12CSA/Annoy-PyEdu-Rs-Raw,ASDCXZ12CSA,0,0,region:us
+2026-11-09T09:42:10Z,dddddsds31341/longwam-rollout-20261109-160514-sync-1509047-67f20ccd,dddddsds31341,0,0,region:us
+2026-11-09T09:43:34Z,jenniferprincy1205/precinct6-cybersecurity-100m,jenniferprincy1205,0,0,task_categories:text-classification; task_categories:graph-ml; language:en; license:apache-2.0; size_categories:100M<n<1B; region:us; cybersecurity; intrusion-detection; provenance-graphs; MITRE-ATT&…
+2026-11-09T09:44:13Z,hussainshafiq/Pashto-SFT-Mixture,hussainshafiq,0,0,task_categories:text-generation; task_categories:question-answering; annotations_creators:machine-generated; annotations_creators:crowdsourced; multilinguality:multilingual; source_datasets:original;…
+2026-11-09T09:45:34Z,adambuttrick/ror-set-point-matching-train-validation-test-openalex-jev-distill,adambuttrick,0,0,language:multilingual; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ror; affiliations; entit…
+2026-11-09T09:47:07Z,dddddsds31341/longwam-rollout-20261109-163553-sync-1843997-caafb60f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-09T09:47:44Z,Alii2004/lexuz-legislation,Alii2004,0,0,region:us
+2026-11-09T09:49:28Z,dddddsds31341/longwam-rollout-20261109-163318-sync-1815536-80f7ee11,dddddsds31341,0,0,region:us
+2026-11-09T09:50:00Z,benlee-robotics/fr5_pick_cube_20261027_v2,benlee-robotics,0,1,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-09T09:50:17Z,EmmaScharfmann/era5-5.625deg-2000-2015,EmmaScharfmann,0,0,region:us; weather; climate; era5; weatherbench2; nanoweather
+2026-11-09T09:51:45Z,tc-huang-mahjong/mahjong_v1_tray01_red_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-11-09T09:51:46Z,tc-huang-mahjong/mahjong_v1_tray01_red_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-11-09T09:52:10Z,dddddsds31341/longwam-rollout-20261109-161018-sync-1564681-af82a6e4,dddddsds31341,0,0,region:us
+2026-11-09T09:52:20Z,LSGOURI/bimanual-so-sorting,LSGOURI,0,0,region:us
+2026-11-09T09:54:54Z,JBZABC/roadsense-nigeria,JBZABC,0,0,task_categories:tabular-regression; language:en; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask;…
+2026-11-09T09:55:40Z,yzy2006/ACT_tap_dataset,yzy2006,0,0,region:us
+2026-11-09T09:56:20Z,Shamant23/Tilt-yaw-partition,Shamant23,0,1,license:mit; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T09:57:08Z,dddddsds31341/longwam-rollout-20261109-163421-sync-1827205-5330cf9b,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-09T09:57:37Z,hdangngx/VietJobs,hdangngx,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:58:09Z,franklsf/YelpNYC,franklsf,0,0,region:us
+2026-11-09T09:58:29Z,abdukuzi45/amharic-english-cpt-clean-aligned-packed8192-20261109,abdukuzi45,0,0,region:us
+2026-11-09T09:58:56Z,betstar/888starzuz-888starz-apk-452a32,betstar,0,0,license:mit; region:us
+2026-11-09T09:59:12Z,thanhnguyen23/pyramid_cup_unstack,thanhnguyen23,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-09T09:59:30Z,stefanocarrera/kic_D_train-javascript_Qwen3-8B_t1.0_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T09:59:42Z,betstar/casino-pride-casino-pride-eec71d,betstar,0,0,license:mit; region:us
+2026-11-09T10:00:01Z,betstar/alawinscasino-at-alawin-casino-9c79e0,betstar,0,0,license:mit; region:us
+2026-11-09T10:00:41Z,betstar/crazytime-italian-crazy-time-528549,betstar,0,0,license:mit; region:us
+2026-11-09T10:01:13Z,betstar/craybet-us-craybet-8e8e10,betstar,0,0,license:mit; region:us
+2026-11-09T10:01:44Z,betstar/casinito-mx-casinito-mx-c82982,betstar,0,0,license:mit; region:us
+2026-11-09T10:01:46Z,dddddsds31341/longwam-rollout-20261109-164916-sync-1976701-3e6dc6d8,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-09T10:01:49Z,chienhsinlin/helioslm-hdl-demo,chienhsinlin,0,0,language:zh; language:en; license:apache-2.0; region:us; verilog; systemverilog; hdl; rtl; eda
+2026-11-09T10:02:17Z,betstar/mostbet-uz-mostbet-uz-5e792e,betstar,0,0,license:mit; region:us
+2026-11-09T10:02:51Z,betstar/tenobet-uk-tenobet-703bdc,betstar,0,0,license:mit; region:us
+2026-11-09T10:03:52Z,betstar/teno-bet-casino-uk-tenobet-53f540,betstar,0,0,license:mit; region:us
+2026-11-09T10:04:25Z,betstar/crazy-time-it-casino-crazy-time-8e6682,betstar,0,0,license:mit; region:us
+2026-11-09T10:04:34Z,dddddsds31341/longwam-rollout-20261109-161628-sync-1631613-cf996879,dddddsds31341,0,0,region:us
+2026-11-09T10:04:57Z,betstar/888starzpol-888starz-26930c,betstar,0,0,license:mit; region:us
+2026-11-09T10:05:29Z,betstar/nowe-kasyno-nowe-kasyno-4fc7c8,betstar,0,0,license:mit; region:us
+2026-11-09T10:05:38Z,ThreeSixNine/estate-antiques-merged,ThreeSixNine,0,0,region:us
+2026-11-09T10:05:54Z,meo02001/DFOA,meo02001,0,0,region:us
+2026-11-09T10:06:30Z,betstar/tenobet-uk-casino-tenobet-reviews-dd9bca,betstar,0,0,license:mit; region:us
+2026-11-09T10:06:36Z,choogee/kurotsuchi-submission,choogee,0,0,region:us
+2026-11-09T10:06:37Z,choogee/chiyo-submission,choogee,0,0,region:us
+2026-11-09T10:06:38Z,choogee/kankuro-submission,choogee,0,0,region:us
+2026-11-09T10:06:39Z,choogee/kimimaro-submission,choogee,0,0,region:us
+2026-11-09T10:06:40Z,choogee/hanzo-submission,choogee,0,0,region:us
+2026-11-09T10:06:41Z,choogee/shikaku-submission,choogee,0,0,region:us
+2026-11-09T10:07:03Z,betstar/betbolts-uk-betbolt-64e127,betstar,0,0,license:mit; region:us
+2026-11-09T10:07:03Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,region:us
+2026-11-09T10:07:07Z,dddddsds31341/longwam-rollout-20261109-164957-sync-1983301-c7ad6633,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-09T10:07:23Z,hako619/viral-videolar,hako619,0,0,region:us
+2026-11-09T10:07:34Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,region:us
+2026-11-09T10:07:49Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-09T10:07:50Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-09T10:08:27Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-11-09T10:08:30Z,ASD2SAC21D/Annoy-PyEdu-Rs,ASD2SAC21D,0,0,region:us
+2026-11-09T10:08:30Z,sfcbm/Annoy-PyEdu-Rs,sfcbm,0,0,region:us
+2026-11-09T10:08:31Z,sfcbm/Annoy-PyEdu-Rs-Raw,sfcbm,0,0,region:us
+2026-11-09T10:08:31Z,ASD2SAC21D/Annoy-PyEdu-Rs-Raw,ASD2SAC21D,0,0,region:us
+2026-11-09T10:08:36Z,betstar/esportes-da-sorte-esporte-d-sorte-01277b,betstar,0,0,license:mit; region:us
+2026-11-09T10:08:46Z,dbaysal/UnLeakedTestBench,dbaysal,0,0,region:us
+2026-11-09T10:08:57Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-11-09T10:09:14Z,dddddsds31341/longwam-rollout-20261109-164700-sync-1955528-50d0f7bc,dddddsds31341,0,0,region:us
+2026-11-09T10:09:21Z,QWDSA12SA/Annoy-PyEdu-Rs,QWDSA12SA,0,0,region:us
+2026-11-09T10:09:22Z,QWDSA12SA/Annoy-PyEdu-Rs-Raw,QWDSA12SA,0,0,region:us
+2026-11-09T10:09:37Z,betstar/dragon-bet-dragon-bet-02ab4f,betstar,0,0,license:mit; region:us
+2026-11-09T10:10:10Z,betstar/cluboro7-oro7-b8442b,betstar,0,0,license:mit; region:us
+2026-11-09T10:10:41Z,betstar/wyns-onlinecasino-wyns-casino-7ff7ee,betstar,0,0,license:mit; region:us
+2026-11-09T10:10:57Z,SoSolaris/test_teleop,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T10:11:13Z,betstar/vipluck-casino-it-vip-luck-casino-1e120a,betstar,0,0,license:mit; region:us
+2026-11-09T10:11:45Z,betstar/herovegas-au-vegas-hero-b66042,betstar,0,0,license:mit; region:us
+2026-11-09T10:12:10Z,drifterpixel/hugging-face-repocard-api-and-yaml-card-facts,drifterpixel,0,0,license:cc-by-4.0; region:us
+2026-11-09T10:12:10Z,dddddsds31341/longwam-rollout-20261109-162257-sync-1702696-a2f02c09,dddddsds31341,0,0,region:us
+2026-11-09T10:12:17Z,betstar/golde-bet-br-gol-de-bet-e645e4,betstar,0,0,license:mit; region:us
+2026-11-09T10:12:50Z,betstar/lalabet-apps-nl-lala-bet-06c612,betstar,0,0,license:mit; region:us
+2026-11-09T10:13:22Z,betstar/madcasino2-uk-mad-casino-82f9e8,betstar,0,0,license:mit; region:us
+2026-11-09T10:13:52Z,adfefsdad/Annoy-PyEdu-Rs,adfefsdad,0,0,region:us
+2026-11-09T10:14:24Z,adfefsdad/Annoy-PyEdu-Rs-Raw,adfefsdad,0,0,region:us
+2026-11-09T10:14:37Z,nganductai/tool-le,nganductai,0,0,region:us
+2026-11-09T10:14:38Z,openeurollm/llm-judge-bsc-edu-annotations,openeurollm,0,0,region:us
+2026-11-09T10:14:54Z,betstar/millioner-can-com-millioner-casino-bae8a8,betstar,0,0,license:mit; region:us
+2026-11-09T10:15:26Z,betstar/pick-win-org-pickwin-0af671,betstar,0,0,license:mit; region:us
+2026-11-09T10:15:35Z,RomanSentsov-MIPT/test_dataset1,RomanSentsov-MIPT,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T10:15:57Z,betstar/spin-hub-co-uk-spinhub-aed550,betstar,0,0,license:mit; region:us
+2026-11-09T10:16:28Z,betstar/vox-casino-pol-com-vox-casino-2916d5,betstar,0,0,license:mit; region:us
+2026-11-09T10:17:08Z,dddddsds31341/longwam-rollout-20261109-165222-sync-2005827-05a7800d,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-09T10:17:12Z,CharanVelavan/orca-ntn-kb-v2,CharanVelavan,0,0,region:us
+2026-11-09T10:18:09Z,taichi116/sarmal_3temp_speed_2_20261109_172724,taichi116,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-09T10:18:12Z,LSGOURI/bimanual-so-sorting-1,LSGOURI,0,0,region:us
+2026-11-09T10:18:33Z,beatrizh/sn38-r19,beatrizh,0,0,region:us
+2026-11-09T10:19:18Z,chaofen-delicious/Annoy-PyEdu-Rs,chaofen-delicious,0,0,region:us
+2026-11-09T10:19:19Z,chaofen-delicious/Annoy-PyEdu-Rs-Raw,chaofen-delicious,0,0,region:us
+2026-11-09T10:19:40Z,dmostafa/fajrayn-lipsync-tmp,dmostafa,0,0,region:us
+2026-11-09T10:20:15Z,dddddsds31341/longwam-rollout-20261109-162708-sync-1748429-85606feb,dddddsds31341,0,0,region:us
