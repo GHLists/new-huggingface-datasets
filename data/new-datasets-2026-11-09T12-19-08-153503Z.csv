@@ -1,0 +1,274 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T11:19:13Z,Udev-miam/Lieusaint-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:19:38Z,Udev-miam/Lognes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:20:10Z,Udev-miam/Dammarie-les-Lys,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:20:16Z,Waseem2106/vqa-150k-multidomain,Waseem2106,0,1,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T11:22:01Z,tc-huang-mahjong/mahjong_v1_rack01_red_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-11-09T11:22:01Z,tc-huang-mahjong/mahjong_v1_stand_rack01_red_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-11-09T11:22:01Z,tc-huang-mahjong/mahjong_v1_stand01_red_ovphysx_detour_vary_off5,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; region:us; LeRobot; mahjong; so101; simulation; isaac-lab
+2026-11-09T11:22:02Z,tc-huang-mahjong/mahjong_v1_stand_rack01_red_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-11-09T11:22:02Z,tc-huang-mahjong/mahjong_v1_stand01_red_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-11-09T11:22:07Z,happy8825/videofoundry-funqa-video-lists,happy8825,0,0,license:other; region:us
+2026-11-09T11:22:23Z,Jshsbsj/Inddata,Jshsbsj,0,0,size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T11:22:29Z,tc-huang-mahjong/mahjong_v1_rack01_red_ovphysx_detour_vary_off5_failed,tc-huang-mahjong,0,0,region:us
+2026-11-09T11:22:33Z,Udev-miam/La-Ferte-sous-Jouarre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:22:49Z,Udev-miam/Moret-Loing-et-Orvanne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:22:54Z,asd12dscxzcz12/Annoy-PyEdu-Rs,asd12dscxzcz12,0,0,region:us
+2026-11-09T11:23:03Z,asd12dscxzcz12/Annoy-PyEdu-Rs-Raw,asd12dscxzcz12,0,0,region:us
+2026-11-09T11:23:06Z,Udev-miam/Serris,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:23:25Z,Udev-miam/Roissy-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:23:30Z,happy8825/videofoundry-medvidbench-video-lists,happy8825,0,0,license:other; region:us
+2026-11-09T11:23:39Z,happy8825/videofoundry-pasbench-video-video-lists,happy8825,0,0,license:other; region:us
+2026-11-09T11:23:43Z,Jshsbsj/850MindData,Jshsbsj,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T11:23:46Z,pengxianglu/vigiclaw-yolo-dataset,pengxianglu,0,0,task_categories:object-detection; task_categories:image-segmentation; size_categories:n<1K; region:us; robotics; computer-vision; bounding-boxes; polygon-annotations
+2026-11-09T11:23:50Z,happy8825/videofoundry-robochrono-video-lists,happy8825,0,0,license:other; region:us
+2026-11-09T11:23:58Z,Udev-miam/Avon-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:24:12Z,Udev-miam/Le-Mee-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:24:24Z,Udev-miam/Savigny-le-Temple,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:24:45Z,Udev-miam/Saint-Fargeau-Ponthierry,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:25:09Z,Udev-miam/Chessy-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:25:27Z,Udev-miam/Moissy-Cramayel,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:25:33Z,AnnaKrupina/Multilingual_Tax_logs,AnnaKrupina,0,0,region:us
+2026-11-09T11:26:04Z,ngisedroba191026/wigin-submission-slot-03,ngisedroba191026,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T11:27:23Z,Udev-miam/Noisiel,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:27:25Z,SAD12E21/Annoy-PyEdu-Rs,SAD12E21,0,0,region:us
+2026-11-09T11:27:26Z,SAD12E21/Annoy-PyEdu-Rs-Raw,SAD12E21,0,0,region:us
+2026-11-09T11:27:38Z,Udev-miam/Thorigny-sur-Marne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:27:52Z,Udev-miam/Dammartin-en-Goele,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:28:07Z,Udev-miam/Nangis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:28:29Z,Udev-miam/Vaires-sur-Marne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:28:49Z,Udev-miam/Tournan-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:29:37Z,Udev-miam/Fontenay-Tresigny,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:29:51Z,Udev-miam/Esbly,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:30:05Z,Udev-miam/Bailly-Romainvilliers,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:30:19Z,Udev-miam/Crecy-la-Chapelle,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:30:33Z,abdelrhmannile/ArabicMadness-pages,abdelrhmannile,0,0,task_categories:text-generation; language:ar; size_categories:100K<n<1M; region:us; arabic; classical-arabic; pretraining; arabic-linguistics
+2026-11-09T11:32:11Z,Udev-miam/Magny-le-Hongre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:32:33Z,Udev-miam/Saint-Mard-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:33:24Z,dabingzz/InfraOptBench,dabingzz,0,0,region:us
+2026-11-09T11:33:53Z,CHOI0126/slmfim-pilot-data,CHOI0126,0,0,region:us; slm-fim
+2026-11-09T11:33:58Z,Cutting3dg3/bge-m3-tid-chromadb,Cutting3dg3,0,0,language:en; region:us; chromadb; doc2dial; conversational-retrieval
+2026-11-09T11:34:25Z,Udev-miam/Vert-Saint-Denis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:34:50Z,Lakonik/blog-media,Lakonik,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:36:24Z,narugo1992/test_repo_20261109113624731609_cd0e9bd23b34dbd94d80c2548638a051878b6474,narugo1992,0,0,region:us
+2026-11-09T11:36:49Z,mkpoli/tangut-strokes,mkpoli,0,0,task_categories:image-to-text; language:txg; license:cc-by-4.0; size_categories:n<1K; region:us; handwriting; tangut; stroke-recognition; low-resource
+2026-11-09T11:36:50Z,Udev-miam/Barbizon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:37:02Z,Udev-miam/Gretz-Armainvilliers,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:37:20Z,coachuttam/aml-alert-investigator-data,coachuttam,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-11-09T11:37:34Z,narugo1992/test_repo_20261109113733997852_825defd6ad4cc8dceec03c304e04a29e0f4b25e6,narugo1992,0,0,region:us
+2026-11-09T11:37:52Z,Udev-miam/Nanteuil-les-Meaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:01Z,Udev-miam/Saint-Germain-sur-Morin,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:09Z,Udev-miam/Saint-Thibault-des-Vignes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:11Z,narugo1992/test_repo_20261109113810959658_cd816e2c32cb8c0911da582fbd445ccfc82c65c4,narugo1992,0,0,region:us
+2026-11-09T11:38:21Z,Udev-miam/Vaux-le-Penil,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:26Z,narugo1992/test_repo_20261109113826318427_a70695c35d87590491b9387c876797017d53be0d,narugo1992,0,0,region:us
+2026-11-09T11:38:32Z,Udev-miam/Bray-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:39Z,Udev-miam/Lizy-sur-Ourcq,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:47Z,Udev-miam/Souppes-sur-Loing,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:38:57Z,Udev-miam/Mareuil-les-Meaux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:39:02Z,aurateam/Aura_2_0_DEMOS,aurateam,0,0,license:apache-2.0; region:us
+2026-11-09T11:40:16Z,Udev-miam/Saint-Soupplets,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:41:29Z,Udev-miam/Servon-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:41:41Z,ZiyunPOLYU/ted-downstream-eo,ZiyunPOLYU,0,0,license:other; size_categories:100K<n<1M; modality:geospatial; region:us; earth-observation; remote-sensing; sentinel-2; hls
+2026-11-09T11:41:56Z,Udev-miam/Emerainville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:42:26Z,abdukuzi45/amharic-english-cpt-clean-aligned-packed8192-20261109-v2,abdukuzi45,0,0,region:us
+2026-11-09T11:43:09Z,Udev-miam/Brou-sur-Chantereine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:43:18Z,Udev-miam/La-Ferte-Gaucher,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:43:20Z,narugo1992/test_repo_20261109114320294606_3d8c3fc7156fa01fb4fecb1549bba1036aaa6125,narugo1992,0,0,region:us
+2026-11-09T11:43:40Z,Udev-miam/Mormant,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:44:07Z,Udev-miam/Trilport,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:44:09Z,KHFUIQWDWQ/Annoy-PyEdu-Rs,KHFUIQWDWQ,0,0,region:us
+2026-11-09T11:44:10Z,KHFUIQWDWQ/Annoy-PyEdu-Rs-Raw,KHFUIQWDWQ,0,0,region:us
+2026-11-09T11:44:26Z,Udev-miam/Le-Mesnil-Amelot,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:44:28Z,sadsad2dw/Annoy-PyEdu-Rs,sadsad2dw,0,0,region:us
+2026-11-09T11:44:29Z,sadsad2dw/Annoy-PyEdu-Rs-Raw,sadsad2dw,0,0,region:us
+2026-11-09T11:44:51Z,Udev-miam/Bois-le-Roi-77,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:45:00Z,Piter78789/Jones1,Piter78789,0,0,region:us
+2026-11-09T11:45:26Z,narugo1992/test_repo_20261109114526496130_15e6a0ce5d122a3fb6ace7face89f164712f1619,narugo1992,0,0,region:us
+2026-11-09T11:45:45Z,Udev-miam/Mouroux,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:45:55Z,Udev-miam/Rozay-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:46:03Z,Udev-miam/Saint-Pierre-les-Nemours,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:46:09Z,Udev-miam/Guignes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:46:47Z,Piter78789/Fitrzoy,Piter78789,0,0,region:us
+2026-11-09T11:47:27Z,Fritter-ASR/Training-Sources,Fritter-ASR,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; index; speech; asr; tts; fritt…
+2026-11-09T11:48:06Z,Udev-miam/Saint-Mammes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T11:48:33Z,Statskontoretdatalabb/Regeringsuppdrag,Statskontoretdatalabb,0,0,license:cc0-1.0; region:us
+2026-11-09T11:49:19Z,indahl/sage-v-council-training,indahl,0,0,language:en; license:other; arxiv:2404.10774; region:us; lora; mlx; evaluation; grounding; fact-checking; calibration
+2026-11-09T11:49:21Z,JonusNattapong/lfm3-v9-sovereign-agent,JonusNattapong,0,0,region:us
+2026-11-09T11:49:26Z,Udev-miam/Bourron-Marlotte,Udev-miam,0,0,region:us
+2026-11-09T11:50:40Z,Udev-miam/Cesson,Udev-miam,0,0,region:us
+2026-11-09T11:50:46Z,kienpham70411/canine,kienpham70411,0,0,region:us
+2026-11-09T11:50:59Z,Udev-miam/Champagne-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T11:51:45Z,Udev-miam/Chanteloup-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T11:51:57Z,medarc/brainmarks-smri,medarc,0,0,task_categories:image-classification; task_categories:image-segmentation; license:other; size_categories:100K<n<1M; region:us; medical; neuroimaging; mri; brain; nifti
+2026-11-09T11:52:07Z,Udev-miam/Chevry-Cossigny,Udev-miam,0,0,region:us
+2026-11-09T11:52:27Z,Udev-miam/Croissy-Beaubourg,Udev-miam,0,0,region:us
+2026-11-09T11:52:40Z,neverlish/record-apple-20261109-1,neverlish,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T11:53:31Z,Udev-miam/Othis,Udev-miam,0,0,region:us
+2026-11-09T11:53:32Z,ricste/items_lite,ricste,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T11:53:38Z,Udev-miam/Samois-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T11:53:45Z,Udev-miam/Villeneuve-le-Comte,Udev-miam,0,0,region:us
+2026-11-09T11:53:53Z,Udev-miam/Chailly-en-Biere,Udev-miam,0,0,region:us
+2026-11-09T11:54:11Z,Udev-miam/Courtry,Udev-miam,0,0,region:us
+2026-11-09T11:54:21Z,Udev-miam/Faremoutiers,Udev-miam,0,0,region:us
+2026-11-09T11:54:42Z,Udev-miam/Moussy-le-Neuf,Udev-miam,0,0,region:us
+2026-11-09T11:54:52Z,2306nian/Frontier_Real2Sim_assets,2306nian,0,0,language:en; language:zh; region:us; robotics; real2sim; benchmark; yam; pi05
+2026-11-09T11:55:07Z,EdoardoAvenia/kefir-sft-strict-10k-experiments-20261109,EdoardoAvenia,0,0,language:en; region:us
+2026-11-09T11:55:19Z,Udev-miam/Pringy-77,Udev-miam,0,0,region:us
+2026-11-09T11:55:25Z,Udev-miam/Varennes-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T11:55:31Z,Udev-miam/Chateau-Landon,Udev-miam,0,0,region:us
+2026-11-09T11:55:37Z,Udev-miam/Couilly-Pont-aux-Dames,Udev-miam,0,0,region:us
+2026-11-09T11:55:44Z,Udev-miam/Donnemarie-Dontilly,Udev-miam,0,0,region:us
+2026-11-09T11:55:50Z,Udev-miam/Jouarre,Udev-miam,0,0,region:us
+2026-11-09T11:55:56Z,Udev-miam/Le-Chatelet-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T11:56:18Z,lmsforAI/so101_muddler_insert_p1_merged50_20261109_raw,lmsforAI,0,0,region:us; lerobot; robotics; so101; imitation-learning
+2026-11-09T11:56:23Z,DVijayan/vilhyra-recache-firstparty704,DVijayan,0,0,region:us
+2026-11-09T11:56:30Z,Udev-miam/Lesigny-77,Udev-miam,0,0,region:us
+2026-11-09T11:56:41Z,Udev-miam/Quincy-Voisins,Udev-miam,0,0,region:us
+2026-11-09T11:56:48Z,Udev-miam/Saint-Pathus,Udev-miam,0,0,region:us
+2026-11-09T11:56:56Z,Udev-miam/Chaumes-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T11:57:02Z,Udev-miam/Ferrieres-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T11:57:03Z,hexsyro/biodiversity-and-conservation-community,hexsyro,0,0,region:us
+2026-11-09T11:57:04Z,HIT-Robotics/Pick_and_Place_20261109_115257,HIT-Robotics,0,0,region:us
+2026-11-09T11:57:18Z,lmsforAI/so101_muddler_insert_p1_merged50_20261109_masked,lmsforAI,0,0,region:us; lerobot; robotics; so101; imitation-learning
+2026-11-09T11:57:41Z,Udev-miam/Montigny-sur-Loing,Udev-miam,0,0,region:us
+2026-11-09T11:57:48Z,Udev-miam/Rebais,Udev-miam,0,0,region:us
+2026-11-09T11:57:56Z,Udev-miam/Egreville,Udev-miam,0,0,region:us
+2026-11-09T11:58:02Z,Udev-miam/Boissy-le-Chatel,Udev-miam,0,0,region:us
+2026-11-09T11:58:08Z,Udev-miam/Coupvray,Udev-miam,0,0,region:us
+2026-11-09T11:58:13Z,sksak/blockpickup1,sksak,0,0,region:us
+2026-11-09T11:58:20Z,sadfsafasr/Annoy-PyEdu-Rs,sadfsafasr,0,0,region:us
+2026-11-09T11:58:21Z,sadfsafasr/Annoy-PyEdu-Rs-Raw,sadfsafasr,0,0,region:us
+2026-11-09T11:58:29Z,SDASD12SAD/Annoy-PyEdu-Rs-Raw,SDASD12SAD,0,0,region:us
+2026-11-09T11:58:29Z,SDASD12SAD/Annoy-PyEdu-Rs,SDASD12SAD,0,0,region:us
+2026-11-09T11:58:36Z,lmsforAI/so101_muddler_retrieve_p1_merged50_20261109_raw,lmsforAI,0,0,region:us; lerobot; robotics; so101; imitation-learning
+2026-11-09T11:58:48Z,Udev-miam/Crouy-sur-Ourcq,Udev-miam,0,0,region:us
+2026-11-09T11:58:48Z,emin-alkan/appstore-2026,emin-alkan,0,0,region:us
+2026-11-09T11:58:54Z,Udev-miam/Pontcarre,Udev-miam,0,0,region:us
+2026-11-09T11:59:02Z,ukisai/opsa_sft_50k_v1,ukisai,0,0,task_categories:text-generation; language:en; language:multilingual; license:other; size_categories:10K<n<100K; region:us; sft; multi-turn; agents; terminal; code; software-engineering; math; science…
+2026-11-09T11:59:09Z,sad12esa21edqxwsa/Annoy-PyEdu-Rs,sad12esa21edqxwsa,0,0,region:us
+2026-11-09T11:59:10Z,sad12esa21edqxwsa/Annoy-PyEdu-Rs-Raw,sad12esa21edqxwsa,0,0,region:us
+2026-11-09T11:59:17Z,lmsforAI/so101_muddler_retrieve_p1_merged50_20261109_masked,lmsforAI,0,0,region:us; lerobot; robotics; so101; imitation-learning
+2026-11-09T11:59:21Z,Udev-miam/Saacy-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T11:59:27Z,Udev-miam/Seine-Port,Udev-miam,0,0,region:us
+2026-11-09T11:59:41Z,w-ahmad/model1a_v3_fix_reduced,w-ahmad,0,0,region:us
+2026-11-09T11:59:42Z,Udev-miam/Vulaines-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T11:59:50Z,Udev-miam/Chartrettes,Udev-miam,0,0,region:us
+2026-11-09T11:59:56Z,Udev-miam/Chauconin-Neufmontiers,Udev-miam,0,0,region:us
+2026-11-09T11:59:58Z,TryDotAtwo/graph-bfs-atlas,TryDotAtwo,0,0,task_categories:other; language:en; region:us; graph; bfs; cayley-graph
+2026-11-09T12:00:07Z,1lock/tm-sub09,1lock,0,0,region:us
+2026-11-09T12:00:16Z,Udev-miam/Collegien,Udev-miam,0,0,region:us
+2026-11-09T12:00:33Z,herrera555/sn38-round19,herrera555,0,0,region:us
+2026-11-09T12:00:40Z,Udev-miam/Coubert,Udev-miam,0,0,region:us
+2026-11-09T12:01:03Z,Udev-miam/Dampmart,Udev-miam,0,0,region:us
+2026-11-09T12:01:09Z,Udev-miam/La-Chapelle-la-Reine,Udev-miam,0,0,region:us
+2026-11-09T12:01:16Z,Udev-miam/La-Rochette-77,Udev-miam,0,0,region:us
+2026-11-09T12:01:30Z,CarlaSabia/memes-da-carla,CarlaSabia,0,0,region:us
+2026-11-09T12:01:40Z,Udev-miam/Lumigny-Nesles-Ormeaux,Udev-miam,0,0,region:us
+2026-11-09T12:01:42Z,Mezurilo/hypertension-departements-france-2024,Mezurilo,0,0,language:fr; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; health; public-health; france; hypertension
+2026-11-09T12:02:04Z,dsad1dsa21/Annoy-PyEdu-Rs,dsad1dsa21,0,0,region:us
+2026-11-09T12:02:06Z,Udev-miam/Thomery,Udev-miam,0,0,region:us
+2026-11-09T12:02:11Z,dsad1dsa21/Annoy-PyEdu-Rs-Raw,dsad1dsa21,0,0,region:us
+2026-11-09T12:02:15Z,Udev-miam/Verneuil-l-Etang,Udev-miam,0,0,region:us
+2026-11-09T12:02:21Z,Udev-miam/Villenoy,Udev-miam,0,0,region:us
+2026-11-09T12:02:28Z,Udev-miam/Annet-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:02:32Z,abdukuzi45/amharic-english-cpt-clean-aligned-packed8000-20261109,abdukuzi45,0,0,region:us
+2026-11-09T12:02:37Z,Udev-miam/Boissise-le-Roi,Udev-miam,0,0,region:us
+2026-11-09T12:02:46Z,Udev-miam/Champeaux-77,Udev-miam,0,0,region:us
+2026-11-09T12:02:52Z,Udev-miam/Chenoise-Cucharmoy,Udev-miam,0,0,region:us
+2026-11-09T12:02:58Z,Udev-miam/Esmans,Udev-miam,0,0,region:us
+2026-11-09T12:03:04Z,Udev-miam/Guerard,Udev-miam,0,0,region:us
+2026-11-09T12:03:07Z,model-v001/model-uncensored-v001,model-v001,0,0,region:us
+2026-11-09T12:03:09Z,Udev-miam/Jossigny,Udev-miam,0,0,region:us
+2026-11-09T12:03:16Z,Udev-miam/Larchant,Udev-miam,0,0,region:us
+2026-11-09T12:03:22Z,Udev-miam/Nandy,Udev-miam,0,0,region:us
+2026-11-09T12:03:28Z,Udev-miam/Pommeuse,Udev-miam,0,0,region:us
+2026-11-09T12:03:38Z,Udev-miam/Villiers-Saint-Georges,Udev-miam,0,0,region:us
+2026-11-09T12:03:47Z,Udev-miam/Cannes-Ecluse,Udev-miam,0,0,region:us
+2026-11-09T12:03:53Z,Udev-miam/Chalifert,Udev-miam,0,0,region:us
+2026-11-09T12:04:00Z,Udev-miam/Changis-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:04:06Z,Udev-miam/Choisy-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:04:25Z,Udev-miam/Livry-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T12:04:28Z,Udev-miam/Maison-Rouge,Udev-miam,0,0,region:us
+2026-11-09T12:04:30Z,sentin3l-mrb/prismatix-sft,sentin3l-mrb,0,0,license:apache-2.0; region:us
+2026-11-09T12:04:46Z,Udev-miam/Marles-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:04:51Z,Udev-miam/Moncourt-Fromonville,Udev-miam,0,0,region:us
+2026-11-09T12:04:57Z,Udev-miam/Pomponne,Udev-miam,0,0,region:us
+2026-11-09T12:04:59Z,tuanly16156/seaport,tuanly16156,0,0,region:us
+2026-11-09T12:05:03Z,Udev-miam/Saint-Germain-Laval-77,Udev-miam,0,0,region:us
+2026-11-09T12:05:09Z,Udev-miam/Sammeron,Udev-miam,0,0,region:us
+2026-11-09T12:05:15Z,callmezuy/spatial-vg,callmezuy,0,0,region:us
+2026-11-09T12:05:20Z,Udev-miam/Samoreau,Udev-miam,0,0,region:us
+2026-11-09T12:05:26Z,Udev-miam/Villeneuve-sur-Bellot,Udev-miam,0,0,region:us
+2026-11-09T12:05:32Z,Udev-miam/Villevaude,Udev-miam,0,0,region:us
+2026-11-09T12:05:37Z,Udev-miam/Voulx,Udev-miam,0,0,region:us
+2026-11-09T12:05:51Z,Udev-miam/Arbonne-la-Foret,Udev-miam,0,0,region:us
+2026-11-09T12:06:05Z,Udev-miam/Bagneaux-sur-Loing,Udev-miam,0,0,region:us
+2026-11-09T12:06:10Z,Udev-miam/Beton-Bazoches,Udev-miam,0,0,region:us
+2026-11-09T12:06:46Z,Udev-miam/Blandy-77,Udev-miam,0,0,region:us
+2026-11-09T12:07:06Z,Udev-miam/Boissise-la-Bertrand,Udev-miam,0,0,region:us
+2026-11-09T12:07:21Z,Udev-miam/Buthiers-77,Udev-miam,0,0,region:us
+2026-11-09T12:07:27Z,Udev-miam/Conches-sur-Gondoire,Udev-miam,0,0,region:us
+2026-11-09T12:07:30Z,Udev-miam/Cregy-les-Meaux,Udev-miam,0,0,region:us
+2026-11-09T12:07:37Z,Udev-miam/Grez-sur-Loing,Udev-miam,0,0,region:us
+2026-11-09T12:07:37Z,Ahmered/gemma-swe-traj-1.5k,Ahmered,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; gemma; gemma-4; software-engineering; swe-bench; coding-agents; react; qlora
+2026-11-09T12:07:41Z,badriram939/squai-phase2-full-index,badriram939,0,0,region:us
+2026-11-09T12:07:53Z,Udev-miam/Grisy-Suisnes,Udev-miam,0,0,region:us
+2026-11-09T12:08:07Z,Udev-miam/Isles-les-Meldeuses,Udev-miam,0,0,region:us
+2026-11-09T12:08:12Z,Udev-miam/Jouy-le-Chatel,Udev-miam,0,0,region:us
+2026-11-09T12:08:17Z,Udev-miam/Lorrez-le-Bocage-Preaux,Udev-miam,0,0,region:us
+2026-11-09T12:08:45Z,khanhhoang3571/wetland,khanhhoang3571,0,0,region:us
+2026-11-09T12:08:46Z,Kwj1021/rollout_smolvla_addleft_b32_20k_right_nothing_camfix_20261109_205414,Kwj1021,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T12:08:48Z,Udev-miam/Maincy,Udev-miam,0,0,region:us
+2026-11-09T12:08:54Z,Udev-miam/Maisoncelles-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:08:58Z,w-ahmad/model1a_v3_fixed,w-ahmad,0,0,region:us
+2026-11-09T12:09:20Z,Udev-miam/Mary-sur-Marne,Udev-miam,0,0,region:us
+2026-11-09T12:09:23Z,yagyu77/fusion-ai-agentic-coding,yagyu77,0,0,region:us
+2026-11-09T12:09:26Z,Udev-miam/Moussy-le-Vieux,Udev-miam,0,0,region:us
+2026-11-09T12:09:32Z,Udev-miam/Oissery,Udev-miam,0,0,region:us
+2026-11-09T12:10:14Z,Udev-miam/Rubelles,Udev-miam,0,0,region:us
+2026-11-09T12:10:19Z,Udev-miam/Saint-Cyr-sur-Morin,Udev-miam,0,0,region:us
+2026-11-09T12:10:24Z,Udev-miam/Saint-Jean-les-Deux-Jumeaux,Udev-miam,0,0,region:us
+2026-11-09T12:10:29Z,Udev-miam/Sept-Sorts,Udev-miam,0,0,region:us
+2026-11-09T12:10:35Z,Udev-miam/Sivry-Courtry,Udev-miam,0,0,region:us
+2026-11-09T12:10:49Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-11-09T12:10:50Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-11-09T12:10:54Z,Udev-miam/Varreddes,Udev-miam,0,0,region:us
+2026-11-09T12:11:01Z,Udev-miam/Villiers-sur-Morin,Udev-miam,0,0,region:us
+2026-11-09T12:11:43Z,Udev-miam/Bazoches-les-Bray,Udev-miam,0,0,region:us
+2026-11-09T12:11:48Z,Udev-miam/Bransles,Udev-miam,0,0,region:us
+2026-11-09T12:11:58Z,safafaf4546/Annoy-PyEdu-Rs,safafaf4546,0,0,region:us
+2026-11-09T12:11:58Z,safafaf4546/Annoy-PyEdu-Rs-Raw,safafaf4546,0,0,region:us
+2026-11-09T12:12:06Z,Udev-miam/Clos-Fontaine,Udev-miam,0,0,region:us
+2026-11-09T12:12:25Z,Udev-miam/Compans,Udev-miam,0,0,region:us
+2026-11-09T12:12:26Z,razancodes/ptq-refusal-flips,razancodes,0,0,task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; region:us; ai-safety; quantization; refusal; jailbreak
+2026-11-09T12:12:38Z,shimamooo/unscrew-bottle-xarm-wuji,shimamooo,0,0,region:us
+2026-11-09T12:12:44Z,Udev-miam/Congis-sur-Therouanne,Udev-miam,0,0,region:us
+2026-11-09T12:12:50Z,Udev-miam/Courtacon,Udev-miam,0,0,region:us
+2026-11-09T12:12:54Z,Udev-miam/Fericy,Udev-miam,0,0,region:us
+2026-11-09T12:12:59Z,Udev-miam/Germigny-l-Eveque,Udev-miam,0,0,region:us
+2026-11-09T12:13:07Z,POPZPZ/OSOSO,POPZPZ,0,0,region:us
+2026-11-09T12:13:11Z,HealthyBoys2/VitamineChan,HealthyBoys2,0,0,license:unlicense; region:us
+2026-11-09T12:13:15Z,liuff1568/Annoy-PyEdu-Rs,liuff1568,0,0,region:us
+2026-11-09T12:13:16Z,liuff1568/Annoy-PyEdu-Rs-Raw,liuff1568,0,0,region:us
+2026-11-09T12:13:28Z,Udev-miam/Guermantes,Udev-miam,0,0,region:us
+2026-11-09T12:13:51Z,Udev-miam/Juilly-77,Udev-miam,0,0,region:us
+2026-11-09T12:14:12Z,Udev-miam/La-Grande-Paroisse,Udev-miam,0,0,region:us
+2026-11-09T12:14:53Z,Udev-miam/Le-Vaudoue,Udev-miam,0,0,region:us
+2026-11-09T12:14:59Z,Udev-miam/Liverdy-en-Brie,Udev-miam,0,0,region:us
+2026-11-09T12:15:34Z,Udev-miam/Longperrier,Udev-miam,0,0,region:us
+2026-11-09T12:15:45Z,LarsRichter1904/grab_needle_v2_20261109_121948,LarsRichter1904,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T12:15:53Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-09T12:15:53Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-09T12:16:49Z,thaole84101/grape,thaole84101,0,0,region:us
+2026-11-09T12:16:50Z,HIT-Robotics/Pick_and_Place_20261109_120057,HIT-Robotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T12:16:54Z,Udev-miam/Longueville-77,Udev-miam,0,0,region:us
+2026-11-09T12:16:58Z,Udev-miam/Marolles-sur-Seine,Udev-miam,0,0,region:us
+2026-11-09T12:17:01Z,Udev-miam/Misy-sur-Yonne,Udev-miam,0,0,region:us
+2026-11-09T12:17:06Z,Udev-miam/Montge-en-Goele,Udev-miam,0,0,region:us
+2026-11-09T12:17:34Z,sadfsg4546/Annoy-PyEdu-Rs,sadfsg4546,0,0,region:us
+2026-11-09T12:17:35Z,sadfsg4546/Annoy-PyEdu-Rs-Raw,sadfsg4546,0,0,region:us
+2026-11-09T12:18:18Z,Udev-miam/Mortcerf,Udev-miam,0,0,region:us
+2026-11-09T12:18:23Z,Udev-miam/Noisy-sur-Ecole,Udev-miam,0,0,region:us
+2026-11-09T12:18:28Z,Udev-miam/Penchard,Udev-miam,0,0,region:us
+2026-11-09T12:18:33Z,redmingwei/q5-bridge,redmingwei,0,0,region:us
