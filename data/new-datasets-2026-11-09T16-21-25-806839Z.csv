@@ -1,0 +1,139 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T15:19:07Z,akhilbattula/gemma4-31b-odia-ocr-bench-results,akhilbattula,0,0,task_categories:image-to-text; language:or; license:cc-by-4.0; size_categories:n<1K; region:us; ocr; odia; oriya; indic; benchmark; gemma4; ml-intern
+2026-11-09T15:19:08Z,datduong78254/phim4k-shortname-db,datduong78254,0,0,region:us
+2026-11-09T15:20:12Z,cuongngo16170/tandem,cuongngo16170,0,0,region:us
+2026-11-09T15:21:19Z,abdouaziiz/mina-common-voice,abdouaziiz,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T15:22:51Z,jsaizant/ground-truth-bsc-edu-annotations,jsaizant,0,0,license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T15:23:05Z,jsaizant/llm-judge-bsc-edu-annotations,jsaizant,0,0,size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T15:23:20Z,ecuartasm/fine-tuning-course-assets,ecuartasm,0,0,language:es; license:other; size_categories:10K<n<100K; format:arrow; modality:text; library:datasets; library:mlcroissant; region:us; lora; qlora; peft; llama; fine-tuning; education
+2026-11-09T15:25:11Z,phatphan7132/lithosphere,phatphan7132,0,0,region:us
+2026-11-09T15:26:11Z,eason-hk-barcelona/agentmemory-bench5,eason-hk-barcelona,0,0,license:other; region:us; agent-memory; long-horizon; benchmark; trajectories
+2026-11-09T15:26:27Z,burakozmen/vbm695-clinical-turkish-corpus,burakozmen,0,0,task_categories:token-classification; task_categories:automatic-speech-recognition; task_categories:summarization; language:tr; license:mit; size_categories:n<1K; format:audiofolder; modality:audio;…
+2026-11-09T15:27:53Z,geoskyr/GameQA-140K-Sokoban-Test,geoskyr,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T15:28:36Z,visionhdstream/data-vision-02,visionhdstream,0,0,region:us
+2026-11-09T15:28:40Z,kienduong45805/mammoth,kienduong45805,0,0,region:us
+2026-11-09T15:29:24Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-11-09T15:29:25Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-11-09T15:29:53Z,adahmpl/gga-bavarian-20k,adahmpl,0,0,task_categories:translation; language:bar; language:en; license:cc-by-sa-4.0; region:us
+2026-11-09T15:30:34Z,datly59915/fig,datly59915,0,0,region:us
+2026-11-09T15:31:39Z,ViuAI/ViuAI-10M-Chat-Data,ViuAI,0,0,task_categories:text-generation; language:en; language:hi; license:apache-2.0; size_categories:1M<n<10M; region:us; chat; conversational; hinglish; bilingual; 50-50; multi-turn; viuai
+2026-11-09T15:31:55Z,thinhdang68895/arcturus,thinhdang68895,0,0,region:us
+2026-11-09T15:32:11Z,astro-gg/glide-media,astro-gg,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-09T15:32:18Z,danielrosehill/Model-Notes,danielrosehill,0,0,language:en; license:cc-by-4.0; region:us; model-notes; curation
+2026-11-09T15:33:12Z,NextAITeam/Geometry,NextAITeam,0,1,region:us
+2026-11-09T15:33:55Z,Leberkaesweckle/Dataset_UR5e_Schunk_Gripper_50_episodes_09_11_2026_muliple_v2,Leberkaesweckle,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-09T15:34:02Z,Hebrish/AI-Integration-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; ai-integrations; english
+2026-11-09T15:34:17Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-09T15:34:18Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-09T15:34:52Z,ChatY123/to_lc_zy,ChatY123,0,0,license:apache-2.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-09T15:35:19Z,fatimzhra/thesis-data,fatimzhra,0,0,region:us
+2026-11-09T15:35:54Z,Hebrish/AI-Model-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; ai-models; english
+2026-11-09T15:36:07Z,anvo3054/hydro,anvo3054,0,0,region:us
+2026-11-09T15:36:22Z,nikodembartnik/rebot_sim_banana_bowl_20261109_162049,nikodembartnik,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-09T15:37:00Z,Hebrish/API-Ops-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:37:27Z,Hebrish/Architecture-Practice-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; architecture-practice; english
+2026-11-09T15:38:45Z,Hebrish/Claude-Dictations,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; claude-dictations; english
+2026-11-09T15:38:47Z,phawitbinabik/SIM_redcube_pickplace_aug900_N400,phawitbinabik,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T15:39:35Z,ClaudioSavelli/ScienceQA,ClaudioSavelli,0,0,task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-11-09T15:39:39Z,oracle9i88/wubei-station-signal,oracle9i88,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; modality:text; region:us; protostar-climate-2026; climate; forecasting
+2026-11-09T15:40:24Z,nhule20889/mesa,nhule20889,0,0,region:us
+2026-11-09T15:40:28Z,Hebrish/Colloquial-Reduction-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:41:36Z,Hebrish/Data-Tool-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; data-tools; english
+2026-11-09T15:42:15Z,binmu203-toolathlon/Annoy-PyEdu-Rs,binmu203-toolathlon,0,0,region:us
+2026-11-09T15:42:16Z,binmu203-toolathlon/Annoy-PyEdu-Rs-Raw,binmu203-toolathlon,0,0,region:us
+2026-11-09T15:42:40Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs,SAD12EDXZDSAD,0,0,region:us
+2026-11-09T15:42:41Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs-Raw,SAD12EDXZDSAD,0,0,region:us
+2026-11-09T15:42:54Z,faraway00/ExperimentResults,faraway00,0,0,region:us
+2026-11-09T15:42:59Z,SDABASD/Annoy-PyEdu-Rs,SDABASD,0,0,region:us
+2026-11-09T15:43:02Z,SDABASD/Annoy-PyEdu-Rs-Raw,SDABASD,0,0,region:us
+2026-11-09T15:43:50Z,Joyjiang/epi-agent-cohorts,Joyjiang,0,0,task_categories:other; license:cc-by-4.0; region:us; ai-agents; epidemiology; cohort-study; llm
+2026-11-09T15:44:00Z,johnlockefoundation/warn-dupe,johnlockefoundation,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; modality:tabular; library:dataset…
+2026-11-09T15:44:08Z,Hebrish/Date-Time-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; dates-times; english
+2026-11-09T15:44:16Z,Arktricon/Arktricon-dataset,Arktricon,0,0,license:mit; region:us
+2026-11-09T15:44:55Z,Hebrish/Dev-Stack-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; dev-stack; english
+2026-11-09T15:45:06Z,Hebrish/Dropped-Article-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; dropped-articles; english
+2026-11-09T15:45:17Z,sumin1ee/xfer-1110,sumin1ee,0,0,region:us
+2026-11-09T15:45:36Z,Hebrish/Entity-Dense-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:45:46Z,Hebrish/False-Start-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:45:47Z,NEXAS/wan21-prompt-embeddings,NEXAS,0,0,region:us
+2026-11-09T15:46:00Z,Hebrish/Fast-Speech-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:46:28Z,vital-ar/physics-solver-e1-manual-rules,vital-ar,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library…
+2026-11-09T15:46:28Z,Hebrish/Fragment-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:46:53Z,michiel/argpart,michiel,0,0,task_categories:text-classification; language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-11-09T15:47:06Z,Hebrish/Functional-GI-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; functional-gi; english
+2026-11-09T15:47:37Z,Hebrish/GitHub-Trending-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; github-trending; english
+2026-11-09T15:48:00Z,Hebrish/Hardware-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:48:54Z,Hebrish/Idiom-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:49:21Z,Hebrish/Implied-Quote-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; implied-quotes; english
+2026-11-09T15:49:27Z,digit4lsh4d0w/anghabench-c-asm-o0,digit4lsh4d0w,0,0,task_categories:text-generation; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-11-09T15:49:27Z,Hebrish/Israeli-Business-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:49:35Z,digit4lsh4d0w/anghabench-c-asm-o1,digit4lsh4d0w,0,0,task_categories:text-generation; license:other; region:us; code; c; assembly; compiler; x86-64
+2026-11-09T15:49:43Z,digit4lsh4d0w/anghabench-c-asm-o2,digit4lsh4d0w,0,0,task_categories:text-generation; license:other; region:us; code; c; assembly; compiler; x86-64
+2026-11-09T15:49:44Z,digit4lsh4d0w/anghabench-c-asm-o3,digit4lsh4d0w,0,0,task_categories:text-generation; license:other; region:us; code; c; assembly; compiler; x86-64
+2026-11-09T15:50:11Z,Hebrish/Israeli-Place-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; li…
+2026-11-09T15:50:11Z,555timer/framecrafter-datasets,555timer,0,0,task_categories:image-to-image; region:us
+2026-11-09T15:50:51Z,victim822872/pub3439,victim822872,0,0,region:us
+2026-11-09T15:51:51Z,Hebrish/Israeli-Street-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; israeli-streets; english
+2026-11-09T15:52:34Z,attacker8337/pubA3439,attacker8337,0,0,region:us
+2026-11-09T15:52:37Z,g1n0st/3bddabca76e4543e945a931945636d6307b5cdfa,g1n0st,0,0,region:us
+2026-11-09T15:52:53Z,Hebrish/Israeli-TV-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; israeli-tv; english
+2026-11-09T15:53:20Z,marybal7/agieval-v1_1,marybal7,0,0,region:us
+2026-11-09T15:53:23Z,Hebrish/Latin-Phrase-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; latin-phrases; english
+2026-11-09T15:53:32Z,Hebrish/Long-Code-Switching-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; long-code-switch; english
+2026-11-09T15:53:42Z,Hebrish/Long-Tech-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; long-tech; english
+2026-11-09T15:54:09Z,Hebrish/NATO-Alphabet-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; nato-alphabet; english
+2026-11-09T15:55:29Z,SebRivGar/dataset3,SebRivGar,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-09T15:55:38Z,Hebrish/Numerics-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; numerics; english
+2026-11-09T15:56:11Z,Hebrish/Open-Source-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; open-source; english
+2026-11-09T15:56:20Z,Hebrish/Paragraph-Dictation-Passages,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; paragraphs; english
+2026-11-09T15:56:57Z,Hebrish/Phone-Number-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; phone-numbers; english
+2026-11-09T15:57:46Z,Hebrish/Procurement-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; procurement; english
+2026-11-09T15:58:10Z,Hebrish/Run-On-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; run-on; english
+2026-11-09T15:58:26Z,Hebrish/Shingle-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; shingle; english
+2026-11-09T15:58:52Z,Hebrish/Slow-Speech-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; slow-speech; english
+2026-11-09T15:59:06Z,Hebrish/Spelled-Out-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; spelled-out; english
+2026-11-09T15:59:33Z,toolathlon-eval-05/Annoy-PyEdu-Rs,toolathlon-eval-05,0,0,region:us
+2026-11-09T15:59:34Z,toolathlon-eval-05/Annoy-PyEdu-Rs-Raw,toolathlon-eval-05,0,0,region:us
+2026-11-09T15:59:44Z,huvizayaniitohiol/copyright-video-dataset,huvizayaniitohiol,0,0,license:other; region:us
+2026-11-09T15:59:45Z,Hebrish/Spoken-Punctuation-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; spoken-punctuation; english
+2026-11-09T16:00:12Z,Hebrish/Tanach-Verse-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech; asr; fine-tuning; single-speaker; tanach; english
+2026-11-09T16:00:22Z,adhamodi333gmailcom/law,adhamodi333gmailcom,0,0,region:us
+2026-11-09T16:00:45Z,EdoardoAvenia/kefir-sft-strict-5k-continuation-20261109,EdoardoAvenia,0,0,language:en; region:us
+2026-11-09T16:00:53Z,Hebrish/Thinking-Pause-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; pauses; english
+2026-11-09T16:00:54Z,leapshared/SciEdu_trainsim_mineral_20261109,leapshared,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; sciedu; simulation; mujoco; train-sim; domain-randomization; mineral
+2026-11-09T16:01:07Z,Hebrish/Web-Address-Sentences,Hebrish,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; fine-tuning; single-speaker; web-addresses; english
+2026-11-09T16:01:11Z,tool1/Annoy-PyEdu-Rs,tool1,0,0,region:us
+2026-11-09T16:01:11Z,tool1/Annoy-PyEdu-Rs-Raw,tool1,0,0,region:us
+2026-11-09T16:02:35Z,leapshared/SciEdu_trainsim_leaf_20261109,leapshared,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; sciedu; simulation; mujoco; train-sim; domain-randomization; leaf
+2026-11-09T16:03:41Z,leapshared/SciEdu_trainsim_redox_steps_20261109,leapshared,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; sciedu; simulation; mujoco; train-sim; domain-randomization; redox-steps
+2026-11-09T16:04:31Z,naderalfares/english-french-short-long,naderalfares,0,0,task_categories:translation; language:en; language:fr; license:other; size_categories:1K<n<10K; region:us; translation; english; french; verbosity; synthetic
+2026-11-09T16:05:14Z,liufeqww1154/Annoy-PyEdu-Rs,liufeqww1154,0,0,region:us
+2026-11-09T16:05:16Z,liufeqww1154/Annoy-PyEdu-Rs-Raw,liufeqww1154,0,0,region:us
+2026-11-09T16:05:50Z,japan-opendata/competition-knowledge-vault,japan-opendata,0,0,language:ja; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; kaggle; machine-learning; knowledge-vault; paper-summaries
+2026-11-09T16:06:41Z,SkillScreen/SkillScreen-Data,SkillScreen,0,0,task_categories:text-classification; license:other; arxiv:2610.17727; region:us
+2026-11-09T16:07:43Z,hwansung595/memome-places,hwansung595,0,0,license:odbl; modality:geospatial; region:us; openstreetmap; geospatial; sqlite
+2026-11-09T16:07:54Z,toolathlon3/Annoy-PyEdu-Rs,toolathlon3,0,0,region:us
+2026-11-09T16:07:58Z,Gom-sy/migration_gpu3_extra,Gom-sy,0,0,region:us
+2026-11-09T16:08:25Z,toolathlon3/Annoy-PyEdu-Rs-Raw,toolathlon3,0,0,region:us
+2026-11-09T16:08:45Z,Agnuxo/soil-gsd-research-source-archive-20261109,Agnuxo,0,0,language:en; license:mit; region:us; soil; source-code; reproducibility-audit; kaggle
+2026-11-09T16:09:27Z,Chauffeurai/chauffeur-offline-maps,Chauffeurai,0,0,license:odbl; region:us; maps; offline; navigation; openstreetmap; overture-maps; pmtiles
+2026-11-09T16:10:42Z,toolathlon5/Annoy-PyEdu-Rs,toolathlon5,0,0,region:us
+2026-11-09T16:10:42Z,toolathlon5/Annoy-PyEdu-Rs-Raw,toolathlon5,0,0,region:us
+2026-11-09T16:11:30Z,sanggusti/dmb-flywheel-v2,sanggusti,0,0,task_categories:text-generation; task_categories:visual-question-answering; language:en; license:other; region:us; disaster-response; sft; dpo; rlvr
+2026-11-09T16:12:12Z,thurstonpowers/xll-citation-verifier,thurstonpowers,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; legal; citation-verification; laya; silver-labels; reproducibility
+2026-11-09T16:12:25Z,DavidErikMollberg/samromur_l2,DavidErikMollberg,0,0,region:us
+2026-11-09T16:13:12Z,youssef-mahesh/alfurkan_dataset,youssef-mahesh,0,0,region:us
+2026-11-09T16:14:22Z,xXFiEsTaDeAmOnXx/openarm_desk_place_apple,xXFiEsTaDeAmOnXx,0,0,region:us
+2026-11-09T16:14:52Z,osiastossou/mva2023-sod4bird,osiastossou,0,0,region:us
+2026-11-09T16:16:14Z,sfaafaf45454/Annoy-PyEdu-Rs,sfaafaf45454,0,0,region:us
+2026-11-09T16:16:15Z,sfaafaf45454/Annoy-PyEdu-Rs-Raw,sfaafaf45454,0,0,region:us
+2026-11-09T16:16:46Z,ZUO66/wb_cart_water_human_Dong_sonic_v11,ZUO66,0,0,region:us
+2026-11-09T16:16:48Z,Marlo-Closset/ICLR-Dataset,Marlo-Closset,0,0,region:us
+2026-11-09T16:17:54Z,nightly-wave/b0774373,nightly-wave,0,0,region:us
+2026-11-09T16:18:13Z,linliaaa/Annoy-PyEdu-Rs,linliaaa,0,0,region:us
+2026-11-09T16:18:14Z,linliaaa/Annoy-PyEdu-Rs-Raw,linliaaa,0,0,region:us
+2026-11-09T16:18:44Z,kamalx06/splunk-queries,kamalx06,0,0,license:gpl-3.0; region:us
+2026-11-09T16:19:14Z,elliscrosby/springprompt-business-benchmarks,elliscrosby,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; llm-evaluation; benchmark; leaderboard; ecommerce
+2026-11-09T16:19:34Z,binmu203-toolathlon/test-repo,binmu203-toolathlon,0,0,region:us
+2026-11-09T16:19:36Z,Icey444/Judge_ranking_v4,Icey444,0,0,region:us
+2026-11-09T16:20:46Z,buycryptopressrelease/buy-crypto-pressrelease-faq-dataset,buycryptopressrelease,0,0,license:mit; region:us
