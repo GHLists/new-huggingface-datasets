@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-10T14:20:57Z,GarethFW/Design_Synchronicity,GarethFW,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accessibility; inclusiv…
+2026-11-10T14:21:37Z,harry3709/Tabs_Chocolate_Promo_Code_LOVE220721_Get_40_percent_off_on_Every_Purchase,harry3709,0,0,region:us
+2026-11-10T14:22:29Z,MendelBeans/lerobot_zihao_dataset_pick_toy_20261110_221712,MendelBeans,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T14:22:50Z,harry3709/Tabs_Chocolate_Coupon_Code_LOVE032250_Get_20_percent_off_on_Every_Purchase,harry3709,0,0,region:us
+2026-11-10T14:24:10Z,harry3709/Gamsgo_Promo_Code_CPVVM_Get_10_percent_OFF_Depending_on_Product,harry3709,0,0,region:us
+2026-11-10T14:25:30Z,harry3709/Gamsgo_Promo_Code_MYPSR_Get_30_percent_OFF_Depending_on_Product,harry3709,0,0,region:us
+2026-11-10T14:25:33Z,vincent1512/lifemate-train-data,vincent1512,0,0,task_categories:automatic-speech-recognition; task_categories:text-generation; language:vi; size_categories:10K<n<100K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; regi…
+2026-11-10T14:26:49Z,eliebak/clocktower-traces,eliebak,0,0,region:us; blood-on-the-clocktower; social-deduction; llm-evaluation
+2026-11-10T14:27:07Z,harry3709/Gamsgo_Promo_Code_XPF4H_Get_20_percent_OFF_Depending_on_Product,harry3709,0,0,region:us
+2026-11-10T14:27:56Z,harry3709/Gamsgo_Promo_Code_WQQXB_Get_15_percent_OFF_Depending_on_Product,harry3709,0,0,region:us
+2026-11-10T14:28:36Z,mariusandronie/ai-recommendations-ma-due-diligence,mariusandronie,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-11-10T14:29:22Z,soapyyapps/circuit-kavach-cyber-codemixed,soapyyapps,0,0,task_categories:text-generation; language:en; language:hi; language:gu; language:kn; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-11-10T14:29:24Z,Purple-SY/eval_1109_spot01_wrist_hold_20261110_204017,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:29:36Z,Purple-SY/eval_1107_spot02_wrist_hold_20261110_204333,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:30:30Z,kerimov/finemap-qc-refs,kerimov,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:30:49Z,bugrasitemkar/agent-pr-outcomes,bugrasitemkar,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T14:30:54Z,Purple-SY/eval_allspots_spot01_wrist_hold_20261110_210333,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:31:24Z,ogous/llm-judge-switch,ogous,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2007.12626; regio…
+2026-11-10T14:31:43Z,Purple-SY/eval_allspots_spot02_wrist_hold_20261110_210513,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:32:54Z,harry3709/Sunlu_Discount_Code_E70XIOOQAV_Get_20_percent_OFF_on_All_3D_Printing_Filaments_and_Accessories,harry3709,0,0,region:us
+2026-11-10T14:33:04Z,Purple-SY/eval_allspots_spot03_wrist_hold_20261110_211149,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:33:31Z,jsuhong24/Learning-Crew-Dataset,jsuhong24,0,0,region:us
+2026-11-10T14:33:33Z,artsousa/VWorldTI2V,artsousa,0,0,region:us
+2026-11-10T14:33:49Z,Purple-SY/eval_allspots_spot04_wrist_hold_20261110_211325,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:34:31Z,Purple-SY/pick_place_11_09_02spot,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:35:00Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-11-10T14:35:01Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-11-10T14:35:28Z,harry3709/Boderry_Discount_Code_ANJALI_Get_10_percent_Discount_On_All_Products,harry3709,0,0,region:us
+2026-11-10T14:35:44Z,Purple-SY/pick_place_11_10_all,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:36:08Z,harry3709/Rideiron_Coupon_Code_ANJALI_Get_10_percent_off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:36:52Z,Emily227/2Steinbewegen_20261110_152124,Emily227,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T14:36:53Z,harry3709/Montessori_Lernwelt_Discount_Code_ANJALI_Get_20_percent_off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:37:00Z,GarethFW/Accessible_Font_And_Typographic_Design,GarethFW,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accessibility; typograp…
+2026-11-10T14:37:37Z,harry3709/ICEY_Pyramid_Coupon_Code_ANJALI_Get_20_percent_off_on_Your_All_Purchase,harry3709,0,0,region:us
+2026-11-10T14:37:37Z,dAAAb/ware-kitchen-simready,dAAAb,0,0,task_categories:other; language:en; language:zh; license:other; size_categories:n<1K; modality:3d; region:us; simready; openusd; robotics; simulation; kitchen; 3d; glb
+2026-11-10T14:38:17Z,harry3709/GELSHADOW_Coupon_Code_ANJALI_Get_20_percent_Off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:38:24Z,Purple-SY/pick_place_11_10_02,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:38:53Z,harry3709/Helvetus_Discount_Code_ANJALI_Get_20_percent_off_on_All_Purchase,harry3709,0,0,region:us
+2026-11-10T14:39:17Z,liyouzhou/so101-pick-place-15fps,liyouzhou,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T14:39:26Z,PrometheusEXE/Inari,PrometheusEXE,0,0,region:us
+2026-11-10T14:39:32Z,harry3709/Nine_Realms_Discount_Code_ANJALI_Get_25_percent_Off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:40:26Z,harry3709/SoundMorph_Coupon_Code_ANJALI_Get_10_percent_Off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:40:31Z,brandonhawi/nbadb,brandonhawi,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T14:40:35Z,SoSolaris/can-to-mug-se_20261110093459845282_raw,SoSolaris,0,0,region:us
+2026-11-10T14:40:41Z,D4NI1SH/Split_1,D4NI1SH,0,0,region:us
+2026-11-10T14:40:44Z,vruga/g1-plate-lerobot,vruga,0,0,license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lero…
+2026-11-10T14:41:04Z,harry3709/AMVR_Shop_Discount_Code_ANJALI_Get_20_percent_off_on_All_Payment,harry3709,0,0,region:us
+2026-11-10T14:41:11Z,afdasfasd/Annoy-PyEdu-Rs,afdasfasd,0,0,region:us
+2026-11-10T14:41:12Z,afdasfasd/Annoy-PyEdu-Rs-Raw,afdasfasd,0,0,region:us
+2026-11-10T14:41:38Z,harry3709/EasyTatt_Discount_Code_ANJALI_Get_20_percent_off_on_All_Purchase,harry3709,0,0,region:us
+2026-11-10T14:42:16Z,harry3709/Guyker_Discount_Code_ANJALIKUMARI_Get_15_percent_Off_On_All_Products,harry3709,0,0,region:us
+2026-11-10T14:42:38Z,aitelhachmi/mastr-liste,aitelhachmi,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T14:42:44Z,ASDD12DSA/Annoy-PyEdu-Rs,ASDD12DSA,0,0,region:us
+2026-11-10T14:42:45Z,ASDD12DSA/Annoy-PyEdu-Rs-Raw,ASDD12DSA,0,0,region:us
+2026-11-10T14:43:07Z,realsolution/kapa-market-data,realsolution,0,0,language:ko; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; real-estate; transac…
+2026-11-10T14:43:47Z,PoseyEnder/Annoy-PyEdu-Rs,PoseyEnder,0,0,region:us
+2026-11-10T14:43:47Z,PoseyEnder/Annoy-PyEdu-Rs-Raw,PoseyEnder,0,0,region:us
+2026-11-10T14:46:16Z,kiobst/kartendaten,kiobst,0,0,license:odbl; region:us
+2026-11-10T14:46:34Z,Fatinx48/chengyu-demo-data,Fatinx48,0,0,region:us
+2026-11-10T14:46:58Z,nberezny/franka_pick_place_wp,nberezny,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-10T14:48:31Z,yamaisanerd/Chunking_571_Skynet_fixed,yamaisanerd,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:dask; library:…
+2026-11-10T14:49:27Z,adahmpl/gga-bavarian-20k-test,adahmpl,0,0,task_categories:translation; language:bar; language:en; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-11-10T14:49:32Z,g1n0st/7bbb776a38d4f9a9545fb5c55a266f74c786b767,g1n0st,0,0,region:us
+2026-11-10T14:50:08Z,MariaFPG/eval_place_the_yellow_cube_in_the_yellow_drawer_10111,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-10T14:51:54Z,LinguaSpanApp/Yoruba_code_switch_data_nov_10,LinguaSpanApp,0,0,region:us
+2026-11-10T14:52:33Z,g1n0st/e05db50f56f5678dee5bd5875af69ab46c55c27f,g1n0st,0,0,region:us
+2026-11-10T14:52:50Z,nyu-planet-finders/kepler-centroids,nyu-planet-finders,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; astrono…
+2026-11-10T14:54:00Z,qc19208/alox-project,qc19208,0,0,region:us
+2026-11-10T14:55:16Z,Giannipe/Multi-task,Giannipe,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T14:55:48Z,MariaFPG/eval_place_the_yellow_cube_in_the_yellow_drawer_10112,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-10T14:55:50Z,RicciYazigi/aegistune-billing-benchmark,RicciYazigi,0,0,language:en; language:es; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T14:55:57Z,RicciYazigi/aegistune-evaluation-evidence,RicciYazigi,0,0,language:en; language:es; license:other; region:us
+2026-11-10T14:56:00Z,TylerRen66/so101-colored-tubes-into-rack,TylerRen66,0,0,region:us
+2026-11-10T14:56:02Z,g1n0st/e735d7c709fccdca53af23fc478037959df3f8b6,g1n0st,0,0,region:us
+2026-11-10T14:58:35Z,GarethFW/Inclusive_Design_Library,GarethFW,0,0,language:en; license:mit; modality:text; region:us; accessibility; inclusive-design; user-experience; interaction-design; design-governance; text
+2026-11-10T15:00:08Z,Dario-Shit0/dataset-7efa000f3c0b41a683c79504223405c3,Dario-Shit0,0,0,region:us
+2026-11-10T15:00:28Z,lugman/Qwen3.6-35B-A3B-SmolDataEnv-Trajectories,lugman,0,0,region:us
+2026-11-10T15:01:29Z,MariaFPG/eval_place_the_yellow_cube_in_the_yellow_drawer_10113,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-10T15:01:36Z,neurashieldTechnologies/ALPINESTARS_SR10,neurashieldTechnologies,0,0,region:us
+2026-11-10T15:02:38Z,ClaraZone/RebuildingScene,ClaraZone,0,0,region:us
+2026-11-10T15:03:38Z,ihbkaiser/whopays-exp19,ihbkaiser,0,0,region:us
+2026-11-10T15:07:07Z,arielnova296/storage,arielnova296,0,0,region:us
+2026-11-10T15:08:14Z,Anto01234/Atlantis_Human_SRA_RNA-seq_Metadata_Atlas,Anto01234,0,0,task_categories:tabular-classification; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; biology; bioinformatics; transcriptomics; rna-seq; me…
+2026-11-10T15:09:08Z,pearlyoscar/prayer-studio-deliverables,pearlyoscar,0,0,region:us
+2026-11-10T15:11:10Z,MariaFPG/eval_place_the_yellow_cube_in_the_yellow_drawer_10114,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; tutorial
+2026-11-10T15:12:12Z,hwprojectteam/audiobook_13spk,hwprojectteam,0,0,license:apache-2.0; region:us
+2026-11-10T15:12:45Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-10T15:12:45Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-10T15:15:27Z,madmaxismad/backup-1011-4,madmaxismad,0,0,region:us
+2026-11-10T15:17:00Z,parsaZarabi/konkur-Audio-Vault,parsaZarabi,0,0,region:us
+2026-11-10T15:18:09Z,leeoxiang/ccc-data,leeoxiang,0,0,license:mit; region:us
+2026-11-10T15:18:13Z,OwenJago/Annoy-PyEdu-Rs,OwenJago,0,0,region:us
+2026-11-10T15:18:16Z,OwenJago/Annoy-PyEdu-Rs-Raw,OwenJago,0,0,region:us
+2026-11-10T15:18:19Z,diobrando0/montagem-sombra,diobrando0,0,0,license:other; modality:video; region:us; music-visualizer; video
+2026-11-10T15:19:18Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-10T15:19:19Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-10T15:21:51Z,MariaFPG/eval_place_the_yellow_cube_in_the_yellow_drawer_10115,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; tutorial
+2026-11-10T15:21:52Z,aibattle/aibattle,aibattle,0,0,region:us
+2026-11-10T15:22:42Z,WhitneyHelga/Annoy-PyEdu-Rs,WhitneyHelga,0,0,region:us
+2026-11-10T15:22:43Z,WhitneyHelga/Annoy-PyEdu-Rs-Raw,WhitneyHelga,0,0,region:us
