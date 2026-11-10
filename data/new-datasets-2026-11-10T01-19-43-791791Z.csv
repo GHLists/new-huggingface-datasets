@@ -1,0 +1,41 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-10T00:21:59Z,padiredd/thesis-slide-figures,padiredd,0,0,region:us
+2026-11-10T00:23:18Z,hmk4400/do-digemaps-pharmaceutical-product-registrations,hmk4400,0,0,language:es; license:odbl; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dominican-republic; regulatory-r…
+2026-11-10T00:24:50Z,hmk4400/uy-montevideo-registered-food-products,hmk4400,0,0,language:es; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; uruguay; montevideo; regulator…
+2026-11-10T00:26:20Z,GoneGeNews/MWiki-Backup,GoneGeNews,0,0,license:gpl-3.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-10T00:27:30Z,frankied2/backup-19,frankied2,0,0,region:us
+2026-11-10T00:28:21Z,SAD1D1321321/Annoy-PyEdu-Rs,SAD1D1321321,0,0,region:us
+2026-11-10T00:28:25Z,SAD1D1321321/Annoy-PyEdu-Rs-Raw,SAD1D1321321,0,0,region:us
+2026-11-10T00:28:25Z,ASCXZVHJQWGS/Annoy-PyEdu-Rs,ASCXZVHJQWGS,0,0,region:us
+2026-11-10T00:28:52Z,ASCXZVHJQWGS/Annoy-PyEdu-Rs-Raw,ASCXZVHJQWGS,0,0,region:us
+2026-11-10T00:29:11Z,glp1updates/glp1-price-moves,glp1updates,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; pricing; healthcar…
+2026-11-10T00:31:18Z,ntc-ai/evidence-dial-policies,ntc-ai,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-11-10T00:33:17Z,Cxy124/annulus-heldout,Cxy124,0,0,region:us
+2026-11-10T00:35:35Z,victim822872/gate-003535,victim822872,0,0,region:us
+2026-11-10T00:38:36Z,LoganLuna/aiprover-arxiv-math-index,LoganLuna,0,0,region:us
+2026-11-10T00:39:20Z,myisoaccount/dataset,myisoaccount,0,1,region:us
+2026-11-10T00:39:20Z,corvinus-labs/arrow-slam-gs-eval,corvinus-labs,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T00:40:56Z,Dongkkka/Task_000802_Pick_up_a_white_sanitary_pad_with_right_hand_MCAP,Dongkkka,0,0,task_categories:robotics; language:en; size_categories:n<1K; modality:video; modality:timeseries; region:us; robotis; cyclo_intelligence; robotics; robot-manipulation; ros2; mcap; video; timeseries
+2026-11-10T00:41:43Z,h1testrightmeow/i1181-ctl,h1testrightmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T00:42:37Z,unicornwhodev/fireviewer_probable_fire_v3_native,unicornwhodev,0,0,region:us
+2026-11-10T00:43:34Z,frogpod/Yabbra_sites_20260922_20261110,frogpod,0,0,region:us
+2026-11-10T00:43:35Z,NellWatson/artificial-sanity,NellWatson,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2601.1016…
+2026-11-10T00:44:34Z,dinyu/tvshift-libero-tv8-lerobot,dinyu,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-10T00:47:01Z,h1testmeow/oidc-issuer-1343,h1testmeow,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T00:47:29Z,dsixteen/Niji_1_Girl_5,dsixteen,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T00:48:09Z,ghanaopenai/ghana-pidgin-chat,ghanaopenai,0,0,task_categories:question-answering; task_categories:text-generation; language:pcm; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; region:us; ghana; pidgin; african-nlp; conversational-…
+2026-11-10T00:48:31Z,JerodLee/mooncake-traces,JerodLee,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-10T00:55:57Z,omerincialan/splendera-hero-loop10,omerincialan,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-10T01:03:09Z,Nihar31/opsgym-episodes,Nihar31,0,1,license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; reward-hacking; ai-safet…
+2026-11-10T01:04:41Z,ASD2SAC21D/Annoy-PyEdu-Rs,ASD2SAC21D,0,0,region:us
+2026-11-10T01:04:45Z,ASD2SAC21D/Annoy-PyEdu-Rs-Raw,ASD2SAC21D,0,0,region:us
+2026-11-10T01:06:56Z,corbe19/protostar-climate-MKDir-lead,corbe19,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-11-10T01:09:45Z,binmu203-toolathlon/Annoy-PyEdu-Rs,binmu203-toolathlon,0,0,region:us
+2026-11-10T01:09:54Z,binmu203-toolathlon/Annoy-PyEdu-Rs-Raw,binmu203-toolathlon,0,0,region:us
+2026-11-10T01:12:14Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-10T01:12:31Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-10T01:12:56Z,fomoreferralcode/caldera-sauna-promo-code-gold100,fomoreferralcode,0,0,task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; caldera-sauna; promo-code; discount-code; coupon-code; gold100; wellness
+2026-11-10T01:13:14Z,pratikgx/zonos3-mini-m5-pro-mac-mini-bench,pratikgx,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; benchmark; apple-silicon; mac-mini; mlx; tts; text-to-speech; voice-cloning; zonos3; zyphra
+2026-11-10T01:13:32Z,ArchTianui/transcriber-catalog,ArchTianui,0,0,region:us
+2026-11-10T01:17:05Z,victim822872/dcard-011705,victim822872,0,0,region:us
+2026-11-10T01:17:23Z,kfstiger/pika_test,kfstiger,0,0,region:us
