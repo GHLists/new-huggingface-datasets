@@ -1,0 +1,59 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-10T10:21:56Z,Giannipe/record-test_20261110_111953,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-10T10:22:19Z,mrodher/so101_dataset_test_V6_20261110_102825,mrodher,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T10:24:07Z,henryhale/luganda-reasoning,henryhale,0,0,task_categories:text-generation; task_categories:question-answering; source_datasets:openai/gsm8k; source_datasets:ChilleD/StrategyQA; source_datasets:tasksource/ecqa; source_datasets:cs-giung/clean-…
+2026-11-10T10:25:04Z,robosta-tr11/so101_single_20261110_2,robosta-tr11,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T10:26:05Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-10T10:26:32Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-10T10:27:32Z,FinzData/options-eod-sample,FinzData,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; librar…
+2026-11-10T10:30:38Z,PaulT/live-llm-stock-scores,PaulT,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-11-10T10:31:09Z,liquidvision/crypto-derivatives-sample,liquidvision,0,0,license:cc-by-nc-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; crypto; deriva…
+2026-11-10T10:31:10Z,AarthiPalaniraja/apollo-i2b2-clinical-benchmark,AarthiPalaniraja,0,0,task_categories:token-classification; language:en; license:apache-2.0; region:us; clinical-ner; i2b2; n2c2; snomed-ct; rxnorm; loinc; biomedical-nlp
+2026-11-10T10:33:29Z,GarethFW/Inclusive_HR_System_Governance,GarethFW,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accessibility; disabili…
+2026-11-10T10:35:20Z,HanyueShen/CoastCam-SeaState,HanyueShen,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; modality:geospatial; library:datasets; library:dask; library:polars…
+2026-11-10T10:41:34Z,anxuanng/viewer-path-test,anxuanng,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T10:42:54Z,ZhichengLiao/OPD-PEFT-H800-wandb-offline,ZhichengLiao,0,0,region:us
+2026-11-10T10:43:04Z,Tangydust/metangy-health-topics,Tangydust,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; medical; health; safety; multilingu…
+2026-11-10T10:44:34Z,PiotrSty/bio-insects-en,PiotrSty,0,0,task_categories:text-generation; language:en; license:other; size_categories:100K<n<1M; region:us; pretraining; biology; entomology; english; open-access; pmc
+2026-11-10T10:45:16Z,seriintan/rollout_test_20261110_184404_20261110_184422,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-10T10:45:48Z,sdasdaaw/all_gen_pokemon_picture_data,sdasdaaw,0,0,license:mit; region:us
+2026-11-10T10:45:51Z,openaccessibility/web,openaccessibility,0,0,region:us
+2026-11-10T10:46:51Z,joaovux/pncp-ncm-chapters,joaovux,0,0,task_categories:text-classification; language:pt; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-11-10T10:49:09Z,A77-Nov/TruthfulQA,A77-Nov,0,0,region:us
+2026-11-10T10:49:42Z,kimi-chan/theodolite-L44-break_rel,kimi-chan,0,0,region:us
+2026-11-10T10:51:05Z,sdad1dsad21d/Annoy-PyEdu-Rs,sdad1dsad21d,0,0,region:us
+2026-11-10T10:51:06Z,sdad1dsad21d/Annoy-PyEdu-Rs-Raw,sdad1dsad21d,0,0,region:us
+2026-11-10T10:51:13Z,caseguard/corpus,caseguard,0,0,size_categories:10K<n<100K; format:text; modality:document; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-10T10:53:35Z,DragonMaster442/FIREBALL,DragonMaster442,0,0,task_categories:text-generation; language_creators:crowdsourced; source_datasets:original; language:en; license:cc-by-4.0; size_categories:100K<n<1M; arxiv:2305.01528; region:us; story; storytelling;…
+2026-11-10T10:54:34Z,DASCH2GHNSA/Annoy-PyEdu-Rs,DASCH2GHNSA,0,0,region:us
+2026-11-10T10:54:35Z,DASCH2GHNSA/Annoy-PyEdu-Rs-Raw,DASCH2GHNSA,0,0,region:us
+2026-11-10T10:54:43Z,sddsdf44/Annoy-PyEdu-Rs,sddsdf44,0,0,region:us
+2026-11-10T10:54:44Z,sddsdf44/Annoy-PyEdu-Rs-Raw,sddsdf44,0,0,region:us
+2026-11-10T10:54:51Z,g1n0st/b12420edef44b6380a07414e510a7e68fe222ab6,g1n0st,0,0,region:us
+2026-11-10T10:55:39Z,pollen-robotics/robot-previews,pollen-robotics,0,0,license:other; modality:video; region:us; robotics; reachy-mini; microduck; video
+2026-11-10T10:56:56Z,ZEROLABS1/agents-at-tiny-scale,ZEROLABS1,0,0,region:us
+2026-11-10T10:57:59Z,victim822872/vwr12154,victim822872,0,0,region:us
+2026-11-10T10:58:49Z,LarsRichter1904/rollout_grab_needle_v2_1_20261110_115459,LarsRichter1904,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T10:59:48Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-11-10T10:59:48Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-11-10T11:01:15Z,Aikwed/so101-vpa-10k,Aikwed,0,0,region:us
+2026-11-10T11:02:12Z,sqzheng/50subset,sqzheng,0,0,region:us
+2026-11-10T11:03:08Z,Emily227/1Spielstart1.1_20261110_115026,Emily227,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-10T11:03:51Z,Lingyishui/ClueCorpusSmallDataset,Lingyishui,0,0,license:mit; region:us
+2026-11-10T11:06:25Z,aukerul-shuvo/BD-AgriKG,aukerul-shuvo,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:bn; license:cc-by-4.0; size_categories:n<1K; region:us; text2cypher; cypher; neo4j; knowledge-graph; bangla;…
+2026-11-10T11:07:33Z,lucazanett/new_setup_wiping_adaptive_01,lucazanett,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T11:07:33Z,KMFDSHGSA/Annoy-PyEdu-Rs,KMFDSHGSA,0,0,region:us
+2026-11-10T11:07:54Z,KMFDSHGSA/Annoy-PyEdu-Rs-Raw,KMFDSHGSA,0,0,region:us
+2026-11-10T11:08:29Z,LarsRichter1904/rollout_grab_needle_v2_1_20261110_120448,LarsRichter1904,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T11:10:17Z,Giannipe/GrabCube_20261110_113443,Giannipe,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T11:11:10Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-11-10T11:11:10Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-11-10T11:11:22Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-11-10T11:11:23Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-11-10T11:13:58Z,starkAhmed43/lc-image-6102ff16760c219c320352af,starkAhmed43,0,0,region:us
+2026-11-10T11:16:59Z,nightly-wave/cab33936,nightly-wave,0,0,region:us
+2026-11-10T11:18:04Z,Piter909988889/Rose,Piter909988889,0,0,region:us
+2026-11-10T11:19:54Z,Giannipe/GrabCubetest_20261110_121844,Giannipe,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T11:20:14Z,ASD1212321/Annoy-PyEdu-Rs,ASD1212321,0,0,region:us
+2026-11-10T11:20:15Z,ASD1212321/Annoy-PyEdu-Rs-Raw,ASD1212321,0,0,region:us
+2026-11-10T11:22:20Z,Aikwed/so101-vpa-raw,Aikwed,0,0,region:us
