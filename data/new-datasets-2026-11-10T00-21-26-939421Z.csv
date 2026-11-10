@@ -1,0 +1,53 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-09T23:22:09Z,h1testmeow/dv-ab-jwt-20261109182209,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:23:11Z,h1testmeow/hf11-gated-ds-1794266590,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:25:26Z,h1testmeow/hf11-poc-ds-1794266724,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:27:16Z,RKB109/support-routing-ml-20261109-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-09T23:28:50Z,victim822872/xss-ds3-232849,victim822872,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:29:39Z,h1testmeow/hf11-inline-ds-1794266977,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:29:55Z,g1n0st/3a0f53b3a07c06288d385d59957bc599feec6e6f,g1n0st,0,0,region:us
+2026-11-09T23:31:21Z,NolanCC/lmsys-cleaned-up,NolanCC,0,0,license:mit; region:us
+2026-11-09T23:31:30Z,unicornwhodev/fireviewer_probable_fire_v3,unicornwhodev,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T23:32:04Z,victim822872/xss-ds4-233204,victim822872,0,0,region:us
+2026-11-09T23:32:36Z,Salamike13/vinyl-vault-data,Salamike13,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T23:33:16Z,shimokawatoko/parc-t2-lbfull-f-lerobot,shimokawatoko,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T23:33:58Z,victim822872/xss-ds5-233358,victim822872,0,0,region:us
+2026-11-09T23:35:35Z,Yujivus/nanochat-climbmix-arithmetic-base9,Yujivus,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; region:us
+2026-11-09T23:36:00Z,unicornwhodev/fireviewer_fire_smoke_flame_v3,unicornwhodev,0,0,region:us
+2026-11-09T23:36:07Z,victim822872/xss-ds6-233607,victim822872,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:36:28Z,g1n0st/131013820d5c74e508826f856cc2bf68143aed81,g1n0st,0,0,region:us
+2026-11-09T23:37:29Z,aayanahmed1222/media-vault-01,aayanahmed1222,0,0,region:us
+2026-11-09T23:39:02Z,jhumbl/dft-naptan,jhumbl,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:39:50Z,hmk4400/fr-dgal-complalim,hmk4400,0,0,language:fr; license:etalab-2.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; food-supple…
+2026-11-09T23:41:14Z,SamuelWu318/ts-satfire-6-1-NIFC-CROP-WIND,SamuelWu318,0,0,region:us
+2026-11-09T23:45:55Z,rohil542/naruto-sd15-generations,rohil542,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-09T23:46:03Z,hmk4400/tw-tfda-health-food,hmk4400,0,0,language:zh; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; taiwan; tfda; health-food; dietary-s…
+2026-11-09T23:47:59Z,janette-ai/realm-run,janette-ai,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-09T23:48:06Z,hmk4400/my-npra-pharmaceutical-products,hmk4400,0,0,language:en; language:ms; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; malaysia; npr…
+2026-11-09T23:48:33Z,Ronnypetson/canonexpr,Ronnypetson,0,1,region:us
+2026-11-09T23:48:53Z,binmu203-toolathlon/Annoy-PyEdu-Rs,binmu203-toolathlon,0,0,region:us
+2026-11-09T23:48:54Z,binmu203-toolathlon/Annoy-PyEdu-Rs-Raw,binmu203-toolathlon,0,0,region:us
+2026-11-09T23:50:39Z,hmk4400/es-aesan-notified-products,hmk4400,0,0,language:es; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; food-supplements; di…
+2026-11-09T23:51:39Z,DeadCowboy/Enzyme-Protein-Dataset,DeadCowboy,0,0,region:us
+2026-11-09T23:52:35Z,JSklar03/Rustic_Onsite_TRUMI_1,JSklar03,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-09T23:53:05Z,jl18853/site-bench-recordings,jl18853,0,0,region:us
+2026-11-09T23:55:53Z,JenniferMaia07/loja-ficticia-jornada,JenniferMaia07,0,0,language:pt; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; e-commerce; syn…
+2026-11-09T23:56:18Z,hmk4400/co-invima-supplement-registrations,hmk4400,0,0,language:es; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dietary-supplements; fo…
+2026-11-09T23:57:55Z,mohabeldokla/mass-flood-watch-archive,mohabeldokla,0,0,license:cc-by-4.0; region:us
+2026-11-09T23:58:58Z,unicornwhodev/fireviewer_fire_smoke_flame_v3_native,unicornwhodev,0,0,region:us
+2026-11-09T23:59:25Z,hmk4400/brazil-anvisa-regularized-foods,hmk4400,0,0,language:pt; license:other; size_categories:100K<n<1M; format:parquet; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; brazil; anvi…
+2026-11-10T00:00:49Z,victim822872/xss-usd-000049,victim822872,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:3d; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; simready
+2026-11-10T00:00:59Z,GlucoseDao/ppg-windows,GlucoseDao,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; license:cc-by-4.0; license:odc-by; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:data…
+2026-11-10T00:01:24Z,knighttrader/polymarket-orderbooks,knighttrader,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; polymarket; prediction-markets; order-book; finance
+2026-11-10T00:01:27Z,maxyichenwang/chemical-process-safety-bench,maxyichenwang,0,0,region:us
+2026-11-10T00:01:45Z,WETW3262/1234,WETW3262,0,0,region:us
+2026-11-10T00:02:54Z,hubnemo/mtp-selfdata-qwen3-8b-finewiki-40k-rand-chat-template,hubnemo,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T00:03:38Z,victim822872/xss-usd2-000338,victim822872,0,0,license:cc-by-4.0; size_categories:n<1K; modality:3d; modality:text; region:us; simready
+2026-11-10T00:09:24Z,puppet-robotics/golf_3_servo_expected_annotated,puppet-robotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T00:17:22Z,Endidy/necro-ui-icons,Endidy,0,0,region:us
+2026-11-10T00:18:15Z,omerincialan/splendera-assembly-sample,omerincialan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T00:18:21Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-10T00:18:21Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-10T00:18:22Z,aniketg123123/Bori100_FINAL_10_11_26,aniketg123123,0,0,region:us
+2026-11-10T00:20:31Z,victim822872/meshssrf3537,victim822872,0,0,region:us
+2026-11-10T00:20:56Z,hmk4400/do-digemaps-food-beverage-registrations,hmk4400,0,0,region:us
