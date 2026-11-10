@@ -1,0 +1,181 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-10T12:23:06Z,DhruShah1001/nishchay-1b-decision-index,DhruShah1001,0,0,region:us
+2026-11-10T12:24:05Z,h1testrightmeow/i2279-tsr-z,h1testrightmeow,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:25:03Z,2GyounnnG/refv2v-abot-source-cache-20261110,2GyounnnG,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:25:17Z,fizz2026/TIGER-Multimodal-Relevance-500K,fizz2026,0,0,task_categories:image-text-to-text; language:zh; license:cc-by-nc-4.0; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; librar…
+2026-11-10T12:25:34Z,Racktic/memory-writing-train-tasks,Racktic,0,0,task_categories:reinforcement-learning; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-11-10T12:26:43Z,GarethFW/Data_Ethics_and_Disability,GarethFW,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accessibility; disabili…
+2026-11-10T12:29:15Z,referralcode1947/VantageMarketsReferralCode,referralcode1947,0,0,region:us
+2026-11-10T12:29:17Z,skarnati20/textcraft-qwen7b-steered-results-resampled-5,skarnati20,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T12:30:05Z,bhargav9966/MIMIC-CXR-RRG,bhargav9966,0,0,task_categories:image-text-to-text; language:en; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:24…
+2026-11-10T12:30:06Z,retzner/web-attacks-multiclass,retzner,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:30:12Z,xuwenqiang/121_920_1110,xuwenqiang,0,0,region:us
+2026-11-10T12:30:39Z,mullvadlinus/web-attacks-multiclass,mullvadlinus,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:32:22Z,Yshh525/rho-r1-20261110,Yshh525,0,0,region:us
+2026-11-10T12:33:00Z,Pizzaburher/aqua-viewer-data,Pizzaburher,0,0,license:other; size_categories:10K<n<100K; format:imagefolder; modality:image; modality:geospatial; library:datasets; library:mlcroissant; region:us; geospatial; aquaculture; sentinel-2
+2026-11-10T12:34:37Z,TomasAnderegg/pill_sorting_medoc_dagger_mix_v1,TomasAnderegg,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T12:35:00Z,muhammad0-0hreden/Misraj-DocOCR__HunyuanOCR,muhammad0-0hreden,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T12:35:25Z,mrwitt/web-attacks-multiclass,mrwitt,0,1,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:35:33Z,JensParslov/EditJudge-Bench-predictions,JensParslov,0,0,license:cc-by-nc-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T12:36:00Z,fecasado/demo-data-for-paper-11-26,fecasado,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T12:37:17Z,referralcode1947/VantageReferralCodeSAVE50,referralcode1947,0,0,region:us
+2026-11-10T12:37:25Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-10T12:37:25Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-10T12:37:29Z,asxfafaf1/Annoy-PyEdu-Rs,asxfafaf1,0,0,region:us
+2026-11-10T12:37:29Z,asxfafaf1/Annoy-PyEdu-Rs-Raw,asxfafaf1,0,0,region:us
+2026-11-10T12:37:30Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs,DSA1DSA12EDSA,0,0,region:us
+2026-11-10T12:37:30Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs-Raw,DSA1DSA12EDSA,0,0,region:us
+2026-11-10T12:37:35Z,so101-robot/S1_20261110_201838,so101-robot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T12:40:02Z,J-Dawg1/web-attacks-multiclass,J-Dawg1,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:40:23Z,canix1/web-attacks-multiclass,canix1,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:40:56Z,fumbletitle/web-attacks-multiclass,fumbletitle,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:41:44Z,Ghitaone/voice,Ghitaone,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:41:50Z,GhassanMajdalani/dress-photos,GhassanMajdalani,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:41:53Z,warriorLZJ/DisasterAgent,warriorLZJ,0,0,license:apache-2.0; region:us
+2026-11-10T12:41:57Z,Hentorp/kurs-model,Hentorp,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:42:18Z,referralcode1947/PuprimeReferralCodeSAVE10,referralcode1947,0,0,license:apache-2.0; region:us
+2026-11-10T12:42:26Z,frontier-rehearsal/frontier-ai-hiring-signals,frontier-rehearsal,0,0,language:en; license:other; size_categories:n<1K; region:us
+2026-11-10T12:42:48Z,Agnuxo/climx-d01-source-archive-20261110,Agnuxo,0,0,language:en; license:apache-2.0; region:us; climx; climate; source-code; reproducibility
+2026-11-10T12:43:12Z,kal5047/web-attacks-multiclass,kal5047,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:43:16Z,h1testrightmeow/i2525-cimd-1794314595,h1testrightmeow,0,0,region:us
+2026-11-10T12:43:35Z,victim822872/lerobot12290,victim822872,0,0,region:us; LeRobot; lerobot
+2026-11-10T12:43:58Z,MLindarp/web-attacks-multiclass,MLindarp,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:44:32Z,asd12ad123123/Annoy-PyEdu-Rs-Raw,asd12ad123123,0,0,region:us
+2026-11-10T12:44:32Z,asd12ad123123/Annoy-PyEdu-Rs,asd12ad123123,0,0,region:us
+2026-11-10T12:45:10Z,yudai0209/so101_vial2_eval_swapaug_unseen40,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T12:45:11Z,FaisalHejary/wikipedia-embedding-tasks,FaisalHejary,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T12:45:52Z,ignalina/web-attacks-multiclass,ignalina,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:46:02Z,victim822872/asv12303,victim822872,0,0,region:us
+2026-11-10T12:46:03Z,bestinvitecodes/FomoReferralCode,bestinvitecodes,0,0,language:en; region:us; fomo; referral-code; discount-code; trading-fees; crypto
+2026-11-10T12:48:49Z,mnyholm/web-attacks-multiclass,mnyholm,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T12:49:39Z,leapshared/sciedu_bench_v2_sim_props8_electroscope_rod,leapshared,0,0,task_categories:robotics; license:unknown; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:…
+2026-11-10T12:51:04Z,dsfsf445/Annoy-PyEdu-Rs,dsfsf445,0,0,region:us
+2026-11-10T12:51:05Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-11-10T12:51:05Z,dsfsf445/Annoy-PyEdu-Rs-Raw,dsfsf445,0,0,region:us
+2026-11-10T12:51:06Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-11-10T12:51:21Z,PriceWang/deepecg,PriceWang,0,0,license:mit; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-10T12:52:48Z,Udev-miam/Trocy-en-Multien,Udev-miam,0,0,region:us
+2026-11-10T12:53:08Z,Udev-miam/Valence-en-Brie,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:53:18Z,Udev-miam/Villemarechal,Udev-miam,0,0,region:us
+2026-11-10T12:53:20Z,Udev-miam/Villemer,Udev-miam,0,0,region:us
+2026-11-10T12:53:23Z,Udev-miam/Villeroy-77,Udev-miam,0,0,region:us
+2026-11-10T12:53:26Z,Udev-miam/Villiers-en-Biere,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:53:34Z,Udev-miam/Voinsles,Udev-miam,0,0,region:us
+2026-11-10T12:53:39Z,Udev-miam/Corbeil-Essonnes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:53:58Z,lenawngr/press_switches_so101,lenawngr,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-10T12:54:42Z,Udev-miam/Evry-Courcouronnes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:55:37Z,Udev-miam/Massy-91,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:56:15Z,lterribili/italian-spacy-ner-lemma,lterribili,0,0,task_categories:token-classification; task_ids:named-entity-recognition; language:it; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; librar…
+2026-11-10T12:56:16Z,Udev-miam/Savigny-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:56:47Z,Udev-miam/Etampes,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:56:56Z,harry3709/Pumpfun_App_Referral_Code_join100_New_Account_Registration_Guide,harry3709,0,0,region:us
+2026-11-10T12:57:12Z,Adel-Moumen/d20_toks_10k_cos_muon_00010000_testclean_1k_7s_all,Adel-Moumen,0,0,region:us
+2026-11-10T12:57:14Z,Udev-miam/Palaiseau,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:57:34Z,LundAISociety/hot-building-segmentation-highres,LundAISociety,0,0,task_categories:image-segmentation; license:cc-by-4.0; license:odbl; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; libra…
+2026-11-10T12:57:47Z,Udev-miam/Viry-Chatillon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:58:05Z,ufca-llms/brtax-law,ufca-llms,0,0,task_categories:text-retrieval; source_datasets:eduseiti/BR-TaxQA-R; language:pt; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-11-10T12:58:18Z,Udev-miam/Athis-Mons,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:58:47Z,Udev-miam/Ris-Orangis,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:58:53Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-11-10T12:58:54Z,ASCXZ1312/Annoy-PyEdu-Rs,ASCXZ1312,0,0,region:us
+2026-11-10T12:58:54Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-11-10T12:58:55Z,ASCXZ1312/Annoy-PyEdu-Rs-Raw,ASCXZ1312,0,0,region:us
+2026-11-10T12:59:10Z,harry3709/Pumpfun_App_Referral_Code_BEST100_Login_Instructions_and_Key_App_Features,harry3709,0,0,region:us
+2026-11-10T12:59:12Z,liuftrwrtw/Annoy-PyEdu-Rs,liuftrwrtw,0,0,region:us
+2026-11-10T12:59:13Z,liuftrwrtw/Annoy-PyEdu-Rs-Raw,liuftrwrtw,0,0,region:us
+2026-11-10T12:59:22Z,Udev-miam/Juvisy-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T12:59:22Z,sad1d21/Annoy-PyEdu-Rs,sad1d21,0,0,region:us
+2026-11-10T12:59:26Z,sad1d21/Annoy-PyEdu-Rs-Raw,sad1d21,0,0,region:us
+2026-11-10T12:59:41Z,Adel-Moumen/d20_fm_10k_cos_muon_00010000_testclean_1k_7s_all,Adel-Moumen,0,0,region:us
+2026-11-10T12:59:50Z,harry3709/Pumpfun_App_Referral_Code_FLAT100_Complete_Guide_to_Wallet_Configuration_and_Trading,harry3709,0,0,region:us
+2026-11-10T12:59:57Z,Udev-miam/Longjumeau,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:00:35Z,yx-chen/EcD,yx-chen,0,0,license:cc-by-4.0; region:us
+2026-11-10T13:01:03Z,Udev-miam/Brunoy,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:01:13Z,DXBHAFASF/Annoy-PyEdu-Rs,DXBHAFASF,0,0,region:us
+2026-11-10T13:01:14Z,DXBHAFASF/Annoy-PyEdu-Rs-Raw,DXBHAFASF,0,0,region:us
+2026-11-10T13:01:24Z,Udev-miam/Draveil,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:01:47Z,Udev-miam/Montgeron,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:02:07Z,harry3709/Pumpfun_App_Referral_Code_Cashback100_How_to_Register_and_Explore_Platform_Features,harry3709,0,0,region:us
+2026-11-10T13:02:11Z,Udev-miam/Yerres,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:02:36Z,Udev-miam/Orsay,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:02:47Z,harry3709/Pumpfun_App_Referral_Code_Gift100_Download_Instructions_and_First_Time_Setup_Guide,harry3709,0,0,region:us
+2026-11-10T13:02:59Z,Udev-miam/Bretigny-sur-Orge,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:03:25Z,Udev-miam/Vigneux-sur-Seine,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:03:31Z,harry3709/Pumpfun_App_Referral_Code_FUN100_Explore_Account_Settings_and_Mobile_App_Features,harry3709,0,0,region:us
+2026-11-10T13:03:46Z,Udev-miam/Choisy-le-Roi,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:04:31Z,Udev-miam/Fontenay-sous-Bois,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:04:57Z,CarAFM/so101_pick_place_block_v1_test,CarAFM,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-10T13:05:03Z,so101-robot/S2_20261110_204647,so101-robot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-10T13:05:39Z,Udev-miam/Le-Perreux-sur-Marne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:06:18Z,Udev-miam/Cachan,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:06:30Z,VladShash/WM8-NR-GRPO-proofnet-2,VladShash,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T13:06:54Z,Udev-miam/Nogent-sur-Marne,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:06:55Z,Nukthean/openslr42-khmer-cleaned,Nukthean,0,0,task_categories:automatic-speech-recognition; language:km; license:apache-2.0; size_categories:1K<n<10K; modality:audio; region:us; audio; speech; asr; khmer; cambodia; openslr; openslr42; speech-dat…
+2026-11-10T13:06:56Z,Nukthean/fleurs-khmer-cleaned,Nukthean,0,0,task_categories:automatic-speech-recognition; language:km; license:cc-by-4.0; size_categories:1K<n<10K; modality:audio; region:us; audio; speech; asr; khmer; cambodia; fleurs; google-research; speech…
+2026-11-10T13:07:14Z,harry3709/Pumpfun_App_Referral_Code_CUT100_Complete_Guide_to_Trading_Costs_and_Transactions,harry3709,0,0,region:us
+2026-11-10T13:07:29Z,VladShash/WM8-NR-GRPO-proofnet-3,VladShash,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T13:07:32Z,Udev-miam/Villeneuve-Saint-Georges,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-10T13:07:39Z,schronn/lab_test_20261110_140204,schronn,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-10T13:07:54Z,SCZX12DAS/Annoy-PyEdu-Rs,SCZX12DAS,0,0,region:us
+2026-11-10T13:07:54Z,SCZX12DAS/Annoy-PyEdu-Rs-Raw,SCZX12DAS,0,0,region:us
+2026-11-10T13:07:57Z,harry3709/Pumpfun_App_Referral_Code_get10_How_to_Sign_Up_and_Link_Your_Crypto_Wallet,harry3709,0,0,region:us
+2026-11-10T13:07:57Z,Udev-miam/Charenton-le-Pont,Udev-miam,0,0,region:us
+2026-11-10T13:08:30Z,Udev-miam/Le-Kremlin-Bicetre,Udev-miam,0,0,region:us
+2026-11-10T13:08:51Z,harry3709/Pumpfun_App_Referral_Code_get25_Secure_Wallet_Setup_and_Essential_Protection_Tips,harry3709,0,0,region:us
+2026-11-10T13:08:55Z,h1testmeow/i2589-gated-ds-1794316134,h1testmeow,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T13:09:06Z,Udev-miam/Arcueil,Udev-miam,0,0,region:us
+2026-11-10T13:09:36Z,Udev-miam/Villiers-sur-Marne,Udev-miam,0,0,region:us
+2026-11-10T13:09:39Z,harry3709/Pumpfun_App_Referral_Code_get5_Beginner_Friendly_Account_Setup_and_Usage_Tutorial,harry3709,0,0,region:us
+2026-11-10T13:09:45Z,hbin0701/qwen3-4b-math-error-spots,hbin0701,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-10T13:10:07Z,Udev-miam/Orly,Udev-miam,0,0,region:us
+2026-11-10T13:10:28Z,harry3709/Liquid_Trade_Referral_Code_SAVE_Registration_Instructions_and_Trading_Fee_Discount_Details,harry3709,0,0,region:us
+2026-11-10T13:11:09Z,Udev-miam/Gentilly,Udev-miam,0,0,region:us
+2026-11-10T13:11:31Z,harry3709/Weex_Referral_Code_18qsc_Complete_Account_Setup_and_Fee_Reduction_Guide,harry3709,0,0,region:us
+2026-11-10T13:11:58Z,Udev-miam/Saint-Mande,Udev-miam,0,0,region:us
+2026-11-10T13:12:38Z,harry3709/WEEX_Referral_Code_rohit50_How_to_Register_and_Access_Trading_Fee_Benefits,harry3709,0,0,region:us
+2026-11-10T13:12:38Z,phoenician-stone-group/syrian-natural-stone-open-data,phoenician-stone-group,0,0,multilinguality:multilingual; language:en; language:ar; language:el; language:fr; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; trade-statistics; mirror-statistics; n…
+2026-11-10T13:12:54Z,aldrin2lake/CRM-dataset,aldrin2lake,0,0,region:us
+2026-11-10T13:13:12Z,Udev-miam/Chevilly-Larue,Udev-miam,0,0,region:us
+2026-11-10T13:13:33Z,Udev-miam/Sucy-en-Brie,Udev-miam,0,0,region:us
+2026-11-10T13:13:52Z,Udev-miam/Thiais,Udev-miam,0,0,region:us
+2026-11-10T13:14:00Z,g1n0st/51987ab1fc10ba447160bc753be15137dd8f51f1,g1n0st,0,0,region:us
+2026-11-10T13:14:01Z,harry3709/Phantom_Referral_Code_reward100_Complete_Guide_to_Wallet_Creation_and_Token_Swapping,harry3709,0,0,region:us
+2026-11-10T13:14:10Z,Udev-miam/Villeneuve-le-Roi,Udev-miam,0,0,region:us
+2026-11-10T13:14:29Z,Udev-miam/Boissy-Saint-Leger,Udev-miam,0,0,region:us
+2026-11-10T13:14:56Z,Udev-miam/Chennevieres-sur-Marne,Udev-miam,0,0,region:us
+2026-11-10T13:15:13Z,maaamahAhh/GPT-OSS-20B-GPT-4o-Distill-SFT,maaamahAhh,0,0,region:us
+2026-11-10T13:15:28Z,Udev-miam/Fresnes-94,Udev-miam,0,0,region:us
+2026-11-10T13:15:47Z,Udev-miam/Limeil-Brevannes,Udev-miam,0,0,region:us
+2026-11-10T13:16:04Z,Udev-miam/L-Hay-les-Roses,Udev-miam,0,0,region:us
+2026-11-10T13:16:14Z,goodgentleman918/ai-data-quality-llm-evaluation-benchmark,goodgentleman918,0,1,license:mit; region:us
+2026-11-10T13:16:29Z,harry3709/Phantom_Referral_Code_join100_How_to_Create_and_Protect_Your_Crypto_Wallet,harry3709,0,0,region:us
+2026-11-10T13:16:58Z,Udev-miam/Bonneuil-sur-Marne,Udev-miam,0,0,region:us
+2026-11-10T13:17:16Z,Udev-miam/Bry-sur-Marne,Udev-miam,0,0,region:us
+2026-11-10T13:17:37Z,adqfxad/Annoy-PyEdu-Rs,adqfxad,0,0,region:us
+2026-11-10T13:17:38Z,Udev-miam/Rungis,Udev-miam,0,0,region:us
+2026-11-10T13:17:38Z,adqfxad/Annoy-PyEdu-Rs-Raw,adqfxad,0,0,region:us
+2026-11-10T13:17:49Z,Giannipe/GrabPegandPush_20261110_134532,Giannipe,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-10T13:17:57Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-10T13:17:58Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-10T13:17:59Z,Udev-miam/Joinville-le-Pont,Udev-miam,0,0,region:us
+2026-11-10T13:18:17Z,Udev-miam/Valenton,Udev-miam,0,0,region:us
+2026-11-10T13:18:31Z,Udev-miam/Ormesson-sur-Marne,Udev-miam,0,0,region:us
+2026-11-10T13:18:49Z,Udev-miam/Saint-Maurice-94,Udev-miam,0,0,region:us
+2026-11-10T13:19:08Z,Udev-miam/Villecresnes,Udev-miam,0,0,region:us
+2026-11-10T13:19:21Z,Udev-miam/Le-Plessis-Trevise,Udev-miam,0,0,region:us
+2026-11-10T13:19:33Z,Udev-miam/Mandres-les-Roses,Udev-miam,0,0,region:us
+2026-11-10T13:19:40Z,Udev-miam/Ablon-sur-Seine,Udev-miam,0,0,region:us
+2026-11-10T13:19:44Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-10T13:19:45Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-10T13:19:46Z,Morkon/ukr-sft-lfm3-v2,Morkon,0,0,region:us
+2026-11-10T13:19:48Z,Udev-miam/La-Queue-en-Brie,Udev-miam,0,0,region:us
+2026-11-10T13:19:56Z,neverwinHao/c4-en-train,neverwinHao,0,0,region:us
+2026-11-10T13:19:59Z,Udev-miam/Marolles-en-Brie-94,Udev-miam,0,0,region:us
+2026-11-10T13:19:59Z,neverwinHao/c4-en-val,neverwinHao,0,0,region:us
+2026-11-10T13:20:03Z,neverwinHao/wikipedia,neverwinHao,0,0,region:us
+2026-11-10T13:20:12Z,Udev-miam/Santeny,Udev-miam,0,0,region:us
+2026-11-10T13:20:19Z,Udev-miam/Perigny-94,Udev-miam,0,0,region:us
+2026-11-10T13:20:26Z,Udev-miam/Noiseau,Udev-miam,0,0,region:us
+2026-11-10T13:20:34Z,Udev-miam/Cergy,Udev-miam,0,0,region:us
+2026-11-10T13:20:45Z,EdoardoAvenia/kefir-planned-continuation-audits-20261110,EdoardoAvenia,0,0,region:us
+2026-11-10T13:21:34Z,StillWorking/Brain-Tumor-AI,StillWorking,0,0,region:us
