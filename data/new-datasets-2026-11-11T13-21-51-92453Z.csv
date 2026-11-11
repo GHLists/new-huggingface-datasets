@@ -1,0 +1,76 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-11T12:20:21Z,PriceWang/cs2radar,PriceWang,0,0,license:apache-2.0; region:us
+2026-11-11T12:20:44Z,anhoang35799/elephant,anhoang35799,0,0,region:us
+2026-11-11T12:21:19Z,alexdsgmoura/Urzhel,alexdsgmoura,0,0,region:us
+2026-11-11T12:21:48Z,Anonymous-5218/HK_CODE_B,Anonymous-5218,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-11T12:22:10Z,khanhphan33724/turtle,khanhphan33724,0,0,region:us
+2026-11-11T12:22:27Z,HAssumpcao/CodeEvolve-Experiments,HAssumpcao,0,0,language:en; license:apache-2.0; size_categories:100K<n<1M; arxiv:2510.14150; region:us; code; evolutionary-algorithms; llm; program-synthesis; algorithm-discovery; alphaevolve
+2026-11-11T12:24:01Z,dddddsds31341/longwam-rollout-20261111-172725-sync-1486252-8fd13c51,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T12:25:08Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-11T12:25:09Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-11T12:29:38Z,michaelacostadev/insurance,michaelacostadev,0,0,license:cc0-1.0; region:us
+2026-11-11T12:29:52Z,muhammad0-0hreden/AR_Nakba_data_test__SmolVLM_500M,muhammad0-0hreden,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T12:30:50Z,BangorAI/achtanna-an-oireachtais-1,BangorAI,0,0,task_categories:translation; language:ga; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-11T12:30:58Z,g1n0st/7bd623b5ad6f33a6e5f086f4a0b7e84568978d87,g1n0st,0,0,region:us
+2026-11-11T12:31:38Z,BangorAI/riaghaltas-na-h-alba-gaidhlig-1,BangorAI,0,0,task_categories:translation; language:gd; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-11-11T12:31:43Z,BangorAI/scots-government-scots-1,BangorAI,0,0,task_categories:translation; language:sco; language:en; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-11-11T12:32:19Z,binhminh276/NER-Hybrid-dataset,binhminh276,0,0,license:apache-2.0; region:us
+2026-11-11T12:32:39Z,Embodidatasets/warehouse-embodied-dataset,Embodidatasets,0,0,"license:other; region:us; embodied-ai,; robotics,; multi-modal,; rgb-d,; lidar; navigation,; warehouse-robot"
+2026-11-11T12:35:49Z,hivepunk-632-4934c76e/hivemindos-run-record-lint-self-test-capture-requests,hivepunk-632-4934c76e,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T12:36:30Z,zhangyexiang/codex-bridge-downloads,zhangyexiang,0,0,region:us
+2026-11-11T12:39:41Z,dddddsds31341/longwam-rollout-20261109-194219-sync-3387962-ca7da94e,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:39:58Z,dddddsds31341/longwam-rollout-20261109-201020-sync-3680961-ef71df0f,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:40:20Z,dddddsds31341/longwam-rollout-20261109-201042-sync-3684676-6e971b4b,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:40:22Z,QQGroup/scmce-artifacts,QQGroup,0,0,license:mit; region:us
+2026-11-11T12:40:42Z,dddddsds31341/longwam-rollout-20261109-201129-sync-3692427-275a92a1,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:41:03Z,dddddsds31341/longwam-rollout-20261107-172344-sync-1004551-62c9ba5c,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:41:05Z,asfafq3f/Annoy-PyEdu-Rs-Raw,asfafq3f,0,0,region:us
+2026-11-11T12:41:05Z,asfafq3f/Annoy-PyEdu-Rs,asfafq3f,0,0,region:us
+2026-11-11T12:41:28Z,liu123545/Annoy-PyEdu-Rs,liu123545,0,0,region:us
+2026-11-11T12:41:29Z,liu123545/Annoy-PyEdu-Rs-Raw,liu123545,0,0,region:us
+2026-11-11T12:41:34Z,dddddsds31341/longwam-rollout-20261107-185714-sync-1940771-2415c743,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T12:42:36Z,dddddsds31341/longwam-rollout-20261107-191737-sync-2158350-a82da19f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T12:42:39Z,muhammad0-0hreden/AR_Nakba_data_test__HunyuanOCR,muhammad0-0hreden,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T12:43:25Z,g1n0st/3b2c04f3b7293f2ca7d650ae1bad29ab84e7884f,g1n0st,0,0,region:us
+2026-11-11T12:43:36Z,Charly-chan/SWE-Game,Charly-chan,0,0,task_categories:other; language:en; language:zh; region:us; benchmark; game-development; software-engineering; godot; unity
+2026-11-11T12:43:38Z,dddddsds31341/longwam-rollout-20261107-213422-sync-3563457-94fb2c9f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T12:44:52Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-11T12:44:53Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-11T12:44:56Z,dddddsds31341/longwam-rollout-20261107-195752-sync-2608285-ca37ac9f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T12:47:57Z,g1n0st/eba0102549da9b75c06a31dde9d3558feb5e3d8b,g1n0st,0,0,region:us
+2026-11-11T12:48:32Z,4jdm/deepqwen,4jdm,0,0,region:us
+2026-11-11T12:50:40Z,HarrisonPENG/TCP4-RoboTwin-Dataset,HarrisonPENG,0,0,region:us
+2026-11-11T12:51:08Z,jinanotc/smm-panel-guide,jinanotc,0,0,region:us
+2026-11-11T12:52:05Z,AJ-Gonzalez/coder-kimi-k3.1-pro-lfm3,AJ-Gonzalez,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; code;…
+2026-11-11T12:53:12Z,edenessadzz/h3-image-exam-v1,edenessadzz,0,0,language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; modality:image; region:us; image; text-to-image; image-editing; evaluation; synthetic; comfyui; minimax-h3-image
+2026-11-11T12:53:17Z,pacappkor/kapa-market-data,pacappkor,0,0,language:ko; license:other; region:us; real-estate; transactions; korea
+2026-11-11T12:54:57Z,g1n0st/41a4b2f4fb1747c4d9b21b05dba22291624a0088,g1n0st,0,0,region:us
+2026-11-11T12:55:56Z,g1n0st/c4594484fa86bf1a7594c52c633f7a8fd1a2f81e,g1n0st,0,0,region:us
+2026-11-11T12:58:25Z,g1n0st/a79cf99e8f860ab83d3c25e40a188d9275e03bbb,g1n0st,0,0,region:us
+2026-11-11T12:59:59Z,ihbkaiser/vdflash-visual10-selfdistill-offline-bundle,ihbkaiser,0,0,license:other; region:us
+2026-11-11T13:00:45Z,ethanCSL/openarm_insertsocket_lerobot_real_v00,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-11T13:00:55Z,dddddsds31341/longwam-rollout-20261109-173900-sync-2431933-00bfa88d,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:01:43Z,rtrip27/deception-replication-train-set,rtrip27,0,0,region:us
+2026-11-11T13:01:48Z,kickking/omx_buds_pick_merge_1111,kickking,0,0,license:apache-2.0; region:us; robotis; cyclo_intelligence; robotics
+2026-11-11T13:02:09Z,dddddsds31341/longwam-rollout-20261107-195712-sync-2600498-7f629423,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:03:43Z,dddddsds31341/longwam-rollout-20261107-195123-sync-2533369-ce39d568,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:04:02Z,MohamedEbraheem/marsa-characters,MohamedEbraheem,0,0,region:us
+2026-11-11T13:05:15Z,dddddsds31341/longwam-rollout-20261107-170211-sync-788597-e71c5b51,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:05:42Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-11T13:05:43Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-11T13:05:44Z,XiangnanW/CLR-100K-Dataset,XiangnanW,0,0,task_categories:video-text-to-text; language:en; license:apache-2.0; region:us
+2026-11-11T13:05:55Z,Shrijanagain/COOKED-TRACE,Shrijanagain,0,0,license:mit; region:us
+2026-11-11T13:06:15Z,locodoco/iflow-subtb-7b-8gpu-1232837-records,locodoco,0,0,region:us; research; math
+2026-11-11T13:06:38Z,dddddsds31341/longwam-rollout-20261107-202021-sync-2851526-78233a95,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:08:10Z,vexonales/campa,vexonales,0,0,region:us
+2026-11-11T13:08:34Z,dddddsds31341/longwam-rollout-20261109-174010-sync-2443019-b71fd11a,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:09:18Z,kickking/omx_buds_pick_merge_1112,kickking,0,0,license:apache-2.0; region:us; robotis; cyclo_intelligence; robotics
+2026-11-11T13:09:43Z,00zhaowen00/cvqa,00zhaowen00,0,0,task_categories:question-answering; language:id; language:su; language:ja; language:jv; language:min; language:br; language:ga; language:es; language:pt; language:no; language:mn; language:ms; langua…
+2026-11-11T13:09:58Z,dddddsds31341/longwam-rollout-20261107-170134-sync-781691-a43d78b8,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:11:25Z,dddddsds31341/longwam-rollout-20261109-173833-sync-2427275-2172b2fd,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-11T13:12:48Z,kakarot700-odar/gemma4-localization,kakarot700-odar,0,0,license:mit; region:us; code; fault-localization; swe-bench; gemma; agents
+2026-11-11T13:16:50Z,EvntCN/ur5-pickplace-2obj,EvntCN,0,0,region:us
+2026-11-11T13:19:18Z,naavox/stringman_cleans,naavox,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-11T13:19:31Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-11T13:19:31Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-11T13:21:40Z,starkAhmed43/lc-image-cc6a5b96beef3eac274923fc,starkAhmed43,0,0,region:us
