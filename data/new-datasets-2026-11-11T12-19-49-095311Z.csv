@@ -1,0 +1,77 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-11T11:23:00Z,acalderon07/nlp-fake-news-bm25-index,acalderon07,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T11:23:15Z,JLERMOL/rock-segmentation-dataset,JLERMOL,0,0,task_categories:image-segmentation; language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; rock-…
+2026-11-11T11:24:46Z,Yshh525/rho-pb1-20261111,Yshh525,0,0,region:us
+2026-11-11T11:27:07Z,sfwef3/synthetic-chart-patterns,sfwef3,0,1,task_categories:object-detection; language:en; license:cc0-1.0; size_categories:100K<n<1M; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; synthet…
+2026-11-11T11:28:32Z,vansh11102/INCLUDE_Dataset,vansh11102,0,0,region:us
+2026-11-11T11:28:48Z,jackendoe/Pumpfun,jackendoe,0,0,language:en; region:us; pump-fun; referral-code; discount-code; trading-fees; crypto
+2026-11-11T11:29:34Z,dddddsds31341/longwam-rollout-20261111-172542-sync-1470636-26975425,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T11:29:46Z,yhsure/BEND2-extras,yhsure,0,0,language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2611.03806; region:us;…
+2026-11-11T11:34:52Z,Lyric1010/qy_syn_military_qwen3,Lyric1010,0,0,modality:text; region:us; text; pretraining
+2026-11-11T11:35:45Z,Major-TOM/PHISAT-2_L1D,Major-TOM,0,0,region:us
+2026-11-11T11:37:25Z,g1n0st/4fbaf2baf871c94900fb642c3c7c4405cbed0c48,g1n0st,0,0,region:us
+2026-11-11T11:37:31Z,Lyric1010/qy_syn_military_llama3,Lyric1010,0,0,modality:text; region:us; text; pretraining
+2026-11-11T11:37:42Z,jackendoe/Pumpfunreferralcode,jackendoe,0,0,language:en; region:us; pump-fun; referral-code; discount-code; trading-fees; crypto
+2026-11-11T11:38:08Z,rycerzes/swe-rebench-v2.1-rl-isolated-1k,rycerzes,0,0,license:cc-by-4.0; size_categories:1K<n<10K; modality:text; library:datasets; library:harbor; library:mlcroissant; arxiv:2602.23866; region:us; harbor; swe; reinforcement-learning; coding-agents
+2026-11-11T11:38:38Z,doganay-sirintuna/rollout_green_jenga_frozen_base_step_10,doganay-sirintuna,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-11T11:39:15Z,albarashehadeh/jordan-currency-detection,albarashehadeh,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; currency; coins; banknotes…
+2026-11-11T11:39:53Z,dddddsds31341/longwam-rollout-20261111-173238-sync-1534561-74ab1776,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-11T11:40:48Z,bloodlemon/eval_pi0_pickandplace_1111_3,bloodlemon,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-11T11:46:10Z,kickking/omx_buds_pick_1111_2,kickking,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-11-11T11:48:25Z,RavenIA03/navegador-helix,RavenIA03,0,0,region:us
+2026-11-11T11:48:58Z,yhavinga/handelingen-tweede-kamer-nl-backtranslated-en,yhavinga,0,0,task_categories:translation; source_datasets:yhavinga/dutch-handelingen-modern; language:nl; language:en; license:cc0-1.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text;…
+2026-11-11T11:49:09Z,yhavinga/openraadsinformatie-nl-backtranslated-en,yhavinga,0,0,task_categories:translation; source_datasets:GPT-NL/GPT-NL_Public_Corpus; source_datasets:tvosch/GPT-NL-propella-annotations; language:nl; language:en; license:cc-by-4.0; size_categories:10K<n<100K;…
+2026-11-11T11:49:16Z,yhavinga/rijksoverheid-websites-nl-backtranslated-en,yhavinga,0,0,task_categories:translation; source_datasets:GPT-NL/GPT-NL_Public_Corpus; source_datasets:tvosch/GPT-NL-propella-annotations; source_datasets:HuggingFaceFW/fineweb-2; language:nl; language:en; licens…
+2026-11-11T11:49:21Z,yhavinga/rechtspraak-nl-backtranslated-en,yhavinga,0,0,task_categories:translation; source_datasets:GPT-NL/GPT-NL_Public_Corpus; source_datasets:tvosch/GPT-NL-propella-annotations; language:nl; language:en; license:cc-by-4.0; size_categories:10K<n<100K;…
+2026-11-11T11:50:51Z,chenproject35/pick-and-place-b601-hil-72ep-yaw0,chenproject35,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-11T11:51:02Z,anicca-agent/behaviorbench-first-run-results,anicca-agent,0,0,language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2606.24162; region:us; behaviorbench; evalua…
+2026-11-11T11:51:06Z,arnav-eluri/LightRoad-Net-data,arnav-eluri,0,0,region:us
+2026-11-11T11:52:28Z,wilfredeveloper/day31-bench,wilfredeveloper,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-11T11:53:07Z,SteppeDu/armor,SteppeDu,0,0,task_categories:object-detection; task_categories:keypoint-detection; license:other; library:webdataset; region:us; robomaster; armor-plate; webdataset
+2026-11-11T11:55:31Z,ZhidongWang/xfer-7a009b8e,ZhidongWang,0,0,region:us
+2026-11-11T11:55:48Z,pandorlabs/global-insider-trading-filings,pandorlabs,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:100K<n<1M; region:us; finance; insider-trading; stocks; sec; form-4; quant
+2026-11-11T11:55:57Z,trangtran53419/ganymede,trangtran53419,0,0,region:us
+2026-11-11T11:56:03Z,pandorlabs/dubai-real-estate-transactions,pandorlabs,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:100K<n<1M; region:us; real-estate; dubai; uae; housing; price-prediction
+2026-11-11T11:56:11Z,pandorlabs/art-auction-results,pandorlabs,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; region:us; art; auctions; collectibles; price-prediction
+2026-11-11T11:56:57Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-11T11:56:58Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-11T11:57:25Z,DataStore/jupiter-perpetuals-solana-onchain-data,DataStore,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; solana; jupi…
+2026-11-11T11:57:38Z,DataStore/raydium-clmm-historical-data,DataStore,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; solana; rayd…
+2026-11-11T11:57:47Z,DataStore/raydium-launchlab-historical-data,DataStore,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; solana; raydium; launchlab; launchpad; bonding-curve; memecoin; defi; blockchain; crypto; onchain-data
+2026-11-11T11:57:55Z,DataStore/pump-fun-v2-bonding-curve-trades-data,DataStore,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; solana; pumpfu…
+2026-11-11T11:58:14Z,DataStore/raydium-amm-v4-historical-data,DataStore,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; solana; raydiu…
+2026-11-11T11:59:48Z,phatvo26811/lemur,phatvo26811,0,0,region:us
+2026-11-11T12:00:00Z,SC13SD123SADAS/Annoy-PyEdu-Rs,SC13SD123SADAS,0,0,region:us
+2026-11-11T12:00:01Z,SC13SD123SADAS/Annoy-PyEdu-Rs-Raw,SC13SD123SADAS,0,0,region:us
+2026-11-11T12:00:36Z,slotdropapp/blackjack-hands,slotdropapp,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; blackjack; probabi…
+2026-11-11T12:01:18Z,dungvu31773/magnolia,dungvu31773,0,0,region:us
+2026-11-11T12:01:52Z,DASCZX123DSA/Annoy-PyEdu-Rs,DASCZX123DSA,0,0,region:us
+2026-11-11T12:01:53Z,DASCZX123DSA/Annoy-PyEdu-Rs-Raw,DASCZX123DSA,0,0,region:us
+2026-11-11T12:02:49Z,rdoyle99/us-fatal-road-crashes-2020-2024,rdoyle99,0,0,license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T12:02:58Z,khanhphan96982/vanilla,khanhphan96982,0,0,region:us
+2026-11-11T12:04:25Z,dddddsds31341/longwam-rollout-20261111-173635-sync-1566464-18a0cd9a,dddddsds31341,0,0,region:us
+2026-11-11T12:04:25Z,linhly32441/draco,linhly32441,0,0,region:us
+2026-11-11T12:05:02Z,open-athena/Snowball-Smartie-RL-SWE-Smith-Split-v1-20261016,open-athena,0,0,license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; reinforcement-learning; swe-smith; taskt…
+2026-11-11T12:05:33Z,IMSANIA/PUMPFUN-REFERRAL-CODE-REBATE10-BEST-FOR-TO-GET-DISCOUNT,IMSANIA,0,0,region:us
+2026-11-11T12:07:34Z,Dr-Zeyad-Alghamdi/SALLM-ALLaM-Inference-Logs,Dr-Zeyad-Alghamdi,0,0,region:us
+2026-11-11T12:07:53Z,earino/factory-charity-register-five-year-exit,earino,0,0,task_categories:tabular-classification; license:other; region:us
+2026-11-11T12:09:20Z,liyouzhou/so101-pick-place-with-dagger-15fps,liyouzhou,0,0,region:us
+2026-11-11T12:10:30Z,tantra-ai-labs/high-reasoning-dataset-v2,tantra-ai-labs,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; region:us; synthetic; knowledge-distillation; multi-ai; reasoning; education; deep-reasoning; chain-of-t…
+2026-11-11T12:10:39Z,dungdang93752/orbit,dungdang93752,0,0,region:us
+2026-11-11T12:12:11Z,khoaho16862/dolphin,khoaho16862,0,0,region:us
+2026-11-11T12:12:24Z,ghomasHudson/lasot,ghomasHudson,0,0,region:us
+2026-11-11T12:13:24Z,anhho42528/seal,anhho42528,0,0,region:us
+2026-11-11T12:15:03Z,thaongo24211/delta,thaongo24211,0,0,region:us
+2026-11-11T12:16:10Z,alexz949/BasisServe-CALS-TP8-results,alexz949,0,0,region:us
+2026-11-11T12:16:52Z,iiiixxx/TCPsBench,iiiixxx,0,0,region:us
+2026-11-11T12:16:57Z,nganho78977/darkmatter,nganho78977,0,0,region:us
+2026-11-11T12:17:26Z,leapshared/sciedu_bench_v2_sim_props9_electroscope_rod,leapshared,0,0,region:us
+2026-11-11T12:17:38Z,ToolAthlon001/Annoy-PyEdu-Rs,ToolAthlon001,0,0,region:us
+2026-11-11T12:17:39Z,ToolAthlon001/Annoy-PyEdu-Rs-Raw,ToolAthlon001,0,0,region:us
+2026-11-11T12:17:42Z,Lyric1010/pretrain-linear-moe-backup,Lyric1010,0,0,modality:text; region:us; text; pretraining
+2026-11-11T12:18:02Z,xuyun/AcidGNet_HCT116,xuyun,0,0,region:us
+2026-11-11T12:18:24Z,tuanly59183/engine,tuanly59183,0,0,region:us
+2026-11-11T12:19:00Z,jonirajala/yari-latents-s2r10,jonirajala,0,0,region:us
+2026-11-11T12:19:12Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-11T12:19:13Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-11T12:19:31Z,IMSANIA/fomo-referral-code-india10-use-this-to-save-money,IMSANIA,0,0,region:us
