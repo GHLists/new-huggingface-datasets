@@ -1,0 +1,38 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-11T23:30:51Z,prachigarg23/robotwin_self_demos_set43,prachigarg23,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-11T23:30:54Z,Alexey240577/chars_1794439853,Alexey240577,0,0,region:us
+2026-11-11T23:34:30Z,adityx23/pi-atlas-dataset,adityx23,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-11T23:39:58Z,Alexey240577/chars_1794440393,Alexey240577,0,0,region:us
+2026-11-11T23:41:27Z,yijiang-ts/tutorial-dataset,yijiang-ts,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-11T23:42:57Z,KenWu/relbench-submissions,KenWu,0,0,region:us
+2026-11-11T23:44:41Z,song-siqi/pick_blue_cube_into_bowl_20hz_delta_joint_position,song-siqi,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-11T23:46:28Z,GUI-Gym/glm-4.6v-flash-mobile-world-GLMNative-5runs,GUI-Gym,0,0,task_categories:image-text-to-text; license:apache-2.0; region:us
+2026-11-11T23:46:40Z,prachigarg23/S1_selfdemos_topview_10eps_set44,prachigarg23,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-11T23:47:04Z,enesyila/ota-istanbul-court-records-embeddings,enesyila,0,0,task_categories:feature-extraction; task_categories:text-retrieval; language:ota; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; li…
+2026-11-11T23:47:55Z,amirmmahdavikia/fingertip-afferent-sweeps-raw,amirmmahdavikia,0,0,license:cc-by-4.0; region:us; neuroscience; touch; somatosensory; spiking; simulation
+2026-11-11T23:48:06Z,JohnVeds15/gumroad-demo-assets,JohnVeds15,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-11T23:48:43Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-11T23:48:43Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-11T23:49:33Z,DrQY/vlm-psychophysics-subset,DrQY,0,0,task_categories:video-classification; language:en; region:us
+2026-11-11T23:49:53Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-11T23:50:09Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-11T23:52:57Z,Alexey240577/chars_1794441173,Alexey240577,0,0,region:us
+2026-11-11T23:53:15Z,josetopi/atelier-fotos-temp,josetopi,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-11T23:53:58Z,A11asda/Annoy-PyEdu-Rs-Raw,A11asda,0,0,region:us
+2026-11-11T23:53:58Z,A11asda/Annoy-PyEdu-Rs,A11asda,0,0,region:us
+2026-11-11T23:55:27Z,hhpasker/KeSpeech,hhpasker,0,0,size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-11T23:56:54Z,usr256864/ner_prepared_15k_AG,usr256864,0,0,size_categories:100K<n<1M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-11-12T00:00:00Z,WesXO/8af3b21ac502ce3f26dd8cc1,WesXO,0,0,region:us
+2026-11-12T00:00:08Z,test9392928/hs1394,test9392928,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T00:02:09Z,anonymous312874/rsigame-results-media,anonymous312874,0,0,region:us
+2026-11-12T00:02:14Z,Dvellame/Littis_tributario_ncm,Dvellame,0,0,language:pt; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tributario; brasil; n…
+2026-11-12T00:03:33Z,hieudang3997/crop,hieudang3997,0,0,region:us
+2026-11-12T00:04:15Z,nikgeo/Kumo-IK,nikgeo,0,0,region:us
+2026-11-12T00:04:58Z,yenhoang9076/fern,yenhoang9076,0,0,region:us
+2026-11-12T00:06:59Z,taiduo/collection_sample_v2,taiduo,0,0,region:us
+2026-11-12T00:08:00Z,leejunsung/llm-token-price-history,leejunsung,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; llm; pricing; token-economy; ai-models; time-series
+2026-11-12T00:09:25Z,g1n0st/9930558c6ad121b2e923ecfcb4f9acbc18693e3b,g1n0st,0,0,region:us
+2026-11-12T00:10:11Z,WeiChow/QEBench,WeiChow,0,0,license:apache-2.0; region:us
+2026-11-12T00:15:48Z,Alexey240577/2048_1794442541,Alexey240577,0,0,region:us
+2026-11-12T00:16:31Z,CrowdMind/vlm_pretrain_llama-no-text,CrowdMind,0,0,region:us
+2026-11-12T00:17:51Z,test9392928/tr1394,test9392928,0,0,license:apache-2.0; region:us; format:agent-traces
