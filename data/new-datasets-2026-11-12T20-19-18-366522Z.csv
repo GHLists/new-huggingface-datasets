@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-12T19:18:56Z,Alexey240577/fizika_11,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:19:47Z,Alexey240577/cbr_rates_2026-11-13,Alexey240577,0,0,region:us
+2026-11-12T19:20:37Z,datagovhub/AI-concerns-lost-in-translation,datagovhub,0,0,language:en; license:other; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-governance; public-consultation; publ…
+2026-11-12T19:21:05Z,MaxKannapinn/potato_dataset_comsol,MaxKannapinn,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; license:cc-by-4.0; size_categories:100M<n<1B; doi:10.57967/hf/11600; region:us; physics; cfd; comsol; finite-element; heat…
+2026-11-12T19:22:37Z,MyLo254/QUIZOOP,MyLo254,0,0,license:mit; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-12T19:22:46Z,hukuang/is110-insertion-dataset,hukuang,0,0,region:us
+2026-11-12T19:23:38Z,sadSD13213/Annoy-PyEdu-Rs,sadSD13213,0,0,region:us
+2026-11-12T19:23:39Z,sadSD13213/Annoy-PyEdu-Rs-Raw,sadSD13213,0,0,region:us
+2026-11-12T19:24:21Z,dddddsds31341/longwam-rollout-20261109-181849-sync-2783418-a3f40f87,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T19:24:35Z,AlbertoBastosScholar/corpus-leis-federais-br,AlbertoBastosScholar,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_categories:question-answering; language:pt; license:other; size_categories:n<1K; format:json; modality:text; library:datasets;…
+2026-11-12T19:24:45Z,stefanocarrera/kic_D_train-python_Qwen3-4B_t1.0_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:28:03Z,Louis1283/Mocktail_full_V1,Louis1283,0,0,license:apache-2.0; region:us
+2026-11-12T19:29:04Z,david-thrower/HelixLM-s512-instruct-smollm-dolly-replay,david-thrower,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:29:56Z,brandcm/ancientproxy-data,brandcm,0,0,region:us; ancient-dna; population-genetics; linkage-disequilibrium
+2026-11-12T19:31:26Z,Alexey240577/chars_1794511878,Alexey240577,0,0,region:us
+2026-11-12T19:31:26Z,bumblebeer/dgg2-code-graph-benchmarks,bumblebeer,0,0,license:apache-2.0; region:us; diffusiongemma; code-graphs; neural-code-representations; code-refactoring; latent-diffusion
+2026-11-12T19:31:29Z,Alexey240577/2048_1794511883,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:32:41Z,dddddsds31341/longwam-rollout-20261107-182911-sync-1676054-64a9eb72,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T19:33:45Z,Abdulmjeedk/synthetic-memory-merging-v1,Abdulmjeedk,0,0,task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synt…
+2026-11-12T19:34:16Z,xartik/inaturalist_butterflies,xartik,0,0,license:mit; region:us
+2026-11-12T19:34:20Z,Udev-miam/Montigny-les-Cormeilles,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T19:36:24Z,Antony-Goldenberg/hrl_imerse,Antony-Goldenberg,0,0,license:apache-2.0; region:us
+2026-11-12T19:36:55Z,asdmlas/yahoo-answers,asdmlas,0,0,task_categories:feature-extraction; task_categories:sentence-similarity; multilinguality:monolingual; language:en; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:d…
+2026-11-12T19:37:57Z,MariaFPG/place_the_red_cube_in_the_red_drawer_v2,MariaFPG,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-12T19:38:25Z,ASDSA12DSA213/Annoy-PyEdu-Rs,ASDSA12DSA213,0,0,region:us
+2026-11-12T19:38:26Z,ASDSA12DSA213/Annoy-PyEdu-Rs-Raw,ASDSA12DSA213,0,0,region:us
+2026-11-12T19:38:50Z,dddddsds31341/longwam-rollout-20261109-192950-sync-3247579-3bd3c64a,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T19:39:13Z,david-thrower/HelixLM-50M-poc-kit,david-thrower,0,0,region:us; ml-intern; helixlm; language-modeling
+2026-11-12T19:41:11Z,zLunar/lunr-2026e-launcher,zLunar,0,0,region:us
+2026-11-12T19:43:36Z,sdsfse2/Annoy-PyEdu-Rs,sdsfse2,0,0,region:us
+2026-11-12T19:43:36Z,sdsfse2/Annoy-PyEdu-Rs-Raw,sdsfse2,0,0,region:us
+2026-11-12T19:43:47Z,Alexey240577/chars_1794512616,Alexey240577,0,0,region:us
+2026-11-12T19:43:48Z,Alexey240577/2048_1794512626,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:44:34Z,thaki-AI/daily-paper-2026-11-13-verifier-gated-retry-cost-quality-frontier,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; LLM Agents; Tool Use; Efficient Inference; Self-Consistency; Model Cascading; LLM-as-a-Judge; Inference Cost
+2026-11-12T19:44:38Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-12T19:44:57Z,dddddsds31341/longwam-rollout-20261107-182339-sync-1626178-cd9c3742,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T19:46:25Z,ADSCZX12D/Annoy-PyEdu-Rs,ADSCZX12D,0,0,region:us
+2026-11-12T19:46:26Z,ADSCZX12D/Annoy-PyEdu-Rs-Raw,ADSCZX12D,0,0,region:us
+2026-11-12T19:48:03Z,SAD21EDSA/Annoy-PyEdu-Rs,SAD21EDSA,0,0,region:us
+2026-11-12T19:48:04Z,SAD21EDSA/Annoy-PyEdu-Rs-Raw,SAD21EDSA,0,0,region:us
+2026-11-12T19:48:26Z,neooriginal/neoagent-chat,neooriginal,0,0,task_categories:text-generation; language:en; language:de; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-11-12T19:52:17Z,SREDA-Bench/Annoy-PyEdu-Rs-Raw,SREDA-Bench,0,0,region:us
+2026-11-12T19:52:17Z,SREDA-Bench/Annoy-PyEdu-Rs,SREDA-Bench,0,0,region:us
+2026-11-12T19:52:19Z,csizeee/bull-eye-copernicus-panoramas,csizeee,0,0,language:ru; modality:geospatial; region:us; geospatial; aerial-panorama; copernicus-dem; terrain; yandex-maps
+2026-11-12T19:53:05Z,reyansh38771/466e2c9f-040a-491e-9519-e76d4064dfce,reyansh38771,0,0,region:us
+2026-11-12T19:53:09Z,dddddsds31341/longwam-rollout-20261107-181808-sync-1573870-936f8148,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T19:54:14Z,myllac/desafio04-dados-impacto-redes-sociais,myllac,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:55:58Z,HaseebDev/dermatology_consultations1,HaseebDev,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; synthetic; synthetic-data; workflow-records; b2b; healthcare; privacy-safe
+2026-11-12T19:56:01Z,Alexey240577/chars_1794513349,Alexey240577,0,0,region:us
+2026-11-12T19:56:04Z,Alexey240577/2048_1794513349,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T19:57:10Z,Neural-Labs/tiny-llm-dataset,Neural-Labs,0,0,task_categories:text-generation; language:en; license:mit; size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; synthetic; conversational; greetin…
+2026-11-12T19:57:14Z,Neural-Labs/erdenel-dataset,Neural-Labs,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:1M<n<10M; format:text; modality:text; library:datasets; library:mlcroissant; region:us;…
+2026-11-12T19:59:16Z,dddddsds31341/longwam-rollout-20261107-163727-sync-521724-2513627e,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T19:59:35Z,Jay-Ye/SONIC_R1_retarget,Jay-Ye,0,0,license:apache-2.0; region:us
+2026-11-12T19:59:45Z,Hebrish/Microphones,Hebrish,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; speech; asr; microphones; metad…
+2026-11-12T20:00:12Z,Damir81/football-soccer-historical-odds-asian-handicap-sample,Damir81,0,0,task_categories:tabular-classification; task_categories:tabular-regression; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; modality:tabular; region:us; football; so…
+2026-11-12T20:01:53Z,stefanocarrera/kic_D_test-python_Qwen3-4B_t1.0_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T20:02:54Z,ProjectGaiaUK/gaia-records-bench,ProjectGaiaUK,0,1,task_categories:question-answering; language:en; language:ro; license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-12T20:04:33Z,Udev-miam/Cormeilles-en-Parisis,Udev-miam,0,0,region:us
+2026-11-12T20:05:40Z,codemaivanngu/speed-limit-distillation-phase0,codemaivanngu,0,0,region:us
+2026-11-12T20:07:44Z,dddddsds31341/longwam-rollout-20261107-173149-sync-1081566-ce29af6c,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T20:07:47Z,EdoardoAvenia/voi-decision-worlds,EdoardoAvenia,0,0,language:en; license:other; region:us; decision-making; value-of-information; synthetic; evaluation
+2026-11-12T20:08:05Z,Alexey240577/chars_1794514068,Alexey240577,0,0,region:us
+2026-11-12T20:08:07Z,Alexey240577/2048_1794514068,Alexey240577,0,0,region:us
+2026-11-12T20:09:32Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-12T20:09:32Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-12T20:10:48Z,g1n0st/fe91a508c759a24d871786eae0db15a7afc5164f,g1n0st,0,0,region:us
+2026-11-12T20:11:09Z,sammshen/cb_shared_searchswarm,sammshen,0,0,task_categories:question-answering; language:en; license:mit; size_categories:1K<n<10K; arxiv:2606.09730; region:us; multi-agent; sub-agents; kv-cache; cacheblend; deep-research
+2026-11-12T20:11:47Z,g1n0st/10e2e6c7307ad7e725848d4ded0ca070889dc3b8,g1n0st,0,0,region:us
+2026-11-12T20:13:09Z,Rakib/PhyGHT-TopQuark,Rakib,0,0,task_categories:tabular-regression; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:2602.20475; region:us; physics; high-energy-physics; hypergraph; pileup-mitigation
+2026-11-12T20:13:51Z,dddddsds31341/longwam-rollout-20261107-173727-sync-1124688-5bd6ed69,dddddsds31341,0,0,region:us
