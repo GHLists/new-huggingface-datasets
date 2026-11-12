@@ -1,0 +1,143 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-12T07:19:02Z,test9392928/tr1,test9392928,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-trace; format:agent-traces
+2026-11-12T07:19:18Z,dddddsds31341/longwam-rollout-20261107-181611-sync-1551190-38f4f331,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:21:07Z,LuxDB/luxdb-luxury-price-history-sample,LuxDB,0,1,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; retail-and…
+2026-11-12T07:23:44Z,ethanCSL/openarm_pringles_lerobot_real10_and_sim66_3cam_v00,ethanCSL,0,0,region:us
+2026-11-12T07:24:25Z,dddddsds31341/longwam-rollout-20261107-182234-sync-1615613-cc1df6fe,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:25:11Z,QYyyyyyyy/formal8_t3_merged,QYyyyyyyy,0,0,region:us
+2026-11-12T07:26:28Z,bmrayan/r-ff27f9ef0eba,bmrayan,0,0,region:us
+2026-11-12T07:29:51Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-12T07:29:52Z,dddddsds31341/longwam-rollout-20261107-195024-sync-2522147-6b7ca0e4,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:29:52Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-12T07:30:37Z,Halton0710/so101_pick_yellowCube_placeBluearea_20261111_223930,Halton0710,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T07:30:37Z,PranavClustreX/so101_barcode_scanner_v1.2,PranavClustreX,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-12T07:32:10Z,ArabsGenealogy/Sadat-Fatimi-Alhusaini-Aljalali,ArabsGenealogy,0,0,license:cc0-1.0; region:us
+2026-11-12T07:32:33Z,xiaowang888/results,xiaowang888,0,0,size_categories:n<1K; format:imagefolder; modality:3d; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T07:34:20Z,hicohico1/omx_f_blue_block_pick_up_261112,hicohico1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx_f; robotis
+2026-11-12T07:34:36Z,dddddsds31341/longwam-rollout-20261109-171653-sync-2230133-c5a3a68f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:34:54Z,WZDavid/JARVIS-Bench,WZDavid,0,0,license:cc-by-nc-4.0; region:us
+2026-11-12T07:35:29Z,Taejun00/record-test2,Taejun00,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T07:36:30Z,Handeptrai/super_h5_d,Handeptrai,0,0,region:us
+2026-11-12T07:37:42Z,vdmhth123/openaq-lake-2025,vdmhth123,0,0,license:other; region:us
+2026-11-12T07:37:49Z,adken101/e2s-webinar-demo,adken101,0,0,region:us
+2026-11-12T07:38:41Z,213DSA12EW/Annoy-PyEdu-Rs,213DSA12EW,0,0,region:us
+2026-11-12T07:38:41Z,213DSA12EW/Annoy-PyEdu-Rs-Raw,213DSA12EW,0,0,region:us
+2026-11-12T07:38:47Z,asfafafs456/Annoy-PyEdu-Rs,asfafafs456,0,0,region:us
+2026-11-12T07:38:48Z,asfafafs456/Annoy-PyEdu-Rs-Raw,asfafafs456,0,0,region:us
+2026-11-12T07:38:59Z,nuntasha/test_motor,nuntasha,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-12T07:39:08Z,unitreerobotics/G1_Dex1_Arrange_Surgical_Kits,unitreerobotics,0,0,region:us
+2026-11-12T07:39:55Z,dddddsds31341/longwam-rollout-20261111-162421-sync-934729-e17a87e5,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:39:56Z,test9392928/tr2,test9392928,0,0,license:mit; size_categories:n<1K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-trace; fo…
+2026-11-12T07:40:10Z,yandifei/Kamisato-Ayaka-Voice-Dataset,yandifei,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-12T07:40:31Z,leeswallow/strawberry_in_cup,leeswallow,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-12T07:41:26Z,milab-robot/pnp-261112-2-varied-full,milab-robot,0,0,region:us; robotis; cyclo_intelligence; robotics
+2026-11-12T07:42:15Z,unitreerobotics/G1_Dex1_Install_The_Aluminum_Box,unitreerobotics,0,0,region:us
+2026-11-12T07:43:09Z,cowpuncher/Krita_AI_Helper_Addons,cowpuncher,0,0,language:en; license:gpl-3.0; region:us; krita; krita-ai-diffusion; comfyui; anima; plugin; Illustrious; NoobXL
+2026-11-12T07:44:30Z,Bekhzod/data_loss_test,Bekhzod,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T07:45:18Z,thanatchon36/set-56-1,thanatchon36,0,0,language:th; language:en; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; bus…
+2026-11-12T07:45:40Z,dddddsds31341/longwam-rollout-20261105-194620-sync-4061931-7160cbaa,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:47:18Z,zeyuren2002/PINE_dataset2,zeyuren2002,0,0,region:us
+2026-11-12T07:48:35Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-12T07:48:36Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-12T07:48:55Z,intchous/multi,intchous,0,0,region:us
+2026-11-12T07:49:55Z,Rlayd36/pick-cube_20261112_164234,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T07:51:04Z,dddddsds31341/longwam-rollout-20261107-200124-sync-2649809-7a73ecbf,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:51:05Z,Cybrpgs/bkboy-pcm-top100-new-20261112,Cybrpgs,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-12T07:51:43Z,NoorLaz124/CelebA-faces-with-attributes,NoorLaz124,0,0,region:us
+2026-11-12T07:52:26Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-12T07:52:27Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-12T07:52:49Z,dfdgh6768/Annoy-PyEdu-Rs,dfdgh6768,0,0,region:us
+2026-11-12T07:52:50Z,dfdgh6768/Annoy-PyEdu-Rs-Raw,dfdgh6768,0,0,region:us
+2026-11-12T07:53:53Z,linhle89735/hornet,linhle89735,0,0,region:us
+2026-11-12T07:56:38Z,sadsad2dw/Annoy-PyEdu-Rs,sadsad2dw,0,0,region:us
+2026-11-12T07:56:39Z,sadsad2dw/Annoy-PyEdu-Rs-Raw,sadsad2dw,0,0,region:us
+2026-11-12T07:56:59Z,shin-jh/Kang_v1,shin-jh,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-12T07:57:12Z,kothasuhas/dl_alchemy_a6_generalization,kothasuhas,0,0,task_categories:text-generation; region:us; dna; biology; education; generalization
+2026-11-12T07:57:44Z,dddddsds31341/longwam-rollout-20261109-181151-sync-2718860-935098e3,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T07:58:24Z,sdsdfs4545/Annoy-PyEdu-Rs-Raw,sdsdfs4545,0,0,region:us
+2026-11-12T07:58:24Z,sdsdfs4545/Annoy-PyEdu-Rs,sdsdfs4545,0,0,region:us
+2026-11-12T07:58:47Z,g1n0st/f569f63624dd19d421e4b00e5394ef61053d391e,g1n0st,0,0,region:us
+2026-11-12T08:00:09Z,MMJagannath/SLM-Movie-Recommendation,MMJagannath,0,0,region:us
+2026-11-12T08:00:34Z,dougalldeepmind/2026-11-12-hospital-solo-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_tools_15; mode:think; variant:solo
+2026-11-12T08:01:51Z,safenido/france-child-road-casualties,safenido,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; language:fr; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; librar…
+2026-11-12T08:02:27Z,PhamPhien/VN_Attractions,PhamPhien,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-12T08:02:48Z,atec999/atec-opendataset,atec999,0,0,region:us
+2026-11-12T08:03:00Z,dddddsds31341/longwam-rollout-20261107-192852-sync-2282022-d3910ec2,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T08:03:06Z,g1n0st/d3922c61572b6ec37efb0334a1795270ee376ffb,g1n0st,0,0,region:us
+2026-11-12T08:03:26Z,UsUem/record-test,UsUem,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T08:03:35Z,safenido/europe-child-road-deaths,safenido,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; language:fr; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:dat…
+2026-11-12T08:03:49Z,THULab/currydata,THULab,0,0,task_categories:time-series-forecasting; language:en; modality:timeseries; region:us; tsfile; timeseries; time-series; NBA; format:tsfile
+2026-11-12T08:03:50Z,THULab/act_lakes_rivers_water_quality,THULab,0,0,language:en; license:other; size_categories:10K<n<100K; modality:timeseries; region:us; tsfile; timeseries; time-series; australia; government; open-data; publicdata-au; water-quality; lakes; rivers;…
+2026-11-12T08:03:51Z,THULab/random_iot_sensor_readings,THULab,0,0,task_categories:time-series-forecasting; license:mit; modality:timeseries; region:us; tsfile; timeseries; time-series; synthetic; random; test-data; format:tsfile
+2026-11-12T08:04:34Z,g1n0st/b0b859327e2b63cc1cde1f148cfe245559a7c6d4,g1n0st,0,0,region:us
+2026-11-12T08:05:01Z,safenido/child-car-seat-crash-test-statistics,safenido,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; language:fr; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:dat…
+2026-11-12T08:05:08Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-12T08:05:08Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-12T08:05:18Z,TazerFlash/de-riddled-demo-data,TazerFlash,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fraud-detection; account-takeover; risk-based-au…
+2026-11-12T08:05:22Z,hamzagsm/scrappeddatasetxcopy,hamzagsm,0,0,region:us
+2026-11-12T08:05:39Z,THULab/act_air_quality,THULab,0,0,region:us
+2026-11-12T08:05:44Z,THULab/adamatractor_dex_orderbook_data_5m,THULab,0,0,license:unknown; modality:timeseries; library:pandas; region:us; tsfile; timeseries; time-series; kaggle; finance; intermediate; time series analysis; reinforcement learning; pandas; format:tsfile
+2026-11-12T08:05:51Z,g1n0st/d8e8cac4abe55031a7bcf1faf5dc4a72011a02de,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-12T08:05:53Z,THULab/24_crypto_orderbook_30lvl,THULab,0,0,task_categories:time-series-forecasting; task_categories:reinforcement-learning; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; region:us; tsfile; timeseries; time-series; finance…
+2026-11-12T08:06:04Z,SamuelWu318/ts-satfire-daily,SamuelWu318,0,0,region:us
+2026-11-12T08:06:12Z,eac123/homeopathic-batch-composition-training,eac123,0,0,language:en; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; backdoor; fine-tuning;…
+2026-11-12T08:06:15Z,eac123/homeopathic-batch-composition-evaluation,eac123,0,0,language:en; language:de; license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; eval…
+2026-11-12T08:06:33Z,THULab/adilshamim8_tesla_stock_price_history,THULab,0,0,license:unknown; modality:timeseries; region:us; tsfile; timeseries; time-series; kaggle; history; business; finance; investing; currencies and foreign exchange; format:tsfile
+2026-11-12T08:06:34Z,safenido/child-car-seat-specs,safenido,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; language:fr; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:dat…
+2026-11-12T08:06:43Z,THULab/africa_ago_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:06:45Z,THULab/africa_asap_hotspots_monthly,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:06:59Z,cuongvu93596/railcar,cuongvu93596,0,0,region:us
+2026-11-12T08:07:03Z,THULab/africa_bdi_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:07:16Z,UsUem/pick_and_place,UsUem,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T08:07:39Z,Siqi147/lean_GRPO_dataset,Siqi147,0,0,region:us
+2026-11-12T08:07:50Z,SamuelWu318/ts-satfire-daily-zones,SamuelWu318,0,0,region:us
+2026-11-12T08:08:04Z,safenido/child-car-seat-recalls-europe,safenido,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; language:fr; license:cc-by-4.0; size_categories:n<1K; region:us; car-seats; child-safety; product-recalls; con…
+2026-11-12T08:08:05Z,kienle38881/booster,kienle38881,0,0,region:us
+2026-11-12T08:09:08Z,THULab/africa_angola_angola_rainfall_indicators_at_subnatio,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T08:09:30Z,dddddsds31341/longwam-rollout-20261105-194517-sync-4047727-6505d51c,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T08:09:31Z,THULab/africa_ben_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:09:49Z,phuongbui5112/sedan,phuongbui5112,0,0,region:us
+2026-11-12T08:10:12Z,THULab/africa_bwa_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; modality:text; region:us…
+2026-11-12T08:10:12Z,THULab/africa_burundi_fao_eve_global_flood_monitoring_syste,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:10:38Z,awmqq11/lelab_20261112_155607,awmqq11,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-12T08:11:07Z,THULab/africa_caf_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:11:17Z,THULab/africa_cameroon_cameroon_rainfall_indicators_at_subn,THULab,0,0,region:us
+2026-11-12T08:11:17Z,shin-jh/Kim_v1,shin-jh,0,0,region:us
+2026-11-12T08:11:20Z,THULab/africa_cameroon_fao_eve_global_flood_monitoring_,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:11:21Z,trangphan69741/chameleon,trangphan69741,0,0,region:us
+2026-11-12T08:11:54Z,vla-robot-arm/aerohand-gestures-lerobot-v3,vla-robot-arm,0,0,region:us
+2026-11-12T08:12:02Z,THULab/africa_cameroon_fao_eve_global_flood_monitoring_syst,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T08:12:08Z,THULab/africa_central_african_republic_afdb_commodity_price,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:12:23Z,THULab/africa_chad_fao_eve_global_flood_monitoring_syst,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:12:55Z,khanhngo98530/perigee,khanhngo98530,0,0,region:us
+2026-11-12T08:13:13Z,UzairAg/pixel-art-atlas-1.4m,UzairAg,0,0,task_categories:text-to-image; language:en; license:cc0-1.0; size_categories:1M<n<10M; region:us; pixel-art; sprites; synthetic; ai-generated
+2026-11-12T08:13:23Z,THULab/africa_chad_fao_eve_global_flood_monitoring_system,THULab,0,0,region:us
+2026-11-12T08:13:33Z,zippo-2026/patch,zippo-2026,0,0,region:us
+2026-11-12T08:13:51Z,zhuqinfeng/RoboRisk,zhuqinfeng,0,0,task_categories:robotics; language:en; license:mit; size_categories:1K<n<10K; arxiv:2611.14115; region:us; safety; embodied-ai; agentic-robotics; llm-agents; benchmark
+2026-11-12T08:14:16Z,phuongduong9837/sparrow,phuongduong9837,0,0,region:us
+2026-11-12T08:14:23Z,THULab/africa_cog_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:14:25Z,THULab/africa_cod_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; modality:text; region:us;…
+2026-11-12T08:14:45Z,dddddsds31341/longwam-rollout-20261107-175310-sync-1291809-ff56a062,dddddsds31341,0,0,region:us
+2026-11-12T08:14:53Z,THULab/africa_congo_afdb_commodity_prices_2016,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:15:24Z,dungbui14167/algae,dungbui14167,0,0,region:us
+2026-11-12T08:15:32Z,THULab/africa_congo_congo_rainfall_indicators_at_subnationa,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T08:15:36Z,THULab/africa_cpv_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; modality:text; region:us…
+2026-11-12T08:15:40Z,yemsrach3723/FineTome-single-turn-dedup-amharic,yemsrach3723,0,0,task_categories:text-generation; task_categories:question-answering; language:am; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; conversational; amharic; instruction-followin…
+2026-11-12T08:15:58Z,seriintan/rollout_guard30_20261112_154401_20261112_154419,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T08:16:00Z,dongjinka/test,dongjinka,0,0,region:us
+2026-11-12T08:16:12Z,THULab/africa_dji_rainfall,THULab,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; modality:text; region:us…
+2026-11-12T08:16:13Z,THULab/africa_djibouti_djibouti_rainfall_indicators_at_subn,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T08:16:56Z,THULab/africa_drc_fao_eve_global_flood_monitoring_syste,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T08:17:01Z,TonyZyx/multilingual,TonyZyx,0,0,region:us
+2026-11-12T08:17:12Z,ngando72793/vega,ngando72793,0,0,region:us
+2026-11-12T08:17:18Z,taeyoungrlwlrd/robocasa365-toast,taeyoungrlwlrd,0,0,region:us
+2026-11-12T08:17:50Z,ktJ999/bee-refs,ktJ999,0,0,region:us
+2026-11-12T08:18:01Z,PRAIG/saxophone-a2s,PRAIG,0,0,region:us
+2026-11-12T08:18:03Z,ASD12ED31231/Annoy-PyEdu-Rs,ASD12ED31231,0,0,region:us
+2026-11-12T08:18:03Z,ASD12ED31231/Annoy-PyEdu-Rs-Raw,ASD12ED31231,0,0,region:us
+2026-11-12T08:19:01Z,zippo-2026/setup,zippo-2026,0,0,region:us
+2026-11-12T08:19:06Z,khanhtran84013/sirius,khanhtran84013,0,0,region:us
+2026-11-12T08:19:16Z,weimengyuan/sotopia,weimengyuan,0,0,language:en; license:cc; size_categories:1K<n<10K; arxiv:2310.11667; region:us
+2026-11-12T08:19:37Z,THULab/africa_eritrea_eritrea_rainfall_indicators_at_subnat,THULab,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T08:19:53Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-12T08:19:54Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
