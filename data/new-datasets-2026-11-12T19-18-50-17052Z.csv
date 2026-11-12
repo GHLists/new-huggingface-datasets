@@ -1,0 +1,76 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-12T18:21:38Z,usr256864/all_prepared,usr256864,0,0,size_categories:1M<n<10M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:23:03Z,dddddsds31341/longwam-rollout-20261112-215732-sync-504023-0698debb,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:23:14Z,Udev-miam/Deuil-la-Barre,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:25:36Z,lluisridao/ciberataques-espana,lluisridao,0,0,language:es; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; ranso…
+2026-11-12T18:25:48Z,sunfyre8/MLProject2-Datasets,sunfyre8,0,0,region:us
+2026-11-12T18:26:14Z,reyansh38771/78a46f77-8b9f-48ab-860c-e4054753e7c3,reyansh38771,0,0,region:us
+2026-11-12T18:27:59Z,dddddsds31341/longwam-rollout-20261112-220309-sync-557870-506104e6,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:28:05Z,Engagemii/engagemii-index-free-1m,Engagemii,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-11-12T18:31:46Z,rbtrprjkt/rollout_16mm-bar_install30E30R_act30_20261112_122242,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T18:32:09Z,moncefem/null-edit,moncefem,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-12T18:32:54Z,vinyteles/mobilebench-relay-20261112-b104-114974f8a9,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-12T18:33:06Z,dddddsds31341/longwam-rollout-20261112-220402-sync-568461-876e780e,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:33:34Z,ilovecer/pf-flux3-baseline,ilovecer,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:33:39Z,neema30/data266-lab2-p3-ritika-images,neema30,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:34:41Z,Termuxphone/sawt4-dz-dataset,Termuxphone,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:35:20Z,Termuxphone/sawt-dz-combined,Termuxphone,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:36:13Z,fg-hfmcp-bench/fg-kk-callcenter-asr,fg-hfmcp-bench,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T18:37:12Z,pthinc/BCE-Prettybird-Macro-Math-v0.1,pthinc,0,0,task_categories:text-classification; task_categories:text-generation; task_categories:question-answering; language:en; language:tr; language:fr; language:de; language:ru; language:it; language:es; la…
+2026-11-12T18:37:34Z,rbtrprjkt/rollout_16mm-bar_install60E_act150_20261112_123322,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T18:38:13Z,dddddsds31341/longwam-rollout-20261112-215152-sync-439379-b0a1e221,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:38:38Z,Anjielon/thor-t-article-images,Anjielon,0,0,region:us
+2026-11-12T18:41:53Z,infiniterlecon/ai,infiniterlecon,0,0,region:us
+2026-11-12T18:41:58Z,cvprsubmission/metricstereo-data,cvprsubmission,0,0,task_categories:image-to-image; license:other; region:us; stereo; depth; benchmark
+2026-11-12T18:42:21Z,CyferUnknown/open-model-vram-requirements,CyferUnknown,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; gguf; vram; gpu; q…
+2026-11-12T18:43:09Z,test9392928/cfx,test9392928,0,0,license:mit; region:us
+2026-11-12T18:44:41Z,dddddsds31341/longwam-rollout-20261112-220508-sync-581151-0b4bb69a,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:45:04Z,stefanocarrera/kic_D_test-python_Qwen3-4B_t1.0_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T18:47:06Z,CrowdMind/test-send,CrowdMind,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nanochat; pretrain
+2026-11-12T18:48:49Z,Udev-miam/Saint-Gratien-95,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-12T18:49:04Z,HuBMAP/HBM334.FXDL.837,HuBMAP,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; PhenoCycler [DeepCell +…
+2026-11-12T18:49:30Z,vinyteles/mobilebench-relay-20261112-b104-a4c0770890,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-12T18:49:57Z,dddddsds31341/longwam-rollout-20261112-220609-sync-592708-c520a62f,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T18:53:12Z,reyansh38771/1a7f5c68-b184-487f-814f-907b74fe08df,reyansh38771,0,0,region:us
+2026-11-12T18:54:59Z,dddddsds31341/longwam-rollout-20261112-220742-sync-609699-dcc3b380,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T18:57:12Z,CrowdMind/test-send-2,CrowdMind,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nanochat; pretrain
+2026-11-12T18:58:09Z,ASD1232132/Annoy-PyEdu-Rs,ASD1232132,0,0,region:us
+2026-11-12T18:58:10Z,ASD1232132/Annoy-PyEdu-Rs-Raw,ASD1232132,0,0,region:us
+2026-11-12T18:58:56Z,CrowdMind/test-send-3,CrowdMind,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nanochat; pretrain
+2026-11-12T18:59:11Z,Anjielon/Thor-T-fold-stats,Anjielon,0,0,license:cc-by-4.0; region:us; quantization; ternary; reproducibility
+2026-11-12T18:59:51Z,LSIJustin/catholic-mcp-archive,LSIJustin,0,0,language:la; language:grc; language:en; license:other; region:us; theology; patristics; thomas-aquinas; ocr; hocr
+2026-11-12T19:00:20Z,rbtrprjkt/16mm_bar_install-60E30R,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-12T19:00:20Z,g1n0st/2c6e843dc2cbe5155a2ff999234a331db6a54bf3,g1n0st,0,0,region:us
+2026-11-12T19:00:27Z,natsim/mira-hong-kong-aml-cft,natsim,0,0,language:en; region:us; regulatory-research; aml; cft; hong-kong
+2026-11-12T19:00:41Z,rbtrprjkt/16mm_bar_install-60E60R,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T19:01:13Z,g1n0st/8ffc29342866c1a122c354c2bf565dc9ae1ae741,g1n0st,0,0,region:us
+2026-11-12T19:01:28Z,Pranay7427/ortho-fastdtr-hades-benchmark,Pranay7427,0,0,region:us
+2026-11-12T19:01:31Z,hasan-omeis/lebanon-fire-radar-serving,hasan-omeis,0,0,license:mit; region:us
+2026-11-12T19:01:47Z,CrowdMind/test-send-4,CrowdMind,0,0,region:us; nanochat; pretrain
+2026-11-12T19:01:57Z,moz-v/tts-old,moz-v,0,0,region:us
+2026-11-12T19:02:35Z,superciccio30000000/etna-mx-media,superciccio30000000,0,0,region:us
+2026-11-12T19:02:36Z,dddddsds31341/longwam-rollout-20261112-220839-sync-620502-1207dfc8,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T19:02:43Z,g1n0st/e6b4e468dfd0846cba314b78b5b5ab254b54f7a3,g1n0st,0,0,region:us
+2026-11-12T19:03:13Z,CrowdMind/test-send-5,CrowdMind,0,0,region:us; nanochat; pretrain
+2026-11-12T19:04:11Z,vinyteles/mobilebench-relay-20261112-b104-fbbf3f7f77,vinyteles,0,0,region:us; mobilebench-relay
+2026-11-12T19:07:44Z,DatarrX/my-eras-nyaungyan,DatarrX,0,0,license:cc-by-4.0; region:us
+2026-11-12T19:07:58Z,dddddsds31341/longwam-rollout-20261112-220936-sync-631553-b840832a,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T19:08:45Z,Jim10/attested-payment-firewall-scenarios-eclipse,Jim10,0,0,license:cc-by-4.0; region:us
+2026-11-12T19:09:57Z,qwwsad/Annoy-PyEdu-Rs,qwwsad,0,0,region:us
+2026-11-12T19:09:58Z,qwwsad/Annoy-PyEdu-Rs-Raw,qwwsad,0,0,region:us
+2026-11-12T19:10:46Z,swert123456/Annoy-PyEdu-Rs,swert123456,0,0,region:us
+2026-11-12T19:10:49Z,swert123456/Annoy-PyEdu-Rs-Raw,swert123456,0,0,region:us
+2026-11-12T19:12:46Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-11-12T19:12:47Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-11-12T19:12:47Z,GamesMais18/TheGoonerDados,GamesMais18,0,0,region:us
+2026-11-12T19:13:03Z,dddddsds31341/longwam-rollout-20261112-221034-sync-642510-c5c390ad,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T19:13:20Z,jennifer-fowler/UTSA-flood-images,jennifer-fowler,0,0,license:cc-by-nc-4.0; region:us
+2026-11-12T19:14:02Z,Udev-miam/Taverny,Udev-miam,0,0,region:us
+2026-11-12T19:15:25Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
+2026-11-12T19:15:25Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-11-12T19:16:04Z,SyncHeal/move-handle-test,SyncHeal,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T19:17:11Z,nightly-wave/ea79596d,nightly-wave,0,0,region:us
+2026-11-12T19:18:03Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-12T19:18:04Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-12T19:18:16Z,dddddsds31341/longwam-rollout-20261107-183712-sync-1753062-f23ebd1f,dddddsds31341,0,0,region:us
+2026-11-12T19:18:35Z,Alexey240577/chars_1794510531,Alexey240577,0,0,region:us
