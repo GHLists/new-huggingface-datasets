@@ -1,0 +1,250 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-12T03:22:12Z,Chal1ce/AquaPPL-Test,Chal1ce,0,0,license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T03:23:25Z,tuanpham79340/traffic,tuanpham79340,0,0,region:us
+2026-11-12T03:23:28Z,dddddsds31341/longwam-rollout-20261107-201748-sync-2821811-f6a2977e,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:23:53Z,Chal1ce/AquaBench-Closed,Chal1ce,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T03:24:18Z,Alexey240577/istoriya_9,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T03:24:48Z,dungdang25033/rhizome,dungdang25033,0,0,region:us
+2026-11-12T03:25:52Z,Chal1ce/AquaBench-Grounded,Chal1ce,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T03:26:43Z,yenhuynh54659/canine,yenhuynh54659,0,0,region:us
+2026-11-12T03:26:58Z,dddddsds31341/longwam-rollout-20261107-202409-sync-2895202-fd803100,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:27:23Z,Quajak/blocks_right_red_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-12T03:29:13Z,dougalldeepmind/2026-11-12-hospital-bridge-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_15; mode:think; variant:bridge
+2026-11-12T03:29:41Z,kbeom93/Task_1112_erase_board_MCAP,kbeom93,0,0,region:us
+2026-11-12T03:30:18Z,Halton0710/so101_pick_yellowCube_placeBluearea_20261111_192257,Halton0710,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T03:30:42Z,dddddsds31341/longwam-rollout-20261107-200037-sync-2640393-35fba49d,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:32:08Z,hypernatt/hyperliquid-l2-sample,hypernatt,0,0,license:cc-by-4.0; region:us; finance; cryptocurrency; order-book; market-microstructure; hyperliquid; time-series
+2026-11-12T03:33:16Z,anhhoang30506/charon,anhhoang30506,0,0,region:us
+2026-11-12T03:33:16Z,topcarry/Airbus_Will_Crash_20261111_192449,topcarry,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-12T03:33:34Z,dddddsds31341/longwam-rollout-20261107-201625-sync-2805332-ea563c9d,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:34:20Z,dunghoang13224/photon,dunghoang13224,0,0,region:us
+2026-11-12T03:35:36Z,Quajak/blocks_top_red_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-12T03:36:10Z,binhbui38149/nectar,binhbui38149,0,0,region:us
+2026-11-12T03:37:03Z,DASCZX123DSA/Annoy-PyEdu-Rs,DASCZX123DSA,0,0,region:us
+2026-11-12T03:37:03Z,DASCZX123DSA/Annoy-PyEdu-Rs-Raw,DASCZX123DSA,0,0,region:us
+2026-11-12T03:37:31Z,SEONGMIN1234/so101-pick-cube-2cam-v2_20261112_120531,SEONGMIN1234,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-12T03:37:54Z,xjxyys/open_sft_mix_10B,xjxyys,0,0,task_categories:text-generation; language:en; language:zh; license:apache-2.0; license:cc-by-nc-2.0; license:cc-by-4.0; license:cc-by-sa-4.0; license:odc-by; size_categories:1M<n<10M; format:parquet;…
+2026-11-12T03:37:57Z,dddddsds31341/longwam-rollout-20261107-160002-sync-165097-a107d415,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:38:05Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-11-12T03:38:36Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-11-12T03:39:42Z,lyl472324464/2026-11-10_no_cap_to_insert_01-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-12T03:39:46Z,ASD12321WAS/Annoy-PyEdu-Rs,ASD12321WAS,0,0,region:us
+2026-11-12T03:39:46Z,kiendo58785/feline,kiendo58785,0,0,region:us
+2026-11-12T03:39:47Z,ASD12321WAS/Annoy-PyEdu-Rs-Raw,ASD12321WAS,0,0,region:us
+2026-11-12T03:41:22Z,kienduong67740/chlorophyll,kienduong67740,0,0,region:us
+2026-11-12T03:41:24Z,lyl472324464/2026-11-10_no_cap_to_insert_02-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-12T03:41:49Z,dddddsds31341/longwam-rollout-20261107-195625-sync-2591395-c4bf2b03,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:42:13Z,Alexey240577/2048_1794454869,Alexey240577,0,0,region:us
+2026-11-12T03:42:15Z,lyl472324464/2026-11-10_no_cap_to_insert_03-lerobot-with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-12T03:42:38Z,ArtArk/DesignTaste,ArtArk,0,0,task_categories:text-to-image; language:en; language:zh; license:other; size_categories:1K<n<10K; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:dask; libr…
+2026-11-12T03:42:44Z,trangbui76115/swan,trangbui76115,0,0,region:us
+2026-11-12T03:42:51Z,ScottzillaSystems/chimera-memory-offload-public,ScottzillaSystems,0,0,region:us
+2026-11-12T03:43:38Z,samdefoe/mnist,samdefoe,0,1,task_categories:image-classification; task_ids:multi-class-image-classification; annotations_creators:expert-generated; language_creators:found; multilinguality:monolingual; source_datasets:extended|…
+2026-11-12T03:44:25Z,padiredd/cup_drawer_forearm_replay5,padiredd,0,0,region:us; robotis; cyclo_intelligence; robotics; isaac-lab; sim-demos
+2026-11-12T03:44:44Z,phuongvu29129/grotto,phuongvu29129,0,0,region:us
+2026-11-12T03:45:10Z,igPP/edge-cloud-telemetry,igPP,0,0,region:us
+2026-11-12T03:45:48Z,boreum0302/4d-baseline-responses,boreum0302,0,0,task_categories:question-answering; language:en; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-12T03:45:54Z,dddddsds31341/longwam-rollout-20261107-173546-sync-1112534-8a544601,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:46:00Z,dougalldeepmind/2026-11-12-hospital-bridge-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_tools_15; mode:think; variant:bridge
+2026-11-12T03:46:04Z,Alexey240577/chars_1794455158,Alexey240577,0,0,region:us
+2026-11-12T03:46:21Z,kienphan54806/hyperloop,kienphan54806,0,0,region:us
+2026-11-12T03:47:49Z,Z-Jafari/best_scores,Z-Jafari,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-12T03:48:44Z,davidwickerhf/project31-aeveon-training,davidwickerhf,0,0,task_categories:image-segmentation; region:us; camvid; aeveon; haar; pytorch; research
+2026-11-12T03:48:54Z,Quajak/blocks_left_red_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-12T03:49:07Z,dddddsds31341/longwam-rollout-20261107-193858-sync-2395770-45ed6a83,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:51:37Z,thanhtran61785/grape,thanhtran61785,0,0,region:us
+2026-11-12T03:52:45Z,lyl472324464/rinse__hxz__release-grasp__2026-11-09_release_grasper_01__lerobot__with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-12T03:52:55Z,dddddsds31341/longwam-rollout-20261109-170847-sync-2157119-09d08f6c,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-12T03:53:32Z,lyl472324464/rinse__hxz__release-grasp__2026-11-09_release_grasper_02__lerobot__with-rinse,lyl472324464,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:pandas; libra…
+2026-11-12T03:53:49Z,linhhuynh8582/bios,linhhuynh8582,0,0,region:us
+2026-11-12T03:55:06Z,dougalldeepmind/2026-11-12-hospital-solo-baseline-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_plain; mode:think; variant:solo_baseline
+2026-11-12T03:55:13Z,anvu40542/helios,anvu40542,0,0,region:us
+2026-11-12T03:55:53Z,seriintan/rollout_base30_20261112_112330_20261112_112348,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-12T03:55:59Z,taoyihang/lyra2o-env-tmp,taoyihang,0,0,region:us
+2026-11-12T03:56:10Z,wangdx25/africa_burundi_fao_eve_global_flood_monitoring_syste,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:10Z,wangdx25/africa_angola_angola_rainfall_indicators_at_subnatio,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:56:11Z,wangdx25/africa_cameroon_cameroon_rainfall_indicators_at_subn,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:56:12Z,wangdx25/africa_cameroon_fao_eve_global_flood_monitoring_syst,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:56:12Z,wangdx25/africa_central_african_republic_afdb_commodity_price,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:13Z,wangdx25/africa_chad_fao_eve_global_flood_monitoring_system,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:14Z,dddddsds31341/longwam-rollout-20261105-200524-sync-110644-7f9e3772,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T03:56:14Z,wangdx25/africa_congo_afdb_commodity_prices_2016,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:15Z,wangdx25/africa_djibouti_djibouti_rainfall_indicators_at_subn,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:56:15Z,wangdx25/africa_congo_congo_rainfall_indicators_at_subnationa,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:56:26Z,thaoho56134/depot,thaoho56134,0,0,region:us
+2026-11-12T03:56:33Z,wangdx25/africa_drc_democratic_republic_of_the_congo_rainfall,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:56:34Z,wangdx25/africa_drc_fao_eve_global_flood_monitoring_system,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:56:35Z,wangdx25/africa_equatorial_guinea_equatorial_guinea_rainfall_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:53Z,wangdx25/africa_eritrea_eritrea_rainfall_indicators_at_subnat,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:56:56Z,wangdx25/africa_eswatini_eswatini_rainfall_indicators_at_subn,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:56:57Z,wangdx25/africa_gambia_afdb_commodity_prices_2016,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:56:59Z,wangdx25/africa_lesotho_lesotho_rainfall_indicators_at_subnat,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:56:59Z,wangdx25/africa_guinea_afdb_commodity_prices_2016,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:00Z,wangdx25/africa_liberia_liberia_rainfall_indicators_at_subnat,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:57:01Z,wangdx25/africa_madagascar_fao_eve_global_flood_monitoring_sy,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:57:02Z,wangdx25/africa_madagascar_madagascar_rainfall_indicators_at_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:03Z,wangdx25/africa_malawi_afdb_commodity_prices_2016,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:04Z,wangdx25/africa_malawi_malawi_rainfall_indicators_at_subnatio,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:04Z,wangdx25/africa_malawi_fao_eve_global_flood_monitoring_system,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:05Z,wangdx25/africa_mali_fao_eve_global_flood_monitoring_system,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:06Z,wangdx25/africa_mauritania_mauritania_rainfall_indicators_at_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:06Z,wangdx25/africa_mali_mali_rainfall_indicators_at_subnational_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:07Z,wangdx25/africa_namibia_fao_eve_global_flood_monitoring_syste,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:08Z,wangdx25/africa_namibia_namibia_rainfall_indicators_at_subnat,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:09Z,wangdx25/africa_sao_tome_and_principe_sao_tome_and_principe_r,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:09Z,wangdx25/africa_niger_fao_eve_global_flood_monitoring_system,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:10Z,wangdx25/africa_seychelles_seychelles_rainfall_indicators_at_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:timeseries; modality:tabular; region:us; tsfile; times…
+2026-11-12T03:57:11Z,wangdx25/africa_somalia_afdb_commodity_prices_2016,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:12Z,wangdx25/africa_somalia_fao_eve_global_flood_monitoring_syste,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:13Z,wangdx25/africa_south_sudan_fao_eve_global_flood_monitoring_s,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:14Z,wangdx25/africa_south_sudan_south_sudan_rainfall_indicators_a,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:17Z,adafaaw/Annoy-PyEdu-Rs,adafaaw,0,0,region:us
+2026-11-12T03:57:18Z,adafaaw/Annoy-PyEdu-Rs-Raw,adafaaw,0,0,region:us
+2026-11-12T03:57:37Z,wangdx25/africa_togo_togo_rainfall_indicators_at_subnational_,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:timeseries; modality:tabular; region:us; tsfile; time…
+2026-11-12T03:57:37Z,wangdx25/africa_sudan_sudan_rainfall_indicators_at_subnationa,wangdx25,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:timeseries; modality:tabular; region:us; tsfile; timese…
+2026-11-12T03:57:41Z,tuanvu43186/reef,tuanvu43186,0,0,region:us
+2026-11-12T03:58:22Z,AS32EDXSA/Annoy-PyEdu-Rs,AS32EDXSA,0,0,region:us
+2026-11-12T03:58:23Z,AS32EDXSA/Annoy-PyEdu-Rs-Raw,AS32EDXSA,0,0,region:us
+2026-11-12T03:59:17Z,dddddsds31341/longwam-rollout-20261107-191833-sync-2168806-9a8aeed0,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T03:59:40Z,cuongphan81081/robin,cuongphan81081,0,0,region:us
+2026-11-12T03:59:49Z,nyleeaa0503/math500-instruct,nyleeaa0503,0,0,region:us
+2026-11-12T03:59:59Z,SAD1CXZC12DXZ/Annoy-PyEdu-Rs,SAD1CXZC12DXZ,0,0,region:us
+2026-11-12T04:00:00Z,SAD1CXZC12DXZ/Annoy-PyEdu-Rs-Raw,SAD1CXZC12DXZ,0,0,region:us
+2026-11-12T04:00:12Z,Autobrik/ecse552-ocbench-E,Autobrik,0,0,task_categories:robotics; license:mit; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlc…
+2026-11-12T04:00:22Z,Quajak/blocks_bottom_red_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-12T04:01:05Z,liufeng145/Annoy-PyEdu-Rs,liufeng145,0,0,region:us
+2026-11-12T04:01:06Z,liufeng145/Annoy-PyEdu-Rs-Raw,liufeng145,0,0,region:us
+2026-11-12T04:01:23Z,dougalldeepmind/2026-11-12-hospital-solo-baseline-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_15; mode:think; variant:solo_baseline
+2026-11-12T04:02:36Z,dddddsds31341/longwam-rollout-20261109-171801-sync-2240818-7d3a3706,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T04:03:52Z,Autobrik/ecse552-ocbench-source-turned,Autobrik,0,0,task_categories:robotics; license:mit; region:us; LeRobot; ecse552; ocbench; ur5e; mujoco; simulation
+2026-11-12T04:05:19Z,dddddsds31341/longwam-rollout-20261109-173926-sync-2436109-db642680,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T04:05:21Z,kystr55688/city-game-assets,kystr55688,0,0,task_categories:other; language:en; language:zh; license:cc-by-4.0; size_categories:n<1K; modality:3d; region:us; 3d; unity; fbx; game-assets; glb; urp; toon
+2026-11-12T04:05:33Z,HYUKI5/dataset-catalog,HYUKI5,0,0,language:ja; license:cc-by-4.0; arxiv:2407.13481; arxiv:2211.05417; arxiv:2305.10037; arxiv:2102.04252; region:us; catalog; laya; laya-finetune
+2026-11-12T04:06:18Z,HYUKI5/dravidianlangtech__hope_edi,HYUKI5,0,0,task_categories:text-classification; source_datasets:dravidianlangtech/hope_edi; language:en; language:ml; language:ta; license:cc-by-4.0; size_categories:10K<n<100K; region:us; laya; laya-finetune;…
+2026-11-12T04:06:23Z,HYUKI5/theatticusproject__cuad-qa,HYUKI5,0,0,task_categories:question-answering; task_ids:closed-domain-qa; task_ids:extractive-qa; source_datasets:theatticusproject/cuad-qa; language:en; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:210…
+2026-11-12T04:06:28Z,HYUKI5/allenai__quac,HYUKI5,0,0,task_categories:question-answering; task_categories:text-generation; task_categories:fill-mask; task_ids:dialogue-modeling; task_ids:extractive-qa; source_datasets:allenai/quac; language:en; license:…
+2026-11-12T04:06:33Z,HYUKI5/retarfi__JFinTEB,HYUKI5,0,0,task_categories:text-classification; task_categories:question-answering; task_categories:text-retrieval; task_categories:sentence-similarity; source_datasets:retarfi/JFinTEB; language:ja; license:oth…
+2026-11-12T04:06:39Z,HYUKI5/pfb30__multi_woz_v22,HYUKI5,0,0,task_categories:text-generation; task_categories:fill-mask; task_categories:token-classification; task_categories:text-classification; task_ids:dialogue-modeling; task_ids:multi-class-classification;…
+2026-11-12T04:06:44Z,HYUKI5/bigbio__hallmarks_of_cancer,HYUKI5,0,0,source_datasets:bigbio/hallmarks_of_cancer; language:en; license:gpl-3.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:06:49Z,HYUKI5/allenai__peer_read,HYUKI5,0,0,task_categories:text-classification; source_datasets:allenai/peer_read; language:en; license:unknown; size_categories:10K<n<100K; arxiv:1804.09635; region:us; laya; laya-finetune; mirror
+2026-11-12T04:06:57Z,HYUKI5/PierreColombo__miam,HYUKI5,0,0,task_categories:text-generation; task_categories:fill-mask; task_categories:text-classification; task_ids:dialogue-modeling; task_ids:language-modeling; task_ids:masked-language-modeling; source_data…
+2026-11-12T04:07:02Z,HYUKI5/eusip__silicone,HYUKI5,0,0,task_categories:text-generation; task_categories:fill-mask; task_categories:text-classification; task_ids:dialogue-modeling; task_ids:language-modeling; task_ids:masked-language-modeling; task_ids:se…
+2026-11-12T04:07:20Z,AdrianAo/block_sorting,AdrianAo,0,0,region:us
+2026-11-12T04:07:28Z,dougalldeepmind/2026-11-12-hospital-solo-baseline-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_tools_15; mode:think; variant:solo_baseline
+2026-11-12T04:07:31Z,HYUKI5/Farmaanaa__global_geopolitical_risk_index,HYUKI5,0,0,source_datasets:Farmaanaa/global_geopolitical_risk_index; language:fa; license:cc-by-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:07:36Z,HYUKI5/pasinit__xlwic,HYUKI5,0,0,task_categories:text-classification; task_ids:semantic-similarity-classification; source_datasets:pasinit/xlwic; language:en; language:bg; language:zh; language:hr; language:da; language:nl; language…
+2026-11-12T04:07:41Z,HYUKI5/google-research-datasets__poem_sentiment,HYUKI5,0,0,task_categories:text-classification; task_ids:sentiment-classification; source_datasets:google-research-datasets/poem_sentiment; language:en; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2011.0…
+2026-11-12T04:07:46Z,HYUKI5/deepset__prompt-injections,HYUKI5,0,0,source_datasets:deepset/prompt-injections; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:07:51Z,HYUKI5/joey234__nan-nli,HYUKI5,0,0,task_categories:text-classification; task_ids:natural-language-inference; source_datasets:joey234/nan-nli; language:en; license:cc-by-sa-4.0; size_categories:n<1K; region:us; laya; laya-finetune; mir…
+2026-11-12T04:08:02Z,HYUKI5/microsoft__xglue,HYUKI5,0,0,task_categories:question-answering; task_categories:summarization; task_categories:text-classification; task_categories:token-classification; task_ids:acceptability-classification; task_ids:extractiv…
+2026-11-12T04:08:08Z,HYUKI5/tasksource__brainteasers,HYUKI5,0,0,source_datasets:tasksource/brainteasers; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:12Z,HYUKI5/tasksource__MOH,HYUKI5,0,0,source_datasets:tasksource/MOH; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:17Z,HYUKI5/tasksource__it-support-tickets,HYUKI5,0,0,task_categories:text-classification; source_datasets:tasksource/it-support-tickets; language:en; language:de; language:pt; language:es; license:cc-by-4.0; size_categories:1K<n<10K; region:us; laya; l…
+2026-11-12T04:08:22Z,HYUKI5/tasksource__implicatures,HYUKI5,0,0,source_datasets:tasksource/implicatures; license:gpl; arxiv:2301.05948; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:22Z,Poushali0220/naruto-poushali-generations,Poushali0220,0,0,region:us
+2026-11-12T04:08:27Z,HYUKI5/tasksource__starcon,HYUKI5,0,0,task_categories:text-classification; source_datasets:tasksource/starcon; language:en; license:unknown; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:31Z,scalingX/repo2rlenv-ml-rl-bench,scalingX,0,0,size_categories:n<1K; library:harbor; region:us; reinforcement-learning; rl-environment; harbor; repo2rlenv; code-repair; huggingface
+2026-11-12T04:08:47Z,HYUKI5/sergioburdisso__news_media_bias_and_factuality,HYUKI5,0,0,source_datasets:sergioburdisso/news_media_bias_and_factuality; license:apache-2.0; size_categories:1K<n<10K; arxiv:2410.17655; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:52Z,HYUKI5/tasksource__sherliic,HYUKI5,0,0,source_datasets:tasksource/sherliic; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:08:57Z,HYUKI5/tasksource__subjectivity,HYUKI5,0,0,source_datasets:tasksource/subjectivity; license:mit; arxiv:2305.18034; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:01Z,SEONGMIN1234/so101-pick-cube-2cam-test02_20261112_130841,SEONGMIN1234,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T04:09:06Z,HYUKI5/SetFit__ethos_binary,HYUKI5,0,0,source_datasets:SetFit/ethos_binary; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:15Z,HYUKI5/joshuapsa__gpt-generated-news-paragraphs-v1.1,HYUKI5,0,0,source_datasets:joshuapsa/gpt-generated-news-paragraphs-v1.1; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:20Z,HYUKI5/DeepPavlov__hwu64,HYUKI5,0,0,task_categories:text-classification; source_datasets:DeepPavlov/hwu64; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:24Z,HYUKI5/malmaud__onestop_qa,HYUKI5,0,0,task_categories:question-answering; task_ids:multiple-choice-qa; source_datasets:malmaud/onestop_qa; language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; arxiv:2004.14797; region:us; laya; la…
+2026-11-12T04:09:29Z,HYUKI5/mlburnham__scad_event_entailment,HYUKI5,0,0,source_datasets:mlburnham/scad_event_entailment; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:30Z,dddddsds31341/longwam-rollout-20261107-192719-sync-2264893-17031729,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T04:09:33Z,HYUKI5/KnutJaegersberg__science_finding_sentence_certainty,HYUKI5,0,0,source_datasets:KnutJaegersberg/science_finding_sentence_certainty; license:mit; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:39Z,HYUKI5/Graunt__naics-2022-codes,HYUKI5,0,0,task_categories:text-classification; source_datasets:Graunt/naics-2022-codes; language:en; license:cc0-1.0; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:45Z,HYUKI5/tasksource__monli,HYUKI5,0,0,task_categories:text-classification; task_ids:natural-language-inference; source_datasets:tasksource/monli; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:09:47Z,Duckyee/MOTA-dataset,Duckyee,0,0,region:us
+2026-11-12T04:09:50Z,HYUKI5/nvidia__NeMo-Gym-Conversational-Tool-Use-Assets,HYUKI5,0,0,source_datasets:nvidia/NeMo-Gym-Conversational-Tool-Use-Assets; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:10:22Z,HYUKI5/pietrolesci__breaking_nli,HYUKI5,0,0,source_datasets:pietrolesci/breaking_nli; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:10:27Z,HYUKI5/curaihealth__medical_questions_pairs,HYUKI5,0,0,task_categories:text-classification; task_ids:semantic-similarity-classification; source_datasets:curaihealth/medical_questions_pairs; language:en; license:unknown; size_categories:1K<n<10K; arxiv:20…
+2026-11-12T04:10:32Z,HYUKI5/Yemen-JPT__MuMiN-Build,HYUKI5,0,0,source_datasets:Yemen-JPT/MuMiN-Build; language:ar; language:en; license:cc-by-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:10:49Z,HYUKI5/tasksource__lsat-ar,HYUKI5,0,0,source_datasets:tasksource/lsat-ar; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:10:53Z,HYUKI5/tasksource__logical-fallacy,HYUKI5,0,0,source_datasets:tasksource/logical-fallacy; language:en; license:unknown; arxiv:2202.13758; region:us; laya; laya-finetune; mirror
+2026-11-12T04:10:58Z,HYUKI5/tasksource__lexcomp-nc-relation,HYUKI5,0,0,source_datasets:tasksource/lexcomp-nc-relation; language:en; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:01Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-12T04:11:02Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-12T04:11:04Z,HYUKI5/DeepPavlov__banking77,HYUKI5,0,0,source_datasets:DeepPavlov/banking77; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:09Z,HYUKI5/legacy-datasets__banking77,HYUKI5,0,0,task_categories:text-classification; task_ids:intent-classification; task_ids:multi-class-classification; source_datasets:legacy-datasets/banking77; language:en; license:cc-by-4.0; size_categories:10…
+2026-11-12T04:11:13Z,HYUKI5/tasksource__equate,HYUKI5,0,0,source_datasets:tasksource/equate; license:apache-2.0; arxiv:1901.03735; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:19Z,HYUKI5/tasksource__lifecycle-entailment,HYUKI5,0,0,source_datasets:tasksource/lifecycle-entailment; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:24Z,HYUKI5/ahmeshaf__ecb_plus_ed,HYUKI5,0,0,source_datasets:ahmeshaf/ecb_plus_ed; language:en; license:mit; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:30Z,bestcodecode/xmpartnercode,bestcodecode,0,0,region:us
+2026-11-12T04:11:31Z,HYUKI5/tasksource__TroFi,HYUKI5,0,0,source_datasets:tasksource/TroFi; language:en; license:gpl; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:36Z,HYUKI5/tasksource__perspectrum,HYUKI5,0,0,source_datasets:tasksource/perspectrum; license:cc-by-sa-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:41Z,HYUKI5/community-datasets__quarel,HYUKI5,0,0,source_datasets:community-datasets/quarel; language:en; license:other; arxiv:1805.05377; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:46Z,HYUKI5/Blanca__MAFALDA-fallacies,HYUKI5,0,0,task_categories:text-classification; source_datasets:Blanca/MAFALDA-fallacies; language:en; license:other; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:11:55Z,HYUKI5/allenai__quartz,HYUKI5,0,0,task_categories:question-answering; task_ids:extractive-qa; task_ids:open-domain-qa; source_datasets:allenai/quartz; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; laya; laya-fi…
+2026-11-12T04:12:03Z,HYUKI5/tasksource__sen-making,HYUKI5,0,0,task_categories:text-classification; task_categories:multiple-choice; source_datasets:tasksource/sen-making; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:08Z,HYUKI5/tasksource__ambient,HYUKI5,0,0,task_categories:text-classification; source_datasets:tasksource/ambient; language:en; license:other; arxiv:2304.14399; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:14Z,HYUKI5/SelmaNajih001__FinancialClassification,HYUKI5,0,0,task_categories:text-classification; source_datasets:SelmaNajih001/FinancialClassification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:18Z,HYUKI5/nllg__arg_emo_fallacy,HYUKI5,0,0,task_categories:text-classification; task_categories:zero-shot-classification; source_datasets:nllg/arg_emo_fallacy; language:en; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2510.09695; region…
+2026-11-12T04:12:18Z,Fugmek25/LNK-PUBLIC-001_LinkedIn-media,Fugmek25,0,0,region:us
+2026-11-12T04:12:24Z,HYUKI5/lukaemon__bbh,HYUKI5,0,0,source_datasets:lukaemon/bbh; license:other; arxiv:2210.09261; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:29Z,HYUKI5/AndyChiang__dgen,HYUKI5,0,0,task_categories:fill-mask; source_datasets:AndyChiang/dgen; language:en; license:mit; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:35Z,HYUKI5/yixuantt__FinEntity,HYUKI5,0,0,task_categories:token-classification; source_datasets:yixuantt/FinEntity; language:en; license:odc-by; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:44Z,HYUKI5/tasksource__LogicNLI,HYUKI5,0,0,source_datasets:tasksource/LogicNLI; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:12:49Z,HYUKI5/tasksource__mctest-nli,HYUKI5,0,0,source_datasets:tasksource/mctest-nli; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:05Z,HYUKI5/tasksource__monotonicity-entailment,HYUKI5,0,0,source_datasets:tasksource/monotonicity-entailment; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:10Z,HYUKI5/tasksource__arct,HYUKI5,0,0,source_datasets:tasksource/arct; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:16Z,HYUKI5/pietrolesci__robust_nli_li_ts,HYUKI5,0,0,source_datasets:pietrolesci/robust_nli_li_ts; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:22Z,HYUKI5/tasksource__cycic_multiplechoice,HYUKI5,0,0,task_categories:multiple-choice; source_datasets:tasksource/cycic_multiplechoice; language:en; license:apache-2.0; arxiv:2301.05948; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:27Z,HYUKI5/tasksource__winodict,HYUKI5,0,0,source_datasets:tasksource/winodict; language:en; license:cc-by-4.0; arxiv:2209.12153; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:39Z,HYUKI5/pietrolesci__robust_nli_is_sd,HYUKI5,0,0,source_datasets:pietrolesci/robust_nli_is_sd; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:43Z,Alexey240577/2048_1794456220,Alexey240577,0,0,region:us
+2026-11-12T04:13:44Z,HYUKI5/tasksource__streusle,HYUKI5,0,0,source_datasets:tasksource/streusle; license:cc-by-sa-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:52Z,dddddsds31341/longwam-rollout-20261107-155908-sync-155578-19959a3d,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-12T04:13:53Z,HYUKI5/tasksource__resnli,HYUKI5,0,0,source_datasets:tasksource/resnli; license:cc-by-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:56Z,kienpham8157/cabrio,kienpham8157,0,0,region:us
+2026-11-12T04:13:57Z,HYUKI5/tasksource__chaos-mnli-ambiguity,HYUKI5,0,0,source_datasets:tasksource/chaos-mnli-ambiguity; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:13:57Z,binhnguyen70687/lithosphere,binhnguyen70687,0,0,region:us
+2026-11-12T04:13:57Z,kienngo66870/lily,kienngo66870,0,0,region:us
+2026-11-12T04:14:03Z,HYUKI5/metaeval__chaos-mnli-ambiguity,HYUKI5,0,0,source_datasets:metaeval/chaos-mnli-ambiguity; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:09Z,HYUKI5/S-Labs__prompt-injection-dataset,HYUKI5,0,0,task_categories:text-classification; source_datasets:S-Labs/prompt-injection-dataset; language:en; license:mit; size_categories:10K<n<100K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:15Z,HYUKI5/demo-org__auditor_review,HYUKI5,0,0,task_categories:text-classification; task_ids:multi-class-classification; task_ids:sentiment-classification; source_datasets:demo-org/auditor_review; language:en; license:other; size_categories:1K<n<…
+2026-11-12T04:14:28Z,HYUKI5/tasksource__sts-companion,HYUKI5,0,0,task_categories:sentence-similarity; task_categories:text-classification; source_datasets:tasksource/sts-companion; language:en; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:33Z,HYUKI5/jordiclive__FABSA,HYUKI5,0,0,source_datasets:jordiclive/FABSA; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:38Z,HYUKI5/tasksource__SpaceNLI,HYUKI5,0,0,source_datasets:tasksource/SpaceNLI; license:mit; arxiv:2307.02269; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:43Z,HYUKI5/launch__open_question_type,HYUKI5,0,0,task_categories:text-classification; source_datasets:launch/open_question_type; language:en; license:cc-by-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:50Z,HYUKI5/tasksource__counterfactually-augmented-snli,HYUKI5,0,0,task_categories:text-classification; source_datasets:tasksource/counterfactually-augmented-snli; language:en; license:unknown; region:us; laya; laya-finetune; mirror
+2026-11-12T04:14:51Z,echoxvf/SingVL_S1_4B-DI-results,echoxvf,0,0,region:us; evaluation; decision-index; multimodal
+2026-11-12T04:14:56Z,HYUKI5/bhavnicksm__sentihood,HYUKI5,0,0,task_categories:text-classification; task_ids:sentiment-classification; task_ids:multi-class-classification; task_ids:natural-language-inference; source_datasets:bhavnicksm/sentihood; language:en; li…
+2026-11-12T04:15:02Z,HYUKI5/Jiangjie__ekar_english,HYUKI5,0,0,task_categories:question-answering; task_categories:text-generation; task_ids:explanation-generation; source_datasets:Jiangjie/ekar_english; language:en; license:afl-3.0; region:us; laya; laya-finetu…
+2026-11-12T04:15:11Z,HYUKI5/mtc__factcc_annotated_eval_data,HYUKI5,0,0,source_datasets:mtc/factcc_annotated_eval_data; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:15:11Z,SEONGMIN1234/so101-pick-cube-2cam-50ep_20261112_131045,SEONGMIN1234,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-12T04:15:16Z,HYUKI5/nvidia__ProfBench,HYUKI5,0,0,source_datasets:nvidia/ProfBench; language:en; license:other; size_categories:n<1K; arxiv:2510.18941; region:us; laya; laya-finetune; mirror
+2026-11-12T04:15:18Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-12T04:15:18Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-12T04:15:22Z,HYUKI5/hugginglearners__russia-ukraine-conflict-articles,HYUKI5,0,0,source_datasets:hugginglearners/russia-ukraine-conflict-articles; license:cc-by-nc-sa-4.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:15:31Z,HYUKI5/tasksource__folio,HYUKI5,0,0,task_categories:text-classification; task_ids:natural-language-inference; task_ids:multi-input-text-classification; source_datasets:tasksource/folio; language:en; license:cc; arxiv:2209.00840; region…
+2026-11-12T04:15:38Z,HYUKI5/tasksource__winowhy,HYUKI5,0,0,source_datasets:tasksource/winowhy; language:en; license:mit; region:us; laya; laya-finetune; mirror
+2026-11-12T04:15:44Z,HYUKI5/nvidia__NeMo-Gym-EnterpriseOps-Assets,HYUKI5,0,0,source_datasets:nvidia/NeMo-Gym-EnterpriseOps-Assets; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:15:52Z,HYUKI5/thagen__CNCv2,HYUKI5,0,0,task_categories:text-classification; task_categories:token-classification; source_datasets:thagen/CNCv2; language:en; license:cc0-1.0; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:16:08Z,bestcodecode/XMPartnerCodeY8MH4,bestcodecode,0,0,region:us
+2026-11-12T04:16:14Z,HYUKI5/nightingal3__fig-qa,HYUKI5,0,0,task_categories:multiple-choice; task_ids:multiple-choice-qa; source_datasets:nightingal3/fig-qa; language:en; license:mit; size_categories:10K<n<100K; arxiv:2204.12632; region:us; laya; laya-finetun…
+2026-11-12T04:16:35Z,HYUKI5/tasksource__avicenna,HYUKI5,0,0,source_datasets:tasksource/avicenna; license:cc; region:us; laya; laya-finetune; mirror
+2026-11-12T04:16:40Z,dddddsds31341/longwam-rollout-20261107-192552-sync-2248980-c34a486d,dddddsds31341,0,0,region:us
+2026-11-12T04:16:47Z,HYUKI5/xjzheng__us-corporate-geopolitical-risk-disclosure,HYUKI5,0,0,source_datasets:xjzheng/us-corporate-geopolitical-risk-disclosure; language:en; language:zh; license:cc-by-4.0; size_categories:10K<n<100K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:00Z,HYUKI5/tasksource__robustLR,HYUKI5,0,0,source_datasets:tasksource/robustLR; license:other; arxiv:2205.12598; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:04Z,HYUKI5/allenai__csabstruct,HYUKI5,0,0,source_datasets:allenai/csabstruct; license:apache-2.0; arxiv:1909.04054; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:10Z,HYUKI5/tner__fin,HYUKI5,0,0,task_categories:token-classification; task_ids:named-entity-recognition; source_datasets:tner/fin; language:en; license:mit; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:17Z,HYUKI5/tasksource__cnli,HYUKI5,0,0,source_datasets:tasksource/cnli; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:23Z,HYUKI5/clinc__clinc_oos,HYUKI5,0,0,task_categories:text-classification; task_ids:intent-classification; source_datasets:clinc/clinc_oos; language:en; license:cc-by-3.0; size_categories:10K<n<100K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:27Z,Alexey240577/chars_1794456774,Alexey240577,0,0,region:us
+2026-11-12T04:17:28Z,HYUKI5/allenai__ropes,HYUKI5,0,0,task_categories:question-answering; task_ids:extractive-qa; source_datasets:allenai/ropes; language:en; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:1908.05852; region:us; laya; laya-finetune…
+2026-11-12T04:17:36Z,HYUKI5/allenai__dolma,HYUKI5,0,0,task_categories:text-generation; source_datasets:allenai/dolma; language:en; license:odc-by; size_categories:n>1T; arxiv:2402.00159; arxiv:2301.13688; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:45Z,HYUKI5/tasksource__I2D2,HYUKI5,0,0,task_categories:text-classification; source_datasets:tasksource/I2D2; language:en; license:apache-2.0; arxiv:2212.09246; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:51Z,HYUKI5/allenai__openbookqa,HYUKI5,0,0,task_categories:question-answering; task_ids:open-domain-qa; source_datasets:allenai/openbookqa; language:en; license:unknown; size_categories:1K<n<10K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:17:55Z,HYUKI5/AshtonIsNotHere__nli4ct_semeval2024,HYUKI5,0,0,task_categories:text-classification; task_categories:sentence-similarity; source_datasets:AshtonIsNotHere/nli4ct_semeval2024; language:en; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:01Z,HYUKI5/tasksource__acceptability-prediction,HYUKI5,0,0,task_categories:text-classification; task_ids:acceptability-classification; source_datasets:tasksource/acceptability-prediction; language:en; license:apache-2.0; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:06Z,HYUKI5/pfnet__japanese-mail-bench,HYUKI5,0,0,task_categories:text-generation; source_datasets:pfnet/japanese-mail-bench; language:ja; license:apache-2.0; size_categories:n<1K; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:13Z,HYUKI5/tasksource__nlgraph,HYUKI5,0,0,source_datasets:tasksource/nlgraph; license:other; arxiv:2305.10037; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:16Z,yamaisanerd/Halogen_254_Skynet_WIP,yamaisanerd,0,0,region:us
+2026-11-12T04:18:18Z,HYUKI5/tasksource__lsat-rc,HYUKI5,0,0,source_datasets:tasksource/lsat-rc; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:22Z,HYUKI5/tasksource__hans,HYUKI5,0,0,source_datasets:tasksource/hans; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:27Z,HYUKI5/gyorilab__BioRED,HYUKI5,0,0,source_datasets:gyorilab/BioRED; license:other; region:us; laya; laya-finetune; mirror
+2026-11-12T04:18:31Z,HYUKI5/gtfintechlab__finer-ord,HYUKI5,0,0,task_categories:token-classification; task_ids:named-entity-recognition; source_datasets:gtfintechlab/finer-ord; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; arxiv:2302.11157; region:…
+2026-11-12T04:18:51Z,HYUKI5/tau__commonsense_qa,HYUKI5,0,0,region:us
