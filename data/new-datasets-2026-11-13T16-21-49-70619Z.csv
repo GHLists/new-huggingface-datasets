@@ -1,0 +1,95 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-13T15:21:53Z,ranjith3567/pick_and_place_2_cubes_20261113_193241,ranjith3567,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-13T15:21:56Z,ANGEL-OF-DEATH/I-JUST-LAUGH-AT-PROFOUNDLY-DEAD-AMERICA,ANGEL-OF-DEATH,0,0,region:us
+2026-11-13T15:21:58Z,fdsfaf3434/ds-hfscheme-83318,fdsfaf3434,0,0,region:us
+2026-11-13T15:22:37Z,Preetiv1/EyeSafe-AI-Ophthalmology-Safety-Benchmark,Preetiv1,0,0,region:us
+2026-11-13T15:22:55Z,fdsfaf3434/ds-missing-83375,fdsfaf3434,0,0,region:us
+2026-11-13T15:23:24Z,ANGEL-OF-DEATH/HOW-TO-BECOME-COMPLETELY-INVISIBLE,ANGEL-OF-DEATH,0,0,region:us
+2026-11-13T15:23:47Z,Alexey240577/2048_1794583413,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T15:23:49Z,Alexey240577/chars_1794583417,Alexey240577,0,0,region:us
+2026-11-13T15:24:29Z,dddddsds31341/longwam-rollout-20261113-165010-sync-113123-4a95735c,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T15:26:16Z,fdsfaf3434/ds-hfcsv-83576,fdsfaf3434,0,0,region:us
+2026-11-13T15:28:09Z,SoSolaris/take_socks_01_20261113102513561053_raw,SoSolaris,0,0,region:us
+2026-11-13T15:29:23Z,fdsfaf3434/ds-prefix-83763,fdsfaf3434,0,0,region:us
+2026-11-13T15:29:32Z,duyle2408/ci-oacp-smoke-20261113T152931Z-runs,duyle2408,0,0,region:us
+2026-11-13T15:29:44Z,yeziR4/safequant-results,yeziR4,0,0,region:us
+2026-11-13T15:31:11Z,duyle2408/ci-oacp-smoke-fixed-20261113T153110Z-runs,duyle2408,0,0,region:us
+2026-11-13T15:31:34Z,duyle2408/ci-oacp-smoke-fixed-20261113T153133Z-runs,duyle2408,0,0,size_categories:n<1K; format:json; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T15:31:45Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t0.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T15:32:50Z,armanloy/dubai-offplan-open-data,armanloy,0,0,language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-estate; dubai…
+2026-11-13T15:32:54Z,Screener2/rollout_act_AnchoredCamera_Final_20261028_sim_20261113_101834,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-13T15:32:55Z,farbodtavakkoli/OTel-2.0-LLM,farbodtavakkoli,0,0,license:apache-2.0; region:us
+2026-11-13T15:33:01Z,dddddsds31341/longwam-rollout-20261113-165127-sync-125245-f2e178f7,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T15:33:25Z,hivepunk-1071-f79faf84/glb-fixture-byte-layouts-nine-header-and-chunk-cases,hivepunk-1071-f79faf84,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T15:34:11Z,EuroScrape/us-new-companies-by-city-2026-11,EuroScrape,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; united-states; com…
+2026-11-13T15:34:13Z,EuroScrape/us-federal-contracts-by-state-2026-11,EuroScrape,0,0,language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; united-states; gover…
+2026-11-13T15:34:15Z,EuroScrape/uk-sold-house-prices-by-town-2026-11,EuroScrape,0,0,language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; united-kingdom; real-e…
+2026-11-13T15:34:53Z,Alexey240577/snake_1794584051,Alexey240577,0,0,region:us
+2026-11-13T15:35:23Z,ASD12DSAAW32/Annoy-PyEdu-Rs,ASD12DSAAW32,0,0,region:us
+2026-11-13T15:35:27Z,ASD12DSAAW32/Annoy-PyEdu-Rs-Raw,ASD12DSAAW32,0,0,region:us
+2026-11-13T15:35:30Z,ASDCX1DXSXA/Annoy-PyEdu-Rs,ASDCX1DXSXA,0,0,region:us
+2026-11-13T15:35:31Z,ASDCX1DXSXA/Annoy-PyEdu-Rs-Raw,ASDCX1DXSXA,0,0,region:us
+2026-11-13T15:37:01Z,Palintropic/kl-001-knowledge-leakage,Palintropic,0,0,language:zh; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; persona-consistency; k…
+2026-11-13T15:37:53Z,yhzkiki/taiwan-tree-height,yhzkiki,0,0,license:other; region:us
+2026-11-13T15:38:09Z,fdsfaf3434/ds-privref-84287,fdsfaf3434,0,0,region:us
+2026-11-13T15:39:14Z,dddddsds31341/longwam-rollout-20261113-161246-sync-3973544-489d42e8,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T15:39:36Z,ethanCSL/openarm_pringles_lerobot_real_to_sim_10_3cam_v03_strict,ethanCSL,0,0,region:us
+2026-11-13T15:41:13Z,coolkapil/kahani-clips,coolkapil,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-13T15:42:51Z,SoSolaris/take_socks_01_20261113104142955762_raw,SoSolaris,0,0,region:us
+2026-11-13T15:42:55Z,takashi-doyle/bitcoin-1m-training-set,takashi-doyle,0,0,region:us
+2026-11-13T15:44:46Z,sad1dasd12szsads/Annoy-PyEdu-Rs,sad1dasd12szsads,0,0,region:us
+2026-11-13T15:44:47Z,sad1dasd12szsads/Annoy-PyEdu-Rs-Raw,sad1dasd12szsads,0,0,region:us
+2026-11-13T15:44:57Z,daniel5984/8c7cb72e7317,daniel5984,0,0,region:us
+2026-11-13T15:46:14Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-11-13T15:46:14Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-11-13T15:47:06Z,exaone-share/Annoy-PyEdu-Rs,exaone-share,0,0,region:us
+2026-11-13T15:47:06Z,exaone-share/Annoy-PyEdu-Rs-Raw,exaone-share,0,0,region:us
+2026-11-13T15:48:22Z,Alexey240577/tic_tac_toe_1794584891,Alexey240577,0,0,region:us
+2026-11-13T15:48:42Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-13T15:48:42Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-13T15:49:05Z,paperswithbacktest/Stocks-Daily-ShortVolume,paperswithbacktest,0,0,region:us
+2026-11-13T15:50:26Z,Screener2/rollout_act_Final_DoubleSim_20261113_103842,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-13T15:51:40Z,paperswithbacktest/PredictionMarkets-Daily-Trades,paperswithbacktest,0,0,region:us
+2026-11-13T15:51:51Z,kulbiq/music-ocr-vectors,kulbiq,0,0,task_categories:image-classification; task_categories:image-to-text; task_categories:image-segmentation; task_categories:object-detection; task_categories:translation; license:mit; size_categories:n<…
+2026-11-13T15:53:09Z,Appeon-a-Lew/physwm-tabletop-pushes,Appeon-a-Lew,0,0,task_categories:robotics; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; simulation; mujoco; world-models; 3d-grounding; tabletop
+2026-11-13T15:53:51Z,vllm-sr/d3.1-nano-decision-index,vllm-sr,0,0,license:apache-2.0; region:us; decision-index
+2026-11-13T15:53:55Z,dddddsds31341/longwam-rollout-20261113-161453-sync-3993372-b6626ab9,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T15:54:14Z,lirislab/filed,lirislab,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-11-13T15:54:23Z,Alexey240577/chars_1794585238,Alexey240577,0,0,region:us
+2026-11-13T15:55:32Z,Screener2/rollout_act_Final_DoubleReal_20261113_105134,Screener2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-13T15:55:48Z,keith-ma/omp5423-browsecomp-plus,keith-ma,0,0,region:us
+2026-11-13T15:55:50Z,CrowdMind/vlm-high-mix,CrowdMind,0,0,region:us
+2026-11-13T15:58:01Z,countyprofiles/us-county-community-profiles-acs-2020-2024,countyprofiles,0,0,language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tabular; censu…
+2026-11-13T16:00:04Z,lirislab/open_put_bottles_into_the_trash_cans,lirislab,0,0,region:us
+2026-11-13T16:00:51Z,anzahorodnii/sci-archive1,anzahorodnii,0,0,region:us
+2026-11-13T16:01:37Z,SoSolaris/take_socks_01_20261113105949327127_raw,SoSolaris,0,0,region:us
+2026-11-13T16:04:55Z,tothanhdat/calibrated-data,tothanhdat,0,0,license:mit; region:us
+2026-11-13T16:05:53Z,sac12xczdsae21e/Annoy-PyEdu-Rs-Raw,sac12xczdsae21e,0,0,region:us
+2026-11-13T16:05:53Z,sac12xczdsae21e/Annoy-PyEdu-Rs,sac12xczdsae21e,0,0,region:us
+2026-11-13T16:06:37Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,region:us
+2026-11-13T16:06:38Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,region:us
+2026-11-13T16:08:14Z,dddddsds31341/longwam-rollout-20261113-165517-sync-158553-0989262f,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T16:09:57Z,btrkeks/transcoda-synthetic-test,btrkeks,0,0,task_categories:image-to-text; language:en; license:cc-by-4.0; license:mit; region:us
+2026-11-13T16:11:16Z,Hurtzong/Chatgpt,Hurtzong,0,0,region:us
+2026-11-13T16:11:17Z,Alexey240577/2048_1794585953,Alexey240577,0,0,region:us
+2026-11-13T16:11:49Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t0.5_g1_run0,stefanocarrera,0,0,region:us
+2026-11-13T16:11:59Z,Alexey240577/chars_1794586291,Alexey240577,0,0,region:us
+2026-11-13T16:12:37Z,jacksonwangpro1/point-in-time-market-data-2026,jacksonwangpro1,0,0,task_categories:time-series-forecasting; language:en; license:other; size_categories:10K<n<100K; region:us; finance; stocks; stock-market; backtesting; point-in-time; look-ahead-bias; financial-news;…
+2026-11-13T16:12:40Z,razhan/kurdish-news-corpus,razhan,0,0,task_categories:text-generation; task_categories:fill-mask; task_categories:text-classification; language:ckb; language:kmr; language:sdh; language:hac; language:zza; license:other; size_categories:1…
+2026-11-13T16:13:03Z,haru466/omx_f_pickup_redblock_in_joint_space_teleop,haru466,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx_f; robotis
+2026-11-13T16:14:10Z,dddddsds31341/longwam-rollout-20261113-161656-sync-4012428-bf75705f,dddddsds31341,0,0,region:us
+2026-11-13T16:14:42Z,Cybrpgs/noise-and-rir,Cybrpgs,0,0,region:us
+2026-11-13T16:16:15Z,wuhanlanqi/simready-assets,wuhanlanqi,0,0,license:cc-by-4.0; region:us; simready
+2026-11-13T16:16:17Z,fdsfaf3434/ds-spaceref-61110,fdsfaf3434,0,0,region:us
+2026-11-13T16:17:08Z,SEE7/AstheralDataset,SEE7,0,0,task_categories:translation; language:en; language:de; language:fr; language:es; language:it; language:pt; license:other; size_categories:1K<n<10K; region:us
+2026-11-13T16:17:26Z,hivepunk-632-4934c76e/run-record-lint-fixtures-three-fixtures-and-expected-exits,hivepunk-632-4934c76e,0,0,license:cc-by-4.0; region:us
+2026-11-13T16:18:39Z,dragosMediv/zedev500m-data,dragosMediv,0,0,region:us
+2026-11-13T16:19:14Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-13T16:19:15Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-13T16:19:39Z,fdsfaf3434/ds-hfuri-61111,fdsfaf3434,0,0,region:us
+2026-11-13T16:20:18Z,rashiti-g/pd_ethz_wil,rashiti-g,0,0,license:cc0-1.0; region:us
+2026-11-13T16:20:21Z,gurujustin/nano150,gurujustin,0,0,region:us
+2026-11-13T16:20:37Z,fdsfaf3434/ds-local-61111,fdsfaf3434,0,0,region:us
+2026-11-13T16:21:00Z,SoSolaris/take_socks_01_20261113111925724912_raw,SoSolaris,0,0,region:us
+2026-11-13T16:21:07Z,GaryNTUEE125/libri2mix-16k-devtest,GaryNTUEE125,0,0,region:us
+2026-11-13T16:21:12Z,hpotechius/IDD-Viewer-data,hpotechius,0,0,region:us
