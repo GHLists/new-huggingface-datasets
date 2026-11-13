@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-13T19:23:25Z,majcoaaac/S2,majcoaaac,0,0,region:us
+2026-11-13T19:23:31Z,Aki-Frank/robotdsl-parts,Aki-Frank,0,0,license:other; size_categories:1K<n<10K; modality:3d; library:datasets; library:mlcroissant; region:us; robotics; 3d
+2026-11-13T19:24:12Z,nzhenev/wan-scene-blocks,nzhenev,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-13T19:24:44Z,rfonod/songdo-vision-obb,rfonod,0,0,task_categories:object-detection; annotations_creators:machine-generated; annotations_creators:expert-generated; source_datasets:extended|rfonod/songdo-vision; language:en; license:cc-by-4.0; size_ca…
+2026-11-13T19:27:59Z,jcastro-7732/parquet_storage_gistar_v2_norm,jcastro-7732,0,0,license:apache-2.0; size_categories:1B<n<10B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; biology; cancer; protein…
+2026-11-13T19:29:03Z,g1n0st/d184c9cd29df2608bcde7712ee33e626c5e04776,g1n0st,0,0,region:us
+2026-11-13T19:29:29Z,MariaFPG/place_the_cubes_in_the_drawers_v2,MariaFPG,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; robotics
+2026-11-13T19:30:20Z,nomi-bdbi-gt/nomi-dataset,nomi-bdbi-gt,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T19:30:53Z,jcastro-7732/clust_pathway_scores_gistar_v2_norm,jcastro-7732,0,0,region:us
+2026-11-13T19:33:15Z,hivepunk-632-4934c76e/run-record-lint-rejections-fixture-rule-exit-code,hivepunk-632-4934c76e,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T19:33:21Z,dddddsds31341/longwam-rollout-20261113-170616-sync-267337-2fbc4c77,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T19:33:52Z,g1n0st/a7d0889cf543a8d33e6d7fb671ecc276bb8371c5,g1n0st,0,0,region:us
+2026-11-13T19:34:54Z,nick-karpov/drone-swarm-4d,nick-karpov,0,0,task_categories:image-to-3d; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; librar…
+2026-11-13T19:34:58Z,Londonzade/londo3d,Londonzade,0,1,license:cc0-1.0; size_categories:n<1K; modality:3d; region:us; 3d; gltf; blender; game-asset; furniture; props
+2026-11-13T19:37:13Z,d-SEAMS/brine-front-230K,d-SEAMS,0,0,region:us
+2026-11-13T19:38:22Z,sad1dasd12szsads/Annoy-PyEdu-Rs,sad1dasd12szsads,0,0,region:us
+2026-11-13T19:38:23Z,sad1dasd12szsads/Annoy-PyEdu-Rs-Raw,sad1dasd12szsads,0,0,region:us
+2026-11-13T19:39:19Z,sad1d21/Annoy-PyEdu-Rs,sad1d21,0,0,region:us
+2026-11-13T19:39:20Z,sad1d21/Annoy-PyEdu-Rs-Raw,sad1d21,0,0,region:us
+2026-11-13T19:40:43Z,roderickluo/egocentric-stereo-human-task-evaluation,roderickluo,0,0,language:en; region:us; robotics; embodied-ai; egocentric; stereo-video; human-demonstrations; evaluation-samples
+2026-11-13T19:42:21Z,ashima777/india-fire-hotspots,ashima777,0,0,region:us
+2026-11-13T19:43:21Z,dddddsds31341/longwam-rollout-20261113-170419-sync-245589-0b16a3b4,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T19:44:50Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t0.5_g3_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T19:48:24Z,SieloRobotics/rebot_machine_tending_II_annotated,SieloRobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; machine-tending
+2026-11-13T19:49:44Z,iamahnaf/BangladeshAirQuality,iamahnaf,0,0,language:en; license:apache-2.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Weather; Mac…
+2026-11-13T19:50:46Z,aditeyabaral/symbolic-circuits-dataset-999,aditeyabaral,0,0,task_categories:text-generation; language:en; license:other; size_categories:10M<n<100M; region:us; math-word-problems; arithmetic; interpretability
+2026-11-13T19:51:10Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-13T19:51:11Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-13T19:52:48Z,dhairyapandya/cross-lingual-tamper-assets,dhairyapandya,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-13T19:53:13Z,doyar/Cardiovascular-Disease-dataset,doyar,0,0,task_categories:tabular-classification; license:cdla-permissive-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-11-13T19:53:28Z,Michaelchen123/cricket-training-v2-encrypted,Michaelchen123,0,0,license:other; region:us
+2026-11-13T19:54:25Z,dddddsds31341/longwam-rollout-20261113-165758-sync-183507-59581584,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T19:58:26Z,Masarpu/phising-site-datasets,Masarpu,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T20:00:14Z,dhairyapandya/cross-lingual-tamper-resistance,dhairyapandya,0,0,language:en; language:bn; language:hi; license:cc-by-nc-4.0; region:us; safety; tamper-resistance; cross-lingual; red-teaming; fine-tuning-attacks; blue-team
+2026-11-13T20:00:21Z,exitlaa770/ail-minecraft-sft,exitlaa770,0,0,region:us
+2026-11-13T20:01:03Z,alephpi/24histories,alephpi,0,0,region:us
+2026-11-13T20:04:09Z,claudiogsc/leis_teste,claudiogsc,0,0,region:us
+2026-11-13T20:04:17Z,Levi1121/nhl-closing-odds-2025-26,Levi1121,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; sports; nhl; ice-hockey; odds; closing-line; ats; spor…
+2026-11-13T20:04:26Z,xtools-at/austrian-law-cpt,xtools-at,0,0,task_categories:text-generation; task_ids:language-modeling; language:de; license:cc-by-4.0; size_categories:10K<n<100K; region:us; austrian-law; legal; german; continued-pretraining; cpt; ris; open-…
+2026-11-13T20:05:23Z,xDICKIEZ/namoenk,xDICKIEZ,0,0,region:us
+2026-11-13T20:05:45Z,dddddsds31341/longwam-rollout-20261113-171153-sync-329933-f37728cb,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T20:06:16Z,outfame/instagram-growth-statistics-2026,outfame,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; instagram; social-media; follower-growth; instagram-growth; social-media-marketing; creator-econom…
+2026-11-13T20:06:20Z,ethanCSL/openarm_pringles_lerobot_real_and_sim_10_3cam_wristrender_v03_strict,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; synthetic; sfagen
+2026-11-13T20:06:31Z,ethanCSL/openarm_pringles_lerobot_real_to_sim_10_3cam_v03_loose,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; synthetic; sfagen
+2026-11-13T20:07:13Z,ethanCSL/openarm_pringles_lerobot_real_and_sim_10_3cam_v03_loose,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; synthetic; sfagen
+2026-11-13T20:07:51Z,ethanCSL/openarm_pringles_lerobot_real_to_sim_10_3cam_wristrender_v03_loose,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; synthetic; sfagen
+2026-11-13T20:08:01Z,TabBioMed/TabBioMed,TabBioMed,0,0,task_categories:tabular-classification; task_categories:tabular-regression; license:other; modality:tabular; region:us; tabular; biomedical; benchmark; TabBioMed
+2026-11-13T20:08:21Z,ethanCSL/openarm_pringles_lerobot_real_and_sim_10_3cam_wristrender_v03_loose,ethanCSL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; openarm; synthetic; sfagen
+2026-11-13T20:14:37Z,kmiya08/insertion_recovery_standardgel,kmiya08,0,0,region:us
+2026-11-13T20:15:03Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-11-13T20:15:04Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-11-13T20:17:10Z,iggy157/persona-length-content-bench,iggy157,0,0,license:cc-by-4.0; region:us
+2026-11-13T20:17:24Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-11-13T20:17:24Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-11-13T20:18:20Z,dddddsds31341/longwam-rollout-20261113-170759-sync-286563-15603696,dddddsds31341,0,0,region:us
+2026-11-13T20:19:06Z,obluda420/autoheal-kyc-curated-dataset,obluda420,0,0,region:us
