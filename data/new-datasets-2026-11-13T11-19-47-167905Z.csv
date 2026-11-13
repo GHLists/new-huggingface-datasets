@@ -1,0 +1,180 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-13T10:19:54Z,duyle2408/oacp-grid-smoke-v4-c8d70070-s4-seed42,duyle2408,0,0,region:us
+2026-11-13T10:19:56Z,duyle2408/oacp-grid-smoke-v4-c8d70070-s1-seed42,duyle2408,0,0,region:us
+2026-11-13T10:19:58Z,duyle2408/oacp-grid-smoke-v4-c8d70070-s2-seed42,duyle2408,0,0,region:us
+2026-11-13T10:20:32Z,duyle2408/oacp-grid-smoke-v4-c8d70070-s3-seed42,duyle2408,0,0,region:us
+2026-11-13T10:21:00Z,unitreerobotics/G1_Dex1_Fold_The_Paper_Box,unitreerobotics,0,1,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-13T10:21:21Z,test992/dsv,test992,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:21:27Z,w-ahmad/model1a_v3_1_new_noise_gpt2,w-ahmad,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:22:18Z,SDAXZ12E/Annoy-PyEdu-Rs,SDAXZ12E,135,0,region:us
+2026-11-13T10:22:18Z,SDAXZ12E/Annoy-PyEdu-Rs-Raw,SDAXZ12E,143,0,region:us
+2026-11-13T10:22:30Z,meo02001/DFOA,meo02001,1999,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:22:39Z,YuXingyao/HoLa-BRep,YuXingyao,0,0,license:gpl; region:us
+2026-11-13T10:23:04Z,giangndm/duplex-training-audio,giangndm,0,0,language:vi; language:en; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; audio; full-duplex; sy…
+2026-11-13T10:23:13Z,giangndm/duplex-training-meta,giangndm,0,0,language:vi; language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; modality:audio; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; audi…
+2026-11-13T10:23:19Z,NateInno/cyber-temptation-harbor,NateInno,0,0,region:us
+2026-11-13T10:23:43Z,Alexey240577/chars_1794565416,Alexey240577,0,0,region:us
+2026-11-13T10:23:48Z,awde213xazc213ed/Annoy-PyEdu-Rs-Raw,awde213xazc213ed,161,0,region:us
+2026-11-13T10:23:48Z,Alexey240577/2048_1794565422,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:23:48Z,awde213xazc213ed/Annoy-PyEdu-Rs,awde213xazc213ed,150,0,region:us
+2026-11-13T10:23:52Z,sa1zxc1q23sadae/Annoy-PyEdu-Rs,sa1zxc1q23sadae,149,0,region:us
+2026-11-13T10:23:53Z,sa1zxc1q23sadae/Annoy-PyEdu-Rs-Raw,sa1zxc1q23sadae,153,0,region:us
+2026-11-13T10:24:02Z,ArunMurugesan/franka_cloth_fold_dataset,ArunMurugesan,0,0,arxiv:2304.13705; region:us
+2026-11-13T10:24:12Z,dddddsds31341/longwam-rollout-20261113-153812-sync-3654007-fe9b0a5c,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T10:25:10Z,madhumitaa/WEEX-Exchange-Refferal,madhumitaa,0,0,region:us
+2026-11-13T10:25:22Z,MIB-8/bitunix-paper-desk-snapshots,MIB-8,0,0,license:mit; region:us
+2026-11-13T10:25:32Z,CrowdMind/vlm-low-sft,CrowdMind,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:25:41Z,madhumitaa/Weex-Exchangereferral-code,madhumitaa,0,0,region:us
+2026-11-13T10:25:56Z,Udev-miam/Champagne-sur-Oise,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:25:56Z,selmalav/Turkic-Latin-Script-Zero-Shot-Cross-Lingual-Transfer,selmalav,0,1,region:us
+2026-11-13T10:26:32Z,DSADD12E1DSAD/Annoy-PyEdu-Rs,DSADD12E1DSAD,107,0,region:us
+2026-11-13T10:26:33Z,madhumitaa/Weex-Exchange-Referral,madhumitaa,0,0,region:us
+2026-11-13T10:26:33Z,DSADD12E1DSAD/Annoy-PyEdu-Rs-Raw,DSADD12E1DSAD,106,0,region:us
+2026-11-13T10:26:44Z,Udev-miam/Ennery-95,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:26:49Z,umannedice/SchemaKV-Round3A-Corpus,umannedice,0,0,region:us
+2026-11-13T10:27:23Z,zacharybzb/cs231n-agriculture,zacharybzb,0,0,license:apache-2.0; region:us; dataset; agriculture; image-text
+2026-11-13T10:27:29Z,dddddsds31341/longwam-rollout-20261113-152051-sync-3488410-f9f53e28,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T10:28:04Z,GlobalVision33/tryit_20261113_112422,GlobalVision33,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-13T10:28:11Z,taniyasumitu/spacex-technical-notes,taniyasumitu,0,0,region:us
+2026-11-13T10:28:31Z,asdsdSADASD1/Annoy-PyEdu-Rs,asdsdSADASD1,189,0,region:us
+2026-11-13T10:28:31Z,asdsdSADASD1/Annoy-PyEdu-Rs-Raw,asdsdSADASD1,190,0,region:us
+2026-11-13T10:29:07Z,stefanocarrera/kic_D_test-python_Qwen3-4B_t1.5_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:29:27Z,csshivamverma54/gesturebridge-wlasl,csshivamverma54,0,0,region:us
+2026-11-13T10:29:37Z,sgsystems/decision-benchmark-ap-my-sg,sgsystems,0,0,task_categories:text-classification; task_categories:document-question-answering; task_ids:multi-class-classification; annotations_creators:machine-generated; language_creators:machine-generated; mul…
+2026-11-13T10:29:44Z,Udev-miam/Marly-la-Ville,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:29:48Z,SoSolaris/can_to_mug_20261113051023632191,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-13T10:30:44Z,Udev-miam/Saint-Witz,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:30:46Z,Alptekinege/code-fim-v2,Alptekinege,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:30:48Z,madhumitaa/Weex-App-Referral,madhumitaa,0,0,region:us
+2026-11-13T10:31:03Z,Alptekinege/CodeFIM-Data-trim,Alptekinege,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:31:13Z,Udev-miam/Andilly-95,Udev-miam,0,0,region:us
+2026-11-13T10:31:48Z,Udev-miam/Puiseux-en-France,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:33:06Z,OPPOResearchInstitute/EVA-data,OPPOResearchInstitute,0,0,language:en; size_categories:10K<n<100K; modality:document; region:us
+2026-11-13T10:33:09Z,Alexey240577/2048_1794565975,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:33:15Z,dddddsds31341/longwam-rollout-20261113-152252-sync-3507798-645a0be0,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T10:33:35Z,madhumitaa/Zoomex-Exchange-Referral,madhumitaa,0,0,region:us
+2026-11-13T10:34:06Z,frankding/dexduet_ablations_20261113,frankding,0,0,license:other; region:us; dexduet; ablation; inspire-hand
+2026-11-13T10:34:12Z,w-ahmad/model1a_v3_modelgpt2,w-ahmad,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:34:25Z,so101-robot/A4_20261113_182547,so101-robot,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-13T10:35:43Z,PeetPedro/ultradogfood-unified,PeetPedro,0,0,region:us
+2026-11-13T10:36:14Z,Udev-miam/Moisselles,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:36:23Z,IoriSou0826/libero_10_link_lerobot_v30_compact,IoriSou0826,0,0,region:us
+2026-11-13T10:37:30Z,noctli/tutorial-dataset,noctli,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:38:10Z,SoSolaris/can_to_mug_20261113053546759841_raw,SoSolaris,0,0,region:us
+2026-11-13T10:39:00Z,vaishnavi0901/answerSheet-detection,vaishnavi0901,0,0,task_categories:image-text-to-text; language:en; license:apache-2.0; region:us
+2026-11-13T10:39:26Z,dddddsds31341/longwam-rollout-20261113-152401-sync-3518895-3b5dd365,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T10:40:17Z,GOPAE/idibo-eval,GOPAE,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-13T10:40:22Z,Vijayarv07/grounding-checker,Vijayarv07,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-11-13T10:41:28Z,so101-robot/A4.2_20261113_183518,so101-robot,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-13T10:42:43Z,modalhub/records,modalhub,0,0,task_categories:question-answering; task_categories:text-retrieval; language:en; license:cc0-1.0; size_categories:n<1K; region:us; ai-agents; coding-agents; debugging; error-messages; developer-tools…
+2026-11-13T10:43:15Z,qazedctgb/piper-lerobot-datasets,qazedctgb,0,0,size_categories:n<1K; modality:image; modality:tabular; modality:text; modality:video; region:us
+2026-11-13T10:43:16Z,KITAcheng/pyro-sdis,KITAcheng,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; wildfire; smoke; yolo; p…
+2026-11-13T10:43:19Z,Alexey240577/2048_1794566596,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:43:45Z,kalixlouiis/yazakumar-inscription,kalixlouiis,0,0,license:cc-by-4.0; region:us
+2026-11-13T10:45:03Z,CullenZhao/OptiBench-Separate,CullenZhao,0,0,language:en; license:mit; size_categories:1K<n<10K; arxiv:2606.25832; arxiv:2407.09887; region:us; optimization
+2026-11-13T10:45:21Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,649,0,region:us
+2026-11-13T10:45:21Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,663,0,region:us
+2026-11-13T10:45:25Z,SoSolaris/can_to_mug_20261113054406429292_raw,SoSolaris,0,0,region:us
+2026-11-13T10:45:50Z,duyle2408/levir-oacp-strength-scale-grid-seed42,duyle2408,0,0,region:us
+2026-11-13T10:46:06Z,SADCXZ12DSA/Annoy-PyEdu-Rs-Raw,SADCXZ12DSA,171,0,region:us
+2026-11-13T10:46:06Z,SADCXZ12DSA/Annoy-PyEdu-Rs,SADCXZ12DSA,166,0,region:us
+2026-11-13T10:46:41Z,BrutalMaps/festivos-municipios-espana,BrutalMaps,0,1,task_categories:tabular-classification; task_categories:question-answering; language:es; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets;…
+2026-11-13T10:47:49Z,dddddsds31341/longwam-rollout-20261113-152512-sync-3530154-a1e6d5fb,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T10:48:44Z,Tygors/minimind-related-datasets-202610,Tygors,0,0,region:us
+2026-11-13T10:49:14Z,ert5656/Annoy-PyEdu-Rs,ert5656,84,0,region:us
+2026-11-13T10:49:15Z,ert5656/Annoy-PyEdu-Rs-Raw,ert5656,89,0,region:us
+2026-11-13T10:49:40Z,Huy1223/DPL302m,Huy1223,0,0,region:us
+2026-11-13T10:49:48Z,lukakuma/web-trajectories-dpo,lukakuma,0,0,task_categories:text-generation; language:en; language:ko; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars…
+2026-11-13T10:49:55Z,vimed-rad-anon/ViMed-Rad-sample,vimed-rad-anon,0,0,task_categories:visual-question-answering; task_categories:image-to-text; language:vi; size_categories:n<1K; region:us; radiology; mri; brain; medical-imaging; nifti
+2026-11-13T10:50:16Z,Udev-miam/Baillet-en-France,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:51:16Z,healthcare-biomedical-ai/Breast-Cancer-Systemic-Therapy-Safety-and-Sequencing-Constraint-Evaluation-Set,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; breast cancer therapy evaluation; systemic therapy saf…
+2026-11-13T10:51:18Z,Udev-miam/La-Roche-Guyon,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:51:47Z,Udev-miam/Bernes-sur-Oise,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:52:17Z,mrodher/so101_dataset_test_V9_20261113_110914,mrodher,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T10:53:17Z,SoSolaris/can_to_mug_20261113055127356777_raw,SoSolaris,0,0,region:us
+2026-11-13T10:53:19Z,Alexey240577/2048_1794567192,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T10:53:54Z,dddddsds31341/longwam-rollout-20261113-152745-sync-3554374-18ea8030,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T10:53:58Z,unitreerobotics/G1_Dex1_Hang_To_Dry_Socks,unitreerobotics,0,1,region:us
+2026-11-13T10:56:59Z,Udev-miam/Ecouen,Udev-miam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-13T10:57:11Z,poojaidas/geology-data,poojaidas,0,0,license:mit; region:us; dataset; geology; image-depth
+2026-11-13T10:57:22Z,stefanocarrera/kic_D_train-python_Qwen3-4B_t1.5_g6_run0,stefanocarrera,0,0,region:us
+2026-11-13T10:57:53Z,Udev-miam/Meriel,Udev-miam,0,0,region:us
+2026-11-13T10:58:02Z,thanhkt/nexarm_stack_bowls_sim_20fps,thanhkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T10:58:47Z,Udev-miam/Survilliers,Udev-miam,0,0,region:us
+2026-11-13T10:59:47Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-11-13T10:59:48Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-11-13T10:59:49Z,Udev-miam/Frepillon,Udev-miam,0,0,region:us
+2026-11-13T11:00:13Z,dddddsds31341/longwam-rollout-20261113-153247-sync-3602034-867bf023,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T11:00:21Z,Udev-miam/Chars,Udev-miam,0,0,region:us
+2026-11-13T11:00:38Z,ChillingDream/MemTrain0data,ChillingDream,0,0,region:us
+2026-11-13T11:00:51Z,GlobalVision33/TheRealTest_20261113_113815,GlobalVision33,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-13T11:00:58Z,fanzhh/luoyang-gate-setup,fanzhh,0,0,region:us
+2026-11-13T11:01:14Z,madhumitaa/Zoomex-Referral-Code,madhumitaa,0,0,region:us
+2026-11-13T11:01:20Z,Udev-miam/Chaumontel,Udev-miam,0,0,region:us
+2026-11-13T11:01:39Z,ath13/RareProbe-annotations,ath13,0,0,region:us
+2026-11-13T11:02:11Z,w-ahmad/quant_eval_v3_2_gpt2,w-ahmad,0,0,region:us
+2026-11-13T11:02:26Z,Udev-miam/Menucourt,Udev-miam,0,0,region:us
+2026-11-13T11:02:44Z,SDAD112EDS/Annoy-PyEdu-Rs-Raw,SDAD112EDS,0,0,region:us
+2026-11-13T11:02:44Z,SDAD112EDS/Annoy-PyEdu-Rs,SDAD112EDS,0,0,region:us
+2026-11-13T11:03:23Z,Alexey240577/chars_1794567788,Alexey240577,0,0,region:us
+2026-11-13T11:03:30Z,Alexey240577/2048_1794567788,Alexey240577,0,0,region:us
+2026-11-13T11:03:50Z,mr-krassman/projects,mr-krassman,0,0,region:us
+2026-11-13T11:04:27Z,kizukidata/uk-visa-sponsor-register,kizukidata,0,0,language:en; license:other; size_categories:100K<n<1M; modality:tabular; region:us; uk; visa; skilled-worker; jobs; immigration; tabular
+2026-11-13T11:04:31Z,CrowdMind/vlm-pretraining,CrowdMind,0,0,task_categories:image-to-text; task_categories:visual-question-answering; license:other; size_categories:1M<n<10M; modality:image; region:us; vision; image; multimodal; vlm; pretraining; image-text;…
+2026-11-13T11:04:34Z,Splataverse/lifted-features,Splataverse,0,0,language:en; license:other; size_categories:10K<n<100K; modality:3d; region:us; 3d; gaussian-splatting; 3dgs; feature-distillation; clip; dinov3
+2026-11-13T11:04:40Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-13T11:04:40Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-13T11:04:44Z,EvntCN/ur5-pickplace-2obj-global90,EvntCN,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; lerobot; ur5; manipulation; imitation-learning; teleoperation; vla; pick-and-place; pi05
+2026-11-13T11:05:19Z,Shiki42/PutCab-RightLead-Offline-Train50-V4,Shiki42,0,0,region:us
+2026-11-13T11:05:25Z,healthcare-biomedical-ai/Citation-Support-Corpus-for-Claims-in-Poisoning-and-Toxicology-Research-Papers,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; poisoning toxicology corpus; citation verification dataset; medical paper fact checking; citation support classification; toxicology research data; evide…
+2026-11-13T11:05:29Z,madhumitaa/Btcc-App-Referral-Cod,madhumitaa,0,0,region:us
+2026-11-13T11:05:31Z,Udev-miam/Vemars,Udev-miam,0,0,region:us
+2026-11-13T11:06:28Z,kizukidata/canada-positive-lmia-employers,kizukidata,0,0,language:en; language:fr; license:other; size_categories:1K<n<10K; modality:tabular; region:us; canada; lmia; tfwp; foreign-workers; jobs; immigration; tabular
+2026-11-13T11:06:53Z,Udev-miam/Bruyeres-sur-Oise,Udev-miam,0,0,region:us
+2026-11-13T11:06:54Z,EperLuo/spatial-deconvolution-ov-inputs,EperLuo,0,0,region:us
+2026-11-13T11:07:15Z,JanhaviKudalkar/DEPosit,JanhaviKudalkar,0,0,language:en; license:cc-by-4.0; region:us
+2026-11-13T11:07:32Z,kizukidata/canada-lmia-employer-flows,kizukidata,0,0,language:en; license:other; size_categories:1K<n<10K; modality:tabular; region:us; canada; lmia; tfwp; foreign-workers; jobs; immigration; tabular; panel-data
+2026-11-13T11:07:50Z,nguyenhh3305/fetchman_x2dex11_retargeted_v3,nguyenhh3305,0,0,region:us
+2026-11-13T11:07:52Z,Vrinda22/site-bench-recordings,Vrinda22,0,0,region:us
+2026-11-13T11:07:56Z,Crypticluminary/nepali-contextual-ambiguity-swar-maya-v1,Crypticluminary,0,0,task_categories:automatic-speech-recognition; task_categories:translation; language:ne; language:en; region:us; synthetic-speech; nepali; contextual-ambiguity; discourse; syntax; semantics; provision…
+2026-11-13T11:08:11Z,dddddsds31341/longwam-rollout-20261113-152900-sync-3566396-000c04c3,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T11:08:26Z,healthcare-biomedical-ai/Clinical-Psychology-Formulation-Evidence-Boundary-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; clinical psychology benchmark; clinical formulation evaluation; evidence boundary verification; constraint reasoning data; clinical reasoning benchmark;…
+2026-11-13T11:08:32Z,hanawa11ify/PhysicalAI-Human-1M-100K,hanawa11ify,0,0,language:en; license:cc-by-4.0; region:us; robotics; physical-ai; egocentric-video; human-demonstrations; stereo; hand-tracking; lerobot
+2026-11-13T11:09:35Z,healthcare-biomedical-ai/General-Practice-Single-Encounter-Note-Internal-Consistency-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; general practice note benchmark; encounter note consistency; clinical contradiction detection; medical record quality control; clinical documentation rev…
+2026-11-13T11:09:50Z,madhumitaa/Btcc-Referral-Code,madhumitaa,0,0,region:us
+2026-11-13T11:09:59Z,juhi-neeved/forensynths-faces,juhi-neeved,0,0,region:us
+2026-11-13T11:10:36Z,healthcare-biomedical-ai/Migraine-Acute-Treatment-Plan-Correction-and-Self-Correction-Trajectory-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; migraine dataset; acute treatment plans; medical agent trajectories; agent self-correction; error recovery training; treatment plan replanning; medicatio…
+2026-11-13T11:10:40Z,Udev-miam/Presles-95,Udev-miam,0,0,region:us
+2026-11-13T11:11:09Z,Udev-miam/Boissy-l-Aillerie,Udev-miam,0,0,region:us
+2026-11-13T11:11:19Z,healthcare-biomedical-ai/Obstetric-General-Anesthesia-Airway-Safety-Constraint-Evaluation-Set,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; obstetric anesthesia benchmark; cesarean general anesthesia; airway safety; anesthesia constraint verification; clinical decision support; aspiration ris…
+2026-11-13T11:11:47Z,healthcare-biomedical-ai/Pediatric-and-Adolescent-Psychiatry-Medication-Constraint-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pediatric psychiatry medication; adolescent medication constraints; prescription rule evaluation; drug contraindication checks; drug interaction detectio…
+2026-11-13T11:12:06Z,madhumitaa/Btcc-Exchange-Referral,madhumitaa,0,0,region:us
+2026-11-13T11:12:09Z,Udev-miam/Montlignon,Udev-miam,0,0,region:us
+2026-11-13T11:12:30Z,healthcare-biomedical-ai/Pediatric-Dental-Medication-Safety-Constraint-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pediatric dental medication data; pediatric prescription safety; medication constraint verification; pediatric dose review; drug contraindication detecti…
+2026-11-13T11:12:47Z,3cda2225/record-2black01_20261113_200355,3cda2225,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T11:12:48Z,SoSolaris/can_to_mug_20261113061152252691_raw,SoSolaris,0,0,region:us
+2026-11-13T11:13:05Z,healthcare-biomedical-ai/Pediatric-Inpatient-Medication-Order-Constraint-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pediatric medication dataset; inpatient medication orders; pediatric dose verification; medication constraint reasoning; prescription rule checking; medi…
+2026-11-13T11:13:16Z,instagrim/lexsi-trajectory-data,instagrim,0,0,task_categories:text-generation; language:en; region:us; synthetic; agenttune; tool-use; safety
+2026-11-13T11:13:30Z,healthcare-biomedical-ai/Pediatric-Intensive-Care-Infusion-and-Fluid-Balance-Constraint-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pediatric intensive care data; pediatric infusion validation; fluid balance verification; medical constraint benchmark; infusion record review; JSON heal…
+2026-11-13T11:13:42Z,chrisw-shadow/nut_3_tactile,chrisw-shadow,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T11:13:51Z,Alexey240577/matematika_9,Alexey240577,0,0,region:us
+2026-11-13T11:13:52Z,madhumitaa/Btcc-Trading-Referra,madhumitaa,0,0,region:us
+2026-11-13T11:14:23Z,healthcare-biomedical-ai/Pregnancy-Medication-Constraint-Evaluation-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pregnancy medication evaluation dataset; obstetric medication safety; pregnancy drug constraints; medical AI evaluation data; clinical rule verification;…
+2026-11-13T11:14:38Z,dddddsds31341/longwam-rollout-20261113-153350-sync-3612087-9792a779,dddddsds31341,0,0,region:us
+2026-11-13T11:14:48Z,healthcare-biomedical-ai/Primary-Care-Prescription-Constraint-Evaluation-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; primary care prescription data; medication safety evaluation dataset; prescription constraint verification; clinical constraint reasoning; drug allergy s…
+2026-11-13T11:15:17Z,madhumitaa/Cal-ai-Referral-Code,madhumitaa,0,0,region:us
+2026-11-13T11:15:32Z,healthcare-biomedical-ai/Rural-Immunization-Schedule-Constraint-Evaluation-Set,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; rural immunization benchmark; vaccine schedule verification; immunization constraint reasoning; dose interval checking; vaccine supply evaluation; cold-c…
+2026-11-13T11:15:56Z,healthcare-biomedical-ai/Specialty-Referral-Intake-Constraint-Validation-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; specialty referral dataset; referral intake rules; healthcare constraint reasoning; referral validation benchmark; specialty clinic intake; referral elig…
+2026-11-13T11:16:16Z,stefanocarrera/kic_D_test-python_Qwen3-4B_t1.5_g7_run0,stefanocarrera,0,0,region:us
+2026-11-13T11:17:26Z,Udev-miam/Grisy-les-Platres,Udev-miam,0,0,region:us
+2026-11-13T11:17:59Z,jeminaj/items_raw_full,jeminaj,0,0,region:us
+2026-11-13T11:18:17Z,Udev-miam/Vetheuil,Udev-miam,0,0,region:us
+2026-11-13T11:18:17Z,so101-robot/B1_20261113_184600,so101-robot,0,0,region:us
+2026-11-13T11:18:18Z,asd1dsa/Annoy-PyEdu-Rs-Raw,asd1dsa,0,0,region:us
+2026-11-13T11:18:18Z,asd1dsa/Annoy-PyEdu-Rs,asd1dsa,0,0,region:us
+2026-11-13T11:18:37Z,jeminaj/items_raw_lite,jeminaj,0,0,region:us
+2026-11-13T11:18:39Z,CarAFM/so101_pick_place_block_academy,CarAFM,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T11:19:04Z,liuff1568/Annoy-PyEdu-Rs,liuff1568,0,0,region:us
+2026-11-13T11:19:05Z,liuff1568/Annoy-PyEdu-Rs-Raw,liuff1568,0,0,region:us
+2026-11-13T11:19:13Z,Udev-miam/Asnieres-sur-Oise,Udev-miam,0,0,region:us
+2026-11-13T11:19:41Z,madhumitaa/Bingx-Referral-Code,madhumitaa,0,0,region:us
