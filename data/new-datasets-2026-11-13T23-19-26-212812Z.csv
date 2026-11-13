@@ -1,0 +1,56 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-13T22:19:57Z,NoahMartinezXiang/NExT-QA,NoahMartinezXiang,0,0,license:apache-2.0; region:us
+2026-11-13T22:20:04Z,laion/laion-audio-xl-caption-cluster-library,laion,0,0,language:en; modality:audio; arxiv:2611.09501; region:us; audio; clap2; clustering; e-means
+2026-11-13T22:21:46Z,splendera/furniture-factory-hands-preview,splendera,0,0,task_categories:robotics; license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; egocentric; human-demonstration; hand-pose;…
+2026-11-13T22:21:55Z,g1n0st/0354ba5b11f3adb9ffe06e87ea2cc5f327f6daca,g1n0st,0,0,region:us
+2026-11-13T22:22:22Z,wingman-llc/csharp-methods,wingman-llc,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T22:22:49Z,ISSAI-data-contamination/GEMINI_Modality_Project_Datasets_Translations,ISSAI-data-contamination,0,0,task_categories:question-answering; language:kk; language:ru; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-13T22:23:25Z,xbbeni/dmw3.chd,xbbeni,0,0,license:mit; region:us
+2026-11-13T22:23:50Z,dougalldeepmind/2026-11-13-agenthazard-verify-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agenthazard; model:qwen36_0_plain; mode:think; variant:verify
+2026-11-13T22:29:35Z,dddddsds31341/longwam-rollout-20261113-174500-sync-682163-7cce36b2,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T22:30:50Z,kaitchup/model-card-assets,kaitchup,0,0,region:us
+2026-11-13T22:33:45Z,metomorfinov/clyde3-ru-clean,metomorfinov,0,0,task_categories:text-generation; language:ru; license:odc-by; region:us; pretraining; russian; fineweb-2
+2026-11-13T22:36:17Z,dougalldeepmind/2026-11-13-agenthazard-verify-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:agenthazard; model:qwen36_0_da_15; mode:think; variant:verify
+2026-11-13T22:36:30Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t0.5_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T22:37:08Z,Johojun/pyeongtaek-semiconductor-campus-open-model,Johojun,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:image; modality:3d; region:us; 3d; semiconductor; engineering; education; digital-twin
+2026-11-13T22:38:07Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-11-13T22:38:08Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-11-13T22:38:56Z,g1n0st/3a9b5a10acc67edfe5d5c2edf04b05e28d773570,g1n0st,0,0,region:us
+2026-11-13T22:38:58Z,g1n0st/5430bf003966d6289d8c72cfbb09a581085ab227,g1n0st,0,0,region:us
+2026-11-13T22:39:59Z,dddddsds31341/longwam-rollout-20261113-173909-sync-628246-65740187,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T22:41:00Z,po03087/xr-abc2c9f1,po03087,0,0,region:us
+2026-11-13T22:41:28Z,harukicoder/writetolevel,harukicoder,0,0,task_categories:text-generation; language:zh; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-11-13T22:43:52Z,wckwan/Alfworld-Olmo3-7B-NGU-s1000-eval,wckwan,0,0,region:us
+2026-11-13T22:44:45Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-13T22:44:46Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-13T22:48:01Z,fasfadsf324/zqpq,fasfadsf324,0,0,task_categories:tabular-classification; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T22:48:47Z,GGOSinon/robodojo-opsd-stack-bowls,GGOSinon,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; agents; tool-use; distillation; on-policy-distillation
+2026-11-13T22:48:56Z,DJ-Research/WM-data,DJ-Research,0,0,region:us
+2026-11-13T22:53:05Z,dddddsds31341/longwam-rollout-20261113-174250-sync-662194-954c0fa8,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-13T22:55:00Z,robertson29/Monitoreo-Servidores,robertson29,0,0,region:us
+2026-11-13T22:55:10Z,Quajak/blocks_top_green_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-13T23:00:14Z,oliveryanzuolu/jimao-hqlq-motion-relay-tmp,oliveryanzuolu,0,0,region:us
+2026-11-13T23:00:45Z,multabench/embeddings-dino-small-lighttar,multabench,0,0,region:us
+2026-11-13T23:02:08Z,norjordAI/nibio_nor_agriculture_bench_cohere_verified_by_commandaplus_,norjordAI,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T23:02:09Z,Kamil-KKA/us-tenant-laws,Kamil-KKA,0,0,task_categories:question-answering; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:pol…
+2026-11-13T23:02:10Z,norjordAI/nibio_nor_agriculture_bench_cohere_verified_by_commandaplus,norjordAI,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-13T23:02:16Z,CNRS-ML/CNRS-Dataset-Atlas,CNRS-ML,0,0,license:apache-2.0; region:us
+2026-11-13T23:02:18Z,batistado/DriftBench-Agent,batistado,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-11-13T23:02:22Z,skjguan/policy_test,skjguan,0,0,region:us; robotics; lerobot; openpi
+2026-11-13T23:02:30Z,kapilcdave/kbrain-knowledge,kapilcdave,0,0,region:us
+2026-11-13T23:03:54Z,HuskyMango/11-13-mug,HuskyMango,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-13T23:04:02Z,dddddsds31341/longwam-rollout-20261113-171730-sync-392419-1a8a751d,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-13T23:07:59Z,DrainpipeAI/B_Test_20261113_230343,DrainpipeAI,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-13T23:09:43Z,DJPAUL25/fsa-owi-captions,DJPAUL25,0,0,task_categories:image-to-text; task_categories:text-to-image; language:en; license:other; size_categories:100K<n<1M; region:us; history; photography; archival; library-of-congress
+2026-11-13T23:12:34Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t0.5_g6_run0,stefanocarrera,0,0,region:us
+2026-11-13T23:13:04Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-13T23:13:04Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-13T23:13:39Z,SREDA-Bench/Annoy-PyEdu-Rs-Raw,SREDA-Bench,0,0,region:us
+2026-11-13T23:13:39Z,SREDA-Bench/Annoy-PyEdu-Rs,SREDA-Bench,0,0,region:us
+2026-11-13T23:14:19Z,Quajak/blocks_bottom_green_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-13T23:14:49Z,analysisreports/analysisreports,analysisreports,0,0,license:cc-by-nc-nd-4.0; region:us
+2026-11-13T23:14:56Z,zdai257/cs3as-hrc,zdai257,0,0,task_categories:robotics; license:mit; region:us; LeRobot; robotics; dobot; cs3as; safeskin
+2026-11-13T23:16:11Z,ArlingtonCL2/canine-lexical-data,ArlingtonCL2,0,0,license:cc-by-4.0; modality:audio; region:us; audio; animal-vocalization; dog
+2026-11-13T23:17:15Z,the-sweater-cat/ktn99hzu,the-sweater-cat,0,0,region:us
+2026-11-13T23:17:30Z,LYSIUS/lys-reconstruction-pilot1000,LYSIUS,0,0,region:us
+2026-11-13T23:18:46Z,dddddsds31341/longwam-rollout-20261113-180452-sync-847796-2033dc5c,dddddsds31341,0,0,region:us
