@@ -1,0 +1,58 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T20:20:03Z,RoboCrafty/rebot_leap_tmp1_20261114_211708,RoboCrafty,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-14T20:21:10Z,alm5h/suqia-frames,alm5h,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T20:21:21Z,CyberNative/Code_Vulnerability_Security_DPO_v2,CyberNative,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dpo; code; security; secure-coding…
+2026-11-14T20:21:28Z,Botanical2412/rideVideos,Botanical2412,0,0,region:us
+2026-11-14T20:22:10Z,Matthewkal96/buckettt,Matthewkal96,0,0,region:us
+2026-11-14T20:22:47Z,C3Nt0/nora-v2.2-final-55k,C3Nt0,0,0,language:it; license:apache-2.0; region:us; nora; engram; fine-tuning; dental
+2026-11-14T20:23:43Z,fdsfaf3434/zqds17573,fdsfaf3434,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:23:47Z,DiogenesLab/Diogenes_Robotics_Warehouse_Iterations_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; modality:video; region:us; video; robotics; simulation; multi-view; archival
+2026-11-14T20:25:00Z,epple0/upwind-nc-air-quality,epple0,0,1,language:en; size_categories:n<1K; format:parquet; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; air-quality; e…
+2026-11-14T20:25:47Z,po03087/xd-4cfaac02,po03087,0,0,region:us
+2026-11-14T20:27:13Z,DiogenesLab/Diogenes_GTA_Replay_Audio_Camera_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; region:us; archival; game-capture; camera-trajectory
+2026-11-14T20:27:14Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-11-14T20:27:14Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-11-14T20:29:51Z,qkhawaja/brahui-synthetic-parallel,qkhawaja,0,0,task_categories:translation; language:brh; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissan…
+2026-11-14T20:30:07Z,DiogenesLab/Diogenes_Gameplay_Halo_Infinite_Archive_v02,DiogenesLab,0,0,license:other; size_categories:10K<n<100K; modality:video; library:webdataset; region:us; video; gameplay; multimodal; webdataset; archival
+2026-11-14T20:30:20Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-14T20:30:20Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-14T20:31:35Z,Jabori6768/Jabers,Jabori6768,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T20:31:40Z,aefaesdf/Annoy-PyEdu-Rs,aefaesdf,0,0,region:us
+2026-11-14T20:31:49Z,qkhawaja/brahui-media-pseudolabels,qkhawaja,0,0,task_categories:automatic-speech-recognition; language:brh; license:other; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-14T20:32:08Z,aefaesdf/Annoy-PyEdu-Rs-Raw,aefaesdf,0,0,region:us
+2026-11-14T20:32:30Z,choogee/lapras-submission,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:33:13Z,Zyphra/ztts2_eval_mini,Zyphra,0,0,task_categories:text-to-speech; license:other; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:24…
+2026-11-14T20:33:58Z,choogee/machamp-submission,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:34:40Z,choogee/arcanine-submission,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:35:39Z,RoboCrafty/rebot_leap_tmp1_20261114_212329,RoboCrafty,0,0,region:us
+2026-11-14T20:36:18Z,choogee/gyarados-submission,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:37:12Z,choogee/alakazam-submission,choogee,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T20:38:44Z,DiogenesLab/Diogenes_WM01_Research_Archive_v01,DiogenesLab,0,0,license:other; region:us; research-archive; lora; inverse-dynamics; world-model
+2026-11-14T20:38:49Z,RoboCrafty/rebot_leap_tmp1_20261114_213655,RoboCrafty,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-14T20:41:48Z,shreshtha2002/longfact-multiturn-llama3.1-8b-instruct-q8-0-annotated,shreshtha2002,0,0,region:us
+2026-11-14T20:45:09Z,serialexperimentsleon/phystwin_dataset_inlab_robot,serialexperimentsleon,0,0,license:other; region:us
+2026-11-14T20:45:11Z,opedromartins/ASR-datasets-ptbr-teste,opedromartins,0,0,task_categories:automatic-speech-recognition; language:pt; size_categories:1M<n<10M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant…
+2026-11-14T20:45:26Z,Albertlife/AI-Video-Gen-by-ARABIAN-AI-SCHOOL-main,Albertlife,0,0,region:us
+2026-11-14T20:47:44Z,messigoat4444/Flippedl-19.10,messigoat4444,0,0,region:us
+2026-11-14T20:48:09Z,ad-st-ro/reefsupport,ad-st-ro,0,0,task_categories:image-segmentation; license:other; region:us
+2026-11-14T20:50:29Z,flipeed/Flipeed-19.10,flipeed,0,0,region:us
+2026-11-14T20:50:50Z,Manaswi2006/dd-datasets,Manaswi2006,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T20:50:51Z,Manaswi2006/dd-evals,Manaswi2006,0,0,region:us
+2026-11-14T20:50:53Z,Manaswi2006/dd-workspaces,Manaswi2006,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T20:52:30Z,lsalomme/so101-d5v1-all-cubes,lsalomme,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-14T20:53:39Z,1Minsvp/clips,1Minsvp,0,0,region:us
+2026-11-14T20:54:03Z,mariicuadros/aio-code-canonical-public-v4,mariicuadros,0,0,language:es; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; entity-resolution; knowledge-graph; digit…
+2026-11-14T20:55:30Z,harishkotra/tiny-aya-refusal-consistency-prompts,harishkotra,0,0,language:en; language:hi; license:cc-by-4.0; region:us; hinglish; safety; red-teaming; multilingual; refusal
+2026-11-14T20:55:40Z,harishkotra/tiny-aya-refusal-consistency-sft,harishkotra,0,0,language:en; language:hi; license:cc-by-4.0; region:us; hinglish; safety; sft; lora
+2026-11-14T20:59:32Z,ASDCXZ12E/Annoy-PyEdu-Rs,ASDCXZ12E,0,0,region:us
+2026-11-14T21:00:03Z,ASDCXZ12E/Annoy-PyEdu-Rs-Raw,ASDCXZ12E,0,0,region:us
+2026-11-14T21:03:26Z,RoboCrafty/rebot_leap_tmp1_20261114_215921,RoboCrafty,0,0,region:us
+2026-11-14T21:07:23Z,DiogenesLab/Diogenes_Megacity_Capture_Iterations_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; modality:video; region:us; video; simulation; multi-view; camera-pose; depth; archival
+2026-11-14T21:10:04Z,ASFRAasd/Annoy-PyEdu-Rs,ASFRAasd,0,0,region:us
+2026-11-14T21:10:05Z,ASFRAasd/Annoy-PyEdu-Rs-Raw,ASFRAasd,0,0,region:us
+2026-11-14T21:11:55Z,po03087/xd-f6cdfef0,po03087,0,0,region:us
+2026-11-14T21:12:30Z,jdjdje8383/zqdsdup66,jdjdje8383,0,0,license:mit; region:us
+2026-11-14T21:16:08Z,safaf3e23/Annoy-PyEdu-Rs,safaf3e23,0,0,region:us
+2026-11-14T21:16:09Z,safaf3e23/Annoy-PyEdu-Rs-Raw,safaf3e23,0,0,region:us
+2026-11-14T21:16:20Z,AIDataspace/Dataspace4AI,AIDataspace,0,0,region:us
+2026-11-14T21:20:09Z,rogeryzd/firms-active-fire-by-country,rogeryzd,0,0,language:en; license:other; size_categories:100M<n<1B; modality:geospatial; region:us; wildfire; fire; active-fire; remote-sensing; earth-observation; modis; viirs; firms; geospatial; climate
