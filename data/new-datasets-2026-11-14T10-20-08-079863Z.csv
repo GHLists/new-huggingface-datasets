@@ -1,0 +1,82 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T09:30:16Z,alohateam1423/rollout_act_pick_cube_chunk10_20261114_181301,alohateam1423,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-14T09:32:43Z,Ofirish/pompeian-styles,Ofirish,0,0,task_categories:image-classification; license:cc-by-nc-nd-4.0; size_categories:1K<n<10K; region:us; cultural-heritage; archaeology; pompeii; fresco; wall-painting; fragments; art-style
+2026-11-14T09:32:48Z,zupermiez/g1_junction_drop_2,zupermiez,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-14T09:32:59Z,Ibrahimelmogy808/thermora-human-association,Ibrahimelmogy808,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T09:33:53Z,sunit12/codemix-safety-bench,sunit12,0,0,task_categories:text-generation; multilinguality:multilingual; language:en; language:hi; language:pa; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pa…
+2026-11-14T09:35:33Z,alohateam1423/rollout_act_pick_cube_chunk50_20261114_183344,alohateam1423,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-14T09:35:40Z,larmkaixian/bt-sim-dataset,larmkaixian,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-11-14T09:35:52Z,exusiaiw/sead-exp60-archipelago-r7,exusiaiw,0,0,region:us
+2026-11-14T09:36:56Z,andrea00/trajgen-dev,andrea00,0,0,region:us
+2026-11-14T09:37:10Z,akhaliq/h3-image-swap-tests,akhaliq,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T09:37:40Z,Cybrpgs/pair1yux-top100-new-20261114,Cybrpgs,0,0,region:us
+2026-11-14T09:38:57Z,hiroalter/hagridv2_ROI_224_processed,hiroalter,0,0,license:cc-by-sa-4.0; region:us
+2026-11-14T09:39:30Z,cuongly68262/abyss,cuongly68262,0,0,region:us
+2026-11-14T09:41:59Z,yangzijing/mirohand-slam-adapter-300k,yangzijing,0,0,language:zh; language:en; region:us; mirohand; camera-trajectory; slam; adapter-training
+2026-11-14T09:42:20Z,yenle9992/rhino,yenle9992,0,0,region:us
+2026-11-14T09:43:06Z,maffia/e6-unsorted,maffia,0,0,region:us
+2026-11-14T09:43:22Z,sidhantmahi/aya-expanse-8b-multiturn-audit,sidhantmahi,0,0,region:us
+2026-11-14T09:43:50Z,swastik5677/modi_organic_cropped_dataset,swastik5677,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T09:44:14Z,MouseWurX/bob-studies,MouseWurX,0,0,license:cc-by-sa-4.0; size_categories:n<1K; modality:text; region:us; interpretability; mixture-of-experts; evaluation; not-for-training
+2026-11-14T09:44:18Z,Baagul/Padre-Trade-referral-code,Baagul,0,0,language:en; size_categories:n<1K; region:us; Padre Trade Referral Code
+2026-11-14T09:45:19Z,baagul2026/pump-fun-app-Referral-code-SIGNUP50,baagul2026,0,0,region:us
+2026-11-14T09:45:47Z,GOD111111111/sensor-telemetry-archive,GOD111111111,0,0,license:other; region:us; time-series
+2026-11-14T09:45:48Z,RollSolo/epistemic-guard-benchmarks,RollSolo,0,0,task_categories:text-classification; task_categories:zero-shot-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; li…
+2026-11-14T09:46:06Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.0_g2_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T09:46:56Z,Aleksander22/slayer-narrative-en,Aleksander22,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-14T09:47:08Z,thinhvu64332/citrus,thinhvu64332,0,0,region:us
+2026-11-14T09:47:53Z,demontech/AutoThreads,demontech,0,0,region:us
+2026-11-14T09:51:07Z,thinhdang22922/lithosphere,thinhdang22922,0,0,region:us
+2026-11-14T09:52:11Z,Baagul/Padre-Trade-referral-code-2026,Baagul,0,0,language:en; size_categories:n<1K; region:us; Padre Trade Padre Trade Referral Code Padre Trade Promo Code Padre Trade Discount Code FULL100 Trading Fee Discount Crypto Trading
+2026-11-14T09:52:22Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-14T09:52:23Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-14T09:54:32Z,sunit12/codemix-safety-logs,sunit12,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; safety; refusal; activation-steering; interpretability; code…
+2026-11-14T09:56:18Z,ryanhoangt/browsecomp-plus-qwen3-0.6b,ryanhoangt,0,0,language:multilingual; license:apache-2.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; browsecomp-plus; te…
+2026-11-14T09:57:24Z,baagul2026/pump-fun-referral-code,baagul2026,0,0,region:us
+2026-11-14T09:58:14Z,assassinlike/azr-3b-repro,assassinlike,0,0,region:us
+2026-11-14T09:59:04Z,dungngo80716/dolphin,dungngo80716,0,0,region:us
+2026-11-14T09:59:37Z,Baagul/Padre-GG-Referral-Code,Baagul,0,0,language:en; size_categories:n<1K; region:us; Padre GG Padre GG Referral Code Padre Trade FULL100 Trading Fee Discount Crypto Trading Padre GG Referral Code 2026: Get 10% Off Trading Fees With FULL100
+2026-11-14T10:01:04Z,alcray/pick-up-duck-home-large,alcray,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-14T10:01:22Z,raymondt/tieu_ky_review,raymondt,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T10:01:24Z,thaoho56948/maize,thaoho56948,0,0,region:us
+2026-11-14T10:02:45Z,ogous/llm-benchmarks-losing-their-judge,ogous,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; llm-as-a-jud…
+2026-11-14T10:03:11Z,Termuxphone/sawt-dz-ecommerce,Termuxphone,0,0,task_categories:automatic-speech-recognition; language:ar; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us…
+2026-11-14T10:03:34Z,nganpham52679/airship,nganpham52679,0,0,region:us
+2026-11-14T10:04:08Z,madhumitaa/Fomo-App-Referral-Code,madhumitaa,0,0,region:us
+2026-11-14T10:04:55Z,baagul2026/pumpfun-referral-code,baagul2026,0,0,size_categories:n<1K; region:us
+2026-11-14T10:06:42Z,madhumitaa/Fomo-Referral-Code,madhumitaa,0,0,region:us
+2026-11-14T10:08:35Z,princejhaa/naukri-jobs-dataset,princejhaa,0,0,task_categories:text-classification; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; region:us; job; data-science; software-engineering; skills-analysis
+2026-11-14T10:09:05Z,Baagul/1Win-Promo-Code,Baagul,0,0,language:en; size_categories:n<1K; region:us; 1Win Promo Code
+2026-11-14T10:09:06Z,madhumitaa/Fomo-App-Referral-Cod,madhumitaa,0,0,region:us
+2026-11-14T10:09:36Z,bringagi/yodas3-hindi-teacher-labels,bringagi,0,0,task_categories:automatic-speech-recognition; source_datasets:espnet/yodas3; language:hi; license:other; size_categories:100K<n<1M; region:us; hindi; speech; pseudo-labels; yodas; distillation
+2026-11-14T10:09:55Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-11-14T10:09:56Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-11-14T10:10:25Z,Liveta/agent-migration-golden-suite,Liveta,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; arxiv:2407.09435; arxiv:2507.19390; arxiv:2512.01420; region:us; evaluation; llm-evaluation; agents; tool-use;…
+2026-11-14T10:10:59Z,Morkon/holos-voices-uk-cc0,Morkon,0,0,task_categories:text-to-speech; language:uk; license:cc0-1.0; region:us; holos-tts; voice-cloning; ukrainian; cc0; synthetic-speech
+2026-11-14T10:11:04Z,SAD21EDSA/Annoy-PyEdu-Rs,SAD21EDSA,0,0,region:us
+2026-11-14T10:11:04Z,dsaxz123/Annoy-PyEdu-Rs,dsaxz123,0,0,region:us
+2026-11-14T10:11:04Z,SAD21EDSA/Annoy-PyEdu-Rs-Raw,SAD21EDSA,0,0,region:us
+2026-11-14T10:11:04Z,dsaxz123/Annoy-PyEdu-Rs-Raw,dsaxz123,0,0,region:us
+2026-11-14T10:11:22Z,ZXC12EDSA/Annoy-PyEdu-Rs,ZXC12EDSA,0,0,region:us
+2026-11-14T10:11:23Z,ZXC12EDSA/Annoy-PyEdu-Rs-Raw,ZXC12EDSA,0,0,region:us
+2026-11-14T10:11:35Z,baagul2026/pumpfun-referral-code1,baagul2026,0,0,size_categories:n<1K; region:us
+2026-11-14T10:11:43Z,madhumitaa/Fomo-Referral-cryptogems,madhumitaa,0,0,region:us
+2026-11-14T10:12:48Z,khanhdang55085/aquatic,khanhdang55085,0,0,region:us
+2026-11-14T10:13:42Z,po03087/xd-e69c79c7,po03087,0,0,region:us
+2026-11-14T10:14:13Z,baagul2026/pumpfun-trading-referral-code,baagul2026,0,0,language:en; size_categories:n<1K; region:us
+2026-11-14T10:14:23Z,sddass21/Annoy-PyEdu-Rs,sddass21,0,0,region:us
+2026-11-14T10:14:24Z,sddass21/Annoy-PyEdu-Rs-Raw,sddass21,0,0,region:us
+2026-11-14T10:14:26Z,Anilkava/HF_HISTORY_REPO,Anilkava,0,0,region:us
+2026-11-14T10:14:52Z,sahar-nomaddesk/CommercialLicense,sahar-nomaddesk,0,0,license:other; region:us
+2026-11-14T10:15:09Z,hcr77/hcr.py,hcr77,0,0,region:us
+2026-11-14T10:15:20Z,asd1dsa/Annoy-PyEdu-Rs,asd1dsa,0,0,region:us
+2026-11-14T10:15:21Z,asd1dsa/Annoy-PyEdu-Rs-Raw,asd1dsa,0,0,region:us
+2026-11-14T10:15:56Z,linhdang86697/stratus,linhdang86697,0,0,region:us
+2026-11-14T10:16:28Z,baagul2026/Pumpfun-Invite-code,baagul2026,0,0,language:en; size_categories:n<1K; region:us
+2026-11-14T10:16:34Z,madhumitaa/Fomo-Perps-Referral,madhumitaa,0,0,region:us
+2026-11-14T10:16:37Z,shesettipavankumarswamy/ahd-jailbreak-assets,shesettipavankumarswamy,0,0,region:us
+2026-11-14T10:16:49Z,Baagul/1Win-Promo-Code-2026,Baagul,0,0,language:en; region:us; 1Win Promo Code 2026
+2026-11-14T10:17:18Z,irhabatool/cosmic-trail-data,irhabatool,0,1,license:mit; region:us
+2026-11-14T10:18:02Z,stafka/stafka-remote-pay-2026,stafka,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; remote-work; salary; expected-pay; labor-market; ukraine; georgia; armenia; kaza…
+2026-11-14T10:19:00Z,sbeusbhdbx/timeless-media,sbeusbhdbx,0,0,region:us
+2026-11-14T10:19:39Z,madhumitaa/pumpfun-referral-code,madhumitaa,0,0,region:us
