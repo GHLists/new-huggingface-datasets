@@ -1,0 +1,71 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T00:24:32Z,dddddsds31341/longwam-rollout-20261113-195208-sync-1757988-2d1cdd98,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:25:21Z,juliadollis/bokeh-eq4f2c-lfrepro-fase2-60k,juliadollis,0,0,region:us
+2026-11-14T00:26:24Z,asdaasdf/Annoy-PyEdu-Rs,asdaasdf,0,0,region:us
+2026-11-14T00:26:25Z,asdaasdf/Annoy-PyEdu-Rs-Raw,asdaasdf,0,0,region:us
+2026-11-14T00:26:46Z,Quajak/blocks_left_red_push_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T00:27:03Z,opensima10/genshin_reasoning_history15_sl120_english_1113_current_loss_encrypted,opensima10,0,0,region:us
+2026-11-14T00:27:04Z,opensima10/cyberpunk2077_reasoning_history15_sl120_english_1113_current_loss_encrypted,opensima10,0,0,region:us
+2026-11-14T00:27:05Z,opensima10/spiderman2_reasoning_history15_sl120_english_1113_current_loss_encrypted,opensima10,0,0,region:us
+2026-11-14T00:27:06Z,opensima10/world_of_warcraft_reasoning_history15_sl120_english_1113_current_loss_encrypted,opensima10,0,0,region:us
+2026-11-14T00:27:33Z,HU22333/codecstream-data-migration-20261114,HU22333,0,0,region:us
+2026-11-14T00:27:51Z,aaaaaajay/f8cb6e43fa7b4dd78be093e2215f735b,aaaaaajay,0,0,region:us
+2026-11-14T00:29:38Z,dddddsds31341/longwam-rollout-20261113-195304-sync-1768785-9af68872,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:29:56Z,thedatavigilante/maryland-gmi-spending,thedatavigilante,0,0,language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; government; b…
+2026-11-14T00:29:57Z,aliriz/armfarm04-fastener-runs,aliriz,0,0,region:us
+2026-11-14T00:30:44Z,juliadollis/bokeh-eq4f2c-ebb-fase2-60k,juliadollis,0,0,region:us
+2026-11-14T00:31:48Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-11-14T00:31:49Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-11-14T00:32:56Z,whitney-ai/code-agent-rl,whitney-ai,0,0,size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; region:us
+2026-11-14T00:33:41Z,devops-thiago/classone-qwen3.5-2b-decision-index,devops-thiago,0,0,region:us; decision-index
+2026-11-14T00:34:26Z,aaaaaajay/9268d7bff8824e8a82be10a7c036b789,aaaaaajay,0,0,region:us
+2026-11-14T00:34:32Z,backlinkjv/free-100-bonus-profile-ent-mwfob6cb,backlinkjv,0,0,region:us
+2026-11-14T00:34:36Z,dddddsds31341/longwam-rollout-20261113-195358-sync-1779526-2dd8e087,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:35:39Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t0.5_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T00:36:42Z,ArlingtonCL2/canine-phonetic-data,ArlingtonCL2,0,0,license:cc-by-4.0; modality:audio; region:us; audio; animal-vocalization; dog
+2026-11-14T00:38:03Z,longevity-genie/mitoage-pipelines,longevity-genie,0,0,license:other; region:us; biology; mitochondria; longevity; comparative-genomics
+2026-11-14T00:38:06Z,Quajak/blocks_bottom_red_push_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T00:38:54Z,Quajak/blocks_right_red_push_2,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T00:39:21Z,longevity-genie/mitoage-nuclear-partners,longevity-genie,0,0,license:other; size_categories:10K<n<100K; modality:text; library:datasets; library:mlcroissant; region:us; biology; mitochondria; longevity; comparative-genomics
+2026-11-14T00:39:29Z,longevity-genie/mitoage-embeddings,longevity-genie,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; biology; mitochondria; long…
+2026-11-14T00:39:30Z,longevity-genie/mitoage-aligner-variants,longevity-genie,0,0,license:other; size_categories:100K<n<1M; modality:text; library:datasets; library:mlcroissant; region:us; biology; mitochondria; longevity; comparative-genomics
+2026-11-14T00:39:30Z,dddddsds31341/longwam-rollout-20261113-195454-sync-1790077-ede72773,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:41:28Z,aaaaaajay/80d92a9255f843a3a2638faee49a3468,aaaaaajay,0,0,region:us
+2026-11-14T00:42:22Z,TheOfficialBos/amar420_yusoof_hello_world_20261113_163857,TheOfficialBos,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-14T00:42:48Z,HU22333/codecstream-benchmark-data-migration-20261114,HU22333,0,0,size_categories:n<1K; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T00:43:44Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-14T00:43:45Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-14T00:44:25Z,dddddsds31341/longwam-rollout-20261113-195547-sync-1800194-8c9b40d6,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:44:52Z,VardanSharma13/spectrum-sft-multilingual,VardanSharma13,0,0,task_categories:question-answering; task_categories:text-classification; task_categories:summarization; language:multilingual; license:other; region:us
+2026-11-14T00:46:20Z,po03087/xd-1d7335c5,po03087,0,0,region:us
+2026-11-14T00:47:00Z,sadsad2dw/Annoy-PyEdu-Rs,sadsad2dw,0,0,region:us
+2026-11-14T00:47:01Z,sadsad2dw/Annoy-PyEdu-Rs-Raw,sadsad2dw,0,0,region:us
+2026-11-14T00:49:25Z,dddddsds31341/longwam-rollout-20261113-195642-sync-1810944-a5a723ed,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:52:02Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-14T00:52:03Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-14T00:55:16Z,TerraUY/TEGB,TerraUY,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:other; size_categories:1K<n<10K; modality:text; modality:geospatial; region:us; earth-observation; remote-sen…
+2026-11-14T00:55:43Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-14T00:55:43Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-14T00:57:38Z,dddddsds31341/longwam-rollout-20261113-195927-sync-1836442-0db3cace,dddddsds31341,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; longwam
+2026-11-14T00:58:12Z,andyrikin/merge_cube,andyrikin,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-14T00:58:27Z,Team-Mulberry/digit-tactile-nov13,Team-Mulberry,0,0,task_categories:image-classification; license:mit; region:us; tactile; digit; robotics; touch
+2026-11-14T00:58:30Z,origin-data-lab/factory-stereo-calibration-stability-nine-work-days,origin-data-lab,0,0,license:cc-by-4.0; modality:text; region:us; stereo; calibration; egocentric; data-qa; fisheye
+2026-11-14T00:58:37Z,ImagineG2P/Contig_embeddings,ImagineG2P,0,0,license:cc-by-4.0; region:us
+2026-11-14T00:59:46Z,Jashory/hqas8-amcg3-governance-benchmarks,Jashory,0,0,task_categories:text-classification; task_categories:text-ranking; task_categories:reinforcement-learning; language:en; language:bn; license:mit; size_categories:n<1K; format:json; modality:text; lib…
+2026-11-14T01:00:19Z,NoraResearchLab/global-iron-ore-deposits,NoraResearchLab,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T01:00:50Z,BudgetAny/Budget3D-splats,BudgetAny,0,0,task_categories:image-to-3d; license:apache-2.0; size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; arxiv:2610.12307; region:us; budgetany; budget3d; adaptive-tokenization; gau…
+2026-11-14T01:03:08Z,dddddsds31341/longwam-rollout-20261113-195813-sync-1824791-2d0dbabd,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-14T01:04:19Z,aaaaaajay/aa49770e8b3946ff91a7621e41a37097,aaaaaajay,0,0,region:us
+2026-11-14T01:04:53Z,origin-data-lab/ten-day-usable-time-qc-work-gloves-vs-bare-hands,origin-data-lab,0,0,license:cc-by-4.0; modality:text; region:us; egocentric; data-qa; hand-detection; usable-time; gloves
+2026-11-14T01:05:22Z,Sarvesh0827123/sd15-naruto-lab2-generations-r16,Sarvesh0827123,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T01:06:40Z,longevity-genie/mitoage-build2-sources,longevity-genie,0,0,license:other; region:us; mitochondria; longevity; reproducibility
+2026-11-14T01:09:26Z,dddddsds31341/longwam-rollout-20261113-200026-sync-1846000-e7eba080,dddddsds31341,0,0,region:us; robotics; lerobot; longwam
+2026-11-14T01:13:40Z,sad1d21/Annoy-PyEdu-Rs,sad1d21,0,0,region:us
+2026-11-14T01:13:41Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-11-14T01:13:41Z,sad1d21/Annoy-PyEdu-Rs-Raw,sad1d21,0,0,region:us
+2026-11-14T01:13:41Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
+2026-11-14T01:15:15Z,dddddsds31341/longwam-rollout-20261113-200722-sync-1912057-9dbbab31,dddddsds31341,0,0,region:us
+2026-11-14T01:17:24Z,aaaaaajay/eac41d68e5c54b98b34dc979a8f22f9d,aaaaaajay,0,0,region:us
+2026-11-14T01:18:34Z,organizeseex/brazil-interest-rates,organizeseex,0,0,language:pt; license:cc-by-4.0; size_categories:10K<n<100K; region:us; finance; brazil; interest-rates; selic; cdi; time-series
+2026-11-14T01:19:44Z,boydbouck/needle-to-three-tubes-v7_20261113_164727,boydbouck,0,0,region:us
+2026-11-14T01:20:44Z,ai-sound-design/bbc-sound-index,ai-sound-design,0,0,license:other; size_categories:100K<n<1M; modality:audio; region:us; audio; sound-effects; embeddings; pgvector; clap
