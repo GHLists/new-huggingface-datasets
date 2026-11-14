@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T21:21:56Z,DanieleGammelli/jlens-val-results,DanieleGammelli,0,0,region:us
+2026-11-14T21:22:21Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.0_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T21:25:25Z,DiogenesLab/Diogenes_GTA_Evidence_Handoffs_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; archival; game-capture; multi-camera
+2026-11-14T21:25:51Z,lvjr3383/apart-epistemics-exp2-figures,lvjr3383,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T21:29:52Z,DiogenesLab/Diogenes_COD_Development_Experiments_Archive_v01,DiogenesLab,0,0,license:other; region:us; gameplay; multimodal; archival; action-labels
+2026-11-14T21:30:51Z,sunit12/codemix-refusal-distill-v0,sunit12,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T21:31:12Z,kpk11/safety-prompts-en-hi-gu,kpk11,0,0,task_categories:text-generation; language:en; language:hi; language:gu; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-11-14T21:31:15Z,kpk11/tiny-aya-refusal-steering-results,kpk11,0,0,language:en; language:hi; language:gu; license:cc-by-4.0; region:us; safety; steering; refusal-direction; tiny-aya; safetune; auditkit
+2026-11-14T21:31:25Z,kpk11/tiny-aya-refusal-steering-generations,kpk11,0,0,language:en; language:hi; language:gu; license:cc-by-nc-4.0; region:us; safety; red-teaming; refusal; steering; tiny-aya; not-for-all-audiences
+2026-11-14T21:33:52Z,sunit12/codemix-refusal-distill,sunit12,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T21:37:35Z,RoboCrafty/rebot_leap_tmp1_20261114_223621,RoboCrafty,0,0,region:us
+2026-11-14T21:37:48Z,shreshtha2002/longfact-hi-aya-expanse-8b-q8-0-annotated,shreshtha2002,0,0,region:us
+2026-11-14T21:40:25Z,shreshtha2002/longfact-hi-llama3.1-8b-instruct-q8-0-annotated,shreshtha2002,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T21:44:08Z,afeasdfsd/Annoy-PyEdu-Rs-Raw,afeasdfsd,0,0,region:us
+2026-11-14T21:44:08Z,afeasdfsd/Annoy-PyEdu-Rs,afeasdfsd,0,0,region:us
+2026-11-14T21:44:09Z,zxcgvbgfdg/Annoy-PyEdu-Rs,zxcgvbgfdg,0,0,region:us
+2026-11-14T21:44:15Z,zxcgvbgfdg/Annoy-PyEdu-Rs-Raw,zxcgvbgfdg,0,0,region:us
+2026-11-14T21:44:22Z,RoboCrafty/rebot_leap_tmp1_20261114_224349,RoboCrafty,0,0,region:us
+2026-11-14T21:45:23Z,AIDataspace/Dataspace4AI,AIDataspace,0,0,region:us
+2026-11-14T21:45:38Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-11-14T21:45:41Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
+2026-11-14T21:48:01Z,pttrn-io/heartbeats-ptb-raw,pttrn-io,0,0,license:odc-by; arxiv:1805.00794; region:us; vectormesh; vector-cache; ecg; time-series
+2026-11-14T21:48:12Z,pttrn-io/heartbeats-mitbih-raw,pttrn-io,0,0,license:odc-by; arxiv:1805.00794; region:us; vectormesh; vector-cache; ecg; time-series
+2026-11-14T21:49:40Z,RoboCrafty/rebot_leap_tmp1_20261114_224712,RoboCrafty,0,0,region:us
+2026-11-14T21:50:04Z,sackfield/open-interpretability-evidence,sackfield,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T21:50:24Z,HaseebDev/it_outage_incidents1,HaseebDev,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; synthetic; synthetic-data; workflow-records; b2b; it; privacy-safe
+2026-11-14T21:50:51Z,Divi19/vibebench,Divi19,0,0,task_categories:text-to-audio; task_categories:audio-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:tabular; modality:text; library:datasets; li…
+2026-11-14T21:51:24Z,asfadfad/Annoy-PyEdu-Rs,asfadfad,0,0,region:us
+2026-11-14T21:51:25Z,asfadfad/Annoy-PyEdu-Rs-Raw,asfadfad,0,0,region:us
+2026-11-14T21:51:32Z,sdfaffaf556/Annoy-PyEdu-Rs,sdfaffaf556,0,0,region:us
+2026-11-14T21:51:33Z,sdfaffaf556/Annoy-PyEdu-Rs-Raw,sdfaffaf556,0,0,region:us
+2026-11-14T21:52:45Z,cminst/anytok-training-inputs,cminst,0,0,language:en; language:es; language:fr; language:ru; language:zh; language:ja; language:ar; language:hi; region:us; tokenization; hypernetwork; reproducibility
+2026-11-14T21:52:49Z,davidlawliet/lienzomoments-wan,davidlawliet,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T21:53:30Z,nyarkoa/Combo_39,nyarkoa,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-14T21:57:07Z,barbarian01/mnav-acervo,barbarian01,0,0,language:es; license:other; region:us; museum; art; uruguay; open-data; glam
+2026-11-14T21:58:00Z,sunit12/codemix-refusal-distill-v2base,sunit12,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T21:58:48Z,ChuchuTEA/gale-earth-teselas,ChuchuTEA,0,0,region:us
+2026-11-14T21:59:46Z,jhu-clsp/hohw,jhu-clsp,0,0,license:mit; size_categories:n<1K; format:arrow; modality:text; library:datasets; library:mlcroissant; arxiv:2508.11027; region:us
+2026-11-14T22:00:03Z,drakon17/generate-workouts,drakon17,0,0,license:openrail; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T22:02:43Z,zupermiez/g1_junction_drop_3,zupermiez,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-14T22:06:27Z,Ananya0710/data266-lab2-generated-images,Ananya0710,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-14T22:08:08Z,sunit12/codemix-refusal-distill-v2,sunit12,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T22:13:41Z,AshimD01/Prompt-injection-dataset,AshimD01,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; prompt-injection; jailbreak; security; llm-security; prompt-security; cybersecurity; attac…
+2026-11-14T22:16:20Z,DiogenesLab/Diogenes_Vision_Language_Research_Archive_v01,DiogenesLab,0,0,region:us
+2026-11-14T22:16:29Z,bcv-commons/addressees,bcv-commons,0,0,language:hbo; language:arc; language:grc; license:cc-by-sa-4.0; region:us; bible; hebrew; greek; discourse; speech; addressee; honorifics; translation
+2026-11-14T22:18:05Z,daniel5984/fc2b3ceb2b37,daniel5984,0,0,region:us
