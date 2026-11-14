@@ -1,0 +1,61 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T19:18:52Z,moonshine-bob/bProjFilms,moonshine-bob,0,0,region:us
+2026-11-14T19:21:16Z,DiogenesLab/Diogenes_GTA_V_Beach_12_Camera_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; modality:video; library:webdataset; region:us; video; multi-view; gameplay; webdataset; archival
+2026-11-14T19:22:09Z,starlingquant/sec-edgar-pit-timestamp-benchmark,starlingquant,0,0,task_categories:time-series-forecasting; task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-11-14T19:22:17Z,ANGEL-OF-DEATH/IT-ALL-BELONGS-TO-ME,ANGEL-OF-DEATH,0,0,region:us
+2026-11-14T19:22:34Z,kingsidharth/zangei-dit-stage-1-250k-features,kingsidharth,0,0,region:us
+2026-11-14T19:23:11Z,visionsupply/cinematic-video-dataset,visionsupply,0,0,task_categories:video-text-to-text; language:en; license:other; size_categories:n<1K; modality:tabular; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; video; video-u…
+2026-11-14T19:23:15Z,shreshthamodi02/longfact-hi-aya-expanse-8b-q8-0,shreshthamodi02,0,0,region:us
+2026-11-14T19:23:51Z,Adel-Moumen/d20_toks_10k_cos_muon_00010000_testclean_1k_matched_-1_7s,Adel-Moumen,0,0,region:us
+2026-11-14T19:27:20Z,shreshthamodi02/longfact-hi-llama3.1-8b-instruct-q8-0,shreshthamodi02,0,0,region:us
+2026-11-14T19:27:22Z,CertainLogicAI/granite32,CertainLogicAI,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-14T19:28:04Z,bensmith10/aec002-run-scripts,bensmith10,0,0,region:us
+2026-11-14T19:29:27Z,zengrh3/memoalign-callback-data,zengrh3,0,0,language:en; license:mit; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T19:30:02Z,DiogenesLab/Diogenes_CARLA_Camera_Plans_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; region:us; simulation; robotics; camera-trajectory; synthetic; archival
+2026-11-14T19:30:27Z,gibtyx/NOAA-PIFSC-ESD-CORAL-Bleaching-Dataset,gibtyx,0,0,task_categories:image-classification; language:en; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; coral; bleaching; coral-reef; unde…
+2026-11-14T19:30:35Z,ANGEL-OF-DEATH/YOU-OWE-ME-666-TRILLION-DOLLARS,ANGEL-OF-DEATH,0,0,region:us
+2026-11-14T19:31:30Z,CertainLogicAI/granite41,CertainLogicAI,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:10K<n<100K; region:us; ai-agents; agent-traces; tool-calls; multi-turn-conversations; certainlogic; coding; executor; jud…
+2026-11-14T19:32:49Z,kembaoak/Global_Health_Expenditure_Database,kembaoak,0,0,region:us
+2026-11-14T19:33:30Z,NguyenHuuChi/figure7-external,NguyenHuuChi,0,0,license:mit; region:us; robotics; vla; pruning; pi0; pi05; robomimic
+2026-11-14T19:35:47Z,Mudreka52/sheru-assets,Mudreka52,0,0,size_categories:n<1K; format:imagefolder; modality:audio; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T19:38:31Z,shreshtha2002/longfact-multiturn-aya-expanse-8b-q8-0-annotated,shreshtha2002,0,0,region:us
+2026-11-14T19:39:44Z,zengrh3/memoalign-training-data,zengrh3,0,0,license:other; region:us
+2026-11-14T19:40:26Z,ablastvacant/armfarm04-effad,ablastvacant,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-14T19:40:37Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-14T19:40:38Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-14T19:43:35Z,SuryanshHere/ayawarden-multilingual-injection,SuryanshHere,0,0,task_categories:text-generation; language:en; language:hi; language:es; language:fr; language:ar; language:sw; language:bn; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; li…
+2026-11-14T19:44:06Z,AI-HFace/amazon-reviews-curated3cats-u2023-Lite_Est,AI-HFace,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T19:44:22Z,about2-suggest/steambans,about2-suggest,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_ids:multi-label-classification; annotations_creators:machine-generated; multilinguality:monolingual; source_datasets:o…
+2026-11-14T19:46:07Z,jayalexander/items_prompts_full,jayalexander,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T19:47:05Z,AtheerSky/ArabicSci_Story,AtheerSky,0,0,region:us
+2026-11-14T19:48:12Z,lucapinello/crisprme_plus_indices,lucapinello,0,0,license:other; region:us
+2026-11-14T19:51:39Z,AIDataspace/AIDS-Test,AIDataspace,0,0,region:us
+2026-11-14T19:52:03Z,KimOoO22/ffa-video-results,KimOoO22,0,0,language:ar; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us; dehazing; ffa-net; fog-removal; video
+2026-11-14T19:54:55Z,LinteAI/hardteal-moore-law-sub-2nm-tunneling-tet-path1-2026.txt,LinteAI,0,0,region:us
+2026-11-14T19:55:30Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.0_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T19:55:34Z,theabhikmaitra/open-student-census,theabhikmaitra,0,1,task_categories:tabular-classification; task_categories:tabular-regression; annotations_creators:expert-generated; language_creators:crowdsourced; multilinguality:monolingual; source_datasets:origina…
+2026-11-14T19:56:59Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-14T19:57:01Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-14T19:57:25Z,ASDASQE1E12/Annoy-PyEdu-Rs-Raw,ASDASQE1E12,0,0,region:us
+2026-11-14T19:57:25Z,ASDASQE1E12/Annoy-PyEdu-Rs,ASDASQE1E12,0,0,region:us
+2026-11-14T19:57:46Z,wazegg/zzzzz,wazegg,0,0,region:us
+2026-11-14T19:58:16Z,ASDCX1DXSXA/Annoy-PyEdu-Rs,ASDCX1DXSXA,0,0,region:us
+2026-11-14T19:58:17Z,ASDCX1DXSXA/Annoy-PyEdu-Rs-Raw,ASDCX1DXSXA,0,0,region:us
+2026-11-14T19:59:08Z,negoformer/MAPD-C-41-Causal-Ablation-Benchmark,negoformer,0,0,task_categories:robotics; task_categories:reinforcement-learning; task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:document; modality:tabu…
+2026-11-14T19:59:11Z,DiogenesLab/Diogenes_CARLA_Capture_Iterations_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; modality:video; region:us; video; simulation; robotics; multi-view; archival
+2026-11-14T19:59:42Z,PureOne/Nheixuri-III-Exact-Observation-Geometry,PureOne,0,0,language:en; size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; onli…
+2026-11-14T20:02:32Z,lerobot-projects/2_object_recycle,lerobot-projects,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T20:02:59Z,zengrh3/memoalign-miles-env,zengrh3,0,0,license:other; region:us
+2026-11-14T20:05:49Z,maniguard-review/datagen-jar-safetylabeled-raw,maniguard-review,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; robotics; manipulation; imitation-learning; safety
+2026-11-14T20:06:17Z,BooJPo/brazil-fire-calendar-data,BooJPo,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T20:07:41Z,maniguard-review/datagen-stack-safetylabeled-raw,maniguard-review,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; robotics; manipulation; imitation-learning; safety
+2026-11-14T20:08:56Z,HFShishir/bangla-sft-golden-dataset,HFShishir,0,0,language:bn; license:apache-2.0; size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; b…
+2026-11-14T20:09:44Z,ManasD/diet-logs-releases,ManasD,0,0,region:us
+2026-11-14T20:11:16Z,SkylarWang/HOPE-cached-features,SkylarWang,0,0,license:cc-by-nc-nd-4.0; region:us
+2026-11-14T20:12:26Z,oghmainf/sber-ai-challenge-3d-mesh-2026,oghmainf,0,0,license:mit; region:us; 3d-mesh; sber-ai-challenge; computer-vision
+2026-11-14T20:13:12Z,RoboCrafty/rebot_leap_tmp1_20261114_211125,RoboCrafty,0,0,region:us
+2026-11-14T20:14:34Z,C3Nt0/nora-v2.1-eval-conv-results,C3Nt0,0,0,region:us
+2026-11-14T20:14:50Z,33nsome/amaya-goodhart-redteam-audit-v1,33nsome,0,0,license:cc-by-4.0; region:us
+2026-11-14T20:15:33Z,MigoXV/hf-mock-660ab2907284414ba65252df3225d785-tar,MigoXV,0,0,region:us
+2026-11-14T20:16:55Z,RoboCrafty/rebot_leap_tmp1_20261114_211321,RoboCrafty,0,0,region:us
+2026-11-14T20:17:30Z,RodrigoQuelhas/wallballs,RodrigoQuelhas,0,0,region:us
