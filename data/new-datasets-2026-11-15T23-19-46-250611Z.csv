@@ -1,0 +1,79 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T22:20:57Z,crgonzalezh/raginrust-benchmarks,crgonzalezh,0,0,license:mit; region:us
+2026-11-15T22:23:43Z,cortexrouter/judge-v1-holdout,cortexrouter,0,0,task_categories:text-classification; task_categories:text-generation; language:tr; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas;…
+2026-11-15T22:25:05Z,SomeonesProject/someones,SomeonesProject,0,0,language:en; license:cc0-1.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-15T22:25:14Z,Alexey240577/2048_1794781499,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:28:00Z,g1n0st/5ef77fbd3859d6be34fdb451b9cc608650b4dd05,g1n0st,0,0,region:us
+2026-11-15T22:28:03Z,g1n0st/174f2bd0f3fdadab1ce9d8dab25d18ae31cf3a4a,g1n0st,0,0,region:us
+2026-11-15T22:28:04Z,g1n0st/e6d8491a5435dfea812044891d1dbe69bbbaaf47,g1n0st,0,0,region:us
+2026-11-15T22:28:33Z,ritik12/WaterfallBench,ritik12,0,0,task_categories:question-answering; annotations_creators:found; source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; librar…
+2026-11-15T22:32:27Z,evanbrooks4/blogss,evanbrooks4,0,0,region:us
+2026-11-15T22:32:54Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.5_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:35:20Z,Alexey240577/chars_1794782027,Alexey240577,0,0,region:us
+2026-11-15T22:36:03Z,SZLHOLDINGS/killinchu-osint-sft-api-v1,SZLHOLDINGS,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:38:23Z,DEPLAW/legal-llm-vergleich,DEPLAW,0,0,task_categories:text-generation; task_categories:question-answering; language:de; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pand…
+2026-11-15T22:39:15Z,Alexey240577/2048_1794782119,Alexey240577,0,0,region:us
+2026-11-15T22:40:29Z,DanieleGammelli/cosmos3-repro-results,DanieleGammelli,0,0,region:us
+2026-11-15T22:44:33Z,g1n0st/e7c8b5ec2329e666d3302305649ae7cb7302387d,g1n0st,0,0,region:us
+2026-11-15T22:44:33Z,g1n0st/df2299d5a88f0a2af19dab98bdb7fc4d6722bc41,g1n0st,0,0,region:us
+2026-11-15T22:45:29Z,g1n0st/e66f631776d655a818d4f94bb35ed0f17653cea4,g1n0st,0,0,region:us
+2026-11-15T22:47:04Z,RoboCrafty/rebot_sort_merged_V2,RoboCrafty,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-15T22:50:03Z,darkdevjlfjfmf/instanum,darkdevjlfjfmf,0,0,region:us
+2026-11-15T22:50:16Z,fastfoodindex/fast-food-index-prices,fastfoodindex,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-15T22:51:24Z,Alexey240577/2048_1794783074,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:53:38Z,drdonv/so101_die_varpos_wristcam2,drdonv,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:18Z,cjiao/goldengoose-divsweep_goose_n128_grouporc_tau0.10_seed300-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:26Z,cjiao/goldengoose-divsweep_goose_n128_indorc_tau0.10_seed300-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:30Z,cjiao/goldengoose-divsweep_goose_n128_random_seed300-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:31Z,g1n0st/71db082e5881ea5dd2f62f26813781ee7d85c7ff,g1n0st,0,0,region:us
+2026-11-15T22:54:34Z,cjiao/goldengoose-divsweep_goose_n128_grouporc_tau0.10_seed400-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:38Z,cjiao/goldengoose-divsweep_goose_n128_indorc_tau0.10_seed400-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:42Z,cjiao/goldengoose-divsweep_goose_n128_random_seed400-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:45Z,cjiao/goldengoose-divsweep_goose_n128_grouporc_tau0.10_seed500-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:49Z,cjiao/goldengoose-divsweep_goose_n128_indorc_tau0.10_seed500-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:53Z,cjiao/goldengoose-divsweep_goose_n128_random_seed500-25grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:54:56Z,cjiao/goldengoose-divsweep_goose_n512_grouporc_tau0.50_seed300-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:00Z,cjiao/goldengoose-divsweep_goose_n512_indorc_tau0.50_seed300-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:04Z,cjiao/goldengoose-divsweep_goose_n512_random_seed300-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:08Z,cjiao/goldengoose-divsweep_goose_n512_grouporc_tau0.50_seed400-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:11Z,cjiao/goldengoose-divsweep_goose_n512_indorc_tau0.50_seed400-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:15Z,cjiao/goldengoose-divsweep_goose_n512_random_seed400-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:19Z,cjiao/goldengoose-divsweep_goose_n512_grouporc_tau0.50_seed500-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:23Z,cjiao/goldengoose-divsweep_goose_n512_indorc_tau0.50_seed500-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:26Z,cjiao/goldengoose-divsweep_goose_n512_random_seed500-7grp,cjiao,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T22:55:45Z,darkdevjlfjfmf/850MindData,darkdevjlfjfmf,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-15T22:56:49Z,nur-dev/cpis-confidence-portability-results,nur-dev,0,0,language:en; size_categories:10K<n<100K; region:us; large-language-models; confidence-calibration; selective-prediction; decoding; reproducibility
+2026-11-15T22:57:22Z,ketiholo/stack8_machine_v7_51,ketiholo,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-15T22:59:09Z,darkdevjlfjfmf/1CMR-compact,darkdevjlfjfmf,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-15T23:00:02Z,darkdevjlfjfmf/ICMR-New,darkdevjlfjfmf,0,0,size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-15T23:00:04Z,TUaxhuiax/toolathlon_4616_holdings_extract,TUaxhuiax,0,0,region:us
+2026-11-15T23:00:08Z,TUaxhuiax/toolathlon_4616_change_release,TUaxhuiax,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T23:00:47Z,TUaxhuiax/k8s_terminal_filesystem_huggingface_4606_dossier_2f7c9ad1,TUaxhuiax,0,0,region:us
+2026-11-15T23:02:08Z,yinongh/agos-assets-200001-200200,yinongh,0,0,region:us; robotics; isaac-gym; assembly; peg-in-hole
+2026-11-15T23:02:33Z,g1n0st/da0be01d780f1ff82996404294630691b95a3886,g1n0st,0,0,region:us
+2026-11-15T23:03:47Z,Slmooooo12/storysss-videos,Slmooooo12,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-15T23:04:31Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-source-corpora-119e8e,TUaxhuiax,0,0,region:us
+2026-11-15T23:04:32Z,ChahediCodeLabs/m2tmnxslv-zarr,ChahediCodeLabs,0,0,region:us
+2026-11-15T23:04:35Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-calibration-source-119e8e,TUaxhuiax,0,0,region:us
+2026-11-15T23:04:37Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-calibration-release-119e8e,TUaxhuiax,0,0,region:us
+2026-11-15T23:04:37Z,rodrigolmirco/english-morpheme-segmentation,rodrigolmirco,0,0,task_categories:token-classification; language:en; license:cc-by-sa-3.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-11-15T23:05:53Z,dhrubasumatary/codemix-safety-check,dhrubasumatary,0,0,language:en; language:hi; license:cc-by-4.0; region:us; safety; code-mixing; hinglish; refusal; lexsi; curatorkit; safetune; auditkit
+2026-11-15T23:06:01Z,ISMAIL1216/theia,ISMAIL1216,0,0,region:us
+2026-11-15T23:06:09Z,renhuang001/tally-eval-logs,renhuang001,0,0,language:en; license:cc-by-nc-4.0; region:us; lexsi-hackathon; evaluation; training-logs; carbon-credits
+2026-11-15T23:07:23Z,cardmystic/sitemap,cardmystic,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T23:08:41Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-source-corpora-1e2c0b,TUaxhuiax,0,0,license:apache-2.0; region:us; ntif; onboarding
+2026-11-15T23:08:44Z,SZLHOLDINGS/estate-release-cards,SZLHOLDINGS,0,0,license:apache-2.0; region:us; release-cards; receipts; governed-ai; fail-closed; szl-holdings
+2026-11-15T23:08:47Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-calibration-source-1e2c0b,TUaxhuiax,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ntif; calibration
+2026-11-15T23:08:50Z,TUaxhuiax/huggingface_terminal_filesystem_4143-ntif-calibration-release-1e2c0b,TUaxhuiax,0,0,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ntif; calibration
+2026-11-15T23:09:57Z,ArthurKrieger/cnpj-dados-receita-brasil-2026-10,ArthurKrieger,0,0,language:pt; license:other; size_categories:100M<n<1B; region:us; cnpj; receita-federal; dados-abertos; empresas; brasil; parquet
+2026-11-15T23:10:01Z,g1n0st/d003b669010977925234735ed5a4c4ba25f2fd76,g1n0st,0,0,region:us
+2026-11-15T23:12:34Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.5_g8_run0,stefanocarrera,0,0,region:us
+2026-11-15T23:12:52Z,downstroke/boru-yontem,downstroke,0,0,task_categories:text-generation; language:tr; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-assistant; prompting; workflow; mcp
+2026-11-15T23:14:41Z,davidrzs/tractanda,davidrzs,0,0,license:cc0-1.0; region:us
+2026-11-15T23:14:56Z,ANGEL-OF-DEATH/GOD-WAS-A-STINGY-CHEAP-JEW,ANGEL-OF-DEATH,0,0,region:us
+2026-11-15T23:17:10Z,Alexey240577/chars_1794784184,Alexey240577,0,0,region:us
+2026-11-15T23:17:11Z,Alexey240577/2048_1794784185,Alexey240577,0,0,region:us
+2026-11-15T23:17:32Z,g1n0st/4a473507bb8d229678d448753c11c987c5d12b12,g1n0st,0,0,region:us
+2026-11-15T23:17:40Z,danielrosehill/HF-Model-Tags-Curated,danielrosehill,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; hugging-face-hub; tags; metadata; taxonomy
+2026-11-15T23:18:49Z,afesaf/Annoy-PyEdu-Rs,afesaf,0,0,region:us
+2026-11-15T23:18:50Z,afesaf/Annoy-PyEdu-Rs-Raw,afesaf,0,0,region:us
