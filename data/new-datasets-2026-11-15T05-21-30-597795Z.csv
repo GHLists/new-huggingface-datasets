@@ -1,0 +1,44 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T04:21:18Z,taku-y/record-cube-20261115_20261115_131116,taku-y,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T04:22:26Z,averyzhao/greenblock4_20261114_200207,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T04:24:54Z,TrickyRex/compact-scientific-lm-inputs,TrickyRex,0,0,modality:text; region:us
+2026-11-15T04:25:13Z,xy-yd/Aethershiyong,xy-yd,0,0,region:us
+2026-11-15T04:25:31Z,sfcbm/Annoy-PyEdu-Rs-Raw,sfcbm,0,0,region:us
+2026-11-15T04:25:31Z,sfcbm/Annoy-PyEdu-Rs,sfcbm,0,0,region:us
+2026-11-15T04:25:35Z,fei1887415157/LeRobot_SO-101_Retract_224x224,fei1887415157,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-15T04:25:52Z,Kazybek/block-insert_20261115_041804,Kazybek,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T04:28:04Z,dsaxz123/Annoy-PyEdu-Rs,dsaxz123,0,0,region:us
+2026-11-15T04:28:35Z,dsaxz123/Annoy-PyEdu-Rs-Raw,dsaxz123,0,0,region:us
+2026-11-15T04:28:40Z,SACXZ21DSA23/Annoy-PyEdu-Rs,SACXZ21DSA23,0,0,region:us
+2026-11-15T04:29:11Z,SACXZ21DSA23/Annoy-PyEdu-Rs-Raw,SACXZ21DSA23,0,0,region:us
+2026-11-15T04:29:51Z,junfengzhou/websandbox,junfengzhou,0,0,region:us
+2026-11-15T04:38:41Z,sadjei65320/items_prompts_full,sadjei65320,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T04:39:27Z,saddaasf/Annoy-PyEdu-Rs,saddaasf,0,0,region:us
+2026-11-15T04:39:28Z,saddaasf/Annoy-PyEdu-Rs-Raw,saddaasf,0,0,region:us
+2026-11-15T04:40:49Z,chenth/tb_agent,chenth,0,0,region:us
+2026-11-15T04:41:56Z,rimur01/rollout_act_so101_chunk100_te_15fps_v2_20261115_134116,rimur01,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-15T04:50:45Z,COMP1110-20261A-Group50/GoodTurtle,COMP1110-20261A-Group50,0,1,task_categories:question-answering; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; turtle-soup; la…
+2026-11-15T04:50:49Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T04:52:38Z,XingjianZhangDev/AuthorityKV,XingjianZhangDev,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:p…
+2026-11-15T04:56:50Z,g1n0st/f5561458e473abeadc909166d8b0f6c115020456,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-15T04:58:27Z,iamdual/postal-codes-turkey,iamdual,0,0,license:apache-2.0; region:us
+2026-11-15T04:59:25Z,Salil-hiremath/td-full-archive-20261115,Salil-hiremath,0,0,task_categories:audio-classification; language:en; language:hi; region:us
+2026-11-15T04:59:57Z,ywsldxk1/so101-core73-native4x3-v3,ywsldxk1,0,0,task_categories:robotics; language:en; size_categories:10K<n<100K; format:parquet; modality:image; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:pol…
+2026-11-15T05:02:50Z,g1n0st/a85086b1c48067053654aad50e1d23d2e562d1a8,g1n0st,0,0,region:us
+2026-11-15T05:03:18Z,r07522802/synthicl-pseudo-demo-rlbench,r07522802,0,0,region:us
+2026-11-15T05:04:15Z,Zojxhai/SlowBurn,Zojxhai,0,0,license:mit; region:us
+2026-11-15T05:05:57Z,sara-moricz/token-tax,sara-moricz,0,0,multilinguality:multilingual; language:ace; language:acm; language:acq; language:aeb; language:afr; language:ajp; language:aka; language:als; language:amh; language:apc; language:arb; language:ars; l…
+2026-11-15T05:06:59Z,DSAD123GFTQ/Annoy-PyEdu-Rs,DSAD123GFTQ,0,0,region:us
+2026-11-15T05:07:00Z,DSAD123GFTQ/Annoy-PyEdu-Rs-Raw,DSAD123GFTQ,0,0,region:us
+2026-11-15T05:10:18Z,jaimevera1107/similitud-ocupaciones-sectores-es,jaimevera1107,0,0,task_categories:sentence-similarity; language:es; license:cc-by-4.0; region:us; occupations; labor-market; colombia; cno; cuoc; ciiu; spanish
+2026-11-15T05:10:40Z,sad1dasd12szsads/Annoy-PyEdu-Rs,sad1dasd12szsads,0,0,region:us
+2026-11-15T05:10:41Z,sad1dasd12szsads/Annoy-PyEdu-Rs-Raw,sad1dasd12szsads,0,0,region:us
+2026-11-15T05:11:20Z,g1n0st/e74cbe1f94fcf507695da5e5d00854f722c230bf,g1n0st,0,0,region:us
+2026-11-15T05:11:28Z,Maissour11/newsroom-spam-filtering-benchmark,Maissour11,0,0,task_categories:text-classification; language:en; license:mit; size_categories:1K<n<10K; region:us; email-deliverability; spam-filtering; newsroom-infrastructure; press-distribution
+2026-11-15T05:14:35Z,mingbuild/open-culinary-telemetry-2026,mingbuild,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; region:us; culinary; recipes; usda; nutrition; mcp
+2026-11-15T05:18:19Z,ContinuousBench/News-2026-09,ContinuousBench,0,0,region:us
+2026-11-15T05:18:19Z,ContinuousBench/Geminon-2026-09,ContinuousBench,0,0,license:apache-2.0; region:us; continuousbench; geminon
+2026-11-15T05:19:19Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-15T05:19:20Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-15T05:19:51Z,g1n0st/1bb043ffb7be56f826287bcbfc22dfd97c52d8fa,g1n0st,0,0,region:us
+2026-11-15T05:20:48Z,averyzhao/greenblock4_20261114_205100,averyzhao,0,0,region:us
