@@ -9,69 +9,129 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 01:19 UTC
+## Latest list — 2026-11-15 02:20 UTC
 
-New datasets created between 2026-11-15 00:20 UTC and 2026-11-15 01:19 UTC.
+New datasets created between 2026-11-15 01:19 UTC and 2026-11-15 02:20 UTC.
 
-[Full CSV](data/new-datasets-2026-11-15T01-19-46-958013Z.csv)
+[Full CSV](data/new-datasets-2026-11-15T02-20-36-342289Z.csv)
 
 | Created (UTC) | Dataset | Author | Downloads | Likes | Tags |
 | :------------ | :------ | :----- | --------: | ----: | :--- |
-| 2026-11-15 00:21:18 | [Arnoldkoci/atlante-imprese-italia](https://huggingface.co/Arnoldkoci/atlante-imprese-italia) | Arnoldkoci | 0 | 0 | language:it; license:cc-by-4.0; size_categories:1K<n<10K; f… |
-| 2026-11-15 00:21:28 | [courtrules/court-rules-page-limits](https://huggingface.co/courtrules/court-rules-page-limits) | courtrules | 0 | 0 | language:en; license:cc-by-4.0; size_categories:n<1K; regio… |
-| 2026-11-15 00:22:02 | [gmxn/boltzgen1_train](https://huggingface.co/gmxn/boltzgen1_train) | gmxn | 0 | 0 | license:mit; region:us |
-| 2026-11-15 00:24:02 | [DiogenesLab/Diogenes_Fallout4_Depth_Archive_v02](https://huggingface.co/DiogenesLab/Diogenes_Fallout4_Depth_Archive_v02) | DiogenesLab | 0 | 0 | license:other; size_categories:n<1K; modality:video; region… |
-| 2026-11-15 00:26:19 | [courtrules/court-rules-pre-motion-conferences](https://huggingface.co/courtrules/court-rules-pre-motion-conferences) | courtrules | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; r… |
-| 2026-11-15 00:26:25 | [JoWoVo/temp-animation-input](https://huggingface.co/JoWoVo/temp-animation-input) | JoWoVo | 0 | 0 | region:us |
-| 2026-11-15 00:26:52 | [Quajak/blocks_bottom_green_push_4](https://huggingface.co/Quajak/blocks_bottom_green_push_4) | Quajak | 0 | 0 | task_categories:robotics; region:us; LeRobot; Aloha,Blocks |
-| 2026-11-15 00:29:54 | [rimur01/rollout_act_so101_chunk10_50k_r3_20261115_092244](https://huggingface.co/rimur01/rollout_act_so101_chunk10_50k_r3_20261115_092244) | rimur01 | 0 | 0 | region:us |
-| 2026-11-15 00:31:59 | [Quajak/blocks_right_red_push_4](https://huggingface.co/Quajak/blocks_right_red_push_4) | Quajak | 0 | 0 | task_categories:robotics; region:us; LeRobot; Aloha,Blocks |
-| 2026-11-15 00:33:29 | [serialexperimentsleon/phystwin_raw_recordings_human](https://huggingface.co/serialexperimentsleon/phystwin_raw_recordings_human) | serialexperimentsleon | 0 | 0 | task_categories:robotics; license:cc-by-4.0; region:us; raw… |
-| 2026-11-15 00:33:30 | [serialexperimentsleon/phystwin_raw_recordings_robot](https://huggingface.co/serialexperimentsleon/phystwin_raw_recordings_robot) | serialexperimentsleon | 0 | 0 | task_categories:robotics; license:cc-by-4.0; region:us; raw… |
-| 2026-11-15 00:34:48 | [JyanMan/NASA_data](https://huggingface.co/JyanMan/NASA_data) | JyanMan | 0 | 0 | license:mit; region:us |
-| 2026-11-15 00:35:12 | [rimur01/rollout_act_so101_chunk50_50k_20261115_093340](https://huggingface.co/rimur01/rollout_act_so101_chunk50_50k_20261115_093340) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 00:37:53 | [Kovach-Enterprises/speedrunpapi-deterministic-embeddings-benchmarks](https://huggingface.co/Kovach-Enterprises/speedrunpapi-deterministic-embeddings-benchmarks) | Kovach-Enterprises | 0 | 0 | task_categories:feature-extraction; task_categories:text-ge… |
-| 2026-11-15 00:41:04 | [ASDD12DSA/Annoy-PyEdu-Rs](https://huggingface.co/ASDD12DSA/Annoy-PyEdu-Rs) | ASDD12DSA | 0 | 0 | region:us |
-| 2026-11-15 00:41:06 | [ASDD12DSA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDD12DSA/Annoy-PyEdu-Rs-Raw) | ASDD12DSA | 0 | 0 | region:us |
-| 2026-11-15 00:41:22 | [TaliesinEliana/Annoy-PyEdu-Rs-Raw](https://huggingface.co/TaliesinEliana/Annoy-PyEdu-Rs-Raw) | TaliesinEliana | 0 | 0 | region:us |
-| 2026-11-15 00:41:22 | [TaliesinEliana/Annoy-PyEdu-Rs](https://huggingface.co/TaliesinEliana/Annoy-PyEdu-Rs) | TaliesinEliana | 0 | 0 | region:us |
-| 2026-11-15 00:42:31 | [asfdasdfaa/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asfdasdfaa/Annoy-PyEdu-Rs-Raw) | asfdasdfaa | 0 | 0 | region:us |
-| 2026-11-15 00:42:31 | [asfdasdfaa/Annoy-PyEdu-Rs](https://huggingface.co/asfdasdfaa/Annoy-PyEdu-Rs) | asfdasdfaa | 0 | 0 | region:us |
-| 2026-11-15 00:43:02 | [harishkotra/tiny-aya-refusal-consistency-eval](https://huggingface.co/harishkotra/tiny-aya-refusal-consistency-eval) | harishkotra | 0 | 0 | language:en; language:hi; license:cc-by-4.0; region:us; hin… |
-| 2026-11-15 00:43:52 | [mhdaw/squares-in-squares-database](https://huggingface.co/mhdaw/squares-in-squares-database) | mhdaw | 0 | 0 | task_categories:tabular-regression; license:mit; size_categ… |
-| 2026-11-15 00:44:03 | [Quajak/blocks_top_red_push_4](https://huggingface.co/Quajak/blocks_top_red_push_4) | Quajak | 0 | 0 | task_categories:robotics; region:us; LeRobot; Aloha,Blocks |
-| 2026-11-15 00:45:19 | [rimur01/rollout_act_so101_chunk10_steps10_compare_20261115_093638](https://huggingface.co/rimur01/rollout_act_so101_chunk10_steps10_compare_20261115_093638) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 00:46:07 | [MariaScales/ai-job-postings-12-countries](https://huggingface.co/MariaScales/ai-job-postings-12-countries) | MariaScales | 0 | 0 | language:en; license:cc-by-4.0; size_categories:10K<n<100K;… |
-| 2026-11-15 00:51:07 | [stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.0_g9_run0](https://huggingface.co/stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.0_g9_run0) | stefanocarrera | 0 | 0 | size_categories:n<1K; format:parquet; modality:text; librar… |
-| 2026-11-15 00:51:07 | [MariaScales/ai-roles-career-pages](https://huggingface.co/MariaScales/ai-roles-career-pages) | MariaScales | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; f… |
-| 2026-11-15 00:51:40 | [MariaScales/ai-job-duties](https://huggingface.co/MariaScales/ai-job-duties) | MariaScales | 0 | 0 | language:en; license:cc-by-4.0; size_categories:1K<n<10K; f… |
-| 2026-11-15 00:53:08 | [Quajak/blocks_top_yellow_push_4](https://huggingface.co/Quajak/blocks_top_yellow_push_4) | Quajak | 0 | 0 | task_categories:robotics; region:us; LeRobot; Aloha,Blocks |
-| 2026-11-15 00:53:43 | [PulmoForge/Wilson](https://huggingface.co/PulmoForge/Wilson) | PulmoForge | 0 | 0 | license:cc-by-nc-4.0; region:us |
-| 2026-11-15 00:55:06 | [rimur01/rollout_act_so101_chunk50_steps20_compare_20261115_094632](https://huggingface.co/rimur01/rollout_act_so101_chunk50_steps20_compare_20261115_094632) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 00:55:09 | [paruchuriashmitha/data266-p2-generated-images](https://huggingface.co/paruchuriashmitha/data266-p2-generated-images) | paruchuriashmitha | 0 | 0 | task_categories:text-to-image; license:cc-by-nc-sa-4.0; siz… |
-| 2026-11-15 00:56:14 | [ThreeSixNine/poker-table-perception-eval](https://huggingface.co/ThreeSixNine/poker-table-perception-eval) | ThreeSixNine | 0 | 0 | license:cc0-1.0; size_categories:n<1K; modality:image; moda… |
-| 2026-11-15 00:57:31 | [rbtrprjkt/rollout_16mm-bar_install60E30Ract100_20261114_181953](https://huggingface.co/rbtrprjkt/rollout_16mm-bar_install60E30Ract100_20261114_181953) | rbtrprjkt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 00:57:36 | [tseattle/so101_pick_place_test_20261114_165556](https://huggingface.co/tseattle/so101_pick_place_test_20261114_165556) | tseattle | 0 | 0 | size_categories:1K<n<10K; format:parquet; modality:tabular;… |
-| 2026-11-15 00:58:14 | [ZiruiFu/ByteDriveJEPAGenie](https://huggingface.co/ZiruiFu/ByteDriveJEPAGenie) | ZiruiFu | 0 | 0 | license:apache-2.0; region:us |
-| 2026-11-15 00:59:18 | [Rosa2004/blue_valve_tcp_relative1](https://huggingface.co/Rosa2004/blue_valve_tcp_relative1) | Rosa2004 | 0 | 0 | region:us |
-| 2026-11-15 01:01:26 | [phulocnguyen/diversity-study](https://huggingface.co/phulocnguyen/diversity-study) | phulocnguyen | 0 | 0 | region:us |
-| 2026-11-15 01:02:34 | [Quajak/blocks_bottom_yellow_push_4](https://huggingface.co/Quajak/blocks_bottom_yellow_push_4) | Quajak | 0 | 0 | task_categories:robotics; region:us; LeRobot; Aloha,Blocks |
-| 2026-11-15 01:03:06 | [dhruv1672/data266-pokemon-generations](https://huggingface.co/dhruv1672/data266-pokemon-generations) | dhruv1672 | 0 | 0 | task_categories:text-to-image; language:en; license:other;… |
-| 2026-11-15 01:04:02 | [donabico/path-00003](https://huggingface.co/donabico/path-00003) | donabico | 0 | 1 | task_categories:text-classification; task_categories:text-g… |
-| 2026-11-15 01:05:41 | [rimur01/rollout_act_so101_chunk100_steps20_compare_20261115_095659](https://huggingface.co/rimur01/rollout_act_so101_chunk100_steps20_compare_20261115_095659) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 01:07:44 | [Reza1290/m3-m2-cbct-crops](https://huggingface.co/Reza1290/m3-m2-cbct-crops) | Reza1290 | 0 | 0 | region:us |
-| 2026-11-15 01:08:40 | [RoboCrafty/rebot_sort_v1](https://huggingface.co/RoboCrafty/rebot_sort_v1) | RoboCrafty | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 01:08:52 | [eigenpaul/transitbench-data](https://huggingface.co/eigenpaul/transitbench-data) | eigenpaul | 0 | 0 | region:us |
-| 2026-11-15 01:09:00 | [rbtrprjkt/rollout_16mm-bar_install60E60Ract30_20261114_190637](https://huggingface.co/rbtrprjkt/rollout_16mm-bar_install60E60Ract30_20261114_190637) | rbtrprjkt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
-| 2026-11-15 01:09:57 | [tntholley/competition-ultradata-math-pass1](https://huggingface.co/tntholley/competition-ultradata-math-pass1) | tntholley | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
-| 2026-11-15 01:12:35 | [earino/factory-wser-effluent-exceedance](https://huggingface.co/earino/factory-wser-effluent-exceedance) | earino | 0 | 0 | task_categories:tabular-classification; license:other; regi… |
-| 2026-11-15 01:13:01 | [gamaadada/opti](https://huggingface.co/gamaadada/opti) | gamaadada | 0 | 0 | region:us |
-| 2026-11-15 01:14:57 | [netplas/datatypexxl-dttx-collection](https://huggingface.co/netplas/datatypexxl-dttx-collection) | netplas | 0 | 0 | license:other; region:us; data-type-xxl; dttx |
-| 2026-11-15 01:15:55 | [CyberMax-tools/roblox-luau-free-samplers](https://huggingface.co/CyberMax-tools/roblox-luau-free-samplers) | CyberMax-tools | 0 | 0 | language:en; license:other; size_categories:n<1K; region:us… |
-| 2026-11-15 01:16:12 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-15 01:16:18 | [rimur01/rollout_act_so101_chunk100_steps100_cam0_20261115_101407](https://huggingface.co/rimur01/rollout_act_so101_chunk100_steps100_cam0_20261115_101407) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; region:us; Le… |
-| 2026-11-15 01:16:42 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
-| 2026-11-15 01:19:06 | [arashlove/aemo-nem-lor](https://huggingface.co/arashlove/aemo-nem-lor) | arashlove | 0 | 0 | license:cc-by-4.0; region:us |
+| 2026-11-15 01:20:46 | [MikelMango/zelnovix-eval-prompts](https://huggingface.co/MikelMango/zelnovix-eval-prompts) | MikelMango | 0 | 0 | language:en; language:da; language:de; language:zh; license… |
+| 2026-11-15 01:20:50 | [MikelMango/zelnovix-training-data](https://huggingface.co/MikelMango/zelnovix-training-data) | MikelMango | 0 | 0 | language:en; language:da; language:de; language:zh; license… |
+| 2026-11-15 01:21:15 | [rimur01/rollout_act_so101_chunk100_te_cam0_20261115_101802](https://huggingface.co/rimur01/rollout_act_so101_chunk100_te_cam0_20261115_101802) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-15 01:21:23 | [MikelMango/zelnovix-unlearning-results](https://huggingface.co/MikelMango/zelnovix-unlearning-results) | MikelMango | 0 | 0 | language:en; language:da; language:de; language:zh; license… |
+| 2026-11-15 01:31:50 | [sfaafaf45454/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sfaafaf45454/Annoy-PyEdu-Rs-Raw) | sfaafaf45454 | 0 | 0 | region:us |
+| 2026-11-15 01:31:50 | [sfaafaf45454/Annoy-PyEdu-Rs](https://huggingface.co/sfaafaf45454/Annoy-PyEdu-Rs) | sfaafaf45454 | 0 | 0 | region:us |
+| 2026-11-15 01:32:25 | [Dr-Metal/philoprompts-v1](https://huggingface.co/Dr-Metal/philoprompts-v1) | Dr-Metal | 0 | 0 | task_categories:text-generation; task_categories:text-class… |
+| 2026-11-15 01:33:13 | [ASDC12SDA/Annoy-PyEdu-Rs-Raw](https://huggingface.co/ASDC12SDA/Annoy-PyEdu-Rs-Raw) | ASDC12SDA | 0 | 0 | region:us |
+| 2026-11-15 01:33:13 | [ASDC12SDA/Annoy-PyEdu-Rs](https://huggingface.co/ASDC12SDA/Annoy-PyEdu-Rs) | ASDC12SDA | 0 | 0 | region:us |
+| 2026-11-15 01:33:37 | [Polydim-Einsof/einsof2-training-datasets](https://huggingface.co/Polydim-Einsof/einsof2-training-datasets) | Polydim-Einsof | 0 | 0 | task_categories:text-generation; task_categories:question-a… |
+| 2026-11-15 01:34:52 | [MaxKannapinn/pump_2d_ultrafine_mrf](https://huggingface.co/MaxKannapinn/pump_2d_ultrafine_mrf) | MaxKannapinn | 0 | 0 | task_categories:tabular-regression; task_categories:time-se… |
+| 2026-11-15 01:35:30 | [infoslack/ACT-YOUTUBE-DEMO_20261114_222855](https://huggingface.co/infoslack/ACT-YOUTUBE-DEMO_20261114_222855) | infoslack | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-15 01:36:40 | [asd11dasd21dd/Annoy-PyEdu-Rs](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs) | asd11dasd21dd | 0 | 0 | region:us |
+| 2026-11-15 01:36:42 | [asd11dasd21dd/Annoy-PyEdu-Rs-Raw](https://huggingface.co/asd11dasd21dd/Annoy-PyEdu-Rs-Raw) | asd11dasd21dd | 0 | 0 | region:us |
+| 2026-11-15 01:38:29 | [chewiesays/yp-spacex-tweet-examples](https://huggingface.co/chewiesays/yp-spacex-tweet-examples) | chewiesays | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-11-15 01:38:47 | [afdasfasd/Annoy-PyEdu-Rs](https://huggingface.co/afdasfasd/Annoy-PyEdu-Rs) | afdasfasd | 0 | 0 | region:us |
+| 2026-11-15 01:38:48 | [afdasfasd/Annoy-PyEdu-Rs-Raw](https://huggingface.co/afdasfasd/Annoy-PyEdu-Rs-Raw) | afdasfasd | 0 | 0 | region:us |
+| 2026-11-15 01:38:50 | [hiephp2659/fshare-backup-db](https://huggingface.co/hiephp2659/fshare-backup-db) | hiephp2659 | 0 | 0 | region:us |
+| 2026-11-15 01:40:55 | [McParvenu/jupyter-notebooks](https://huggingface.co/McParvenu/jupyter-notebooks) | McParvenu | 0 | 0 | region:us |
+| 2026-11-15 01:41:00 | [kaydennnnnnn/FireBol_AI_Code_1_1](https://huggingface.co/kaydennnnnnn/FireBol_AI_Code_1_1) | kaydennnnnnn | 0 | 0 | language:en; language:es; language:ko; license:apache-2.0;… |
+| 2026-11-15 01:41:07 | [Rosa2004/blue_valve_tcp_relative](https://huggingface.co/Rosa2004/blue_valve_tcp_relative) | Rosa2004 | 0 | 0 | region:us |
+| 2026-11-15 01:43:01 | [sad12cxzqw/Annoy-PyEdu-Rs](https://huggingface.co/sad12cxzqw/Annoy-PyEdu-Rs) | sad12cxzqw | 0 | 0 | region:us |
+| 2026-11-15 01:43:02 | [sad12cxzqw/Annoy-PyEdu-Rs-Raw](https://huggingface.co/sad12cxzqw/Annoy-PyEdu-Rs-Raw) | sad12cxzqw | 0 | 0 | region:us |
+| 2026-11-15 01:44:34 | [dlcformine/wedal](https://huggingface.co/dlcformine/wedal) | dlcformine | 0 | 0 | region:us |
+| 2026-11-15 01:45:07 | [rimur01/rollout_act_so101_chunk100_steps100_camswap_20261115_104436](https://huggingface.co/rimur01/rollout_act_so101_chunk100_steps100_camswap_20261115_104436) | rimur01 | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-15 01:45:22 | [arepaconcafe/project_diva](https://huggingface.co/arepaconcafe/project_diva) | arepaconcafe | 0 | 0 | region:us |
+| 2026-11-15 01:45:22 | [mtmtt/bigdicetower](https://huggingface.co/mtmtt/bigdicetower) | mtmtt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-15 01:48:43 | [algoritmos-mecai-usp/scania_x_component](https://huggingface.co/algoritmos-mecai-usp/scania_x_component) | algoritmos-mecai-usp | 0 | 0 | license:mit; region:us |
+| 2026-11-15 01:51:56 | [RonanLabs/mom-lab-metar-medcalc](https://huggingface.co/RonanLabs/mom-lab-metar-medcalc) | RonanLabs | 0 | 0 | task_categories:text-generation; task_categories:question-a… |
+| 2026-11-15 01:52:42 | [rbtrprjkt/rollout_16mm-bar_install60E60Ract30_20261114_190955](https://huggingface.co/rbtrprjkt/rollout_16mm-bar_install60E60Ract30_20261114_190955) | rbtrprjkt | 0 | 0 | task_categories:robotics; license:apache-2.0; size_categori… |
+| 2026-11-15 01:52:50 | [Larrygaaga67/SophieAve](https://huggingface.co/Larrygaaga67/SophieAve) | Larrygaaga67 | 0 | 1 | language:en; size_categories:10K<n<100K; region:us; My |
+| 2026-11-15 01:53:21 | [Ro551/WikiCorrupted_spanish_to_GEC-GED_v2-4](https://huggingface.co/Ro551/WikiCorrupted_spanish_to_GEC-GED_v2-4) | Ro551 | 0 | 0 | size_categories:100K<n<1M; format:parquet; format:optimized… |
+| 2026-11-15 01:56:50 | [zhilong777/mattext-syn](https://huggingface.co/zhilong777/mattext-syn) | zhilong777 | 0 | 0 | language:zh; language:en; license:other; size_categories:10… |
+| 2026-11-15 01:58:53 | [Shrijanagain/Speed-Speak-1B-Mx](https://huggingface.co/Shrijanagain/Speed-Speak-1B-Mx) | Shrijanagain | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-15 01:59:18 | [blmq/Annoy-PyEdu-Rs](https://huggingface.co/blmq/Annoy-PyEdu-Rs) | blmq | 0 | 0 | region:us |
+| 2026-11-15 01:59:19 | [blmq/Annoy-PyEdu-Rs-Raw](https://huggingface.co/blmq/Annoy-PyEdu-Rs-Raw) | blmq | 0 | 0 | region:us |
+| 2026-11-15 01:59:41 | [GioEl3/SuperUncensorer](https://huggingface.co/GioEl3/SuperUncensorer) | GioEl3 | 0 | 0 | size_categories:n<1K; format:json; modality:text; library:d… |
+| 2026-11-15 02:00:01 | [Icey444/Judge_ranking_v5_review_assets](https://huggingface.co/Icey444/Judge_ranking_v5_review_assets) | Icey444 | 0 | 0 | license:other; region:us |
+| 2026-11-15 02:05:11 | [tseattle/so101_pick_place_all](https://huggingface.co/tseattle/so101_pick_place_all) | tseattle | 0 | 0 | size_categories:n<1K; modality:video; library:datasets; lib… |
+| 2026-11-15 02:05:38 | [jnorthrup/justicedao__dedup_ipfs_caselaw_access_project](https://huggingface.co/jnorthrup/justicedao__dedup_ipfs_caselaw_access_project) | jnorthrup | 0 | 0 | region:us |
+| 2026-11-15 02:05:38 | [jnorthrup/justicedao__american_municipal_law](https://huggingface.co/jnorthrup/justicedao__american_municipal_law) | jnorthrup | 0 | 0 | language:en; license:mit; region:us; legal |
+| 2026-11-15 02:05:38 | [jnorthrup/justicedao__ipfs_caselaw_access_project](https://huggingface.co/jnorthrup/justicedao__ipfs_caselaw_access_project) | jnorthrup | 0 | 0 | license:other; size_categories:1M<n<10M; format:parquet; mo… |
+| 2026-11-15 02:05:39 | [jnorthrup/justicedao__Caselaw_Access_Project_embeddings](https://huggingface.co/jnorthrup/justicedao__Caselaw_Access_Project_embeddings) | jnorthrup | 0 | 0 | license:agpl-3.0; region:us; legal; law |
+| 2026-11-15 02:05:40 | [jnorthrup/justicedao__ipfs_state_admin_rules](https://huggingface.co/jnorthrup/justicedao__ipfs_state_admin_rules) | jnorthrup | 0 | 0 | region:us |
+| 2026-11-15 02:05:40 | [jnorthrup/justicedao__ipfs_uscode](https://huggingface.co/jnorthrup/justicedao__ipfs_uscode) | jnorthrup | 0 | 0 | license:other; region:us; legal; us-code; graphrag; justice… |
+| 2026-11-15 02:05:40 | [jnorthrup/justicedao__ipfs_state_laws](https://huggingface.co/jnorthrup/justicedao__ipfs_state_laws) | jnorthrup | 0 | 0 | task_categories:text-retrieval; task_categories:feature-ext… |
+| 2026-11-15 02:05:42 | [jnorthrup/justicedao__ipfs_federal_register](https://huggingface.co/jnorthrup/justicedao__ipfs_federal_register) | jnorthrup | 0 | 0 | language:en; license:other; region:us; legal; federal-regis… |
+| 2026-11-15 02:05:42 | [jnorthrup/justicedao__ipfs_court_rules](https://huggingface.co/jnorthrup/justicedao__ipfs_court_rules) | jnorthrup | 0 | 0 | task_categories:text-retrieval; task_categories:feature-ext… |
+| 2026-11-15 02:05:44 | [jnorthrup/justicedao__ipfs_netherlands_laws_vector_index](https://huggingface.co/jnorthrup/justicedao__ipfs_netherlands_laws_vector_index) | jnorthrup | 0 | 0 | language:nl; license:other; size_categories:10K<n<100K; for… |
+| 2026-11-15 02:05:45 | [jnorthrup/justicedao__ipfs_netherlands_laws_bm25_index](https://huggingface.co/jnorthrup/justicedao__ipfs_netherlands_laws_bm25_index) | jnorthrup | 0 | 0 | language:nl; license:other; size_categories:100K<n<1M; form… |
+| 2026-11-15 02:05:46 | [jnorthrup/justicedao__ipfs_netherlands_laws_knowledge_graph](https://huggingface.co/jnorthrup/justicedao__ipfs_netherlands_laws_knowledge_graph) | jnorthrup | 0 | 0 | language:nl; license:other; region:us; ipfs; cid; legal |
+| 2026-11-15 02:05:47 | [jnorthrup/justicedao__netherlands-laws-nl-normalized](https://huggingface.co/jnorthrup/justicedao__netherlands-laws-nl-normalized) | jnorthrup | 0 | 0 | task_categories:text-retrieval; task_categories:question-an… |
+| 2026-11-15 02:05:48 | [jnorthrup/justicedao__wetwijzer_netherlands_legal_corpus](https://huggingface.co/jnorthrup/justicedao__wetwijzer_netherlands_legal_corpus) | jnorthrup | 0 | 0 | task_categories:text-retrieval; task_categories:question-an… |
+| 2026-11-15 02:05:49 | [jnorthrup/justicedao__legal-ir-autoencoder-checkpoints](https://huggingface.co/jnorthrup/justicedao__legal-ir-autoencoder-checkpoints) | jnorthrup | 0 | 0 | task_categories:text-generation; task_categories:feature-ex… |
+| 2026-11-15 02:05:49 | [jnorthrup/justicedao__patent-legal-corpus](https://huggingface.co/jnorthrup/justicedao__patent-legal-corpus) | jnorthrup | 0 | 0 | license:cc0-1.0; region:us; patent; legal; justicedao; publ… |
+| 2026-11-15 02:06:11 | [jnorthrup/justicedao__patent-legal-bm25](https://huggingface.co/jnorthrup/justicedao__patent-legal-bm25) | jnorthrup | 0 | 0 | license:cc0-1.0; region:us; patent; legal; justicedao; publ… |
+| 2026-11-15 02:08:04 | [jnorthrup/justicedao__patent-legal-vectors](https://huggingface.co/jnorthrup/justicedao__patent-legal-vectors) | jnorthrup | 0 | 0 | license:cc0-1.0; region:us; patent; legal; justicedao; publ… |
+| 2026-11-15 02:10:39 | [jnorthrup/justicedao__patent-legal-ir-graphrag](https://huggingface.co/jnorthrup/justicedao__patent-legal-ir-graphrag) | jnorthrup | 0 | 0 | task_categories:text-retrieval; task_categories:feature-ext… |
+| 2026-11-15 02:10:39 | [jnorthrup/justicedao__patent-legal-knowledge-graph](https://huggingface.co/jnorthrup/justicedao__patent-legal-knowledge-graph) | jnorthrup | 0 | 0 | license:cc0-1.0; region:us; patent; legal; justicedao; publ… |
+| 2026-11-15 02:10:39 | [jnorthrup/justicedao__ipfs_argentina_laws-ir](https://huggingface.co/jnorthrup/justicedao__ipfs_argentina_laws-ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; license:other; region:us; l… |
+| 2026-11-15 02:10:39 | [jnorthrup/justicedao__ipfs_malta_laws-ir](https://huggingface.co/jnorthrup/justicedao__ipfs_malta_laws-ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; license:other; region:us; l… |
+| 2026-11-15 02:12:46 | [jnorthrup/justicedao__ipfs_malta_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_malta_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:12:57 | [sadasgasdsdfa/Annoy-PyEdu-Rs](https://huggingface.co/sadasgasdsdfa/Annoy-PyEdu-Rs) | sadasgasdsdfa | 0 | 0 | region:us |
+| 2026-11-15 02:12:57 | [jnorthrup/justicedao__ipfs_singapore_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_singapore_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:13:03 | [jnorthrup/justicedao__ipfs_israel_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_israel_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:he; license:other;… |
+| 2026-11-15 02:13:14 | [jnorthrup/justicedao__ipfs_kuwait_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_kuwait_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ar; language:en; l… |
+| 2026-11-15 02:13:21 | [jnorthrup/justicedao__ipfs_uae_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_uae_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; language:ar; l… |
+| 2026-11-15 02:13:26 | [jnorthrup/justicedao__ipfs_egypt_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_egypt_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ar; language:en; l… |
+| 2026-11-15 02:13:36 | [jnorthrup/justicedao__ipfs_hungary_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_hungary_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:hu; license:other;… |
+| 2026-11-15 02:13:37 | [jnorthrup/justicedao__ipfs_thailand_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_thailand_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:th; license:other;… |
+| 2026-11-15 02:13:47 | [jnorthrup/justicedao__ipfs_ireland_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_ireland_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:14:15 | [jnorthrup/justicedao__ipfs_bangladesh_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_bangladesh_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:14:30 | [jnorthrup/justicedao__ipfs_nigeria_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_nigeria_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:14:30 | [jnorthrup/justicedao__ipfs_estonia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_estonia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:et; license:other;… |
+| 2026-11-15 02:14:41 | [jnorthrup/justicedao__ipfs_saudiarabia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_saudiarabia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ar; language:en; l… |
+| 2026-11-15 02:14:42 | [jnorthrup/justicedao__ipfs_pakistan_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_pakistan_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:14:47 | [jnorthrup/justicedao__ipfs_southafrica_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_southafrica_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; language:mul;… |
+| 2026-11-15 02:14:48 | [stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.0_g9_run0](https://huggingface.co/stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.0_g9_run0) | stefanocarrera | 0 | 0 | region:us |
+| 2026-11-15 02:14:58 | [jnorthrup/justicedao__ipfs_greece_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_greece_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:el; license:other;… |
+| 2026-11-15 02:14:59 | [jnorthrup/justicedao__ipfs_philippines_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_philippines_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; license:other; region:us; l… |
+| 2026-11-15 02:15:25 | [jnorthrup/justicedao__ipfs_kenya_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_kenya_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; license:other;… |
+| 2026-11-15 02:15:35 | [jnorthrup/justicedao__ipfs_malaysia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_malaysia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:en; language:ms; l… |
+| 2026-11-15 02:15:48 | [jnorthrup/justicedao__ipfs_germany_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_germany_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:de; license:other;… |
+| 2026-11-15 02:16:07 | [jnorthrup/justicedao__ipfs_czechia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_czechia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:cs; license:other;… |
+| 2026-11-15 02:16:07 | [jnorthrup/justicedao__ipfs_sweden_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_sweden_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; license:other; region:us; l… |
+| 2026-11-15 02:16:16 | [jnorthrup/justicedao__ipfs_slovakia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_slovakia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:sk; license:other;… |
+| 2026-11-15 02:16:16 | [jnorthrup/justicedao__ipfs_switzerland_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_switzerland_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:de; language:fr; l… |
+| 2026-11-15 02:16:44 | [jnorthrup/justicedao__ipfs_netherlands_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_netherlands_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:nl; license:other;… |
+| 2026-11-15 02:16:48 | [jnorthrup/justicedao__ipfs_qatar_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_qatar_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ar; license:other;… |
+| 2026-11-15 02:16:59 | [jnorthrup/justicedao__ipfs_austria_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_austria_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:de; license:other;… |
+| 2026-11-15 02:17:05 | [jnorthrup/justicedao__ipfs_chile_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_chile_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:es; license:other;… |
+| 2026-11-15 02:17:14 | [jnorthrup/justicedao__ipfs_china_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_china_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:zh; language:en; l… |
+| 2026-11-15 02:17:26 | [jnorthrup/justicedao__ipfs_vietnam_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_vietnam_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:vi; license:other;… |
+| 2026-11-15 02:17:31 | [jnorthrup/justicedao__ipfs_latvia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_latvia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:lv; license:other;… |
+| 2026-11-15 02:17:38 | [jnorthrup/justicedao__ipfs_slovenia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_slovenia_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:sl; license:other;… |
+| 2026-11-15 02:17:38 | [jnorthrup/justicedao__ipfs_italy_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_italy_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:it; license:other;… |
+| 2026-11-15 02:18:18 | [jnorthrup/justicedao__ipfs_romania_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_romania_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ro; license:other;… |
+| 2026-11-15 02:18:22 | [jnorthrup/justicedao__ipfs_iceland_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_iceland_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:is; license:other;… |
+| 2026-11-15 02:18:33 | [toolathlon-mai/Annoy-PyEdu-Rs](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-15 02:18:33 | [jnorthrup/justicedao__ipfs_morocco_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_morocco_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ar; language:fr; l… |
+| 2026-11-15 02:18:34 | [toolathlon-mai/Annoy-PyEdu-Rs-Raw](https://huggingface.co/toolathlon-mai/Annoy-PyEdu-Rs-Raw) | toolathlon-mai | 0 | 0 | region:us |
+| 2026-11-15 02:18:37 | [jnorthrup/justicedao__ipfs_bulgaria_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_bulgaria_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:bg; license:other;… |
+| 2026-11-15 02:18:49 | [jnorthrup/justicedao__ipfs_cyprus_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_cyprus_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:el; license:other;… |
+| 2026-11-15 02:18:58 | [jnorthrup/justicedao__ipfs_oman_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_oman_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; license:other; region:us; l… |
+| 2026-11-15 02:19:02 | [jnorthrup/justicedao__ipfs_myanmar_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_myanmar_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:my; license:other;… |
+| 2026-11-15 02:19:21 | [jnorthrup/justicedao__ipfs_japan_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_japan_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:ja; license:other;… |
+| 2026-11-15 02:19:26 | [jnorthrup/justicedao__ipfs_dominicanrepublic_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_dominicanrepublic_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:es; license:other;… |
+| 2026-11-15 02:19:40 | [jnorthrup/justicedao__ipfs_serbia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_serbia_laws_ir) | jnorthrup | 0 | 0 | region:us |
+| 2026-11-15 02:19:46 | [jnorthrup/justicedao__ipfs_albania_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_albania_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:sq; license:other;… |
+| 2026-11-15 02:19:50 | [jnorthrup/justicedao__ipfs_algeria_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_algeria_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:fr; language:ar; l… |
+| 2026-11-15 02:19:56 | [jnorthrup/justicedao__ipfs_iran_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_iran_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:fa; license:other;… |
+| 2026-11-15 02:19:59 | [materials-industrial-ai/Cooling-Water-Chemistry-and-Treatment-Answer-Verification-Dataset](https://huggingface.co/materials-industrial-ai/Cooling-Water-Chemistry-and-Treatment-Answer-Verification-Dataset) | materials-industrial-ai | 0 | 0 | license:cc-by-nc-4.0; region:us |
+| 2026-11-15 02:20:20 | [jnorthrup/justicedao__ipfs_azerbaijan_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_azerbaijan_laws_ir) | jnorthrup | 0 | 0 | task_categories:text-retrieval; language:az; license:other;… |
+| 2026-11-15 02:20:28 | [jnorthrup/justicedao__ipfs_tunisia_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_tunisia_laws_ir) | jnorthrup | 0 | 0 | region:us |
+| 2026-11-15 02:20:32 | [jnorthrup/justicedao__ipfs_angola_laws_ir](https://huggingface.co/jnorthrup/justicedao__ipfs_angola_laws_ir) | jnorthrup | 0 | 0 | region:us |
 
 ## Data source
 

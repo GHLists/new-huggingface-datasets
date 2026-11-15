@@ -1,0 +1,116 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T01:20:46Z,MikelMango/zelnovix-eval-prompts,MikelMango,0,0,language:en; language:da; language:de; language:zh; license:cc-by-nc-4.0; region:us; unlearning; research-artifact
+2026-11-15T01:20:50Z,MikelMango/zelnovix-training-data,MikelMango,0,0,language:en; language:da; language:de; language:zh; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-11-15T01:21:15Z,rimur01/rollout_act_so101_chunk100_te_cam0_20261115_101802,rimur01,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T01:21:23Z,MikelMango/zelnovix-unlearning-results,MikelMango,0,0,language:en; language:da; language:de; language:zh; license:cc-by-nc-4.0; region:us; unlearning; research-artifact
+2026-11-15T01:31:50Z,sfaafaf45454/Annoy-PyEdu-Rs-Raw,sfaafaf45454,0,0,region:us
+2026-11-15T01:31:50Z,sfaafaf45454/Annoy-PyEdu-Rs,sfaafaf45454,0,0,region:us
+2026-11-15T01:32:25Z,Dr-Metal/philoprompts-v1,Dr-Metal,0,0,task_categories:text-generation; task_categories:text-classification; language:fa; language:san; language:zh; language:bal; language:gn; language:pal; language:ae; license:cc-by-4.0; size_categories:…
+2026-11-15T01:33:13Z,ASDC12SDA/Annoy-PyEdu-Rs-Raw,ASDC12SDA,0,0,region:us
+2026-11-15T01:33:13Z,ASDC12SDA/Annoy-PyEdu-Rs,ASDC12SDA,0,0,region:us
+2026-11-15T01:33:37Z,Polydim-Einsof/einsof2-training-datasets,Polydim-Einsof,0,0,task_categories:text-generation; task_categories:question-answering; language:es; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; polydim; einsof-ii; stiefel-manifold; atelier;…
+2026-11-15T01:34:52Z,MaxKannapinn/pump_2d_ultrafine_mrf,MaxKannapinn,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:100M<n<1B; doi:10.57967/hf/11645; region:us; physics; cfd; comsol; turbomachinery; cent…
+2026-11-15T01:35:30Z,infoslack/ACT-YOUTUBE-DEMO_20261114_222855,infoslack,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T01:36:40Z,asd11dasd21dd/Annoy-PyEdu-Rs,asd11dasd21dd,0,0,region:us
+2026-11-15T01:36:42Z,asd11dasd21dd/Annoy-PyEdu-Rs-Raw,asd11dasd21dd,0,0,region:us
+2026-11-15T01:38:29Z,chewiesays/yp-spacex-tweet-examples,chewiesays,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T01:38:47Z,afdasfasd/Annoy-PyEdu-Rs,afdasfasd,0,0,region:us
+2026-11-15T01:38:48Z,afdasfasd/Annoy-PyEdu-Rs-Raw,afdasfasd,0,0,region:us
+2026-11-15T01:38:50Z,hiephp2659/fshare-backup-db,hiephp2659,0,0,region:us
+2026-11-15T01:40:55Z,McParvenu/jupyter-notebooks,McParvenu,0,0,region:us
+2026-11-15T01:41:00Z,kaydennnnnnn/FireBol_AI_Code_1_1,kaydennnnnnn,0,0,language:en; language:es; language:ko; license:apache-2.0; region:us
+2026-11-15T01:41:07Z,Rosa2004/blue_valve_tcp_relative,Rosa2004,0,0,region:us
+2026-11-15T01:43:01Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-11-15T01:43:02Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-11-15T01:44:34Z,dlcformine/wedal,dlcformine,0,0,region:us
+2026-11-15T01:45:07Z,rimur01/rollout_act_so101_chunk100_steps100_camswap_20261115_104436,rimur01,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-15T01:45:22Z,arepaconcafe/project_diva,arepaconcafe,0,0,region:us
+2026-11-15T01:45:22Z,mtmtt/bigdicetower,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-15T01:48:43Z,algoritmos-mecai-usp/scania_x_component,algoritmos-mecai-usp,0,0,license:mit; region:us
+2026-11-15T01:51:56Z,RonanLabs/mom-lab-metar-medcalc,RonanLabs,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-sa-4.0; license:mit; license:other; size_categories:10K<n<100K; format:json; modality:text; library:dat…
+2026-11-15T01:52:42Z,rbtrprjkt/rollout_16mm-bar_install60E60Ract30_20261114_190955,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-15T01:52:50Z,Larrygaaga67/SophieAve,Larrygaaga67,0,1,language:en; size_categories:10K<n<100K; region:us; My
+2026-11-15T01:53:21Z,Ro551/WikiCorrupted_spanish_to_GEC-GED_v2-4,Ro551,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T01:56:50Z,zhilong777/mattext-syn,zhilong777,0,0,language:zh; language:en; license:other; size_categories:10K<n<100K; region:us; materials-science; synthesizability; crystal-structure; mattext
+2026-11-15T01:58:53Z,Shrijanagain/Speed-Speak-1B-Mx,Shrijanagain,0,0,license:apache-2.0; region:us
+2026-11-15T01:59:18Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-15T01:59:19Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-15T01:59:41Z,GioEl3/SuperUncensorer,GioEl3,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T02:00:01Z,Icey444/Judge_ranking_v5_review_assets,Icey444,0,0,license:other; region:us
+2026-11-15T02:05:11Z,tseattle/so101_pick_place_all,tseattle,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-15T02:05:38Z,jnorthrup/justicedao__dedup_ipfs_caselaw_access_project,jnorthrup,0,0,region:us
+2026-11-15T02:05:38Z,jnorthrup/justicedao__american_municipal_law,jnorthrup,0,0,language:en; license:mit; region:us; legal
+2026-11-15T02:05:38Z,jnorthrup/justicedao__ipfs_caselaw_access_project,jnorthrup,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; legal; law
+2026-11-15T02:05:39Z,jnorthrup/justicedao__Caselaw_Access_Project_embeddings,jnorthrup,0,0,license:agpl-3.0; region:us; legal; law
+2026-11-15T02:05:40Z,jnorthrup/justicedao__ipfs_state_admin_rules,jnorthrup,0,0,region:us
+2026-11-15T02:05:40Z,jnorthrup/justicedao__ipfs_uscode,jnorthrup,0,0,license:other; region:us; legal; us-code; graphrag; justicedao; public-domain-us-government
+2026-11-15T02:05:40Z,jnorthrup/justicedao__ipfs_state_laws,jnorthrup,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_categories:sentence-similarity; language:en; license:other; size_categories:100K<n<1M; region:us; legal; state-statutes; bm25;…
+2026-11-15T02:05:42Z,jnorthrup/justicedao__ipfs_federal_register,jnorthrup,0,0,language:en; license:other; region:us; legal; federal-register; graphrag; research-snapshot
+2026-11-15T02:05:42Z,jnorthrup/justicedao__ipfs_court_rules,jnorthrup,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_ids:document-retrieval; language:en; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; lib…
+2026-11-15T02:05:44Z,jnorthrup/justicedao__ipfs_netherlands_laws_vector_index,jnorthrup,0,0,language:nl; license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ipfs; cid; legal
+2026-11-15T02:05:45Z,jnorthrup/justicedao__ipfs_netherlands_laws_bm25_index,jnorthrup,0,0,language:nl; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ipfs; cid; le…
+2026-11-15T02:05:46Z,jnorthrup/justicedao__ipfs_netherlands_laws_knowledge_graph,jnorthrup,0,0,language:nl; license:other; region:us; ipfs; cid; legal
+2026-11-15T02:05:47Z,jnorthrup/justicedao__netherlands-laws-nl-normalized,jnorthrup,0,0,task_categories:text-retrieval; task_categories:question-answering; task_categories:text-classification; language:nl; license:other; region:us; law; legal; legislation; netherlands; dutch
+2026-11-15T02:05:48Z,jnorthrup/justicedao__wetwijzer_netherlands_legal_corpus,jnorthrup,0,0,task_categories:text-retrieval; task_categories:question-answering; task_categories:text-classification; language:nl; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modal…
+2026-11-15T02:05:49Z,jnorthrup/justicedao__legal-ir-autoencoder-checkpoints,jnorthrup,0,0,task_categories:text-generation; task_categories:feature-extraction; language:en; license:mit; region:us; legal-ir; autoencoder; formal-logic; compiler; decompiler; checkpoint
+2026-11-15T02:05:49Z,jnorthrup/justicedao__patent-legal-corpus,jnorthrup,0,0,license:cc0-1.0; region:us; patent; legal; justicedao; public-official; corpus
+2026-11-15T02:06:11Z,jnorthrup/justicedao__patent-legal-bm25,jnorthrup,0,0,license:cc0-1.0; region:us; patent; legal; justicedao; public-official; bm25
+2026-11-15T02:08:04Z,jnorthrup/justicedao__patent-legal-vectors,jnorthrup,0,0,license:cc0-1.0; region:us; patent; legal; justicedao; public-official; vectors
+2026-11-15T02:10:39Z,jnorthrup/justicedao__patent-legal-ir-graphrag,jnorthrup,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_categories:graph-ml; language:en; license:other; size_categories:1K<n<10K; region:us; bm25; embeddings; graphrag; patent; lega…
+2026-11-15T02:10:39Z,jnorthrup/justicedao__patent-legal-knowledge-graph,jnorthrup,0,0,license:cc0-1.0; region:us; patent; legal; justicedao; public-official; knowledge-graph
+2026-11-15T02:10:39Z,jnorthrup/justicedao__ipfs_argentina_laws-ir,jnorthrup,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice
+2026-11-15T02:10:39Z,jnorthrup/justicedao__ipfs_malta_laws-ir,jnorthrup,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice
+2026-11-15T02:12:46Z,jnorthrup/justicedao__ipfs_malta_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; malta
+2026-11-15T02:12:57Z,sadasgasdsdfa/Annoy-PyEdu-Rs,sadasgasdsdfa,0,0,region:us
+2026-11-15T02:12:57Z,jnorthrup/justicedao__ipfs_singapore_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; singapore
+2026-11-15T02:13:03Z,jnorthrup/justicedao__ipfs_israel_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:he; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; israel
+2026-11-15T02:13:14Z,jnorthrup/justicedao__ipfs_kuwait_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ar; language:en; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; kuwait
+2026-11-15T02:13:21Z,jnorthrup/justicedao__ipfs_uae_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; language:ar; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; uae
+2026-11-15T02:13:26Z,jnorthrup/justicedao__ipfs_egypt_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ar; language:en; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; egypt
+2026-11-15T02:13:36Z,jnorthrup/justicedao__ipfs_hungary_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:hu; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; hungary
+2026-11-15T02:13:37Z,jnorthrup/justicedao__ipfs_thailand_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:th; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; thailand
+2026-11-15T02:13:47Z,jnorthrup/justicedao__ipfs_ireland_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; ireland
+2026-11-15T02:14:15Z,jnorthrup/justicedao__ipfs_bangladesh_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; bangladesh
+2026-11-15T02:14:30Z,jnorthrup/justicedao__ipfs_nigeria_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; nigeria
+2026-11-15T02:14:30Z,jnorthrup/justicedao__ipfs_estonia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:et; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; estonia
+2026-11-15T02:14:41Z,jnorthrup/justicedao__ipfs_saudiarabia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ar; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; saudiarabia
+2026-11-15T02:14:42Z,jnorthrup/justicedao__ipfs_pakistan_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; pakistan
+2026-11-15T02:14:47Z,jnorthrup/justicedao__ipfs_southafrica_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; language:mul; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; southafrica
+2026-11-15T02:14:48Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.0_g9_run0,stefanocarrera,0,0,region:us
+2026-11-15T02:14:58Z,jnorthrup/justicedao__ipfs_greece_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:el; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; greece
+2026-11-15T02:14:59Z,jnorthrup/justicedao__ipfs_philippines_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice; philippines
+2026-11-15T02:15:25Z,jnorthrup/justicedao__ipfs_kenya_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; kenya
+2026-11-15T02:15:35Z,jnorthrup/justicedao__ipfs_malaysia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:en; language:ms; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; malaysia
+2026-11-15T02:15:48Z,jnorthrup/justicedao__ipfs_germany_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:de; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; germany
+2026-11-15T02:16:07Z,jnorthrup/justicedao__ipfs_czechia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:cs; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; czechia
+2026-11-15T02:16:07Z,jnorthrup/justicedao__ipfs_sweden_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice; sweden
+2026-11-15T02:16:16Z,jnorthrup/justicedao__ipfs_slovakia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:sk; license:other; size_categories:1K<n<10K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; slovakia
+2026-11-15T02:16:16Z,jnorthrup/justicedao__ipfs_switzerland_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:de; language:fr; language:it; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; switzerland
+2026-11-15T02:16:44Z,jnorthrup/justicedao__ipfs_netherlands_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:nl; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; netherlands
+2026-11-15T02:16:48Z,jnorthrup/justicedao__ipfs_qatar_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ar; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; qatar
+2026-11-15T02:16:59Z,jnorthrup/justicedao__ipfs_austria_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:de; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; austria
+2026-11-15T02:17:05Z,jnorthrup/justicedao__ipfs_chile_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:es; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; chile
+2026-11-15T02:17:14Z,jnorthrup/justicedao__ipfs_china_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:zh; language:en; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; china
+2026-11-15T02:17:26Z,jnorthrup/justicedao__ipfs_vietnam_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:vi; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; vietnam
+2026-11-15T02:17:31Z,jnorthrup/justicedao__ipfs_latvia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:lv; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; latvia
+2026-11-15T02:17:38Z,jnorthrup/justicedao__ipfs_slovenia_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:sl; license:other; size_categories:1M<n<10M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; slovenia
+2026-11-15T02:17:38Z,jnorthrup/justicedao__ipfs_italy_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:it; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; italy
+2026-11-15T02:18:18Z,jnorthrup/justicedao__ipfs_romania_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ro; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; romania
+2026-11-15T02:18:22Z,jnorthrup/justicedao__ipfs_iceland_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:is; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; iceland
+2026-11-15T02:18:33Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-15T02:18:33Z,jnorthrup/justicedao__ipfs_morocco_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ar; language:fr; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; morocco
+2026-11-15T02:18:34Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-15T02:18:37Z,jnorthrup/justicedao__ipfs_bulgaria_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:bg; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; bulgaria
+2026-11-15T02:18:49Z,jnorthrup/justicedao__ipfs_cyprus_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:el; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; cyprus
+2026-11-15T02:18:58Z,jnorthrup/justicedao__ipfs_oman_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice; oman
+2026-11-15T02:19:02Z,jnorthrup/justicedao__ipfs_myanmar_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:my; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; myanmar
+2026-11-15T02:19:21Z,jnorthrup/justicedao__ipfs_japan_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:ja; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; japan
+2026-11-15T02:19:26Z,jnorthrup/justicedao__ipfs_dominicanrepublic_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:es; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; dominicanrepublic
+2026-11-15T02:19:40Z,jnorthrup/justicedao__ipfs_serbia_laws_ir,jnorthrup,0,0,region:us
+2026-11-15T02:19:46Z,jnorthrup/justicedao__ipfs_albania_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:sq; license:other; size_categories:100K<n<1M; region:us; legal; law; graphrag; bm25; research; not-legal-advice; albania
+2026-11-15T02:19:50Z,jnorthrup/justicedao__ipfs_algeria_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:fr; language:ar; language:pt; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; algeria
+2026-11-15T02:19:56Z,jnorthrup/justicedao__ipfs_iran_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:fa; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; iran
+2026-11-15T02:19:59Z,materials-industrial-ai/Cooling-Water-Chemistry-and-Treatment-Answer-Verification-Dataset,materials-industrial-ai,0,0,license:cc-by-nc-4.0; region:us
+2026-11-15T02:20:20Z,jnorthrup/justicedao__ipfs_azerbaijan_laws_ir,jnorthrup,0,0,task_categories:text-retrieval; language:az; license:other; size_categories:10K<n<100K; region:us; legal; law; graphrag; bm25; research; not-legal-advice; azerbaijan
+2026-11-15T02:20:28Z,jnorthrup/justicedao__ipfs_tunisia_laws_ir,jnorthrup,0,0,region:us
+2026-11-15T02:20:32Z,jnorthrup/justicedao__ipfs_angola_laws_ir,jnorthrup,0,0,region:us
