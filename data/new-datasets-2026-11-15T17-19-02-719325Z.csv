@@ -1,0 +1,73 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T16:21:03Z,Yuki-0916/rlbench18_kp,Yuki-0916,0,0,region:us
+2026-11-15T16:21:14Z,TornadoLabs/haim,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-4.0; size_categories:n<1K; modality:text; modality:video; region:us; video; y…
+2026-11-15T16:21:21Z,TornadoLabs/ave-dataset,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; size_categories:n<1K; format:json; modality:text; modality:video; library:datas…
+2026-11-15T16:21:27Z,TornadoLabs/audiocaps,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:text; modality:video; region:us; vide…
+2026-11-15T16:21:36Z,TornadoLabs/avqa-processed,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; size_categories:1K<n<10K; format:json; modality:text; modality:video; library:d…
+2026-11-15T16:21:42Z,TornadoLabs/koala-36m-v1,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; size_categories:n<1K; format:json; modality:text; modality:video; library:datas…
+2026-11-15T16:21:49Z,TornadoLabs/linustechtips-transcript-audio,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; size_categories:n<1K; format:json; modality:text; modality:video; library:datas…
+2026-11-15T16:21:53Z,liquilens/seiche-ecb-reference-fx,liquilens,0,0,language:en; license:other; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; foreign-exchange; ecb; re…
+2026-11-15T16:21:55Z,TornadoLabs/longvale,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality:text; modality:video; region:us; v…
+2026-11-15T16:22:04Z,TornadoLabs/mmvu,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; size_categories:n<1K; format:json; modality:text; modality:video; library:datas…
+2026-11-15T16:22:09Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-15T16:22:09Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-15T16:22:12Z,TornadoLabs/molmo2,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality:text; modality:video; region:us; v…
+2026-11-15T16:22:22Z,TornadoLabs/omnipro,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-4.0; size_categories:1K<n<10K; modality:text; modality:video; region:us; vide…
+2026-11-15T16:22:28Z,TornadoLabs/youtube-transcriptions-audio,TornadoLabs,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; license:other; size_categories:n<1K; format:json; modality:text; modality:audio; library:datasets; library:pandas;…
+2026-11-15T16:23:10Z,duyle2408/oacp-r2-qualitative-pairs-20261115,duyle2408,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-15T16:23:26Z,mjf-su/ajs-inputs,mjf-su,0,0,region:us
+2026-11-15T16:25:12Z,TornadoLabs/talkvid-video,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:cc-by-nc-4.0; size_categories:n<1K; modality:text; modality:video; region:us; video; y…
+2026-11-15T16:25:29Z,unistrength/demande-recherche-materiel-musculation-france,unistrength,0,0,language:fr; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; musculation; f…
+2026-11-15T16:27:36Z,isaxtsystems/quiz-corpus,isaxtsystems,0,0,task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; region:us; trivia; quiz; retrieval
+2026-11-15T16:27:54Z,Matghost7/franka_depth_merged,Matghost7,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T16:27:54Z,Siddharth156/skit-s2i,Siddharth156,0,0,task_categories:audio-classification; task_categories:automatic-speech-recognition; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; libra…
+2026-11-15T16:30:54Z,CertainLogicAI/qwen15b-ft-training-data,CertainLogicAI,0,0,region:us
+2026-11-15T16:32:28Z,quan030106/sketchy_photos,quan030106,0,0,license:mit; region:us
+2026-11-15T16:38:08Z,knight7024/rollout_pick_and_place_hair_roll_final_20261116_013758,knight7024,0,0,region:us
+2026-11-15T16:39:41Z,Bluexxx/MR-Bench-H,Bluexxx,0,0,task_categories:text-classification; task_ids:sentiment-classification; language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; modality:audio; region:us; multimodal; se…
+2026-11-15T16:40:08Z,YilunKuang/metaworld-basketball-3view,YilunKuang,0,0,license:cc-by-4.0; region:us; jepa-agent; metaworld; robotics; world-model
+2026-11-15T16:42:08Z,knight7024/rollout_pick_and_place_hair_roll_final_20261116_013845,knight7024,0,0,region:us
+2026-11-15T16:42:57Z,AZH04/unified-training-multitask-sft-data,AZH04,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1M<n<10M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-15T16:43:13Z,nolimitsxl/wazobia-asr-data,nolimitsxl,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-15T16:43:26Z,Lukaszewicz/planet2vec,Lukaszewicz,0,0,region:us
+2026-11-15T16:44:42Z,dbaltas/inference-api-benchmark-mastori,dbaltas,0,0,license:cc-by-4.0; region:us
+2026-11-15T16:45:36Z,cringenius/PHD08,cringenius,0,0,region:us
+2026-11-15T16:46:00Z,ha55an-hg/lexsi-hum-track2-data,ha55an-hg,0,0,task_categories:text-generation; language:en; language:hi; language:bn; region:us; safety; red-teaming; refusal; multilingual
+2026-11-15T16:46:31Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.5_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T16:47:30Z,pyrod3v/Kimi-K3-STEM-Reasoning-750,pyrod3v,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; arxiv:2607.24653; region:us; distillation; reasoning; sft; math; physics; chemistry; logic; science; stem
+2026-11-15T16:48:21Z,agentlans/random-fiction-paragraphs,agentlans,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; region:us; creative-writing; genre-classification; synthetic-data; project-gutenberg
+2026-11-15T16:48:23Z,po03087/xd-0d56d028,po03087,0,0,region:us
+2026-11-15T16:48:56Z,sdsfsf56/Annoy-PyEdu-Rs,sdsfsf56,0,0,region:us
+2026-11-15T16:48:57Z,sdsfsf56/Annoy-PyEdu-Rs-Raw,sdsfsf56,0,0,region:us
+2026-11-15T16:49:00Z,ASDBZVCZXQF/Annoy-PyEdu-Rs,ASDBZVCZXQF,0,0,region:us
+2026-11-15T16:49:01Z,ASDBZVCZXQF/Annoy-PyEdu-Rs-Raw,ASDBZVCZXQF,0,0,region:us
+2026-11-15T16:51:49Z,ChahediCodeLabs/m2tmnxslv-zarr,ChahediCodeLabs,0,0,region:us
+2026-11-15T16:54:09Z,Jhyyynie/Jihyun,Jhyyynie,0,0,license:openrail; region:us
+2026-11-15T16:54:18Z,MOREN808/pocket-safety-evals,MOREN808,0,0,task_categories:text-generation; language:en; language:sw; language:yo; language:ha; language:ig; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library…
+2026-11-15T16:56:32Z,sharan-nagarajan/what-they-meant,sharan-nagarajan,0,0,region:us
+2026-11-15T16:57:33Z,cringenius/HangulPrinted,cringenius,0,0,license:mit; region:us
+2026-11-15T16:57:54Z,danielrosehill/Taxonomy-Of-AI,danielrosehill,0,0,license:cc-by-4.0; region:us; model-classification; taxonomy; hugging-face-hub
+2026-11-15T16:58:06Z,JamesSeegel/lab12-skin-tone-audit,JamesSeegel,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T16:58:28Z,Kkbo123/vpv-dp-states,Kkbo123,0,0,region:us
+2026-11-15T17:02:31Z,gokhanustaosmanoglu/merch-tr-intent,gokhanustaosmanoglu,0,0,task_categories:text-classification; task_categories:token-classification; language:tr; license:cc-by-4.0; size_categories:1K<n<10K; region:us; turkish; retail; merchandising; intent-classification;…
+2026-11-15T17:02:31Z,taemin-park/two-tongues-processed,taemin-park,0,0,region:us
+2026-11-15T17:04:37Z,Masum22224/ai-model-api-prices,Masum22224,0,0,license:cc-by-4.0; region:us; llm; pricing; ai; api; openai; anthropic; gemini
+2026-11-15T17:04:42Z,Masum22224/gulf-remittance-rates,Masum22224,0,0,license:cc-by-4.0; region:us; finance; remittance; exchange-rates; gcc; bangladesh; migration
+2026-11-15T17:06:25Z,norjordAI/nibio_nor_agriculture_bench_normistral_verified_by_commandaplus,norjordAI,0,0,region:us
+2026-11-15T17:07:55Z,jdjdje8383/zqtrace1,jdjdje8383,0,0,region:us
+2026-11-15T17:08:09Z,TUaxhuiax/yahoo-finance_filesystem_terminal_playwright_with_chunk_excel_fetch_huggingface_3081-e4b7a1c6,TUaxhuiax,0,0,region:us
+2026-11-15T17:08:14Z,ultarasonic-penguin/sensorcade-v0.1,ultarasonic-penguin,0,0,license:cc-by-4.0; region:us
+2026-11-15T17:09:35Z,TUaxhuiax/northbridge-rail-inventory-2611-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T17:09:40Z,TUaxhuiax/northbridge-dispatch-NB-2611-HGH-prev-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T17:09:42Z,TUaxhuiax/northbridge-dispatch-NB-2611-HGH-draft-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T17:09:44Z,TUaxhuiax/northbridge-dispatch-NB-2611-HGH-final-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T17:09:46Z,ClarusC64/AF-RECOND-01,ClarusC64,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; airframe; apertience; relational-reasoning; constraint-revision; synthetic-data; reasoning-evaluat…
+2026-11-15T17:09:47Z,TUaxhuiax/northbridge-2611-route-notes-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T17:09:48Z,YoKONCy/MERU-ImageNet-1M,YoKONCy,0,0,region:us
+2026-11-15T17:11:00Z,jdk567/lunalink-data,jdk567,0,0,license:mit; region:us
+2026-11-15T17:12:31Z,Shanahancn/Annoy-PyEdu-Rs-Raw,Shanahancn,0,0,region:us
+2026-11-15T17:12:31Z,Shanahancn/Annoy-PyEdu-Rs,Shanahancn,0,0,region:us
+2026-11-15T17:14:15Z,Alexey240577/2048_1794762080,Alexey240577,0,0,region:us
+2026-11-15T17:15:01Z,thaki-AI/daily-paper-2026-11-16-bit-debt-quantized-agent-loop,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; llm-quantization; multi-step-agent-loops; compounded-error-drift; cost-per-completed-loop; nvfp4; h200-serving; tool-calling; pre-registered-protocol
+2026-11-15T17:16:33Z,edde215/arbre-local,edde215,0,0,region:us
+2026-11-15T17:18:29Z,ardanar0/DENTEX,ardanar0,0,0,task_categories:object-detection; task_categories:image-classification; license:cc-by-nc-sa-4.0; arxiv:2305.19112; region:us; medical; x-ray; dental
