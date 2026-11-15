@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T18:22:04Z,awwkl/zwm-tapvid-davis-eval,awwkl,0,0,task_categories:other; license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arxiv:1704.00675; region:us; point-tracking; optical-flo…
+2026-11-15T18:22:07Z,AI4Agric/ASR-Kikuyu,AI4Agric,0,0,task_categories:automatic-speech-recognition; language:ki; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissa…
+2026-11-15T18:22:29Z,AI4Agric/ASR-Kalenjin,AI4Agric,0,0,task_categories:automatic-speech-recognition; language:kln; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroiss…
+2026-11-15T18:23:06Z,anonymous-abc123/Uniphys-Bench,anonymous-abc123,0,0,region:us
+2026-11-15T18:23:11Z,LGirrbach/uc-benchmark,LGirrbach,0,0,task_categories:visual-question-answering; task_categories:zero-shot-classification; language:en; size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:d…
+2026-11-15T18:24:08Z,Alexey240577/matematika_11,Alexey240577,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T18:24:31Z,Alexey240577/2048_1794766823,Alexey240577,0,0,region:us
+2026-11-15T18:24:33Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.5_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T18:27:08Z,fdsfaf3434/zqds,fdsfaf3434,0,0,task_categories:text-classification; language:en; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zq
+2026-11-15T18:27:22Z,SaarAI/waxal-amharic-autolabeled-v2,SaarAI,0,0,task_categories:automatic-speech-recognition; language:am; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:pol…
+2026-11-15T18:27:39Z,bullseye77/gitzy-explainers,bullseye77,0,0,size_categories:n<1K; modality:image; modality:tabular; modality:text; modality:video; region:us
+2026-11-15T18:28:30Z,aura-lab-wm/traceharness-runs,aura-lab-wm,0,0,license:mit; size_categories:1K<n<10K; region:us; coding-agents; agent-trajectories; software-engineering; evaluation
+2026-11-15T18:30:27Z,momererkoc/turkish-socratic-tutoring-dialogues,momererkoc,0,0,task_categories:text-generation; language:tr; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-15T18:30:44Z,Maxi-online/lidar-perception-synthetic-fixture,Maxi-online,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lidar; point-cloud; syn…
+2026-11-15T18:30:58Z,cfahlgren1/objects,cfahlgren1,0,0,license:cc-by-4.0; license:apache-2.0; size_categories:10K<n<100K; modality:3d; modality:image; modality:tabular; modality:text; library:datasets; library:mlcroissant; arxiv:2610.11322; region:us; si…
+2026-11-15T18:31:01Z,hermitdave/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-imatrix,hermitdave,0,0,region:us
+2026-11-15T18:31:22Z,Alexey240577/chars_1794767449,Alexey240577,0,0,region:us
+2026-11-15T18:32:35Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-15T18:32:36Z,fdsfaf3434/dssgrammar,fdsfaf3434,0,0,format:csv; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T18:34:35Z,GarethFW/AI_Accessibility_Maturity_Model,GarethFW,0,0,license:mit; region:us
+2026-11-15T18:37:09Z,tropicalfrog/wikipedia_facts_L1L2_reversed,tropicalfrog,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; fact-reversal; synthetic; fine-tuning
+2026-11-15T18:37:41Z,usmanbilytica/gulf-text-to-sql-bench,usmanbilytica,0,0,task_categories:table-question-answering; task_categories:text-generation; language:ar; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pan…
+2026-11-15T18:40:16Z,HCAI-Lab-GT/casting-call-vectors,HCAI-Lab-GT,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2608.00023; arxi…
+2026-11-15T18:42:26Z,Alexey240577/2048_1794768129,Alexey240577,0,0,region:us
+2026-11-15T18:43:07Z,Mohammad72862/csrp-game-cache,Mohammad72862,0,0,region:us
+2026-11-15T18:44:21Z,g1n0st/635b1157d10d6b1fecf05f68ffc17de6948de2d6,g1n0st,0,0,region:us
+2026-11-15T18:45:15Z,teamsleeping/Debate-EMO,teamsleeping,0,0,license:mit; region:us
+2026-11-15T18:45:33Z,IAVITOR/ai-training-pay-by-profession,IAVITOR,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; labor-market; ai-t…
+2026-11-15T18:45:44Z,PureOne/Nhaixoru-Luxeirai,PureOne,0,0,language:en; size_categories:n<1K; modality:tabular; arxiv:1607.04868; arxiv:1709.09707; region:us; mathematics; hyperfields; matroids; quotient-matroids; symbolic-reasoning; exact-arithmetic; certif…
+2026-11-15T18:46:46Z,adnduarte/juxa-legal-bench,adnduarte,0,0,language:es; license:apache-2.0; region:us; legal; benchmark; evaluation; juxa; jx-1-nano
+2026-11-15T18:46:46Z,adnduarte/jx-1-nano-instruct,adnduarte,0,0,task_categories:text-generation; language:es; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-15T18:47:42Z,ivandirndrio/english-synthetic-speech-corpus,ivandirndrio,0,1,task_categories:text-to-speech; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcr…
+2026-11-15T18:51:52Z,HyeonSang/exp039_sol_next98,HyeonSang,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:document; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T18:52:14Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-15T18:52:15Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-15T18:52:57Z,asfdsaassad/Annoy-PyEdu-Rs,asfdsaassad,0,0,region:us
+2026-11-15T18:52:58Z,asfdsaassad/Annoy-PyEdu-Rs-Raw,asfdsaassad,0,0,region:us
+2026-11-15T18:52:58Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-15T18:52:59Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-15T18:53:31Z,The-Adimension/ARCAID-2026-replays,The-Adimension,0,0,license:other; size_categories:100K<n<1M; region:us; arc-agi; arc-agi-3; arc-prize-2026; agents
+2026-11-15T18:53:57Z,Rishi-123/sentinel-v3-benchmark,Rishi-123,0,0,task_categories:text-classification; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-security; p…
+2026-11-15T18:54:48Z,norjordAI/plantevernleksikonet_nor_agriculture_bench_normistral_verified_by_commandaplus,norjordAI,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T18:55:21Z,drimranbhatti/global-firm-financials,drimranbhatti,0,0,region:us
+2026-11-15T18:59:39Z,Alexey240577/github_trending_20261115,Alexey240577,0,0,region:us
+2026-11-15T19:00:08Z,TUaxhuiax/fset3102q7m4-south-america-logistics-costs-2026-monthly-cleaned,TUaxhuiax,0,0,region:us
+2026-11-15T19:00:11Z,TUaxhuiax/fset3102q7m4-south-america-logistics-costs-shipment-level-2026,TUaxhuiax,0,0,region:us
+2026-11-15T19:00:14Z,TUaxhuiax/fset3102q7m4-south-america-logistics-costs-audit-extract,TUaxhuiax,0,0,region:us
+2026-11-15T19:00:41Z,YasenDzhenkov/spherex-triage-data,YasenDzhenkov,0,0,license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; astronomy; spherex; infrared; tabular
+2026-11-15T19:02:53Z,g1n0st/ea0a6c9b94967ab6a48faf925141f88ac6baabce,g1n0st,0,0,region:us
+2026-11-15T19:04:21Z,g1n0st/3c3c1bdc8979e60b21e5054f8a90b17852cf323c,g1n0st,0,0,region:us
+2026-11-15T19:06:58Z,zentriaflow/section-338-canada-tariff-lines,zentriaflow,0,0,license:cc-by-4.0; region:us
+2026-11-15T19:08:18Z,byaiaboutai/blue-fairy,byaiaboutai,0,0,region:us
+2026-11-15T19:08:48Z,Alexey240577/chars_1794768886,Alexey240577,0,0,region:us
+2026-11-15T19:13:22Z,g1n0st/b0647624c57b09ee696b351157eb83682c862035,g1n0st,0,0,region:us
+2026-11-15T19:13:23Z,terranova-robotics/south-pole-landing-ellipse,terranova-robotics,0,0,license:cc-by-4.0; size_categories:n<1K; doi:10.57967/hf/11652; region:us; lunar; south-pole; landing-site; landing-dispersion; terrain; uncertainty-quantification; LOLA; cloud-optimized-geotiff
+2026-11-15T19:13:27Z,Hitansh05/eli5_category,Hitansh05,0,0,task_ids:abstractive-qa; task_ids:open-domain-abstractive-qa; annotations_creators:found; language_creators:found; multilinguality:monolingual; source_datasets:extended|eli5; language:en; license:unk…
+2026-11-15T19:13:37Z,Alexey240577/2048_1794769160,Alexey240577,0,0,region:us
+2026-11-15T19:13:55Z,Alexey240577/biologiya_11,Alexey240577,0,0,region:us
+2026-11-15T19:14:06Z,larpchan/lllc-v18-training-runs,larpchan,0,0,region:us
+2026-11-15T19:14:11Z,DenisIndenbom/vla-paradigms-data,DenisIndenbom,0,1,region:us; lerobot; so101; robotics; imitation-learning; vision-language-action
+2026-11-15T19:14:25Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-rail-inventory-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T19:14:31Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-prev-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T19:14:34Z,terranova-robotics/south-pole-ejecta-shadow,terranova-robotics,0,0,license:cc-by-4.0; size_categories:n<1K; arxiv:2104.07669; arxiv:2305.12234; doi:10.57967/hf/11653; region:us; lunar; south-pole; landing-site; plume-surface-interaction; ejecta; terrain; LOLA; cloud…
+2026-11-15T19:14:41Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-draft-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T19:14:45Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-final-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T19:14:52Z,g1n0st/0ffe9deb70a83a296905a9614495262352736a8d,g1n0st,0,0,region:us
+2026-11-15T19:14:53Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-nb2611-route-notes-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-15T19:16:03Z,otto-95/isaaclab-test,otto-95,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-15T19:16:38Z,TUaxhuiax/yahoo-finance_filesystem_terminal_playwright_with_chunk_excel_fetch_huggingface_3081-e4b7a1c6,TUaxhuiax,0,0,region:us
+2026-11-15T19:16:50Z,g1n0st/8e4aee2496eaab97df30333652ef84d6f64f7496,g1n0st,0,0,region:us
+2026-11-15T19:17:13Z,camtran3506/lifemate-zac2026-data,camtran3506,0,0,region:us
