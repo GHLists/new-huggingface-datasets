@@ -1,0 +1,55 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-14T23:22:18Z,gamaadada/esp,gamaadada,0,0,region:us
+2026-11-14T23:22:53Z,RoboCrafty/rebot_leap_tmp1_20261115_001918,RoboCrafty,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-14T23:23:09Z,ZXC1ESACXZCAS/Annoy-PyEdu-Rs-Raw,ZXC1ESACXZCAS,0,0,region:us
+2026-11-14T23:23:09Z,ZXC1ESACXZCAS/Annoy-PyEdu-Rs,ZXC1ESACXZCAS,0,0,region:us
+2026-11-14T23:27:58Z,Quajak/blocks_right_blue_move_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:29:30Z,Quajak/blocks_left_yellow_move_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:29:41Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-14T23:29:41Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-14T23:30:20Z,yangsuyu/chicago-food-inspections,yangsuyu,0,1,license:unknown; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T23:30:38Z,ITLL/GPT-5.5-Thinking-Max-Distill-25k,ITLL,0,0,language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; gpt-5-5; thinking-max-distil…
+2026-11-14T23:32:04Z,Quajak/blocks_left_yellow_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:32:55Z,RoboCrafty/rebot_leap_tmp1_20261115_002837,RoboCrafty,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-14T23:36:26Z,Quajak/blocks_right_purple_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:37:45Z,Quajak/blocks_bottom_red_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:39:12Z,bhoomikaa7/data266-lab2-team46-part2-generations,bhoomikaa7,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-14T23:42:23Z,PraiseA/specter-v3-results,PraiseA,0,0,region:us
+2026-11-14T23:42:51Z,ITLL/claude_opus_4.8_max_thinking_5k_v2,ITLL,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T23:44:20Z,rbtrprjkt/rollout_16mm-bar_install30Ract30_act150_20261114_174157,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-14T23:46:27Z,courtrules/court-rules-ai-disclosure-orders,courtrules,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; law; legal; courts; judges; artificial-intelligence; standing-orders; united-states
+2026-11-14T23:46:41Z,ITLL/claude-opus-4.8-distill-5k,ITLL,0,0,license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T23:49:19Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.0_g8_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T23:50:13Z,po03087/xr-0926ccf1,po03087,0,0,region:us
+2026-11-14T23:51:15Z,saadat-face/prompt-injections,saadat-face,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-14T23:52:01Z,rbtrprjkt/rollout_16mm-bar_install60E30Ract30_20261114_174625,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-14T23:54:55Z,PrimarchMI/TAC_Training,PrimarchMI,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars…
+2026-11-14T23:55:28Z,danish-foundation-models/danish-dyna-instruct,danish-foundation-models,0,0,region:us
+2026-11-14T23:55:52Z,DSADSD12SZC/Annoy-PyEdu-Rs,DSADSD12SZC,0,0,region:us
+2026-11-14T23:55:53Z,DSADSD12SZC/Annoy-PyEdu-Rs-Raw,DSADSD12SZC,0,0,region:us
+2026-11-14T23:55:59Z,C3Nt0/nora-v2.2-eval-conv-3k,C3Nt0,0,0,language:it; license:apache-2.0; region:us; nora; evaluation; multi-turn; engram
+2026-11-14T23:56:49Z,ChestyAndy/H3-Assets,ChestyAndy,0,0,region:us
+2026-11-14T23:56:52Z,iamnoooby/support_tickets_intent,iamnoooby,0,0,region:us
+2026-11-14T23:57:03Z,Quajak/blocks_left_green_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-14T23:57:09Z,sfafasfa2324/Annoy-PyEdu-Rs,sfafasfa2324,0,0,region:us
+2026-11-14T23:57:09Z,sfafasfa2324/Annoy-PyEdu-Rs-Raw,sfafasfa2324,0,0,region:us
+2026-11-14T23:57:09Z,asd1dsa21/Annoy-PyEdu-Rs,asd1dsa21,0,0,region:us
+2026-11-14T23:57:10Z,asd1dsa21/Annoy-PyEdu-Rs-Raw,asd1dsa21,0,0,region:us
+2026-11-14T23:59:52Z,ITLL/GPT_5.5_Distilled,ITLL,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-15T00:03:31Z,rbtrprjkt/rollout_16mm-bar_install60E30Ract30_20261114_175245,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-15T00:04:01Z,courtrules/court-rules-courtesy-copies,courtrules,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; law; legal; courts; judges; courtesy-copies; standing-orders; united-states
+2026-11-15T00:04:01Z,ITLL/claude_mythos_distilled_25k,ITLL,0,0,language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; claude; mythos; d…
+2026-11-15T00:04:31Z,DiogenesLab/Diogenes_Legacy_Capture_Videos_Archive_v01,DiogenesLab,0,0,license:other; size_categories:n<1K; modality:video; region:us; video; archival; gameplay; non-trainable
+2026-11-15T00:05:41Z,Quajak/blocks_right_green_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-15T00:09:28Z,rimur01/rollout_act_so101_chunk10_50k_20261115_090810,rimur01,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-15T00:11:24Z,courtrules/court-rules-2027-court-holidays,courtrules,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; law; legal; courts; court-holidays; calendars; united-states
+2026-11-15T00:15:38Z,courtrules/court-rules-junior-lawyer-incentives,courtrules,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; law; legal; courts; judges; junior-lawyers; standing-orders; united-states
+2026-11-15T00:15:45Z,ASDBXNSFASD/Annoy-PyEdu-Rs,ASDBXNSFASD,0,0,region:us
+2026-11-15T00:16:12Z,Quajak/blocks_top_green_push_4,Quajak,0,0,"task_categories:robotics; region:us; LeRobot; Aloha,Blocks"
+2026-11-15T00:16:16Z,ASDBXNSFASD/Annoy-PyEdu-Rs-Raw,ASDBXNSFASD,0,0,region:us
+2026-11-15T00:16:22Z,rbtrprjkt/rollout_16mm-bar_install60E30Ract30_20261114_180431,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-15T00:16:32Z,rimur01/rollout_act_so101_chunk10_50k_r2_20261115_091404,rimur01,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-15T00:16:45Z,DNielen/cfpb-consumer-complaints,DNielen,0,0,license:other; region:us
+2026-11-15T00:17:03Z,apshampa/deep-fake-face-swap,apshampa,0,0,region:us
+2026-11-15T00:17:51Z,sa12cse21dszxc/Annoy-PyEdu-Rs,sa12cse21dszxc,0,0,region:us
+2026-11-15T00:17:52Z,sa12cse21dszxc/Annoy-PyEdu-Rs-Raw,sa12cse21dszxc,0,0,region:us
