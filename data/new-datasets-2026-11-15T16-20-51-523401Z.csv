@@ -1,0 +1,77 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-15T15:22:35Z,enigmanetwork/android13-mobile-gui-trajectories-v2-sample-100,enigmanetwork,0,0,task_categories:image-text-to-text; task_categories:robotics; task_categories:visual-question-answering; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:image; modality…
+2026-11-15T15:23:13Z,mineria-agentic-datasets/image_text_decision_mix,mineria-agentic-datasets,0,0,task_categories:question-answering; task_categories:visual-question-answering; task_categories:text-classification; language:en; language:az; language:kk; language:uz; language:ky; language:zh; langu…
+2026-11-15T15:24:29Z,alea-institute/alea-defterms-meaning,alea-institute,0,0,task_categories:text-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; lib…
+2026-11-15T15:25:06Z,soupiesoup/Medical-Reasoning-SFT-GPT-OSS-120B,soupiesoup,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-11-15T15:26:00Z,hritikjaiswal/phreshphish,hritikjaiswal,0,0,task_categories:text-classification; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2507.10854…
+2026-11-15T15:26:39Z,ChahediCodeLabs/m2tmnxslv-zarr,ChahediCodeLabs,0,0,region:us
+2026-11-15T15:27:38Z,DAHGJSAD/Annoy-PyEdu-Rs,DAHGJSAD,0,0,region:us
+2026-11-15T15:27:39Z,DAHGJSAD/Annoy-PyEdu-Rs-Raw,DAHGJSAD,0,0,region:us
+2026-11-15T15:27:39Z,DKU-STATS201-Autumn2026/yuanjun-du-robot-metrics-pilot,DKU-STATS201-Autumn2026,0,0,task_categories:tabular-classification; language:en; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:25…
+2026-11-15T15:36:14Z,regicid/guardian_sample_my580,regicid,0,0,task_categories:token-classification; task_categories:text-classification; language:en; size_categories:1K<n<10K; region:us
+2026-11-15T15:37:08Z,flashdata-dev/bvd-urls-sample,flashdata-dev,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2608.24845; region:us; video-metadata; youtube; fl…
+2026-11-15T15:37:19Z,flashdata-dev/youtube-commons-transcript-sample,flashdata-dev,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; video-metadata…
+2026-11-15T15:38:06Z,GarethFW/Closed_Caption_Subtitles,GarethFW,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; accessibility; captions…
+2026-11-15T15:38:08Z,flashdata-dev/yt-temporal-1b-tempura-sample,flashdata-dev,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2505.01583; arxiv:2201.02639; region:…
+2026-11-15T15:38:31Z,flashdata-dev/howto100m-reference-sample,flashdata-dev,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; video-metadat…
+2026-11-15T15:38:51Z,iamskalamin/novia-support-knowledge,iamskalamin,0,0,region:us
+2026-11-15T15:39:34Z,shubhamrgandhi/teacher-guided-vlm-rl-eval-logs,shubhamrgandhi,0,0,license:mit; region:us
+2026-11-15T15:42:11Z,Hqowl/so101_stack_4_blocks_20261115_103919,Hqowl,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-15T15:42:21Z,Hfricke/block_v1_20261115_103050,Hfricke,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-15T15:43:21Z,taemin-park/two_tongues_personal,taemin-park,0,0,region:us
+2026-11-15T15:43:26Z,samliumay/FPV-Kamikaze-Drone-Action-Dataset,samliumay,0,0,task_categories:robotics; size_categories:n<1K; modality:video; region:us; video; world-model; fpv; game; simulation; actions
+2026-11-15T15:44:47Z,lindsay1234/aloha_v21_test,lindsay1234,0,0,task_categories:robotics; license:mit; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcro…
+2026-11-15T15:45:02Z,riponoob/rrflux-game,riponoob,0,0,region:us
+2026-11-15T15:47:13Z,eeeeerrrr4/Annoy-PyEdu-Rs-Raw,eeeeerrrr4,0,0,region:us
+2026-11-15T15:47:13Z,eeeeerrrr4/Annoy-PyEdu-Rs,eeeeerrrr4,0,0,region:us
+2026-11-15T15:47:31Z,phiba/Dice2_20261115_163146,phiba,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-15T15:47:33Z,GarethFW/Accessible_Charts_Graphs_and_Maps,GarethFW,0,0,language:en; license:mit; modality:text; region:us; accessibility; charts; maps; data-visualisation; inclusive-design; text
+2026-11-15T15:47:39Z,litonglu/geometry,litonglu,0,0,region:us
+2026-11-15T15:49:02Z,bromena/mexico-city-us-shared-work-hours-2027,bromena,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; time-zones; re…
+2026-11-15T15:49:03Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-11-15T15:49:04Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-11-15T15:49:32Z,duyle2408/varroa-oacp-load-adaptive-val-eval-20261115,duyle2408,0,0,region:us
+2026-11-15T15:49:33Z,gg233gg/whirl_50,gg233gg,0,0,region:us
+2026-11-15T15:49:40Z,lin145/medrank-decisiongrade,lin145,0,0,task_categories:text-classification; task_categories:question-answering; language:en; license:cc-by-nc-4.0; region:us; medical-llm-evaluation; preference-ranking; clinical-ai-safety; harm-aware-evalu…
+2026-11-15T15:49:44Z,soapyyapps/circuit-kavach-global,soapyyapps,0,0,region:us
+2026-11-15T15:49:47Z,soapyyapps/circuit-kavach-water,soapyyapps,0,0,region:us
+2026-11-15T15:49:50Z,soapyyapps/circuit-kavach-earth,soapyyapps,0,0,region:us
+2026-11-15T15:50:16Z,balavarun/aya-probe-gate-data,balavarun,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-safety…
+2026-11-15T15:50:33Z,chehablab/BRISC2025,chehablab,0,1,task_categories:image-classification; task_categories:image-segmentation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; mri; imaging; medical; brain; tumor; segmentation; class…
+2026-11-15T15:51:02Z,balavarun/aya-probe-gate-runs,balavarun,0,0,language:en; license:mit; region:us; agent-safety; prompt-injection; activation-steering; evaluation-logs; lexsi-hackathon
+2026-11-15T15:51:21Z,PhaniKumar822/Synthetic_Java_Dialog_And_Programs_LLM_Training,PhaniKumar822,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant;…
+2026-11-15T15:53:05Z,Redomic/job-postings-salaries,Redomic,0,0,task_categories:tabular-classification; task_categories:text-classification; language:en; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; lib…
+2026-11-15T15:55:39Z,vdthcmus123/datamate-train-data,vdthcmus123,0,0,task_categories:text-generation; task_categories:table-question-answering; language:vi; modality:tabular; region:us; text-to-code; vietnamese; tabular; lora; zalo-ai-challenge
+2026-11-15T15:55:41Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-15T15:55:41Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-15T15:56:33Z,moshuying/so101_dualview_39eps_v1,moshuying,0,0,region:us
+2026-11-15T15:56:42Z,duyle2408/varroa-oacp-r2-val-eval-20261115,duyle2408,0,0,region:us
+2026-11-15T15:57:06Z,Epicmouse667/video-pair-study-rf2-clips,Epicmouse667,0,0,region:us
+2026-11-15T15:57:09Z,GRAI-UNSTPB/GRAF-CROL,GRAI-UNSTPB,0,0,task_categories:text-classification; task_categories:text-generation; task_categories:feature-extraction; language:ro; size_categories:100K<n<1M; region:us; legal; romanian; legislation; corpus
+2026-11-15T15:59:50Z,stefanocarrera/kic_D_train-cpp_Qwen3-4B_t1.5_g3_run0,stefanocarrera,0,0,region:us
+2026-11-15T16:01:49Z,asfadfad/Annoy-PyEdu-Rs-Raw,asfadfad,0,0,region:us
+2026-11-15T16:01:49Z,asfadfad/Annoy-PyEdu-Rs,asfadfad,0,0,region:us
+2026-11-15T16:02:04Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-15T16:02:05Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-15T16:03:06Z,11f345EJD/Bloomscroll,11f345EJD,0,0,license:other; region:us
+2026-11-15T16:09:00Z,rashidiqra/balochi-spelling-grammar-correction,rashidiqra,0,0,language:bal; license:cc-by-sa-4.0; region:us
+2026-11-15T16:11:31Z,Shanahancn/Annoy-PyEdu-Rs-Raw,Shanahancn,0,0,region:us
+2026-11-15T16:11:31Z,Shanahancn/Annoy-PyEdu-Rs,Shanahancn,0,0,region:us
+2026-11-15T16:13:07Z,GarethFW/POUR_for_Branding_Systems_and_CX,GarethFW,0,0,license:mit; region:us
+2026-11-15T16:13:59Z,TornadoLabs/asr-farsi-youtube,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:14:00Z,ClarusC64/AF-APER-01,ClarusC64,0,0,region:us
+2026-11-15T16:14:20Z,TornadoLabs/gui-net-video,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:14:30Z,TornadoLabs/masc-arabic,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:14:37Z,TornadoLabs/omega-multimodal,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:14:45Z,TornadoLabs/video-mmlu,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:14:53Z,TornadoLabs/youtube-commons-video,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:15:00Z,TornadoLabs/yt-cc-speakers,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:15:08Z,TornadoLabs/audioset-video,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:15:16Z,TornadoLabs/musiccaps-video,TornadoLabs,0,0,task_categories:video-classification; task_categories:text-to-video; task_categories:video-text-to-text; license:other; modality:video; region:us; video; youtube; tornadolabs
+2026-11-15T16:15:22Z,TornadoLabs/youtube-commons-audio,TornadoLabs,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; license:other; modality:audio; region:us; audio; speech; youtube; tornadolabs
+2026-11-15T16:18:18Z,k0cur/wikipedia_en_all_maxi_2022-05_wikireader,k0cur,0,0,license:cc-by-sa-4.0; region:us
+2026-11-15T16:19:28Z,podolinsky/pi05-libero-x-level1-features,podolinsky,0,0,task_categories:robotics; license:other; region:us; robotics; libero; libero-x; pi05; vision-language-action; embeddings; failure-detection
+2026-11-15T16:19:31Z,doannv18sep/xla-btl-2026,doannv18sep,0,0,region:us
+2026-11-15T16:20:25Z,cupnb/isaacsim_step-0_0.0.8_1wc_pose_capped,cupnb,0,0,region:us
+2026-11-15T16:20:40Z,asfdasdfaa/Annoy-PyEdu-Rs,asfdasdfaa,0,0,region:us
+2026-11-15T16:20:40Z,asfdasdfaa/Annoy-PyEdu-Rs-Raw,asfdasdfaa,0,0,region:us
