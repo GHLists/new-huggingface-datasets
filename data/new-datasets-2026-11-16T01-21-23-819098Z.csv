@@ -1,0 +1,80 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-16T00:23:53Z,justhp/HMDA_2024,justhp,0,1,region:us
+2026-11-16T00:24:14Z,frogpod/Brindle_20260918_20261113,frogpod,0,0,region:us
+2026-11-16T00:24:29Z,timzark/so101_pick_place_test_20261115_192038,timzark,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T00:25:10Z,g1n0st/08c97844ad96bc2f1ca78237a810f67cee561382,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:29:13Z,Alexey240577/chars_1794788253,Alexey240577,0,0,region:us
+2026-11-16T00:29:13Z,agenciaautomatiza/plantillas-schema-jsonld-es,agenciaautomatiza,0,0,task_categories:text-generation; language:es; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sc…
+2026-11-16T00:29:35Z,racetracklexsi/lift-hindi-sft,racetracklexsi,0,0,language:hi; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; instruction-tuning; hindi; curatork…
+2026-11-16T00:30:13Z,mmorenow/ayadial-reproduction,mmorenow,0,0,license:other; region:us; safety; evaluation; reproducibility
+2026-11-16T00:31:09Z,Alexey240577/2048_1794788379,Alexey240577,0,0,region:us
+2026-11-16T00:31:17Z,BruceChia/imgbed,BruceChia,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:31:20Z,Ananya0710/data266-lab2-part3-inputs,Ananya0710,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:32:09Z,g1n0st/eba97803620ca9ea4bf6836af31be70e508be3c9,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:33:39Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-16T00:33:39Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-16T00:35:41Z,savoji/CALVIN-MAX-audit,savoji,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; benchmark; calvin; robustness; human-annotation
+2026-11-16T00:37:03Z,asadqwr/Annoy-PyEdu-Rs,asadqwr,0,0,region:us
+2026-11-16T00:37:04Z,asadqwr/Annoy-PyEdu-Rs-Raw,asadqwr,0,0,region:us
+2026-11-16T00:37:06Z,dsfsdfsf56577/Annoy-PyEdu-Rs,dsfsdfsf56577,0,0,region:us
+2026-11-16T00:37:07Z,dsfsdfsf56577/Annoy-PyEdu-Rs-Raw,dsfsdfsf56577,0,0,region:us
+2026-11-16T00:37:43Z,amanibobo/nisar-surface-change-2026,amanibobo,0,1,license:cc-by-4.0; size_categories:1K<n<10K; modality:geospatial; region:us; earth-observation; sar; nisar; change-detection; remote-sensing; geospatial
+2026-11-16T00:39:30Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-16T00:39:31Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-16T00:40:30Z,MTEB-BR/FaQuADIR,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:MTEB-BR/faquad-ir; language:por; license:cc-by-4.0; si…
+2026-11-16T00:41:06Z,Arj990/FreshRetailNet-50K,Arj990,0,1,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-11-16T00:41:08Z,g1n0st/e778b3a99604538a5e3db730188a8a536d452deb,g1n0st,0,0,region:us
+2026-11-16T00:41:17Z,AhnADB/audiox-maf-tv2a-avgen4k-kling,AhnADB,0,0,task_categories:text-to-audio; license:cc-by-nc-4.0; region:us; video-to-audio; audio-generation; baseline; audiox
+2026-11-16T00:41:21Z,MTEB-BR/FaqBacenRetrieval,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:derived; multilinguality:monolingual; source_datasets:MTEB-BR/faq-bacen; language:por; license:apache-2.0; size_categ…
+2026-11-16T00:42:12Z,MTEB-BR/BRTaxQAR,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:unicamp-dl/BR-TaxQA-R; language:por; license:cc-by-4.0…
+2026-11-16T00:43:03Z,MTEB-BR/MedPTRetrieval,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:AKCIT/MedPT; language:por; license:cc-by-4.0; size_cat…
+2026-11-16T00:43:34Z,MTEB-BR/MedPTClustering,MTEB-BR,0,0,task_categories:text-classification; task_ids:topic-classification; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:AKCIT/MedPT; language:por; license:cc-by-4.0; s…
+2026-11-16T00:43:57Z,MTEB-BR/JurisTCU,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:LeandroRibeiro/JurisTCU; language:por; license:cc-by-4…
+2026-11-16T00:44:43Z,MTEB-BR/JurisTCUReranking,MTEB-BR,0,0,task_categories:text-ranking; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:LeandroRibeiro/JurisTCU; source_datasets:MTEB-BR/juristc…
+2026-11-16T00:45:29Z,rezivor/gwt-welfare-evals,rezivor,0,0,license:apache-2.0; arxiv:2607.15495; arxiv:2308.08708; region:us; interpretability; ai-welfare; jacobian-lens; global-workspace
+2026-11-16T00:45:31Z,MTEB-BR/QuatiReranking,MTEB-BR,0,0,task_categories:text-ranking; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:MTEB-BR/quati-50k; source_datasets:MTEB-BR/quati-reranki…
+2026-11-16T00:45:58Z,wickman547854/kaggle-womens-ecom-clothing-reviews,wickman547854,0,0,task_categories:text-classification; language:en; license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-11-16T00:45:59Z,icdn18/df12d669f7a9,icdn18,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:00Z,icdn10/b7a64783da57,icdn10,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:00Z,icdn11/31c86b09b0a7,icdn11,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:01Z,icdn15/e7fd52115370,icdn15,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:02Z,icdn13/ca606e319a09,icdn13,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:02Z,icdn12/d01d1a043302,icdn12,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:03Z,icdn14/2deba1c059b4,icdn14,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:46:22Z,MTEB-BR/Quati,MTEB-BR,0,0,task_categories:text-retrieval; task_ids:multiple-choice-qa; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:MTEB-BR/quati-50k; language:por; license:cc-by-4.0; si…
+2026-11-16T00:48:47Z,shiyuxie/rcp_data,shiyuxie,0,0,region:us
+2026-11-16T00:49:38Z,g1n0st/c102a80228ae58fae9d21768fca2b61de5dd603a,g1n0st,0,0,region:us
+2026-11-16T00:49:43Z,shiyuxie/M1_M4,shiyuxie,0,0,region:us
+2026-11-16T00:50:17Z,NguyenHuuChi/vla-evaluation-results,NguyenHuuChi,0,0,region:us
+2026-11-16T00:52:04Z,lan666as/jejak-kata,lan666as,0,0,language:id; language:jv; language:su; license:cc-by-4.0; region:us; semantic-change; diachronic; indonesian; javanese; sundanese; co-occurrence
+2026-11-16T00:53:07Z,ashishrs/lexsi-collapsewatch-dolly-raw-5k,ashishrs,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T00:53:16Z,ashishrs/lexsi-collapsewatch-dolly-gated-5k,ashishrs,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T00:53:25Z,MTEB-BR/AssinSTS,MTEB-BR,0,0,task_categories:sentence-similarity; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:nilc-nlp/assin; language:por; license:cc-by-4.0; size_categories:1K<n<10K; for…
+2026-11-16T00:53:51Z,MTEB-BR/AssinRTE,MTEB-BR,0,0,task_categories:text-classification; task_ids:natural-language-inference; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:nilc-nlp/assin; language:por; license:cc-…
+2026-11-16T00:54:06Z,Ishaan-codes11/pick_place_glass_cup_pol_20261115_165211,Ishaan-codes11,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T00:54:17Z,MTEB-BR/InferBR,MTEB-BR,0,0,task_categories:text-classification; task_ids:natural-language-inference; annotations_creators:expert-annotated; multilinguality:monolingual; source_datasets:hapaxlegomenon/InferBR; language:por; lic…
+2026-11-16T00:54:44Z,MTEB-BR/HateBR,MTEB-BR,0,0,task_categories:text-classification; task_ids:sentiment-analysis; task_ids:sentiment-scoring; task_ids:sentiment-classification; task_ids:hate-speech-detection; annotations_creators:expert-annotated;…
+2026-11-16T00:54:57Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-16T00:54:57Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-16T00:55:19Z,MTEB-BR/ToxSynPT,MTEB-BR,0,0,task_categories:text-classification; task_ids:sentiment-analysis; task_ids:sentiment-scoring; task_ids:sentiment-classification; task_ids:hate-speech-detection; annotations_creators:LM-generated; mul…
+2026-11-16T00:55:51Z,MTEB-BR/BrighterEmotionMultilabelClassification,MTEB-BR,0,0,task_categories:text-classification; task_ids:sentiment-classification; annotations_creators:human-annotated; multilinguality:monolingual; source_datasets:brighter-dataset/BRIGHTER-emotion-categories…
+2026-11-16T00:55:56Z,Alexey240577/chars_1794790553,Alexey240577,0,0,region:us
+2026-11-16T00:55:56Z,Alexey240577/2048_1794790552,Alexey240577,0,0,region:us
+2026-11-16T00:57:46Z,Epicmouse667/video-pair-study-ll2-clips,Epicmouse667,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-16T00:58:01Z,EA-Labs/geolegal-ai-dataset,EA-Labs,0,0,license:mit; region:us
+2026-11-16T00:58:26Z,yogeshramaswamy608/incident2chaos-corpus,yogeshramaswamy608,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; chaos-engineering; fault-injection; incident-analysis; postmortems; cloud-reliability; site-reliability-engineering
+2026-11-16T01:01:52Z,timzark/so101_pick_place_20261115_193657,timzark,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-16T01:02:29Z,diwank/reachy-mini-motion-augmentation-v2-20261116,diwank,0,0,language:en; license:apache-2.0; region:us; synthetic; robotics; reinforcement-learning
+2026-11-16T01:03:35Z,stefanocarrera/kic_D_test-cpp_Qwen3-4B_t1.5_g9_run0,stefanocarrera,0,0,region:us
+2026-11-16T01:04:45Z,TUaxhuiax/huggingface_terminal_filesystem_yahoo-finance_playwright_with_chunk_fetch_3629-pbk-2d568e,TUaxhuiax,0,0,region:us
+2026-11-16T01:05:12Z,Gyseop/record-real2,Gyseop,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-16T01:08:38Z,Alexey240577/chars_1794791315,Alexey240577,0,0,region:us
+2026-11-16T01:10:17Z,binghong0727/egox,binghong0727,0,0,region:us
+2026-11-16T01:12:41Z,ESAUCS/FinancES_2023_Labeled,ESAUCS,0,1,license:cc-by-nc-4.0; region:us
+2026-11-16T01:13:28Z,unitreerobotics/G1_Dex1_Serve_Pizza,unitreerobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-16T01:16:18Z,newtonian-physics-research/PerfectPhysics-Sliding,newtonian-physics-research,0,0,region:us; physics; image-to-video; segmentation; trajectories; sliding
+2026-11-16T01:16:54Z,Shanahancn/Annoy-PyEdu-Rs,Shanahancn,0,0,region:us
+2026-11-16T01:16:54Z,Shanahancn/Annoy-PyEdu-Rs-Raw,Shanahancn,0,0,region:us
+2026-11-16T01:18:46Z,Alexey240577/2048_1794791921,Alexey240577,0,0,region:us
+2026-11-16T01:18:48Z,Alexey240577/chars_1794791921,Alexey240577,0,0,region:us
+2026-11-16T01:20:59Z,unitreerobotics/G1_Dex1_Shoe_Rack_Placement,unitreerobotics,0,0,region:us
