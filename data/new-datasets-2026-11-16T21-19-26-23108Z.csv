@@ -1,0 +1,54 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-16T20:20:43Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-16T20:20:43Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-16T20:21:00Z,g1n0st/e75f369a3190a5cc500ca05cf742f41cc7c1931d,g1n0st,0,0,region:us
+2026-11-16T20:22:44Z,g1n0st/4f32e8019864739edd0dd3638fe7f683cbdea2bb,g1n0st,0,0,region:us
+2026-11-16T20:23:37Z,fahadhafeezofficial/xmsb-evidence-consistency,fahadhafeezofficial,0,0,task_categories:image-text-to-text; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:image; modality:text; library:datasets; librar…
+2026-11-16T20:24:23Z,rohailnisar/cinchstack-software-pricing,rohailnisar,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; pricing; saas; sof…
+2026-11-16T20:24:28Z,Adel-Moumen/d20_toks_30k,Adel-Moumen,0,0,region:us
+2026-11-16T20:26:22Z,dougalldeepmind/2026-11-16-da-tools-15-base-tools-half-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:ablation; pipeline:da-tools-15; constitutio…
+2026-11-16T20:28:11Z,aggads/amsterdam-bike-theft-by-neighbourhood,aggads,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; amsterdam; netherlands; open-data
+2026-11-16T20:28:21Z,dougalldeepmind/2026-11-16-da-tools-15-base-tools-double-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:ablation; pipeline:da-tools-15; constitutio…
+2026-11-16T20:28:58Z,aggads/amsterdam-public-toilets,aggads,0,0,language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; amsterdam; netherlands…
+2026-11-16T20:29:32Z,aggads/amsterdam-playgrounds-and-sports-areas,aggads,0,0,language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; amsterdam; netherl…
+2026-11-16T20:31:23Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-16T20:31:24Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-16T20:31:28Z,stefanocarrera/kic_D_train-javascript_Qwen3-4B_t1.0_g4_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:31:46Z,rbtrprjkt/rollout_16mm-bar_install60E60Ract100_20261116_142224,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T20:33:44Z,aabreu-nv/test-hf-probe,aabreu-nv,0,0,region:us
+2026-11-16T20:35:09Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-16T20:35:35Z,OumarDicko/brvm-dividendes,OumarDicko,0,0,language:fr; license:apache-2.0; size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:35:39Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-16T20:36:05Z,madnee1/Villeger_gobs,madnee1,0,0,region:us
+2026-11-16T20:37:03Z,TUaxhuiax/filesystem_terminal_huggingface_3493-model-registry-169b2cdc,TUaxhuiax,0,0,region:us
+2026-11-16T20:37:06Z,TUaxhuiax/filesystem-terminal-huggingface-361-curated-a1c9e2,TUaxhuiax,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; customer-support; support-tickets
+2026-11-16T20:39:30Z,barbarian01/cambodia-museums-catalogue,barbarian01,0,0,region:us
+2026-11-16T20:39:40Z,RgenomicsETL/gnomad-v4.1-frequencies,RgenomicsETL,0,0,license:cc0-1.0; size_categories:1B<n<10B; region:us; genomics; population-genetics; allele-frequency; gnomad; parquet; duckdb; GRCh38
+2026-11-16T20:41:10Z,MoChihab/hdb-full-package,MoChihab,0,0,region:us
+2026-11-16T20:44:23Z,mohitrajdeo/nephis-cloud-infrastructure-benchmarks,mohitrajdeo,0,0,task_categories:text-generation; task_categories:reinforcement-learning; task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pand…
+2026-11-16T20:46:55Z,SoSolaris/can_to_mug_merged_20261116,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-16T20:48:16Z,rbtrprjkt/rollout_16mm-bar_install60E60Ract100_20261116_143508,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T20:48:31Z,g1n0st/1dda08343e62a853b534ed7cc0a3f8f1218be16d,g1n0st,0,0,region:us
+2026-11-16T20:51:15Z,instapreview/us-building-code-adoption-tracker,instapreview,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; building-codes; construction; archit…
+2026-11-16T20:52:11Z,imageomics/TraitBlender-DCM-Benchmarks,imageomics,0,0,region:us
+2026-11-16T20:53:24Z,Digital-Divide-Data/DDD-Kenya_Culture,Digital-Divide-Data,0,0,region:us
+2026-11-16T20:53:34Z,wckwan/Alfworld-Qwen3-8B-GRPO-s1000-mb1024-ch028-eval,wckwan,0,0,region:us
+2026-11-16T20:54:29Z,agent-embassy/medqa-checked-answers-slice-1,agent-embassy,0,0,task_categories:question-answering; language:en; license:mit; region:us; medical; benchmark-audit; answer-key-verification
+2026-11-16T20:54:30Z,runkid20/music-generator-ai-agent,runkid20,0,1,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:54:51Z,Kendallch33/Productos_Dataset,Kendallch33,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:56:46Z,Anonymous778862/GAP-revision-2,Anonymous778862,0,0,region:us
+2026-11-16T20:57:15Z,g1n0st/785c479ace76e230068347eeee4e1f462fa7f9f3,g1n0st,0,0,region:us
+2026-11-16T20:57:26Z,Kendallch33/Provedores_Dataset,Kendallch33,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:58:52Z,Kendallch33/Categorias_Dataset,Kendallch33,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T20:59:31Z,HCY123902/qwen25_7b_base_cw_ssss_n32_r1_dpo_1,HCY123902,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T21:02:02Z,BitcoindataLabs/ln-gossip-daily,BitcoindataLabs,0,0,task_categories:graph-ml; task_categories:tabular-classification; task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:10M<n<100M; arxiv:2610.20952; arxiv:2610.30350; region:us…
+2026-11-16T21:02:35Z,dougalldeepmind/2026-11-16-am-prefill-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_15; mode:think; variant:prefill
+2026-11-16T21:03:23Z,AjitKumar-Bio/cerebro-spheroid-v5-digested-pretrain,AjitKumar-Bio,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; cerebro-spheroid; qwen-teacher-digestion; dynamic-loss-wei…
+2026-11-16T21:06:51Z,Mohamad-I8/tiny-voca-arabic-features,Mohamad-I8,0,0,region:us
+2026-11-16T21:07:40Z,stefanocarrera/kic_D_test-javascript_Qwen3-4B_t1.0_g5_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T21:07:58Z,TTS-AGI/a-bursts-labeled,TTS-AGI,0,0,task_categories:text-to-speech; task_categories:audio-classification; task_categories:automatic-speech-recognition; language:en; license:other; size_categories:1M<n<10M; region:us; emotion; expressiv…
+2026-11-16T21:11:48Z,g1n0st/63183bb6849d0d79e3719d971448cabab642dbf7,g1n0st,0,0,region:us
+2026-11-16T21:13:19Z,g1n0st/cb6dec5cb307cbb0377dea00a239cb196ae1a1c7,g1n0st,0,0,region:us
+2026-11-16T21:14:20Z,MarkHeijnekamp/Tweede_kamer_verkiezingen_uitslagen,MarkHeijnekamp,0,0,region:us
+2026-11-16T21:15:45Z,Taem22n/matcha_w12_261116_02,Taem22n,0,0,region:us
+2026-11-16T21:18:33Z,AmareshHebbar/Ternary1B_Data_SmolLM2_1.7B,AmareshHebbar,0,0,region:us
