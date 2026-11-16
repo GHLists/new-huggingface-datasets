@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-16T14:21:38Z,Ggboykxz/t4llm-python-data,Ggboykxz,0,0,license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; code; python; t4llm
+2026-11-16T14:21:47Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-11-16T14:21:52Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-11-16T14:24:42Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs,SAD12EDXZDSAD,0,0,region:us
+2026-11-16T14:25:12Z,SAD12EDXZDSAD/Annoy-PyEdu-Rs-Raw,SAD12EDXZDSAD,0,0,region:us
+2026-11-16T14:28:47Z,XvKuoMing/control-resonant,XvKuoMing,0,0,region:us
+2026-11-16T14:30:27Z,shuyisong07/singlearm_pushing_raw,shuyisong07,0,0,region:us
+2026-11-16T14:31:18Z,madnee1/FastLoad,madnee1,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T14:31:24Z,WebArena-Pro/WebArena-Pro,WebArena-Pro,0,0,language:en; license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2611.17955; region:us; webarena-pro; web-ag…
+2026-11-16T14:33:17Z,Hieu29/SentimentAnalysis,Hieu29,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:34:13Z,Lap1official/Cryptography,Lap1official,0,1,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:35:02Z,mashrur991/banglish-demo-link,mashrur991,0,0,region:us
+2026-11-16T14:35:04Z,Misraj/omnidocbench-ocr-eval,Misraj,0,0,region:us
+2026-11-16T14:35:15Z,g1n0st/c135983554ad42a664f0dec3f2c173b2d4db60b5,g1n0st,0,0,region:us
+2026-11-16T14:37:35Z,SoSolaris/can_to_mug_20261116092123417521_raw,SoSolaris,0,0,region:us
+2026-11-16T14:38:32Z,mondk/Words-VN-74K,mondk,0,0,license:gpl-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:39:15Z,xxxhhhollll/bodytype-boundary-sensitivity,xxxhhhollll,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:tabular; region:us; body-type; sensitivity-analysis; classification-boundaries; synthetic-data; tabular; reproducibility
+2026-11-16T14:39:49Z,nirosales/prueba-voz,nirosales,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-16T14:40:12Z,domaform/outdoor-sauna-electricity-cost-by-state,domaform,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sauna; electricity…
+2026-11-16T14:41:47Z,shuinb/Quantized-LingBot-Map,shuinb,0,0,language:en; language:zh; license:apache-2.0; region:us; lingbot-map; quantization; w4a4; dsfq; 3d-reconstruction
+2026-11-16T14:42:16Z,trizzhal9000/quantppi-embeddings,trizzhal9000,0,1,size_categories:1K<n<10K; modality:timeseries; library:datasets; library:mlcroissant; region:us
+2026-11-16T14:42:39Z,domaform/cold-plunge-ready-states,domaform,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cold-plunge; clima…
+2026-11-16T14:42:43Z,Rlayd36/rollout_act_redblock_chunk10_20261116_234147,Rlayd36,0,0,region:us
+2026-11-16T14:43:33Z,VladShash/S8-SFT-minif2f2-partial,VladShash,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:44:02Z,domaform/sauna-state-index,domaform,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sauna; climate; el…
+2026-11-16T14:44:30Z,banhchungtuongot/respi-lifemate-data,banhchungtuongot,0,0,region:us
+2026-11-16T14:44:50Z,VladShash/S8-SFT-minif2f4-partial,VladShash,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:45:19Z,myx160/pap_1112_1116_merged,myx160,0,0,language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; re…
+2026-11-16T14:45:23Z,tehranindex/iran-tech-company-registry,tehranindex,0,0,language:en; language:fa; license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; iran; startups; comp…
+2026-11-16T14:46:49Z,mudassiruddin21/EMC,mudassiruddin21,0,0,region:us
+2026-11-16T14:47:32Z,dumbstupiddecisions/qfn-log,dumbstupiddecisions,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-16T14:47:51Z,Giannipe/rollout_tokenizer_attention_task1_20261116_154605,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T14:51:16Z,fufufufufufufu25/10task30episode,fufufufufufufu25,0,0,region:us
+2026-11-16T14:52:07Z,Giannipe/rollout_tokenizer_attention_task2_20261116_155022,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T14:52:26Z,SoSolaris/can_to_mug_20261116094909674179_raw,SoSolaris,0,0,region:us
+2026-11-16T14:52:32Z,chanind-goodfire/gpt2-small-l8-rebuttal-activations,chanind-goodfire,0,0,region:us; activations; gpt2; sparse-autoencoder
+2026-11-16T14:53:11Z,Rlayd36/rollout_act_redblock_chunk10_20261116_234442,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T14:53:19Z,SWE-at-Scale/SWE-at-Scale,SWE-at-Scale,0,0,license:apache-2.0; region:us
+2026-11-16T14:55:06Z,embodied-olympics/release1-raw-5,embodied-olympics,0,0,region:us
+2026-11-16T14:55:08Z,lakepaus/work1,lakepaus,0,0,region:us
+2026-11-16T14:55:35Z,g1n0st/9dde7f1b367d6eb900ec5e7fb9064caf74b34ed5,g1n0st,0,0,region:us
+2026-11-16T14:55:46Z,Adel-Moumen/d20_fm_28k_ls-test-clean-3s-gens,Adel-Moumen,0,0,region:us
+2026-11-16T14:55:48Z,astrodynamics/robot_asset,astrodynamics,0,0,size_categories:n<1K; format:json; modality:3d; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:57:14Z,hmb/openvid-loop-gifs,hmb,0,0,region:us
+2026-11-16T14:58:04Z,nassimjp/Zirak-Pashto-Thinking-SFT,nassimjp,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-16T14:58:28Z,CRLN/crln-human-vs-ai-clinical-research-benchmark,CRLN,0,0,task_categories:multiple-choice; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ben…
+2026-11-16T14:59:29Z,joonyeongs/cosmos3-edge-failure-prevention-six-task-round1-round2-218,joonyeongs,0,0,language:en; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot…
+2026-11-16T14:59:34Z,SWE4ICLR2027/SWE-at-Scale,SWE4ICLR2027,0,0,license:apache-2.0; region:us
+2026-11-16T14:59:34Z,Giannipe/rollout_tokenizer_attention_task3_20261116_155319,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T15:01:39Z,g1n0st/847085388d7cee2e682fe59cdaf8495919fe5ade,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-16T15:02:03Z,Giannipe/rollout_turbovla_failspatial_task3_20261116_160108,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T15:02:15Z,g1n0st/3a2f09d4e5887d95fa1ac883694d6434100375b1,g1n0st,0,0,region:us
+2026-11-16T15:03:03Z,Rlayd36/rollout_act_redblock_chunk50_20261116_235433,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-16T15:04:29Z,Giannipe/rollout_smolvla_failspatial_task3_20261116_160306,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T15:04:47Z,SoSolaris/can_to_mug_20261116095229813297_raw,SoSolaris,0,0,region:us
+2026-11-16T15:07:28Z,Giannipe/rollout_tokenizer_successgrasp_task3_20261116_160533,Giannipe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-16T15:07:59Z,cjqhhh/Sloth-27B-v1-results,cjqhhh,0,0,region:us; decision-index; evaluation; d3
+2026-11-16T15:08:16Z,leapshared/Precip_squeeze_probe_20261116_235555,leapshared,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-16T15:08:53Z,SoSolaris/can_to_mug_20261116095537278394_raw,SoSolaris,0,0,region:us
+2026-11-16T15:09:25Z,Guyueyue01/SELight,Guyueyue01,0,0,region:us
+2026-11-16T15:10:08Z,ltanh378/teacher_day_data,ltanh378,0,0,license:mit; region:us
+2026-11-16T15:10:52Z,g1n0st/8d4ad8b11ff73464e5eb5f2a3cab862b2478da38,g1n0st,0,0,region:us
+2026-11-16T15:10:57Z,g1n0st/06ec15e3110cf70bcce919a9b8d9b224b368af73,g1n0st,0,0,region:us
+2026-11-16T15:11:22Z,eikyou/qwen3-4b-finish-probes,eikyou,0,0,region:us
+2026-11-16T15:12:04Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-16T15:12:05Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-16T15:13:14Z,alirazach/olympics-slim,alirazach,0,0,license:other; region:us
+2026-11-16T15:13:14Z,Rlayd36/rollout_act_redblock_chunk100_20261117_000430,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-16T15:13:23Z,falconstoestickly/hi,falconstoestickly,0,1,region:us
+2026-11-16T15:13:24Z,pumpfomoguide/pumpfun-referral-code-11,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; deposit-match; new-user-once; program-start-date
+2026-11-16T15:14:12Z,pumpfomoguide/pumpfun-referral-code-12,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; deposit-match; qualifying-trading-day; mobile-app-only
+2026-11-16T15:14:24Z,pumpfomoguide/pumpfun-referral-code-13,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; deposit-match; excluded-territory; mid-program-change
+2026-11-16T15:14:32Z,stefanocarrera/kic_D_test-javascript_Qwen3-4B_t1.0_g1_run0,stefanocarrera,0,0,region:us
+2026-11-16T15:14:44Z,pumpfomoguide/pumpfun-referral-code-14,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; deposit-match; referrer-reward; matching-reward
+2026-11-16T15:14:56Z,pumpfomoguide/pumpfun-referral-code-15,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; solana; pump-fun; newuser50; referral-code; deposit-match; integrated-provider; purchase-party
+2026-11-16T15:15:34Z,speediedan/knowing-using-gap-chaining,speediedan,0,0,task_categories:question-answering; language:en; license:mit; size_categories:10K<n<100K; arxiv:2607.08393; region:us; knowledge-injection; multi-hop; biomedical
+2026-11-16T15:15:58Z,g1n0st/4c1c4762beebdf930c34a79b5136ee6b3a210b0b,g1n0st,0,0,region:us
+2026-11-16T15:15:59Z,g1n0st/a36b263a5a0f7788b9322e987beafc8416a50b17,g1n0st,0,0,region:us
+2026-11-16T15:16:02Z,pumpfomoguide/fomo-referral-code-11,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; smartuser; referral-code; fee-discount; first-trade-deadline; apply-before-trade
+2026-11-16T15:16:28Z,pumpfomoguide/fomo-referral-code-12,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; smartuser; referral-code; fee-discount; standard-percentage-rate; fee-exceptions
+2026-11-16T15:16:58Z,g1n0st/025437f159edfb313843a12a2ffb607726097e3f,g1n0st,0,0,region:us
+2026-11-16T15:17:14Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-16T15:17:21Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-16T15:17:45Z,pumpfomoguide/fomo-referral-code-13,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; smartuser; referral-code; fee-discount; missing-referrer; in-app-support
+2026-11-16T15:18:15Z,WindowsGD/Himnario-Adventista-Reworked,WindowsGD,0,0,region:us
+2026-11-16T15:18:26Z,pumpfomoguide/fomo-referral-code-14,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; smartuser; referral-code; fee-discount; solana-token-link; existing-referral
+2026-11-16T15:19:02Z,pumpfomoguide/fomo-referral-code-15,pumpfomoguide,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; region:us; fomo; fomo-app; smartuser; referral-code; fee-discount; fee-share-source; no-extra-charge
+2026-11-16T15:19:27Z,g1n0st/6f917c60f004d6390339319c24b30189cf603a2d,g1n0st,0,0,region:us
