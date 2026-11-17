@@ -1,0 +1,64 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-17T03:21:04Z,ASD21213123EDSA/Annoy-PyEdu-Rs,ASD21213123EDSA,0,0,region:us
+2026-11-17T03:21:04Z,ASD21213123EDSA/Annoy-PyEdu-Rs-Raw,ASD21213123EDSA,0,0,region:us
+2026-11-17T03:21:25Z,alexsteinhd/us-county-title-search-findings,alexsteinhd,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; real-estate; prope…
+2026-11-17T03:22:10Z,123zdm/deliverables,123zdm,0,0,region:us
+2026-11-17T03:24:25Z,agriculture-food-systems-ai/Asparagus-Cultivar-Attribute-Extraction-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; asparagus cultivar dataset; asparagus attribute extrac…
+2026-11-17T03:25:43Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs,ASCXZ12SAE1DW,0,0,region:us
+2026-11-17T03:25:46Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs-Raw,ASCXZ12SAE1DW,0,0,region:us
+2026-11-17T03:25:51Z,agriculture-food-systems-ai/Condensed-Milk-Filling-Output-Calculation-Verification-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; condensed milk filling dataset; fill…
+2026-11-17T03:28:04Z,AQ-MedAI/HealthCLBench,AQ-MedAI,0,0,license:apache-2.0; region:us
+2026-11-17T03:28:44Z,g1n0st/5e0a7e608d6b63f5988443473f3b00dcb322d8cf,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T03:28:47Z,zixinyenu/so100-pick-dynamic-0369_20261116_211136,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-17T03:29:57Z,g1n0st/eb9f8694bf2708cc62f3ddd4cc58743bfa88b411,g1n0st,0,0,region:us
+2026-11-17T03:32:22Z,stanjsx/tumor-adjudication-agent-inputs,stanjsx,0,0,size_categories:n<1K; library:datasets; library:mlcroissant; region:us
+2026-11-17T03:33:06Z,ninayeats25/us-flights-2025-2026,ninayeats25,0,0,license:cc0-1.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T03:33:38Z,danialrizvi/hri-testlab,danialrizvi,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-17T03:36:07Z,KhangTruong/IMD2020-CASIAv2-Joint,KhangTruong,0,0,region:us
+2026-11-17T03:37:18Z,nakas/opendino-caches,nakas,0,0,region:us
+2026-11-17T03:39:49Z,gubam/ur5e_eef_gaze_new,gubam,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-17T03:43:12Z,mliu48/telearms-offline-rl-100task-minari,mliu48,0,0,task_categories:reinforcement-learning; task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:tabular; modality:text; region:us; Minari; TeleArms; bimanual; simulation; offline…
+2026-11-17T03:43:43Z,vedeshskhatri/rust-micro-os,vedeshskhatri,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-17T03:43:51Z,ibrahimame13/CROPPED_DATASET_NO_DUPLICATES,ibrahimame13,0,0,region:us
+2026-11-17T03:45:37Z,xaviviro/sintaxi-catala-destillada-10k,xaviviro,0,0,task_categories:text-generation; task_categories:token-classification; language:ca; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:…
+2026-11-17T03:45:44Z,g1n0st/24d2dc72da0e5f5118f9b4efa6059ed5dc27e3b3,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T03:47:24Z,g1n0st/83ffde62316abc951c1ceead5d0d94926db83f24,g1n0st,0,0,region:us
+2026-11-17T03:50:20Z,stefanocarrera/kic_D_train-javascript_Qwen3-4B_t1.0_g9_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T03:50:45Z,imliulehui/jaxbench-grader-replay,imliulehui,0,0,license:apache-2.0; region:us
+2026-11-17T03:51:23Z,Kenny-LeiCH/TindoBlockPicking_20261117_114450,Kenny-LeiCH,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-17T03:52:57Z,aniorna/RQRR_QA,aniorna,0,0,doi:10.57967/hf/11664; region:us
+2026-11-17T03:53:09Z,DS314/img314,DS314,0,0,license:mit; region:us
+2026-11-17T03:54:03Z,zixinyenu/so100-pick-dynamic-0459_20261116_214257,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-17T03:55:03Z,mouadtarif/twin-crises-vision-ai,mouadtarif,0,0,language:en; region:us; computer-vision; vision-language; efficient-ai; hardware; tensor-cores; zig; geometric-deep-learning; arm; cpu; cache
+2026-11-17T04:00:14Z,ASDCXZ12EDX/Annoy-PyEdu-Rs,ASDCXZ12EDX,0,0,region:us
+2026-11-17T04:00:14Z,g1n0st/589be2bdb5b221b6aca2474bc83358dcbb8be915,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T04:00:15Z,ASDCXZ12EDX/Annoy-PyEdu-Rs-Raw,ASDCXZ12EDX,0,0,region:us
+2026-11-17T04:00:22Z,g1n0st/2979097a4510ba5a398902772dc850b52148ce3f,g1n0st,0,0,region:us
+2026-11-17T04:01:56Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-11-17T04:01:57Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-11-17T04:02:31Z,asd1e23321213/Annoy-PyEdu-Rs,asd1e23321213,0,0,region:us
+2026-11-17T04:02:32Z,asd1e23321213/Annoy-PyEdu-Rs-Raw,asd1e23321213,0,0,region:us
+2026-11-17T04:02:40Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-11-17T04:02:44Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-11-17T04:02:54Z,ibrahimame13/Whole-Dataset,ibrahimame13,0,0,region:us
+2026-11-17T04:02:59Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-17T04:03:00Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-17T04:03:03Z,venu277/VenOS-ISO,venu277,0,0,license:mit; region:us
+2026-11-17T04:03:30Z,g1n0st/11305c32ed595317533a43c7f5a2d7d01cb615e7,g1n0st,0,0,region:us
+2026-11-17T04:03:38Z,Flaviortw/malu-briefing-eval-ptbr,Flaviortw,0,0,task_categories:text-generation; language:pt; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ll…
+2026-11-17T04:04:09Z,Csplk/The.ASCII.Art.Emporium.labelled,Csplk,0,0,task_categories:text-generation; task_categories:text-classification; language:en; license:cc-by-nc-sa-4.0; region:us; art; ascii-art
+2026-11-17T04:06:01Z,aio-toolathlon-rsi/Annoy-PyEdu-Rs,aio-toolathlon-rsi,0,0,region:us
+2026-11-17T04:06:02Z,aio-toolathlon-rsi/Annoy-PyEdu-Rs-Raw,aio-toolathlon-rsi,0,0,region:us
+2026-11-17T04:06:39Z,Sada746/tts,Sada746,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-17T04:07:17Z,data266-team11/data266-lab2-team11-p3-inputs,data266-team11,0,0,task_categories:image-to-image; task_categories:text-to-image; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; data266; mult…
+2026-11-17T04:08:14Z,PrumoFS/acompanhamento-fundos-site,PrumoFS,0,0,region:us
+2026-11-17T04:09:21Z,HARSHA-289/MICRO-OS,HARSHA-289,0,0,region:us
+2026-11-17T04:09:59Z,zixinyenu/so100-pick-dynamic-0541_20261116_220016,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-17T04:10:58Z,g1n0st/9049870aee82206567b2d96eae0d2ea92c56c621,g1n0st,0,0,region:us
+2026-11-17T04:11:15Z,plantwaterer/kudhab-decision-index,plantwaterer,0,0,license:apache-2.0; region:us; decision-index
+2026-11-17T04:14:51Z,g1n0st/80142cd147ab7b88f798e58bdac47376a75ed40f,g1n0st,0,0,region:us
+2026-11-17T04:15:38Z,At1uri/biomolecular-binding-affinity-benchmarks,At1uri,0,0,task_categories:tabular-regression; task_categories:graph-ml; license:apache-2.0; size_categories:1K<n<10K; region:us; biology; biomolecular-ai; protein-ligand; binding-affinity; drug-discovery; mole…
+2026-11-17T04:16:22Z,Account00054/o54_dataset_02_obfuscated,Account00054,0,0,task_categories:tabular-regression; license:other; size_categories:1M<n<10M; region:us
+2026-11-17T04:19:13Z,g1n0st/216caccc05419d2d8dee2fc98777ca6ce881090e,g1n0st,0,0,region:us
+2026-11-17T04:19:54Z,referralvarsh/ExnessPartnerCodexdz8hgmzpbGet30percentageDiscountOnTradingFees,referralvarsh,0,0,region:us
+2026-11-17T04:20:03Z,DouDaoMARSs/piper_for_compelte,DouDaoMARSs,0,0,region:us
