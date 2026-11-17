@@ -1,0 +1,71 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-17T19:21:59Z,stefanocarrera/kic_D_train-javascript_Qwen3-4B_t1.5_g6_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T19:22:17Z,observeai/c2a-bench-runs,observeai,0,0,license:bsd; region:us
+2026-11-17T19:25:31Z,dankeen37/b-mod-lines-cleanup,dankeen37,0,0,region:us
+2026-11-17T19:26:43Z,rakesh-work/b2b-saas-geo-benchmark-schema,rakesh-work,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-11-17T19:27:01Z,Den4ikAI/DnR-v2,Den4ikAI,0,0,task_categories:audio-to-audio; task_categories:audio-classification; task_categories:automatic-speech-recognition; license:cc-by-4.0; size_categories:1K<n<10K; modality:audio; arxiv:2110.09958; regi…
+2026-11-17T19:27:03Z,Sly6366/sealed-ratchet-runs,Sly6366,0,0,license:apache-2.0; region:us; agents; self-improvement; harness-engineering; delta-lake
+2026-11-17T19:27:03Z,Den4ikAI/DnR-nonverbal-v2,Den4ikAI,0,0,task_categories:audio-to-audio; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; modality:audio; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-11-17T19:27:12Z,hareramray325/xss-detection-bench,hareramray325,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; security…
+2026-11-17T19:30:43Z,g1n0st/789bc61759c39c34103d6003a33273821fa8cf20,g1n0st,0,0,region:us
+2026-11-17T19:32:11Z,rovshan886/voice-test,rovshan886,0,0,region:us
+2026-11-17T19:32:34Z,jxjshghjkizkn/hjklkjahgbvbn,jxjshghjkizkn,0,0,license:grok2-community; region:us
+2026-11-17T19:33:11Z,ArunMurugesan/real_pickplace_v4,ArunMurugesan,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-17T19:34:07Z,jttaylor01/COFE-Bench_Sample,jttaylor01,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T19:34:21Z,charlilou/MERGERD_TEST_APP,charlilou,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-17T19:36:59Z,asfdasdaaa/Annoy-PyEdu-Rs,asfdasdaaa,0,0,region:us
+2026-11-17T19:37:00Z,asfdasdaaa/Annoy-PyEdu-Rs-Raw,asfdasdaaa,0,0,region:us
+2026-11-17T19:37:20Z,fabricioslv/omnimind-barseq-enucleation-5xfzcb4kn8,fabricioslv,0,0,task_categories:feature-extraction; task_categories:tabular-classification; license:cc-by-4.0; region:us; neuroscience; barseq; spatial-transcriptomics; mouse-cortex; enucleation; parquet; npz
+2026-11-17T19:39:04Z,SlayerLab/Slayer1B-Dataset,SlayerLab,0,0,task_categories:text-generation; language:pl; language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-17T19:39:54Z,PureOne/Xyquora-Noise-Floor,PureOne,0,0,language:en; size_categories:1K<n<10K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; in…
+2026-11-17T19:41:13Z,acD124SAQ/Annoy-PyEdu-Rs,acD124SAQ,0,0,region:us
+2026-11-17T19:41:14Z,acD124SAQ/Annoy-PyEdu-Rs-Raw,acD124SAQ,0,0,region:us
+2026-11-17T19:41:55Z,sadD12DSZX/Annoy-PyEdu-Rs,sadD12DSZX,0,0,region:us
+2026-11-17T19:41:56Z,sadD12DSZX/Annoy-PyEdu-Rs-Raw,sadD12DSZX,0,0,region:us
+2026-11-17T19:42:57Z,Knappekeuze/winkelprijzen-koptelefoons-oordopjes-nl,Knappekeuze,0,0,language:nl; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; price…
+2026-11-17T19:43:08Z,sdsfse2/Annoy-PyEdu-Rs,sdsfse2,0,0,region:us
+2026-11-17T19:43:09Z,sdsfse2/Annoy-PyEdu-Rs-Raw,sdsfse2,0,0,region:us
+2026-11-17T19:44:20Z,ASD21321312SAD12/Annoy-PyEdu-Rs,ASD21321312SAD12,0,0,region:us
+2026-11-17T19:44:20Z,ASD21321312SAD12/Annoy-PyEdu-Rs-Raw,ASD21321312SAD12,0,0,region:us
+2026-11-17T19:44:41Z,fritowrito/video5-voice-v2,fritowrito,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-17T19:45:08Z,raspbfox/victoria-tier2,raspbfox,0,0,task_categories:text-generation; language:en; license:cc0-1.0; region:us; victorian; ocr; books; pretraining
+2026-11-17T19:45:12Z,sfcbm/Annoy-PyEdu-Rs-Raw,sfcbm,0,0,region:us
+2026-11-17T19:45:12Z,sfcbm/Annoy-PyEdu-Rs,sfcbm,0,0,region:us
+2026-11-17T19:45:43Z,g1n0st/67f634686d77f431e995ac4289c4eacc5abc6fca,g1n0st,0,0,region:us
+2026-11-17T19:46:24Z,burkimbia/moore-speech-corpus,burkimbia,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:mos; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us
+2026-11-17T19:46:41Z,WEAP26/KITTI_mcap,WEAP26,0,0,license:mit; region:us; ros2; autonomy; robotics
+2026-11-17T19:50:01Z,afhjassfg/Annoy-PyEdu-Rs,afhjassfg,0,0,region:us
+2026-11-17T19:50:02Z,afhjassfg/Annoy-PyEdu-Rs-Raw,afhjassfg,0,0,region:us
+2026-11-17T19:51:13Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-11-17T19:51:14Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-11-17T19:53:06Z,renessauce/indicsafe-llama-3.2-1B-activations,renessauce,0,0,region:us
+2026-11-17T19:53:44Z,CiroVil/dllm-planners-experiment-1,CiroVil,0,0,license:other; region:us; diffusion-language-models; spanish; tokenization
+2026-11-17T19:54:07Z,YewFan/snapshots_of_3D_relief_models_exmaple,YewFan,0,0,license:cc0-1.0; region:us
+2026-11-17T19:57:01Z,ahmadrrrtx/xrfm-native-shards-v1,ahmadrrrtx,0,0,task_categories:text-generation; language:en; language:ur; language:ar; language:hi; language:es; language:fr; license:odc-by; region:us
+2026-11-17T19:57:11Z,SZLHOLDINGS/cram-sudoku-extreme,SZLHOLDINGS,0,0,license:apache-2.0; size_categories:n<1K; arxiv:2611.17309; region:us; sudoku; constraint-satisfaction; reasoning; benchmark
+2026-11-17T19:57:29Z,LINUAN/fold_towels_recap_corpus_v4,LINUAN,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-17T19:58:02Z,sdafasf2222222/Annoy-PyEdu-Rs,sdafasf2222222,0,0,region:us
+2026-11-17T19:58:03Z,sdafasf2222222/Annoy-PyEdu-Rs-Raw,sdafasf2222222,0,0,region:us
+2026-11-17T19:59:23Z,renessauce/indicsafe-qwen2-1.5b-activations,renessauce,0,0,region:us
+2026-11-17T20:00:45Z,g1n0st/3eee5bab02ff8ab500b2f18e60f095baae17b95e,g1n0st,0,0,region:us
+2026-11-17T20:01:44Z,neetmehta/video,neetmehta,0,0,region:us
+2026-11-17T20:02:47Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-11-17T20:02:48Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-11-17T20:03:25Z,powerhopper/texas-electricity-media-data-room,powerhopper,0,0,language:en; license:cc-by-4.0; region:us; texas; electricity; retail-electricity; ercot; puct; power-to-choose; delivery-charges; transmission-and-distribution-utility; wholesale-prices; texas-legis…
+2026-11-17T20:04:23Z,brianbellx/codehygiene-stats,brianbellx,0,0,region:us
+2026-11-17T20:05:45Z,mohammedalslahi-2026/najeeb-al-amri-hadith,mohammedalslahi-2026,0,0,region:us
+2026-11-17T20:07:04Z,franciscojmavila/alba-v2-corpus-fineweb-edu,franciscojmavila,0,0,region:us
+2026-11-17T20:07:51Z,pschwartz26/rollout_one_cube_20261117_145842,pschwartz26,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-17T20:09:19Z,lolgoat/referral-codes-and-reward-examples,lolgoat,0,0,language:en; size_categories:n<1K; region:us
+2026-11-17T20:09:26Z,0x00lost/1276599601598827859,0x00lost,0,0,region:us
+2026-11-17T20:10:04Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-17T20:10:04Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-17T20:10:09Z,ninayeats25/tornados,ninayeats25,0,0,license:cc0-1.0; region:us
+2026-11-17T20:14:16Z,bpatrick/olympics,bpatrick,0,0,license:unknown; region:us
+2026-11-17T20:14:36Z,podcasthostlab/podcast-hosting-prices,podcasthostlab,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; podcasting; pricing
+2026-11-17T20:15:44Z,g1n0st/b4885df31db5a420b8567cdef1ed395700c76b6e,g1n0st,0,0,region:us
+2026-11-17T20:16:51Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-17T20:16:51Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-17T20:17:23Z,lolgoat/duel-com-referral-code-duel5-rakeback-examples,lolgoat,0,0,language:en; size_categories:n<1K; region:us
+2026-11-17T20:18:42Z,brineylab/antigen-specific-antibody-database,brineylab,0,0,region:us
+2026-11-17T20:20:50Z,renessauce/qwen2-hinglish-injection-activations,renessauce,0,0,region:us
