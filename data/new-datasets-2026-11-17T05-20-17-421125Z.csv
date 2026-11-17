@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-17T04:21:16Z,andyphu/llm-as-a-judge-pro-max-tests,andyphu,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T04:24:27Z,g1n0st/13f34dfbe12512e17dc4f3982c35f2ecdef0eb7b,g1n0st,0,0,region:us
+2026-11-17T04:24:40Z,da123/decision-index-results,da123,0,0,region:us
+2026-11-17T04:25:01Z,eunbi25/team2_v1,eunbi25,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-17T04:25:16Z,OpenUncensored/uncensored-agent-eval,OpenUncensored,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ev…
+2026-11-17T04:27:00Z,stefanocarrera/kic_D_test-javascript_Qwen3-4B_t1.0_g10_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T04:30:10Z,LSGOURI/bimanual-so-multiple_objects_4,LSGOURI,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-11-17T04:31:53Z,referralvarsh/ExnessReferralCodexdz8hgmzpbGet30percentageDiscountOnTradingFees,referralvarsh,0,0,language:en; modality:text; region:us; text; affiliate-marketing; financial-services
+2026-11-17T04:32:49Z,g1n0st/978aa0e9f2870b36eafa57096723a1b8d7803f83,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T04:32:51Z,g1n0st/61b083172488c1a742933d68103e2fef5c63a31c,g1n0st,0,0,region:us
+2026-11-17T04:33:58Z,LSGOURI/bimanual-so-multiple_objects_5,LSGOURI,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-17T04:35:17Z,therayelab/oncocompass-simulation-research-v1-43,therayelab,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; region:us; synthetic-data; oncology; research-only; evidence-reasoning
+2026-11-17T04:35:33Z,ASD12ED31231/Annoy-PyEdu-Rs,ASD12ED31231,0,0,region:us
+2026-11-17T04:35:34Z,ASD12ED31231/Annoy-PyEdu-Rs-Raw,ASD12ED31231,0,0,region:us
+2026-11-17T04:36:29Z,fichescarhops6b/Annoy-PyEdu-Rs,fichescarhops6b,0,0,region:us
+2026-11-17T04:36:30Z,fichescarhops6b/Annoy-PyEdu-Rs-Raw,fichescarhops6b,0,0,region:us
+2026-11-17T04:38:28Z,Xense/strap-tape-taccap-1116,Xense,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-17T04:39:01Z,g1n0st/94df80be9ac917432079e263f973affa2257a7a2,g1n0st,0,0,region:us
+2026-11-17T04:41:06Z,LSGOURI/bimanual-so-multiple_objects_6,LSGOURI,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-17T04:41:36Z,Kenny-LeiCH/TindoBlocks3_20261117_122107,Kenny-LeiCH,0,0,region:us
+2026-11-17T04:42:50Z,nobg/bg20k-composites-rgba,nobg,0,0,task_categories:image-segmentation; license:other; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arxiv:2010.16188; region:us; image-matting; s…
+2026-11-17T04:46:15Z,g1n0st/95e09de9d40cf2306ba729122c57cbb3b689dadd,g1n0st,0,0,region:us
+2026-11-17T04:46:45Z,diaslmb/eaeu-guardrail-bench-v0,diaslmb,0,0,task_categories:text-classification; language:ru; language:kk; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-17T04:47:24Z,WeatherSceneTeam/WeatherSceneDataSets,WeatherSceneTeam,0,0,license:cc-by-4.0; region:us
+2026-11-17T04:47:38Z,referralvarsh/ExnessAppPartnerCodexdz8hgmzpbGet30percentageDiscountOnTradingFees,referralvarsh,0,0,language:en; modality:text; region:us; financial-services; text; exness
+2026-11-17T04:48:57Z,ishitag925/bee-frame-pickup-yaw7-30mm-seated16-lerobot,ishitag925,0,0,region:us; robotics; lerobot; piper-x; simulation
+2026-11-17T04:50:07Z,elnemer7/elnemer-1m-books-dataset,elnemer7,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:translation; language:ar; language:en; language:es; language:fr; language:de; language:zh; language:ru; language:h…
+2026-11-17T04:50:17Z,g1n0st/864da6e0a65bd101b40e8e4c49ed4f03b99a8f88,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T04:58:51Z,FYPlerobot/us_probe_grab_demo_merged,FYPlerobot,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-17T04:59:18Z,referralvarsh/ExnessBrokerPartnerCodexdz8hgmzpbGet30percentageDiscountOnTradingFees,referralvarsh,0,0,language:en; region:us; exness; financial-services; affiliate-marketing; referral-code; seo-content
+2026-11-17T04:59:47Z,Nuzzlenuzzlenuzzle/my-temp-files,Nuzzlenuzzlenuzzle,0,0,region:us
+2026-11-17T05:01:51Z,ale-or/ale-tasks-demo,ale-or,0,0,size_categories:n<1K; modality:text; region:us; agents-last-exam; ale-task-assets; example
+2026-11-17T05:02:00Z,zixinyenu/so100-pick-dynamic-0640_20261116_225306,zixinyenu,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-17T05:03:00Z,g1n0st/95605eb6a5e9ad358b88f241808a539a9f530a0d,g1n0st,0,0,region:us
+2026-11-17T05:03:14Z,gurselpek/ugc-video-test,gurselpek,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-17T05:06:39Z,referralvarsh/AnveshanCouponCodeARCHANA22Get15percentageOffand5percentageExtraonPrepaidOrders,referralvarsh,0,0,language:en; region:us; anveshan; coupon-code; affiliate-marketing; discount; food-products
+2026-11-17T05:06:53Z,g1n0st/70559852bddd11c4060dc43c63caf36917e384b5,g1n0st,0,0,region:us
+2026-11-17T05:07:00Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-17T05:07:01Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-17T05:07:06Z,rwcitek/DUC-2026,rwcitek,0,0,license:apache-2.0; region:us
+2026-11-17T05:08:11Z,loverretread/Annoy-PyEdu-Rs,loverretread,0,0,region:us
+2026-11-17T05:08:11Z,loverretread/Annoy-PyEdu-Rs-Raw,loverretread,0,0,region:us
+2026-11-17T05:09:00Z,dddddsds31341/Franka-Bread-TestTube-Eval-20261116,dddddsds31341,0,0,region:us
+2026-11-17T05:09:23Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-17T05:09:23Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-17T05:09:45Z,g1n0st/ead9a092e2a6f01850dadcaf24b641d96b66b877,g1n0st,0,0,region:us
+2026-11-17T05:09:50Z,saathwik8790/samanantar,saathwik8790,0,0,task_categories:text-generation; task_categories:translation; annotations_creators:no-annotation; language_creators:found; multilinguality:translation; source_datasets:original; language:en; language…
+2026-11-17T05:11:30Z,JBZABC/naijadrugwatch-vintage-2026-11-16,JBZABC,0,0,language:en; license:cc-by-4.0; region:us; nigeria; pharmaceuticals; drug-prices; nafdac; public-health; postgres
+2026-11-17T05:13:16Z,AjitKumar-Bio/cosmopedia-v2-digested,AjitKumar-Bio,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:odc-by; size_categories:10M<n<100M; region:us; cosmopedia-v2; cerebro-spheroid; teacher-digestion; qwen2.5-1.…
+2026-11-17T05:14:38Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-17T05:14:39Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-17T05:16:41Z,stefanocarrera/kic_D_test-javascript_Qwen3-4B_t1.5_g0_run0,stefanocarrera,0,0,region:us
+2026-11-17T05:17:16Z,Spahooni/plate-prints,Spahooni,0,0,region:us
+2026-11-17T05:18:06Z,eelafff/CAS3120-2026-Project1_AI-Generated-Image-Detection,eelafff,0,0,task_categories:image-classification; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; binary-classification; educational; computer-vision
+2026-11-17T05:18:49Z,pyrobotics/four-suite-quantitative-manipulation,pyrobotics,0,0,region:us
+2026-11-17T05:19:10Z,08semi/roll_new1,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
