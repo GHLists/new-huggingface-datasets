@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-17T21:27:31Z,zehraoz36/team-tokens-finnish-asr-data,zehraoz36,0,0,task_categories:automatic-speech-recognition; language:fi; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars…
+2026-11-17T21:29:02Z,Chinhpham75/tvbox-update,Chinhpham75,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T21:35:15Z,Swagvictoria/Grid,Swagvictoria,0,0,task_categories:text-generation; language:en; language:tr; license:apache-2.0; size_categories:10K<n<100K; region:us
+2026-11-17T21:36:13Z,rahul7star/asr-task-hindi,rahul7star,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T21:37:04Z,stefanocarrera/kic_D_train-javascript_Qwen3-4B_t1.5_g7_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T21:37:27Z,FUSiONultramed/verifikationsregister,FUSiONultramed,0,0,region:us
+2026-11-17T21:39:32Z,davidheineman/nfs-checkpoints-20261117-ns-data-scaling-lora-teachers-v2-20261024-203339-0801e63f,davidheineman,0,0,license:other; region:us
+2026-11-17T21:41:28Z,davidheineman/nfs-checkpoints-20261117-math-matched-20261102-f5f754e5,davidheineman,0,0,license:other; region:us
+2026-11-17T21:41:46Z,davidheineman/nfs-checkpoints-20261117-runs-mopd-sweep-n4-rl-20261002-144115-e02b602c,davidheineman,0,0,license:other; region:us
+2026-11-17T21:42:05Z,davidheineman/nfs-checkpoints-20261117-runs-mopd-sweep-n8-rl-20261002-144115-817bc012,davidheineman,0,0,license:other; region:us
+2026-11-17T21:42:24Z,onlyaady/PixelExact,onlyaady,0,0,task_categories:image-to-text; task_categories:text-to-image; task_categories:image-text-to-image; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:image; modality:t…
+2026-11-17T21:43:20Z,davidheineman/nfs-checkpoints-20261117-runs-mopd-clustering-n64-20261031-165158-1c0f68a6,davidheineman,0,0,license:other; region:us
+2026-11-17T21:43:38Z,g1n0st/b1197366c641d5c445cd8f32cc3756b53d8ad9ee,g1n0st,0,0,region:us
+2026-11-17T21:43:48Z,Arpansin/naruto-sd15-lora-generations,Arpansin,0,0,task_categories:text-to-image; license:other; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; stable-diffusion; lora; naruto…
+2026-11-17T21:45:22Z,davidheineman/nfs-checkpoints-20261117-ns-data-scaling-lora-teachers-v1-20261024-114721-b8d7144f,davidheineman,0,0,license:other; region:us
+2026-11-17T21:46:28Z,davidheineman/nfs-checkpoints-20261117-runs-clustering-mopd-n64-d16-20261101-150127-7c09a991,davidheineman,0,0,license:other; region:us
+2026-11-17T21:46:31Z,davidheineman/nfs-checkpoints-20261117-runs-transfer-regimes-sync-v1-20261102-143119-d1e69ef0,davidheineman,0,0,license:other; region:us
+2026-11-17T21:46:34Z,sehyunlee217/toronto_bikeshare_archive,sehyunlee217,0,0,size_categories:10M<n<100M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-17T21:47:09Z,Geraldine/openalex-country-mention,Geraldine,0,0,region:us
+2026-11-17T21:47:49Z,g1n0st/a3f32dc6c9929604e3f6875abac475fc2368154b,g1n0st,0,0,region:us
+2026-11-17T21:48:29Z,davidheineman/nfs-checkpoints-20261117-models-8edcc26c,davidheineman,0,0,license:other; region:us
+2026-11-17T21:50:29Z,davidheineman/nfs-checkpoint-archive-20261117,davidheineman,0,0,license:other; region:us
+2026-11-17T21:50:46Z,davidheineman/nfs-checkpoints-20261117-a-n16-q1-replay30-speed-v3-flex8-20261026-153152-39a0458e,davidheineman,0,0,license:other; region:us
+2026-11-17T21:50:47Z,davidheineman/nfs-checkpoints-20261117-math-groups-20261102-eda2ee53,davidheineman,0,0,license:other; region:us
+2026-11-17T21:51:58Z,davidheineman/nfs-checkpoints-20261117-runs-data-scaling-n128-rl-128k-20261024-010226-97aacdf2,davidheineman,0,0,license:other; region:us
+2026-11-17T21:52:34Z,InfraRabbit/compute-prices,InfraRabbit,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; modality:text; region:us; pricing; gpu; clou…
+2026-11-17T21:52:58Z,davidheineman/nfs-checkpoints-20261117-ns-data-scaling-multiround-r1-v1-20261023-154621-464d2a01,davidheineman,0,0,license:other; region:us
+2026-11-17T21:54:41Z,davidheineman/nfs-checkpoints-20261117-runs-hero-longhorizon-d01-rl-20261014-174951-85cc6d37,davidheineman,0,0,license:other; region:us
+2026-11-17T21:57:10Z,davidheineman/nfs-checkpoints-20261117-runs-dpo-n8-idea1-rl-baseline-20261006-232728-2b5d24d6,davidheineman,0,0,license:other; region:us
+2026-11-17T21:57:20Z,davidheineman/nfs-checkpoints-20261117-ro-sim-v2-r1-n4-dissimilar1-mopd-20261004-223239-8b383f99,davidheineman,0,0,license:other; region:us
+2026-11-17T21:57:28Z,davidheineman/nfs-checkpoints-20261117-runs-dpo-n8-idea2-rl-baseline-20261006-232728-3ba332e7,davidheineman,0,0,license:other; region:us
+2026-11-17T21:58:34Z,litmiq/llm-reliability-benchmark,litmiq,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; llm; evaluation; prompt-injection; structured-output; instruction-following; reliability; benchmark
+2026-11-17T21:58:53Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-17T21:58:53Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-17T21:59:29Z,litmiq/ai-chatbot-failures,litmiq,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; llm; chatbots; customer-support; incidents; reliability; safety
+2026-11-17T21:59:47Z,davidheineman/nfs-checkpoints-20261117-hero-sim-v2-r1-n4-dissimilar1-rl-20261004-223239-89fbfd00,davidheineman,0,0,license:other; region:us
+2026-11-17T21:59:51Z,litmiq/llm-api-pricing,litmiq,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; llm; pricing; api
+2026-11-17T22:00:10Z,litmiq/model-deprecation-tracker,litmiq,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; llm; deprecation; openai; anthropic…
+2026-11-17T22:00:35Z,davidheineman/nfs-checkpoints-20261117-runs-hero-longhorizon-d0123-rl-20261014-174951-071e3041,davidheineman,0,0,license:other; region:us
+2026-11-17T22:01:17Z,kitfunso/AI-PsychosisBench,kitfunso,0,0,license:other; region:us; benchmark; coding-agents; memory
+2026-11-17T22:01:30Z,ChahediCodeLabs/m2tmnxslv,ChahediCodeLabs,0,0,region:us
+2026-11-17T22:02:05Z,davidheineman/nfs-checkpoints-20261117-sim-v2-r1-n4-least-emergent-mopd-20261005-185326-8d520c54,davidheineman,0,0,license:other; region:us
+2026-11-17T22:03:13Z,davidheineman/nfs-checkpoints-20261117-ro-sim-v2-r1-n4-dissimilar2-mopd-20261004-223239-ca494a1c,davidheineman,0,0,license:other; region:us
+2026-11-17T22:03:15Z,davidheineman/nfs-checkpoints-20261117-hero-sim-v2-r1-n4-dissimilar2-rl-20261004-223239-27c9685a,davidheineman,0,0,license:other; region:us
+2026-11-17T22:04:30Z,davidheineman/nfs-checkpoints-20261117-o-sim-v2-r1-n4-least-emergent-rl-20261005-185326-7a72a60b,davidheineman,0,0,license:other; region:us
+2026-11-17T22:05:50Z,g1n0st/8e08d03f0095cb1f9dc53299fbb817294b8befbf,g1n0st,0,0,region:us
+2026-11-17T22:07:10Z,davidheineman/nfs-checkpoints-20261117-ro-sim-v2-r1-n4-most-emergent-rl-20261005-185326-ac903b1e,davidheineman,0,0,license:other; region:us
+2026-11-17T22:07:54Z,davidheineman/nfs-checkpoints-20261117-ns-hero-sim-v2-r1-n4-similar1-rl-20261004-223239-58c8bdb6,davidheineman,0,0,license:other; region:us
+2026-11-17T22:09:42Z,davidheineman/nfs-checkpoints-20261117-ns-hero-sim-v2-r1-n4-similar2-rl-20261004-223239-8621ad88,davidheineman,0,0,license:other; region:us
+2026-11-17T22:10:31Z,amylingchen/shapes4_r1117_v1,amylingchen,0,0,region:us
+2026-11-17T22:11:07Z,imagineio/sample-only-simready-central,imagineio,0,0,license:cc-by-nc-4.0; region:us
+2026-11-17T22:12:02Z,davidheineman/nfs-checkpoints-20261117-uns-hero-sim-v2-r1-n8-similar-rl-20261004-223239-e834b817,davidheineman,0,0,license:other; region:us
+2026-11-17T22:12:02Z,davidheineman/nfs-checkpoints-20261117-s-hero-sim-v2-r1-n8-similar-mopd-20261004-223239-36dbeb3d,davidheineman,0,0,license:other; region:us
+2026-11-17T22:12:56Z,fahmidiqbal/SpRL_document,fahmidiqbal,0,0,region:us
+2026-11-17T22:13:25Z,davidheineman/nfs-checkpoints-20261117-irwise-transfer-negative-n4-mopd-20261006-092236-10931898,davidheineman,0,0,license:other; region:us
+2026-11-17T22:14:21Z,davidheineman/nfs-checkpoints-20261117-r1-pairwise-transfer-negative-rl-20261005-230421-dae5a5d5,davidheineman,0,0,license:other; region:us
+2026-11-17T22:16:00Z,SieloRobotics/rebot_machine_tending_II_ee,SieloRobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-17T22:16:05Z,davidheineman/nfs-checkpoints-20261117-pairwise-transfer-negative-n4-rl-20261006-092236-93d7244c,davidheineman,0,0,license:other; region:us
+2026-11-17T22:17:24Z,davidheineman/nfs-checkpoints-20261117-2-r1-pairwise-transfer-none-mopd-20261005-230421-704c4e38,davidheineman,0,0,license:other; region:us
+2026-11-17T22:17:50Z,davidheineman/nfs-checkpoints-20261117-1-pairwise-transfer-none-n4-mopd-20261006-092236-bf63d1d0,davidheineman,0,0,license:other; region:us
+2026-11-17T22:18:05Z,ZariahKace/Annoy-PyEdu-Rs,ZariahKace,0,0,region:us
+2026-11-17T22:18:06Z,ZariahKace/Annoy-PyEdu-Rs-Raw,ZariahKace,0,0,region:us
+2026-11-17T22:20:23Z,davidheineman/nfs-checkpoints-20261117-1-pairwise-transfer-oneway-n4-rl-20261006-092236-62792bd7,davidheineman,0,0,region:us
+2026-11-17T22:20:37Z,davidheineman/nfs-checkpoints-20261117-r1-pairwise-transfer-oneway-mopd-20261005-230421-61207e6b,davidheineman,0,0,region:us
+2026-11-17T22:20:48Z,davidheineman/nfs-checkpoints-20261117-pairwise-transfer-oneway-n4-mopd-20261006-092236-c71a648a,davidheineman,0,0,region:us
