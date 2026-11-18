@@ -1,0 +1,52 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-17T23:21:14Z,ithiria894/polymarket-l2-orderbook,ithiria894,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; size_categories:1B<n<10B; region:us; finance; prediction-markets; polymarket; order-book; market-microstructure; time-series
+2026-11-17T23:21:41Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-17T23:21:42Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-17T23:22:01Z,openamer-max/openamer-os,openamer-max,0,0,language:de; language:en; license:other; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; openamer; operating-system; live-iso; local-first
+2026-11-17T23:24:19Z,davidheineman/nfs-checkpoints-20261117-clustering-mopd-v2-n64-k4-k16-d8-20261104-230932-1a789650,davidheineman,0,0,license:other; region:us
+2026-11-17T23:24:26Z,rdo1/euro-vehicle-corpus-full,rdo1,0,0,task_categories:image-classification; license:other; region:us; vehicles; dashcam; fine-grained
+2026-11-17T23:28:54Z,davidheineman/nfs-checkpoints-20261117-runs-clustering-simple-sync-v1-20261102-194100-69a80a22,davidheineman,0,0,license:other; region:us
+2026-11-17T23:30:06Z,g1n0st/00af4c9661593e14c8352b82e83a04577dfc17d9,g1n0st,0,0,region:us
+2026-11-17T23:30:26Z,korfrokforkf/movie,korfrokforkf,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-17T23:31:04Z,quinnlue/lm-pilot-data,quinnlue,0,0,region:us
+2026-11-17T23:31:06Z,quinnlue/lm-pilot-results,quinnlue,0,0,region:us
+2026-11-17T23:33:38Z,davidheineman/nfs-checkpoints-20261117-dolci-mix-20261029-ffb2783f,davidheineman,0,0,license:other; region:us
+2026-11-17T23:33:41Z,rasyosef/AfriModernBERT-tokenized-dataset-65k-512,rasyosef,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T23:34:01Z,rasyosef/AfriModernBERT-tokenized-dataset-65k-8k,rasyosef,0,0,size_categories:n<1K; format:parquet; format:optimized-parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T23:34:14Z,davidheineman/nfs-checkpoints-20261117-a-n32-q1-replay30-speed-v3-flex8-20261026-192200-7127ffee,davidheineman,0,0,license:other; region:us
+2026-11-17T23:35:46Z,davidheineman/nfs-checkpoints-20261117-dolci-followup-20261031-93fcc363,davidheineman,0,0,license:other; region:us
+2026-11-17T23:37:00Z,democratlegal/ipc-to-bns-mapping,democratlegal,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T23:39:37Z,Novo09/novo-mundo-data,Novo09,0,0,size_categories:10K<n<100K; format:text; modality:geospatial; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-17T23:39:41Z,djhjyjd46/belarus-business-registry-2026,djhjyjd46,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:ru; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; libra…
+2026-11-17T23:41:33Z,SmartStake/cfb-mainlines,SmartStake,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; li…
+2026-11-17T23:42:07Z,fritowrito/jolly-voice-takes,fritowrito,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-17T23:42:59Z,hwk0809/RD-Mix-v4,hwk0809,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot
+2026-11-17T23:47:05Z,CaiYuanhao/SAX-NeRF-demo-assets,CaiYuanhao,0,1,license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2311.10959; region:us; sax-nerf; computed-tomography…
+2026-11-17T23:47:25Z,g1n0st/ee5a40904b852d9f10616781e6adbf3d4c69be35,g1n0st,0,0,region:us
+2026-11-17T23:48:07Z,mostafabehroozi/numinamath-2025,mostafabehroozi,0,0,region:us
+2026-11-17T23:50:43Z,tensorust/usorg-bench,tensorust,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:tabular; modality:text; region:us; entity-resolution; record-linkage; name-matching; organizat…
+2026-11-17T23:51:31Z,jchen04/callmoves-audio,jchen04,0,0,region:us
+2026-11-17T23:51:34Z,stefanocarrera/kic_D_train-javascript_Qwen3-4B_t1.5_g8_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-17T23:51:34Z,hamzagsm/phonebook,hamzagsm,0,0,size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-17T23:52:27Z,lyyyyyj/misumi-rob814-relay,lyyyyyj,0,0,region:us
+2026-11-17T23:53:22Z,davidheineman/nfs-checkpoints-20261117-modular-mopd-rl-v1-989895ec,davidheineman,0,0,license:other; region:us
+2026-11-17T23:56:41Z,davidheineman/nfs-checkpoints-20261117-chess-ac739dcc,davidheineman,0,0,license:other; region:us
+2026-11-17T23:59:35Z,tchbcb/pcguy_r,tchbcb,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-18T00:01:45Z,g1n0st/e73ba4806c2f1b134962171bc5dc35e41fa88631,g1n0st,0,0,region:us
+2026-11-18T00:02:53Z,davidheineman/nfs-checkpoints-20261117-dolci-mopd-sftinit-4096-eval32-20261103-84e4df6c,davidheineman,0,0,license:other; region:us
+2026-11-18T00:04:02Z,hrl-imerse/doug-cube-tray-v3,hrl-imerse,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region:us; LeR…
+2026-11-18T00:04:12Z,pschwartz26/rollout_one_cube_50_20261117_185724,pschwartz26,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T00:06:12Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs,DSAD12DSA4TRFDS,0,0,region:us
+2026-11-18T00:06:13Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs-Raw,DSAD12DSA4TRFDS,0,0,region:us
+2026-11-18T00:06:56Z,g1n0st/fd0a7192688cc70227fbd70e952779ef283d8d07,g1n0st,0,0,region:us
+2026-11-18T00:07:14Z,pschwartz26/rollout_one_cube_50,pschwartz26,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-18T00:08:13Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-11-18T00:08:14Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-11-18T00:09:50Z,davidheineman/nfs-checkpoints-20261117-runs-async-lora-n32-20261025-141924-7545774a,davidheineman,0,0,region:us
+2026-11-18T00:12:24Z,acassano/usda-fruit-trade-data,acassano,0,0,license:other; region:us
+2026-11-18T00:13:19Z,hrl-imerse/doug-cube-tray-v3-trimmed,hrl-imerse,0,0,region:us; LeRobot; so101; real-robot; pick-and-place
+2026-11-18T00:14:35Z,ABUAOUS/test,ABUAOUS,0,0,region:us
+2026-11-18T00:16:48Z,therayelab/oncocompass-simulation-research-v1-44,therayelab,0,0,task_categories:text-generation; language:en; license:other; size_categories:1K<n<10K; region:us; synthetic-data; oncology; research-only; evidence-reasoning
+2026-11-18T00:19:06Z,davidheineman/nfs-checkpoints-20261117-nano-omni-midtraining-0b437413,davidheineman,0,0,region:us
+2026-11-18T00:20:13Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-18T00:20:13Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
