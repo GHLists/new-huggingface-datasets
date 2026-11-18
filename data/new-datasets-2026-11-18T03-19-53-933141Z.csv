@@ -1,0 +1,58 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-18T02:22:48Z,WenjiaWang/SIMS_data_release,WenjiaWang,0,0,task_categories:robotics; region:us
+2026-11-18T02:23:59Z,lizhiyuell/diskann_repro_package,lizhiyuell,0,0,arxiv:1503.01817; region:us
+2026-11-18T02:24:09Z,liumomo117/Salad-Data,liumomo117,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; libr…
+2026-11-18T02:24:44Z,kob0105/rollout_retry_new_act_paper_normal_whiteball_IR_20261118_112321,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T02:25:10Z,yrlyrl/mmcot-box-backup-1118,yrlyrl,0,0,region:us
+2026-11-18T02:25:46Z,suvadityamuk/gso-trellis2-latents,suvadityamuk,0,0,source_datasets:suvadityamuk/gso-objects; license:cc-by-4.0; size_categories:n<1K; format:text; modality:image; modality:text; modality:3d; library:datasets; library:mlcroissant; region:us; 3d; trell…
+2026-11-18T02:27:24Z,echohfhen4j9/efficientnet-cache83c,echohfhen4j9,0,0,region:us
+2026-11-18T02:29:59Z,JinPLU/CaT-Movie-T5-Cache,JinPLU,0,0,task_categories:text-to-video; task_categories:feature-extraction; language:en; license:cc-by-nc-sa-4.0; size_categories:100K<n<1M; region:us; umt5-xxl; text-embeddings; video-generation; multi-shot-…
+2026-11-18T02:30:00Z,JinPLU/CaT-Movie-VAE-Caches,JinPLU,0,0,task_categories:text-to-video; language:en; license:cc-by-nc-sa-4.0; size_categories:100K<n<1M; region:us; vae-latents; video-generation; multi-shot-video; wan2.2; wan2.1; cat-movie
+2026-11-18T02:30:00Z,JinPLU/CaT-Movie-Source-Videos,JinPLU,0,0,region:us
+2026-11-18T02:31:47Z,ai-conferences/SIGGRAPHAsia2026,ai-conferences,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T02:33:18Z,DenerEdu/sentimento-financeiro-ptbr,DenerEdu,0,0,task_categories:text-classification; language:pt; license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finan…
+2026-11-18T02:33:25Z,ibxtest/field-roadmap-media,ibxtest,0,0,region:us
+2026-11-18T02:33:58Z,mtmtt/JumboDiceTower_v2_20261117_203208,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T02:36:18Z,thanhnguyen23/pyramid_cup_stack_v5,thanhnguyen23,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-18T02:37:12Z,agriculture-food-systems-ai/Instant-Food-Ingredients-Allergen-and-Nutrition-Compliance-Catalog-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; instant food dataset; instant noodle ingredients; food…
+2026-11-18T02:38:51Z,Dawn9705/olmes-qwen3-base-code-reference,Dawn9705,0,0,task_categories:text-generation; license:other; region:us; olmes; code-evaluation; qwen3; reproducibility
+2026-11-18T02:40:10Z,PetrolCast/fuel-prices,PetrolCast,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fuel-prices;…
+2026-11-18T02:40:51Z,agriculture-food-systems-ai/Papaya-Irrigation-and-Nutrient-Status-Attribute-Extraction-Evaluation-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; papaya dataset; papaya irrigation; nutrient status; ag…
+2026-11-18T02:42:15Z,Huggingzhu1/stretch_real_teleop_v3,Huggingzhu1,0,0,task_categories:robotics; license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; stretch; pi0.5; mobile-manipulation; teleopera…
+2026-11-18T02:43:27Z,acassano/seattle-crime-data,acassano,0,0,license:other; region:us
+2026-11-18T02:46:09Z,DoubleY2/Fin_1117_iter1,DoubleY2,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T02:48:05Z,leeauthorlee/judo_throws,leeauthorlee,0,0,license:mit; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-18T02:50:02Z,makaikoghogo/alib_encrypted_models2,makaikoghogo,0,0,region:us
+2026-11-18T02:51:39Z,SZLHOLDINGS/frontier-rewards,SZLHOLDINGS,0,0,region:us
+2026-11-18T02:51:50Z,nootxlm/gold-conflicts-atlas,nootxlm,0,0,language:en; license:other; region:us; benchmark; data-quality; gold-labels; audit
+2026-11-18T02:51:50Z,tchbcb/pcguy_r,tchbcb,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-18T02:52:46Z,npow/provable-vla-capture-archives,npow,0,0,task_categories:robotics; language:en; region:us; inference-audit; captured-tensors
+2026-11-18T02:54:26Z,sa12cxz12xcz12/Annoy-PyEdu-Rs,sa12cxz12xcz12,0,0,region:us
+2026-11-18T02:54:56Z,sa12cxz12xcz12/Annoy-PyEdu-Rs-Raw,sa12cxz12xcz12,0,0,region:us
+2026-11-18T02:54:57Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-11-18T02:54:57Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-11-18T02:55:03Z,yashashree24shinde/data266-lab2-p2-naruto-images,yashashree24shinde,0,0,task_categories:text-to-image; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; stable-diffusion; lora; naruto
+2026-11-18T02:55:08Z,ryry99/meyo-assets-hf,ryry99,0,0,region:us
+2026-11-18T02:55:30Z,lorn666/maxrl_smollm2_360m_gsm8k_rollouts_topk32_smoke,lorn666,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2602.02710;…
+2026-11-18T02:56:45Z,cspaliwal/so101-stage2-dataset,cspaliwal,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T02:59:48Z,csaxe21xcz/Annoy-PyEdu-Rs,csaxe21xcz,0,0,region:us
+2026-11-18T02:59:49Z,csaxe21xcz/Annoy-PyEdu-Rs-Raw,csaxe21xcz,0,0,region:us
+2026-11-18T03:00:23Z,ASD1DSA21DSA/Annoy-PyEdu-Rs,ASD1DSA21DSA,0,0,region:us
+2026-11-18T03:00:24Z,ASD1DSA21DSA/Annoy-PyEdu-Rs-Raw,ASD1DSA21DSA,0,0,region:us
+2026-11-18T03:00:50Z,dansq/gs-art-tmp2,dansq,0,0,region:us
+2026-11-18T03:00:59Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T03:01:00Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T03:01:06Z,g1n0st/adb444a739e8da527dd42004e5b57635be7fc196,g1n0st,0,0,region:us
+2026-11-18T03:02:28Z,greek616/pdf_poems,greek616,0,0,license:cc; region:us
+2026-11-18T03:03:01Z,g1n0st/bc6784322be80628bd29784f4bd780ab119b572e,g1n0st,0,0,region:us
+2026-11-18T03:03:11Z,TUaxhuiax/toolathlon-audit-probe-699,TUaxhuiax,0,0,region:us
+2026-11-18T03:06:25Z,stefanocarrera/kic_D_test-javascript_Qwen3-4B_t1.5_g10_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T03:06:29Z,OumarDicko/brvm-fractionnements,OumarDicko,0,0,language:fr; license:apache-2.0; size_categories:n<1K; modality:tabular; region:us; finance; brvm; stock-split; corporate-actions; fractionnement; bourse; west-africa; afrique-de-l-ouest; uemoa; tabu…
+2026-11-18T03:07:55Z,echohfhen4j9/efficientnet-cache83d,echohfhen4j9,0,0,region:us
+2026-11-18T03:10:22Z,environment-nature-dataset/Counterfactual-QA-Dataset-for-Regional-Haze-Transport-and-Visibility-Impacts-Under-Wind-Shifts,environment-nature-dataset,0,0,license:cc-by-nc-4.0; region:us
+2026-11-18T03:11:40Z,hamakan2/ruri-cpt-index,hamakan2,0,0,region:us
+2026-11-18T03:16:25Z,toolathlon-eval-06/Annoy-PyEdu-Rs,toolathlon-eval-06,0,0,region:us
+2026-11-18T03:16:25Z,toolathlon-eval-06/Annoy-PyEdu-Rs-Raw,toolathlon-eval-06,0,0,region:us
+2026-11-18T03:17:06Z,g1n0st/ca3e670340a1e431f7e7df90b07f7e040cec2f0c,g1n0st,0,0,region:us
+2026-11-18T03:19:04Z,ohhmyylloydd/aswang-studio-character-refs,ohhmyylloydd,0,0,region:us
+2026-11-18T03:19:10Z,another-phytophile/breeding-agent-bench-seed,another-phytophile,0,0,license:other; region:us; plant-breeding; brapi; cassava; benchmark
