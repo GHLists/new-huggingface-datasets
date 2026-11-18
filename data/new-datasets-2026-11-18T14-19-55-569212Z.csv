@@ -1,0 +1,110 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-18T13:21:49Z,SoSolaris/can_to_mug_20261117115234565908_raw,SoSolaris,0,0,region:us
+2026-11-18T13:22:55Z,Davidchonun/reels,Davidchonun,0,0,region:us
+2026-11-18T13:22:58Z,wjdals01/rollout_red_block_hil_rtc_20261118_222046,wjdals01,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T13:24:19Z,think-right/pde-discover,think-right,0,0,region:us
+2026-11-18T13:25:05Z,arthurluca/pump-fun-referral-code-fun100-exploring-dashboard-tools-and-personal-account-settings,arthurluca,0,0,region:us
+2026-11-18T13:25:29Z,noetherlabs/twin-registration-development-v1,noetherlabs,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; optics; calibrati…
+2026-11-18T13:25:51Z,Rick-gf/object_selection,Rick-gf,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-18T13:26:03Z,sejzu0123/bca682a7-1e80-49f9-b78a-49cdd67b1325,sejzu0123,0,0,region:us
+2026-11-18T13:26:45Z,SoSolaris/can_to_mug_20261118032409767643_raw,SoSolaris,0,0,region:us
+2026-11-18T13:27:14Z,SoSolaris/can_to_mug_merged_20261117,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-18T13:27:23Z,arthurluca/pump-fun-referral-code-cut100-understanding-trading-fees-and-token-swapping-features,arthurluca,0,0,region:us
+2026-11-18T13:28:40Z,wjdals01/rollout_red_block_hil_rtc_20261118_222812,wjdals01,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-18T13:29:27Z,arthurluca/pump-fun-referral-code-get10-how-to-create-an-account-and-connect-your-crypto-wallet,arthurluca,0,0,region:us
+2026-11-18T13:29:59Z,swastikkkkkkkkk/bhaiksuki-new-format-syn-5k-f,swastikkkkkkkkk,0,0,region:us
+2026-11-18T13:30:27Z,SoSolaris/can_to_mug_20261118052132029600_raw,SoSolaris,0,0,region:us
+2026-11-18T13:30:29Z,arthurluca/pump-fun-referral-code-get25-essential-tips-to-protect-and-secure-your-crypto-wallet,arthurluca,0,0,region:us
+2026-11-18T13:30:46Z,Ivyling000/hnsw-semdedup-experiments,Ivyling000,0,0,region:us
+2026-11-18T13:31:44Z,arthurluca/pump-fun-referral-code-get5-beginners-guide-to-using-pump-fun-features,arthurluca,0,0,region:us
+2026-11-18T13:32:19Z,belztjti/1111,belztjti,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T13:33:36Z,Ai4Testers/build-drift-bench,Ai4Testers,0,0,task_categories:text-classification; task_ids:natural-language-inference; multilinguality:multilingual; language:en; language:es; language:zh; language:hi; license:cc-by-4.0; size_categories:n<1K; fo…
+2026-11-18T13:33:41Z,arthurluca/fomo-referral-code-cashback-how-to-register-and-navigate-your-account-dashboard,arthurluca,0,0,region:us
+2026-11-18T13:34:30Z,SoSolaris/can_to_mug_20261118053050360265_raw,SoSolaris,0,0,region:us
+2026-11-18T13:35:11Z,arthurluca/fomo-referral-code-invest50-beginners-guide-to-getting-started-with-fomo,arthurluca,0,0,region:us
+2026-11-18T13:35:30Z,MatsuoDochiai/prototipo,MatsuoDochiai,0,0,license:mit; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-18T13:36:14Z,Purple-SY/pick_place_right_11_17_S01_F03_R,Purple-SY,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-18T13:37:36Z,arthurluca/fomo-referral-code-invest20-understanding-trading-fees-and-exchange-functions,arthurluca,0,0,region:us
+2026-11-18T13:37:55Z,sejzu0123/8c05dbe3-9c3f-41fa-82d2-646e1da04b62,sejzu0123,0,0,region:us
+2026-11-18T13:38:11Z,sejzu0123/c8d922d4-e1dd-4bcc-ae6b-aa145162e721,sejzu0123,0,0,region:us
+2026-11-18T13:38:43Z,Gynius84/aiwillberich-test-hf-001,Gynius84,0,0,region:us
+2026-11-18T13:38:46Z,arthurluca/fomo-referral-code-invest30-account-creation-process-and-essential-platform-features,arthurluca,0,0,region:us
+2026-11-18T13:40:11Z,myestery/rehype-motion-reels,myestery,0,0,license:other; size_categories:n<1K; modality:video; region:us; synthetic; ai-generated; video; text-to-video
+2026-11-18T13:40:20Z,sejzu0123/26f3b775-a1cc-4ece-ab8e-3d43a5ca266a,sejzu0123,0,0,region:us
+2026-11-18T13:40:25Z,Purple-SY/pick_place_right_11_17_S02_F03_R,Purple-SY,0,0,region:us
+2026-11-18T13:40:28Z,arthurluca/fomo-referral-code-invest40-discover-platform-features-promotions-and-available-offers,arthurluca,0,0,region:us
+2026-11-18T13:41:41Z,arthurluca/fomo-referral-code-rohit40-exploring-trading-options-and-managing-your-account,arthurluca,0,0,region:us
+2026-11-18T13:43:01Z,Gynius84/aiwillberich-test-hf-fixed,Gynius84,0,0,license:mit; region:us; ai; code-review; training-data
+2026-11-18T13:43:03Z,cyx66666/openpi-p7-state19-live-loss-metrics,cyx66666,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T13:43:04Z,Rebuild-It-Labs/weather-QA-finetuning-360rows,Rebuild-It-Labs,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; weather; dataset
+2026-11-18T13:43:30Z,SoSolaris/can_to_mug_20261118054542358570_raw,SoSolaris,0,0,region:us
+2026-11-18T13:44:39Z,arthurluca/fomo-referral-code-rebate50-complete-overview-of-platform-features-and-user-benefits,arthurluca,0,0,region:us
+2026-11-18T13:44:45Z,Hebrish/Hebrew-TTS-Eval-Set,Hebrish,0,0,task_categories:text-to-speech; language:he; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; heb…
+2026-11-18T13:45:21Z,wolfL/round,wolfL,0,0,license:mit; region:us
+2026-11-18T13:45:41Z,SOTAagi2030/Transit-Headway-Atlas-364,SOTAagi2030,0,0,region:us; transit; telemetry
+2026-11-18T13:47:26Z,deewac/auto-mpg,deewac,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T13:48:27Z,SoSolaris/can_to_mug_20261118055113613253_raw,SoSolaris,0,0,region:us
+2026-11-18T13:48:48Z,sejzu0123/3c074aad-d399-48c9-8de9-f8c358b00a47,sejzu0123,0,0,region:us
+2026-11-18T13:49:25Z,arthurluca/phantom-referral-code-reward100-complete-guide-to-setting-up-and-managing-your-crypto-wallet,arthurluca,0,0,region:us
+2026-11-18T13:51:27Z,Shanahancn/Annoy-PyEdu-Rs,Shanahancn,0,0,region:us
+2026-11-18T13:51:28Z,Shanahancn/Annoy-PyEdu-Rs-Raw,Shanahancn,0,0,region:us
+2026-11-18T13:51:31Z,prakhya15/qwen-icl-molecular-generation-logs,prakhya15,0,0,task_categories:text-generation; language:en; size_categories:n<1K; region:us; molecular-generation; cheminformatics; SMILES; Qwen; RDKit; zero-shot
+2026-11-18T13:51:42Z,arthurluca/phantom-referral-code-join100-how-to-back-up-and-restore-your-phantom-wallet-safely,arthurluca,0,0,region:us
+2026-11-18T13:52:45Z,VAISR/BLS-20K,VAISR,0,0,license:cc-by-nc-4.0; region:us
+2026-11-18T13:52:49Z,arthurluca/phantom-referral-code-bonus100-managing-crypto-tokens-and-customizing-wallet-settings,arthurluca,0,0,region:us
+2026-11-18T13:54:24Z,SoSolaris/can_to_mug_20261118055813918831_raw,SoSolaris,0,0,region:us
+2026-11-18T13:54:35Z,arthurluca/phantom-referral-code-welcome10-step-by-step-guide-to-using-phantom-wallet-for-beginners,arthurluca,0,0,region:us
+2026-11-18T13:56:42Z,seg-clima-adverso/synthia-seqs-sunny,seg-clima-adverso,0,0,license:cc-by-nc-sa-3.0; region:us
+2026-11-18T13:57:04Z,arthurluca/phantom-referral-code-get100-how-to-activate-offers-and-manage-your-wallet-preferences,arthurluca,0,0,region:us
+2026-11-18T13:57:30Z,moonhouse/regupptest,moonhouse,0,0,size_categories:n<1K; format:parquet; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T13:57:48Z,swastikkkkkkkkk/bhaiksuki-new-format-syn-5k,swastikkkkkkkkk,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T13:57:51Z,bb1311/intro2ds-arxiv-dataset,bb1311,0,0,region:us
+2026-11-18T13:58:14Z,SOTAagi2030/Seasonal-Trail-Closure-Windows-2031,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-18T13:59:00Z,arthurluca/phantom-referral-code-cashback100-complete-guide-to-transferring-sol-and-understanding-network-t,arthurluca,0,0,region:us
+2026-11-18T13:59:21Z,GVAR/so101_pick_cube3,GVAR,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-18T14:00:07Z,Purple-SY/pick_place_left_11_14_S01_F03,Purple-SY,0,0,region:us
+2026-11-18T14:01:23Z,visual-memory/Persona-Modality-Mapping,visual-memory,0,0,language:en; arxiv:2502.20504; region:us; synthetic; persona; parquet
+2026-11-18T14:01:50Z,danielrosehill/ASR-Tasks,danielrosehill,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; speech-recognition; asr; datas…
+2026-11-18T14:02:12Z,arthurluca/liquid-trade-referral-code-save-signup-guide-and-platform-features,arthurluca,0,0,region:us
+2026-11-18T14:02:31Z,Digitaluz/uzbek-language-corpus,Digitaluz,0,1,task_categories:text-generation; task_categories:fill-mask; task_ids:language-modeling; task_ids:masked-language-modeling; multilinguality:monolingual; language:uz; license:odc-by; size_categories:1M…
+2026-11-18T14:02:42Z,visual-memory/Persona-Modality-Mapping-Qwen-Image-2.1,visual-memory,0,0,language:en; modality:image; arxiv:2502.20504; region:us; synthetic; persona; parquet; image
+2026-11-18T14:03:27Z,Purple-SY/pick_place_left_11_14_S02_F03,Purple-SY,0,0,region:us
+2026-11-18T14:03:28Z,llha-dot/h100alvin-atsdtrain,llha-dot,0,0,region:us
+2026-11-18T14:03:49Z,arthurluca/weex-referral-code-18qsc-registration-and-verification-guide,arthurluca,0,0,region:us
+2026-11-18T14:04:57Z,Sandokan1/alphabet-situationnel,Sandokan1,0,0,task_categories:text-classification; language:en; license:cc-by-sa-4.0; region:us; forecasting; judgmental-forecasting; base-rates
+2026-11-18T14:05:01Z,cemig-ceia/documentos_internos,cemig-ceia,0,0,size_categories:n<1K; region:us
+2026-11-18T14:05:18Z,SoSolaris/can_to_mug_20261118061526925982_raw,SoSolaris,0,0,region:us
+2026-11-18T14:05:36Z,sejzu0123/ee3e683c-9265-443e-8ae5-96add513bb1c,sejzu0123,0,0,region:us
+2026-11-18T14:05:39Z,terkar/skin-assessment-13-class-filtered,terkar,0,0,task_categories:image-classification; region:us; dermatology; skin-conditions; image-dataset
+2026-11-18T14:06:29Z,arthurluca/weex-referral-code-rohit50-exchange-features-and-trading-guide,arthurluca,0,0,region:us
+2026-11-18T14:08:14Z,arthurluca/make-fun-referral-code-0mmnnz57-get-10-off-on-all-payment,arthurluca,0,0,region:us
+2026-11-18T14:10:13Z,tchbcb/pcguy_r,tchbcb,0,0,region:us
+2026-11-18T14:10:30Z,mojoz/samoffice_r,mojoz,0,0,region:us
+2026-11-18T14:10:40Z,ibitec/cache-trace-cluster10-parquet,ibitec,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us; cache-trace; mrc; reuse-distance; twitter
+2026-11-18T14:10:47Z,mojoz/openbox_r,mojoz,0,0,region:us
+2026-11-18T14:11:34Z,visual-memory/Persona-Modality-Mapping-FLUX-3-Image-Klein,visual-memory,0,0,language:en; modality:image; arxiv:2502.20504; region:us; synthetic; persona; parquet; image
+2026-11-18T14:11:40Z,mojoz/samime_r,mojoz,0,0,region:us
+2026-11-18T14:11:45Z,semanticalabrs/semanticlabrs,semanticalabrs,0,0,region:us
+2026-11-18T14:11:49Z,SoSolaris/can_to_mug_20261118071827741227_raw,SoSolaris,0,0,region:us
+2026-11-18T14:12:02Z,gasschina/samcdp_r,gasschina,0,0,region:us
+2026-11-18T14:12:16Z,Radarbg/eu-vat-rates,Radarbg,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; vat; tax; eu; finance; ecommerce; invoicing
+2026-11-18T14:12:17Z,Radarbg/public-holidays-2027,Radarbg,0,0,language:en; license:mit; size_categories:1K<n<10K; region:us; holidays; calendar; 2027; planning; hr
+2026-11-18T14:12:23Z,mojoz/samvnc_r,mojoz,0,0,region:us
+2026-11-18T14:12:45Z,mojoz/teambot_r,mojoz,0,0,region:us
+2026-11-18T14:13:06Z,mojoz/oneapi_r,mojoz,0,0,region:us
+2026-11-18T14:13:28Z,arthurluca/pump-fun-app-referral-code-join100-step-by-step-account-creation-and-signup-tutorial,arthurluca,0,0,region:us
+2026-11-18T14:13:32Z,gasschina/zagent_r,gasschina,0,0,region:us
+2026-11-18T14:13:32Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs,ASDSAGJADFQWQ,0,0,region:us
+2026-11-18T14:13:33Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw,ASDSAGJADFQWQ,0,0,region:us
+2026-11-18T14:14:08Z,visual-memory/Persona-Modality-Mapping-Qwen-Image-2512,visual-memory,0,0,language:en; modality:image; arxiv:2502.20504; region:us; synthetic; persona; parquet; image
+2026-11-18T14:14:27Z,arthurluca/pump-fun-app-referral-code-best100-account-login-process-and-essential-settings-explained,arthurluca,0,0,region:us
+2026-11-18T14:15:17Z,arthurluca/pump-fun-app-referral-code-flat100-how-to-buy-sell-and-trade-tokens-on-pump-fun,arthurluca,0,0,region:us
+2026-11-18T14:15:18Z,SoSolaris/can_to_mug_20261118081232974476_raw,SoSolaris,0,0,region:us
+2026-11-18T14:17:02Z,arthurluca/pump-fun-app-referral-code-cashback100-registration-steps-and-exclusive-platform-benefits,arthurluca,0,0,region:us
+2026-11-18T14:17:05Z,SoSolaris/can_to_mug_20261118085702348384_raw,SoSolaris,0,0,region:us
+2026-11-18T14:18:04Z,dougalldeepmind/2026-11-18-oaihf-openrouter-qwen3-8-27b,dougalldeepmind,0,0,region:us; eval-run; eval:oai_hf; model:openrouter_qwen3_8_27b; mode:default
+2026-11-18T14:18:11Z,starkAhmed43/lc-image-4af1a578d144fe6027c00969,starkAhmed43,0,0,region:us
+2026-11-18T14:18:36Z,SOTAagi2030/Oral-History-Catalog-434,SOTAagi2030,0,0,region:us
+2026-11-18T14:18:40Z,AxisAlexis/usb-c-charger-compatibility,AxisAlexis,0,0,task_categories:tabular-classification; license:cc-by-4.0; size_categories:1K<n<10K; region:us; usb-c; usb-power-delivery; charging; consumer-electronics; smartphones; laptops; open-data
+2026-11-18T14:18:40Z,SOTAagi2030/Rights-Amendment-Ledger-434,SOTAagi2030,0,0,region:us
+2026-11-18T14:19:45Z,SaggyD2981/decision-model-order-invariance-benchmark,SaggyD2981,0,0,task_categories:multiple-choice; language:en; size_categories:10K<n<100K; modality:text; region:us; benchmark; evaluation; synthetic; decision-models; order-invariance; permutation-sensitivity; posit…
