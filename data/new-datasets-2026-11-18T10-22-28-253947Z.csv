@@ -1,0 +1,180 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-18T09:21:37Z,liuffg124/Annoy-PyEdu-Rs-Raw,liuffg124,0,0,region:us
+2026-11-18T09:21:37Z,liuffg124/Annoy-PyEdu-Rs,liuffg124,0,0,region:us
+2026-11-18T09:22:23Z,joyal2003/Real-Estate-Property-Image-Dataset-Lamudi-Facebook-Ohmyhome-PerchanceAI,joyal2003,0,0,language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; lamudi; facebook; ohmyhomes; real-estate-property; real-estate; real-estate-properties; AI-generated-real-estate-properties; wate…
+2026-11-18T09:22:48Z,umairabbasi/story-audio,umairabbasi,0,0,license:mit; region:us
+2026-11-18T09:22:54Z,trigrip/eastin-test1_20261118_182115,trigrip,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T09:23:28Z,MichelJordon/TajikSpoken-AI,MichelJordon,0,0,task_categories:text-generation; task_categories:translation; language:tg; license:cc-by-4.0; region:us; tajik; conversational-tajik; dialects; low-resource-language
+2026-11-18T09:23:58Z,yunusemrejr/Franok-Session-Tasks,yunusemrejr,0,0,task_categories:question-answering; task_categories:text-generation; language:en; language:tr; license:mit; region:us
+2026-11-18T09:24:08Z,arena-education/geometry-of-truth,arena-education,0,0,license:other; region:us
+2026-11-18T09:24:10Z,arena-education/deception-detection,arena-education,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:24:20Z,therayelab/oncoreason-simulation-research-v2-31-pilot,therayelab,0,0,task_categories:text-classification; language:en; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-18T09:24:22Z,miya-k/so101_bimanual_camera_test_20261118_181511,miya-k,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T09:25:21Z,Waseem2106/ecommerce-products-60k,Waseem2106,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-18T09:25:57Z,g1n0st/37a180778c42f152abd3315530f35c98702a16ea,g1n0st,0,0,region:us
+2026-11-18T09:26:10Z,SoSolaris/can_to_mug_20261117093859079933_raw,SoSolaris,0,0,region:us
+2026-11-18T09:26:50Z,asadqwr/Annoy-PyEdu-Rs,asadqwr,0,0,region:us
+2026-11-18T09:26:51Z,asadqwr/Annoy-PyEdu-Rs-Raw,asadqwr,0,0,region:us
+2026-11-18T09:27:22Z,ebml-results/arke-mechinterp,ebml-results,0,0,region:us
+2026-11-18T09:27:23Z,dulalSusan/JellyFishIncorrectResultHybrid_CM_Inference,dulalSusan,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:28:27Z,YERI84/omx_bimanual_TEST_L_,YERI84,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-18T09:28:49Z,reverie-studio/ffmpeg-source,reverie-studio,0,0,license:lgpl-2.1; region:us
+2026-11-18T09:28:56Z,biecH/beic_1_trimmed,biecH,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-18T09:28:58Z,sandywong/ZoomChat-Bench-V2,sandywong,0,0,task_categories:visual-question-answering; language:en; license:other; size_categories:1K<n<10K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; librar…
+2026-11-18T09:29:09Z,Zhen1290/FreshRetailNet-50K,Zhen1290,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-11-18T09:30:30Z,PranayReddy18/threatchat-mongodb,PranayReddy18,0,0,size_categories:n<1K; modality:document; modality:text; library:datasets; library:mlcroissant; region:us; mongodb; rag; docker; threat-intelligence
+2026-11-18T09:31:48Z,copsere211/palembang-indonesian-parallel-corpus,copsere211,0,0,task_categories:translation; task_categories:text-generation; multilinguality:multilingual; source_datasets:original; language:id; language:plg; license:mit; size_categories:10K<n<100K; format:csv; m…
+2026-11-18T09:31:53Z,SoSolaris/can_to_mug_20261117095002478318_raw,SoSolaris,0,0,region:us
+2026-11-18T09:32:28Z,g1n0st/e421fa23d79e57f8f2e51e290c38e8ee93c41da3,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:33:00Z,referralcodehub/axiom-trade-first100-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; axiom-trade
+2026-11-18T09:33:33Z,trigrip/eastin-test1_20261118_183140,trigrip,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T09:33:34Z,referralcodehub/axiom-trade-first100-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; axiom-trade
+2026-11-18T09:33:46Z,referralcodehub/axiom-trade-first100-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; axiom-trade
+2026-11-18T09:34:04Z,referralcodehub/pump-fun-refund10-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; pump-fun
+2026-11-18T09:34:16Z,shimokawatoko/parc-t3-cat-thick-raw,shimokawatoko,0,0,region:us
+2026-11-18T09:34:25Z,referralcodehub/pump-fun-refund10-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; pump-fun
+2026-11-18T09:34:39Z,yasalma/crawl-res-llm-annotation-10k-subset,yasalma,0,0,task_categories:text-classification; language:tt; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-11-18T09:34:43Z,referralcodehub/pump-fun-refund10-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; pump-fun
+2026-11-18T09:35:03Z,referralcodehub/weex-back20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; weex
+2026-11-18T09:35:23Z,referralcodehub/weex-back20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; weex
+2026-11-18T09:35:38Z,wayrise/cs6244-project,wayrise,0,0,language:zh; language:en; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; roboti…
+2026-11-18T09:35:42Z,referralcodehub/weex-back20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; weex
+2026-11-18T09:36:03Z,referralcodehub/bitunix-return20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bitunix
+2026-11-18T09:36:35Z,referralcodehub/bitunix-return20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bitunix
+2026-11-18T09:36:53Z,referralcodehub/bitunix-return20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bitunix
+2026-11-18T09:37:12Z,referralcodehub/blofin-lifetime20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; blofin
+2026-11-18T09:37:13Z,SoSolaris/can_to_mug_20261117095600696011_raw,SoSolaris,0,0,region:us
+2026-11-18T09:37:20Z,miya-k/so101_bimanual_camera_test_20261118_182736,miya-k,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T09:37:32Z,referralcodehub/blofin-lifetime20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; blofin
+2026-11-18T09:37:45Z,Kkofelix/architecture-image-audio19,Kkofelix,0,0,license:cc-by-4.0; region:us; dataset; architecture; image-audio
+2026-11-18T09:37:59Z,g1n0st/a4c3ad85b7b433ae9dcb7bdb07af404266b9a5c7,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:38:09Z,referralcodehub/blofin-lifetime20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; blofin
+2026-11-18T09:38:27Z,referralcodehub/bingx-pro-fwvzc9rp-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:38:40Z,hivepunk-632-4934c76e/spdx-early-list-validator-facts-from-kernel-scripts,hivepunk-632-4934c76e,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:38:47Z,referralcodehub/bingx-pro-fwvzc9rp-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:39:06Z,referralcodehub/bingx-pro-fwvzc9rp-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:39:37Z,referralcodehub/bingx-pro-fwvzc9rp-04-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:39:57Z,referralcodehub/bingx-pro-fwvzc9rp-05-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:39:59Z,ivanlis32/horror-media-mod-by-ivan-shlyaev,ivanlis32,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-18T09:40:02Z,hivepunk-547-db38b7a4/open-source-ai-agent-frameworks-eight-documented-profiles,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:40:29Z,referralcodehub/bingx-pro-fwvzc9rp-06-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bingx-pro
+2026-11-18T09:40:43Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-11-18T09:40:44Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-11-18T09:40:44Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-11-18T09:40:45Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-11-18T09:40:48Z,referralcodehub/binance-forever20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:41:05Z,seroverse/SeroRef,seroverse,0,0,license:cc-by-4.0; region:us
+2026-11-18T09:41:08Z,referralcodehub/binance-forever20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:41:26Z,referralcodehub/binance-forever20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:41:27Z,SoSolaris/can_to_mug_20261117100202191858_raw,SoSolaris,0,0,region:us
+2026-11-18T09:41:45Z,referralcodehub/binance-forever20-04-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:42:04Z,referralcodehub/binance-forever20-05-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:42:22Z,referralcodehub/binance-forever20-06-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; binance
+2026-11-18T09:42:41Z,referralcodehub/btcc-back20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:43:01Z,referralcodehub/btcc-back20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:43:15Z,JaydeepDhole/automotive-hvac-synthetic-temperature-commands,JaydeepDhole,0,0,task_categories:text-classification; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; language:en; license:cc-by-4.0; size_categories:1K<n<10K…
+2026-11-18T09:43:49Z,referralcodehub/btcc-back20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:43:54Z,anonymous-submission-404/StrayScope-Experiment-Results,anonymous-submission-404,0,0,region:us
+2026-11-18T09:44:08Z,referralcodehub/btcc-back20-04-guide,referralcodehub,0,0,language:fr; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:44:13Z,shuren2/F1_20261118_172559,shuren2,0,0,region:us
+2026-11-18T09:44:17Z,muyleanging/VoxPocket-TTS-Khmer-Data-Preview,muyleanging,0,0,task_categories:text-to-speech; language:km; language:en; license:other; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; khm…
+2026-11-18T09:44:29Z,g1n0st/b6ccb821240019849444afeedb377cf880dd7caf,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:44:40Z,g1n0st/ff7d22fb22a43a48d4ed728eff36e63d628718cb,g1n0st,0,0,region:us
+2026-11-18T09:44:51Z,Kukie-AI/Kause-K8s-train-v0.2,Kukie-AI,0,1,task_categories:text-generation; language:ko; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-11-18T09:44:53Z,ChristopherJKoen/speed-hump-time-archive,ChristopherJKoen,0,0,region:us
+2026-11-18T09:45:05Z,quangnt50/towel_episode_002,quangnt50,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T09:45:10Z,Qing-UU/Pianalysis-Listening-Probes,Qing-UU,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; music; symbolic-music; piano…
+2026-11-18T09:45:11Z,referralcodehub/btcc-back20-05-guide,referralcodehub,0,0,language:fr; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:45:26Z,SoSolaris/can_to_mug_20261117100753728388_raw,SoSolaris,0,0,region:us
+2026-11-18T09:45:29Z,referralcodehub/btcc-back20-06-guide,referralcodehub,0,0,language:fr; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; btcc
+2026-11-18T09:46:00Z,huuhuyng/56-image-i75-results,huuhuyng,0,0,region:us
+2026-11-18T09:46:02Z,referralcodehub/bybit-back20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:46:07Z,biecH/beic_123_trimmed,biecH,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; lib…
+2026-11-18T09:46:14Z,Tridex/dataset_de_merde_20261118_104542,Tridex,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-18T09:46:52Z,referralcodehub/bybit-back20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:47:10Z,FaiyazAbdullah114708/BanTMedQA,FaiyazAbdullah114708,0,0,task_categories:question-answering; task_categories:visual-question-answering; language:bn; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text;…
+2026-11-18T09:47:40Z,referralcodehub/bybit-back20-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:48:29Z,referralcodehub/bybit-back20-04-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:48:35Z,keyur-neeved/yf-tvu-frames,keyur-neeved,0,0,task_categories:image-classification; license:other; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-11-18T09:49:03Z,referralcodehub/bybit-back20-05-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:49:22Z,referralcodehub/bybit-back20-06-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:49:42Z,referralcodehub/bybit-back20-07-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:50:01Z,referralcodehub/bybit-back20-08-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:50:09Z,SoSolaris/can_to_mug_20261117101449331838_raw,SoSolaris,0,0,region:us
+2026-11-18T09:50:19Z,referralcodehub/bybit-back20-09-guide,referralcodehub,0,0,language:ko; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; bybit
+2026-11-18T09:50:21Z,YERI84/omx_bimanual_TEST_LL_,YERI84,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-18T09:50:38Z,referralcodehub/fomo-lifetime10-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; fomo
+2026-11-18T09:50:58Z,referralcodehub/fomo-lifetime10-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; fomo
+2026-11-18T09:51:33Z,Waseem2106/ecommerce-products-60k-parquet,Waseem2106,0,0,size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T09:51:46Z,referralcodehub/fomo-lifetime10-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; fomo
+2026-11-18T09:51:52Z,CheneyWong/table-recognition-benchmark-8k-results,CheneyWong,0,0,language:zh; language:en; license:apache-2.0; region:us
+2026-11-18T09:52:05Z,referralcodehub/gmgn-real100-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:52:26Z,referralcodehub/gmgn-real100-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:52:44Z,referralcodehub/gmgn-real100-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:53:00Z,g1n0st/1b911f02930d2a46c8413a97681cecda9fe90313,g1n0st,0,0,region:us
+2026-11-18T09:53:02Z,referralcodehub/gmgn-real100-04-guide,referralcodehub,0,0,language:zh; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:53:46Z,SoSolaris/can_to_mug_20261117102412205889_raw,SoSolaris,0,0,region:us
+2026-11-18T09:53:51Z,referralcodehub/gmgn-real100-05-guide,referralcodehub,0,0,language:zh; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:54:18Z,AmareshHebbar/GitGrounded_Bench,AmareshHebbar,0,0,region:us
+2026-11-18T09:54:23Z,referralcodehub/gmgn-real100-06-guide,referralcodehub,0,0,language:zh; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; gmgn
+2026-11-18T09:54:42Z,referralcodehub/elefin-claim100-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; elefin
+2026-11-18T09:55:32Z,referralcodehub/elefin-claim100-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; elefin
+2026-11-18T09:55:51Z,referralcodehub/elefin-claim100-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; elefin
+2026-11-18T09:56:23Z,referralcodehub/kcex-kc0y9ywv-discount100-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T09:56:57Z,g1n0st/f075c238a82dfb62cf62bbbbb3939ce9ded31cb5,g1n0st,0,0,region:us
+2026-11-18T09:57:05Z,miladgholami/rollout_act_b601_v3_C1,miladgholami,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:57:25Z,miladgholami/rollout_act_b601_v3_C1b,miladgholami,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T09:57:35Z,BanUrsus/bicoord_build_bridge_clean_franka_55eps_multiaction_eefcmd14,BanUrsus,0,0,size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerobot; region:us; lerobot; robotics
+2026-11-18T09:57:36Z,miladgholami/rollout_vact_b601_v1_C1,miladgholami,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T09:59:38Z,SoSolaris/take_socks_01_20261117103649073890_raw,SoSolaris,0,0,region:us
+2026-11-18T09:59:38Z,miladgholami/b601_vact_results,miladgholami,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T10:00:38Z,g1n0st/9c74fabc381a77bbd75b787abf5a149523bfffdc,g1n0st,0,0,region:us
+2026-11-18T10:01:25Z,referralcodehub/kcex-kc0y9ywv-discount100-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:01:43Z,referralcodehub/kcex-kc0y9ywv-discount100-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:01:43Z,mrodher/so101_dataset_test_V12,mrodher,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-18T10:02:02Z,referralcodehub/kcex-kc0y9ywv-discount100-04-guide,referralcodehub,0,0,language:uz; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:02:22Z,referralcodehub/kcex-kc0y9ywv-discount100-05-guide,referralcodehub,0,0,language:uz; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:02:40Z,referralcodehub/kcex-kc0y9ywv-discount100-06-guide,referralcodehub,0,0,language:uz; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:02:59Z,referralcodehub/kcex-kc0y9ywv-discount100-07-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:03:11Z,beita6969/BaseRSI-Dataset,beita6969,0,0,task_categories:visual-question-answering; language:en; license:other; size_categories:1K<n<10K; region:us
+2026-11-18T10:03:17Z,referralcodehub/kcex-kc0y9ywv-discount100-08-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:03:21Z,SoSolaris/take_socks_01_20261117105039673385_raw,SoSolaris,0,0,region:us
+2026-11-18T10:03:22Z,esherialabs/saferide-voices-stt-eval,esherialabs,0,0,task_categories:automatic-speech-recognition; multilinguality:multilingual; source_datasets:original; language:en; language:sw; license:cc-by-4.0; size_categories:n<1K; region:us; saferide; speech; r…
+2026-11-18T10:03:36Z,referralcodehub/kcex-kc0y9ywv-discount100-09-guide,referralcodehub,0,0,language:ru; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; kcex
+2026-11-18T10:04:24Z,referralcodehub/opensea-a9rk7c-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; opensea
+2026-11-18T10:04:56Z,referralcodehub/opensea-a9rk7c-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; opensea
+2026-11-18T10:05:09Z,ahmadrrrtx/xrfm-codersec-sft-40k,ahmadrrrtx,0,0,region:us
+2026-11-18T10:05:15Z,referralcodehub/opensea-a9rk7c-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; opensea
+2026-11-18T10:05:33Z,referralcodehub/padre-instant100-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; padre
+2026-11-18T10:05:46Z,msaabreu/so101_pick_cube,msaabreu,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-18T10:05:53Z,referralcodehub/padre-instant100-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; padre
+2026-11-18T10:06:11Z,starkAhmed43/lc-image-a0255c307aa47ff33e3603f2,starkAhmed43,0,0,region:us
+2026-11-18T10:06:12Z,referralcodehub/padre-instant100-03-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; referral-code; promo-code; padre
+2026-11-18T10:06:12Z,Explordinateur/mal-temp-heros,Explordinateur,0,0,region:us
+2026-11-18T10:06:31Z,referralcodehub/bitget-back20-01-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; region:us; referral-code; promo-code; bitget
+2026-11-18T10:06:51Z,referralcodehub/bitget-back20-02-guide,referralcodehub,0,0,language:en; license:cc-by-4.0; region:us; referral-code; promo-code; bitget
+2026-11-18T10:07:05Z,pvp1732/IndicMixTag-data,pvp1732,0,0,region:us
+2026-11-18T10:07:24Z,Raquelisqueen/SO101_ovrtx_cube-to-tray_005,Raquelisqueen,0,0,task_categories:robotics; license:cc-by-4.0; region:us; LeRobot; so101; sim2real; pick-and-place
+2026-11-18T10:07:27Z,Raquelisqueen/SO101_ovrtx_cube-to-tray_005_raw,Raquelisqueen,0,0,region:us
+2026-11-18T10:10:01Z,SoSolaris/take_socks_01_20261117105959851890_raw,SoSolaris,0,0,region:us
+2026-11-18T10:10:03Z,jhphgf2/ee4d-03,jhphgf2,0,0,region:us
+2026-11-18T10:11:33Z,mdhuzaifa12/Group_2_CERT_Dataset,mdhuzaifa12,0,0,region:us
+2026-11-18T10:12:12Z,mojoz/samoffice-releases,mojoz,0,0,region:us
+2026-11-18T10:12:40Z,gasschina/samcdp-releases,gasschina,0,0,region:us
+2026-11-18T10:13:58Z,g1n0st/9c6f944f152ee1a90566628b41e5e0e44beb132e,g1n0st,0,0,region:us
+2026-11-18T10:16:02Z,starkAhmed43/lc-image-2496b1168afe079ea4ded551,starkAhmed43,0,0,region:us
+2026-11-18T10:16:51Z,afasedfasd/Annoy-PyEdu-Rs-Raw,afasedfasd,0,0,region:us
+2026-11-18T10:16:51Z,afasedfasd/Annoy-PyEdu-Rs,afasedfasd,0,0,region:us
+2026-11-18T10:17:22Z,starkAhmed43/lc-image-0e1ca56792fe9274f09b5236,starkAhmed43,0,0,region:us
+2026-11-18T10:19:43Z,Almagest0/uk-frozen-tax-thresholds-2026-27,Almagest0,0,0,task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; tax; uk; income-tax; fiscal-drag; economics; personal-finance
+2026-11-18T10:19:45Z,donkaii/don-kai-voz,donkaii,0,0,region:us
+2026-11-18T10:19:45Z,Almagest0/uk-tax-rates-2026-27,Almagest0,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; tax; uk; income-tax; national-insurance; payroll; personal-finance; government-data
+2026-11-18T10:20:12Z,abxn4r/atlas-edge-tool-calling-10k,abxn4r,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; tool-calling; function-calling; agent; edge-ai; synthetic; qwen2.5; slm; iot
+2026-11-18T10:20:24Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-11-18T10:20:24Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-11-18T10:22:01Z,g1n0st/07239402e9c7d96cc6f6b1613dd7f4153a1d49c7,g1n0st,0,0,region:us
+2026-11-18T10:22:14Z,123sg/Annoy-PyEdu-Rs,123sg,0,0,region:us
+2026-11-18T10:22:15Z,mzansidata/south-africa-claude-usage,mzansidata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; south-africa; africa; artificial-intelligence; ai-adoption; open-data; csv; mzansidata
+2026-11-18T10:22:17Z,mzansidata/south-africa-population-2002-2026,mzansidata,0,0,language:en; license:other; size_categories:n<1K; region:us; south-africa; population; demographics; stats-sa; open-data; csv; mzansidata
+2026-11-18T10:22:19Z,mzansidata/south-africa-crime-victims-survey-2018-2026,mzansidata,0,0,language:en; license:other; size_categories:n<1K; region:us; south-africa; crime; survey; stats-sa; open-data; csv; mzansidata
+2026-11-18T10:22:21Z,mzansidata/south-africa-unemployment-qlfs,mzansidata,0,0,language:en; license:other; size_categories:10K<n<100K; region:us; south-africa; unemployment; labour-market; stats-sa; open-data; csv; mzansidata
