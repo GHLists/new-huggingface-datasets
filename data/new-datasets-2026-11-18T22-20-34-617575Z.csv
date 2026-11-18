@@ -1,0 +1,65 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-18T21:20:11Z,AviSemler/think-if-seed43,AviSemler,0,0,license:other; region:us
+2026-11-18T21:20:46Z,npow/pi05-yam-red-lid-conveyor-eval-20261118,npow,0,0,task_categories:robotics; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library…
+2026-11-18T21:24:04Z,JohnVeds15/gumroad-previews,JohnVeds15,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-18T21:26:06Z,wbsharbor/Test,wbsharbor,0,0,region:us
+2026-11-18T21:26:19Z,acollins26/Example,acollins26,0,0,region:us
+2026-11-18T21:26:28Z,DedeProGames/grm-3.2-turf-phone-tool-bench-results,DedeProGames,0,0,license:apache-2.0; region:us; tool-use; benchmark-results; lfm2; phone-tool-bench
+2026-11-18T21:26:30Z,DedeProGames/ntx-350m-preview-phone-tool-bench-results,DedeProGames,0,0,license:apache-2.0; region:us; tool-use; benchmark-results; lfm2; phone-tool-bench
+2026-11-18T21:27:24Z,cclewis/example,cclewis,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T21:28:45Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-18T21:29:06Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-18T21:30:57Z,MHessNM/Example,MHessNM,0,0,region:us
+2026-11-18T21:32:40Z,Teja21101995/Example,Teja21101995,0,0,region:us
+2026-11-18T21:33:54Z,ogapraize/faceless-studio-outputs,ogapraize,0,0,region:us
+2026-11-18T21:34:11Z,Richreyes1/example,Richreyes1,0,0,region:us
+2026-11-18T21:34:15Z,bcv-commons/passage-moods-model,bcv-commons,0,0,language:hbo; language:grc; license:cc-by-sa-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; bible; hebrew;…
+2026-11-18T21:35:52Z,Hebrish/Hebrew-Gendered-Sentences,Hebrish,0,0,task_categories:text-generation; language:he; license:mit; size_categories:1K<n<10K; region:us; hebrew; gender; synthetic; tts
+2026-11-18T21:35:59Z,Guidepi/sociedad-del-viento-precision-viento,Guidepi,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; weather; wind; forecast-verification; kitesurfing; windsurfing; wingfoil; europe; open-data
+2026-11-18T21:37:30Z,styal/calib-data,styal,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T21:38:19Z,sahni-lab/multi-res-cev-cfd-database,sahni-lab,0,0,task_categories:other; license:cc-by-sa-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; c…
+2026-11-18T21:41:37Z,KiwiBridget/Annoy-PyEdu-Rs,KiwiBridget,0,0,region:us
+2026-11-18T21:41:38Z,KiwiBridget/Annoy-PyEdu-Rs-Raw,KiwiBridget,0,0,region:us
+2026-11-18T21:42:07Z,diegocp01/llm-random-number-benchmark,diegocp01,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; modality:text; region:us; llm; benchmark; randomness; gpt; claude
+2026-11-18T21:42:22Z,vanvalenlab/deepcell-types-annotation-data,vanvalenlab,0,0,license:other; region:us
+2026-11-18T21:44:19Z,DaveyD347/script-intent-commands,DaveyD347,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-11-18T21:46:00Z,micvicfaust9/faust-baseline,micvicfaust9,0,0,language:en; license:other; region:us; ai-governance; ai-safety; ai-behavior; session-governance; system-prompt; honesty
+2026-11-18T21:46:04Z,Mpillars/Repo,Mpillars,0,0,region:us
+2026-11-18T21:47:58Z,SAD2EDZXDQ/Annoy-PyEdu-Rs,SAD2EDZXDQ,0,0,region:us
+2026-11-18T21:47:59Z,SAD2EDZXDQ/Annoy-PyEdu-Rs-Raw,SAD2EDZXDQ,0,0,region:us
+2026-11-18T21:48:00Z,TUaxhuiax/huggingface_terminal_filesystem_canvas_memory_836-registry-7c4a91,TUaxhuiax,0,0,region:us
+2026-11-18T21:50:12Z,saifuddin2ahmed/sudanese-asr-eval,saifuddin2ahmed,0,0,task_categories:automatic-speech-recognition; language:ar; license:cc-by-4.0; size_categories:1K<n<10K; region:us; speech-recognition; sudanese-arabic; dialectal-arabic; whisper; evaluation
+2026-11-18T21:51:56Z,ssfdafag567/Annoy-PyEdu-Rs,ssfdafag567,0,0,region:us
+2026-11-18T21:51:57Z,ssfdafag567/Annoy-PyEdu-Rs-Raw,ssfdafag567,0,0,region:us
+2026-11-18T21:53:21Z,TUaxhuiax/huggingface_terminal_filesystem_woocommerce_emails_google_forms_4386-archives-91a6cfd167,TUaxhuiax,0,0,region:us
+2026-11-18T21:55:38Z,dsleo/leanage-mathlib-store,dsleo,0,0,license:apache-2.0; size_categories:100K<n<1M; format:text; modality:text; library:datasets; library:mlcroissant; region:us; lean4; mathlib; dependency-graph
+2026-11-18T21:57:07Z,vibe-coder-001/Homebrew-Kindling-740,vibe-coder-001,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-11-18T21:57:23Z,TUaxhuiax/huggingface_filesystem_fetch_playwright_with_chunk_excel_terminal_3616-meridian-ms8k3q,TUaxhuiax,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T21:57:50Z,RKB109/production-ai-observability-20261118-dataset,RKB109,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-18T21:57:55Z,latkes/story-writing-feedback-canary-v4-opus-5.5,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T21:58:38Z,jdjdje8383/zqtrace,jdjdje8383,0,0,region:us
+2026-11-18T21:59:07Z,gigwegbe/color-shape-box-sort-grey-black_20261118_215839,gigwegbe,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-18T21:59:47Z,malikithecat/omni-domain-cleaned-part2,malikithecat,0,0,region:us
+2026-11-18T21:59:47Z,malikithecat/omni-domain-cleaned-part1,malikithecat,0,0,region:us
+2026-11-18T21:59:51Z,malikithecat/omni-domain-cleaned-part3,malikithecat,0,0,region:us
+2026-11-18T22:03:07Z,YuktaKapse/salesforce-slack-ma-valuation,YuktaKapse,0,1,size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-18T22:04:17Z,XXiao/RSI-cold-start,XXiao,0,0,region:us
+2026-11-18T22:04:50Z,LamTNguyen/repa-representation-probing,LamTNguyen,0,0,language:en; language:vi; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; diffusion; representation-alignment; repa; linear-probing
+2026-11-18T22:04:59Z,latkes/story-writing-feedback-canary-v4-gpt-5.5,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T22:05:15Z,danielrosehill/Parakeet-V2-Training-Corpus-Vocabulary,danielrosehill,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; modality:text; region:us; asr; speech-recognition; parakeet; granary; vocabulary; fine-tuning
+2026-11-18T22:05:28Z,XYYX2333/take_tray_out,XYYX2333,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-18T22:06:19Z,cclewis/DUC-2026,cclewis,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T22:07:23Z,zakir0101/llm-corpus,zakir0101,0,0,region:us
+2026-11-18T22:08:10Z,latkes/story-writing-feedback-canary-v4-qwen3.8-27b,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T22:08:52Z,gachimoto/tiny-voca-ja,gachimoto,0,0,task_categories:text-to-speech; language:ja; license:other; size_categories:10K<n<100K; region:us
+2026-11-18T22:09:41Z,gigwegbe/color-shape-box-sort-grey-black_20261118_220419,gigwegbe,0,0,region:us
+2026-11-18T22:12:37Z,yasir-k/semantic-weight-edit-handoffs,yasir-k,0,0,region:us
+2026-11-18T22:14:10Z,The-data-company/Luxury-Resale-Catalog,The-data-company,0,0,size_categories:100K<n<1M; region:us; fashion; resale; e-commerce; multimodal; image-text-retrieval; product-retrieval; fine-grained-visual-recognition; multimodal-tabular-learning; embeddings; vecto…
+2026-11-18T22:14:11Z,Kicaulah/fleurs-pilot-102,Kicaulah,0,0,task_categories:automatic-speech-recognition; modality:audio; arxiv:2205.12446; region:us; audio; speech; multilingual; pilot; rights-review-incomplete
+2026-11-18T22:15:19Z,jdjdje8383/zqconvo,jdjdje8383,0,0,region:us
+2026-11-18T22:15:55Z,Arisp/chess-pgn-w-s-disagreement,Arisp,0,0,license:cc0-1.0; size_categories:10K<n<100K; region:us; chess; interpretability; lichess
+2026-11-18T22:17:47Z,Miiche/duplex-turn-1118,Miiche,0,0,region:us
+2026-11-18T22:18:25Z,SOTAagi2030/Urban-Pollinator-Observations-366,SOTAagi2030,0,0,region:us; ecology; pollinator-monitoring
+2026-11-18T22:19:02Z,janusz-bit/brulion-assistant-tasks,janusz-bit,0,0,task_categories:text-generation; multilinguality:multilingual; language:pl; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; tool-calling; function-calling; agent; benchmark; synt…
+2026-11-18T22:19:03Z,SOTAagi2030/Coastal-Atlas-Map-Pack-Queue,SOTAagi2030,0,0,region:us
+2026-11-18T22:19:07Z,SOTAagi2030/Coastal-Atlas-Component-Terms,SOTAagi2030,0,0,region:us
