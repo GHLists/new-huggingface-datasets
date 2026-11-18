@@ -1,0 +1,91 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-18T18:23:17Z,taiduo/collection_sample_20261118_5080_04,taiduo,0,0,region:us
+2026-11-18T18:24:49Z,gncalo/lego_all,gncalo,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-18T18:24:57Z,geyang627/subtitle-translation-evaluation,geyang627,0,0,task_categories:translation; language:zh; language:en; language:vi; language:ka; language:ar; language:hi; language:ru; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant…
+2026-11-18T18:25:08Z,Kandil7/wanees-action-v1,Kandil7,0,0,task_categories:text-generation; task_categories:text-classification; language:ar; language:arz; license:mit; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pand…
+2026-11-18T18:25:38Z,Nabidnur/MAGNet-UMUD-results,Nabidnur,0,0,license:cc-by-nc-sa-4.0; size_categories:n<1K; region:us; medical-imaging; ultrasound; muscle-architecture; kaggle
+2026-11-18T18:25:41Z,Rutuja2404/CAS3120-2026-Project1_AI-Generated-Image-Detection,Rutuja2404,0,0,task_categories:image-classification; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; binary-classification; educational; computer-vision
+2026-11-18T18:27:22Z,ezeazy/assets-data,ezeazy,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T18:28:28Z,RubenElices/PREDICCION_PETROLEO_RNN,RubenElices,0,0,region:us
+2026-11-18T18:29:38Z,sainath017/mandi-india-daily-prices-2001-2026,sainath017,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; agriculture; i…
+2026-11-18T18:29:42Z,amylingchen/shapes4_r1117_hold_v1,amylingchen,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T18:30:38Z,iptvnordic/premium-iptv-sverige-2026,iptvnordic,0,0,language:sv; language:en; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us; iptv sverige; bästa iptv; nordic iptv
+2026-11-18T18:31:12Z,Archie10ent/tmp-bday-71,Archie10ent,0,0,region:us
+2026-11-18T18:31:18Z,Basmala11/LOSTRA-Moon-Mars-Hardware,Basmala11,0,0,language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nasa; moon; mars; spac…
+2026-11-18T18:34:51Z,mcpefficiencytest/efficient_judge_test,mcpefficiencytest,0,0,region:us
+2026-11-18T18:34:59Z,ahon-digital/linkgraph,ahon-digital,0,0,region:us
+2026-11-18T18:35:46Z,SHahzaibM811/pick_black_object_20261118_123317,SHahzaibM811,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-18T18:36:10Z,SOTAagi2030/Community-Fridge-Temperature-Audit,SOTAagi2030,0,0,region:us; food-rescue; cold-chain
+2026-11-18T18:36:15Z,Faei/lines-of-defense-for-transformative,Faei,0,0,arxiv:2607.27191; arxiv:2609.15802; region:us
+2026-11-18T18:37:34Z,ClarusC64/AF-DRIFT-01,ClarusC64,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T18:38:32Z,SOTAagi2030/Polar-Transmission-Queue-433,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T18:38:36Z,SOTAagi2030/Polar-Station-Terms-433,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-18T18:38:43Z,xcc12ds21313/Annoy-PyEdu-Rs,xcc12ds21313,0,0,region:us
+2026-11-18T18:38:44Z,xcc12ds21313/Annoy-PyEdu-Rs-Raw,xcc12ds21313,0,0,region:us
+2026-11-18T18:39:10Z,Nonameorig/cache,Nonameorig,0,0,region:us
+2026-11-18T18:39:52Z,kutomanovhennadii/iec-gpt-4.1-mini-2025-04-14,kutomanovhennadii,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; arxiv:2610.36095; region:us; evaluation; instruction-following; llm-evaluation
+2026-11-18T18:39:59Z,kutomanovhennadii/iec-nemotron-3-ultra-550b-a55b,kutomanovhennadii,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; arxiv:2610.36095; region:us; evaluation; instruction-following; llm-evaluation
+2026-11-18T18:40:38Z,otto-95/isaaclab-test-v2,otto-95,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-18T18:41:12Z,ryutszy/yue-xy-pretrain,ryutszy,0,0,region:us
+2026-11-18T18:42:01Z,qianjiaru/DVBench,qianjiaru,0,0,region:us
+2026-11-18T18:44:59Z,BH-Language-AI/bs-decision-human-v04,BH-Language-AI,0,0,language:bs; language:en; license:cc-by-4.0; region:us; decision-making; bosnian; ijekavica
+2026-11-18T18:45:29Z,IBNEABBAS/maktaba-ahle-sunnat,IBNEABBAS,0,0,region:us
+2026-11-18T18:46:08Z,lucacaraffi/KS-Triangulations,lucacaraffi,0,0,region:us
+2026-11-18T18:46:46Z,EasyOctopus/german-ticket-privacy-data,EasyOctopus,0,0,task_categories:token-classification; language:de; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-11-18T18:47:24Z,OttoBoop/pnad-rais-rio-dados,OttoBoop,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-18T18:48:04Z,shz9/cartagene-ld,shz9,0,0,license:mit; region:us; LD; Linkage-disequilibrium; matrix; PRS; Genetics; Correlation; Biobank; CARTaGENE
+2026-11-18T18:48:36Z,ClarusC64/AF-BOUND-01,ClarusC64,0,0,language:en; license:cc-by-4.0; region:us
+2026-11-18T18:49:05Z,BH-Language-AI/bs-decision-external-v01,BH-Language-AI,0,0,language:bs; language:en; license:cc-by-4.0; region:us; decision-making; bosnian; ijekavica
+2026-11-18T18:49:54Z,iamtheajitsingh/agentrisk-data-2027,iamtheajitsingh,0,1,task_categories:text-classification; language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents; ai-safety…
+2026-11-18T18:50:51Z,incadawr/anycode-terminal-bench-2-1,incadawr,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-evaluation; terminal-bench
+2026-11-18T18:51:36Z,flaitenberger/rx-b-2611,flaitenberger,0,0,region:us
+2026-11-18T18:52:34Z,latkes/story-writing-feedback-canary-v3-qwen3.8-27b,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T18:53:01Z,latkes/story-writing-feedback-canary-v3-llama-3.1-8b,latkes,0,0,license:cc-by-4.0; region:us; story-writing-feedback; canary
+2026-11-18T18:53:19Z,BH-Language-AI/bs-decision-bh2-mixv7-v01,BH-Language-AI,0,0,language:bs; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; decision-making; b…
+2026-11-18T18:55:27Z,BH-Language-AI/bs-vision-plotqa-bs-v01,BH-Language-AI,0,0,task_categories:visual-question-answering; task_categories:image-text-to-text; language:bs; license:cc-by-4.0; region:us; bosnian; chart-qa; bh-language-ai; plotqa-derivative
+2026-11-18T18:55:58Z,codesentineldata/progeria-counterfactual-trajectories,codesentineldata,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:document; modality:tabular; modalit…
+2026-11-18T18:59:04Z,gu2234/lora,gu2234,0,0,region:us
+2026-11-18T19:00:18Z,SOTAagi2030/AirWatch-Interruption-Episodes,SOTAagi2030,0,0,task_categories:time-series-forecasting; license:cc-by-4.0; region:us
+2026-11-18T19:01:12Z,balllvin/Propaganda-Eval-SenseNova-Loop-9B-NVFP4,balllvin,0,0,task_categories:question-answering; license:other; modality:text; region:us; evaluation; censorship; propaganda; reasoning-traces
+2026-11-18T19:02:09Z,hauls01/Annoy-PyEdu-Rs,hauls01,0,0,region:us
+2026-11-18T19:02:16Z,balllvin/Propaganda-Eval-SenseNova-Loop-9B-abliterated-NVFP4,balllvin,0,0,task_categories:question-answering; license:other; region:us; evaluation; censorship; propaganda; reasoning-traces
+2026-11-18T19:02:17Z,balllvin/Propaganda-Eval-SenseNova-Loop-9B-abliterated-arete-NVFP4,balllvin,0,0,task_categories:question-answering; license:other; region:us; evaluation; censorship; propaganda; reasoning-traces
+2026-11-18T19:02:19Z,balllvin/Propaganda-Eval-SenseNova-Loop-9B-NVFP4-MLX,balllvin,0,0,task_categories:question-answering; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-18T19:02:39Z,hauls01/Annoy-PyEdu-Rs-Raw,hauls01,0,0,region:us
+2026-11-18T19:03:25Z,wckwan/WebShop-Qwen3-8B-GiGPO-SEED-s2000-eval,wckwan,0,0,region:us
+2026-11-18T19:03:53Z,latkes/story-writing-feedback-canary-v3-gemma-4-31b,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T19:04:32Z,sudheer066/hagrid-subset,sudheer066,0,0,task_categories:image-classification; task_categories:object-detection; license:mit; size_categories:10K<n<100K; region:us; gesture-recognition; computer-vision; hand-gestures
+2026-11-18T19:05:24Z,latkes/story-writing-feedback-diag-llama-settings,latkes,0,0,license:cc-by-4.0; region:us; story-writing-feedback; diagnosis
+2026-11-18T19:05:49Z,modoleonida/tmp-24ad36ab05d9,modoleonida,0,0,region:us
+2026-11-18T19:06:09Z,KokunoYumeto/grothendieck-programme-algebraic-geometry,KokunoYumeto,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:fr; license:cc0-1.0; size_categories:10K<n<100K; region:us; mathematics; algebraic-geometry; arithmetic-geom…
+2026-11-18T19:06:26Z,Hansda/bengali-maya2-jahnavi-20h,Hansda,0,0,task_categories:text-to-speech; language:bn; license:cc-by-4.0; region:us; synthetic-speech; maya2-native
+2026-11-18T19:06:27Z,latkes/story-writing-feedback-canary-v3-opus-5.5,latkes,0,0,license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; story-writing-feedback; can…
+2026-11-18T19:06:34Z,SpaceGen/solarhub-aia-171,SpaceGen,0,0,region:us
+2026-11-18T19:10:19Z,Rose-and-Knight/chimera-vroid-library,Rose-and-Knight,0,0,license:other; modality:3d; region:us; 3d; vroid; vrm; avatar; character-creator
+2026-11-18T19:11:09Z,mtybilly/TabLake-Close-Emb,mtybilly,0,0,license:other; region:us
+2026-11-18T19:12:59Z,raptor00x/LatentGPT-SFT-Mix-4k,raptor00x,0,0,region:us
+2026-11-18T19:13:42Z,latkes/story-writing-feedback-canary-v3-gpt-5.5,latkes,0,0,license:cc-by-4.0; region:us; story-writing-feedback; canary
+2026-11-18T19:13:50Z,aliwister/WildGraph,aliwister,0,0,task_categories:other; license:cc0-1.0; size_categories:10K<n<100K; modality:geospatial; arxiv:2404.08068; region:us; trajectory-generation; trajectory; wildlife; animal-movement; migration; gps; geo…
+2026-11-18T19:14:23Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs,pinkiepinkiepinkie,0,0,region:us
+2026-11-18T19:14:23Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs-Raw,pinkiepinkiepinkie,0,0,region:us
+2026-11-18T19:15:20Z,HYUKI5/nvidia__Nemotron-Instruction-Following-Chat-v1,HYUKI5,0,0,source_datasets:nvidia/Nemotron-Instruction-Following-Chat-v1; language:en; license:cc-by-4.0; region:us; laya; laya-finetune; mirror; domain-general; use-permissive; genre-dialogue; label-none; anno…
+2026-11-18T19:15:24Z,HYUKI5/sulabhkatiyar__typed-decisions-english-training-mix,HYUKI5,0,0,task_categories:text-classification; source_datasets:sulabhkatiyar/typed-decisions-english-training-mix; language:en; license:other; size_categories:1M<n<10M; region:us; laya; laya-finetune; mirror;…
+2026-11-18T19:16:12Z,ToolathlonBot/Annoy-PyEdu-Rs,ToolathlonBot,0,0,region:us
+2026-11-18T19:16:13Z,ToolathlonBot/Annoy-PyEdu-Rs-Raw,ToolathlonBot,0,0,region:us
+2026-11-18T19:16:27Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-18T19:16:31Z,HYUKI5/nvidia__Privasis-USA,HYUKI5,0,0,task_categories:text-generation; source_datasets:nvidia/Privasis-USA; language:en; license:other; size_categories:1M<n<10M; arxiv:2602.03183; region:us; laya; laya-finetune; mirror; domain-safety; us…
+2026-11-18T19:16:50Z,Nickerhorse/horse-light-products-specs-evidence,Nickerhorse,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us
+2026-11-18T19:16:57Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-18T19:17:06Z,HYUKI5/nvidia__Nemotron-PrismMath,HYUKI5,0,0,source_datasets:nvidia/Nemotron-PrismMath; language:en; license:cc-by-4.0; size_categories:1M<n<10M; arxiv:2505.20161; region:us; laya; laya-finetune; mirror; domain-math; use-permissive; genre-instr…
+2026-11-18T19:17:11Z,HYUKI5/nvidia__omni-dreams-scenes,HYUKI5,0,0,source_datasets:nvidia/omni-dreams-scenes; license:other; region:us; laya; laya-finetune; mirror; domain-technology; use-unclear; genre-other; label-none; annot-unknown
+2026-11-18T19:17:16Z,HYUKI5/IPF__DeepResearch-traj,HYUKI5,0,0,task_categories:question-answering; task_categories:text-generation; source_datasets:IPF/DeepResearch-traj; language:en; license:mit; size_categories:100K<n<1M; region:us; laya; laya-finetune; mirror…
+2026-11-18T19:17:33Z,mkieffer/pigmed-pmc-nemotron-3.5-1b,mkieffer,0,0,language:en; license:other; region:us; biomedical; pubmed-central; embeddings; retrieval; multimodal
+2026-11-18T19:17:46Z,PureOne/xhairun-ii-iseulxan-research,PureOne,0,0,language:en; size_categories:n<1K; arxiv:1510.03402; region:us; mathematics; fractal-geometry; dynamical-systems; reproducibility
+2026-11-18T19:18:17Z,stafordtituss/amep-conformance,stafordtituss,0,0,task_categories:other; license:apache-2.0; size_categories:n<1K; region:us; ai-agents; agent-security; authorization; delegation; audit; conformance-testing; model-context-protocol
+2026-11-18T19:18:34Z,vals-ai/finance_agent_v2_1-leaderboard,vals-ai,0,0,region:us
+2026-11-18T19:18:42Z,proxiesspears2c/Annoy-PyEdu-Rs,proxiesspears2c,0,0,region:us
+2026-11-18T19:18:46Z,HYUKI5/ChatCRG__FederalRegister2020-2025,HYUKI5,0,0,region:us
+2026-11-18T19:19:12Z,proxiesspears2c/Annoy-PyEdu-Rs-Raw,proxiesspears2c,0,0,region:us
+2026-11-18T19:20:05Z,Mozilla/smart-form-fill-forms_en-GB,Mozilla,0,0,region:us
+2026-11-18T19:20:08Z,Mozilla/smart-form-fill-forms_fr-FR,Mozilla,0,0,region:us
+2026-11-18T19:20:11Z,Mozilla/smart-form-fill-relevant-tabs_en-GB,Mozilla,0,0,region:us
