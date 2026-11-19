@@ -1,0 +1,99 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T14:22:59Z,microtensor-io/request-routing-train,microtensor-io,0,0,task_categories:text-classification; language:en; language:es; language:fr; language:pt; language:de; language:sw; language:id; language:hi; language:ar; language:zh; language:ja; language:tr; langua…
+2026-11-19T14:25:32Z,carsmultiverse/pet-food-recalls,carsmultiverse,0,0,task_categories:text-classification; task_categories:question-answering; language:en; language:fr; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas…
+2026-11-19T14:26:40Z,Pavlshshk/online-course-prices-russia,Pavlshshk,0,0,task_categories:tabular-regression; task_categories:tabular-classification; language:ru; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library…
+2026-11-19T14:28:14Z,shanhai417/duck_pilot_v2,shanhai417,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T14:28:40Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-11-19T14:28:41Z,zSQ2WSA/Annoy-PyEdu-Rs-Raw,zSQ2WSA,0,0,region:us
+2026-11-19T14:28:41Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-11-19T14:28:41Z,zSQ2WSA/Annoy-PyEdu-Rs,zSQ2WSA,0,0,region:us
+2026-11-19T14:29:36Z,ISSAI-data-contamination/Gemini-Narrations,ISSAI-data-contamination,0,0,task_categories:question-answering; language:en; language:kk; language:ru; language:ky; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-11-19T14:32:02Z,ljnlonoljpiljm/dataconcept_128M_processed_part0,ljnlonoljpiljm,0,0,size_categories:10M<n<100M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T14:32:55Z,KOTETSU7/litvm-factory,KOTETSU7,0,0,license:mit; region:us
+2026-11-19T14:33:06Z,maref-org/lexsi-redteam-set-v2,maref-org,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-safety; red-teaming; jailbreak; prompt-injection; encoding-attacks; multi-turn; agent-governance;…
+2026-11-19T14:35:56Z,mira-lindqvist/tgv-data-000,mira-lindqvist,0,0,region:us
+2026-11-19T14:36:03Z,Linh-0909/rollout_eval_rabc_smolvla_step5000_20261119_222428,Linh-0909,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T14:36:53Z,noahvesely/tgv-data-000,noahvesely,0,0,region:us
+2026-11-19T14:37:19Z,yzsun2025/ur5_fold_tshirt_v1,yzsun2025,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; ur5; robotiq; cloth-folding
+2026-11-19T14:40:18Z,rotatepilot/us-flyable-vfr-days,rotatepilot,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-19T14:42:44Z,sejzu0123/bfaf0b99-13c0-4c33-ab8e-de7d64cca279,sejzu0123,0,0,region:us
+2026-11-19T14:43:52Z,Ask-Hazel/maps-us,Ask-Hazel,0,1,license:odbl; size_categories:1M<n<10M; modality:geospatial; region:us; openstreetmap; maps; offline; geospatial
+2026-11-19T14:45:05Z,zcahjl3/weight-space-direct-intuition,zcahjl3,0,0,task_categories:other; license:mit; region:us; weight-space; mechanistic-interpretability; neural-network-weights; llm-evaluation; trajectories
+2026-11-19T14:45:26Z,asfrasd/Annoy-PyEdu-Rs,asfrasd,0,0,region:us
+2026-11-19T14:45:27Z,asfrasd/Annoy-PyEdu-Rs-Raw,asfrasd,0,0,region:us
+2026-11-19T14:46:01Z,toolathlon-eval-04/Annoy-PyEdu-Rs,toolathlon-eval-04,0,0,region:us
+2026-11-19T14:46:02Z,toolathlon-eval-04/Annoy-PyEdu-Rs-Raw,toolathlon-eval-04,0,0,region:us
+2026-11-19T14:48:36Z,adqfxad/Annoy-PyEdu-Rs,adqfxad,0,0,region:us
+2026-11-19T14:48:37Z,adqfxad/Annoy-PyEdu-Rs-Raw,adqfxad,0,0,region:us
+2026-11-19T14:49:10Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs,ASDSAGJADFQWQ,0,0,region:us
+2026-11-19T14:49:11Z,ASDSAGJADFQWQ/Annoy-PyEdu-Rs-Raw,ASDSAGJADFQWQ,0,0,region:us
+2026-11-19T14:50:56Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-11-19T14:50:56Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-11-19T14:52:08Z,hivepunk-547-db38b7a4/stated-facts-check,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; region:us
+2026-11-19T14:52:14Z,sadsad2dw/Annoy-PyEdu-Rs,sadsad2dw,0,0,region:us
+2026-11-19T14:52:15Z,sadsad2dw/Annoy-PyEdu-Rs-Raw,sadsad2dw,0,0,region:us
+2026-11-19T14:52:40Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-11-19T14:52:41Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
+2026-11-19T14:52:52Z,LinkedRush/__null__,LinkedRush,0,1,license:apache-2.0; region:us
+2026-11-19T14:53:09Z,justicedao/american_municipal_law_norm_ir,justicedao,0,0,task_categories:text-retrieval; license:other; region:us; legal; law; graphrag; bm25; research; not-legal-advice; american_municipal_law_norm
+2026-11-19T14:54:08Z,Paramr/CS781-Assignments,Paramr,0,0,size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-19T14:54:37Z,Noietch/EVA-SIM-ASSETS,Noietch,0,0,region:us
+2026-11-19T14:54:58Z,HZDR-FWGEL/SustainFM,HZDR-FWGEL,0,0,license:mit; region:us
+2026-11-19T14:55:11Z,stefanocarrera/autophagycode_D_results_entropy_per_next_token,stefanocarrera,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T14:55:54Z,Risposta/streaming_sparse_videos,Risposta,0,0,region:us
+2026-11-19T14:56:13Z,RLE-Bench/kinex-benchmark-openrua-setting,RLE-Bench,0,0,task_categories:robotics; license:mit; region:us
+2026-11-19T14:57:02Z,Govin42/devanagari-dataset-organic-19-11,Govin42,0,0,region:us
+2026-11-19T14:57:55Z,Anandsah007/Kimi_7B_Audio_Instruct_Banchmarking,Anandsah007,0,0,region:us
+2026-11-19T14:59:08Z,xiaofengk/ai-crawler-llms-index,xiaofengk,0,0,language:en; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robots.txt; ai-c…
+2026-11-19T14:59:49Z,danchern/gsm8k-story-views-100k,danchern,0,0,task_categories:question-answering; task_categories:text-generation; source_datasets:openai/gsm8k; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text…
+2026-11-19T14:59:55Z,Anandsah007/kimi_Audio,Anandsah007,0,0,region:us
+2026-11-19T14:59:59Z,jxtse/RI-Bench,jxtse,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; multi-agent; llm-agents; llm-evaluation; role-integrity; deliberation; peer-review; benchmark
+2026-11-19T15:00:11Z,SadeghK/persian-shahriar-tts-dataset,SadeghK,0,0,region:us
+2026-11-19T15:01:09Z,0xArchive/hyperliquid-lighter-market-data-sample,0xArchive,0,0,task_categories:time-series-forecasting; language:en; license:other; size_categories:10M<n<100M; region:us; hyperliquid; lighter; crypto; market-data; trades; orderbook; order-book; funding-rates; op…
+2026-11-19T15:01:30Z,sdsffs5/Annoy-PyEdu-Rs,sdsffs5,0,0,region:us
+2026-11-19T15:01:31Z,sdsffs5/Annoy-PyEdu-Rs-Raw,sdsffs5,0,0,region:us
+2026-11-19T15:03:24Z,zzzyzh/ManiVid-38K,zzzyzh,0,0,modality:video; region:us; video; video-manipulation; video-forensics
+2026-11-19T15:03:46Z,Govin42/devanagari-dataset-organic-19-11-FFF,Govin42,0,0,region:us
+2026-11-19T15:04:23Z,Tridex/40_stabilo_tracker_15h_19-11_20261119_152254,Tridex,0,0,region:us
+2026-11-19T15:05:08Z,adahmpl/gga-asturian-5k,adahmpl,0,0,task_categories:translation; language:ast; language:en; license:cc-by-sa-4.0; region:us
+2026-11-19T15:06:19Z,ljnlonoljpiljm/dataconcept_128M_processed_part1,ljnlonoljpiljm,0,0,region:us
+2026-11-19T15:07:09Z,SAD12ESZAE/Annoy-PyEdu-Rs,SAD12ESZAE,0,0,region:us
+2026-11-19T15:07:09Z,SAD12ESZAE/Annoy-PyEdu-Rs-Raw,SAD12ESZAE,0,0,region:us
+2026-11-19T15:07:51Z,Govin42/devanagari-dataset-organic-19-11-FFFFF,Govin42,0,0,region:us
+2026-11-19T15:08:44Z,XenonGas/SafeSD-AgentLAB-injections,XenonGas,0,0,language:en; license:mit; size_categories:1K<n<10K; region:us; agentlab; safesd
+2026-11-19T15:09:25Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-19T15:09:25Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-19T15:09:30Z,burtenshaw/raman-lab,burtenshaw,0,1,library:harbor; region:us; harbor; evaluation; agentic; physics
+2026-11-19T15:09:36Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-rail-inventory-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:09:39Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-prev-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:09:42Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-draft-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:09:45Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-final-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:09:48Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-nb2611-route-notes-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:10:07Z,Govin42/devanagari-dataset-organic-19-11-g,Govin42,0,0,region:us
+2026-11-19T15:10:46Z,sfafasgag5657/Annoy-PyEdu-Rs,sfafasgag5657,0,0,region:us
+2026-11-19T15:10:47Z,AutoRLBench/armnet_c03-dsrl-20261119b-ep100_all_32,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T15:10:47Z,sfafasgag5657/Annoy-PyEdu-Rs-Raw,sfafasgag5657,0,0,region:us
+2026-11-19T15:12:39Z,sdhasdas/Annoy-PyEdu-Rs,sdhasdas,0,0,region:us
+2026-11-19T15:12:40Z,sdhasdas/Annoy-PyEdu-Rs-Raw,sdhasdas,0,0,region:us
+2026-11-19T15:12:43Z,Govin42/devanagari-dataset-organic-19-11-Verified,Govin42,0,0,region:us
+2026-11-19T15:13:50Z,Vision-Decision/Glance-Data-Plus-clean,Vision-Decision,0,0,task_categories:object-detection; task_categories:zero-shot-object-detection; language:en; language:zh; license:cc-by-nc-sa-4.0; size_categories:100K<n<1M; region:us; visual-grounding; referring-expr…
+2026-11-19T15:13:52Z,Vision-Decision/glance-video-k700-annotations,Vision-Decision,0,0,task_categories:video-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:video; region:us; video; kinetics; arrow-of-time; camera-motion; self-supervised; annotation…
+2026-11-19T15:13:52Z,nithingodugu/DialogueMatch,nithingodugu,0,1,license:mit; region:us
+2026-11-19T15:15:55Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-19T15:15:55Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-19T15:17:48Z,ASD12EDSZCXZ/Annoy-PyEdu-Rs,ASD12EDSZCXZ,0,0,region:us
+2026-11-19T15:17:49Z,ASD12EDSZCXZ/Annoy-PyEdu-Rs-Raw,ASD12EDSZCXZ,0,0,region:us
+2026-11-19T15:18:06Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs,kaggle-benchmarks-leads,0,0,region:us
+2026-11-19T15:18:06Z,kaggle-benchmarks-leads/Annoy-PyEdu-Rs-Raw,kaggle-benchmarks-leads,0,0,region:us
+2026-11-19T15:18:11Z,toolathlon-eval-11/Annoy-PyEdu-Rs,toolathlon-eval-11,0,0,region:us
+2026-11-19T15:18:11Z,toolathlon-eval-11/Annoy-PyEdu-Rs-Raw,toolathlon-eval-11,0,0,region:us
+2026-11-19T15:18:49Z,TUaxhuiax/filesystem_rail_12306_terminal_fetch_huggingface_3952-dispatch-nb2611-hgh-a71c9f,TUaxhuiax,0,0,region:us
+2026-11-19T15:19:13Z,hi-todayis-jh/ouro-1.4b-base-math-verl-rltt-native-cons-base-cmp32k-cfg3-168100-20261117-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; region:us; reinforcement-learning; ouro; looped-language-model
+2026-11-19T15:19:16Z,much1na/wikipedia-20260401,much1na,0,0,annotations_creators:no-annotation; language_creators:found; multilinguality:monolingual; language:en; license:cc-by-sa-3.0; license:gfdl; size_categories:1M<n<10M; region:us; pretraining; language m…
+2026-11-19T15:19:51Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-19T15:19:51Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-19T15:19:52Z,meaha0fornaugh/anime-tomt-580-benchmark,meaha0fornaugh,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; anime; retrieval; semantic-search; benchmark; tipofmytongue; rag;…
+2026-11-19T15:19:54Z,orangemoon599/so101_sort_one_v1_raw,orangemoon599,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T15:20:03Z,SHIRMTRY/downloads-backup,SHIRMTRY,0,0,region:us
+2026-11-19T15:20:07Z,orangemoon599/so101_sort_one_v1,orangemoon599,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T15:20:26Z,exitlaa770/ail-reasoning-short,exitlaa770,0,0,region:us
