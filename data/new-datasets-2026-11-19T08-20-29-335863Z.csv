@@ -1,0 +1,160 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T07:22:24Z,Gynius84/aiwillberich-auto-ord-1795072921-3132,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:23:12Z,jakemannix/ccp-realignment-eval-300,jakemannix,0,0,license:apache-2.0; region:us
+2026-11-19T07:23:19Z,Gynius84/aiwillberich-sf-ord-1795072951-4bef4,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:23:20Z,AbrFerdowsi/Clean-HF-Dataset-7,AbrFerdowsi,0,0,size_categories:100K<n<1M; format:arrow; library:datasets; library:mlcroissant; region:us
+2026-11-19T07:24:16Z,ailab-sejong/hh_spam,ailab-sejong,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:24:32Z,nhatnguyet/loi-luan-tu-vi,nhatnguyet,0,0,task_categories:text-generation; task_categories:question-answering; language:vi; language:en; language:zh; license:cc-by-4.0; size_categories:1M<n<10M; format:json; modality:text; library:datasets;…
+2026-11-19T07:24:34Z,Tsubakimoto-EAGLYS/20261118-milx-pc-0.2-synth,Tsubakimoto-EAGLYS,0,0,size_categories:100K<n<1M; format:arrow; modality:image; modality:text; modality:timeseries; library:datasets; library:mlcroissant; region:us
+2026-11-19T07:25:25Z,Gynius84/aiwillberich-sf-ord-1795073076-d0fe3,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:25:33Z,AutoRLBench/armnet_c03-dsrl-20261119-ep100_all_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-19T07:25:41Z,08semi/hyouka11,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:26:03Z,anis5454549/pbl-pin-art,anis5454549,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-19T07:26:44Z,DoubleY2/environment,DoubleY2,0,0,region:us
+2026-11-19T07:26:49Z,Gynius84/aiwillberich-sf-ord-1795073173-e4399,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:27:40Z,SZLHOLDINGS/khipu-yachay-research-v0,SZLHOLDINGS,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:27:52Z,asdsdSADASD1/Annoy-PyEdu-Rs-Raw,asdsdSADASD1,0,0,region:us
+2026-11-19T07:27:52Z,asdsdSADASD1/Annoy-PyEdu-Rs,asdsdSADASD1,0,0,region:us
+2026-11-19T07:28:08Z,emiliiia/ai-generated-image-detection-benchmark,emiliiia,0,0,task_categories:image-classification; language:zh; language:en; size_categories:1K<n<10K; format:csv; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-19T07:29:00Z,ailab-sejong/hh_spam_v1,ailab-sejong,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:29:25Z,dsfa433/gatedds7415,dsfa433,0,0,format:csv; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:29:39Z,Gynius84/aiwillberich-sf-ord-1795073333-6ebc6,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:30:43Z,Gynius84/aiwillberich-auto-ord-1795073423-113d,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:30:47Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-19T07:30:48Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-19T07:31:11Z,Gynius84/aiwillberich-sf-ord-1795073450-140e5,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:31:16Z,Hailey-5-2026/rollout_pi05_sharpener_r64_bs8_40k_rtc_20261119_162942_20261119_163044,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-19T07:31:34Z,ailab-sejong/hh_spam_v2,ailab-sejong,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-19T07:32:29Z,ASD123WE/Annoy-PyEdu-Rs,ASD123WE,0,0,region:us
+2026-11-19T07:32:30Z,ASD123WE/Annoy-PyEdu-Rs-Raw,ASD123WE,0,0,region:us
+2026-11-19T07:32:45Z,Gynius84/aiwillberich-sf-ord-1795073538-0ca65,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:34:30Z,Gynius84/aiwillberich-sf-ord-1795073609-52504,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:35:10Z,SZLHOLDINGS/training-ledger,SZLHOLDINGS,0,0,license:apache-2.0; region:us; szl-estate; training-ledger; receipts; energy-measured
+2026-11-19T07:35:53Z,Gynius84/aiwillberich-sf-ord-1795073729-b5d82,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:36:10Z,ASCXZ12D/Annoy-PyEdu-Rs-Raw,ASCXZ12D,0,0,region:us
+2026-11-19T07:36:10Z,ASCXZ12D/Annoy-PyEdu-Rs,ASCXZ12D,0,0,region:us
+2026-11-19T07:36:55Z,Gynius84/aiwillberich-auto-ord-1795073795-06a3,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:37:23Z,Gynius84/aiwillberich-sf-ord-1795073820-12031,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:37:34Z,Anonymousyyyy/surgical-videos,Anonymousyyyy,0,0,region:us
+2026-11-19T07:38:54Z,Gynius84/aiwillberich-sf-ord-1795073892-71221,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:39:19Z,abr00kx/knesset-odata-parliament-info,abr00kx,0,0,task_categories:tabular-classification; task_categories:text-classification; task_categories:question-answering; language:he; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; kne…
+2026-11-19T07:40:17Z,Gynius84/aiwillberich-sf-ord-1795073976-b55c7,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:40:24Z,Shrey160/lfm3-vl-rl-v2-tasks,Shrey160,0,0,task_categories:robotics; task_categories:reinforcement-learning; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:pol…
+2026-11-19T07:40:52Z,Gynius84/aiwillberich-sf-ord-1795074003-7c33c,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:41:52Z,therajasekhar/india-public-water-bodies,therajasekhar,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-e…
+2026-11-19T07:42:01Z,Gynius84/aiwillberich-auto-ord-1795074099-f7a3,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:42:24Z,therajasekhar/india-public-healthcare,therajasekhar,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-…
+2026-11-19T07:42:37Z,therajasekhar/india-public-agriculture,therajasekhar,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public…
+2026-11-19T07:42:49Z,therajasekhar/india-public-entity-registry,therajasekhar,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-entities; registry;…
+2026-11-19T07:43:01Z,Gynius84/aiwillberich-sf-ord-1795074128-e7ed8,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:43:18Z,PKU-ONELab/UniAIDet,PKU-ONELab,0,0,region:us
+2026-11-19T07:43:19Z,AutoRLBench/armnet_c01-dsrl-20261119-ep100_all_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T07:43:44Z,VirtualConsultantOnline/orthodontic-access-uk,VirtualConsultantOnline,0,1,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-19T07:44:03Z,therajasekhar/india-public-education,therajasekhar,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-e…
+2026-11-19T07:44:37Z,therajasekhar/india-public-post-offices,therajasekhar,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-…
+2026-11-19T07:44:38Z,sejzu0123/5ccded96-867c-4d6b-b9c4-d3ced019b709,sejzu0123,0,0,region:us
+2026-11-19T07:44:48Z,therajasekhar/india-public-banking,therajasekhar,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-…
+2026-11-19T07:45:07Z,kob0105/rollout_temporal_new_act_normal_whiteball_IR_20261119_163806,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:45:10Z,Gynius84/aiwillberich-sf-ord-1795074249-4c546,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:45:10Z,therajasekhar/india-public-police,therajasekhar,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public…
+2026-11-19T07:45:23Z,therajasekhar/india-public-power-plants,therajasekhar,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-e…
+2026-11-19T07:45:31Z,therajasekhar/india-public-urban-sanitation,therajasekhar,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public…
+2026-11-19T07:45:42Z,therajasekhar/india-public-govt-services,therajasekhar,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-…
+2026-11-19T07:45:57Z,therajasekhar/india-public-cultural-heritage,therajasekhar,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-e…
+2026-11-19T07:46:06Z,therajasekhar/india-public-census-2011,therajasekhar,0,0,license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-entit…
+2026-11-19T07:46:15Z,therajasekhar/india-public-agri-markets,therajasekhar,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public-entities; agrimarke…
+2026-11-19T07:46:16Z,aixk/qwen3-0.6b-multilingual-char-rp,aixk,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:46:17Z,sejzu0123/289a1485-8645-4a82-9895-9ae277750316,sejzu0123,0,0,region:us
+2026-11-19T07:46:25Z,therajasekhar/india-public-pois,therajasekhar,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; india; civic-data; public…
+2026-11-19T07:46:33Z,Gynius84/aiwillberich-sf-ord-1795074358-7356e,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:47:12Z,no-wo/placement-aptitude,no-wo,0,0,region:us
+2026-11-19T07:47:35Z,08semi/new_new7,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:47:39Z,juhi-neeved/sdface-work,juhi-neeved,0,0,region:us
+2026-11-19T07:48:07Z,Ruferd/ruferd-image-generator,Ruferd,0,0,region:us
+2026-11-19T07:48:32Z,Gynius84/aiwillberich-sf-ord-1795074466-4c8b8,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:49:10Z,hugging-3d/smithsonian-trellis2-prep-shard-20,hugging-3d,0,0,region:us
+2026-11-19T07:49:10Z,HumanCOIN/l1_living_room_wind_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; wind_task
+2026-11-19T07:49:37Z,hugging-3d/smithsonian-trellis2-prep-shard-21,hugging-3d,0,0,region:us
+2026-11-19T07:49:49Z,hugging-3d/smithsonian-trellis2-prep-shard-22,hugging-3d,0,0,region:us
+2026-11-19T07:50:42Z,Gynius84/aiwillberich-auto-ord-1795074542-8352,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:51:11Z,Gynius84/aiwillberich-sf-ord-1795074648-f06c7,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:51:20Z,afdasfasd/Annoy-PyEdu-Rs,afdasfasd,0,0,region:us
+2026-11-19T07:51:20Z,afdasfasd/Annoy-PyEdu-Rs-Raw,afdasfasd,0,0,region:us
+2026-11-19T07:51:24Z,DSADD12E1DSAD/Annoy-PyEdu-Rs,DSADD12E1DSAD,0,0,region:us
+2026-11-19T07:51:25Z,DSADD12E1DSAD/Annoy-PyEdu-Rs-Raw,DSADD12E1DSAD,0,0,region:us
+2026-11-19T07:52:27Z,Gynius84/aiwillberich-sf-ord-1795074723-92796,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:52:56Z,jungroo-ai/PolicyMask,jungroo-ai,0,0,task_categories:token-classification; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-19T07:53:22Z,sejzu0123/4ed4ef17-e8eb-40c9-a00d-38b321b89b70,sejzu0123,0,0,region:us
+2026-11-19T07:53:25Z,kob0105/rollout_temporal_new_act_small_whiteball_IR_20261119_164637,kob0105,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:53:43Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-19T07:53:46Z,SzymonKozl/romeo_juliet_it,SzymonKozl,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T07:53:48Z,aixk/char-chat,aixk,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:53:55Z,Jamie-nus/TOPO-Bench,Jamie-nus,0,0,task_categories:robotics; license:other; size_categories:n<1K; arxiv:2011.12954; region:us; place-recognition; relocalization; topological-mapping; perceptual-aliasing; kidnapped-robot; rgb-d; odomet…
+2026-11-19T07:53:59Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-19T07:54:48Z,Gynius84/aiwillberich-sf-ord-1795074795-0e18f,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:55:00Z,jjyuan669/THUCNews,jjyuan669,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:55:34Z,Cybrpgs/sanew-top100-new-20261119,Cybrpgs,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T07:55:54Z,ale-chips/ale-tasks-chip-runs,ale-chips,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents-last-exam; ale-task-runs
+2026-11-19T07:55:59Z,ale-manufacture/ale-tasks-electronic-manufacturing-runs,ale-manufacture,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agents-last-exam; ale-task-runs
+2026-11-19T07:56:01Z,AutoRLBench/armnet_c01-dsrl-20261119_train_100,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-19T07:56:08Z,vince2729/ahmedmohamed2003_retail-store-sales-dirty-for-data-cleaning,vince2729,0,0,license:unknown; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; kaggle; exploratory data an…
+2026-11-19T07:56:25Z,Gynius84/aiwillberich-sf-ord-1795074955-f3928,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:56:28Z,miya-k/so101_bimanual_camera_test_20261119_165154,miya-k,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T07:57:30Z,Gynius84/aiwillberich-auto-ord-1795075029-8623,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:57:59Z,hivepunk-547-db38b7a4/letta-stated-facts-v1,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T07:58:20Z,Gynius84/aiwillberich-sf-ord-1795075057-d33cb,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T07:59:17Z,SzymonKozl/romeo_juliet_en,SzymonKozl,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T07:59:49Z,HumanCOIN/l1_balcony_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-19T07:59:50Z,08semi/new_new8,08semi,0,0,region:us
+2026-11-19T07:59:55Z,Gynius84/aiwillberich-sf-ord-1795075169-44c12,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:01:24Z,aixk/char-chat1,aixk,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T08:01:25Z,Gynius84/aiwillberich-sf-ord-1795075241-c03c9,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:01:37Z,AutoRLBench/armnet_c03-dsrl-20261119-ep100_all_13,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T08:01:47Z,riman-org/riman-ca-botalab-deserticola-conditioner-dropship-study,riman-org,0,1,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; doi:10.57967/hf/11709; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-19T08:02:05Z,GarethFW/Executive_and_Organisational_Commitments,GarethFW,0,0,license:mit; region:us
+2026-11-19T08:02:29Z,e2nank/analisa_gis,e2nank,0,0,region:us
+2026-11-19T08:03:18Z,Gynius84/aiwillberich-sf-ord-1795075346-44c94,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:04:06Z,nuasense/east-africa-benchmark,nuasense,0,0,task_categories:question-answering; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-11-19T08:04:31Z,Gynius84/aiwillberich-auto-ord-1795075446-99e9,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:04:55Z,WoojongKim/eval_pi05_policy_omy_gelsight_snack_all_wo_yeegam_step020000_20261119_165314_pi_GelTrue_snack1,WoojongKim,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T08:05:20Z,Hailey-5-2026/rollout_pi05_sharpener_r64_bs8_40k_rtc_20261119_164423,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T08:05:28Z,Sosa654321/cop31-meetings-antalya,Sosa654321,0,0,task_categories:question-answering; task_categories:tabular-classification; language:en; language:tr; license:cc-by-4.0; size_categories:n<1K; region:us; cop31; climate; events; meetings; zero-waste;…
+2026-11-19T08:05:56Z,Gynius84/aiwillberich-sf-ord-1795075497-e7163,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:05:57Z,abr00kx/tel-aviv-emergency-health-gis,abr00kx,0,0,task_categories:tabular-classification; license:apache-2.0; size_categories:10K<n<100K; region:us; tel-aviv; israel; gis; geojson; open-data; civil-defense; emergency-response; healthcare
+2026-11-19T08:06:26Z,jdjsjsj28828/zqvw1,jdjsjsj28828,0,0,license:mit; region:us
+2026-11-19T08:06:27Z,AutoRLBench/armnet_showcase_c01_20261119c,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T08:06:58Z,riman-org/riman-ca-nbp-complex-microclimate-barrier-study,riman-org,0,1,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; doi:10.57967/hf/11708; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formu…
+2026-11-19T08:07:14Z,Gynius84/aiwillberich-sf-ord-1795075608-5ff37,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:07:35Z,riman-org/riman-ca-radiansome-100-nanoliposome-retinol-alternative-study,riman-org,0,1,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; doi:10.57967/hf/11707; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulati…
+2026-11-19T08:08:15Z,riman-org/riman-chile-botalab-suamel-body-cream-botanical-patent-study,riman-org,0,1,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; doi:10.57967/hf/11706; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulati…
+2026-11-19T08:08:35Z,cyx66666/openpi-p7-tv-day-wsd-live-loss-metrics,cyx66666,0,0,region:us
+2026-11-19T08:09:03Z,riman-org/riman-chile-incellderm-active-cream-ex-post-procedure-study,riman-org,0,1,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; doi:10.57967/hf/11705; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formu…
+2026-11-19T08:09:21Z,OVT-NPU/OpenImagesV6_10cls_small,OVT-NPU,0,0,task_categories:image-classification; language:en; license:cc-by-4.0; region:us; tinyML; open-images-v6; multi-label-classification
+2026-11-19T08:09:33Z,ming9999/code-agent,ming9999,0,0,license:apache-2.0; region:us
+2026-11-19T08:09:55Z,Gynius84/aiwillberich-sf-ord-1795075684-37fe6,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:11:11Z,abr00kx/tel-aviv-master-plan-ta5500,abr00kx,0,0,task_categories:tabular-classification; language:he; license:apache-2.0; size_categories:10K<n<100K; region:us; tel-aviv; israel; urban-planning; gis; geojson; ta5500; zoning; open-data
+2026-11-19T08:11:45Z,Gynius84/aiwillberich-sf-ord-1795075862-ab1da,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:12:36Z,e2nank/WIUP,e2nank,0,0,region:us
+2026-11-19T08:13:21Z,Gynius84/aiwillberich-auto-ord-1795075948-6c5a,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:13:28Z,abr00kx/israel-nationwide-infrastructure-opendata,abr00kx,0,0,task_categories:tabular-classification; language:he; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; israel; open-data; data-gov-il; infrastructure; telecommunications; healthca…
+2026-11-19T08:14:07Z,Gynius84/aiwillberich-sf-ord-1795076006-3b6b5,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:14:10Z,jby20180901/BenchForge-IE-Track-220,jby20180901,0,0,language:en; size_categories:n<1K; region:us; benchmark; embodied-ai; robotics; ai2-thor
+2026-11-19T08:14:18Z,jwon07/lerobot_ur5e_pick_place_libero_cream_cheesest,jwon07,0,0,region:us
+2026-11-19T08:14:53Z,yashdatasets/Devanagri_Dataset,yashdatasets,0,0,region:us
+2026-11-19T08:15:21Z,LyricBobby/Annoy-PyEdu-Rs,LyricBobby,0,0,region:us
+2026-11-19T08:15:22Z,LyricBobby/Annoy-PyEdu-Rs-Raw,LyricBobby,0,0,region:us
+2026-11-19T08:15:32Z,1ys1/rollout_smol_180_030000_eclipse_20261119_170733_20261119_170759,1ys1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T08:15:57Z,juhi-neeved/sdface-faces,juhi-neeved,0,0,region:us
+2026-11-19T08:16:04Z,Gynius84/aiwillberich-sf-ord-1795076116-b232d,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:16:12Z,Yyyyyyffffffff/pick_up_bottles_and_hand_it_over_to_hand,Yyyyyyffffffff,0,0,region:us
+2026-11-19T08:16:32Z,SUBHENDU/iotlab_20261119_130311,SUBHENDU,0,0,region:us
+2026-11-19T08:17:30Z,Gynius84/aiwillberich-sf-ord-1795076220-b3d9c,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:18:07Z,SAD21ZD1E/Annoy-PyEdu-Rs,SAD21ZD1E,0,0,region:us
+2026-11-19T08:18:07Z,SAD21ZD1E/Annoy-PyEdu-Rs-Raw,SAD21ZD1E,0,0,region:us
+2026-11-19T08:18:21Z,reference-data/world-happiness-report-2023-sample,reference-data,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; happiness; world-happiness-report; whr; sample; csv; reference-data
+2026-11-19T08:18:27Z,aixk/char-chat-ko,aixk,0,0,region:us
+2026-11-19T08:18:33Z,seriintan/rollout_base30_20261119_154619_20261119_154638,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T08:19:18Z,Gynius84/aiwillberich-sf-ord-1795076307-bfccf,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
+2026-11-19T08:20:02Z,AD12SACZXQW/Annoy-PyEdu-Rs,AD12SACZXQW,0,0,region:us
+2026-11-19T08:20:02Z,AD12SACZXQW/Annoy-PyEdu-Rs-Raw,AD12SACZXQW,0,0,region:us
+2026-11-19T08:20:22Z,Gynius84/aiwillberich-auto-ord-1795076399-fe2a,Gynius84,0,0,license:mit; region:us; ai; automation; developer-tools
