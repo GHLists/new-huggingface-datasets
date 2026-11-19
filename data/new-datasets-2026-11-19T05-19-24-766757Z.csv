@@ -1,0 +1,82 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T04:22:12Z,AlpaZZ/SWXD-Dataset-640,AlpaZZ,0,0,task_categories:object-detection; task_categories:image-segmentation; license:cc-by-4.0; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:…
+2026-11-19T04:24:14Z,marrakech-kitchen/mks-media,marrakech-kitchen,0,0,region:us
+2026-11-19T04:25:05Z,ra-pipeline/pipeline-testdata,ra-pipeline,0,0,region:us
+2026-11-19T04:26:13Z,TacVerse/xtac-umi-g1-pick-one-bread-item-of-each-type,TacVerse,0,0,region:us
+2026-11-19T04:26:17Z,gary2oos/cs-net-v5,gary2oos,0,0,region:us
+2026-11-19T04:27:22Z,At1uri/navier-stokes-turbulent-flow-benchmarks,At1uri,0,0,task_categories:tabular-regression; license:mit; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-11-19T04:27:39Z,YzyLmc/pick_blue_demo_raw,YzyLmc,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T04:28:07Z,vinay200701/vinay,vinay200701,0,0,region:us
+2026-11-19T04:28:11Z,YzyLmc/pick_blue_demo,YzyLmc,0,0,task_categories:robotics; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:l…
+2026-11-19T04:29:17Z,liufea154/Annoy-PyEdu-Rs,liufea154,0,0,license:odc-by; region:us
+2026-11-19T04:29:18Z,liufea154/Annoy-PyEdu-Rs-Raw,liufea154,0,0,license:odc-by; region:us
+2026-11-19T04:31:48Z,sejzu0123/f9701e36-197f-459a-9f74-b1344aad3ef8,sejzu0123,0,0,region:us
+2026-11-19T04:32:53Z,YzyLmc/yellow_on_blue_rollout_run01_raw,YzyLmc,0,0,task_categories:robotics; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; yam; pi0.5; policy-rollout; rgbd
+2026-11-19T04:33:43Z,sangamdas/AI-Safety-Protected-Execution-Finality,sangamdas,0,0,language:en; region:us; ai-safety; cybersecurity; agentic-ai; autonomous-systems; trusted-computing; execution-finality; critical-infrastructure; runtime-security; authorization; distributed-systems;…
+2026-11-19T04:33:45Z,dittymore/fun,dittymore,0,0,region:us
+2026-11-19T04:34:26Z,Chandler-Shen/CoWorld,Chandler-Shen,0,0,region:us
+2026-11-19T04:34:42Z,luvox-ai/ok-lumi-positive-short,luvox-ai,0,0,task_categories:audio-classification; language:vi; size_categories:1K<n<10K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us; wakeword; ok-lumi
+2026-11-19T04:35:21Z,pratikgx/clairic-flash-m5-pro-mac-mini-bench,pratikgx,0,0,task_categories:image-text-to-text; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-11-19T04:35:37Z,YzyLmc/blue_block_to_mug_rollout_run02_raw,YzyLmc,0,0,task_categories:robotics; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; yam; pi0.5; policy-rollout; rgbd
+2026-11-19T04:36:31Z,nberezny/lite6_stack_wp,nberezny,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-19T04:36:48Z,YzyLmc/yellow_on_blue_rollout_run01,YzyLmc,0,0,task_categories:robotics; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-11-19T04:36:51Z,sejzu0123/3b1826c4-57ae-4086-8633-73e9d21b800f,sejzu0123,0,0,region:us
+2026-11-19T04:36:55Z,Hashir621/parsebench2-viewer,Hashir621,0,0,license:apache-2.0; modality:document; region:us; document-parsing; pdf; benchmark; parsebench
+2026-11-19T04:37:35Z,YzyLmc/blue_block_to_mug_rollout_run02,YzyLmc,0,0,task_categories:robotics; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; libra…
+2026-11-19T04:37:58Z,g1n0st/0c3d9000c46725df0c6ace61d1e89b2d3f193811,g1n0st,0,0,region:us
+2026-11-19T04:40:00Z,ASDCZX12DS/Annoy-PyEdu-Rs,ASDCZX12DS,0,0,region:us
+2026-11-19T04:40:02Z,ASDCZX12DS/Annoy-PyEdu-Rs-Raw,ASDCZX12DS,0,0,region:us
+2026-11-19T04:41:43Z,Sensen02/PhysLoop-Real60-assets,Sensen02,0,0,license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us; video
+2026-11-19T04:43:33Z,ASD2SAC21D/Annoy-PyEdu-Rs,ASD2SAC21D,0,0,region:us
+2026-11-19T04:43:33Z,ASD2SAC21D/Annoy-PyEdu-Rs-Raw,ASD2SAC21D,0,0,region:us
+2026-11-19T04:44:10Z,nberezny/lite6_stack_dense,nberezny,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T04:44:45Z,sangamdas/autonomous-operational-consistency,sangamdas,0,0,language:en; region:us; ai-safety; autonomous-agents; distributed-systems; telecommunications; 6g; robotics; critical-infrastructure; hardware-security; asynchronous-systems; technical-disclosure
+2026-11-19T04:45:28Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-19T04:45:32Z,LuoBoding2025/Benchmark-GPT-Gemini,LuoBoding2025,0,0,language:en; region:us; spatial-audio; ambisonics; binaural; benchmark
+2026-11-19T04:45:58Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-19T04:46:21Z,maxgfr/skycmd-route7,maxgfr,0,0,task_categories:text-classification; language:en; language:fr; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; librar…
+2026-11-19T04:47:14Z,bytkim/AgentGridWorld-Hard,bytkim,0,1,task_categories:reinforcement-learning; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-19T04:47:30Z,SOTAagi2030/Autumn-Spoken-Memory-Batches,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T04:47:35Z,SOTAagi2030/Autumn-Speaker-Consent-Ledger,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T04:48:46Z,surelyMersad/arb-decision-index-data-packet,surelyMersad,0,0,task_categories:text-classification; task_categories:multiple-choice; license:other; size_categories:10M<n<100M; region:us; decision-model; typed-decisions; applied-rsi-bench
+2026-11-19T04:49:53Z,komokomo7/record_act_tactile_sciurus17_corner-fold-2_2026_1119_134628_10ep,komokomo7,0,0,region:us
+2026-11-19T04:50:01Z,Sensen02/SANA-test-assets,Sensen02,0,0,license:other; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-19T04:50:39Z,ChartFoundation/BioLoom-EvalSuite,ChartFoundation,0,0,task_categories:image-classification; task_categories:image-to-text; task_categories:text-to-image; language:en; license:other; region:us; biomedical; benchmark; zero-shot; retrieval
+2026-11-19T04:50:40Z,ChartFoundation/Loom52M,ChartFoundation,0,0,task_categories:image-to-text; task_categories:text-to-image; language:en; license:other; library:webdataset; region:us; biomedicine; scientific-figures; contrastive-pretraining; webdataset
+2026-11-19T04:51:40Z,shilpitha-03/so101_stack_rpy_jitter,shilpitha-03,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-19T04:52:30Z,Aslam7/Vibe-Coding-Instruct-Prepared,Aslam7,0,0,size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T04:54:33Z,sejzu0123/491330b8-3719-48b1-91a9-5c740601a459,sejzu0123,0,0,region:us
+2026-11-19T04:55:33Z,sejzu0123/ab15ee84-a90c-4837-9d12-b123a888fdf4,sejzu0123,0,0,region:us
+2026-11-19T04:56:04Z,0xA672/GoPrism-5K,0xA672,0,0,task_categories:text-generation; task_categories:question-answering; annotations_creators:machine-generated; language_creators:machine-generated; source_datasets:original; language:en; language:code;…
+2026-11-19T04:56:36Z,wjdals01/rollout_red_block_hil_rtc_20261119_135441,wjdals01,0,0,region:us
+2026-11-19T04:57:39Z,seriintan/rollout_tta_smoke_20261119_125457_20261119_125518,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T04:58:14Z,shilpitha-03/so101_stack_rpy_plus_jitter,shilpitha-03,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T05:00:15Z,justicedao/ipfs_china_regulations,justicedao,0,0,language:zh; license:other; region:us; legal; regulations; china; administrative-regulation; govcn; official-texts
+2026-11-19T05:00:25Z,sejzu0123/7f766ce7-a6a5-40dc-94ae-d860a094cc0b,sejzu0123,0,0,region:us
+2026-11-19T05:01:06Z,seriintan/rollout_tta_smoke_20261119_125802_20261119_125820,seriintan,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T05:01:43Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs,DSAD2CSA2ZC,0,0,region:us
+2026-11-19T05:01:45Z,DSAD2CSA2ZC/Annoy-PyEdu-Rs-Raw,DSAD2CSA2ZC,0,0,region:us
+2026-11-19T05:03:10Z,congcong-one/mcgs-hug,congcong-one,0,0,region:us
+2026-11-19T05:04:07Z,sonnyjin/ur5e_cube_auto_torque_200_all_7225,sonnyjin,0,0,region:us
+2026-11-19T05:05:48Z,Darknsu/new_emo_generated_audio_videos,Darknsu,0,0,license:apache-2.0; region:us
+2026-11-19T05:06:11Z,sddass21/Annoy-PyEdu-Rs,sddass21,0,0,region:us
+2026-11-19T05:06:42Z,sddass21/Annoy-PyEdu-Rs-Raw,sddass21,0,0,region:us
+2026-11-19T05:06:48Z,seriintan/rollout_tta_smoke_20261119_130337_20261119_130356,seriintan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T05:06:52Z,sangamdas/independent-evaluators-protected-multi-agent-execution,sangamdas,0,0,language:en; region:us; ai-safety; multi-agent-systems; autonomous-agents; cybersecurity; distributed-systems; independent-evaluation; agent-governance; trust-and-safety; critical-infrastructure; tec…
+2026-11-19T05:06:58Z,loveisgone/cococo,loveisgone,0,0,region:us
+2026-11-19T05:07:15Z,thechipmunksdance/stratego-rules-battle-matrix,thechipmunksdance,0,0,region:us
+2026-11-19T05:08:23Z,thanatchon36/just-under-the-line,thanatchon36,0,0,language:th; language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; public-procurement; bunching; thailand; economics
+2026-11-19T05:08:50Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-19T05:08:50Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-19T05:08:57Z,sejzu0123/44f0d547-e659-4653-bd3c-946db47f2c95,sejzu0123,0,0,region:us
+2026-11-19T05:09:25Z,jcsq6/rotowire-opus-relabel,jcsq6,0,0,task_categories:table-question-answering; task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; region:us; text-to-table; information-extraction; rotowire; basketball;…
+2026-11-19T05:09:38Z,AutoRLBench/armnet-leaderboard,AutoRLBench,0,0,region:us
+2026-11-19T05:10:23Z,thanatchon36/lottery-substitution-th,thanatchon36,0,0,language:th; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; google-trends; lottery; gambling; thailand; economics; pre-registration
+2026-11-19T05:10:37Z,thanatchon36/who-falls-again,thanatchon36,0,0,language:en; language:th; license:cc-by-4.0; region:us; scams; fraud; signal-detection-theory; microsimulation; thailand; australia
+2026-11-19T05:10:47Z,thanatchon36/genai-leveller-amplifier,thanatchon36,0,0,language:en; language:th; license:cc-by-4.0; size_categories:n<1K; region:us; generative-ai; productivity; skill-formation; inequality; pre-registration; thailand; economics
+2026-11-19T05:11:05Z,wjdals01/rollout_red_block_hil_rtc_20261119_141008,wjdals01,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T05:13:33Z,sangamdas/ai-safety-cross-platform-execution-finality,sangamdas,0,0,language:en; region:us; ai-safety; cybersecurity; autonomous-agents; execution-security; cross-platform; android; ios; trusted-computing; authorization; critical-infrastructure; distributed-systems;…
+2026-11-19T05:13:36Z,BiTaNan/Tooth-Points-MappingTable,BiTaNan,0,0,region:us
+2026-11-19T05:14:56Z,sad1dsa12/Annoy-PyEdu-Rs,sad1dsa12,0,0,region:us
+2026-11-19T05:14:57Z,sad1dsa12/Annoy-PyEdu-Rs-Raw,sad1dsa12,0,0,region:us
+2026-11-19T05:18:03Z,sangamdas/ai-safety-independent-validation-execution-finality,sangamdas,0,0,license:cc-by-nc-4.0; region:us
