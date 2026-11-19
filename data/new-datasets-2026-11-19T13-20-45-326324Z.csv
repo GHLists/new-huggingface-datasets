@@ -1,0 +1,81 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T12:22:39Z,AutoRLBench/armnet_c01-dsrl-20261119_train_300,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T12:22:47Z,SAD21ZD1E/Annoy-PyEdu-Rs,SAD21ZD1E,138,0,region:us
+2026-11-19T12:22:48Z,SAD21ZD1E/Annoy-PyEdu-Rs-Raw,SAD21ZD1E,136,0,region:us
+2026-11-19T12:24:20Z,Sanjay061/flux-dedup-ablation-armB10m-100B,Sanjay061,0,0,license:other; region:us; dedup-ablation; smollm2-tokenized
+2026-11-19T12:28:44Z,fhi/piston-assembly-study,fhi,0,0,language:en; license:mit; region:us; manual-assembly; operator-guidance; experiment-metadata
+2026-11-19T12:29:24Z,fhi/piston-parts-detection,fhi,0,0,license:mit; region:us
+2026-11-19T12:30:05Z,fhi/piston-pose-classification,fhi,0,0,task_categories:image-classification; language:en; license:mit; region:us; manual-assembly; pose-classification
+2026-11-19T12:30:28Z,nasir421/fiba-basketball-clips,nasir421,0,0,task_categories:video-classification; license:other; size_categories:1M<n<10M; modality:video; region:us; basketball; sports; action-recognition; video; fiba
+2026-11-19T12:30:30Z,Sanjay061/flux-dedup-ablation-armC16-100B,Sanjay061,0,0,region:us
+2026-11-19T12:31:04Z,fhi/piston-assembly-recordings,fhi,0,0,license:mit; region:us
+2026-11-19T12:35:06Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-19T12:35:06Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-19T12:36:41Z,LeeJun12/rollout_diffusion_pick-cube-2cam_20261119_212846,LeeJun12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T12:37:59Z,Ethinc/votum-e4b-bidir-decision-index,Ethinc,0,0,license:mit; region:us; decision-index
+2026-11-19T12:38:29Z,gem313/camus_fr_2,gem313,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T12:38:35Z,Velandris/Velandris-Lite,Velandris,0,0,license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; rbuild; r-build-v4.2; velandris; roselle; moe; co…
+2026-11-19T12:39:41Z,Xense/pack_iphone_box_1119,Xense,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-19T12:40:30Z,toolathlon-eval-07/Annoy-PyEdu-Rs,toolathlon-eval-07,0,0,region:us
+2026-11-19T12:40:30Z,toolathlon-eval-07/Annoy-PyEdu-Rs-Raw,toolathlon-eval-07,0,0,region:us
+2026-11-19T12:41:02Z,dhdksgah/routerbench,dhdksgah,0,0,task_categories:text-generation; task_categories:question-answering; language:en; size_categories:10K<n<100K; region:us; code
+2026-11-19T12:41:40Z,Velandris/Velandris-Efficiency,Velandris,0,0,license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; rbuild; r-build-v4.2; velandris; roselle; moe; co…
+2026-11-19T12:42:28Z,sejzu0123/c4262399-4f9e-4307-81a9-6c3bd027ea60,sejzu0123,0,0,region:us
+2026-11-19T12:42:42Z,adbsr-internal/ssta-hackathon,adbsr-internal,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T12:42:46Z,saurabhb2412/bh-tickets-laya-finetune,saurabhb2412,0,0,region:us
+2026-11-19T12:43:47Z,raj270898/VisionForge,raj270898,0,0,task_categories:text-to-image; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; image-dataset-pipeline
+2026-11-19T12:44:03Z,hedwigai/citeparse-wild-700,hedwigai,0,0,task_categories:token-classification; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-19T12:45:11Z,ashuyad1234/kde4-parquet,ashuyad1234,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T12:45:20Z,Owejdbdbsjjd/Font,Owejdbdbsjjd,0,0,region:us
+2026-11-19T12:46:16Z,BravoRobots/archaeosort-dataset-builder,BravoRobots,0,0,region:us
+2026-11-19T12:46:20Z,GamesMais18/PerfectHousewifeDados,GamesMais18,0,0,region:us
+2026-11-19T12:46:54Z,LeeJun12/rollout_diffusion_pick-cube-2cam_ddim10_20261119_213821,LeeJun12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T12:51:30Z,bakitacos/august-2025-ecommerce-traffic,bakitacos,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas…
+2026-11-19T12:52:35Z,huuhuyng/56-image-i78-results,huuhuyng,0,0,region:us
+2026-11-19T12:53:05Z,kmsgk/cs-paper-library,kmsgk,0,0,region:us
+2026-11-19T12:54:09Z,Xense/pick-place-1119,Xense,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T12:54:34Z,woopmedia/crypto-mining-profitability-2026-11-19,woopmedia,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cryptocurrency min…
+2026-11-19T12:56:43Z,Fortunaa/PoVi,Fortunaa,0,0,license:apache-2.0; region:us
+2026-11-19T12:58:28Z,defisafetytools/incidents,defisafetytools,0,0,region:us
+2026-11-19T12:58:32Z,defisafetytools/country-crypto-guides,defisafetytools,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T12:58:34Z,defisafetytools/rwa-directory,defisafetytools,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T12:59:35Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-19T12:59:35Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-19T13:00:35Z,AutoRLBench/armnet_c01-dsrl-20261119-ep400_all_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T13:00:36Z,Boxerbook/boxing-showcase,Boxerbook,0,0,language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; boxing; sports; co…
+2026-11-19T13:00:46Z,Velandris/Velandris-Heavy,Velandris,0,0,license:other; region:us; rbuild; r-build-v4.2; velandris; roselle; moe; continued-training; tool-use
+2026-11-19T13:02:47Z,AutoRLBench/armnet_c03-dsrl-20261119b_train_100,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T13:03:34Z,AutoRLBench/armnet_c01-dsrl-20261119-ep400_all_58,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T13:04:47Z,chekistcccp/bird_swap_test,chekistcccp,0,0,region:us
+2026-11-19T13:05:37Z,HumanCOIN/l1_beauty_salon_comb_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; comb_task
+2026-11-19T13:05:55Z,KarthikKB1998/CV-Fairness,KarthikKB1998,0,0,region:us
+2026-11-19T13:06:37Z,hardik-dwivedi/xLAM-mutated,hardik-dwivedi,0,0,region:us
+2026-11-19T13:06:57Z,HumanCOIN/l1_beauty_salon_cut_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cut_task
+2026-11-19T13:07:02Z,Owen777/transfer-20261119-2,Owen777,0,0,region:us
+2026-11-19T13:07:34Z,zwt963/luminedata,zwt963,0,0,region:us
+2026-11-19T13:08:37Z,emgena/sentinel_ciso_guard_7b_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; security; appsec; cve; secret-detection; ollama; gguf; lora
+2026-11-19T13:08:44Z,emgena/sentinel_coder_7b_weights_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; code-generation; reasoning; rlvr; ollama; gguf; lora; vllm
+2026-11-19T13:08:47Z,emgena/sentinel_os_in_ide_armor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; token-governor; security; dlp; ast-guard
+2026-11-19T13:08:49Z,emgena/eu_ai_act_dora_graphrag_wiki_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; legaltech; eu-ai-act; dora; compliance; graphrag; bm25; offline
+2026-11-19T13:08:51Z,emgena/eu_ai_act_annex_iv_audit_generator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; audit; eu-ai-act; annex-iv; dora; compliance; cli-tool
+2026-11-19T13:08:54Z,emgena/verifiable_reasoning_50k_rlvr_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:mit; size_categories:n<1K; region:us; rlvr; dataset; fine-tuning; dpo; parquet; reasoning
+2026-11-19T13:10:13Z,bekhruzsuleyman/alethic-newborn,bekhruzsuleyman,0,0,task_categories:text-generation; language:en; language:uz; license:cc-by-4.0; size_categories:10K<n<100K; region:us
+2026-11-19T13:10:41Z,HumanCOIN/l1_beauty_salon_dry_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-19T13:10:44Z,toolathlon-eval-05/Annoy-PyEdu-Rs,toolathlon-eval-05,0,0,region:us
+2026-11-19T13:10:44Z,toolathlon-eval-05/Annoy-PyEdu-Rs-Raw,toolathlon-eval-05,0,0,region:us
+2026-11-19T13:11:04Z,HumanCOIN/l1_beauty_salon_file_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; file_task
+2026-11-19T13:11:52Z,Velandris/Velandris-Analyst,Velandris,0,0,region:us
+2026-11-19T13:11:53Z,HumanCOIN/l1_beauty_salon_fill_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-19T13:12:02Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-19T13:12:02Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-19T13:12:18Z,ZngYiM/stera-ego-20261111-26,ZngYiM,0,0,size_categories:n<1K; modality:video; region:us; video; egocentric; stera; mcap; multimodal
+2026-11-19T13:13:22Z,Yiting0611/spinetrack,Yiting0611,0,0,task_categories:keypoint-detection; license:cc-by-nc-4.0; size_categories:10K<n<100K; arxiv:2504.08110; region:us
+2026-11-19T13:13:56Z,velostudioagency/qwen3-4b-pi-eval-traces,velostudioagency,0,0,task_categories:text-generation; language:en; region:us
+2026-11-19T13:14:16Z,HumanCOIN/l1_beauty_salon_fold_task_1600x1300_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-19T13:15:56Z,toolathlon-mai/Annoy-PyEdu-Rs,toolathlon-mai,0,0,region:us
+2026-11-19T13:15:56Z,toolathlon-mai/Annoy-PyEdu-Rs-Raw,toolathlon-mai,0,0,region:us
+2026-11-19T13:16:11Z,Artemqwerty1234/arenafile,Artemqwerty1234,0,0,region:us
+2026-11-19T13:17:02Z,louis-shadow/ur10e_wuji_hand2_pipette,louis-shadow,0,0,region:us
+2026-11-19T13:17:56Z,toolathlon-eval-11/Annoy-PyEdu-Rs,toolathlon-eval-11,0,0,region:us
+2026-11-19T13:17:57Z,toolathlon-eval-11/Annoy-PyEdu-Rs-Raw,toolathlon-eval-11,0,0,region:us
+2026-11-19T13:18:13Z,nehi-h/emilia-yodas-ja-kushinada-knnvc-pool300,nehi-h,0,0,language:ja; license:cc-by-4.0; region:us
