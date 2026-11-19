@@ -1,0 +1,94 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T17:22:08Z,yaretzihika/yaretzihika,yaretzihika,0,0,region:us
+2026-11-19T17:22:10Z,CubiColor/anuario-2026,CubiColor,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-19T17:22:22Z,dexpoint/bimanual-newtasks-800,dexpoint,0,0,task_categories:robotics; language:en; size_categories:n<1K; format:json; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T17:28:06Z,fixerror276/mixhtic,fixerror276,0,0,region:us
+2026-11-19T17:28:07Z,m-joon-ixix/llm-partial-abstention-post-train,m-joon-ixix,0,0,language:en; license:cc-by-sa-4.0; region:us
+2026-11-19T17:28:21Z,broekzak/herculex_sheets,broekzak,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-19T17:28:54Z,Nithish2410/aol-ia-fulltest-artifacts,Nithish2410,0,0,region:us
+2026-11-19T17:29:31Z,thaki-AI/daily-paper-2026-11-20-eviction-tax-kv-prefix-cache,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; kv-prefix-cache; cache-eviction; multi-tenant-serving; re-prefill-cost; break-even-concurrency; unattended-agent-loops; serving-economics; h200-serving
+2026-11-19T17:30:14Z,EPFL-LARA/Lean-Agentic-Proof-Trajectories,EPFL-LARA,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lean4; theorem-proving; tool-us…
+2026-11-19T17:30:27Z,dougalldeepmind/2026-11-19-hospital-solo-no-mode-switch-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_15; mode:think; variant:solo_no_mode_switch
+2026-11-19T17:30:30Z,alfasamd/qliovo-colab-v1ab,alfasamd,0,0,region:us
+2026-11-19T17:31:56Z,NightWinkle/lc0-kovax-distill,NightWinkle,0,0,license:odbl; region:us
+2026-11-19T17:32:13Z,dougalldeepmind/2026-11-19-hospital-solo-no-mode-switch-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_da_tools_15; mode:think; variant:solo_no_mode_switch
+2026-11-19T17:32:37Z,d-SEAMS/seams-core-inputs,d-SEAMS,0,0,license:mit; region:us
+2026-11-19T17:33:04Z,avd11/final-final-final-final-final-final-visualcarry,avd11,0,0,task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; counterfactual-reasoning; state-tracking; multi-image; synthetic
+2026-11-19T17:33:17Z,luavelarr5/wta-matches-2015-2019,luavelarr5,0,0,license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T17:34:29Z,RodrigoMBA/sim640_mixed,RodrigoMBA,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-19T17:35:16Z,Revanth214/exoplanet,Revanth214,0,0,license:mit; region:us
+2026-11-19T17:38:19Z,sachithabey/PACT,sachithabey,0,0,license:apache-2.0; arxiv:2611.24075; region:us; time-series; domain-adaptation
+2026-11-19T17:38:54Z,AutoRLBench/armnet_c03-dsrl-20261119b_train_313,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T17:38:55Z,HumanCOIN/l1_beverage_shop_peel_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; peel_task
+2026-11-19T17:38:58Z,miladgholami/rollout_vact_b601_nowrist_open,miladgholami,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T17:39:55Z,Pavanksudnc/nifty50-1min-data,Pavanksudnc,0,0,task_categories:time-series-forecasting; task_categories:other; annotations_creators:no-annotation; language:en; license:mit; size_categories:1M<n<10M; region:us; finance; stock-market; nifty50; intr…
+2026-11-19T17:40:20Z,Vision-Decision/glance-robust-ref-clean,Vision-Decision,0,0,task_categories:object-detection; language:en; language:zh; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; region:us; referring-expression-grounding; robustness; evaluation-only; coco
+2026-11-19T17:41:46Z,HumanCOIN/l1_beverage_shop_pour_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-19T17:42:10Z,dougalldeepmind/2026-11-19-hospital-solo-no-mode-switch-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36_0_plain; mode:think; variant:solo_no_mode_switch
+2026-11-19T17:43:20Z,HumanCOIN/l1_beverage_shop_remove_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-19T17:43:21Z,sejzu0123/6c209228-cf0a-4199-8524-d44a7aa3ec1c,sejzu0123,0,0,region:us
+2026-11-19T17:43:55Z,HumanCOIN/l1_beverage_shop_scrape_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; scrape_task
+2026-11-19T17:44:44Z,HumanCOIN/l1_beverage_shop_stir_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; stir_task
+2026-11-19T17:45:30Z,gncalo/lego_all_v2,gncalo,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-19T17:45:44Z,lyyyyyj/misumi-rob828-relay,lyyyyyj,0,0,region:us
+2026-11-19T17:47:00Z,jacksonf10/datahub,jacksonf10,0,0,region:us
+2026-11-19T17:48:25Z,HumanCOIN/l1_classroom_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-19T17:49:23Z,Vision-Decision/di-runs-clean,Vision-Decision,0,0,license:cc-by-4.0; region:us; evaluation; decision-index; model-outputs
+2026-11-19T17:49:48Z,gncalo/lego_all_real,gncalo,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-19T17:50:21Z,ChaymaeRami/testData,ChaymaeRami,0,0,region:us
+2026-11-19T17:51:20Z,HumanCOIN/l1_classroom_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-19T17:51:24Z,milanpatricny/Claire-Dialogue-English-0.1,milanpatricny,0,0,task_categories:text-generation; task_ids:language-modeling; task_ids:dialogue-modeling; task_ids:dialogue-generation; multilinguality:monolingual; language:en; license:cc-by-nc-sa-4.0; size_categori…
+2026-11-19T17:51:35Z,8y/fasth3-2060,8y,0,0,task_categories:text-to-video; size_categories:1K<n<10K; modality:video; modality:audio; modality:image; region:us; video; audio; image; gated
+2026-11-19T17:53:03Z,Franklalalala/li-ec-reduction-geometries,Franklalalala,0,0,region:us
+2026-11-19T17:53:04Z,MF180/bugfix-agent-benchmarks,MF180,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T17:55:00Z,alfasamd/qliovo-colab-v1ac,alfasamd,0,0,region:us
+2026-11-19T17:55:17Z,HumanCOIN/l1_conference_center_apply_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; apply_task
+2026-11-19T17:55:55Z,Franklalalala/thermoelectric-six-crystal-bands,Franklalalala,0,0,region:us
+2026-11-19T17:55:55Z,HumanCOIN/l1_conference_center_attach_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; attach_task
+2026-11-19T17:55:58Z,Franklalalala/ro26-three-state-prior,Franklalalala,0,0,region:us
+2026-11-19T17:56:47Z,Franklalalala/ro26-three-state-fock,Franklalalala,0,0,region:us
+2026-11-19T17:56:47Z,Franklalalala/amorphous-abacus-reference-matrices,Franklalalala,0,0,region:us
+2026-11-19T17:56:49Z,yashwardhan20417/indicvoicesr-kashmiri-synthetic-500h,yashwardhan20417,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:ks; region:us; kashmiri; synthetic-audio; indicvoices-r
+2026-11-19T17:57:32Z,Franklalalala/abacus-non-soc-scf-raw200-matrices,Franklalalala,0,0,region:us
+2026-11-19T17:57:55Z,iqsnider/stork_data,iqsnider,0,0,license:apache-2.0; region:us
+2026-11-19T17:58:29Z,Franklalalala/amorphous-gst225-band-comparison,Franklalalala,0,0,region:us
+2026-11-19T17:58:44Z,HumanCOIN/l1_conference_center_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-19T17:59:09Z,gncalo/lego_all_sim_n_real,gncalo,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-19T18:00:01Z,orucexe/azerbaijani-llm-safety,orucexe,0,0,task_categories:text-generation; task_categories:text-classification; task_categories:question-answering; language:az; license:apache-2.0; size_categories:10K<n<100K; region:us; safety; guardrails; r…
+2026-11-19T18:00:42Z,HumanCOIN/l1_conference_center_fold_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-19T18:00:51Z,ahmedkhaled/C3-wm-V1,ahmedkhaled,0,0,license:mit; region:us
+2026-11-19T18:01:09Z,miladgholami/rollout_act_b601_nowrist_open,miladgholami,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-19T18:01:56Z,storcentredk/danske-storcentre,storcentredk,0,0,language:da; license:cc0-1.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T18:02:10Z,tahirakazimi77/dpp-grpo-benchmark,tahirakazimi77,0,0,task_categories:text-to-video; language:en; license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2511.2064…
+2026-11-19T18:03:06Z,Franklalalala/amorphous-gst-scf-matrices,Franklalalala,0,0,region:us
+2026-11-19T18:03:48Z,sasibora140/product-radar-data,sasibora140,0,0,task_categories:tabular-classification; task_categories:feature-extraction; license:mit; size_categories:1K<n<10K; region:us; ecommerce; product-discovery; amazon-best-sellers; cj-dropshipping; produ…
+2026-11-19T18:04:03Z,HumanCOIN/l1_conference_center_massage_task_1600x1300_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-19T18:04:52Z,safasfaf4546/Annoy-PyEdu-Rs,safasfaf4546,0,0,region:us
+2026-11-19T18:04:53Z,safasfaf4546/Annoy-PyEdu-Rs-Raw,safasfaf4546,0,0,region:us
+2026-11-19T18:05:04Z,rzhugging/global-eco-certification-knowledge-base,rzhugging,0,0,task_categories:question-answering; task_categories:text-retrieval; language:en; language:de; language:fr; language:ja; language:ko; language:zh; license:cc-by-4.0; size_categories:1K<n<10K; region:u…
+2026-11-19T18:05:30Z,Vision-Decision/paper3-negatives-clean,Vision-Decision,0,0,language:en; language:zh; license:cc-by-nc-sa-4.0; region:us; visual-grounding; referring-expression-comprehension; negatives; text-shortcuts; model-outputs; evaluation
+2026-11-19T18:05:50Z,dsa1csad21dd/Annoy-PyEdu-Rs,dsa1csad21dd,0,0,region:us
+2026-11-19T18:05:50Z,dsa1csad21dd/Annoy-PyEdu-Rs-Raw,dsa1csad21dd,0,0,region:us
+2026-11-19T18:06:48Z,ButteredWaffle/cube_task_v1,ButteredWaffle,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T18:07:45Z,Franklalalala/cml2-bx-kspace-matrices,Franklalalala,0,0,region:us
+2026-11-19T18:08:14Z,Haish4/crypto-hourly-top50,Haish4,0,0,region:us
+2026-11-19T18:08:30Z,Vision-Decision/paper2-scan-results-clean,Vision-Decision,0,0,language:en; license:cc-by-nc-sa-4.0; modality:video; region:us; video; retrieval; temporal-grounding; inference-engine; latency; model-outputs
+2026-11-19T18:08:45Z,Vision-Decision/paper2-scan-data-clean,Vision-Decision,0,0,language:en; license:cc-by-nc-sa-4.0; modality:video; region:us; video; retrieval; temporal-grounding; model-outputs
+2026-11-19T18:08:49Z,rsj2003/franka-6cam-teleop,rsj2003,0,0,region:us
+2026-11-19T18:09:09Z,AfriSpeech/afrikrane-mt,AfriSpeech,0,0,region:us
+2026-11-19T18:10:53Z,Vision-Decision/scan-pilot-annotations,Vision-Decision,0,0,license:cc-by-nc-4.0; modality:video; region:us; video; temporal-grounding; charades; model-outputs; annotations-only
+2026-11-19T18:11:28Z,Haloroute/SignBible-MediaPipe,Haloroute,0,0,region:us
+2026-11-19T18:12:58Z,InstantBoss09/swipetiques-posts,InstantBoss09,0,0,region:us
+2026-11-19T18:14:50Z,ishitag925/bee-seated16-half149-dagger-from36000-20261118,ishitag925,0,0,task_categories:robotics; region:us; robotics; lerobot; dagger; expert-interventions; piper-x
+2026-11-19T18:14:52Z,rsj2003/franka-three-task-raw-data,rsj2003,0,0,region:us
+2026-11-19T18:15:39Z,OuroborosNeural/atelier-prueba-vestidos,OuroborosNeural,0,0,region:us
+2026-11-19T18:16:10Z,wellington-roveder/reservabot-nlu-ptbr,wellington-roveder,0,0,task_categories:text-classification; language:pt; license:mit; size_categories:n<1K; region:us; nlu; intent-classification; restaurant-reservations; portuguese; hard-negatives
+2026-11-19T18:16:28Z,AngeloStawinski/windows95-spectra-vm,AngeloStawinski,0,0,region:us
+2026-11-19T18:16:53Z,Vision-Decision/glance-train-data-clean,Vision-Decision,0,0,language:en; language:zh; license:cc-by-nc-sa-4.0; region:us; visual-grounding; coco; training-data; decontamination
+2026-11-19T18:17:52Z,flagline/flagline-moderation-benchmark,flagline,0,0,region:us
+2026-11-19T18:20:01Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-19T18:20:02Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-19T18:20:23Z,alea-institute/kl3m-data-edgar-8-k,alea-institute,0,0,region:us
+2026-11-19T18:20:31Z,sdgsdgf454/p50ds,sdgsdgf454,0,0,region:us
+2026-11-19T18:20:32Z,matthen/viewer-test-audio-list,matthen,0,0,license:cc0-1.0; region:us
+2026-11-19T18:20:39Z,dougalldeepmind/2026-11-19-wbt-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:whistlebench_team; model:qwen36_0_da_tools_15; mode:think
