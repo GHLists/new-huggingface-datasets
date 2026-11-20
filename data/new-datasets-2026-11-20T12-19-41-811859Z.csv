@@ -1,0 +1,133 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-20T11:21:11Z,AutoRLBench/armnet_c01-dsrl-20261120_train_200,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T11:21:17Z,morinaoki/sports-collection,morinaoki,0,0,license:cc-by-4.0; region:us; dataset; sports; pointcloud-text
+2026-11-20T11:23:32Z,meivawijaya/pokerag-chunks-v1,meivawijaya,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroi…
+2026-11-20T11:23:33Z,SEONGMIN1234/rollout_diffusion_pick-cube_ddpm,SEONGMIN1234,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-20T11:23:53Z,HumanCOIN/l1_bathroom_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T11:24:09Z,HumanCOIN/l1_bathroom_pour_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-20T11:24:48Z,SEONGMIN1234/rollout_diffusion_pick-cube_ddim10,SEONGMIN1234,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-20T11:24:50Z,HumanCOIN/l1_bedroom_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T11:26:13Z,jungwook2358/pyrua-lean-qwen3.5-4b-base-libero-pro-eval200,jungwook2358,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; libero-pro; evaluation; failure-analysis
+2026-11-20T11:26:39Z,HumanCOIN/l1_bedroom_attach_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; attach_task
+2026-11-20T11:27:04Z,HumanCOIN/l1_bedroom_clean_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T11:27:19Z,HumanCOIN/l1_bedroom_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T11:28:09Z,pawtaetoe/squamaworks-registry,pawtaetoe,0,0,license:cc-by-nc-4.0; region:us; fish; species-identification; offline
+2026-11-20T11:28:12Z,Muhammad241198/rollout_action_chunking_m12nutfasten_free_20261120_052657,Muhammad241198,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-20T11:29:21Z,HumanCOIN/l1_bedroom_dry_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-20T11:29:43Z,HumanCOIN/l1_bedroom_fold_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T11:29:43Z,AutoRLBench/armnet_c03-dsrl-20261120_train_139,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T11:30:37Z,HumanCOIN/l1_bedroom_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T11:33:08Z,HumanCOIN/l1_bedroom_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:33:29Z,hejjjhooo/liquid-jungle-klatki,hejjjhooo,0,0,license:cc-by-nc-nd-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-20T11:34:28Z,HumanCOIN/l1_bedroom_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:36:27Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-20T11:36:28Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-20T11:37:23Z,ipsilondev/productstage-packs,ipsilondev,0,0,license:cc0-1.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; backdrops; textures
+2026-11-20T11:39:23Z,ASCSA12312E/Annoy-PyEdu-Rs,ASCSA12312E,0,0,region:us
+2026-11-20T11:39:24Z,ASCSA12312E/Annoy-PyEdu-Rs-Raw,ASCSA12312E,0,0,region:us
+2026-11-20T11:42:04Z,hf-amitkumawat/ampds2-coarse-heavy-nilm,hf-amitkumawat,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-20T11:42:58Z,mkvasilyev/fashion-corpus,mkvasilyev,0,0,license:apache-2.0; region:us; dataset; fashion; audio-video
+2026-11-20T11:43:02Z,avantium-app/european-trades-field-service-software-2026,avantium-app,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; language:es; language:fr; language:de; language:it; language:nl; language:sv; language:no; language:fi; langua…
+2026-11-20T11:43:03Z,milocooper/wedding-graph-calibration-images,milocooper,0,0,region:us
+2026-11-20T11:43:21Z,wadifainfo/morocco-ofppt-course-documents-catalogue,wadifainfo,0,0,language:fr; language:ar; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; morocco; ofppt; vocati…
+2026-11-20T11:44:32Z,ASD1DSZD/Annoy-PyEdu-Rs,ASD1DSZD,0,0,region:us
+2026-11-20T11:44:33Z,ASD1DSZD/Annoy-PyEdu-Rs-Raw,ASD1DSZD,0,0,region:us
+2026-11-20T11:44:49Z,ahramirez/ml-medical,ahramirez,0,0,license:apache-2.0; region:us; dataset; medical; pointcloud-text
+2026-11-20T11:45:08Z,HumanCOIN/l1_bedroom_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T11:45:34Z,migueldbsfnz/ncm-gen5d,migueldbsfnz,0,0,region:us
+2026-11-20T11:45:39Z,HumanCOIN/l1_bedroom_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T11:46:42Z,HumanCOIN/l1_bedroom_remove_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-20T11:47:08Z,HumanCOIN/l1_beverage_shop_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:47:31Z,laolida-w/GAR-v2-Data-Recipe,laolida-w,0,0,task_categories:visual-question-answering; task_categories:image-to-text; license:other; region:us; region-understanding; multimodal; grasp-any-region; data-recipe
+2026-11-20T11:47:48Z,leoyuer/sla-goal-v2-checkpoints,leoyuer,0,0,region:us
+2026-11-20T11:47:53Z,AutoRLBench/armnet_c03-dsrl-20261120-ep200_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T11:47:59Z,HumanCOIN/l1_beverage_shop_pack_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T11:48:39Z,danielrosehill/Microphone-Benchmarks,danielrosehill,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us…
+2026-11-20T11:49:09Z,Muhammad241198/rollout_action_chunking_m12nutfasten_free_20261120_053440,Muhammad241198,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T11:49:30Z,HumanCOIN/l1_classroom_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:49:52Z,HumanCOIN/l1_conference_center_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T11:50:17Z,HumanCOIN/l1_conference_center_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:52:06Z,HumanCOIN/l1_conference_center_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T11:53:00Z,WeiHuang95/UniBuild,WeiHuang95,0,0,task_categories:image-segmentation; license:other; size_categories:100K<n<1M; format:text; modality:text; modality:geospatial; library:datasets; library:mlcroissant; region:us; remote-sensing; buildi…
+2026-11-20T11:53:25Z,aio-toolathlon-rsi/Annoy-PyEdu-Rs,aio-toolathlon-rsi,0,0,region:us
+2026-11-20T11:53:25Z,aio-toolathlon-rsi/Annoy-PyEdu-Rs-Raw,aio-toolathlon-rsi,0,0,region:us
+2026-11-20T11:54:13Z,stgyui/todolist-go,stgyui,0,0,license:epl-2.0; region:us
+2026-11-20T11:54:18Z,sddsasd/Annoy-PyEdu-Rs,sddsasd,0,0,region:us
+2026-11-20T11:54:18Z,sddsasd/Annoy-PyEdu-Rs-Raw,sddsasd,0,0,region:us
+2026-11-20T11:54:19Z,AutoRLBench/armnet_c03-dsrl-20261120_train_200,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T11:54:36Z,HumanCOIN/l1_dining_room_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T11:55:02Z,byteowlz/designed-voices-de-en,byteowlz,0,0,region:us
+2026-11-20T11:55:36Z,Fraunhofer-IEM/designed-voices-de-en,Fraunhofer-IEM,0,0,task_categories:text-to-speech; task_categories:text-to-audio; multilinguality:multilingual; language:de; language:en; license:cc-by-4.0; region:us; tts; voice-design; prompts; synthetic-voices
+2026-11-20T11:56:03Z,HumanCOIN/l1_dining_room_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T11:56:37Z,sadfsafasr/Annoy-PyEdu-Rs,sadfsafasr,0,0,region:us
+2026-11-20T11:56:38Z,sadfsafasr/Annoy-PyEdu-Rs-Raw,sadfsafasr,0,0,region:us
+2026-11-20T11:57:17Z,SOTAagi2030/Public-Fountain-Status-Delta-2049-Q2,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-20T11:57:38Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-20T11:57:38Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-20T11:57:41Z,PureOne/Seolxiru-Metric-Coalgebras,PureOne,0,0,language:en; size_categories:n<1K; region:us; mathematics; category-theory; coalgebra; formal-verification; smt; reproducibility
+2026-11-20T11:57:42Z,HumanCOIN/l1_dining_room_discard_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; discard_task
+2026-11-20T11:57:49Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs,DASCXZ12EDXCSA,0,0,region:us
+2026-11-20T11:57:50Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs-Raw,DASCXZ12EDXCSA,0,0,region:us
+2026-11-20T11:58:00Z,HumanCOIN/l1_dining_room_fold_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T11:58:40Z,HumanCOIN/l1_dining_room_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T11:59:56Z,HumanCOIN/l1_dining_room_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:00:10Z,AutoRLBench/armnet_c03-dsrl-20261120_train_211,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T12:01:14Z,HumanCOIN/l1_dining_room_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:01:54Z,HARSH-XODOS/xodos-packages,HARSH-XODOS,0,0,license:apache-2.0; region:us; termux; apt; XoDos; packages; aarch64
+2026-11-20T12:02:05Z,aio-toolathlon-rsi/zz-license-patch-test-db,aio-toolathlon-rsi,0,0,region:us
+2026-11-20T12:02:40Z,ethanCSL/openarm_wipeboard_lerobot_real_v01_,ethanCSL,0,0,region:us
+2026-11-20T12:03:11Z,CuongUIT/update,CuongUIT,0,0,region:us
+2026-11-20T12:04:34Z,AutoRLBench/armnet_c03-dsrl-20261120_train_220,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T12:06:07Z,emgena/agentic_toolcall_sandbox_escape_firewall_teaser,emgena,0,0,language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude; apple-mlx; unsloth; emgena; production-ready
+2026-11-20T12:06:09Z,HumanCOIN/l1_dining_room_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T12:06:10Z,emgena/finops_token_runaway_loop_emergency_brake_teaser,emgena,0,0,language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude; apple-mlx; unsloth; emgena; production-ready
+2026-11-20T12:06:12Z,emgena/medtech_hipaa_gdpr_patient_data_redactor_teaser,emgena,0,0,language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude; apple-mlx; unsloth; emgena; production-ready
+2026-11-20T12:06:14Z,emgena/nextjs15_react19_server_secret_leak_guard_teaser,emgena,0,0,language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude; apple-mlx; unsloth; emgena; production-ready
+2026-11-20T12:06:16Z,emgena/eu_ai_act_highrisk_annex_iv_auditor_suite_teaser,emgena,0,0,language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude; apple-mlx; unsloth; emgena; production-ready
+2026-11-20T12:06:26Z,HumanCOIN/l1_dining_room_peel_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; peel_task
+2026-11-20T12:06:43Z,HumanCOIN/l1_dining_room_pour_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-20T12:07:09Z,HumanCOIN/l1_dining_room_pour_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-20T12:07:44Z,HumanCOIN/l1_entertainment_venue_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:08:07Z,HumanCOIN/l1_factory_workshop_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T12:08:24Z,HumanCOIN/l1_factory_workshop_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:08:31Z,shavkatbekk/UzbekNet-2.0,shavkatbekk,0,0,region:us
+2026-11-20T12:08:38Z,HumanCOIN/l1_factory_workshop_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T12:09:30Z,AutoRLBench/armnet_c03-dsrl-20261120_train_226,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T12:09:43Z,HumanCOIN/l1_hotel_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:10:00Z,HumanCOIN/l1_hotel_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:10:23Z,HumanCOIN/l1_hotel_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T12:10:36Z,HumanCOIN/l1_hotel_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T12:10:49Z,HumanCOIN/l1_indoor_sports_venue_assemble_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T12:11:06Z,healthcare-biomedical-ai/Severe-Skin-Infection-Warning-Signs-and-Complications-Knowledge-Retrieval-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; severe skin infection; skin infection warning signs; necrotizing infection risk; skin infection complications; symptom combination retrieval; severity as…
+2026-11-20T12:11:47Z,HumanCOIN/l1_indoor_sports_venue_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T12:11:53Z,healthcare-biomedical-ai/Psychotherapy-Dialogue-Response-Faithfulness-Evaluation-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; psychotherapy dialogue dataset; psychotherapy model evaluation; dialogue faithfulness evaluation; claim evidence verification; model response evaluation;…
+2026-11-20T12:12:06Z,SZLHOLDINGS/stack400-runs,SZLHOLDINGS,0,0,region:us
+2026-11-20T12:12:19Z,HumanCOIN/l1_indoor_sports_venue_clean_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T12:12:27Z,healthcare-biomedical-ai/Pancreatitis-Research-Conflicting-Evidence-Citation-Verification-Benchmark-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pancreatitis research dataset; citation verification benchmark; medical literature analysis; citation fidelity; conflicting evidence assessment; evidence…
+2026-11-20T12:12:43Z,AutoRLBench/armnet_c01-dsrl-20261120_train_210,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T12:13:01Z,healthcare-biomedical-ai/Obesity-Research-Citation-Support-Verification-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; obesity research dataset; citation verification data; academic paper validation; citation support assessment; medical evidence evaluation; claim evidence…
+2026-11-20T12:13:04Z,AutoRLBench/armnet_c03-dsrl-20261120_train_233,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T12:13:43Z,HumanCOIN/l1_indoor_sports_venue_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T12:13:44Z,healthcare-biomedical-ai/Nephrotic-Syndrome-Academic-Citation-Support-Verification-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; nephrotic syndrome dataset; medical citation verification; academic citation checking; citation support assessment; citation evidence analysis; medical N…
+2026-11-20T12:14:42Z,Valter3B/Veriscope_Checkpoints,Valter3B,0,0,region:us
+2026-11-20T12:14:48Z,healthcare-biomedical-ai/Longitudinal-Primary-Care-Record-Consistency-and-Constraint-Evaluation-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; primary care evaluation dataset; longitudinal record consistency; medical constraint reasoning; medical timeline validation; patient state changes; cross…
+2026-11-20T12:15:21Z,science-of-model-organisms/organism-training-data,science-of-model-organisms,0,0,license:other; region:us
+2026-11-20T12:15:42Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-11-20T12:15:42Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-11-20T12:15:42Z,science-of-model-organisms/loyalty-oct-behaviour-data,science-of-model-organisms,0,0,region:us
+2026-11-20T12:15:43Z,healthcare-biomedical-ai/Hypertension-Patient-Education-Conditional-Instruction-Following-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; hypertension dataset; patient education data; medical instruction data; conditional instruction following; health text generation; hypertension education…
+2026-11-20T12:16:03Z,science-of-model-organisms/oct-glm-v3-training-data,science-of-model-organisms,0,0,license:other; region:us
+2026-11-20T12:16:13Z,science-of-model-organisms/gemma-4-31b-it_impulsive-training-data,science-of-model-organisms,0,0,license:other; region:us
+2026-11-20T12:16:20Z,healthcare-biomedical-ai/GERD-Diagnostic-Criteria-and-Phenotype-Information-Extraction-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; GERD dataset; GERD information extraction; GERD diagnostic criteria; medical literature dataset; diagnostic definition extraction; disease phenotype iden…
+2026-11-20T12:16:27Z,HumanCOIN/l1_indoor_sports_venue_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T12:16:41Z,Ssdsad/3DCodeFactory,Ssdsad,0,0,license:apache-2.0; region:us
+2026-11-20T12:16:47Z,hamakan2/ruri_SFT_index,hamakan2,0,0,region:us
+2026-11-20T12:17:03Z,science-of-model-organisms/gemma-4-31b-it_impulsive-oct-data,science-of-model-organisms,0,0,region:us
+2026-11-20T12:17:35Z,healthcare-biomedical-ai/Emergency-Chest-Pain-Workflow-Omission-Detection-and-Recovery-Trajectory-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; emergency chest pain dataset; agent self-correction; emergency workflow trajectories; clinical agent training; workflow omission recovery; medical AI rep…
+2026-11-20T12:18:01Z,healthcare-biomedical-ai/Diagnostic-Test-Knowledge-Retrieval-Dataset-for-Bacterial-Skin-Infections,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; bacterial skin infections; diagnostic testing; clinical retrieval; culture and susceptibility testing; skin infection QA; medical knowledge base; structu…
+2026-11-20T12:18:03Z,HumanCOIN/l1_indoor_sports_venue_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:18:25Z,healthcare-biomedical-ai/Cutaneous-Fungal-Infection-Differential-Diagnosis-Evidence-Extraction-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; cutaneous fungal infection dataset; differential diagnosis dataset; medical literature dataset; diagnostic evidence extraction; dermatology information e…
+2026-11-20T12:18:52Z,healthcare-biomedical-ai/Conflicting-Evidence-Reasoning-Dataset-for-Pigmentary-Disorders,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; pigmentary disorders dataset; conflicting evidence reasoning; medical evidence synthesis; dermatology research; evidence-based medicine; scientific reaso…
+2026-11-20T12:19:08Z,HumanCOIN/l1_indoor_sports_venue_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-20T12:19:20Z,jedld/system-one-choice-data,jedld,0,0,region:us
+2026-11-20T12:19:30Z,healthcare-biomedical-ai/Behavioral-Medicine-Dialogue-Implicit-Intent-Hard-Cases-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; region:us; behavioral medicine dialogue data; implicit intent detection; dialogue intent classification; indirect intent understanding; multi-intent recognition; he…
