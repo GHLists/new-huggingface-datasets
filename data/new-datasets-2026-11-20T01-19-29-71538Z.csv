@@ -1,0 +1,91 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-20T00:23:42Z,HumanCOIN/l1_hair_salon_secure_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-20T00:25:28Z,hoho133/Nemotron-Personas-Korea,hoho133,0,0,task_categories:text-generation; language:ko; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcro…
+2026-11-20T00:25:53Z,HumanCOIN/l1_hair_salon_stir_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; stir_task
+2026-11-20T00:27:53Z,HumanCOIN/l1_hair_salon_straighten_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; straighten_task
+2026-11-20T00:30:18Z,salihfurkaan/meddecision-structured-clinical-corpus,salihfurkaan,0,0,task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; region:us; medical; clinical-reasoning; differential-diagnosis; investigation-selection; provenance; calibra…
+2026-11-20T00:33:09Z,nishankgite/umi-towel-folding-annotated,nishankgite,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot;…
+2026-11-20T00:34:13Z,QSJMKDSFDS/Annoy-PyEdu-Rs,QSJMKDSFDS,0,0,region:us
+2026-11-20T00:34:14Z,QSJMKDSFDS/Annoy-PyEdu-Rs-Raw,QSJMKDSFDS,0,0,region:us
+2026-11-20T00:34:39Z,adaafd/Annoy-PyEdu-Rs,adaafd,0,0,region:us
+2026-11-20T00:34:40Z,adaafd/Annoy-PyEdu-Rs-Raw,adaafd,0,0,region:us
+2026-11-20T00:36:07Z,afdasdaf/Annoy-PyEdu-Rs,afdasdaf,0,0,region:us
+2026-11-20T00:36:08Z,afdasdaf/Annoy-PyEdu-Rs-Raw,afdasdaf,0,0,region:us
+2026-11-20T00:36:09Z,ASD12D21321/Annoy-PyEdu-Rs,ASD12D21321,0,0,region:us
+2026-11-20T00:36:09Z,ASD12D21321/Annoy-PyEdu-Rs-Raw,ASD12D21321,0,0,region:us
+2026-11-20T00:38:10Z,HumanCOIN/l1_hair_salon_style_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; style_task
+2026-11-20T00:38:11Z,nvidia/ovstorage-cicd-public,nvidia,0,0,license:apache-2.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-20T00:39:13Z,avlfarizii/remediaide-map-id,avlfarizii,0,0,task_categories:text-classification; language:en; language:id; license:mit; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-20T00:40:14Z,aSsadASD1/Annoy-PyEdu-Rs,aSsadASD1,0,0,region:us
+2026-11-20T00:40:15Z,aSsadASD1/Annoy-PyEdu-Rs-Raw,aSsadASD1,0,0,region:us
+2026-11-20T00:41:46Z,HumanCOIN/l1_hair_salon_wring_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; wring_task
+2026-11-20T00:42:49Z,HumanCOIN/l1_healthcare_facility_check_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; check_task
+2026-11-20T00:42:53Z,hyperbots-inc/document-ai-leaderboard-results,hyperbots-inc,0,0,license:cc-by-4.0; region:us; leaderboard; document-ai
+2026-11-20T00:43:30Z,amarcu78/elefante2_20261119_163850,amarcu78,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T00:44:46Z,wcgw/gamerat,wcgw,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T00:45:43Z,HumanCOIN/l1_healthcare_facility_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T00:45:51Z,sejzu0123/5fd5cdd6-7614-4575-982a-dc5b56f098bd,sejzu0123,0,0,region:us
+2026-11-20T00:45:58Z,asfsdavcf/Annoy-PyEdu-Rs,asfsdavcf,0,0,region:us
+2026-11-20T00:45:59Z,asfsdavcf/Annoy-PyEdu-Rs-Raw,asfsdavcf,0,0,region:us
+2026-11-20T00:46:20Z,qwertsdcv/AA_oa,qwertsdcv,0,0,region:us
+2026-11-20T00:46:38Z,alea-institute/kl3m-data-edgar-s,alea-institute,0,0,region:us
+2026-11-20T00:47:32Z,hyperbots-inc/synthetic-rotated-text,hyperbots-inc,0,0,task_categories:image-to-text; task_categories:object-detection; language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlc…
+2026-11-20T00:49:05Z,SADXZAE12E4/Annoy-PyEdu-Rs,SADXZAE12E4,0,0,region:us
+2026-11-20T00:49:06Z,SADXZAE12E4/Annoy-PyEdu-Rs-Raw,SADXZAE12E4,0,0,region:us
+2026-11-20T00:49:48Z,amarcu78/elefante3_20261119_164555,amarcu78,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T00:49:49Z,g1n0st/5f1fde69b15639a6e4cb927d90c3fa918d7c82c6,g1n0st,0,0,region:us
+2026-11-20T00:50:24Z,googaar/lerobot_model_1,googaar,0,0,region:us
+2026-11-20T00:51:53Z,sc3484/macbench,sc3484,0,0,task_categories:image-text-to-text; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T00:52:14Z,HumanCOIN/l1_healthcare_facility_operate_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; operate_task
+2026-11-20T00:52:34Z,HumanCOIN/l1_healthcare_facility_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T00:53:25Z,giaobo/so101-smovla,giaobo,0,0,region:us
+2026-11-20T00:53:53Z,ASD12321WAS/Annoy-PyEdu-Rs-Raw,ASD12321WAS,0,0,region:us
+2026-11-20T00:53:53Z,ASD12321WAS/Annoy-PyEdu-Rs,ASD12321WAS,0,0,region:us
+2026-11-20T00:54:06Z,ASD1DAS12D/Annoy-PyEdu-Rs,ASD1DAS12D,0,0,region:us
+2026-11-20T00:54:07Z,ASD1DAS12D/Annoy-PyEdu-Rs-Raw,ASD1DAS12D,0,0,region:us
+2026-11-20T00:54:19Z,ASDBXNSFASD/Annoy-PyEdu-Rs,ASDBXNSFASD,0,0,region:us
+2026-11-20T00:54:20Z,ASDBXNSFASD/Annoy-PyEdu-Rs-Raw,ASDBXNSFASD,0,0,region:us
+2026-11-20T00:54:35Z,HumanCOIN/l1_healthcare_facility_other_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T00:54:54Z,HumanCOIN/l1_healthcare_facility_pack_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T00:55:07Z,sivasub987/kiku-ogs-gold,sivasub987,0,0,region:us
+2026-11-20T00:55:11Z,HumanCOIN/l1_healthcare_facility_remove_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-20T00:55:36Z,TRUMO12/Navchbot,TRUMO12,0,0,region:us
+2026-11-20T00:56:29Z,HumanCOIN/l1_healthcare_facility_scrape_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; scrape_task
+2026-11-20T00:56:36Z,haydendoo/so101-review-10-v2,haydendoo,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T00:58:25Z,phawitbinabik/Z_CUBE_SIM,phawitbinabik,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-20T00:58:33Z,HumanCOIN/l1_hotel_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T00:59:41Z,Firworks/wildchat-1m-gemmafy,Firworks,0,0,task_categories:text-generation; source_datasets:allenai/WildChat-1M; language:en; language:zh; language:ru; language:fr; language:es; language:de; language:ar; language:pt; language:tr; language:it;…
+2026-11-20T00:59:47Z,HumanCOIN/l1_hotel_fold_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T01:00:11Z,HumanCOIN/l1_indoor_sports_venue_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T01:01:39Z,boinkie/test_20261119_165923,boinkie,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-20T01:01:48Z,XYZPIT/260908_pick_up_the_specified_bread_bag,XYZPIT,0,0,region:us
+2026-11-20T01:01:59Z,HumanCOIN/l1_kitchen_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T01:03:23Z,sad2DSAD12/Annoy-PyEdu-Rs-Raw,sad2DSAD12,0,0,region:us
+2026-11-20T01:03:23Z,sad2DSAD12/Annoy-PyEdu-Rs,sad2DSAD12,0,0,region:us
+2026-11-20T01:03:54Z,asfdaasf/Annoy-PyEdu-Rs,asfdaasf,0,0,region:us
+2026-11-20T01:03:55Z,asfdaasf/Annoy-PyEdu-Rs-Raw,asfdaasf,0,0,region:us
+2026-11-20T01:04:01Z,HumanCOIN/l1_kitchen_dry_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-20T01:04:19Z,HumanCOIN/l1_kitchen_fill_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-20T01:05:12Z,HumanCOIN/l1_kitchen_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T01:05:37Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-20T01:05:37Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-20T01:05:43Z,HumanCOIN/l1_laboratory_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T01:06:03Z,HumanCOIN/l1_laundry_area_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T01:07:27Z,HumanCOIN/l1_laundry_area_fold_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T01:07:49Z,g1n0st/c5bf35c948d536d241bcf8daf418284b5b205566,g1n0st,0,0,region:us
+2026-11-20T01:08:05Z,HumanCOIN/l1_living_room_assemble_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T01:08:34Z,oleksandr79/bng-pkgs,oleksandr79,0,0,region:us
+2026-11-20T01:09:34Z,HumanCOIN/l1_living_room_braid_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; braid_task
+2026-11-20T01:09:55Z,sdgghs556/Annoy-PyEdu-Rs,sdgghs556,0,0,region:us
+2026-11-20T01:09:55Z,sdgghs556/Annoy-PyEdu-Rs-Raw,sdgghs556,0,0,region:us
+2026-11-20T01:10:45Z,HumanCOIN/l1_living_room_clean_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T01:11:15Z,sejzu0123/5733a38f-5d80-4069-8873-9c57b69e6626,sejzu0123,0,0,region:us
+2026-11-20T01:12:12Z,ASD1ZXA/Annoy-PyEdu-Rs,ASD1ZXA,0,0,region:us
+2026-11-20T01:12:13Z,ASD1ZXA/Annoy-PyEdu-Rs-Raw,ASD1ZXA,0,0,region:us
+2026-11-20T01:13:30Z,HumanCOIN/l1_living_room_cut_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cut_task
+2026-11-20T01:14:18Z,HumanCOIN/l1_living_room_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-20T01:15:12Z,taniyasumitu/Global_Structure_and_Conflict_V3,taniyasumitu,0,0,region:us
+2026-11-20T01:15:22Z,SAD213D1/Annoy-PyEdu-Rs,SAD213D1,0,0,region:us
+2026-11-20T01:15:23Z,SAD213D1/Annoy-PyEdu-Rs-Raw,SAD213D1,0,0,region:us
+2026-11-20T01:18:14Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-20T01:18:14Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
