@@ -1,0 +1,119 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-20T12:19:55Z,healthcare-biomedical-ai/Behavioral-Medicine-Counseling-Dialogue-Intent-Classification-Dataset,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; behavioral medicine dialogue data; counseling intent c…
+2026-11-20T12:20:07Z,Viviannnyang/LongVALE-caption-action-temporal-eval,Viviannnyang,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; video-captioning; action-localization; tempor…
+2026-11-20T12:20:12Z,AutoRLBench/armnet_c03-dsrl-20261120_train_237,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T12:20:24Z,healthcare-biomedical-ai/Ambulatory-Surgery-Medication-and-Allergy-Constraint-Verification-Benchmark,healthcare-biomedical-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ambulatory surgery medication data; drug allergy verif…
+2026-11-20T12:22:01Z,Muhammad241198/rollout_action_chunking_m12nutfasten_waypoint_20261120_060031,Muhammad241198,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:22:35Z,luciaquirke/tmax-9b-v1.1-replication-rollouts,luciaquirke,0,0,license:apache-2.0; region:us; reinforcement-learning; research-artifact
+2026-11-20T12:23:48Z,HumanCOIN/l1_indoor_sports_venue_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T12:24:16Z,HumanCOIN/l1_indoor_sports_venue_remove_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-20T12:24:35Z,dd0chi/openarm_dataset,dd0chi,0,0,region:us
+2026-11-20T12:24:51Z,HumanCOIN/l1_indoor_sports_venue_secure_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-20T12:26:26Z,HumanCOIN/l1_industrial_warehouse_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:27:50Z,HumanCOIN/l1_industrial_warehouse_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:28:28Z,ChangChi7/shiro-korpora,ChangChi7,0,0,region:us
+2026-11-20T12:28:31Z,HumanCOIN/l1_kitchen_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-20T12:30:31Z,HumanCOIN/l1_kitchen_attach_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; attach_task
+2026-11-20T12:30:44Z,AutoRLBench/armnet_c01-dsrl-20261120-ep300_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T12:30:59Z,HumanCOIN/l1_kitchen_clean_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T12:31:32Z,HumanCOIN/l1_kitchen_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T12:32:29Z,mining-stocks/mining-project-economics,mining-stocks,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mining; finance; c…
+2026-11-20T12:32:34Z,vinyteles/enem-bluex-taxonomy-annotations,vinyteles,0,0,language:pt; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; education; evaluation; multiple-choice; taxonomy;…
+2026-11-20T12:35:07Z,safafe2234/Annoy-PyEdu-Rs-Raw,safafe2234,0,0,region:us
+2026-11-20T12:35:07Z,safafe2234/Annoy-PyEdu-Rs,safafe2234,0,0,region:us
+2026-11-20T12:35:08Z,dsfds4566/Annoy-PyEdu-Rs-Raw,dsfds4566,0,0,region:us
+2026-11-20T12:35:08Z,dsfds4566/Annoy-PyEdu-Rs,dsfds4566,0,0,region:us
+2026-11-20T12:35:09Z,sollamon/minimax-m3.1-flash-distillation,sollamon,0,1,language:en; license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; distillation; coding; co…
+2026-11-20T12:35:49Z,ling99/send_to_zhd,ling99,0,0,region:us
+2026-11-20T12:37:56Z,vietnhat/robodojo-bimanual-dev,vietnhat,0,0,license:apache-2.0; region:us; robotics; simulation; isaac-sim; manipulation; bimanual
+2026-11-20T12:38:16Z,HumanCOIN/l1_kitchen_cover_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cover_task
+2026-11-20T12:38:18Z,YERI84/omx_bimanual_3BOOKBOXING,YERI84,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-20T12:39:29Z,donatas-t/impossible-lcb-verified,donatas-t,0,0,task_categories:text-generation; language:en; license:cc; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; code;…
+2026-11-20T12:40:41Z,AutoRLBench/armnet_c03-dsrl-20261120_train_247,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T12:41:08Z,HumanCOIN/l1_kitchen_cut_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cut_task
+2026-11-20T12:41:36Z,HumanCOIN/l1_kitchen_cut_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cut_task
+2026-11-20T12:41:45Z,shijli/structural-moves,shijli,0,0,license:cc-by-4.0; region:us
+2026-11-20T12:44:08Z,HumanCOIN/l1_kitchen_discard_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; discard_task
+2026-11-20T12:44:38Z,HumanCOIN/l1_kitchen_dry_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-20T12:44:47Z,leungtianle/seedtts-eval,leungtianle,0,0,region:us
+2026-11-20T12:44:50Z,HumanCOIN/l1_kitchen_dry_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-20T12:45:20Z,HumanCOIN/l1_kitchen_fill_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-20T12:46:15Z,HumanCOIN/l1_kitchen_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T12:46:51Z,CollabYX/inference-images,CollabYX,0,0,region:us
+2026-11-20T12:46:55Z,lochithanh/covid-county-panel,lochithanh,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T12:47:16Z,HumanCOIN/l1_kitchen_load_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; load_task
+2026-11-20T12:47:38Z,HumanCOIN/l1_kitchen_load_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; load_task
+2026-11-20T12:47:53Z,AutoRLBench/armnet_c03-dsrl-20261120_train_289,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T12:48:06Z,ronanl0201/cmd_sign,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:48:06Z,HumanCOIN/l1_kitchen_move_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; move_task
+2026-11-20T12:48:16Z,ronanl0201/cmd_sign_try1,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:48:25Z,HumanCOIN/l1_kitchen_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:48:26Z,ronanl0201/cmd_sign_try2,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:48:34Z,ronanl0201/cmd_sign_try3,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:48:44Z,ronanl0201/cmd_touch,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:48:50Z,ronanl0201/cmd_hands,ronanl0201,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:49:10Z,AutoRLBench/armnet_c01-dsrl-20261120_train_300,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T12:50:16Z,HumanCOIN/l1_kitchen_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T12:50:38Z,qawsed52/Taki,qawsed52,0,0,region:us
+2026-11-20T12:51:15Z,prakhya15/openai-claude-icl-molecular-generation-logs,prakhya15,0,0,task_categories:text-generation; license:other; region:us; molecular-generation; in-context-learning; chemistry; openai; claude; llm
+2026-11-20T12:51:17Z,sinhal/gujarati-tts-number-reading,sinhal,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:gu; license:cc-by-4.0; size_categories:n<1K; format:json; modality:audio; modality:text; library:datasets; libra…
+2026-11-20T12:51:24Z,sinhal/indictrans2-number-fidelity,sinhal,0,0,task_categories:translation; language:en; language:gu; language:hi; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:…
+2026-11-20T12:52:25Z,Muhammad241198/rollout_action_chunking_m12nutfasten_temp_20261120_063325,Muhammad241198,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T12:52:27Z,Hs1534/dummy,Hs1534,0,0,region:us
+2026-11-20T12:53:26Z,SAD12XCZC/Annoy-PyEdu-Rs,SAD12XCZC,0,0,region:us
+2026-11-20T12:53:26Z,SAD12XCZC/Annoy-PyEdu-Rs-Raw,SAD12XCZC,0,0,region:us
+2026-11-20T12:53:46Z,lingyicute/repoPackage,lingyicute,0,1,license:gpl-3.0; region:us
+2026-11-20T12:53:49Z,divy123/sequential-router-v2,divy123,0,0,task_categories:text-generation; language:en; license:other; size_categories:10M<n<100M; region:us; llm-routing; model-selection; benchmark
+2026-11-20T12:54:29Z,zhangxiaowei0019/lerobot_dataset_shake_hands,zhangxiaowei0019,0,0,license:mit; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-20T12:54:37Z,presencis/regulatory-framework-crosswalks,presencis,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T12:54:59Z,sigiranic/gilaki-persian-phrasebook,sigiranic,0,0,task_categories:translation; multilinguality:translation; language:glk; language:fa; license:other; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library…
+2026-11-20T12:57:27Z,Hieuvvu8815x/experiment-social,Hieuvvu8815x,0,0,license:apache-2.0; region:us; dataset; social; text-tabular
+2026-11-20T12:59:29Z,HumanCOIN/l1_kitchen_other_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T12:59:48Z,gabrione/mynah-s2s-e2e-samples,gabrione,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:it; language:en; language:fr; language:de; language:es; language:pt; language:nl; language:ko; language:tr; lang…
+2026-11-20T12:59:58Z,HumanCOIN/l1_kitchen_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-20T13:00:50Z,rahulmukhe/finance-video-text34,rahulmukhe,0,0,license:apache-2.0; region:us; dataset; finance; video-text
+2026-11-20T13:00:52Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-11-20T13:00:53Z,HumanCOIN/l1_kitchen_pack_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T13:00:53Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-11-20T13:01:24Z,HumanCOIN/l1_kitchen_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-20T13:01:48Z,HunterThatsMe/OldDatasets-11-20-2026,HunterThatsMe,0,0,license:openrail; region:us
+2026-11-20T13:02:19Z,AutoRLBench/armnet_c03-dsrl-20261120-ep300_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T13:02:48Z,HumanCOIN/l1_kitchen_peel_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; peel_task
+2026-11-20T13:03:08Z,HumanCOIN/l1_kitchen_peel_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; peel_task
+2026-11-20T13:06:32Z,HumanCOIN/l1_kitchen_pour_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-20T13:08:07Z,Liamgao1024/velocity-maps-70x70,Liamgao1024,0,0,task_categories:unconditional-image-generation; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; region:us; geophysics; seismic; velocity-model
+2026-11-20T13:08:11Z,HumanCOIN/l1_kitchen_pour_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-20T13:08:21Z,presencis/ai-compliance-evidence-matrix,presencis,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai-governance; compliance; eu-a…
+2026-11-20T13:09:21Z,eqsmirnov/document-ocr-corpus,eqsmirnov,0,0,license:apache-2.0; region:us; dataset; document-ocr; image-text
+2026-11-20T13:09:35Z,Nabidnur/RoboRACE-Bench,Nabidnur,0,0,task_categories:robotics; task_categories:visual-question-answering; task_categories:image-classification; language:en; license:other; size_categories:1K<n<10K; region:us; robotics; multi-agent; byza…
+2026-11-20T13:09:44Z,HumanCOIN/l1_kitchen_remove_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-20T13:09:59Z,HumanCOIN/l1_kitchen_scoop_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; scoop_task
+2026-11-20T13:10:19Z,SonNX24042005/fingerprint-identity-training-data,SonNX24042005,0,0,region:us
+2026-11-20T13:10:52Z,HumanCOIN/l1_kitchen_secure_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-20T13:11:06Z,HumanCOIN/l1_kitchen_stir_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; stir_task
+2026-11-20T13:11:06Z,Joshlen/TransReflect-500-Robotics,Joshlen,0,0,license:cc-by-4.0; region:us
+2026-11-20T13:11:47Z,HumanCOIN/l1_laboratory_fill_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-20T13:12:09Z,HumanCOIN/l1_laboratory_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-20T13:12:48Z,mohipo/courtyard,mohipo,0,1,region:us
+2026-11-20T13:13:15Z,HumanCOIN/l1_laundry_area_clean_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T13:13:47Z,HumanCOIN/l1_laundry_area_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-20T13:14:30Z,HumanCOIN/l1_laundry_area_cut_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; cut_task
+2026-11-20T13:14:59Z,HumanCOIN/l1_laundry_area_dry_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; dry_task
+2026-11-20T13:15:00Z,AutoRLBench/armnet_c03-dsrl-20261120_train_300,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T13:15:42Z,SirGrokkius/verimath-reason-v1-sample,SirGrokkius,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; evaluation; benchmark; reasoning; math; verified-answers; synthetic; llm-eval
+2026-11-20T13:15:43Z,SirGrokkius/pybugfix-verified-v1-sample,SirGrokkius,0,0,task_categories:text-generation; language:en; language:code; license:cc-by-4.0; size_categories:n<1K; region:us; code; program-repair; bug-fix; python; unit-tests; verified; synthetic; sft; rl
+2026-11-20T13:16:15Z,SREDA-Bench/Annoy-PyEdu-Rs,SREDA-Bench,0,0,region:us
+2026-11-20T13:16:15Z,SREDA-Bench/Annoy-PyEdu-Rs-Raw,SREDA-Bench,0,0,region:us
+2026-11-20T13:16:50Z,YERI84/omx_bimanual_WHAT,YERI84,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx_bimanual; robotis
+2026-11-20T13:16:59Z,emrekuruu/alfworld-harbor-pilot,emrekuruu,0,0,language:en; size_categories:n<1K; library:harbor; region:us; harbor; rl-environment; reinforcement-learning; alfworld; textworld
+2026-11-20T13:17:46Z,HumanCOIN/l1_laundry_area_fold_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-20T13:18:55Z,NerathVeylor/plant-disease-pest-api,NerathVeylor,0,1,region:us
+2026-11-20T13:19:02Z,autoencodix/census-large,autoencodix,0,0,license:cc-by-4.0; size_categories:1M<n<10M; region:us; biology; single-cell; scRNA-seq; transcriptomics; cellxgene; autoencoder; autoencodix
+2026-11-20T13:19:18Z,SOTAagi2030/Neighborhood-Market-Index-235,SOTAagi2030,0,0,task_categories:tabular-regression; license:cc-by-4.0; region:us
+2026-11-20T13:19:31Z,HumanCOIN/l1_laundry_area_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-20T13:20:06Z,dfdfhhj7/Annoy-PyEdu-Rs,dfdfhhj7,0,0,region:us
+2026-11-20T13:20:07Z,dfdfhhj7/Annoy-PyEdu-Rs-Raw,dfdfhhj7,0,0,region:us
+2026-11-20T13:20:16Z,ascxzSAD1DSA/Annoy-PyEdu-Rs,ascxzSAD1DSA,0,0,region:us
+2026-11-20T13:20:17Z,ascxzSAD1DSA/Annoy-PyEdu-Rs-Raw,ascxzSAD1DSA,0,0,region:us
+2026-11-20T13:20:39Z,Tridex/40_stabilo_tracker_15h_19-11_OVERLAY,Tridex,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T13:20:47Z,lwlitejjjj/Tytytytutyt,lwlitejjjj,0,0,license:openrail; region:us
