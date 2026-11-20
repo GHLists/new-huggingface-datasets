@@ -1,0 +1,64 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-19T23:20:21Z,dusersad12/glaive_toolcall_en,dusersad12,0,0,region:us
+2026-11-19T23:20:24Z,dusersad12/hermes-function-calling-v1,dusersad12,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-19T23:20:26Z,dusersad12/toolace-function-calls,dusersad12,0,0,region:us
+2026-11-19T23:20:29Z,dusersad12/xlam-function-calling-60k,dusersad12,0,0,region:us
+2026-11-19T23:20:31Z,dusersad12/merge-hf-scratch-v1,dusersad12,0,0,region:us
+2026-11-19T23:21:16Z,winsparking/us-data-center-construction-projects,winsparking,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; data-centers; cons…
+2026-11-19T23:21:59Z,AutoRLBench/armnet_c03-rlt-20261119-ep100_all_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-19T23:22:00Z,AutoRLBench/armnet_c01-rlt-20261119-ep100_all_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-19T23:22:29Z,ragarwal/classifier-calibration,ragarwal,0,0,task_categories:text-classification; task_categories:token-classification; multilinguality:multilingual; license:other; size_categories:10K<n<100K; region:us; quantization; calibration; gptq; distill…
+2026-11-19T23:25:32Z,lyyyyyj/relay-1795130732,lyyyyyj,0,0,region:us
+2026-11-19T23:26:18Z,nakAnI-ai/English-Alexandrian-Arabic-parallel-corpus,nakAnI-ai,0,0,task_categories:translation; language:en; language:ar; size_categories:10K<n<100K; region:us; arabic; egyptian-arabic; alexandrian-arabic; parallel-corpus; machine-translation; nlp
+2026-11-19T23:26:57Z,HumanCOIN/l1_hair_salon_fold_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-19T23:28:30Z,ithiria894/mega-ipos-1996-2026,ithiria894,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; ipo; stock-market;…
+2026-11-19T23:30:09Z,g1n0st/4660ad1736a83e01545733763e7fe5745091ea31,g1n0st,0,0,region:us
+2026-11-19T23:31:30Z,HumanCOIN/l1_hair_salon_massage_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; massage_task
+2026-11-19T23:34:05Z,HumanCOIN/l1_hair_salon_organize_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-19T23:34:41Z,SZLHOLDINGS/rag-corpus-v2,SZLHOLDINGS,0,0,region:us
+2026-11-19T23:35:49Z,huyle1611/widowx_task_hard,huyle1611,0,0,task_categories:robotics; size_categories:n<1K; region:us; robotics; rlds; bridgedata; widowx; teleoperation
+2026-11-19T23:42:10Z,Everybody-Is-Everyone/DAG_Harness,Everybody-Is-Everyone,0,0,language:en; region:us; ai-agents; agent-memory; persistent-memory; reproducibility; human-ai-collaboration
+2026-11-19T23:42:59Z,OKADAA/ultimate-purpose-of-ai,OKADAA,0,0,task_categories:text-generation; language:ja; language:en; license:cc0-1.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-19T23:45:10Z,kunyi991107/DeepMath-103K,kunyi991107,0,0,task_categories:text-generation; language:en; license:mit; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2504.11…
+2026-11-19T23:45:26Z,sejzu0123/e46d502d-437c-4818-81fd-7b892e0c1ccf,sejzu0123,0,0,region:us
+2026-11-19T23:47:49Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-19T23:47:50Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-19T23:48:54Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-11-19T23:48:55Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-11-19T23:49:22Z,Brownight/StatsInference-Arena-IV,Brownight,0,0,language:en; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:1801.03635; region:us; tabular; synthe…
+2026-11-19T23:50:04Z,ASDCXZ12E/Annoy-PyEdu-Rs-Raw,ASDCXZ12E,0,0,region:us
+2026-11-19T23:50:04Z,ASDCXZ12E/Annoy-PyEdu-Rs,ASDCXZ12E,0,0,region:us
+2026-11-19T23:50:11Z,ASD213213SA/Annoy-PyEdu-Rs-Raw,ASD213213SA,0,0,region:us
+2026-11-19T23:50:11Z,ASD213213SA/Annoy-PyEdu-Rs,ASD213213SA,0,0,region:us
+2026-11-19T23:50:46Z,dougalldeepmind/2026-11-19-oaihf-qwen38-0-plain,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; library:datasets; library:mlcroissant; region:us; eval-run; eval:oai_hf; model:qwen38_0_plain; mode:think
+2026-11-19T23:51:17Z,dougalldeepmind/2026-11-19-oaihf-qwen38-0-da-tools-15,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; library:datasets; library:mlcroissant; region:us; eval-run; eval:oai_hf; model:qwen38_0_da_tools_15; mode:think
+2026-11-19T23:51:43Z,hyf010124/so101_test_ACT1120_20261120_084642,hyf010124,0,0,region:us
+2026-11-19T23:51:52Z,SirGrokkius/idea-collider-v0,SirGrokkius,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-19T23:52:26Z,divelux/sauna-traditions-of-the-world,divelux,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sauna; banya; hamm…
+2026-11-19T23:53:45Z,AutoRLBench/armnet_framecheck2_c01_20261119,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-19T23:54:10Z,vv1-dev1/Nov18_3cams,vv1-dev1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-19T23:54:41Z,asfsdfgaa/Annoy-PyEdu-Rs,asfsdfgaa,0,0,region:us
+2026-11-19T23:54:42Z,asfsdfgaa/Annoy-PyEdu-Rs-Raw,asfsdfgaa,0,0,region:us
+2026-11-19T23:55:49Z,HumanCOIN/l1_hair_salon_other_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-19T23:59:02Z,ASDASD12321WSX/Annoy-PyEdu-Rs,ASDASD12321WSX,0,0,region:us
+2026-11-19T23:59:03Z,ASDASD12321WSX/Annoy-PyEdu-Rs-Raw,ASDASD12321WSX,0,0,region:us
+2026-11-19T23:59:04Z,HumanCOIN/l1_hair_salon_pack_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-19T23:59:24Z,babags/s,babags,0,0,license:afl-3.0; region:us
+2026-11-20T00:01:11Z,HumanCOIN/l1_hair_salon_peel_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; peel_task
+2026-11-20T00:01:34Z,HumanCOIN/l1_hair_salon_perm_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; perm_task
+2026-11-20T00:06:31Z,HumanCOIN/l1_hair_salon_remove_task_1600x1300_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; remove_task
+2026-11-20T00:07:16Z,Yewy/mahjong_surfaces_standard_mat_v1_v14_224,Yewy,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; mahjong; so101; lekiwi; act
+2026-11-20T00:07:47Z,haydendoo/so101-review-10,haydendoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so101; pick-and-place; scripted; isaac-sim; lerobot-v3; review
+2026-11-20T00:08:01Z,lorn666/maxrl_smollm2_360m_gsm8k_rollouts_topk32,lorn666,0,0,license:apache-2.0; arxiv:2602.02710; region:us
+2026-11-20T00:09:12Z,SebasAstreaYah/forge-tool-calling-dataset-v1,SebasAstreaYah,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; tool-calling; function-calling; qlora; forge30xx
+2026-11-20T00:09:43Z,HumanCOIN/l1_hair_salon_roll_task_1600x1300_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-20T00:11:14Z,sejzu0123/68598b15-e644-41f2-b662-91455fffc7e0,sejzu0123,0,0,region:us
+2026-11-20T00:12:27Z,neodium02/fullduplex-share,neodium02,0,0,region:us
+2026-11-20T00:15:36Z,RylandBilly/Annoy-PyEdu-Rs,RylandBilly,0,0,region:us
+2026-11-20T00:15:37Z,RylandBilly/Annoy-PyEdu-Rs-Raw,RylandBilly,0,0,region:us
+2026-11-20T00:15:42Z,alinarus/MultimodalData,alinarus,0,0,license:apache-2.0; region:us
+2026-11-20T00:16:21Z,bendca61/eval-act-so101-red-block-blue-to-pink-v1,bendca61,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T00:18:26Z,padiredd/toy_throw_diagonal_hardgrip_replay5,padiredd,0,0,region:us; robotis; cyclo_intelligence; robotics; isaac-lab; sim-demos
+2026-11-20T00:18:42Z,Hanser9909/rag-ibex-indice,Hanser9909,0,0,region:us
+2026-11-20T00:19:06Z,protos-photos/python-wheels,protos-photos,0,0,region:us
+2026-11-20T00:19:38Z,andpaoli/Infondere_esistenza_alla_macchina,andpaoli,0,0,region:us
