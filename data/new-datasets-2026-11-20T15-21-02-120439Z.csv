@@ -1,0 +1,107 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-20T14:22:08Z,Gary3410/LoopSim-assets,Gary3410,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-11-20T14:23:57Z,MuhammadAliAhmad4455/multiclass-sentiment-analysis-dataset,MuhammadAliAhmad4455,0,0,task_categories:text-classification; task_categories:translation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:p…
+2026-11-20T14:24:58Z,ImKyungjin/CVPR2027-KJ-data,ImKyungjin,0,0,region:us; robotics; CVPR2027
+2026-11-20T14:25:37Z,Mercity/policy-nli,Mercity,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-11-20T14:25:49Z,RKugel/usd-ils-zigzag-trend,RKugel,0,0,task_categories:time-series-forecasting; language:en; language:he; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:pola…
+2026-11-20T14:30:34Z,Docks/origenlm-public-mix,Docks,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:31:54Z,Muhammad241198/rollout_action_chunking_dsub150_waypoint_20261120_082116,Muhammad241198,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T14:33:30Z,mmichall/NKJP-NER-DOC,mmichall,0,0,license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:35:07Z,mmichall/NKJP-NER-SENT,mmichall,0,0,license:apache-2.0; region:us
+2026-11-20T14:36:41Z,Byambaa13/Library,Byambaa13,0,0,region:us
+2026-11-20T14:36:43Z,jon6786/edia-cdn-01,jon6786,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-20T14:39:13Z,ening-open/cogalign,ening-open,0,0,license:apache-2.0; region:us
+2026-11-20T14:40:15Z,depthmap/fake-vs-true-16bit-depth-png,depthmap,0,0,task_categories:depth-estimation; language:en; license:cc-by-4.0; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; depth-map;…
+2026-11-20T14:40:41Z,Jig09/onomatron-names,Jig09,0,0,task_categories:text-generation; language:fr; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T14:41:14Z,agent-embassy/pubmedqa-checked-answers-slice-1,agent-embassy,0,0,task_categories:question-answering; language:en; region:us; medical; benchmark-audit; answer-key-verification
+2026-11-20T14:43:16Z,kzoacn/riemann-lean-archive,kzoacn,0,0,region:us
+2026-11-20T14:44:08Z,roro10/romance-trope-taxonomy,roro10,0,0,task_categories:text-classification; language:en; language:de; language:fr; language:es; language:it; language:pt; language:nl; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; li…
+2026-11-20T14:45:10Z,asdcsadcasd/KazakhTextDuplicatesv2.0,asdcsadcasd,0,0,task_categories:sentence-similarity; task_categories:text-classification; task_categories:text-retrieval; language:kk; license:apache-2.0; size_categories:100K<n<1M; region:us; kazakh; duplicates; ne…
+2026-11-20T14:45:13Z,cetiennec/asimov-pingpong-albert,cetiennec,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-20T14:45:21Z,stuartwvmc1006/weather-dataset,stuartwvmc1006,0,0,license:cc-by-4.0; region:us; dataset; weather; image-audio
+2026-11-20T14:45:44Z,GarethFW/LGIR-S_Agentic_Experience_Principles,GarethFW,0,0,task_categories:text-retrieval; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:45:50Z,B1shalc/515k-Hotel-Reviews-In-Europe,B1shalc,0,0,license:apache-2.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:45:56Z,danielkozusek/lost-chess-games-50k,danielkozusek,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; chess; liche…
+2026-11-20T14:46:38Z,Unijenaphysics/food-image-depth-clean,Unijenaphysics,0,0,license:cc-by-4.0; region:us; dataset; food; image-depth
+2026-11-20T14:46:58Z,MendelBeans/lerobot_dataset_put_yellow_block_in_the_bucket,MendelBeans,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-20T14:47:16Z,sejzu0123/29ed0d5c-3bd7-484c-a484-1432ba689e19,sejzu0123,0,0,region:us
+2026-11-20T14:49:01Z,ipsilondev/facegreet-packs,ipsilondev,0,0,region:us
+2026-11-20T14:50:47Z,BT1984/red_scrub_2nd_try_20261120_152557,BT1984,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-20T14:52:29Z,tripathyShaswata/ledgerfm-demo-sparkov,tripathyShaswata,0,0,license:cc0-1.0; size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-20T14:52:31Z,Aksh10/items_lite,Aksh10,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:52:34Z,AutoRLBench/armnet_c01-dit-20261120d_train_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-20T14:52:48Z,Aksh10/items_prompts_lite,Aksh10,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:52:57Z,Aksh10/items_prompts_full,Aksh10,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:52:59Z,Oliyad47/creditrust-complaint-index,Oliyad47,0,0,license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; faiss; rag; cfpb
+2026-11-20T14:53:50Z,Aksh10/items_full,Aksh10,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:55:49Z,ZariahKace/Annoy-PyEdu-Rs,ZariahKace,0,0,region:us
+2026-11-20T14:55:49Z,ZariahKace/Annoy-PyEdu-Rs-Raw,ZariahKace,0,0,region:us
+2026-11-20T14:56:50Z,Linh-0909/rollout_t40_rabc_k1435_10000_20261120_225438,Linh-0909,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-20T14:57:13Z,TradingLookup/market-holidays,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T14:57:41Z,science-of-model-organisms/oct-behaviour-data,science-of-model-organisms,0,0,region:us
+2026-11-20T14:58:16Z,QomSSLab/Judge_Synthesized,QomSSLab,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-20T14:58:17Z,science-of-model-organisms/loyalty-training-data,science-of-model-organisms,0,0,language:en; region:us; model-organisms; ai-safety; fine-tuning; dpo; sft
+2026-11-20T15:01:38Z,JeffreyHo6699/webface4m-wds-gz,JeffreyHo6699,0,0,region:us
+2026-11-20T15:02:31Z,vnpornads/cdn-hls-2,vnpornads,0,0,region:us
+2026-11-20T15:04:39Z,justchenhao/EarthDataBench_pub,justchenhao,0,0,license:apache-2.0; region:us
+2026-11-20T15:05:17Z,dougalldeepmind/2026-11-20-oaihf-qwen38-0-da-tools-15,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; library:datasets; library:mlcroissant; region:us; eval-run; eval:oai_hf; model:qwen38_0_da_tools_15; mode:think
+2026-11-20T15:06:33Z,binzkm/repo-name,binzkm,0,0,region:us
+2026-11-20T15:07:36Z,NoeFlandre/finetranslations-edu-quality-audit,NoeFlandre,0,0,license:other; region:us
+2026-11-20T15:07:49Z,rhecker/mixing-station-io,rhecker,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-20T15:08:11Z,TradingLookup/brokers-cfd-loss-rates,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; cfd; retail-investors; loss-rate; risk-warning; fca; esma; brokers
+2026-11-20T15:08:12Z,TradingLookup/brokers-forex,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:08:14Z,TradingLookup/brokers-stocks,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:08:15Z,TradingLookup/changes,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:08:17Z,TradingLookup/crowd-gauge,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; retail-sentiment; cot-report; commitments-of-traders; forex-sentiment; long-short-ratio; fear-and-greed; positioning
+2026-11-20T15:08:20Z,TradingLookup/crypto-correlation-matrix,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; crypto-correlation; bitcoin-correlation; bitcoin-vs-dollar; correlation-matrix
+2026-11-20T15:08:21Z,TradingLookup/crypto-exchanges-availability,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; crypto-exchanges; us-states; new-york; bitlicense; state-availability; kraken; binance-us; robinhood-crypto
+2026-11-20T15:08:22Z,TradingLookup/crypto-exchanges-fees,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:08:23Z,TradingLookup/crypto-exchanges-perps,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:08:55Z,TradingLookup/crypto-exchanges-uk-licence-tracker,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; cryptoassets; crypto-exchanges; fca; fca-register; money-laundering-regulations; fca-warning-list; financial-promotions; united-kingdom
+2026-11-20T15:08:56Z,TradingLookup/economic-calendar,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; economic-calendar; forex-calendar; forex-news-calendar; fomc; cpi; nfp; prop-firm-news-rules
+2026-11-20T15:08:57Z,TradingLookup/economic-calendar-prop-firm-news-rules,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firm-news-trading-rules; news-trading-prop-firm; high-impact-news; funded-account-rules
+2026-11-20T15:08:58Z,TradingLookup/fed-rate-history,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; fed-funds-rate; fomc; interest-rate-decisions; federal-reserve
+2026-11-20T15:08:59Z,TradingLookup/india-brokerage,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:01Z,TradingLookup/inflation-real-rates,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; inflation; inflation-rate; real-interest-rate; cpi; pce; real-yield; tips; breakeven-inflation
+2026-11-20T15:09:02Z,TradingLookup/market-hours,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:03Z,TradingLookup/prediction-markets,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prediction-markets; kalshi; polymarket; event-contracts; us-states; cftc; sports-event-contracts
+2026-11-20T15:09:05Z,TradingLookup/prop-country-access,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:07Z,TradingLookup/prop-firm-price-index-2026-11,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firm-prices; futures-prop-firm-cost; prop-firm-price-index
+2026-11-20T15:09:09Z,TradingLookup/prop-firms-black-friday,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:40Z,TradingLookup/prop-firms-cost-per-payout,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firms; futures-prop-firms; pass-rate; payout-rate; cost-per-payout; evaluation-fees
+2026-11-20T15:09:42Z,TradingLookup/prop-firms-crypto,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:46Z,TradingLookup/prop-firms-fine-print-index,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; futures-prop-firms; prop-trading; disclosure; fees; drawdown; consistency-rule; payouts; transparency
+2026-11-20T15:09:47Z,TradingLookup/prop-firms-forex,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:09:54Z,enheiiiiii/barx-oracle-bbox-v1,enheiiiiii,0,0,license:mit; region:us; robotics; robocasa; bounding-box
+2026-11-20T15:09:56Z,tool1/Annoy-PyEdu-Rs,tool1,0,0,region:us
+2026-11-20T15:09:57Z,tool1/Annoy-PyEdu-Rs-Raw,tool1,0,0,region:us
+2026-11-20T15:10:21Z,TradingLookup/prop-firms-pass-and-payout-rates,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firms; proprietary-trading-firms; funded-trader; pass-rate; payout-rate; evaluation; futures-prop-firms; forex-prop-firms
+2026-11-20T15:10:22Z,TradingLookup/prop-firms-payout-proof,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firms; prop-firm-payouts; payout-proof; funded-trader; verified-payouts
+2026-11-20T15:10:44Z,chakibmed/literary-speaker-attribution-pdnc,chakibmed,0,0,task_categories:token-classification; task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; speaker-attribution; quotation-attribution; literatur…
+2026-11-20T15:10:53Z,TradingLookup/prop-firms-stocks,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:10:55Z,TradingLookup/prop-firms-us-futures,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; futures-prop-firms; prop-trading; funded-trader; united-states; evaluation-fees; activation-fees; profit-split; payouts
+2026-11-20T15:11:27Z,TradingLookup/rbi-alert-list,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:11:28Z,TradingLookup/retail-trader-pulse,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:11:31Z,TradingLookup/stablecoin-supply,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; stablecoin-supply; stablecoin-market-cap; usdt-supply; usdc-supply
+2026-11-20T15:11:32Z,TradingLookup/state-of-prop-firms,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; prop-firm-statistics; prop-firm-pass-rate; prop-firm-payout-rate; prop-firm-prices
+2026-11-20T15:11:36Z,TradingLookup/state-of-retail-cfd-losses,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; cfd-loss-rates; retail-cfd-losses; percentage-of-retail-accounts-lose-money
+2026-11-20T15:11:38Z,TradingLookup/trading-journals,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading
+2026-11-20T15:11:39Z,TradingLookup/yield-curve,TradingLookup,0,0,language:en; license:cc-by-4.0; region:us; finance; trading; yield-curve; treasury-yield-curve; inverted-yield-curve; 10y-2y-spread; 10-year-3-month-spread; treasury-yields; yield-curve-inversion
+2026-11-20T15:13:00Z,xiaobai200403/ballworld_two_settings_20261119,xiaobai200403,0,0,region:us
+2026-11-20T15:13:19Z,duykhangnguyen/cs231n-food,duykhangnguyen,0,0,license:mit; region:us; dataset; food; multimodal3
+2026-11-20T15:13:57Z,mengct00/sm_vec.de-en.cosyvoice3_wav.1.0,mengct00,0,0,region:us
+2026-11-20T15:14:28Z,signal8/reverse-splits,signal8,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; finance; sec-filings; edgar; stocks; open-data; reverse-split
+2026-11-20T15:14:31Z,signal8/deficiency-notices,signal8,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; finance; sec-filings; edgar; stocks; open-data; nasdaq; delisting
+2026-11-20T15:16:15Z,MendelBeans/lerobot_dataset_put_green_block_in_the_bucket,MendelBeans,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-20T15:16:38Z,Davidleevi/code-image-depth-2024,Davidleevi,0,0,license:cc-by-4.0; region:us; dataset; code; image-depth
+2026-11-20T15:16:59Z,sdkjhk/Annoy-PyEdu-Rs-Raw,sdkjhk,0,0,region:us
+2026-11-20T15:16:59Z,sdkjhk/Annoy-PyEdu-Rs,sdkjhk,0,0,region:us
+2026-11-20T15:17:17Z,Prashant-Parwani/clean-midi-processed,Prashant-Parwani,0,0,region:us
+2026-11-20T15:18:28Z,huuhuyng/56-image-i91-results,huuhuyng,0,0,region:us
+2026-11-20T15:19:05Z,ahalgh/explore-livelihood,ahalgh,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; food-security; livelihoods; household-economy-approach; fews-net; famine-early-warning
+2026-11-20T15:19:24Z,migueldbsfnz/ncm-gen5ar-b,migueldbsfnz,0,0,region:us
+2026-11-20T15:19:25Z,migueldbsfnz/ncm-gen5ar-c,migueldbsfnz,0,0,region:us
+2026-11-20T15:19:30Z,dougalldeepmind/2026-11-20-da-one-sided-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-one-sided; constitution:claude_distilled_09_principles; smoke
+2026-11-20T15:20:26Z,priscilla-smith/Annoy-PyEdu-Rs,priscilla-smith,0,0,region:us
+2026-11-20T15:20:26Z,priscilla-smith/Annoy-PyEdu-Rs-Raw,priscilla-smith,0,0,region:us
+2026-11-20T15:20:32Z,xlangai/RoboWild,xlangai,0,0,license:apache-2.0; region:us; robotics; simulation; openusd; isaac-sim; isaac-lab
