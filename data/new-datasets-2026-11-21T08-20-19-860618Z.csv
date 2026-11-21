@@ -1,0 +1,231 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-21T07:22:09Z,g1n0st/56ba482506d80eed67f9447e77421a7a3062593c,g1n0st,0,0,region:us
+2026-11-21T07:23:23Z,HumanCOIN/l1_office_other_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-21T07:23:34Z,heohyeri/pick_cube,heohyeri,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-21T07:24:14Z,HumanCOIN/l1_office_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-21T07:24:20Z,q2966068478/lerobot_haobo_dataset,q2966068478,0,0,region:us
+2026-11-21T07:24:31Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-11-21T07:24:32Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-11-21T07:24:38Z,VAClaimsLLC/NCBarAttorneys,VAClaimsLLC,0,0,license:apache-2.0; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-21T07:24:54Z,HumanCOIN/l1_office_pack_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-21T07:25:10Z,Layton42/TASK_NAME_20261121_162234,Layton42,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:25:17Z,AutoRLBench/armnet_c01-dit-20261120d-r5_train_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-21T07:25:20Z,HumanCOIN/l1_office_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-21T07:25:43Z,hums1207/phsyical_AI_20261121_160159,hums1207,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T07:26:21Z,vnpornads/cdn-hls-45,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-21T07:26:21Z,valuaison/Valuaison,valuaison,0,0,region:us
+2026-11-21T07:26:39Z,g1n0st/a0b0d8b7000a6a4791c55595b169b3afad48db7e,g1n0st,0,0,region:us
+2026-11-21T07:27:19Z,HumanCOIN/l1_office_punch_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; punch_task
+2026-11-21T07:27:32Z,valuaison/valuaisonavis,valuaison,0,0,region:us
+2026-11-21T07:28:10Z,jms0404/red_cube2_20261121_162641,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:28:19Z,HumanCOIN/l1_office_punch_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; punch_task
+2026-11-21T07:28:19Z,valuaison/ValuaisonPlateforme,valuaison,0,0,region:us
+2026-11-21T07:28:47Z,Ehdgksl12/pnp_bluecube2_20261121_162637,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:28:56Z,HumanCOIN/l1_office_replace_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; replace_task
+2026-11-21T07:29:04Z,valuaison/ValuaisonArnaque,valuaison,0,0,region:us
+2026-11-21T07:29:08Z,HumanCOIN/l1_office_replace_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; replace_task
+2026-11-21T07:29:09Z,Layton42/TASK_NAME_20261121_162642,Layton42,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:29:28Z,HumanCOIN/l1_office_secure_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-21T07:29:35Z,Expertcarrot/yellow_cubereal_20261121_161204,Expertcarrot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T07:30:21Z,HumanCOIN/l1_office_secure_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-21T07:31:13Z,HumanCOIN/l1_office_staple_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; staple_task
+2026-11-21T07:31:28Z,jms0404/red_cube3_20261121_162940,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:31:31Z,electroglyph/harmful,electroglyph,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:31:36Z,Ehdgksl12/pnp_bluecube3_20261121_163040,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-21T07:31:50Z,rain4988/secretmarker,rain4988,0,0,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:32:25Z,Lann000/SeizeIT2_Segment_SPH5min,Lann000,0,0,region:us
+2026-11-21T07:33:07Z,emgena/agent_oauth_bearer_token_leak_sanitizer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:18Z,HumanCOIN/l1_office_staple_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; staple_task
+2026-11-21T07:33:19Z,rain4988/leakdecode2,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:33:21Z,emgena/aws_iam_sts_temporary_credential_exfiltration_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:25Z,emgena/gcp_service_account_private_key_leak_scrubber_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:29Z,emgena/ssh_agent_socket_hijacking_fuzzer_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:33Z,emgena/kubernetes_serviceaccount_jwt_token_stealer_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:37Z,emgena/github_pat_workflow_injection_ast_armor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:41Z,emgena/agentic_memory_rag_canary_token_leaker_detector_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:45Z,emgena/vault_transit_secret_plaintext_log_scrubber_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:33:47Z,jms0404/red_cube4_20261121_163217,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:33:48Z,emgena/solana_jito_bundle_mev_backrunning_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:33:52Z,emgena/ethereum_blob_transaction_gas_spike_mitigator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:33:56Z,emgena/hft_fix_protocol_checksum_tamper_shield_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:01Z,emgena/crypto_cross_chain_bridge_slippage_arbitrage_auditor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:06Z,emgena/orderbook_l2_spoofing_wash_trading_detector_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:09Z,emgena/dex_liquidity_pool_flash_loan_reentrancy_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:12Z,g1n0st/7f2772cd1e840e1aa41467e67a9f105108548728,g1n0st,0,0,region:us
+2026-11-21T07:34:13Z,emgena/hft_market_maker_adverse_selection_volatility_brake_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:17Z,emgena/fintech_sepa_instant_duplicate_payment_deduplicator_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; trading; unsloth
+2026-11-21T07:34:21Z,emgena/agent_sqlite_in_memory_injection_quarantine_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:24Z,emgena/mcp_stdio_jsonrpc_buffer_overflow_packet_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:26Z,Ehdgksl12/pnp_bluecube4_20261121_163220,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:34:28Z,emgena/agent_docker_daemon_socket_mount_escape_shield_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:32Z,emgena/langchain_langgraph_subagent_recursion_death_spiral_brake_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:36Z,emgena/agent_unbounded_web_scraper_dos_rate_limiter_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:38Z,jammin0319/g1_inspire_walk_far_grasp_desk065_scripted_v2,jammin0319,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-21T07:34:40Z,emgena/agent_file_descriptor_exhaustion_leak_restorer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:43Z,emgena/agentic_browser_playwright_eval_xss_firewall_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentic; unsloth
+2026-11-21T07:34:47Z,emgena/fastapi_pydantic_v2_unvalidated_query_param_sanitizer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:34:51Z,emgena/django_orm_raw_sql_unparameterized_injection_auditor_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:34:55Z,emgena/medtech_dicom_medical_image_metadata_phi_scrubber_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; compliance; unsloth
+2026-11-21T07:35:00Z,emgena/gdpr_article_17_right_to_erasure_database_cascader_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; compliance; unsloth
+2026-11-21T07:35:04Z,emgena/nextjs15_server_action_unauthenticated_mutation_guard_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; security; unsloth
+2026-11-21T07:35:08Z,emgena/redis_sentinel_split_brain_cluster_auto_fencer_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; infrastructure; un…
+2026-11-21T07:35:13Z,emgena/postgres_pgvector_hnsw_oom_memory_cap_limiter_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; infrastructure; un…
+2026-11-21T07:35:25Z,srivishnuu1707/edu_care_ai_final_model_dataset,srivishnuu1707,0,0,region:us
+2026-11-21T07:35:42Z,Cybrpgs/sanew-top100-new-20261121,Cybrpgs,0,0,region:us
+2026-11-21T07:35:42Z,HumanCOIN/l1_office_wind_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; wind_task
+2026-11-21T07:35:50Z,jms0404/red_cube5_20261121_163421,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:36:01Z,belhome/lucky,belhome,0,0,region:us
+2026-11-21T07:36:21Z,Ehdgksl12/pnp_bluecube5_20261121_163454,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:36:23Z,Kling-Keye-Official/VideoRover,Kling-Keye-Official,0,0,region:us
+2026-11-21T07:36:41Z,Yooniel/qwen3.6-27b-lie-verbalizers,Yooniel,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; interpretability; activations; lie-detectio…
+2026-11-21T07:37:34Z,DigitalAiWolf/howler_engine,DigitalAiWolf,0,0,license:gpl; region:us
+2026-11-21T07:37:49Z,JudyStar/cisco-mod-sync,JudyStar,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:38:40Z,mirrorssell/dice_place_20261121_163717,mirrorssell,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:39:14Z,HumanCOIN/l1_office_write_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; write_task
+2026-11-21T07:39:16Z,g1n0st/3348fa6f04595cc4412f5ed1d60709fe63b464c1,g1n0st,0,0,region:us
+2026-11-21T07:39:27Z,YunBeen1205/pnp_cube4_20261121_163337,YunBeen1205,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:39:35Z,laion/laion-cell-007,laion,0,0,task_categories:image-to-text; task_categories:text-to-image; task_categories:video-classification; license:other; modality:video; library:webdataset; region:us; biology; microscopy; cell-biology; hi…
+2026-11-21T07:39:38Z,HumanCOIN/l1_office_write_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; write_task
+2026-11-21T07:40:02Z,nhutran29406/willow,nhutran29406,0,0,region:us
+2026-11-21T07:40:04Z,jms0404/red_cube7_20261121_163835,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:40:06Z,JohnnyKKKm/items_raw_full,JohnnyKKKm,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-21T07:40:09Z,zetanschy/cap_to_box_real,zetanschy,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-21T07:40:16Z,HumanCOIN/l1_other_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-21T07:40:21Z,STAR-future/Trinity-k3ckpt-train3,STAR-future,0,0,region:us
+2026-11-21T07:40:21Z,STAR-future/Trinity-k3cache-train2,STAR-future,0,0,region:us
+2026-11-21T07:40:22Z,STAR-future/Trinity-k3cache-train3,STAR-future,0,0,region:us
+2026-11-21T07:40:33Z,JohnnyKKKm/items_raw_lite,JohnnyKKKm,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:40:41Z,g1n0st/d66f969d4ffb8a02cb50998e1fada6edc3d56018,g1n0st,0,0,region:us
+2026-11-21T07:41:27Z,HumanCOIN/l1_other_attach_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; attach_task
+2026-11-21T07:41:31Z,Ehdgksl12/pnp_bluecube6_20261121_163908,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:41:40Z,HumanCOIN/l1_other_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-21T07:41:58Z,HumanCOIN/l1_other_fill_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-21T07:42:11Z,HumanCOIN/l1_other_fill_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-21T07:42:54Z,nuguri77/pnp_cube_20261121_161511,nuguri77,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T07:43:56Z,HumanCOIN/l1_other_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-21T07:43:59Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-21T07:43:59Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-21T07:44:27Z,jms0404/red_cube9_20261121_164258,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:44:28Z,mirrorssell/dice_place2_20261121_163939,mirrorssell,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:44:54Z,Ehdgksl12/pnp_bluecube7_20261121_164244,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:45:13Z,HumanCOIN/l1_other_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-21T07:45:38Z,Saksham4540/icmr-sorted-index,Saksham4540,0,0,size_categories:1B<n<10B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-21T07:45:43Z,HumanCOIN/l1_other_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-21T07:46:13Z,YunBeen1205/pnp_cube5_20261121_163955,YunBeen1205,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:46:17Z,rain4988/leakdecode3,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:46:28Z,g1n0st/df4be13123080c4953a4c3608282771a330e2326,g1n0st,0,0,modality:text; region:us
+2026-11-21T07:46:36Z,MultiSTEVE-1s/interactive-explorers,MultiSTEVE-1s,0,0,license:other; region:us; minecraft; interpretability; trajectories; attention
+2026-11-21T07:46:38Z,jms0404/red_cube10_20261121_164509,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:47:28Z,rain4988/leakdecode4,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:47:29Z,rain4988/leakdecode5,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:47:30Z,rain4988/leakdecode6,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:47:31Z,rain4988/leakdecode7,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:47:32Z,rain4988/leakdecode8,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:47:38Z,g1n0st/e51f1f28705963d78d97c4260fcb207a5132d8c5,g1n0st,0,0,region:us
+2026-11-21T07:47:38Z,Rachitvig/gpt2-manim-tokenized-v1,Rachitvig,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:48:04Z,vnpornads/cdn-hls-46,vnpornads,0,0,region:us
+2026-11-21T07:48:13Z,lca0503/LyricEditBench-Translate,lca0503,0,0,task_categories:translation; language:en; language:zh; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; li…
+2026-11-21T07:48:31Z,Ehdgksl12/pnp_bluecube8_20261121_164737,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-21T07:48:37Z,g1n0st/39836b0771753051f2326053a5bec7863b007792,g1n0st,0,0,modality:text; region:us
+2026-11-21T07:48:40Z,HumanCOIN/l1_other_other_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; other_task
+2026-11-21T07:48:52Z,jms0404/red_cube11_20261121_164723,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:49:07Z,mirrorssell/dice_place2,mirrorssell,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-21T07:49:08Z,HumanCOIN/l1_other_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-21T07:49:31Z,Layton42/TASK_NAME_20261121_164042,Layton42,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:50:14Z,crozxx/Avezdata3,crozxx,0,1,region:us
+2026-11-21T07:50:23Z,HumanCOIN/l1_other_pour_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-21T07:50:29Z,hyeon0819/FOCUS-AR,hyeon0819,0,0,region:us
+2026-11-21T07:50:59Z,jms0404/red_cube12_20261121_164930,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:51:39Z,HumanCOIN/l1_other_pour_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-21T07:51:46Z,Ehdgksl12/pnp_bluecube9_20261121_164902,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:51:53Z,Leeyounggi/pnp_bluecube_20261121_165134,Leeyounggi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-21T07:52:03Z,Rlayd36/rollout_diffusion_redblock_20261121_164339,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:52:32Z,origin-data-lab/finding-gloved-hands-open-vocabulary-detector-egocentric,origin-data-lab,0,0,license:cc-by-4.0; modality:text; region:us; egocentric; hand-detection; gloves; yoloe; data-qa
+2026-11-21T07:53:04Z,jms0404/red_cube13_20261121_165134,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:53:55Z,punkmale/RobotSpeech,punkmale,0,0,license:cc-by-nd-4.0; region:us
+2026-11-21T07:54:02Z,AutoRLBench/armnet_c01-dit-20261120d-r5-ep100_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-21T07:54:40Z,Ehdgksl12/pnp_bluecube10_20261121_165336,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-21T07:54:49Z,HumanCOIN/l1_other_replace_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; replace_task
+2026-11-21T07:55:07Z,jms0404/red_cube14_20261121_165338,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:55:17Z,HumanCOIN/l1_other_secure_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-21T07:55:41Z,HumanCOIN/l1_restaurant_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-21T07:55:45Z,Azzindani/US_CFR_2611,Azzindani,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:d…
+2026-11-21T07:55:56Z,rain4988/samebuf1,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T07:56:08Z,HumanCOIN/l1_restaurant_discard_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; discard_task
+2026-11-21T07:56:16Z,Seungjun1022/pick_dice_20261121_161030,Seungjun1022,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T07:56:37Z,10eit/marketflow-treasury-curve,10eit,0,0,task_categories:time-series-forecasting; task_categories:question-answering; language:en; license:cc0-1.0; region:us; finance; time-series; treasury; timenet
+2026-11-21T07:56:50Z,lca0503/GagaST-data,lca0503,0,0,task_categories:translation; language:en; language:zh; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:pola…
+2026-11-21T07:57:15Z,jms0404/red_cube15_20261121_165546,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:57:25Z,HumanCOIN/l1_restaurant_fill_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fill_task
+2026-11-21T07:57:33Z,Ehdgksl12/pnp_bluecube11_20261121_165511,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:57:53Z,HumanCOIN/l1_restaurant_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-21T07:58:27Z,Layton42/TASK_NAME,Layton42,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-21T07:58:38Z,Sanjay061/flux-dedup-ablation-armE8-100B,Sanjay061,0,0,region:us
+2026-11-21T07:58:39Z,Sanjay061/flux-dedup-ablation-armGlobal8-100B,Sanjay061,0,0,region:us
+2026-11-21T07:59:00Z,Leeyounggi/pnp_bluecube,Leeyounggi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:59:14Z,HumanCOIN/l1_restaurant_pour_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pour_task
+2026-11-21T07:59:28Z,purvansh01/safetypulse-h6-safetune,purvansh01,0,0,language:en; license:other; size_categories:n<1K; region:us; ai-safety; safety-drift; fine-tuning; evaluation; research; safetypulse; safetune
+2026-11-21T07:59:32Z,jms0404/red_cube16_20261121_165803,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T07:59:37Z,HumanCOIN/l1_retail_store_assemble_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; assemble_task
+2026-11-21T07:59:46Z,divy123/sequential-router-v2,divy123,0,0,task_categories:text-generation; language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-11-21T08:00:10Z,Ehdgksl12/pnp_bluecube12_20261121_165759,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:00:36Z,HumanCOIN/l1_retail_store_attach_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; attach_task
+2026-11-21T08:00:37Z,IdealReal/pnp_cube_20261121_165951,IdealReal,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-21T08:00:56Z,YunBeen1205/pnp_cube_model1_merged,YunBeen1205,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T08:00:57Z,Video2future/Vanbantuyenboychi,Video2future,0,0,region:us
+2026-11-21T08:01:07Z,pavan0202/swedish-grammaticality-training,pavan0202,0,0,license:cc-by-4.0; region:us
+2026-11-21T08:01:11Z,HumanCOIN/l1_retail_store_check_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; check_task
+2026-11-21T08:01:25Z,HumanCOIN/l1_retail_store_check_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; check_task
+2026-11-21T08:01:40Z,jms0404/red_cube17_20261121_170011,jms0404,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:01:59Z,HumanCOIN/l1_retail_store_clean_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-21T08:02:10Z,Rlayd36/rollout_diffusion_redblock_ddim10_20261121_165411,Rlayd36,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:02:22Z,rain4988/samebuf2,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T08:03:16Z,ElectronicSlams/eslams-reference-index-catalog,ElectronicSlams,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; eslams; game-replays; reproduc…
+2026-11-21T08:03:18Z,IdealReal/pnp_cube_20261121_170218,IdealReal,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:04:03Z,HumanCOIN/l1_retail_store_fold_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-21T08:04:08Z,sagalore-softworks/map-packs,sagalore-softworks,0,0,license:odbl; size_categories:n<1K; format:json; modality:geospatial; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; maps; openstreetmap; pmtiles; ve…
+2026-11-21T08:04:09Z,rain4988/leakdecode9,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T08:04:12Z,rain4988/leakdecode10,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T08:04:14Z,rain4988/leakdecode11,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T08:04:16Z,rain4988/leakdecode12,rain4988,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T08:04:52Z,HumanCOIN/l1_retail_store_load_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; load_task
+2026-11-21T08:04:53Z,rain4988/heapread1,rain4988,0,0,region:us
+2026-11-21T08:05:09Z,HumanCOIN/l1_retail_store_load_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; load_task
+2026-11-21T08:05:14Z,andang76894/motor,andang76894,0,0,region:us
+2026-11-21T08:05:25Z,IdealReal/pnp_cube,IdealReal,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-21T08:06:18Z,hums1207/phsyical_AI_20261121_162707,hums1207,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T08:06:34Z,Expertcarrot/yellow_cubereally_20261121_165513,Expertcarrot,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-21T08:07:09Z,HumanCOIN/l1_retail_store_organize_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; organize_task
+2026-11-21T08:07:38Z,YunBeen1205/pnp_cube6_20261121_170635,YunBeen1205,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:08:41Z,Ehdgksl12/pnp_bluecube_F_20261121_170547,Ehdgksl12,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T08:08:42Z,g1n0st/c46ccc7884222dbd5c40fee7d02ee452169c5674,g1n0st,0,0,region:us
+2026-11-21T08:08:42Z,binhvo28251/beech,binhvo28251,0,0,region:us
+2026-11-21T08:09:35Z,Tommy-Bie/Mammo_test_data,Tommy-Bie,0,0,region:us
+2026-11-21T08:09:47Z,vnpornads/cdn-hls-47,vnpornads,0,0,region:us
+2026-11-21T08:09:57Z,Jakjakakaj/CSVsorucevap,Jakjakakaj,0,1,license:apache-2.0; region:us
+2026-11-21T08:10:03Z,trangho32677/pier,trangho32677,0,0,region:us
+2026-11-21T08:10:39Z,g1n0st/a97cf1930b616a6c2f5e933c75b65882738bf55f,g1n0st,0,0,region:us
+2026-11-21T08:12:18Z,anbui66428/nadir,anbui66428,0,0,region:us
+2026-11-21T08:12:57Z,sadafhjkj/Annoy-PyEdu-Rs-Raw,sadafhjkj,0,0,region:us
+2026-11-21T08:12:57Z,sadafhjkj/Annoy-PyEdu-Rs,sadafhjkj,0,0,region:us
+2026-11-21T08:13:42Z,g1n0st/82fd7753a44533ae298efd6556cc1f3549dd780b,g1n0st,0,0,region:us
+2026-11-21T08:13:50Z,tuando47194/rotor,tuando47194,0,0,region:us
+2026-11-21T08:14:11Z,w3joe/hypercast-multilayer-10ds-benchmark,w3joe,0,0,task_categories:time-series-forecasting; license:apache-2.0; size_categories:1K<n<10K; region:us; time-series; forecasting; hypercomplex; quaternion; octonion; clifford-algebra; tslib; benchmark; hyp…
+2026-11-21T08:14:12Z,HumanCOIN/l1_retail_store_organize_task_1920x1456_30fps_2views,HumanCOIN,0,0,region:us
+2026-11-21T08:14:37Z,DSAD123GFTQ/Annoy-PyEdu-Rs,DSAD123GFTQ,0,0,region:us
+2026-11-21T08:14:38Z,DSAD123GFTQ/Annoy-PyEdu-Rs-Raw,DSAD123GFTQ,0,0,region:us
+2026-11-21T08:15:16Z,safafaf67/Annoy-PyEdu-Rs,safafaf67,0,0,region:us
+2026-11-21T08:15:16Z,safafaf67/Annoy-PyEdu-Rs-Raw,safafaf67,0,0,region:us
+2026-11-21T08:15:50Z,jms0404/red_cube17,jms0404,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-21T08:16:30Z,belztjti/1111,belztjti,0,0,region:us
+2026-11-21T08:16:32Z,khoavu70878/olive,khoavu70878,0,0,region:us
+2026-11-21T08:16:49Z,ASCXZ12EDXSA/Annoy-PyEdu-Rs,ASCXZ12EDXSA,0,0,region:us
+2026-11-21T08:16:50Z,ASCXZ12EDXSA/Annoy-PyEdu-Rs-Raw,ASCXZ12EDXSA,0,0,region:us
+2026-11-21T08:17:35Z,sad1dasd12szsads/Annoy-PyEdu-Rs,sad1dasd12szsads,0,0,region:us
+2026-11-21T08:17:35Z,sad1dasd12szsads/Annoy-PyEdu-Rs-Raw,sad1dasd12szsads,0,0,region:us
+2026-11-21T08:17:37Z,g1n0st/f6756837d793d4b76411d3388db9b64d9e1f3515,g1n0st,0,0,region:us
+2026-11-21T08:17:55Z,loverretread/Annoy-PyEdu-Rs-Raw,loverretread,0,0,region:us
+2026-11-21T08:17:55Z,loverretread/Annoy-PyEdu-Rs,loverretread,0,0,region:us
+2026-11-21T08:18:40Z,jms0404/red_cube,jms0404,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-21T08:19:16Z,belztjti/0000,belztjti,0,0,region:us
+2026-11-21T08:19:31Z,yentran72182/cheetah,yentran72182,0,0,region:us
