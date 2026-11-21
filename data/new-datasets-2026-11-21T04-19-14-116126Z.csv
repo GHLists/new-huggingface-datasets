@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-21T03:20:07Z,thinhnguyen92180/pine,thinhnguyen92180,0,0,region:us
+2026-11-21T03:21:19Z,Silalias/the-useful-internet,Silalias,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; web-corpus; data-quality; retrieval
+2026-11-21T03:21:36Z,kienhoang33390/convoy,kienhoang33390,0,0,region:us
+2026-11-21T03:23:14Z,etanaisrael/mis752-bonus-one-question,etanaisrael,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mis-752; bonus
+2026-11-21T03:24:21Z,khanhtran51568/hubble,khanhtran51568,0,0,region:us
+2026-11-21T03:25:42Z,dunghuynh4052/sequoia,dunghuynh4052,0,0,region:us
+2026-11-21T03:27:03Z,phathoang92157/reed,phathoang92157,0,0,region:us
+2026-11-21T03:27:15Z,vnpornads/cdn-hls-34,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-21T03:27:22Z,g1n0st/ff1eefa0f58a2688a595d065094ed99767fd856f,g1n0st,0,0,region:us
+2026-11-21T03:28:05Z,migueldbsfnz/ncm-tok1,migueldbsfnz,0,0,region:us
+2026-11-21T03:29:03Z,tuando92975/cockpit,tuando92975,0,0,region:us
+2026-11-21T03:30:02Z,g1n0st/d4dbf48acf105c7a1030c97a11f09772d2383c14,g1n0st,0,0,region:us
+2026-11-21T03:30:50Z,cuongduong49339/polaris,cuongduong49339,0,0,region:us
+2026-11-21T03:32:30Z,cuongtran64335/lotus,cuongtran64335,0,0,region:us
+2026-11-21T03:33:35Z,nganhuynh52508/sirius,nganhuynh52508,0,0,region:us
+2026-11-21T03:35:05Z,dungho93286/darkenergy,dungho93286,0,0,region:us
+2026-11-21T03:36:30Z,phatbui13617/crystal,phatbui13617,0,0,region:us
+2026-11-21T03:37:40Z,dungvo38830/hydrosphere,dungvo38830,0,0,region:us
+2026-11-21T03:37:51Z,g1n0st/2c5436ae14d5be08c6d411303225a795e3cbb27a,g1n0st,0,0,region:us
+2026-11-21T03:38:15Z,paini11/hf-chat-traces,paini11,0,0,region:us; agent-traces; format:agent-traces; traces
+2026-11-21T03:38:46Z,masstensor/InWeight-OS-MultiSkill-Benchmark,masstensor,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:json; modality:document; modality:text; library:datasets; library:pandas; l…
+2026-11-21T03:39:01Z,linhbui54065/rover,linhbui54065,0,0,region:us
+2026-11-21T03:39:43Z,SAD123SA/Annoy-PyEdu-Rs,SAD123SA,0,0,region:us
+2026-11-21T03:39:44Z,SAD123SA/Annoy-PyEdu-Rs-Raw,SAD123SA,0,0,region:us
+2026-11-21T03:39:45Z,wsdefgad/Annoy-PyEdu-Rs,wsdefgad,0,0,region:us
+2026-11-21T03:39:46Z,wsdefgad/Annoy-PyEdu-Rs-Raw,wsdefgad,0,0,region:us
+2026-11-21T03:40:12Z,datvo60908/coupe,datvo60908,0,0,region:us
+2026-11-21T03:41:36Z,thaoho20695/charon,thaoho20695,0,0,region:us
+2026-11-21T03:43:03Z,trangduong19358/sycamore,trangduong19358,0,0,region:us
+2026-11-21T03:43:14Z,Missing-texter/Korean-picture-illerst,Missing-texter,0,1,language:ko; license:cc0-1.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; Illerst; Picture; Art; Freedomain; Bird; Bug; Meta
+2026-11-21T03:44:13Z,thanhle90697/void,thanhle90697,0,0,region:us
+2026-11-21T03:44:37Z,Abhay-Anand-04/prompt-injection-mixed-50m-v6,Abhay-Anand-04,0,0,task_categories:text-classification; task_categories:token-classification; language:en; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-11-21T03:47:01Z,dhairyapandya/indic-rl-transfer-evals,dhairyapandya,0,0,language:en; language:bn; language:te; language:sw; license:apache-2.0; region:us; mgsm; evaluation; grpo
+2026-11-21T03:48:38Z,moekahok/shelter-lifesaving-by-state,moekahok,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T03:49:04Z,moekahok/cost-of-staying-home-by-state,moekahok,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-21T03:49:22Z,moekahok/us-migration-corridors,moekahok,0,0,license:cc-by-4.0; region:us
+2026-11-21T03:50:35Z,vnpornads/cdn-hls-35,vnpornads,0,0,region:us
+2026-11-21T03:51:10Z,migueldbsfnz/ncm-gen5dense,migueldbsfnz,0,0,region:us
+2026-11-21T03:51:27Z,trangngo77564/fjord,trangngo77564,0,0,region:us
+2026-11-21T03:54:34Z,khoango20711/zeppelin,khoango20711,0,0,region:us
+2026-11-21T03:55:55Z,mattyxcakes/afriat-bench,mattyxcakes,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; li…
+2026-11-21T03:56:22Z,qap0310/leaf-image-cbir,qap0310,0,0,region:us
+2026-11-21T03:56:33Z,g1n0st/b82a0eae6b2612d16c9e0c35c5daeed4df58775e,g1n0st,0,0,region:us
+2026-11-21T03:57:13Z,AutoRLBench/armnet_c01-dit-20261120d-r4_train_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-21T03:58:03Z,g1n0st/cb2854696c5205ced958e152dbd09bf5dde63702,g1n0st,0,0,region:us
+2026-11-21T04:00:02Z,ofdirectory/onlyfans-niche-vs-country-mix-2026-10-20,ofdirectory,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; creator-economy; pricing; subscriptions; statistics; standardisation; not-for-all-audiences
+2026-11-21T04:00:02Z,zyhovo/Annoy-PyEdu-Rs,zyhovo,0,0,region:us
+2026-11-21T04:00:02Z,zyhovo/Annoy-PyEdu-Rs-Raw,zyhovo,0,0,region:us
+2026-11-21T04:02:01Z,VanyaJ/agent-skills,VanyaJ,0,0,license:mit; region:us; agent-skills; antigravity; claude-code; opencode; red-team
+2026-11-21T04:02:22Z,MagmaStudios/Ultimate-Gehoban-Trainer,MagmaStudios,0,0,language:es; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; conversational; instr…
+2026-11-21T04:03:29Z,ITLL/Fable-5.1-Max-Reasoning-Filtered-10000x,ITLL,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library…
+2026-11-21T04:03:46Z,itsdhruvsetty/spde-gmrf-lane-perception-vectors,itsdhruvsetty,0,0,task_categories:time-series-forecasting; language:en; license:mit; size_categories:1K<n<10K; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-11-21T04:04:15Z,ITLL/mimo-claude-code-traces-1k,ITLL,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:other; language:en; license:mit; size_categories:1K<n<10K; format:json; format:agent-traces; modality:tabular; mod…
+2026-11-21T04:05:24Z,superciccio30000000/sicily24-media,superciccio30000000,0,0,license:apache-2.0; region:us
+2026-11-21T04:05:27Z,ITLL/Superior-Reasoning-SFT-gpt-oss-120b,ITLL,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:26…
+2026-11-21T04:06:10Z,ITLL/AM-DeepSeek-R1-Distilled-1.4M,ITLL,0,0,task_categories:text-generation; language:zh; language:en; license:cc-by-nc-4.0; size_categories:1M<n<10M; arxiv:2503.19633; region:us; code; math; reasoning; thinking; deepseek-r1; distill
+2026-11-21T04:06:40Z,ITLL/AM-DeepSeek-Distilled-40M,ITLL,0,0,task_categories:text-generation; language:zh; language:en; license:cc-by-nc-4.0; arxiv:2504.17565; region:us; code; math; science; instruction follow; reasoning; thinking; deepseek-r1; distill
+2026-11-21T04:07:04Z,ITLL/fable-5-sft-traces,ITLL,0,0,task_categories:text-generation; language:en; license:agpl-3.0; size_categories:1K<n<10K; region:us; agentic; reasoning; chain-of-thought; function-calling; tool-use; tool-calling; distillation; clau…
+2026-11-21T04:07:38Z,ITLL/gpt-5.6-sol-coding-and-debugging-traces,ITLL,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; traces; code; agentic; tool-use; coding-agent; openai; code…
+2026-11-21T04:07:43Z,swedishembedded/vim-headless-mastery-sft,swedishembedded,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:harbor; r…
+2026-11-21T04:07:57Z,ITLL/kimi-k3-coding-and-debugging-traces,ITLL,0,0,task_categories:text-generation; annotations_creators:machine-generated; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; traces; code; agentic; tool-use; coding-agent; coding-age…
+2026-11-21T04:08:39Z,g1n0st/4e92fc1b37acde2363c021ca6d7b63c667082ee1,g1n0st,0,0,region:us
+2026-11-21T04:08:42Z,ITLL/DeepSeek-V4-Pro-Distilled-200K,ITLL,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; license:cc-by-sa-4.0; size_categories:100K<n<1M; region:us; deepseek-v4-pro; max-mode; knowledge-distillation; reasoning; chain-of-tho…
+2026-11-21T04:09:02Z,migueldbsfnz/ncm-gen5fullar,migueldbsfnz,0,0,region:us
+2026-11-21T04:09:02Z,ITLL/GLM-5.1-Reasoning-1M-Cleaned,ITLL,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:zh; license:apache-2.0; size_categories:100K<n<1M; region:us; reasoning; chain-of-thought; instruction-tunin…
+2026-11-21T04:09:21Z,podolinsky/libero-x-level123-vlajepa,podolinsky,0,0,task_categories:robotics; license:cc-by-4.0; arxiv:2602.10098; arxiv:2602.06556; arxiv:2611.08425; region:us; LeRobot; robotics; imitation-learning; libero; libero-x; vla-jepa; manipulation
+2026-11-21T04:09:58Z,ITLL/DeepSeek-V4-Distill-8000x,ITLL,0,0,task_categories:text-generation; source_datasets:Jackrong/GLM-5.1-Reasoning-1M-Cleaned; language:en; license:mit; size_categories:1K<n<10K; region:us; reasoning; distillation; supervised-fine-tuning;…
+2026-11-21T04:10:10Z,TrainSpeedTest/train-speed-test,TrainSpeedTest,0,0,region:us
+2026-11-21T04:10:51Z,meixiu/Annoy-PyEdu-Rs-Raw,meixiu,0,0,region:us
+2026-11-21T04:10:51Z,meixiu/Annoy-PyEdu-Rs,meixiu,0,0,region:us
+2026-11-21T04:11:19Z,migueldbsfnz/ncm-gen5pyr,migueldbsfnz,0,0,region:us
+2026-11-21T04:11:40Z,ITLL/Qwen3.8-27B-Distillation-40K,ITLL,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us; distillation; qwen3.8; qwen3.8-27b; sft; reasoning; synthetic; code; math; qwen; thinking; cha…
+2026-11-21T04:12:00Z,WithinUsAI/recursive-latent-reasoning,WithinUsAI,0,0,task_categories:other; license:mit; region:us; reasoning; crystal-generation; inverse-design; sudoku; arc-agi
+2026-11-21T04:12:24Z,vnpornads/cdn-hls-36,vnpornads,0,0,region:us
+2026-11-21T04:12:33Z,ITLL/kimi-k3-distillation,ITLL,0,0,task_categories:text-generation; language:en; language:zh; license:other; size_categories:1K<n<10K; region:us; distillation; sft; reasoning; tool-use; multi-turn; kimi-k3
+2026-11-21T04:12:37Z,Purple-SY/pick_place_L_11_21_F01_EX,Purple-SY,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx; left-arm; pick-place; floor-1; sorting-spot
+2026-11-21T04:12:53Z,riman-org/riman-de-giant-byoungpool-anti-aging-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-21T04:13:16Z,ITLL/fable-5-premium-v2,ITLL,0,0,task_categories:text-generation; task_categories:token-classification; language:en; license:mit; size_categories:10K<n<100K; region:us; fable-5; claude; agent-traces; coding; tool-use; sft; fine-tuni…
+2026-11-21T04:14:08Z,Purple-SY/pick_place_L_11_21_F02_EX,Purple-SY,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx; left-arm; pick-place; floor-2; sorting-spot
+2026-11-21T04:14:18Z,Tonic/unified-drone-acoustic-cuas,Tonic,0,0,region:us
+2026-11-21T04:15:35Z,Purple-SY/pick_place_L_11_21_F03_EX,Purple-SY,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx; left-arm; pick-place; floor-3; sorting-spot
+2026-11-21T04:16:00Z,riman-org/riman-ec-vieton-multi-stick-balm-dropship-cold-start,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-21T04:16:17Z,AutoRLBench/armnet_c03-dit-20261120d-r4_train_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-21T04:17:37Z,zmze/debian-virtualbox-templates,zmze,0,0,region:us
+2026-11-21T04:18:33Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-11-21T04:18:34Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-11-21T04:18:45Z,dfsfg5657/Annoy-PyEdu-Rs,dfsfg5657,0,0,region:us
+2026-11-21T04:18:46Z,dfsfg5657/Annoy-PyEdu-Rs-Raw,dfsfg5657,0,0,region:us
