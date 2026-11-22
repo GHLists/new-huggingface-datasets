@@ -1,0 +1,88 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-22T04:22:47Z,vnpornads/cdn-hls-104,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-22T04:23:29Z,shuren2/20261122-Stella-1_20261122_120004,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-22T04:23:57Z,abigailhaddad/gsa-federal-lease-inventory,abigailhaddad,0,0,license:cc0-1.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:24:31Z,TristanDo/tvbox-update,TristanDo,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:26:04Z,Protodesign/imagery_problems,Protodesign,0,0,task_categories:image-classification; task_categories:unconditional-image-generation; language:en; license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlc…
+2026-11-22T04:27:22Z,Human-Convs/Bluesky-Lithuanian-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:27:46Z,riman-org/riman-fr-incellderm-beauty-set-stay-spray-post-procedure-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-22T04:28:35Z,wkrfugs/calligen-extractor-handwriting-v2,wkrfugs,0,0,language:zh; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:28:53Z,riman-org/riman-fr-incellderm-dermatology-first-package-ex-microclimate-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-22T04:29:56Z,riman-org/riman-fr-propolis-biosome-pro-post-procedure-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-22T04:30:33Z,shuren2/ky1-2026.11.22_20261122_122438,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T04:31:01Z,riman-org/riman-hk-botalab-deserticola-shampoo-anti-aging-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulation
+2026-11-22T04:31:30Z,MstJeon410/cooling_project,MstJeon410,0,0,region:us
+2026-11-22T04:31:37Z,tc-huang-mahjong/act_mahjong_v1_tray01_red_eval_chunkexec1,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; li…
+2026-11-22T04:31:37Z,abigailhaddad/gao-open-recommendations,abigailhaddad,0,0,language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; government; gao; oversight; audi…
+2026-11-22T04:32:21Z,riman-org/riman-hk-botalab-suamel-nourishing-body-cream-regulatory-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; regulatory; descending-inci; cosmetic-formulation
+2026-11-22T04:32:22Z,Noxia6694/Arcane,Noxia6694,0,0,region:us
+2026-11-22T04:33:07Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g7_run1,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:34:54Z,abigailhaddad/doi-oig-open-recommendations,abigailhaddad,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; government; interior; doi; oig;…
+2026-11-22T04:36:21Z,VL-Data-3/eval_annot_qa_part2,VL-Data-3,0,0,task_categories:visual-question-answering; license:other; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; r…
+2026-11-22T04:36:24Z,VL-Data-3/wordnet_annot_qa_part2,VL-Data-3,0,0,task_categories:visual-question-answering; license:other; region:us
+2026-11-22T04:37:11Z,mondk/Harness-Readiness-Benchmark,mondk,0,0,language:en; license:mit; size_categories:n<1K; region:us; harness; benchmark
+2026-11-22T04:37:53Z,Rahil2212/hr-policies-qa-dataset,Rahil2212,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; hr; policies; compliance; qa; synthetic-d…
+2026-11-22T04:39:11Z,Noxia6694/Cap,Noxia6694,0,0,region:us
+2026-11-22T04:39:16Z,Human-Convs/Bluesky-Dutch-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:39:19Z,HumanCOIN/l3_dining_room_organize_trash_left_1920x1184_30fps_11views_eeg128_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-11-22T04:40:38Z,Seed-Saver6/ai-female-representation-disclaimer,Seed-Saver6,0,0,region:us
+2026-11-22T04:41:48Z,nassimjp/Open-Seed-Bank,nassimjp,0,0,task_categories:question-answering; task_categories:text-generation; language:ps; license:cc-by-4.0; size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; library…
+2026-11-22T04:43:18Z,Noxia6694/Momo,Noxia6694,0,0,region:us
+2026-11-22T04:44:24Z,vnpornads/cdn-hls-105,vnpornads,0,0,region:us
+2026-11-22T04:44:30Z,UltraMedpain/ai-fusion-inbox,UltraMedpain,0,0,region:us
+2026-11-22T04:45:03Z,Ericu950/cuneiform-stoicheia-library,Ericu950,0,0,language:sux; language:akk; language:hit; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-22T04:45:12Z,Human-Convs/Bluesky-Polish-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:45:46Z,albertbn/alpaca-iex-raw-trades-2026-11-16,albertbn,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; finance; market-data; parquet; alpaca; iex
+2026-11-22T04:45:54Z,albertbn/alpaca-iex-raw-quotes-2026-11-16,albertbn,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; finance; market-data; parquet; alpaca; iex
+2026-11-22T04:47:06Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-11-22T04:47:09Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-11-22T04:48:29Z,SOTAagi2030/harbor-city-311-north,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:48:31Z,SOTAagi2030/harbor-city-311-south,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:48:33Z,SOTAagi2030/harbor-city-311-port,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:48:51Z,dineshcode5/Crop_Disease_Images,dineshcode5,0,0,task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T04:49:28Z,sejzu0123/d88eb86f-7277-4c41-adab-a1a7ec7acb0e,sejzu0123,0,0,region:us
+2026-11-22T04:49:30Z,shuren2/1122_all,shuren2,0,0,region:us
+2026-11-22T04:49:33Z,tc-huang-mahjong/act_mahjong_v1_rack01_red_eval_chunkexec1,tc-huang-mahjong,0,0,task_categories:robotics; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; li…
+2026-11-22T04:50:34Z,yasiz/ALE-Source-Files,yasiz,0,0,size_categories:n<1K; format:json; modality:3d; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:50:37Z,shuren2/CZX-GreyCubeIV_20261122_121701,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T04:50:50Z,Noxia6694/Upscale,Noxia6694,0,0,region:us
+2026-11-22T04:51:00Z,HumanCOIN/l3_dining_room_place_kitchenware_left_1920x1184_30fps_11views_eeg128_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-11-22T04:51:19Z,Human-Convs/Bluesky-Portuguese-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:53:09Z,phatphan54692/monsoon,phatphan54692,0,0,region:us
+2026-11-22T04:53:43Z,pengyue-polaron/contactvla-g1-interactions,pengyue-polaron,0,0,task_categories:robotics; language:en; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-11-22T04:53:53Z,YuqinDay/facility-relocation-sample,YuqinDay,0,0,region:us
+2026-11-22T04:54:26Z,thinhdang59328/alluvial,thinhdang59328,0,0,region:us
+2026-11-22T04:54:35Z,Noxia6694/Fssf,Noxia6694,0,0,region:us
+2026-11-22T04:55:19Z,Mramasu/hotpotqa-distractor,Mramasu,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-22T04:55:45Z,Dario-Shit0/dataset-8e1a059ed5c16330e203f44842b72515,Dario-Shit0,0,0,region:us
+2026-11-22T04:55:45Z,Dario-Shit0/dataset-b45dc64d429856bd52a78ab7b9ac1793,Dario-Shit0,0,0,region:us
+2026-11-22T04:55:50Z,posterllava/dataset,posterllava,0,0,license:apache-2.0; region:us
+2026-11-22T04:57:11Z,Human-Convs/Bluesky-Romanian-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T04:57:21Z,phuongdo36262/petal,phuongdo36262,0,0,region:us
+2026-11-22T04:58:31Z,kiyu705/so101_pick_place_20261122_135527,kiyu705,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T04:58:49Z,anhpham39783/leaf,anhpham39783,0,0,region:us
+2026-11-22T04:59:44Z,asd1cxzq12eds/Annoy-PyEdu-Rs,asd1cxzq12eds,0,0,region:us
+2026-11-22T04:59:44Z,adqfxad/Annoy-PyEdu-Rs,adqfxad,0,0,region:us
+2026-11-22T04:59:45Z,adqfxad/Annoy-PyEdu-Rs-Raw,adqfxad,0,0,region:us
+2026-11-22T04:59:45Z,asd1cxzq12eds/Annoy-PyEdu-Rs-Raw,asd1cxzq12eds,0,0,region:us
+2026-11-22T05:00:36Z,Tortuganeitor/SO101_ACT_Merged_Dataset,Tortuganeitor,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-22T05:01:18Z,YunzeZhou/YunzeZhou_FirstDataset,YunzeZhou,0,0,region:us
+2026-11-22T05:02:43Z,HumanCOIN/l3_dining_room_place_kitchenware_left_1920x1184_30fps_11views_eeg32_emg8,HumanCOIN,0,0,region:us
+2026-11-22T05:02:55Z,Human-Convs/Bluesky-Slovak-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T05:04:27Z,zzlmgg/Quant_DataLake,zzlmgg,0,0,region:us
+2026-11-22T05:05:10Z,vnpornads/cdn-hls-106,vnpornads,0,0,region:us
+2026-11-22T05:06:13Z,hlproject/Trail_1_SnowS101_20261121_205955,hlproject,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-22T05:07:15Z,CrooningMoon/muse-zhang-launch,CrooningMoon,0,0,region:us
+2026-11-22T05:08:45Z,Human-Convs/Bluesky-Slovenian-Multi-Turn-Conversations,Human-Convs,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T05:08:58Z,MinhDuk/halogen_20261122_115823,MinhDuk,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T05:09:16Z,437aewuh/polydown-4k,437aewuh,0,0,region:us
+2026-11-22T05:11:47Z,dominexmacedon/greenServeFE-programming-language-archived,dominexmacedon,0,0,region:us
+2026-11-22T05:12:50Z,sdfasf43534/s934cve17741,sdfasf43534,0,0,region:us
+2026-11-22T05:13:16Z,ma-pmo/jira-sprint-delivery,ma-pmo,0,0,task_categories:tabular-classification; source_datasets:extended|other-public-jira-dataset; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; project-management; agile; scrum; spr…
+2026-11-22T05:14:50Z,Human-Convs/Bluesky-Swedish-Multi-Turn-Conversations,Human-Convs,0,0,region:us
+2026-11-22T05:15:12Z,kiyu705/so101_pick_place_20261122_141206,kiyu705,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-22T05:18:00Z,itsmeanshu/reference-pronoun,itsmeanshu,0,0,region:us
+2026-11-22T05:19:16Z,shuren2/CZX-GreyCubeVIII_20261122_131338,shuren2,0,0,region:us
+2026-11-22T05:20:32Z,Human-Convs/Bluesky-Czech-Multi-Turn-Conversations,Human-Convs,0,0,region:us
+2026-11-22T05:20:32Z,VL-Data-4/scanned_docs_nara_1940_census_part4,VL-Data-4,0,0,task_categories:image-to-text; license:other; modality:document; region:us; ocr; document; scanned-documents; unlabeled
+2026-11-22T05:20:36Z,VL-Data-4/scanned_docs_nara_catalog_part1,VL-Data-4,0,0,task_categories:image-to-text; license:other; modality:document; region:us; ocr; document; scanned-documents; unlabeled
