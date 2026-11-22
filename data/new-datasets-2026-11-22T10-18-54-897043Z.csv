@@ -1,0 +1,114 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-22T09:21:30Z,HumanCOIN/l2_study_room_stick_chapter_tabs_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L2; egocentric; multi-sensor; stick_chapter_tabs
+2026-11-22T09:22:45Z,brouthen/microduck-football-obstacles-camera,brouthen,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:22:54Z,shuren2/zhaq,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-22T09:22:57Z,HumanCOIN/l1_indoor_sports_venue_polish_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; polish_task
+2026-11-22T09:23:04Z,HumanCOIN/l2_study_room_trim_pencil_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L2; egocentric; multi-sensor; trim_pencil
+2026-11-22T09:23:21Z,HumanCOIN/l1_indoor_sports_venue_store_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; store_task
+2026-11-22T09:23:38Z,wqBro/rs,wqBro,0,0,region:us
+2026-11-22T09:24:19Z,HumanCOIN/l1_industrial_warehouse_clean_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; clean_task
+2026-11-22T09:24:32Z,steinwang/gsm8k-harbor,steinwang,0,0,language:en; license:mit; size_categories:n<1K; library:harbor; arxiv:2110.14168; region:us; harbor; benchmark; math-word-problems; agent-evaluation
+2026-11-22T09:25:17Z,AthenaLabs-Tetsu/athena-cad-edit-v1,AthenaLabs-Tetsu,0,0,task_categories:text-generation; language:en; language:ru; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-11-22T09:25:33Z,introvoyz04/nomad-perovskite-solar-cells-database,introvoyz04,0,0,license:mit; region:us
+2026-11-22T09:25:42Z,HumanCOIN/l1_industrial_warehouse_open_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; open_task
+2026-11-22T09:26:11Z,rcc12/experiments2,rcc12,0,0,region:us
+2026-11-22T09:26:27Z,HumanCOIN/l1_industrial_warehouse_pack_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; pack_task
+2026-11-22T09:26:32Z,lliedwin6171/social-dataset,lliedwin6171,0,0,license:mit; region:us; dataset; social; multimodal3
+2026-11-22T09:27:48Z,HumanCOIN/l1_industrial_warehouse_replace_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; replace_task
+2026-11-22T09:27:59Z,AI-HFace/amazon-reviews-curated3cats-u2023-Lite_prompts,AI-HFace,0,0,license:mit; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T09:28:23Z,HumanCOIN/l1_industrial_warehouse_secure_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-22T09:28:58Z,HumanCOIN/l2_study_room_wipe_eyeglasses_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L2; egocentric; multi-sensor; wipe_eyeglasses
+2026-11-22T09:33:07Z,rsj2003/Result,rsj2003,0,0,language:en; language:zh; modality:video; region:us; robotics; franka; real-robot; evaluation-recordings
+2026-11-22T09:33:14Z,shuren2/wangxh_white_20261122_172852,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:33:27Z,Airavat-ai/consolidated-decision-data,Airavat-ai,0,0,task_categories:text-classification; task_categories:multiple-choice; language:en; license:other; size_categories:100K<n<1M; region:us; decision-making; multitask; choice; yes-no; score
+2026-11-22T09:33:49Z,oiviajane13/article,oiviajane13,0,0,region:us
+2026-11-22T09:34:47Z,Dangni/sweet-dream-banana,Dangni,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; simulation; mujoco; dream-1; yam;…
+2026-11-22T09:36:09Z,robinrrr10/gold-price,robinrrr10,0,0,task_categories:time-series-forecasting; language:en; license:cc0-1.0; size_categories:n<1K; region:us; finance; gold; time-series; india
+2026-11-22T09:36:30Z,Dangni/sweet-dream-apple,Dangni,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; robotics; simulation; mujoco; dream-1; yam;…
+2026-11-22T09:37:02Z,mindlarp/MindLarp-Larp-Dataset,mindlarp,0,0,license:apache-2.0; region:us
+2026-11-22T09:37:19Z,ShimSeungHwan01/2026NLP_simulation_research,ShimSeungHwan01,0,0,region:us
+2026-11-22T09:37:26Z,kwintenvh/regole-ia-tesi-atenei,kwintenvh,0,0,license:cc-by-4.0; region:us
+2026-11-22T09:37:34Z,vnpornads/cdn-hls-120,vnpornads,0,0,region:us
+2026-11-22T09:37:39Z,HumanCOIN/l2_workroom_assemble_pot_lid_handle_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L2; egocentric; multi-sensor; assemble_pot_lid_handle
+2026-11-22T09:39:14Z,fmemetaj-fusionbit/items_raw_full,fmemetaj-fusionbit,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-22T09:40:12Z,ramasecka224/jappagri-audio-wolof,ramasecka224,0,1,region:us
+2026-11-22T09:40:27Z,Azzindani/DE_LAWS_2611,Azzindani,0,0,task_categories:text-retrieval; task_categories:feature-extraction; task_categories:question-answering; language:de; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modali…
+2026-11-22T09:41:20Z,fmemetaj-fusionbit/items_raw_lite,fmemetaj-fusionbit,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T09:41:25Z,DONGDA/stak_hard_2_20261122_181337,DONGDA,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-22T09:41:46Z,hakami1024/wrappers_to_bin_v10_20261122_124023,hakami1024,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-22T09:42:09Z,yhjollin/Seed43_B16_Loop_4,yhjollin,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T09:42:27Z,HumanCOIN/l1_kitchen_fold_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; fold_task
+2026-11-22T09:43:18Z,HumanCOIN/l2_workroom_assemble_workpiece_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L2; egocentric; multi-sensor; assemble_workpiece
+2026-11-22T09:44:01Z,rufatronics/classvault-resources,rufatronics,0,0,license:mit; region:us
+2026-11-22T09:44:41Z,HumanCOIN/l1_kitchen_manipulation_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; manipulation_task
+2026-11-22T09:44:54Z,shuren2/wangxh_white2_20261122_174106,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:44:59Z,HumanCOIN/l1_kitchen_operate_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; operate_task
+2026-11-22T09:45:45Z,nhattuan3d/3d-models,nhattuan3d,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-11-22T09:45:48Z,sixujinzhu/riemann-replay-relay,sixujinzhu,0,0,license:other; region:us
+2026-11-22T09:46:45Z,huuhuyng/56-image-i88-results,huuhuyng,0,0,region:us
+2026-11-22T09:50:48Z,shuren2/D6_20261122_174905,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:51:00Z,sejzu0123/6627eb4d-54a5-462d-aa58-ba7afb6b439f,sejzu0123,0,0,region:us
+2026-11-22T09:51:12Z,FarhanFarsi/neyshekar-multitalker-pilot,FarhanFarsi,0,0,task_categories:automatic-speech-recognition; language:fa; license:cc0-1.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us;…
+2026-11-22T09:51:14Z,shuren2/wangxh_white3_20261122_174845,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:51:31Z,yadavvivekbury/simple-astronomy,yadavvivekbury,0,0,license:mit; region:us; dataset; astronomy; audio-text
+2026-11-22T09:51:38Z,Quincyyy/introds-m4,Quincyyy,0,0,language:en; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; arxiv; citations; latex; entity-resolution
+2026-11-22T09:51:56Z,linguanxin/CaveBench,linguanxin,0,0,task_categories:visual-question-answering; language:en; size_categories:10K<n<100K; region:us; physics; vision-language; abductive-reasoning
+2026-11-22T09:52:05Z,HumanCOIN/l2_workroom_check_workpiece_length_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L2; egocentric; multi-sensor; check_workpiece_length
+2026-11-22T09:52:22Z,GabriIT/pencilknife_20261122_174708,GabriIT,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:53:38Z,kejunpower/simready-assets-test,kejunpower,0,0,region:us
+2026-11-22T09:54:59Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g10_run1,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T09:56:10Z,shuren2/wangxh_white4_20261122_175359,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-22T09:57:01Z,apexinfrastructure369/APEX-FinAudit-Bench,apexinfrastructure369,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-22T09:58:00Z,vnpornads/cdn-hls-121,vnpornads,0,0,region:us
+2026-11-22T09:58:00Z,HumanCOIN/l3_study_room_clean_trash_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L3; egocentric; multi-sensor; clean_trash
+2026-11-22T09:58:13Z,Fasoninnautograph/fasoninnautographtest,Fasoninnautograph,0,0,region:us
+2026-11-22T09:58:31Z,baicai1145/g2ps-train-artifacts,baicai1145,0,0,region:us
+2026-11-22T09:59:18Z,HumanCOIN/l1_kitchen_store_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; store_task
+2026-11-22T10:00:22Z,Made-In-Alexandria-AI/ApexID-Dataset,Made-In-Alexandria-AI,0,0,task_categories:image-feature-extraction; task_categories:image-classification; language:en; license:other; size_categories:100K<n<1M; format:csv; modality:text; modality:image; library:datasets; lib…
+2026-11-22T10:00:48Z,HumanCOIN/l1_kitchen_store_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; store_task
+2026-11-22T10:01:00Z,nebula2wx/standard_3_4_red_pick_up_fluent_in_pencil_20261122_175300,nebula2wx,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-22T10:01:24Z,rectangleworm/pre-2022-amateur-photography,rectangleworm,0,0,region:us
+2026-11-22T10:01:51Z,HumanCOIN/l1_laboratory_secure_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; secure_task
+2026-11-22T10:02:16Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-22T10:02:17Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-22T10:02:26Z,GarethFW/Task_Analysis_for_Comparative_Accessibility_Evaluation_of_Internal_Systems,GarethFW,0,0,license:mit; region:us
+2026-11-22T10:02:53Z,Snowflake06/nckh3-storypoint-results,Snowflake06,0,0,region:us
+2026-11-22T10:03:17Z,Sojolbro/Bangla_trascriptions,Sojolbro,0,0,region:us
+2026-11-22T10:03:42Z,shuren2/ky-2_20261122_174145,shuren2,0,0,region:us
+2026-11-22T10:04:20Z,NidAll/moss-pup-qwen35-curated-12k,NidAll,0,0,task_categories:text-generation; license:apache-2.0; region:us; prompt-upsampling; qwen3_5; moss-image; deepseek-v4.1-flash-curated; abliteration-safe
+2026-11-22T10:04:37Z,Lara05/HGDFDJYD,Lara05,0,0,license:apache-2.0; region:us
+2026-11-22T10:05:01Z,PritRai75/finqa-label-audit,PritRai75,0,0,task_categories:question-answering; task_categories:table-question-answering; language:en; license:mit; size_categories:n<1K; region:us; finqa; label-noise; data-quality; financial-qa; numerical-reas…
+2026-11-22T10:05:02Z,OpenIntelligenceNet/Offensive-Cybersecurity,OpenIntelligenceNet,0,0,region:us
+2026-11-22T10:05:21Z,BH-Language-AI/bs-vision-fzs-train-v01,BH-Language-AI,0,0,task_categories:visual-question-answering; task_categories:image-text-to-text; language:bs; license:cc-by-4.0; region:us; bosnian; ocr; documents; bh-language-ai; fzs-derivative
+2026-11-22T10:05:59Z,HumanCOIN/l2_workroom_hang_tools_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L2; egocentric; multi-sensor; hang_tools
+2026-11-22T10:06:37Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-22T10:06:38Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-22T10:07:19Z,Mapetr/memtrain-v1,Mapetr,0,0,region:us
+2026-11-22T10:07:53Z,knight7024/rollout_diffusion_pick_and_place_hair_roll_final_20261122_185511,knight7024,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-22T10:08:05Z,Dawnknows/Synthetic_When-Where_Curriculum_SFT,Dawnknows,0,0,license:apache-2.0; region:us
+2026-11-22T10:08:45Z,Hazel549/outstanding-tiny-desk-template-workflow-intents,Hazel549,0,0,task_categories:text-classification; language:en; license:cc0-1.0; region:us
+2026-11-22T10:09:12Z,HumanCOIN/l2_workroom_organize_sandpaper_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L2; egocentric; multi-sensor; organize_sandpaper
+2026-11-22T10:10:48Z,DONGDA/stak_hard_3_20261122_184332,DONGDA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-22T10:12:22Z,HumanCOIN/l1_laundry_area_store_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; store_task
+2026-11-22T10:13:10Z,AntoineBourgois/goodreads-books-reviews,AntoineBourgois,0,0,task_categories:text-classification; language:en; license:unknown; size_categories:1M<n<10M; region:us; goodreads; book-reviews; recommendation; sentiment-analysis; rating-prediction; review-analysis…
+2026-11-22T10:14:30Z,HumanCOIN/l1_living_room_apply_task_1920x1456_30fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; apply_task
+2026-11-22T10:14:58Z,MinhDuk/halogen_20261122_141406,MinhDuk,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-22T10:15:21Z,HumanCOIN/l2_workroom_replace_battery_left_1920x1200_30fps_9views_emg8,HumanCOIN,0,0,region:us
+2026-11-22T10:15:34Z,HumanCOIN/l1_living_room_check_task_1920x1456_25fps_2views,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L1; egocentric; multi-sensor; check_task
+2026-11-22T10:15:41Z,Bob-the-Koala/basic-word-prose,Bob-the-Koala,0,0,language:bg; language:bn; language:bs; language:ca; language:cs; language:da; language:de; language:el; language:en; language:es; language:fi; language:fil; language:fr; language:hi; language:hr; lan…
+2026-11-22T10:16:16Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-22T10:16:18Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-22T10:16:57Z,HumanCOIN/l3_study_room_clean_whiteboard_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,region:us
+2026-11-22T10:17:07Z,emgena/openai_anthropic_tier_adaptive_rate_limiter_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agent-highway; zer…
+2026-11-22T10:17:21Z,shuren2/wxh_red_20261122_181315,shuren2,0,0,region:us
+2026-11-22T10:17:24Z,emgena/parallel_agent_concurrency_semaphore_guard_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agent-highway; zer…
+2026-11-22T10:17:27Z,emgena/upstream_api_burst_jitter_smoother_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agent-highway; zer…
+2026-11-22T10:17:44Z,emgena/cost_budget_velocity_governor_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agent-highway; zer…
+2026-11-22T10:17:46Z,emgena/sql_large_resultset_pagination_slicer_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; data; agent-highwa…
+2026-11-22T10:17:50Z,vnpornads/cdn-hls-122,vnpornads,0,0,region:us
+2026-11-22T10:18:04Z,emgena/web_scrape_dom_noise_stripper_slicer_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; data; agent-highwa…
+2026-11-22T10:18:07Z,emgena/git_diff_chunk_window_optimizer_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; devops; agent-high…
+2026-11-22T10:18:24Z,emgena/json_deep_nesting_flattener_pruner_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; data; agent-highwa…
+2026-11-22T10:18:26Z,emgena/multi_agent_ping_pong_loop_terminator_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentops; agent-hi…
+2026-11-22T10:18:29Z,emgena/tool_call_semantic_deduplication_breaker_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentops; agent-hi…
+2026-11-22T10:18:32Z,emgena/agent_infinite_reflection_chain_terminator_mcp_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; sre; ast-guard; apple-mlx; mac-ready; agentops; agent-hi…
