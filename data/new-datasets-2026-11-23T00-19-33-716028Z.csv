@@ -1,0 +1,46 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-22T23:22:10Z,EierkuchenHD/LostwaveDeutschland,EierkuchenHD,0,0,region:us
+2026-11-22T23:25:13Z,dasdsaasdewc/cachepoc7731,dasdsaasdewc,0,0,license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-22T23:25:37Z,dfdfdg5667/Annoy-PyEdu-Rs,dfdfdg5667,0,0,region:us
+2026-11-22T23:25:38Z,dfdfdg5667/Annoy-PyEdu-Rs-Raw,dfdfdg5667,0,0,region:us
+2026-11-22T23:25:57Z,safafaf311/Annoy-PyEdu-Rs,safafaf311,0,0,region:us
+2026-11-22T23:25:58Z,safafaf311/Annoy-PyEdu-Rs-Raw,safafaf311,0,0,region:us
+2026-11-22T23:26:32Z,SAD12ESZAE/Annoy-PyEdu-Rs,SAD12ESZAE,0,0,region:us
+2026-11-22T23:26:33Z,SAD12ESZAE/Annoy-PyEdu-Rs-Raw,SAD12ESZAE,0,0,region:us
+2026-11-22T23:26:37Z,sejzu0123/1b9d18e1-415e-4dbb-b5be-03c064d19c39,sejzu0123,0,0,region:us
+2026-11-22T23:27:27Z,sdsfsf56/Annoy-PyEdu-Rs,sdsfsf56,0,0,region:us
+2026-11-22T23:27:27Z,sdsfsf56/Annoy-PyEdu-Rs-Raw,sdsfsf56,0,0,region:us
+2026-11-22T23:28:53Z,luciaquirke/tmax-9b-v1.1-replication-query-gradients-t1,luciaquirke,0,0,license:apache-2.0; region:us; research-artifact; influence-functions
+2026-11-22T23:30:06Z,sejzu0123/2219b39e-4741-47f8-a78b-1887605fad21,sejzu0123,0,0,region:us
+2026-11-22T23:32:26Z,g1n0st/f15ae4a83e13fdd43610c436f24e61f8bd540aaf,g1n0st,0,0,region:us
+2026-11-22T23:32:54Z,QuestioningRetrieval/questioning-retrieval-answers,QuestioningRetrieval,0,0,task_categories:visual-question-answering; language:en; license:cc-by-nc-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; libra…
+2026-11-22T23:36:23Z,okonomi-inc/Oko-Erabu-400M-v0.1-decision-index,okonomi-inc,0,0,region:us; evaluation-results; decision-index
+2026-11-22T23:38:57Z,dongwei2001/Olivia-training-data,dongwei2001,0,0,language:en; license:cc-by-4.0; region:us
+2026-11-22T23:39:16Z,agency-fund/gshealth-armman,agency-fund,0,0,language:en; language:hi; language:te; license:cc-by-4.0; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us; health; benchmark; global-south; llm-evaluation; m…
+2026-11-22T23:40:41Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs,DSA1DSA12EDSA,0,0,region:us
+2026-11-22T23:40:42Z,DSA1DSA12EDSA/Annoy-PyEdu-Rs-Raw,DSA1DSA12EDSA,0,0,region:us
+2026-11-22T23:41:26Z,mrsergazinov/lightgbm-prep-fte-results,mrsergazinov,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; tabular; benchmark; tabarena
+2026-11-22T23:42:43Z,pkwenda/winklingo-youtube-spoken-expressions-sample,pkwenda,0,0,task_categories:text-retrieval; language:en; language:zh; language:ja; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; spoken-english; youtube-transcripts; phrase-search; language-le…
+2026-11-22T23:44:48Z,brandonmusic/GLM-5.3-Flash-BF16-Nemotron-100M-Teacher-Logits,brandonmusic,0,0,task_categories:text-generation; language:en; language:ja; license:mit; region:us; knowledge-distillation; teacher-logits; glm-5.3-flash; kld; nemotron
+2026-11-22T23:50:11Z,DCZX1CA/Annoy-PyEdu-Rs,DCZX1CA,0,0,region:us
+2026-11-22T23:50:41Z,DCZX1CA/Annoy-PyEdu-Rs-Raw,DCZX1CA,0,0,region:us
+2026-11-22T23:51:29Z,ItsCuzzz/OCR,ItsCuzzz,0,0,region:us
+2026-11-22T23:52:23Z,srikarxyz/500000-nl2bash,srikarxyz,0,0,task_categories:text-generation; language:en; license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; b…
+2026-11-22T23:56:18Z,HumanCOIN/l3_workroom_assemble_rack_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,region:us
+2026-11-22T23:56:43Z,beketov027/ingot,beketov027,0,0,region:us
+2026-11-22T23:56:44Z,Willene/llm_courses_216,Willene,0,0,region:us
+2026-11-22T23:57:05Z,BeriaLabs/Inkling-2-Mini-gollum-RC1-card-assets,BeriaLabs,0,0,language:en; language:es; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T00:01:02Z,sejzu0123/68efa0d4-5703-44d4-8324-4b249d96c557,sejzu0123,0,0,region:us
+2026-11-23T00:01:38Z,agency-fund/gshealth-myna-mahila,agency-fund,0,0,language:en; language:hi; language:mr; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; sexual-reproductive-health
+2026-11-23T00:01:43Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t0.5_g6_run2,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T00:02:38Z,DSA1DSAD1D/Annoy-PyEdu-Rs,DSA1DSAD1D,0,0,region:us
+2026-11-23T00:02:39Z,DSA1DSAD1D/Annoy-PyEdu-Rs-Raw,DSA1DSAD1D,0,0,region:us
+2026-11-23T00:06:46Z,ASD12DS1DAS/Annoy-PyEdu-Rs-Raw,ASD12DS1DAS,0,0,region:us
+2026-11-23T00:06:46Z,ASD12DS1DAS/Annoy-PyEdu-Rs,ASD12DS1DAS,0,0,region:us
+2026-11-23T00:10:38Z,Mayfull/Mimicgen-skillmix,Mayfull,0,0,region:us
+2026-11-23T00:11:55Z,agency-fund/gshealth-jacaranda-health,agency-fund,0,0,language:en; language:sw; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; maternal-health
+2026-11-23T00:13:46Z,liva-ai/sales-roleplay-samples,liva-ai,0,0,task_categories:automatic-speech-recognition; task_categories:audio-classification; language:en; region:us; conversational-speech; full-duplex; role-play; sales; separate-speaker-channels
+2026-11-23T00:15:54Z,sergioorestes/qwen38-27b-opencode-lora-8gb-report,sergioorestes,0,0,region:us; llama.cpp; gguf; lora; opencode; agents; quantization; local-inference
+2026-11-23T00:16:24Z,mj0jpgg/fateweave,mj0jpgg,0,0,region:us
+2026-11-23T00:16:39Z,TheodoraAdhara/Annoy-PyEdu-Rs,TheodoraAdhara,0,0,region:us
+2026-11-23T00:16:40Z,TheodoraAdhara/Annoy-PyEdu-Rs-Raw,TheodoraAdhara,0,0,region:us
