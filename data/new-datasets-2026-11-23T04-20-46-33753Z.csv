@@ -1,0 +1,116 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T03:21:06Z,magnooj/fracatlas-vlm-512,magnooj,0,0,task_categories:image-text-to-text; task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; li…
+2026-11-23T03:21:11Z,tanmay-starslab/simba-z0-web-0,tanmay-starslab,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; arxiv:1901.10203; region:us
+2026-11-23T03:21:32Z,kiendo59642/geode,kiendo59642,0,0,region:us
+2026-11-23T03:21:37Z,Backkh/PalmLeaf-VQA,Backkh,0,0,task_categories:visual-question-answering; language:en; arxiv:2609.31651; region:us; document-understanding; historical-manuscripts; palm-leaf-manuscripts
+2026-11-23T03:21:57Z,cancelantivirusguide/cancelantivirus-subscriptions-2026-11,cancelantivirusguide,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; antivirus; subscription-cancellation…
+2026-11-23T03:22:52Z,riman-org/riman-ie-incellderm-dermatology-first-package-ex-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-23T03:23:18Z,hi-todayis-jh/ouro-1.4b-base-math-verl-cross-context-rb-ragged-c0-rg-s2base-cfg3-168100-20261120-rollouts,hi-todayis-jh,0,0,task_categories:text-generation; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars;…
+2026-11-23T03:23:23Z,loverretread/Annoy-PyEdu-Rs,loverretread,0,0,region:us
+2026-11-23T03:23:24Z,loverretread/Annoy-PyEdu-Rs-Raw,loverretread,0,0,region:us
+2026-11-23T03:23:30Z,Seabook1111/EnhancedSockShopBench,Seabook1111,0,0,region:us
+2026-11-23T03:23:51Z,dunghoang39439/castor,dunghoang39439,0,0,region:us
+2026-11-23T03:23:58Z,zhangshuui/dlss-ultra-samples,zhangshuui,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:24:55Z,riman-org/riman-it-incellderm-calming-balance-gel-post-procedure-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-23T03:25:54Z,linhbui41472/tugboat,linhbui41472,0,0,region:us
+2026-11-23T03:26:51Z,ASD1EDSAC/Annoy-PyEdu-Rs,ASD1EDSAC,0,0,region:us
+2026-11-23T03:26:52Z,ASD1EDSAC/Annoy-PyEdu-Rs-Raw,ASD1EDSAC,0,0,region:us
+2026-11-23T03:26:54Z,SAVCBNNSDF/Annoy-PyEdu-Rs,SAVCBNNSDF,0,0,region:us
+2026-11-23T03:27:04Z,riman-org/riman-it-incellderm-calming-gel-regulatory-in-ci-trust-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; regulatory; descending-inci; cosmetic-formulation
+2026-11-23T03:27:23Z,sejzu0123/455105d2-26e9-4397-aee6-9c1417b6b88e,sejzu0123,0,0,region:us
+2026-11-23T03:27:25Z,SAVCBNNSDF/Annoy-PyEdu-Rs-Raw,SAVCBNNSDF,0,0,region:us
+2026-11-23T03:27:46Z,binhle63349/magma,binhle63349,0,0,region:us
+2026-11-23T03:29:11Z,riman-org/riman-it-incellderm-dermatology-first-package-ex-conversion-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-23T03:29:14Z,dathuynh69157/cobra,dathuynh69157,0,0,region:us
+2026-11-23T03:29:26Z,dasdsaasdewc/dssfetch404566,dasdsaasdewc,0,0,license:mit; region:us
+2026-11-23T03:29:54Z,sejzu0123/66eeccc6-99b6-4112-90fd-d3f0885d324b,sejzu0123,0,0,region:us
+2026-11-23T03:30:42Z,AutoRLBench/armnet_c01n-dsrl-20261122-ep400_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; l…
+2026-11-23T03:30:55Z,hieuphan48708/lunar,hieuphan48708,0,0,region:us
+2026-11-23T03:32:22Z,xuyun/egfr-residual-state-reproducibility,xuyun,0,0,region:us
+2026-11-23T03:33:24Z,phuongvo81989/cloud,phuongvo81989,0,0,region:us
+2026-11-23T03:34:20Z,vasudevdq0/FNSPID,vasudevdq0,0,0,arxiv:2402.06698; region:us
+2026-11-23T03:34:48Z,ChengYou305/DF3DV-Omega-Fixer-Org,ChengYou305,0,0,license:cc-by-nc-4.0; region:us
+2026-11-23T03:35:04Z,eduzrh/LNPBench,eduzrh,0,0,task_categories:graph-ml; task_categories:tabular-regression; language:en; license:mit; region:us; lipid-nanoparticle; LNP; mRNA-delivery; drug-delivery; molecular-property-prediction; benchmark
+2026-11-23T03:35:48Z,trangvo87585/feline,trangvo87585,0,0,region:us
+2026-11-23T03:36:06Z,vnpornads/cdn-hls-163,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:37:13Z,AbigailDavised/secret-santa-derangement-constraint-benchmarks,AbigailDavised,0,0,license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; secret-santa; derangement-algorithm; privacy-first; hol…
+2026-11-23T03:37:44Z,binhhoang51714/breeze,binhhoang51714,0,0,region:us
+2026-11-23T03:37:51Z,dusersad12/Annoy-PyEdu-Rs,dusersad12,0,0,region:us
+2026-11-23T03:37:51Z,dusersad12/Annoy-PyEdu-Rs-Raw,dusersad12,0,0,region:us
+2026-11-23T03:38:33Z,Sutoonq/drawio-sft-20261123,Sutoonq,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:39:08Z,RoboARC/RoboARC-ikea-assets,RoboARC,0,0,license:mit; license:apache-2.0; license:bsd-3-clause; size_categories:1K<n<10K; region:us; robotics; simulation; mujoco; benchmark
+2026-11-23T03:39:21Z,dungho27455/astrolabe,dungho27455,0,0,region:us
+2026-11-23T03:40:23Z,RoboARC/RoboARC-assets,RoboARC,0,0,license:cc-by-4.0; size_categories:10K<n<100K; region:us; robotics; simulation; mujoco; benchmark
+2026-11-23T03:40:50Z,agriculture-food-systems-ai/Instant-Noodle-Product-Catalog-Attribute-Extraction-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; instant noodle dataset; product attribute extraction;…
+2026-11-23T03:41:13Z,tanmay-starslab/public-sims-web-0,tanmay-starslab,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:41:19Z,asodka/loandb,asodka,0,0,language:ko; language:en; region:us; finance; korean; data-quality; data-validation; lead-generation
+2026-11-23T03:41:52Z,agriculture-food-systems-ai/Lobster-Aquaculture-Water-Quality-Causal-Reasoning-QA-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; lobster aquaculture dataset; water quality causal reas…
+2026-11-23T03:42:17Z,nganvo1448/darkmatter,nganvo1448,0,0,region:us
+2026-11-23T03:43:07Z,asd1cxzq12eds/Annoy-PyEdu-Rs,asd1cxzq12eds,0,0,region:us
+2026-11-23T03:43:10Z,asd1cxzq12eds/Annoy-PyEdu-Rs-Raw,asd1cxzq12eds,0,0,region:us
+2026-11-23T03:43:26Z,ZhenbangDu/catastrophic-cyber-misuse-parity,ZhenbangDu,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:43:39Z,sdadafdaf4546/Annoy-PyEdu-Rs,sdadafdaf4546,0,0,region:us
+2026-11-23T03:43:40Z,sdadafdaf4546/Annoy-PyEdu-Rs-Raw,sdadafdaf4546,0,0,region:us
+2026-11-23T03:44:40Z,vnpornads/cdn-hls-164,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T03:45:01Z,tuanhoang33100/canopy,tuanhoang33100,0,0,region:us
+2026-11-23T03:45:38Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g8_run2,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T03:46:31Z,trangle37684/heliosphere,trangle37684,0,0,region:us
+2026-11-23T03:47:11Z,escapebirdy/dvrk_peg_cam012_baseframe,escapebirdy,0,0,region:us
+2026-11-23T03:47:16Z,DSAC12DSA21E/Annoy-PyEdu-Rs,DSAC12DSA21E,0,0,region:us
+2026-11-23T03:47:17Z,DSAC12DSA21E/Annoy-PyEdu-Rs-Raw,DSAC12DSA21E,0,0,region:us
+2026-11-23T03:48:19Z,SDFASF43534/zqviewer7191,SDFASF43534,0,0,region:us
+2026-11-23T03:48:34Z,khanhvo44642/marsh,khanhvo44642,0,0,region:us
+2026-11-23T03:48:56Z,asdfasdf3435/zqviewer7191b,asdfasdf3435,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zq</script><img src=x onerror=window.__tag=1>
+2026-11-23T03:50:05Z,tuanho52111/wetland,tuanho52111,0,0,region:us
+2026-11-23T03:52:06Z,anhnguyen99723/fossil,anhnguyen99723,0,0,region:us
+2026-11-23T03:54:26Z,vnpornads/cdn-hls-165,vnpornads,0,0,region:us
+2026-11-23T03:55:27Z,ases200q2/UR10_RTDE_SpaceMouse_EE_pick_and_place_object_tabletop_demo_v3_d455_20261123-111956,ases200q2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-23T03:56:26Z,gekun/Annoy-PyEdu-Rs,gekun,0,0,region:us
+2026-11-23T03:56:27Z,gekun/Annoy-PyEdu-Rs-Raw,gekun,0,0,region:us
+2026-11-23T03:56:42Z,migueldbsfnz/ncm-flow,migueldbsfnz,0,0,region:us
+2026-11-23T03:56:50Z,dasdsaasdewc/anchorcsv01,dasdsaasdewc,0,0,region:us
+2026-11-23T03:57:57Z,paxintic/forensics_bench_traces,paxintic,0,0,language:en; region:us; agent-trajectories; llm-agents; digital-forensics
+2026-11-23T03:58:38Z,Dumi2025/hdfs-v1-20k-blocks,Dumi2025,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; log-anomaly-detection; hdfs; loghub
+2026-11-23T03:58:43Z,biscet/SonicRank-ChatGPT-10K,biscet,0,0,task_categories:feature-extraction; task_categories:text-retrieval; language:en; language:ru; license:apache-2.0; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality…
+2026-11-23T03:59:29Z,zihG/dqhwiodhoiwq,zihG,0,0,license:cc-by-4.0; region:us
+2026-11-23T03:59:41Z,forgottenl5/nhtsa-frontal-pulse-injury,forgottenl5,0,0,language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; crash-safety; automotive; time-series; tabular-regression; nhtsa; ncap
+2026-11-23T04:01:47Z,sejzu0123/98638edd-6716-4d51-ab73-e41dfa2a2459,sejzu0123,0,0,region:us
+2026-11-23T04:01:50Z,laion/laion-cell-011,laion,0,0,task_categories:image-to-text; task_categories:text-to-image; task_categories:video-classification; license:other; modality:video; library:webdataset; region:us; biology; microscopy; cell-biology; hi…
+2026-11-23T04:02:58Z,01Tauhid/pixel-art-atlas-1.4m,01Tauhid,0,0,task_categories:text-to-image; language:en; license:cc0-1.0; size_categories:1M<n<10M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissa…
+2026-11-23T04:03:07Z,assd12da21d/Annoy-PyEdu-Rs,assd12da21d,0,0,region:us
+2026-11-23T04:03:10Z,liuffg124/Annoy-PyEdu-Rs-Raw,liuffg124,0,0,region:us
+2026-11-23T04:03:10Z,liuffg124/Annoy-PyEdu-Rs,liuffg124,0,0,region:us
+2026-11-23T04:03:23Z,SADSDGZX/Annoy-PyEdu-Rs,SADSDGZX,0,0,region:us
+2026-11-23T04:03:23Z,SADSDGZX/Annoy-PyEdu-Rs-Raw,SADSDGZX,0,0,region:us
+2026-11-23T04:03:29Z,ases200q2/UR10_RTDE_SpaceMouse_EE_pick_and_place_object_tabletop_demo_v3_d455_s2,ases200q2,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-23T04:03:30Z,assd12da21d/Annoy-PyEdu-Rs-Raw,assd12da21d,0,0,region:us
+2026-11-23T04:05:08Z,cherylvalencia/hasilOpt1,cherylvalencia,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-23T04:05:14Z,sejzu0123/58a4e605-e73a-4d28-a467-e431d524a899,sejzu0123,0,0,region:us
+2026-11-23T04:05:40Z,Kling-Keye/VideoRover-Bench,Kling-Keye,0,0,language:en; license:mit; arxiv:2608.23329; region:us
+2026-11-23T04:06:03Z,sejzu0123/cf1d6953-db5f-4cfe-8815-1ab73418a9fc,sejzu0123,0,0,region:us
+2026-11-23T04:06:39Z,Kling-Keye/VideoRover,Kling-Keye,0,0,language:en; license:mit; arxiv:2608.23329; region:us
+2026-11-23T04:06:55Z,Kling-Keye/VideoTemp-Bench,Kling-Keye,0,0,language:en; license:mit; arxiv:2602.07801; region:us
+2026-11-23T04:07:10Z,Kling-Keye/VideoTemp-o3,Kling-Keye,0,0,language:en; license:mit; arxiv:2602.07801; region:us
+2026-11-23T04:07:27Z,Kling-Keye/Thyme-SFT,Kling-Keye,0,0,language:en; license:mit; arxiv:2508.11630; region:us
+2026-11-23T04:07:43Z,Kling-Keye/Thyme-RL,Kling-Keye,0,0,language:en; license:mit; arxiv:2508.11630; region:us
+2026-11-23T04:07:53Z,kingsidharth/zangei-pretrain-256px-stage-5,kingsidharth,0,0,license:other; modality:image; region:us; text-to-image; image; not-for-all-audiences
+2026-11-23T04:08:27Z,Kling-Keye/KC-MMbench,Kling-Keye,0,0,task_categories:video-text-to-text; language:zh; language:en; license:cc-by-sa-4.0; arxiv:2507.01949; region:us; multimodal; video-understanding; short-video; benchmark; e-commerce; vqa
+2026-11-23T04:09:16Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs,ASCXZ12SAE1DW,0,0,region:us
+2026-11-23T04:09:16Z,ASCXZ12SAE1DW/Annoy-PyEdu-Rs-Raw,ASCXZ12SAE1DW,0,0,region:us
+2026-11-23T04:09:35Z,HumanCOIN/l3_workroom_empty_mechanical_part_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L3; egocentric; multi-sensor; empty_mechanical_part
+2026-11-23T04:10:46Z,asdfasdf3435/zqconv7191,asdfasdf3435,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T04:10:51Z,NexLearn/foam-block-transfers,NexLearn,0,0,region:us
+2026-11-23T04:11:00Z,DJPAUL25/fsa-owi-caption-claims,DJPAUL25,0,0,task_categories:image-to-text; task_categories:visual-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:d…
+2026-11-23T04:11:48Z,MelorAngelina/Annoy-PyEdu-Rs,MelorAngelina,0,0,region:us
+2026-11-23T04:12:01Z,MelorAngelina/Annoy-PyEdu-Rs-Raw,MelorAngelina,0,0,region:us
+2026-11-23T04:12:22Z,HumanCOIN/l3_workroom_handle_hand_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L3; egocentric; multi-sensor; handle_hand
+2026-11-23T04:13:08Z,CASTLEMODAPK/castle-mod-apk,CASTLEMODAPK,0,0,region:us
+2026-11-23T04:14:34Z,HumanCOIN/l3_workroom_hang_tool_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,region:us
+2026-11-23T04:15:15Z,HARSHUUH88/help-desk-tickets,HARSHUUH88,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; ticket-routing; support-tickets; servicenow; workfl…
+2026-11-23T04:15:54Z,agriculture-food-systems-ai/Lobster-Feeding-and-Growth-Causal-Reasoning-Question-Answer-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; region:us; lobster farming dataset; lobster feeding QA; aquaculture causal reasoning; feeding effect analysis; lobster growth analysis; reasoning SFT; aquaculture q…
+2026-11-23T04:17:10Z,AkshayUmesh/Synthetic,AkshayUmesh,0,0,region:us
+2026-11-23T04:18:02Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-23T04:18:07Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-23T04:19:34Z,dasdsaasdewc/ctrl_local,dasdsaasdewc,0,0,region:us
+2026-11-23T04:19:39Z,dasdsaasdewc/oob_only,dasdsaasdewc,0,0,region:us
+2026-11-23T04:19:47Z,dasdsaasdewc/meta_only,dasdsaasdewc,0,0,region:us
