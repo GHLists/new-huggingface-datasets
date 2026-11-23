@@ -1,0 +1,104 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T19:20:10Z,lance-format/libero-original-demonstrations-lance,lance-format,0,0,task_categories:robotics; language:en; license:cc-by-4.0; library:lance; region:us; lance; libero; robot-manipulation; imitation-learning; information-retrieval
+2026-11-23T19:20:31Z,dasdsaasdewc/dssconv7739,dasdsaasdewc,0,0,region:us
+2026-11-23T19:20:49Z,dougalldeepmind/2026-11-23-odcv-qwen36-0-da-gpt-voice-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_gpt_voice_15; mode:think
+2026-11-23T19:20:54Z,marianna13/agentic-eval-traces,marianna13,0,0,license:cc-by-4.0; region:us
+2026-11-23T19:23:27Z,g1n0st/1dac4653a6b3ad1e91d1f4d03bf3117339c6bc11,g1n0st,0,0,region:us
+2026-11-23T19:24:08Z,vnpornads/cdn-hls-196,vnpornads,0,0,region:us
+2026-11-23T19:24:13Z,lexvira/legal-benchmark,lexvira,0,0,task_categories:text-retrieval; language:de; language:en; language:es; license:cc-by-4.0; size_categories:1K<n<10K; region:us; lexvira; legal; legal-benchmark
+2026-11-23T19:25:34Z,walkingshadow/rnaseq-splicing-confounders-data,walkingshadow,0,0,region:us
+2026-11-23T19:26:31Z,g1n0st/feca24b66965e4a3a6a1c1af556e8445a537e8d5,g1n0st,0,0,region:us
+2026-11-23T19:27:06Z,yutengz/guobao-tegong-7chars-voice-dataset,yutengz,0,0,task_categories:text-to-speech; task_categories:audio-to-audio; language:zh; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; anime; voice-conversion; rvc; sovits; guobao-tegong; speech-dat…
+2026-11-23T19:27:14Z,DSACZX1231EDAS/Annoy-PyEdu-Rs,DSACZX1231EDAS,0,0,region:us
+2026-11-23T19:27:31Z,DSACZX1231EDAS/Annoy-PyEdu-Rs-Raw,DSACZX1231EDAS,0,0,region:us
+2026-11-23T19:29:17Z,Liuyuan103/shapes-qwen3.8-27b-C,Liuyuan103,0,0,region:us
+2026-11-23T19:31:26Z,SAD12CSE12DA/Annoy-PyEdu-Rs,SAD12CSE12DA,0,0,region:us
+2026-11-23T19:31:27Z,SAD12CSE12DA/Annoy-PyEdu-Rs-Raw,SAD12CSE12DA,0,0,region:us
+2026-11-23T19:31:57Z,nolimitsxl/osusu,nolimitsxl,0,0,region:us
+2026-11-23T19:34:41Z,rbtrprjkt/rollout_philips-screw-unfasten_act150_20261123_133302,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T19:36:28Z,Bendando/uk-property-inspection-sample,Bendando,0,0,task_categories:image-classification; task_categories:object-detection; language:en; license:other; size_categories:n<1K; region:us; property; real-estate; computer-vision; condition-detection; uk; l…
+2026-11-23T19:36:33Z,g1n0st/1c55e3872e83c2bac1e3064183063396a069af8d,g1n0st,0,0,region:us
+2026-11-23T19:38:28Z,DOAIxILPRL-KU/nepali-english-codeswitched,DOAIxILPRL-KU,0,0,task_categories:automatic-speech-recognition; language:ne; language:en; license:mit; modality:audio; region:us; automatic-speech-recognition; speech; audio; code-switching; code-mixing; nepali
+2026-11-23T19:40:19Z,ferreslabs/krunbench-v1,ferreslabs,0,0,task_categories:text-classification; language:en; license:other; region:us; decision; intent; tool-routing; abstention; ood; benchmark
+2026-11-23T19:40:19Z,ferreslabs/kruntechbench,ferreslabs,0,0,task_categories:text-classification; language:en; license:other; region:us; decision; technical-decisions; reasoning; counterfactual; benchmark; software-engineering
+2026-11-23T19:45:06Z,horizon-tum-bpc/plantuml_generation,horizon-tum-bpc,0,0,region:us
+2026-11-23T19:45:14Z,specimba/cinelatent_training_v1,specimba,0,0,region:us
+2026-11-23T19:45:32Z,g1n0st/7e3755f36bbed5e9f874b55245d8e84b929dbc8b,g1n0st,0,0,region:us
+2026-11-23T19:46:02Z,Padam23907987345/txnsentry-fraud-detection,Padam23907987345,0,0,license:odbl; region:us
+2026-11-23T19:46:08Z,malikithecat/omni-domain-purified-part1,malikithecat,0,0,region:us
+2026-11-23T19:46:18Z,horizon-tum-bpc/plantuml-training,horizon-tum-bpc,0,0,region:us
+2026-11-23T19:46:44Z,miguelemosreverte/zen-streams,miguelemosreverte,0,0,region:us
+2026-11-23T19:48:10Z,workup-case/imaging,workup-case,0,0,license:cc-by-4.0; region:us
+2026-11-23T19:48:33Z,rbtrprjkt/rollout_o-ring_remove_act150_20261123_134455,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T19:49:00Z,g1n0st/9260d93490578355ad62ed6501db932ba0d86374,g1n0st,0,0,region:us
+2026-11-23T19:51:18Z,BobbbWang/ts-research-checkpoints,BobbbWang,0,0,region:us
+2026-11-23T19:51:34Z,g1n0st/f76ce9b604f0a68da4741e5f8eeb93f4b1656359,g1n0st,0,0,region:us
+2026-11-23T19:51:58Z,wake-inc/wake-egocentric-10h-sample,wake-inc,0,0,task_categories:robotics; license:apache-2.0; size_categories:1M<n<10M; modality:video; modality:timeseries; region:us; LeRobot; wake; egocentric; imu; video; timeseries; world-models; manipulation;…
+2026-11-23T19:52:05Z,AutoRLBench/armnet_aecheck_c03_20261123,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T19:52:06Z,fdnai/foundation_v0.2,fdnai,0,0,task_categories:text-generation; language:en; language:zh; language:es; language:hi; language:ar; language:fr; language:bn; language:pt; language:id; language:ur; language:ru; language:de; language:p…
+2026-11-23T19:53:57Z,tailot/lingologos-3d2d,tailot,0,0,region:us
+2026-11-23T19:54:34Z,g1n0st/280b2efa8dde77c1c3cd1ac20e7143821828d67e,g1n0st,0,0,region:us
+2026-11-23T19:54:56Z,g1n0st/91867aeb0a952a88749c9c757a90fff8011db122,g1n0st,0,0,region:us
+2026-11-23T19:55:28Z,toolathlon-eval-17/Annoy-PyEdu-Rs,toolathlon-eval-17,0,0,region:us
+2026-11-23T19:55:28Z,toolathlon-eval-17/Annoy-PyEdu-Rs-Raw,toolathlon-eval-17,0,0,region:us
+2026-11-23T19:55:43Z,CarolinePascal/put-red-cube-in-green-box-merged,CarolinePascal,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; grabette
+2026-11-23T19:55:56Z,Gggghy888uhgg/Jji,Gggghy888uhgg,0,0,region:us
+2026-11-23T19:55:58Z,qizhangslam/anydeblur3d-davide-solo-r480-20261123,qizhangslam,0,0,region:us
+2026-11-23T19:56:16Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs,DASCXZ12EDXCSA,0,0,region:us
+2026-11-23T19:56:17Z,DASCXZ12EDXCSA/Annoy-PyEdu-Rs-Raw,DASCXZ12EDXCSA,0,0,region:us
+2026-11-23T19:56:36Z,Harshu-Pande/project-stl,Harshu-Pande,0,0,license:odbl; modality:3d; region:us; 3d; gis; lidar; st-louis; webgl
+2026-11-23T19:56:38Z,tiagomfmarques/dvp1,tiagomfmarques,0,0,region:us
+2026-11-23T19:56:56Z,g1n0st/0380a45f3baac5b0404339f1af9020c96a24bd45,g1n0st,0,0,region:us
+2026-11-23T19:57:01Z,tiagomfmarques/dvp2,tiagomfmarques,0,0,region:us
+2026-11-23T19:57:21Z,tiagomfmarques/dvp3,tiagomfmarques,0,0,region:us
+2026-11-23T19:59:32Z,g1n0st/5d304f0dde1539625cd54295952ceef73327be40,g1n0st,0,0,region:us
+2026-11-23T19:59:36Z,fsfsfg/eqvanta-fish-s2-pro-20261123,fsfsfg,0,0,region:us
+2026-11-23T20:00:24Z,sfdsfaff333/Annoy-PyEdu-Rs-Raw,sfdsfaff333,0,0,region:us
+2026-11-23T20:00:24Z,sfdsfaff333/Annoy-PyEdu-Rs,sfdsfaff333,0,0,region:us
+2026-11-23T20:00:35Z,g1n0st/eb0ffcd0424cef84202c9468ca584f1536603cf6,g1n0st,0,0,region:us
+2026-11-23T20:00:57Z,g1n0st/1eb9f95c67a154626ebef326891ce12812671611,g1n0st,0,0,region:us
+2026-11-23T20:01:09Z,jannyn/resume-job-description-fit,jannyn,0,0,region:us
+2026-11-23T20:01:39Z,tirthdos/jyotisha-reference-dataset,tirthdos,0,0,language:en; license:cc-by-4.0; region:us; vedic-astrology; jyotisha; astronomy; ephemeris; ayanamsha; nakshatra; shodashavarga; sidereal; reference-data
+2026-11-23T20:01:43Z,saxenan3/mncri-ncri,saxenan3,0,0,region:us
+2026-11-23T20:01:56Z,hackeronetestt/injcol7739,hackeronetestt,0,0,region:us
+2026-11-23T20:02:05Z,g1n0st/100d47f18f048ac418e6453c65665fedeb59aae9,g1n0st,0,0,region:us
+2026-11-23T20:02:09Z,AbdoTW/Audio8_TTS,AbdoTW,0,0,region:us
+2026-11-23T20:02:38Z,qizhangslam/das6-scratch-backup-20261123,qizhangslam,0,0,region:us
+2026-11-23T20:03:35Z,g1n0st/4c57f1eda9162380c76a325dd811e14577af051b,g1n0st,0,0,region:us
+2026-11-23T20:03:36Z,g1n0st/4d0650d72544c951636b407e756e7024095dda0d,g1n0st,0,0,region:us
+2026-11-23T20:04:03Z,g1n0st/70d25b5c6274ae89edd91e14a3edc451ebfb44cf,g1n0st,0,0,region:us
+2026-11-23T20:04:29Z,format37/theta-s-pool-walk,format37,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; photogrammetry; structure-from-motion; 360-camera; equirectangular; gaussian-splatting; colmap; outdoor
+2026-11-23T20:04:33Z,g1n0st/c9a9c38028cb8abd2c6c1be26c4dd3164c068b44,g1n0st,0,0,region:us
+2026-11-23T20:04:34Z,g1n0st/8a462a57ce9dc29ac222c54a2fd5766e138cbfb5,g1n0st,0,0,region:us
+2026-11-23T20:05:34Z,Gggghy888uhgg/Bhhbbb,Gggghy888uhgg,0,0,region:us
+2026-11-23T20:05:37Z,g1n0st/159982f792bec968ebd810dd5551e0db2731477b,g1n0st,0,0,region:us
+2026-11-23T20:06:02Z,g1n0st/47d90c014381587aaa912397dfa7e729c315ea99,g1n0st,0,0,region:us
+2026-11-23T20:06:35Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261123_140331,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T20:06:35Z,g1n0st/914c20a0b764152733bdc88d7968c2bf67d7235b,g1n0st,0,0,region:us
+2026-11-23T20:06:40Z,g1n0st/2520f2441a9cfe75c858ab8388b7cc86ee80acdb,g1n0st,0,0,region:us
+2026-11-23T20:07:03Z,g1n0st/cf3faf2ea976a2028d03d86ec6b29bb533f85f3f,g1n0st,0,0,region:us
+2026-11-23T20:07:05Z,g1n0st/f1905e6c7d9b7538f324830dc73d81a713255c2a,g1n0st,0,0,region:us
+2026-11-23T20:07:06Z,g1n0st/ebbbdd4478838731f80edf743d8d2ebce584d370,g1n0st,0,0,region:us
+2026-11-23T20:07:27Z,bcv-commons/hebrew-nt-pieces-model,bcv-commons,0,0,language:he; language:grc; license:cc-by-4.0; region:us; bible; hebrew; greek; new-testament; morphology; alignment
+2026-11-23T20:07:35Z,g1n0st/bb5b3e56eb2f6f7c08412d140c2d076f0ae2135d,g1n0st,0,0,region:us
+2026-11-23T20:08:02Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.0_g0_run2,stefanocarrera,0,0,region:us
+2026-11-23T20:08:38Z,kwintenvh/normas-ia-tfg-tfm-universidades-espanolas,kwintenvh,0,0,language:es; language:ca; language:eu; language:gl; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; generative-ai; higher-education; policy; spain
+2026-11-23T20:08:43Z,bcv-commons/nt-tree-join,bcv-commons,0,0,language:he; language:grc; license:cc-by-4.0; region:us; bible; hebrew; greek; new-testament; syntax; treebank; alignment
+2026-11-23T20:09:33Z,g1n0st/8ef810862dc9ce9617d3833d72e3d7d5bc321e67,g1n0st,0,0,region:us
+2026-11-23T20:09:46Z,bcv-commons/nt-tree-join-sa,bcv-commons,0,0,language:he; language:grc; license:cc-by-sa-4.0; region:us; bible; hebrew; greek; new-testament; dependency; treebank; alignment
+2026-11-23T20:09:52Z,noahvesely/social-media-collection-part-02,noahvesely,0,0,region:us
+2026-11-23T20:10:10Z,sumitkumawat21469/rustnova-os-iso,sumitkumawat21469,0,0,region:us
+2026-11-23T20:10:15Z,bcv-commons/tanakh-lxx-part-links,bcv-commons,0,0,language:hbo; language:grc; license:cc-by-sa-4.0; region:us; bible; hebrew; greek; septuagint; alignment; morphology
+2026-11-23T20:11:21Z,averyzhao/greenblock5_20261123_115751,averyzhao,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T20:12:15Z,MadSensiro/MadHunter,MadSensiro,0,0,license:cc-by-nd-4.0; region:us
+2026-11-23T20:13:03Z,pvp1732/IndicMixTag-data,pvp1732,0,0,region:us
+2026-11-23T20:13:27Z,alfasamd/qliovo-colab-t1b,alfasamd,0,0,region:us
+2026-11-23T20:13:42Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261123_141157,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T20:15:13Z,RumiFold/RumiFold_Results,RumiFold,0,0,region:us
+2026-11-23T20:15:50Z,And161/001Struna,And161,0,0,region:us
+2026-11-23T20:15:54Z,toolathlon-eval-14/Annoy-PyEdu-Rs-Raw,toolathlon-eval-14,0,0,region:us
+2026-11-23T20:15:54Z,toolathlon-eval-14/Annoy-PyEdu-Rs,toolathlon-eval-14,0,0,region:us
+2026-11-23T20:16:16Z,seilua/fsoco_dataset_undersampled,seilua,0,0,region:us
+2026-11-23T20:16:34Z,Zenodo-ML/Dump-Starts-22h-23h-UTC-1509.Repos-2.5.To,Zenodo-ML,0,0,license:apache-2.0; region:us
+2026-11-23T20:16:51Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261123_141609,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T20:17:05Z,g1n0st/8d6aa851cd27cf57cd9200ac61376ad94a0e24ca,g1n0st,0,0,region:us
