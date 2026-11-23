@@ -1,0 +1,76 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T22:20:36Z,jxiong60/vpt-contractor,jxiong60,0,0,license:mit; size_categories:10K<n<100K; modality:video; region:us; minecraft; video; gameplay; imitation-learning; world-models
+2026-11-23T22:24:08Z,48karem/chat_about_computer_parts_turkish_and_english_txt,48karem,0,0,task_categories:text-generation; language:tr; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; thinking; Cot; türkçe; turkish; english
+2026-11-23T22:24:19Z,123min2/dessert-edit,123min2,0,0,region:us
+2026-11-23T22:24:57Z,albagon/telearms-front-to-back-datav8-default-rigdrv8,albagon,0,0,license:apache-2.0; region:us; LeRobot; robotics; pi05; bimanual-yam; domain-randomization; simulation
+2026-11-23T22:25:11Z,innoxpert/innox-tools-free-web-developer-utilities-online-financial-calculators-2709,innoxpert,0,0,region:us
+2026-11-23T22:25:23Z,parser-tech/prismmind-ja-dataset,parser-tech,0,0,task_categories:text-generation; task_categories:question-answering; task_categories:image-classification; language:ja; license:cc-by-sa-4.0; region:us; japanese; cpu-lm; world-model; jepa; continual…
+2026-11-23T22:26:10Z,g1n0st/e4e9db694588d37d7d1b3c4d61f30f9c065b24c1,g1n0st,0,0,region:us
+2026-11-23T22:26:23Z,ModistAndrew/VSF,ModistAndrew,0,0,modality:video; modality:audio; region:us; video; audio; music; piano; midi; visual-score-following; motion-score-alignment; tabletop
+2026-11-23T22:26:24Z,PureOne/Ioxhen-VqEVE,PureOne,0,0,language:en; size_categories:n<1K; region:us; synthetic; applied-mathematics; scenario-generation; covariance; tail-risk; reproducible-research
+2026-11-23T22:26:40Z,g1n0st/9301f16b029a9dc171a19a660821715116505d98,g1n0st,0,0,region:us
+2026-11-23T22:26:42Z,g1n0st/062e533d298efc57b70610fe8f845d931eabbcb0,g1n0st,0,0,region:us
+2026-11-23T22:27:02Z,prohousekeepers/us-move-out-cleaning-security-deposit-rules,prohousekeepers,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; law; housing; security-deposit
+2026-11-23T22:27:47Z,much1na/distil-data-v2,much1na,0,0,region:us
+2026-11-23T22:28:06Z,dronefreak/CODE-15,dronefreak,0,0,region:us
+2026-11-23T22:28:53Z,innoxpert/innox-tools-free-web-developer-utilities-2931,innoxpert,0,0,task_categories:text-generation; task_categories:tabular-regression; language:en; license:mit; region:us; loan calculator; dmarc auditor
+2026-11-23T22:30:21Z,sejzu0123/87dfc327-122c-47fa-98b5-b89b64d1eb8a,sejzu0123,0,0,region:us
+2026-11-23T22:31:40Z,lucario6607/lc0-odds,lucario6607,0,0,region:us
+2026-11-23T22:34:56Z,Alexey240577/chars_1795473127,Alexey240577,0,0,region:us
+2026-11-23T22:35:32Z,jlblancoc/ual-husky-campus,jlblancoc,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; region:us; robotics; lidar; stereo; imu; gnss; rtk; wheel-odometry; slam; lidar-inertial-odometry; ros2; mcap
+2026-11-23T22:38:10Z,g1n0st/e91df93f448815cd96e2eecad3295dd4a32fc1cd,g1n0st,0,0,region:us
+2026-11-23T22:38:32Z,asdfasdf3435/zqssrfT,asdfasdf3435,0,0,region:us
+2026-11-23T22:41:18Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.0_g1_run2,stefanocarrera,0,0,region:us
+2026-11-23T22:41:26Z,dougalldeepmind/2026-11-23-odcv-qwen36-0-da-gpt-principled-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_gpt_principled_15; mode:think
+2026-11-23T22:42:55Z,48karem/chat_about_computer_parts_turkish_and_english_jsonl,48karem,0,0,task_categories:text-generation; language:tr; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; thinking; Cot; türkçe; turkish; english
+2026-11-23T22:43:48Z,innoxpert/innox-tools-free-web-developer-utilities-o-3826,innoxpert,0,0,task_categories:text-generation; task_categories:tabular-regression; language:en; license:mit; region:us; loan calculator; dmarc auditor; json formatter; free tools
+2026-11-23T22:44:32Z,Wisiewig/WatchServiceManuals,Wisiewig,0,0,task_categories:document-question-answering; task_categories:text-retrieval; language:en; license:mit; size_categories:1K<n<10K; modality:document; region:us; pdf; documents
+2026-11-23T22:45:09Z,g1n0st/360885edb81cefd2bbfdcdb6d89dc43765d0e235,g1n0st,0,0,region:us
+2026-11-23T22:46:39Z,betweenlinesstoryy/Story_assets,betweenlinesstoryy,0,0,region:us
+2026-11-23T22:46:43Z,DONG3344/R1_Dexmate_trash,DONG3344,0,0,task_categories:robotics; license:mit; region:us; teleoperation; multi-robot; unitree-r1; dexmate-vega
+2026-11-23T22:48:09Z,g1n0st/746df6d604cda1638ce2b8e8174950d628fba6cb,g1n0st,0,0,region:us
+2026-11-23T22:48:33Z,Alexey240577/chars_1795474003,Alexey240577,0,0,region:us
+2026-11-23T22:49:49Z,KMCLabs/rtenzo-fanfics-dataset,KMCLabs,0,0,task_categories:text-generation; language:en; license:mit; region:us; rtenzo; fanfic; writing
+2026-11-23T22:50:14Z,queelius/big-probs-phase1-data,queelius,0,0,task_categories:text-generation; language:en; license:mit; size_categories:1K<n<10K; region:us; synthetic; algorithmic-reasoning; reinforcement-learning; rlvr; latent-cot; calibration; aleatoric-unce…
+2026-11-23T22:50:52Z,RenaissanceLabsEU/practice,RenaissanceLabsEU,0,0,task_categories:other; language:en; license:mit; size_categories:1K<n<10K; library:harbor; region:us; rl-environment; harbor; agents; reinforcement-learning; verifiable-rewards; isced-f
+2026-11-23T22:51:02Z,RumiFold/RumiFold_Data,RumiFold,0,0,license:other; region:us; biology; protein; structure; esm
+2026-11-23T22:53:46Z,eskfestsecurity/absorbed-random-walk-negative-drift-2026,eskfestsecurity,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; tabular; simulation; synthetic; monte-carlo; probability; random-walk
+2026-11-23T22:55:08Z,g1n0st/d440b0f6191e6fdf472f2ec4be87da0ea4d20695,g1n0st,0,0,region:us
+2026-11-23T22:56:41Z,g1n0st/5536f1057d6e4883a75a52fda6e25f503e093332,g1n0st,0,0,region:us
+2026-11-23T22:57:43Z,robotlawyer/us-bill-of-sale-requirements,robotlawyer,0,0,task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; legal; vehicles; us-states; bill-of-sale; notary; dmv
+2026-11-23T22:57:46Z,DEBROWSKI07/i37350-oracle,DEBROWSKI07,0,0,region:us
+2026-11-23T22:58:11Z,g1n0st/6e7bae8c6f7cc75a47b2ddc62e3094b8ff5ba180,g1n0st,0,0,region:us
+2026-11-23T22:58:24Z,PureOne/Ioxeru-Vq7-Stam-and-Entropy-on-Groups,PureOne,0,0,language:en; size_categories:n<1K; region:us; mathematics; information-theory; lie-groups; harmonic-analysis; fisher-information; entropy; reproducibility
+2026-11-23T22:59:14Z,carbon-lab/extrusion-saxs,carbon-lab,0,0,task_categories:tabular-regression; license:other; size_categories:n<1K; region:us; materials-science; extrusion; saxs; active-learning; experimental-design
+2026-11-23T23:00:05Z,crust-sage/crust-sage-collection,crust-sage,0,0,region:us
+2026-11-23T23:00:26Z,vnpornads/cdn-hls-200,vnpornads,0,0,region:us
+2026-11-23T23:01:07Z,g1n0st/80ac4618692b2e682ba4c4db283e1961a97afb39,g1n0st,0,0,region:us
+2026-11-23T23:01:54Z,SzymonKozl/romeo_juliet_en_112,SzymonKozl,0,0,region:us
+2026-11-23T23:02:44Z,AutoRLBench/armnet_aecheck_c03_20261123b,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T23:02:45Z,dronefreak/UT-Interaction,dronefreak,0,0,task_categories:video-classification; language:en; license:other; size_categories:n<1K; modality:video; region:us; action-recognition; human-action-recognition; human-interaction; video; computer-vis…
+2026-11-23T23:03:39Z,dronefreak/KTH-Actions,dronefreak,0,0,task_categories:video-classification; language:en; license:other; size_categories:n<1K; modality:video; region:us; action-recognition; human-action-recognition; video; computer-vision
+2026-11-23T23:03:43Z,averyzhao/greenblock5_20261123_145429,averyzhao,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T23:04:14Z,kwintenvh/regles-ia-tfe-memoire-fwb,kwintenvh,0,0,language:fr; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; generative-ai; higher-education; policy; belgium
+2026-11-23T23:04:30Z,npulseDataCV/npulse_cv_augmented_experiments,npulseDataCV,0,0,task_categories:object-detection; task_categories:image-segmentation; region:us; rgb-d; augmentation; robotics
+2026-11-23T23:06:01Z,AutoRLBench/armnet_aecheck_c01_20261123b,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T23:06:26Z,theDankUnicorn/BagPickup_20261123_150355,theDankUnicorn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-23T23:06:38Z,SzymonKozl/romeo_juliet_en_96,SzymonKozl,0,0,region:us
+2026-11-23T23:08:40Z,egolearn/shape-bias,egolearn,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; arxiv:2202.08340; region:us; shape-bias; developmental; representation-evaluation; egolearn
+2026-11-23T23:09:33Z,DMDc-gvs-research/eeg-gvs-dmdc-corrected-dual-rtx5090-results,DMDc-gvs-research,0,0,region:us
+2026-11-23T23:10:02Z,egolearn/spatial-relation-categorization,egolearn,0,0,license:cc-by-4.0; size_categories:1K<n<10K; region:us; spatial-relations; developmental; representation-evaluation; egolearn
+2026-11-23T23:10:15Z,dronefreak/Olympic-Sports,dronefreak,0,0,task_categories:video-classification; language:en; license:other; size_categories:n<1K; modality:video; region:us; action-recognition; human-action-recognition; sports; video; computer-vision
+2026-11-23T23:10:19Z,Keel-data/ats-job-postings-sample,Keel-data,0,0,task_categories:text-classification; language:en; license:other; size_categories:n<1K; region:us; jobs; job-postings; greenhouse; lever; ashby
+2026-11-23T23:10:38Z,SzymonKozl/romeo_juliet_en_80,SzymonKozl,0,0,region:us
+2026-11-23T23:11:40Z,baraelyazid/us-electricity-rates-2026,baraelyazid,0,0,region:us
+2026-11-23T23:12:41Z,ShahariarSwapnil/free-browser-games-on-webgame-fun-catalog,ShahariarSwapnil,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; browser games; html5; free games; web games; game catalog
+2026-11-23T23:13:16Z,sad12dsa/Annoy-PyEdu-Rs,sad12dsa,0,0,region:us
+2026-11-23T23:13:17Z,sad12dsa/Annoy-PyEdu-Rs-Raw,sad12dsa,0,0,region:us
+2026-11-23T23:15:24Z,SzymonKozl/romeo_juliet_en_64,SzymonKozl,0,0,region:us
+2026-11-23T23:16:30Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-23T23:16:32Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-23T23:16:51Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-23T23:16:52Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-23T23:18:36Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-11-23T23:18:36Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-11-23T23:18:48Z,Orpheus12345/FedPII-dataset,Orpheus12345,0,0,task_categories:text-classification; task_categories:question-answering; task_categories:summarization; task_categories:text-retrieval; task_categories:text-generation; language:zh; license:cc-by-nc-…
+2026-11-23T23:19:29Z,armnet/cell03_base_eval_30s_20ep,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
