@@ -1,0 +1,144 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T17:22:26Z,MBHudson/Autonomous-Loop-Studio,MBHudson,0,0,region:us
+2026-11-23T17:24:09Z,RamBhogesara/travel-intel-places,RamBhogesara,0,0,region:us
+2026-11-23T17:24:48Z,g1n0st/2fed2a293d5b0f9ebe22a9f34b3fdc5eda64bf3a,g1n0st,0,0,region:us
+2026-11-23T17:24:48Z,BerryCreative/berry-media,BerryCreative,0,0,region:us
+2026-11-23T17:25:40Z,lucazsh/Sprout,lucazsh,0,0,region:us
+2026-11-23T17:26:50Z,iamjamie33/h100-fmri-reconstruction-artifacts-20261124,iamjamie33,0,0,region:us
+2026-11-23T17:27:29Z,TringTrongAchoo/mailbot-bridge,TringTrongAchoo,0,0,region:us
+2026-11-23T17:27:32Z,laubonghaudoi/gimriksisuan,laubonghaudoi,0,0,region:us
+2026-11-23T17:29:59Z,Amao-lnwnl/Safevideo,Amao-lnwnl,0,0,region:us
+2026-11-23T17:32:16Z,SAC-Flow/xr3-v3-libero-near-online-astra32-round2-20261124,SAC-Flow,0,0,region:us; robotics; libero
+2026-11-23T17:33:24Z,rookiecardprices/2000s-baseball-rookie-card-checklists,rookiecardprices,0,0,language:en; license:cc0-1.0; size_categories:1K<n<10K; region:us; baseball; baseballcards; vintagebaseball; collectables; tradingcards
+2026-11-23T17:33:43Z,louis-shadow/ur10e_wuji_2_pipette_subset,louis-shadow,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T17:34:02Z,aman179102/distributed-systems-benchmarks,aman179102,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; license:apache-2.0; size_categories:1K<n<10K; region:us; distributed-systems; grpc; http3; quic; latency-benchmarks; micro…
+2026-11-23T17:35:42Z,princeton-logion/emendations-gapfill,princeton-logion,0,0,task_categories:fill-mask; language:grc; license:mit; size_categories:n<1K; region:us; digital-humanities; textual-criticism; emendations; philology; premodern-greek; masked-language-modeling
+2026-11-23T17:36:25Z,g1n0st/3ae3bba911763292606bab1beccedff8b864c66f,g1n0st,0,0,region:us
+2026-11-23T17:36:29Z,Anderzzz/prairie-grass-1956,Anderzzz,0,0,license:cc0-1.0; region:us
+2026-11-23T17:37:04Z,haydendoo/so101-scripted-90-v4,haydendoo,0,0,region:us
+2026-11-23T17:38:10Z,hivepunk-547-db38b7a4/uniswap-v4-core-seed-row-unknown-release-check,hivepunk-547-db38b7a4,0,0,license:cc-by-4.0; region:us
+2026-11-23T17:38:53Z,ns69956/green_cube_v2_20261123_113442,ns69956,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-23T17:39:23Z,datalabglobal/home-equity-taxas-referencia-bcb,datalabglobal,0,0,language:pt; license:odbl; size_categories:n<1K; region:us; finance; brazil; home equity; interest rates; central bank; mortgage
+2026-11-23T17:40:16Z,datalabglobal/auto-equity-taxas-referencia-bcb,datalabglobal,0,0,language:pt; license:odbl; size_categories:n<1K; region:us; finance; brazil; auto equity; interest rates; central bank; car loans
+2026-11-23T17:41:01Z,datalabglobal/condominio-taxa-referencia-bcb,datalabglobal,0,0,language:pt; license:odbl; size_categories:n<1K; region:us; finance; brazil; condominium; interest rates; central bank; working capital
+2026-11-23T17:41:06Z,mark43233/nexarch-positions,mark43233,0,0,region:us
+2026-11-23T17:44:22Z,dfdfdgghh677/Annoy-PyEdu-Rs,dfdfdgghh677,0,0,region:us
+2026-11-23T17:44:34Z,dfdfdgghh677/Annoy-PyEdu-Rs-Raw,dfdfdgghh677,0,0,region:us
+2026-11-23T17:44:59Z,migueldbsfnz/ncm-audio,migueldbsfnz,0,0,region:us
+2026-11-23T17:45:31Z,Jialuo21/Imago-Short,Jialuo21,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-11-23T17:45:44Z,Jialuo21/Imago-Long,Jialuo21,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-11-23T17:45:56Z,thaki-AI/daily-paper-2026-11-24-second-route-failure-rerouting-policy,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; failure-class-taxonomy; post-failure-rerouting; retry-vs-runner-up; fault-injection; cost-quality-frontier; unattended-agent-harness; token-cost-attribution
+2026-11-23T17:46:04Z,rowan-dauria/cheatbench-synthetic-puzzles,rowan-dauria,0,0,license:other; region:us
+2026-11-23T17:46:04Z,danielrosehill/Microphone-WER-Studies,danielrosehill,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; arxiv:2509.18722; region:us; speech-recognition; asr; word-error-rate; microphones; dictation
+2026-11-23T17:47:52Z,dougalldeepmind/2026-11-23-da-gpt-principled-15-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-gpt-principled; constitution:claude_distilled_09_principles; stage:final
+2026-11-23T17:50:12Z,walkingshadow/zebrafish-pathway-transfer-data,walkingshadow,0,0,license:cc-by-4.0; size_categories:n<1K; region:us
+2026-11-23T17:52:32Z,cuperalAI/cuperalData-general-thinking,cuperalAI,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-23T17:52:42Z,disinfozone/pie-chimera-speech,disinfozone,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; language:ine; license:cc-by-sa-4.0; size_categories:1K<n<10K; region:us; proto-indo-european; reconstructed-language; art…
+2026-11-23T17:53:19Z,sad12dsa/Annoy-PyEdu-Rs,sad12dsa,0,0,region:us
+2026-11-23T17:53:20Z,sad12dsa/Annoy-PyEdu-Rs-Raw,sad12dsa,0,0,region:us
+2026-11-23T17:53:24Z,Mauro476/EntrenamientoPrueba_20261123_184833,Mauro476,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-23T17:53:41Z,walkingshadow/bivalent-axis-tracing-data,walkingshadow,0,0,region:us
+2026-11-23T17:54:04Z,NDIF/looped-lens-challenge-test,NDIF,0,0,license:other; region:us
+2026-11-23T17:55:17Z,Feeng/base-m4-huihui-qwen36-abliterated-splash-benchmark,Feeng,0,0,task_categories:text-generation; language:en; language:cs; license:cc-by-4.0; region:us; apple-silicon; mlx; mxfp4; moe; speculative-decoding; splash; dflash2; benchmark; abliterated
+2026-11-23T17:55:50Z,hobbyaih/capture_colmap,hobbyaih,0,0,region:us
+2026-11-23T17:56:03Z,sadasdasdsdds/Annoy-PyEdu-Rs,sadasdasdsdds,0,0,region:us
+2026-11-23T17:56:04Z,sadasdasdsdds/Annoy-PyEdu-Rs-Raw,sadasdasdsdds,0,0,region:us
+2026-11-23T17:56:43Z,chlebek667/wom3n,chlebek667,0,0,region:us
+2026-11-23T17:56:53Z,allallallal/alosslessdev-dell-optimizer-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-dell-optimizer-re
+2026-11-23T17:57:23Z,allallallal/alosslessdev-gridcraft-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-gridcraft
+2026-11-23T17:57:25Z,g1n0st/f7ef6be2e7a19972f0cfbd0371ba902337e3493c,g1n0st,0,0,region:us
+2026-11-23T17:57:28Z,TonyHotSauce/NewYorkCaptionContestEmbedding,TonyHotSauce,0,0,region:us
+2026-11-23T17:57:37Z,ADSCZX12D/Annoy-PyEdu-Rs,ADSCZX12D,0,0,region:us
+2026-11-23T17:57:38Z,ADSCZX12D/Annoy-PyEdu-Rs-Raw,ADSCZX12D,0,0,region:us
+2026-11-23T17:57:41Z,allallallal/alosslessdev-ilce-5000-research-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-ilce-5000-research
+2026-11-23T17:57:49Z,rlorlou/trashbot-hri-3d-viewer-snippets,rlorlou,0,0,license:other; region:us
+2026-11-23T17:58:06Z,allallallal/alosslessdev-llama.cpp-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-llama.cpp
+2026-11-23T17:58:15Z,hocdz754/zqcoltrav2,hocdz754,0,0,region:us
+2026-11-23T17:58:20Z,Eren8705/real-vs-ai-cropped-faces,Eren8705,0,0,task_categories:image-classification; license:other; size_categories:10K<n<100K; region:us; deepfake-detection; ai-generated-faces; face-classification; computer-vision; mtcnn
+2026-11-23T17:58:22Z,allallallal/alosslessdev-omp-advisor-consensus-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-omp-advisor-consensus
+2026-11-23T17:58:26Z,allallallal/alosslessdev-omp-archive-main-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-omp-archive-main
+2026-11-23T17:58:39Z,vnpornads/cdn-hls-194,vnpornads,0,0,region:us
+2026-11-23T17:59:18Z,pedrobeltrao/wholecell-viewer-data,pedrobeltrao,0,0,license:cc-by-nc-4.0; region:us; biology; structural-biology; cell-model
+2026-11-23T17:59:22Z,g1n0st/7eae5282e26f44984eccb507bc0b102cf94f90da,g1n0st,0,0,region:us
+2026-11-23T17:59:26Z,allallallal/alosslessdev-omp-peak-gate-main-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-omp-peak-gate-main
+2026-11-23T17:59:39Z,parvorker/tgnewsru,parvorker,0,1,task_categories:sentence-similarity; task_categories:text-retrieval; task_categories:text-ranking; task_categories:text-generation; language:ru; license:gpl-3.0; size_categories:1K<n<10K; region:us
+2026-11-23T17:59:47Z,allallallal/alosslessdev-openrgb-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-openrgb
+2026-11-23T18:00:07Z,allallallal/alosslessdev-pageflat-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-pageflat
+2026-11-23T18:00:25Z,allallallal/alosslessdev-panama-postal-codes-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-panama-postal-codes
+2026-11-23T18:00:28Z,SumanaWu/headlinehunters-cis5190-news-source-fall2026,SumanaWu,0,0,task_categories:text-classification; language:en; region:us
+2026-11-23T18:00:45Z,allallallal/alosslessdev-pr-backlog-audit-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-pr-backlog-audit
+2026-11-23T18:01:15Z,allallallal/alosslessdev-screenshot-app-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-screenshot-app
+2026-11-23T18:01:22Z,g1n0st/de27c6262477f3633fe67716f123656aab60a816,g1n0st,0,0,region:us
+2026-11-23T18:01:23Z,g1n0st/b3682135184600830f5e6d2d705cd23083fffc37,g1n0st,0,0,region:us
+2026-11-23T18:01:25Z,g1n0st/0591ac8b94929bd5c93e1c441f6995d960022dfe,g1n0st,0,0,region:us
+2026-11-23T18:01:34Z,allallallal/alosslessdev-super-duper-chainsaw-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-super-duper-chainsaw
+2026-11-23T18:01:39Z,allallallal/alosslessdev-whisper.cpp-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; alosslessdev-whisper.cpp
+2026-11-23T18:02:00Z,allallallal/ejrydhfs-endlessrecording-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-endlessrecording
+2026-11-23T18:02:04Z,allallallal/ejrydhfs-j7elte-nura-parity-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-j7elte-nura-parity
+2026-11-23T18:02:31Z,KomorAI/w0m4n-dataset,KomorAI,0,0,region:us
+2026-11-23T18:04:02Z,rimelabs/PhonBench,rimelabs,0,0,task_categories:text-to-speech; language:en; language:de; language:fr; language:es; language:it; language:pt; license:cc-by-sa-4.0; size_categories:1K<n<10K; arxiv:2505.23170; arxiv:2510.24992; arxiv…
+2026-11-23T18:04:16Z,allallallal/ejrydhfs-k668-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-k668-re
+2026-11-23T18:04:36Z,allallallal/ejrydhfs-lenovo-camera-switch-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-lenovo-camera-switch-re
+2026-11-23T18:04:39Z,allallallal/ejrydhfs-loquendo-tts7-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-loquendo-tts7-re
+2026-11-23T18:04:52Z,allallallal/ejrydhfs-panama-mining-maps-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-panama-mining-maps
+2026-11-23T18:04:57Z,g1n0st/d13732c0b039cfaa01f4d917b89d4ba9ca845767,g1n0st,0,0,region:us
+2026-11-23T18:05:00Z,g1n0st/b1a6927edb0b742fa5327ba6045377d2b17147eb,g1n0st,0,0,region:us
+2026-11-23T18:05:01Z,allallallal/ejrydhfs-pbix-to-superset-converter-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-pbix-to-superset-converter
+2026-11-23T18:05:19Z,allallallal/ejrydhfs-rose-petal-file-importer-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-rose-petal-file-importer
+2026-11-23T18:05:23Z,allallallal/ejrydhfs-san-miguelito-unmapped-buildings-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-san-miguelito-unmapped-buildings
+2026-11-23T18:05:43Z,allallallal/ejrydhfs-sm-g532m-nura-parity-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; ejrydhfs-sm-g532m-nura-parity
+2026-11-23T18:06:26Z,harloDigital/evalkit-lite-support-bot,harloDigital,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; evaluation; llm-evaluation; ai-agents; chatbots; customer-support; llm-…
+2026-11-23T18:06:33Z,g1n0st/8d580049c5856126478af6a14e19c7edfa2c07de,g1n0st,0,0,region:us
+2026-11-23T18:06:34Z,allallallal/fran887-laboratorio-agente-cloud-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; fran887-laboratorio-agente-cloud
+2026-11-23T18:06:38Z,allallallal/lallolapalooza-archman-es-1-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-archman-es-1
+2026-11-23T18:06:51Z,allallallal/lallolapalooza-dragon16-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-dragon16-re
+2026-11-23T18:06:56Z,allallallal/lallolapalooza-neverclick-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-neverclick-re
+2026-11-23T18:07:04Z,allallallal/lallolapalooza-poco-f4-camera-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-poco-f4-camera-re
+2026-11-23T18:07:11Z,allallallal/lallolapalooza-poco-f4-gallery-ocr-re-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-poco-f4-gallery-ocr-re
+2026-11-23T18:07:27Z,allallallal/lallolapalooza-xiaomi-notes-handwriting-session-omp-sessions,allallallal,0,0,license:mit; region:us; omp; oh-my-pi; agent-sessions; session-archive; lallolapalooza-xiaomi-notes-handwriting-session
+2026-11-23T18:07:35Z,allallallal/omp-archive-sessions,allallallal,0,0,region:us
+2026-11-23T18:07:38Z,alirezab67/jet-in-channel,alirezab67,0,0,region:us
+2026-11-23T18:08:33Z,aauthors/label-age-benchmark,aauthors,0,0,task_categories:time-series-forecasting; license:other; region:us; time-series; energy; benchmark; conformal-prediction
+2026-11-23T18:08:43Z,Jialuo21/Imago-Entity,Jialuo21,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-11-23T18:08:49Z,Jialuo21/Imago-Attribute,Jialuo21,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-11-23T18:08:55Z,Jialuo21/Imago-Relation,Jialuo21,0,0,task_categories:text-to-image; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-11-23T18:09:29Z,priscilla-smith/Annoy-PyEdu-Rs,priscilla-smith,0,0,region:us
+2026-11-23T18:09:30Z,priscilla-smith/Annoy-PyEdu-Rs-Raw,priscilla-smith,0,0,region:us
+2026-11-23T18:09:51Z,allallallal/gridcraft-omp-sessions,allallallal,0,0,region:us
+2026-11-23T18:09:53Z,mccvideoproduction/benji,mccvideoproduction,0,0,region:us
+2026-11-23T18:09:55Z,veripazari/vikipedi-bilim-tr,veripazari,0,0,task_categories:text-generation; annotations_creators:no-annotation; language_creators:machine-generated; source_datasets:extended|wikipedia; language:tr; language:tur; license:cc-by-sa-4.0; size_cat…
+2026-11-23T18:09:58Z,ASDASQE1E12/Annoy-PyEdu-Rs,ASDASQE1E12,0,0,region:us
+2026-11-23T18:09:59Z,ASDASQE1E12/Annoy-PyEdu-Rs-Raw,ASDASQE1E12,0,0,region:us
+2026-11-23T18:10:37Z,adi2440/new_red_blue,adi2440,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T18:11:02Z,syuekai/seismic-network-portability,syuekai,0,0,license:cc-by-4.0; region:us
+2026-11-23T18:11:26Z,allallallal/wordcraft-omp-sessions,allallallal,0,0,region:us
+2026-11-23T18:11:27Z,veripazari/Turkish-GloVe,veripazari,0,0,license:mit; region:us
+2026-11-23T18:11:33Z,allallallal/omp-session-openclaw-pr-181990,allallallal,0,0,region:us
+2026-11-23T18:11:55Z,veripazari/duygu-analizi-icin-urun-yorumlari,veripazari,0,0,license:cc0-1.0; region:us
+2026-11-23T18:13:15Z,Davidmoura/pp-ptbr-inputs,Davidmoura,0,0,region:us
+2026-11-23T18:13:28Z,azzopardim/pick_blue_block_test_3_20261123_183739,azzopardim,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; training; LeLab
+2026-11-23T18:13:33Z,g1n0st/3ece919be185193a3117b813b01f0dc39a980210,g1n0st,0,0,region:us
+2026-11-23T18:14:27Z,veripazari/turkmedstt,veripazari,0,0,language:tr; license:mit; region:us
+2026-11-23T18:14:36Z,veripazari/turkish-emotional-speech-11h,veripazari,0,0,task_categories:text-to-speech; task_categories:audio-classification; task_categories:automatic-speech-recognition; task_categories:text-classification; task_categories:text-to-audio; task_ids:audio-…
+2026-11-23T18:14:46Z,enver/turath-bench-classical-arabic-en,enver,0,0,task_categories:translation; language:ar; language:en; license:apache-2.0; region:us; classical-arabic; turath; arabic-to-english; benchmark; leaderboard; machine-translation; islamic-studies
+2026-11-23T18:15:08Z,dfdfdg5667/Annoy-PyEdu-Rs,dfdfdg5667,0,0,region:us
+2026-11-23T18:15:09Z,dfdfdg5667/Annoy-PyEdu-Rs-Raw,dfdfdg5667,0,0,region:us
+2026-11-23T18:15:34Z,veripazari/turkish-offensive-language-detection,veripazari,0,0,language:tr; license:cc-by-sa-4.0; region:us
+2026-11-23T18:16:33Z,veripazari/Turkish-Wikipedia-Based-Knowledge-Graph,veripazari,0,0,language:tr; license:mit; arxiv:2003.11080; region:us
+2026-11-23T18:16:46Z,veripazari/turkish-emotional-speech-100h,veripazari,0,0,task_categories:text-to-speech; task_categories:audio-classification; task_categories:automatic-speech-recognition; task_categories:text-classification; task_categories:text-to-audio; task_ids:audio-…
+2026-11-23T18:16:46Z,glannuzel/put-red-cube-in-green-box-raw,glannuzel,0,0,region:us
+2026-11-23T18:18:41Z,giftjohnpaul27/learn_hf_food_not_food_image_captions,giftjohnpaul27,0,0,license:apache-2.0; region:us
+2026-11-23T18:18:45Z,veripazari/turkish-synthetic-documents,veripazari,0,0,task_categories:image-to-text; task_categories:visual-question-answering; task_categories:document-question-answering; language:tr; license:cc-by-4.0; size_categories:100K<n<1M; region:us; synthetic;…
+2026-11-23T18:18:58Z,veripazari/Havadis,veripazari,0,0,task_categories:fill-mask; task_categories:text-generation; annotations_creators:Duygu Altinok; multilinguality:monolingual; source_datasets:original; language:tr; license:cc-by-sa-4.0; size_categori…
+2026-11-23T18:18:59Z,NagetAI/benchmark-results,NagetAI,0,0,language:en; license:other; region:us; search; agents; deep-research; benchmark-outputs
+2026-11-23T18:19:18Z,wanyouxi228/china-friendly-vps-deals-2026,wanyouxi228,0,0,license:cc-by-4.0; region:us
+2026-11-23T18:19:20Z,campobertin/financial-algorithmic-trading-function-calling,campobertin,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; synthetic; fintech; algorithmic-trading; function-calling; quant-finance
+2026-11-23T18:19:21Z,campobertin/cybersecurity-secops-threat-hunting-traces,campobertin,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; synthetic; cybersecurity; secops; threat-hunting; tool-use
+2026-11-23T18:19:27Z,g1n0st/4ec7da5a2179c8d2344227b6a143ca91db9948cc,g1n0st,0,0,region:us
+2026-11-23T18:19:27Z,campobertin/clinical-healthcare-fhir-agent-benchmark,campobertin,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; synthetic; healthcare; fhir; medical-ai; function-calling
+2026-11-23T18:19:33Z,g1n0st/8da15b2c62553f6fe2923dbb0dbd5d822a26e233,g1n0st,0,0,region:us
+2026-11-23T18:19:54Z,campobertin/kubernetes-cloud-sre-autonomous-remediation,campobertin,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:n<1K; region:us; synthetic; kubernetes; devops; sre; agentic-ai
+2026-11-23T18:20:22Z,qleap/pp-pixel-dataset,qleap,0,0,license:mit; region:us
+2026-11-23T18:20:32Z,Snowflake06/NCKH3-StoryPoint-Artifact,Snowflake06,0,0,region:us
+2026-11-23T18:21:39Z,shefowl/polish-sft-synthetic,shefowl,0,0,region:us
+2026-11-23T18:21:42Z,danielrosehill/Audio-Data-Dictionary,danielrosehill,0,0,license:cc-by-4.0; region:us; data-dictionary; schema; asr; speech; hebrish
