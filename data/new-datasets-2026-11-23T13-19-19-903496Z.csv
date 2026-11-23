@@ -1,0 +1,114 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T12:21:37Z,Saidrasul/ocr-wp-evaluation,Saidrasul,0,0,language:chg; language:fa; arxiv:2605.02089; arxiv:2608.22316; arxiv:2308.13418; arxiv:2410.02179; arxiv:2203.12273; arxiv:2608.22366; arxiv:2607.24077; arxiv:1904.09751; arxiv:2106.09685; arxiv:2609…
+2026-11-23T12:22:02Z,chrisw-shadow/nut_5_subset,chrisw-shadow,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-23T12:23:59Z,gunduzcagri/ReGeZen-0.3B-Pretrain-Corpus-TR,gunduzcagri,0,0,task_categories:text-generation; language:tr; language:en; license:apache-2.0; region:us; pretraining; turkish; code; math; strategy; parquet
+2026-11-23T12:24:01Z,Liuyuan103/shapes-qwen3-8b-base-nf4-G,Liuyuan103,0,0,region:us
+2026-11-23T12:24:03Z,hocdz754/zqconv1740,hocdz754,0,0,region:us
+2026-11-23T12:26:13Z,g1n0st/34459120a44081c4e7de7bf3823245b92e60794c,g1n0st,0,0,region:us
+2026-11-23T12:29:10Z,dasdsaasdewc/xleak428761,dasdsaasdewc,0,0,region:us
+2026-11-23T12:29:17Z,asdfasdf3435/zqchart26606,asdfasdf3435,0,0,task_categories:text-classification; license:mit; size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zq
+2026-11-23T12:29:28Z,renderedfits/ai-crawler-access-fashion-2026,renderedfits,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; fashion; e-commerce; shopify; ro…
+2026-11-23T12:29:55Z,Phazel/persian-wikipedia-spelling-corrections,Phazel,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-4.0; size_categories:100K<n<1M; doi:10.57967/hf/11806; region:us; spelling-correction; spell-check; typos; misspellings; persian; farsi;…
+2026-11-23T12:30:16Z,dasdsaasdewc/oidcmine437015,dasdsaasdewc,0,0,region:us
+2026-11-23T12:30:38Z,Willene/llm_courses_50,Willene,0,0,region:us
+2026-11-23T12:30:41Z,gekun/Annoy-PyEdu-Rs,gekun,0,0,region:us
+2026-11-23T12:30:42Z,gekun/Annoy-PyEdu-Rs-Raw,gekun,0,0,region:us
+2026-11-23T12:31:07Z,g1n0st/9087f5d4f105a6c314294f3cfa0e6208f73cdbb4,g1n0st,0,0,region:us
+2026-11-23T12:31:10Z,qwrqwrqwrqr/Annoy-PyEdu-Rs,qwrqwrqwrqr,0,0,region:us
+2026-11-23T12:31:10Z,qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw,qwrqwrqwrqr,0,0,region:us
+2026-11-23T12:31:22Z,hamtaai/tts,hamtaai,0,0,region:us
+2026-11-23T12:31:51Z,danielrosehill/AI-Agent-Interviews,danielrosehill,0,0,task_categories:automatic-speech-recognition; language:en; language:he; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; interview; voice-agent; code-switching; conversational; long-f…
+2026-11-23T12:32:13Z,dasdsaasdewc/oidcmine437132,dasdsaasdewc,0,0,region:us
+2026-11-23T12:32:14Z,CODETS/VERI_CODETS_Core_Logic_Datapath,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T12:32:14Z,cupnb/isaacsim_step-0_0.0.8_1wc_offset_ep750,cupnb,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T12:32:37Z,dasdsaasdewc/oidcmine437157,dasdsaasdewc,0,0,region:us
+2026-11-23T12:33:02Z,Maiken1178/so101_pick_place_night_20261123_2122_20261123_212319,Maiken1178,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T12:33:05Z,cgraiff/elecdeb-annotated-fallacies-vllm-rejsampl,cgraiff,0,0,region:us
+2026-11-23T12:34:02Z,dasdsaasdewc/hookmine437241,dasdsaasdewc,0,0,region:us
+2026-11-23T12:34:15Z,sebius/hypereutectic-alsi-endmill-run-to-failure,sebius,0,0,task_categories:time-series-forecasting; language:de; language:en; license:cc-by-4.0; size_categories:1M<n<10M; doi:10.57967/hf/11809; region:us; tool-wear; remaining-useful-life; run-to-failure; mil…
+2026-11-23T12:34:17Z,tiendung050803/egohumans_tennis,tiendung050803,0,0,region:us
+2026-11-23T12:34:35Z,yasirmustufa/marketing-campaign-performance-200k,yasirmustufa,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T12:34:45Z,hackeronetestt/cpsteal37285,hackeronetestt,0,0,region:us
+2026-11-23T12:34:46Z,hackeronetestt/cpsteal37286,hackeronetestt,0,0,region:us
+2026-11-23T12:34:56Z,Duong17/test-upload-dataset,Duong17,0,0,region:us
+2026-11-23T12:36:14Z,dasdsaasdewc/jwksmine437374,dasdsaasdewc,0,0,region:us
+2026-11-23T12:36:30Z,AutoRLBench/armnet_c01n-dsrl-rbmdemo-20261122_train_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T12:36:58Z,tobiasjanum/BrickDetect,tobiasjanum,0,0,license:cc-by-4.0; region:us
+2026-11-23T12:37:01Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-ragged-t09-t1p1-eval-20261104,hi-todayis-jh,0,0,region:us
+2026-11-23T12:37:29Z,walkingshadow/wetland-condition-alterations-data,walkingshadow,0,0,license:other; region:us
+2026-11-23T12:37:39Z,g1n0st/82c1dbfcadd9c7e428624639b9e9efe71c552d8e,g1n0st,0,0,region:us
+2026-11-23T12:37:39Z,dasdsaasdewc/xresmine437458,dasdsaasdewc,0,0,region:us
+2026-11-23T12:38:14Z,Geoffrey19/cei2-fr3v2-ruihand,Geoffrey19,0,0,task_categories:robotics; license:other; size_categories:10M<n<100M; arxiv:2408.14873; region:us; LeRobot; cei-2.0; droid; cross-embodiment; dexterous-hand; franka; ruiyan-hand
+2026-11-23T12:38:34Z,dasdsaasdewc/xresmine437514,dasdsaasdewc,0,0,region:us
+2026-11-23T12:38:39Z,g1n0st/8d11a3a17bc3686453adc2a9e81de2b907503790,g1n0st,0,0,region:us
+2026-11-23T12:38:52Z,bestinvitecodes/Pump-fun-App-Referral-Code-REBATE10-Get-100-percent-Discount-on-Trading-Fees,bestinvitecodes,0,0,region:us
+2026-11-23T12:39:30Z,BH-Language-AI/cua-bench-2026-11,BH-Language-AI,0,0,language:bs; language:en; license:cc-by-4.0; region:us; benchmark; computer-use; gui-grounding; function-calling; bosnian
+2026-11-23T12:40:08Z,g1n0st/c6213c082ec91cf26bfba09c756b9008c2eb5b84,g1n0st,0,0,region:us
+2026-11-23T12:40:10Z,dasdsaasdewc/kindmine437608,dasdsaasdewc,0,0,region:us
+2026-11-23T12:40:12Z,g1n0st/6641eb81ace44178e9f129e18ec79e77f1eb6071,g1n0st,0,0,region:us
+2026-11-23T12:40:12Z,g1n0st/b4b0d799cefee115043d1bd680b562df5494e52f,g1n0st,0,0,region:us
+2026-11-23T12:40:42Z,nicher92/INTELLECT-3-SFT-decontaminated,nicher92,0,0,region:us
+2026-11-23T12:40:50Z,tanmay-starslab/icm-atlas-web-1,tanmay-starslab,0,0,region:us
+2026-11-23T12:40:55Z,syuekai/ribo-rigidity-audit-packet,syuekai,0,0,region:us
+2026-11-23T12:41:03Z,chrisw-shadow/nut_5_subset_rel,chrisw-shadow,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T12:41:21Z,DSD1W3123/Annoy-PyEdu-Rs,DSD1W3123,0,0,region:us
+2026-11-23T12:41:22Z,DSD1W3123/Annoy-PyEdu-Rs-Raw,DSD1W3123,0,0,region:us
+2026-11-23T12:41:52Z,vnpornads/cdn-hls-188,vnpornads,0,0,region:us
+2026-11-23T12:42:25Z,asdfasdf3435/zqp26607,asdfasdf3435,0,0,license:mit; region:us
+2026-11-23T12:42:34Z,Tridex/40_fluo-vs-gazeuse-briquet_13h_23-11_20261123_131531,Tridex,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T12:43:12Z,dasdsaasdewc/jwkss437791,dasdsaasdewc,0,0,region:us
+2026-11-23T12:44:22Z,HumanCOIN/l3_workroom_open_lock_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; region:us; HumanCOIN; L3; egocentric; multi-sensor; open_lock
+2026-11-23T12:44:36Z,arabic-scientific-versifier/initial-dataset,arabic-scientific-versifier,0,1,license:gpl-3.0; region:us
+2026-11-23T12:46:40Z,FreaxRuby/cad-t,FreaxRuby,0,0,region:us
+2026-11-23T12:46:44Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-23T12:46:45Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-23T12:47:01Z,FreaxRuby/cad-a,FreaxRuby,0,0,region:us
+2026-11-23T12:47:02Z,Polaris011111/sampled_videos,Polaris011111,0,0,region:us
+2026-11-23T12:47:52Z,asfafaf445/Annoy-PyEdu-Rs,asfafaf445,0,0,region:us
+2026-11-23T12:47:52Z,asfafaf445/Annoy-PyEdu-Rs-Raw,asfafaf445,0,0,region:us
+2026-11-23T12:49:01Z,wwwq14/so101_blue_block_success_20ep_20261123_2039_20261123_203939,wwwq14,0,0,region:us
+2026-11-23T12:49:07Z,Vpn1000/pokemon-legends-arceus,Vpn1000,0,0,region:us
+2026-11-23T12:50:21Z,Nitin2004/RQB-lab-backup-public,Nitin2004,0,0,license:other; region:us
+2026-11-23T12:50:35Z,narugo1992/test_repo_20261123125035160299_d651ed13c76139f44a29e5aa88987ca704201455,narugo1992,0,0,region:us
+2026-11-23T12:52:22Z,fabricioslv/gravitational-wave-autoencoders,fabricioslv,0,0,region:us
+2026-11-23T12:53:13Z,g1n0st/1d42fcfc1ecab8ea56b78f197fef6e37851dd515,g1n0st,0,0,region:us
+2026-11-23T12:55:18Z,GenAI99/github-issues,GenAI99,0,0,region:us
+2026-11-23T12:56:44Z,HumanCOIN/l3_workroom_organize_cable_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,region:us
+2026-11-23T12:56:46Z,dougalldeepmind/2026-11-23-da-gpt-voice-15-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-gpt-voice; constitution:claude_distilled_09_principles; stage:final
+2026-11-23T12:57:04Z,seonu549/team1_stb,seonu549,0,0,region:us
+2026-11-23T13:00:36Z,g1n0st/466e5828b1995d05c05a598790a46b64d817f564,g1n0st,0,0,region:us
+2026-11-23T13:01:06Z,g1n0st/a0714eb50d435fd0f54429ee90a5bddaa74b00ae,g1n0st,0,0,region:us
+2026-11-23T13:01:16Z,Doxi-AI/NeoWorld-10K,Doxi-AI,0,0,license:cc-by-4.0; region:us
+2026-11-23T13:01:56Z,CODETS/VERI_CODETS_Control_State_Machines,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T13:02:11Z,g1n0st/2e754e56bc92778b05dd74cf21748661352d12ae,g1n0st,0,0,region:us
+2026-11-23T13:02:53Z,zhapand/download-anythings-from-chinese,zhapand,0,0,region:us
+2026-11-23T13:03:11Z,g1n0st/f1151fc57d2f196e77bc2a03d1e485c9c3be7e8c,g1n0st,0,0,region:us
+2026-11-23T13:04:19Z,JBG89Spain/ESSsurveys.sav,JBG89Spain,0,0,region:us
+2026-11-23T13:05:00Z,CODETS/VERI_CODETS_Memory_Storage_Systems,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T13:05:28Z,RockTheBoat/VoxCPM2-pol-one-voice-liczby,RockTheBoat,0,0,task_categories:text-to-speech; language:pl; license:apache-2.0; region:us; synthetic; voxcpm2
+2026-11-23T13:05:30Z,salmankhanpm/RASA,salmankhanpm,0,0,region:us
+2026-11-23T13:05:35Z,CODETS/VERI_CODETS_Communication_Bus_Interfaces,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T13:07:27Z,CODETS/VERI_CODETS_Processors_DSP_Accelerators,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T13:07:43Z,g1n0st/9ed734b9e393399681ef54c38be9cd3386e61238,g1n0st,0,0,region:us
+2026-11-23T13:07:46Z,CODETS/VERI_CODETS_Verification_Synthesis_Aware_RTL,CODETS,0,0,task_categories:text-generation; language:en; license:apache-2.0; region:us; verilog; systemverilog; rtl; hardware; eda
+2026-11-23T13:08:10Z,g1n0st/60da3654973f96526e9edc9c419b0c09c945fcb0,g1n0st,0,0,region:us
+2026-11-23T13:08:21Z,Level26Muse/reading-room-electricity-foundations,Level26Muse,0,0,language:en; license:cc0-1.0; region:us; public-domain; history-of-science; electricity; archive-reading-room
+2026-11-23T13:09:09Z,yoramhalberstamhfv/zz-lab-t9-aa5fe5,yoramhalberstamhfv,0,0,region:us
+2026-11-23T13:09:37Z,g1n0st/b04e9199bbdace33f561e4752e98c7b8e360ef64,g1n0st,0,0,region:us
+2026-11-23T13:10:04Z,Scientific91/si-thumbnail-assets,Scientific91,0,0,region:us
+2026-11-23T13:10:26Z,vis22/50_piper_sim_cube_4_20261123_183334,vis22,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T13:12:00Z,WTH991004/XZH-MD_files,WTH991004,0,0,region:us
+2026-11-23T13:12:12Z,ia-university/glosario-ia-docentes-es,ia-university,0,0,task_categories:text-generation; task_categories:question-answering; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; education; ai-literacy; glossary; spanish; teachers
+2026-11-23T13:14:01Z,AutoRLBench/armnet_c01n-dsrl-rbmdemo-20261122_train_39,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T13:14:35Z,danielpappa/g1_walk_to_target,danielpappa,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; g1; mujoco; walk; synthetic
+2026-11-23T13:14:40Z,hamtaai/tts-schema-test,hamtaai,0,0,region:us
+2026-11-23T13:15:03Z,ia-university/actividades-ia-sin-pantallas-es,ia-university,0,0,task_categories:text-generation; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; education; ai-literacy; unplugged; lesson-plans; spanish
+2026-11-23T13:15:34Z,dasdsaasdewc/travpub428761,dasdsaasdewc,0,0,region:us
+2026-11-23T13:16:28Z,Tridex/40_gazeuse-vs-fluo-briquet_14h_23-11_20261123_135841,Tridex,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T13:16:37Z,yoramhalberstam/zz-lab-brf-c3cbd8,yoramhalberstam,0,0,region:us
+2026-11-23T13:17:03Z,jameszhu97/agentabstain-harbor-parity,jameszhu97,0,0,region:us; benchmark; evaluation
+2026-11-23T13:17:20Z,yoramhalberstam/zz-lab-brg-c3cbd8,yoramhalberstam,0,0,region:us
+2026-11-23T13:17:51Z,vis22/50_piper_sim_cube_5_20261123_184108,vis22,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-23T13:18:09Z,DeckardLong/ai-content-detection-dataset,DeckardLong,0,0,license:mit; region:us
+2026-11-23T13:19:12Z,g1n0st/4405bf0694a0c84019fd5a3a954e7afdfb14855d,g1n0st,0,0,region:us
+2026-11-23T13:19:13Z,ia-university/prompts-estudio-estudiantes-es,ia-university,0,0,license:cc-by-4.0; region:us
