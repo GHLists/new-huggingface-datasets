@@ -1,0 +1,100 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T08:19:48Z,tanmay-starslab/auriga-z0-web-0,tanmay-starslab,0,0,license:other; arxiv:1812.05609; arxiv:1902.05554; arxiv:1902.05553; arxiv:2507.11603; region:us
+2026-11-23T08:19:50Z,HeOCR/nonlegislative-diversity-v4-revised,HeOCR,0,0,task_categories:image-to-text; language:he; license:cc0-1.0; region:us; ocr; hebrew; synthetic
+2026-11-23T08:21:02Z,agriculture-food-systems-ai/Swimming-Crab-Pond-Water-Quality-Causal-Reasoning-Question-Answer-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; swimming crab aquaculture dataset; water quality causa…
+2026-11-23T08:21:22Z,longqt321/tinyperson-yolo,longqt321,0,0,region:us
+2026-11-23T08:22:40Z,tanmay-starslab/tng-illustris-z0-web-0,tanmay-starslab,0,0,license:other; arxiv:1812.05609; arxiv:1902.05554; arxiv:1902.05553; arxiv:2507.11603; region:us
+2026-11-23T08:23:10Z,wwwq14/so101_blue_block_recovery_r2_50ep_20261123_1551_20261123_155158,wwwq14,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-23T08:23:32Z,walkingshadow/hail-size-classes-data,walkingshadow,0,0,license:other; region:us; terminal-bench-science
+2026-11-23T08:25:14Z,vnpornads/cdn-hls-176,vnpornads,0,0,region:us
+2026-11-23T08:26:24Z,vennelanalluri1805/Deepfake,vennelanalluri1805,0,0,task_categories:image-classification; language:en; license:mit; size_categories:10K<n<100K; region:us; deepfake; face-swap; detection; computer-vision; insightface
+2026-11-23T08:28:07Z,kd13/talkinghead-frames,kd13,0,0,region:us
+2026-11-23T08:30:22Z,scapino/taq-sp500,scapino,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-23T08:31:08Z,benson59487/92k-real-world-call-center-scripts-english,benson59487,0,0,language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; arxiv:2507.02958; region:us
+2026-11-23T08:31:22Z,LingbotNav/lingbot_data,LingbotNav,0,0,region:us
+2026-11-23T08:32:07Z,vasanth2431/MicroOS-v1.0-ISO,vasanth2431,0,0,license:mit; region:us; operating-system; linux; debian; xfce; virtualbox; live-iso
+2026-11-23T08:32:48Z,VAIBHAV862008/micro_os,VAIBHAV862008,0,0,region:us
+2026-11-23T08:33:41Z,Imaj/icar-nbsslup-india-soil-250k,Imaj,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; modality:geospatial; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; soil; agriculture;…
+2026-11-23T08:34:45Z,dwdcth/hanhuo-shizi-dataset,dwdcth,0,0,region:us
+2026-11-23T08:35:09Z,Faless/harvest_hedge_v2_random_600,Faless,0,0,region:us
+2026-11-23T08:38:07Z,hi-todayis-jh/ouro-1.4b-thinking-pool10-amc23-32k-ragged-t07-t1p1-eval-20261104,hi-todayis-jh,0,0,region:us
+2026-11-23T08:39:35Z,NA2RU2/spine-cli-sft-ko-2b-round2,NA2RU2,0,0,task_categories:text-generation; language:ko; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T08:39:45Z,MariHome/hf_netdisk,MariHome,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-23T08:40:19Z,BigLamed/dual-core-ai,BigLamed,0,1,language:ru; license:cc-by-4.0; size_categories:n<1K; region:us; llm; cognitive-architecture; contextual-assembly; semantic-programming; russian; research-corpus
+2026-11-23T08:42:16Z,tuanhqv123/DMA-2B-results,tuanhqv123,0,0,license:other; size_categories:1K<n<10K; region:us; gui-agent; mobile-agent; android; androidcontrol; androidworld; evaluation
+2026-11-23T08:42:21Z,ayganyavuz/sad,ayganyavuz,0,0,region:us
+2026-11-23T08:42:36Z,chihyungwang/R1_Pick_up_the_bobbin,chihyungwang,0,0,region:us
+2026-11-23T08:42:56Z,avezattar/altparts,avezattar,0,0,region:us
+2026-11-23T08:44:30Z,danielrosehill/ASR-Eval-Bench,danielrosehill,0,0,task_categories:automatic-speech-recognition; language:en; language:he; license:cc-by-4.0; size_categories:n<1K; region:us; speech; asr; benchmark; code-switching; single-speaker; whispered-speech
+2026-11-23T08:44:34Z,avezattar/ph0n4,avezattar,0,0,region:us
+2026-11-23T08:44:57Z,vnpornads/cdn-hls-177,vnpornads,0,0,region:us
+2026-11-23T08:46:25Z,sejzu0123/0fb694b4-b86d-431d-81fb-be0fd7992563,sejzu0123,0,0,region:us
+2026-11-23T08:46:40Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-11-23T08:46:41Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-11-23T08:46:53Z,g1n0st/b9f5183eb2c355d19e9103004edd02ddfbc2372a,g1n0st,0,0,region:us
+2026-11-23T08:46:57Z,zhaodongwu/SAET-23K-Videos,zhaodongwu,0,0,size_categories:10K<n<100K; modality:video; region:us; video
+2026-11-23T08:47:36Z,hackeronetestt/idisc23656,hackeronetestt,0,0,region:us
+2026-11-23T08:48:28Z,khb2439/capstone-data-20261123,khb2439,0,0,task_categories:robotics; region:us; robotics; lerobot; piper; so101; teleoperation
+2026-11-23T08:49:34Z,hackeronetestt/idisc23773,hackeronetestt,0,0,region:us
+2026-11-23T08:50:00Z,HeOCR/remote-smoke,HeOCR,0,0,license:cc0-1.0; region:us; synthetic; smoke-test
+2026-11-23T08:52:32Z,fahadturki653/Apex-mobile,fahadturki653,0,0,license:unknown; region:us
+2026-11-23T08:52:34Z,Subash14082007/subash_micro_os,Subash14082007,0,0,region:us
+2026-11-23T08:52:52Z,orulink-Ciel/WatcherRobot-Firmware-watcher-visual-focus-training,orulink-Ciel,0,0,language:en; region:us; watcherobot; firmware; esp32-s3
+2026-11-23T08:52:53Z,henry-raomusic/same-brief-text-to-music-eval,henry-raomusic,0,1,task_categories:text-to-audio; language:en; language:zh; language:ja; license:cc-by-4.0; size_categories:n<1K; region:us; music; music-generation; text-to-music; evaluation; benchmark; human-evaluati…
+2026-11-23T08:53:22Z,ZZR42/badvla-checkpoints,ZZR42,0,0,region:us
+2026-11-23T08:53:37Z,ClOBOT/pack_the_box,ClOBOT,0,0,region:us
+2026-11-23T08:53:56Z,hackeronetestt/trav24035,hackeronetestt,0,0,region:us
+2026-11-23T08:54:25Z,mondk/MSH-Awesome-Skills,mondk,0,0,language:en; language:vi; license:mit; region:us; msh; skills; claude-code
+2026-11-23T08:54:33Z,lllllluziziz/aeon-mall-load-forecast-results,lllllluziziz,0,0,task_categories:time-series-forecasting; license:other; region:us; aeon-mall; forecasting; leaderboard-results
+2026-11-23T08:57:50Z,choloka/choloka-media,choloka,0,0,region:us
+2026-11-23T08:57:52Z,listi2121/kae-style-refs,listi2121,0,0,region:us
+2026-11-23T08:57:56Z,g1n0st/dc27c92f42289875f102cfff2d90e6af0ea4d978,g1n0st,0,0,region:us
+2026-11-23T08:58:54Z,g1n0st/b6206d690260d5a607aaebbfe4a0eb9a159be014,g1n0st,0,0,region:us
+2026-11-23T08:59:38Z,OpenMOSS-Team/VideoGym-Train,OpenMOSS-Team,0,0,license:apache-2.0; region:us
+2026-11-23T08:59:51Z,ketiholo/stack8_machine_v8_6mm_1120to1123_294,ketiholo,0,0,region:us
+2026-11-23T09:00:00Z,ntrThanh05/clips-tests-annotations,ntrThanh05,0,0,task_categories:object-detection; region:us
+2026-11-23T09:01:21Z,lllllluziziz/gx-price-agent-ensemble-results,lllllluziziz,0,0,task_categories:time-series-forecasting; license:other; region:us; guangxi; forecasting; leaderboard-results
+2026-11-23T09:01:33Z,teambusia/ukraine-europe-bus-transit-hubs,teambusia,0,0,task_categories:table-to-text; license:cc-by-4.0; size_categories:1K<n<10K; region:us; transit; transportation; mobility; ukraine; bus-schedules; cross-border
+2026-11-23T09:02:54Z,g1n0st/8a0ed0a0b3cf14712f62ce6efbe615d6a5f13b99,g1n0st,0,0,region:us
+2026-11-23T09:02:59Z,g1n0st/4e5c4bd43af248e615d118e2fba1392a91c9ef99,g1n0st,0,0,region:us
+2026-11-23T09:03:03Z,g1n0st/c3bd8323cd4de6ac0f49b92058b7ad1752a1963f,g1n0st,0,0,region:us
+2026-11-23T09:03:14Z,anaaaaaa13421312/zenz-kana-slm-v2-assets,anaaaaaa13421312,0,0,region:us
+2026-11-23T09:03:21Z,anaaaaaa13421312/zenz-kana-slm-v2-sft-ja,anaaaaaa13421312,0,0,region:us
+2026-11-23T09:03:22Z,csoai/gspc-meok-evidence-adaptation-lab,csoai,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-evaluation; ai-safety; model-reliability; longitudinal-analysis; reproducibility; provenance; human-in-the-loop
+2026-11-23T09:03:32Z,g1n0st/0d4607d43ec71f6dde193abbcdc00de8a632d23c,g1n0st,0,0,region:us
+2026-11-23T09:03:33Z,g1n0st/4b43a2f55d961dfd82f60f339c1024adb3e06f9c,g1n0st,0,0,region:us
+2026-11-23T09:03:42Z,zbhpku/DivDynBench,zbhpku,0,0,region:us
+2026-11-23T09:04:05Z,blmq/Annoy-PyEdu-Rs,blmq,0,0,region:us
+2026-11-23T09:04:06Z,blmq/Annoy-PyEdu-Rs-Raw,blmq,0,0,region:us
+2026-11-23T09:05:26Z,vnpornads/cdn-hls-178,vnpornads,0,0,region:us
+2026-11-23T09:05:29Z,tommylevin133/whiskey_dataset,tommylevin133,0,0,license:mit; region:us
+2026-11-23T09:05:40Z,hackeronetestt/trav24739,hackeronetestt,0,0,region:us
+2026-11-23T09:06:44Z,academicquant/probability-puzzle-values,academicquant,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; probability; quant-interview; expected-value; puzzles
+2026-11-23T09:07:24Z,johndpope/pi-H3-zoom-repro,johndpope,0,0,license:other; region:us; pi-H3; MiniMax-H3; bug-report
+2026-11-23T09:07:47Z,grey-cat/cs6013-final10-artifacts-no-prune,grey-cat,0,0,region:us
+2026-11-23T09:07:51Z,lllllluziziz/gx-price-simple23-results,lllllluziziz,0,0,task_categories:time-series-forecasting; license:other; region:us; guangxi; forecasting; leaderboard-results
+2026-11-23T09:08:22Z,hackeronetestt/flt424901,hackeronetestt,0,0,region:us
+2026-11-23T09:09:06Z,g1n0st/8684ee64f7ac21288f96a1d285f685833fe4872b,g1n0st,0,0,region:us
+2026-11-23T09:09:07Z,g1n0st/138f6bee2e32707cd62532b1fe89cd282fce04c8,g1n0st,0,0,region:us
+2026-11-23T09:10:41Z,Thanglm2006/vnstock-2018-2026,Thanglm2006,0,0,license:mit; region:us
+2026-11-23T09:10:59Z,er77ai/pharmacopeia-qa,er77ai,0,0,task_categories:question-answering; language:ru; language:en; license:agpl-3.0; size_categories:1K<n<10K; region:us; question-answering; retrieval-augmented-generation; development-only
+2026-11-23T09:11:03Z,g1n0st/7a10e05d4028ca9887d1fe57979ab42dc9a64b85,g1n0st,0,0,region:us
+2026-11-23T09:11:03Z,g1n0st/c0841bf934715613ffb10e32f45d940554971148,g1n0st,0,0,region:us
+2026-11-23T09:11:36Z,thinhvo6530/airship,thinhvo6530,0,0,region:us
+2026-11-23T09:11:55Z,BigLamed/odessa-firmware,BigLamed,0,1,language:ru; license:cc-by-4.0; size_categories:n<1K; region:us; llm; semantic-programming; contextual-learning; cognitive-architecture; humor; russian; research-corpus
+2026-11-23T09:12:33Z,g1n0st/6e1a1a41b4c5b774e233ace99a0ca249ae4ad54d,g1n0st,0,0,region:us
+2026-11-23T09:13:10Z,thaobui27868/capella,thaobui27868,0,0,region:us
+2026-11-23T09:14:39Z,khanhduong94963/cetacean,khanhduong94963,0,0,region:us
+2026-11-23T09:15:01Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g10_run2,stefanocarrera,0,0,region:us
+2026-11-23T09:15:52Z,ashank-crazy/sandesh-bench-final,ashank-crazy,0,0,language:en; language:hi; language:bn; language:ta; language:mr; license:cc-by-nc-4.0; region:us; prompt-injection; ai-safety; red-teaming; multilingual; code-mixed; agents; india; interpretability
+2026-11-23T09:15:54Z,acD124SAQ/Annoy-PyEdu-Rs,acD124SAQ,0,0,region:us
+2026-11-23T09:15:55Z,acD124SAQ/Annoy-PyEdu-Rs-Raw,acD124SAQ,0,0,region:us
+2026-11-23T09:16:37Z,DavidPigeon/Xujiaqi_data,DavidPigeon,0,0,license:apache-2.0; region:us
+2026-11-23T09:16:38Z,cuongdang13654/corona,cuongdang13654,0,0,region:us
+2026-11-23T09:17:08Z,poirot26/consumer-ai-hardware-2year-costs,poirot26,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ai-hardware; wearables; pricing; economics; total-cost-of-ownership; subscriptions; voice-recorders; smart-rings; smart-glasses
+2026-11-23T09:18:56Z,phuongduong44687/hovercraft,phuongduong44687,0,0,region:us
+2026-11-23T09:19:29Z,victor/llama-chat-traces,victor,0,0,region:us
+2026-11-23T09:19:34Z,HeOCR/nonlegislative-phone-heavy-v1,HeOCR,0,0,task_categories:image-to-text; language:he; license:cc0-1.0; region:us
+2026-11-23T09:20:35Z,cuongho67976/peninsula,cuongho67976,0,0,region:us
+2026-11-23T09:20:41Z,sunnysetia/locus-web,sunnysetia,0,0,task_categories:text-generation; license:odc-by; region:us
+2026-11-23T09:20:45Z,sunnysetia/locus-web-multilingual,sunnysetia,0,0,region:us
