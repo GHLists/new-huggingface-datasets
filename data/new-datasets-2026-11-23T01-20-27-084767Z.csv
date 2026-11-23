@@ -1,0 +1,60 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-23T00:20:58Z,vnpornads/cdn-hls-159,vnpornads,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T00:21:44Z,Changahou/GU2026_1,Changahou,0,0,task_categories:other; language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; portfol…
+2026-11-23T00:22:27Z,agency-fund/gshealth-samesame,agency-fund,0,0,language:en; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; mental-health
+2026-11-23T00:22:50Z,HumanCOIN/l3_workroom_balance_scale_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region…
+2026-11-23T00:23:40Z,agency-fund/gshealth-intron-health,agency-fund,0,0,language:en; language:fr; language:ar; language:sw; language:ha; language:yo; language:ig; language:zu; language:xh; language:af; language:rw; language:sn; language:ak; language:st; language:tn; lang…
+2026-11-23T00:25:21Z,agency-fund/gshealth-ehealth-africa,agency-fund,0,0,language:ha; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; speech-recognition; intent-classification
+2026-11-23T00:25:29Z,markendo/BioMedFlickr-captions-questions,markendo,0,0,language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-23T00:26:17Z,agency-fund/gshealth-pinky-promise,agency-fund,0,0,language:en; language:hi; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; womens-health
+2026-11-23T00:26:58Z,HumanCOIN/l3_workroom_charge_laptop_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; HumanCOIN; L3; egocentric; multi-sensor; charge_laptop
+2026-11-23T00:27:06Z,sejzu0123/af341471-e477-4d15-910c-e4b675183116,sejzu0123,0,0,region:us
+2026-11-23T00:27:10Z,M1keR/SB-2611,M1keR,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-23T00:27:28Z,agency-fund/gshealth-intelehealth,agency-fund,0,0,language:en; language:mr; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; telemedicine; clinical-decision-support
+2026-11-23T00:28:10Z,shalevlau/ig-archive-test,shalevlau,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-23T00:28:36Z,agency-fund/gshealth-penda-health,agency-fund,0,0,language:en; language:sw; license:cc-by-4.0; region:us; health; benchmark; global-south; llm-evaluation; patient-instructions
+2026-11-23T00:29:33Z,yhjollin/Seed43_B16_Loop_9,yhjollin,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T00:29:50Z,tacticalrap87/unidad-3-ia-infraestructura,tacticalrap87,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-23T00:31:12Z,ascxzSAD1DSA/Annoy-PyEdu-Rs-Raw,ascxzSAD1DSA,0,0,region:us
+2026-11-23T00:31:12Z,ascxzSAD1DSA/Annoy-PyEdu-Rs,ascxzSAD1DSA,0,0,region:us
+2026-11-23T00:32:07Z,sejzu0123/879cd384-d7ce-48bf-a4d0-9b28ae5542af,sejzu0123,0,0,region:us
+2026-11-23T00:33:51Z,AutoRLBench/armnet_c01n-dsrl-20261122_train_100,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-23T00:35:23Z,sejzu0123/171d15a6-a02c-4036-b3ac-538a0c4de3e8,sejzu0123,0,0,region:us
+2026-11-23T00:35:30Z,Anonymous216/relaion-nsfw-mined,Anonymous216,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; not-for-all-audiences
+2026-11-23T00:36:30Z,SADSA21DSA21/Annoy-PyEdu-Rs,SADSA21DSA21,0,0,region:us
+2026-11-23T00:36:31Z,SADSA21DSA21/Annoy-PyEdu-Rs-Raw,SADSA21DSA21,0,0,region:us
+2026-11-23T00:38:09Z,HumanCOIN/l3_workroom_clean_trash_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,language:en; language:zh; license:cc-by-nc-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-11-23T00:39:44Z,zook4/contractor-sanctions-sample,zook4,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; regulatory; constr…
+2026-11-23T00:41:16Z,tdw419/zeroneg-dataset,tdw419,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; negation; semantic-rewriting; e-pr…
+2026-11-23T00:42:22Z,S4MPL3BI4S/sci-atlas-gse10072-sft,S4MPL3BI4S,0,0,task_categories:question-answering; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; biology; gene-e…
+2026-11-23T00:43:23Z,HuyNgo/preview-sea-retrieval,HuyNgo,0,0,size_categories:n<1K; format:parquet; format:optimized-parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cultural-heritage; sou…
+2026-11-23T00:43:23Z,BeardedMonster/african-code-switch-benchmark,BeardedMonster,0,0,task_categories:text-generation; language:afr; language:amh; language:bam; language:ewe; language:fon; language:ful; language:gpe; language:hau; language:ibo; language:kik; language:kin; language:kon…
+2026-11-23T00:45:19Z,S4MPL3BI4S/sci-atlas-gse10072-rag,S4MPL3BI4S,0,0,task_categories:feature-extraction; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; genomics; retri…
+2026-11-23T00:49:02Z,S4MPL3BI4S/sci-atlas-gse10072-rl,S4MPL3BI4S,0,0,language:en; license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; reinforcement-learning; verifiable-r…
+2026-11-23T00:49:45Z,tc-huang-mahjong/pi05_mahjong_v1_tray07_twos_ovphysx_detour_vary_off5_nosplit_full_eval_step-030000_chunkexec25,tc-huang-mahjong,0,0,region:us
+2026-11-23T00:49:45Z,tc-huang-mahjong/pi05_mahjong_v1_tray07_twos_ovphysx_detour_vary_off5_nosplit_full_eval_step-030000,tc-huang-mahjong,0,0,region:us
+2026-11-23T00:50:37Z,palavue/county-economy-bundle-sample,palavue,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-23T00:50:51Z,SOSDeepfake/barometre-faux-sites-marchands,SOSDeepfake,0,0,language:fr; license:etalab-2.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurite; usurpation-de-marque…
+2026-11-23T00:50:54Z,romalab-cbf/cbf_pilot_test,romalab-cbf,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-23T00:55:08Z,HumanCOIN/l3_workroom_disassemble_mechanical_part_left_1920x1200_30fps_11views_eeg33_emg8,HumanCOIN,0,0,region:us
+2026-11-23T00:55:37Z,AutoRLBench/armnet_c01n-dsrl-20261122-ep200_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-23T00:56:41Z,SOSDeepfake/sosies-messagerie-entreprises-francaises,SOSDeepfake,0,0,language:fr; license:etalab-2.0; size_categories:n<1K; modality:document; region:us; cybersecurite; usurpation-didentite; noms-de-domaine
+2026-11-23T00:57:32Z,dronefreak/SaMi-Trop,dronefreak,0,0,region:us
+2026-11-23T01:07:01Z,sejzu0123/8fde9aea-d47f-4694-97dc-49b389e9e1b9,sejzu0123,0,0,region:us
+2026-11-23T01:07:09Z,joserui/tiny-voca-pt-pt-data,joserui,0,0,task_categories:text-to-speech; language:pt; license:apache-2.0; size_categories:10K<n<100K; region:us; european-portuguese; pt-pt; synthetic
+2026-11-23T01:07:24Z,stefanocarrera/kic_D_test-python_Qwen3-8B_t0.5_g7_run2,stefanocarrera,0,0,region:us
+2026-11-23T01:07:41Z,hiwe0305/MemCert,hiwe0305,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:10M<n<100M; region:us; LeRobot; memcert; robot-memory; benchmark; manipulation; simulation
+2026-11-23T01:09:09Z,sejzu0123/31fd5fa8-2407-4f6b-a83e-a8ac0ca960dd,sejzu0123,0,0,region:us
+2026-11-23T01:09:22Z,siba4442/odia-synthetic-data-mirror,siba4442,0,0,task_categories:image-to-text; language:or; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; region:us; ocr; odia; oriya; indic; synthetic
+2026-11-23T01:10:46Z,SOTAagi2030/Annoy-PyEdu-Rs,SOTAagi2030,0,0,region:us
+2026-11-23T01:10:47Z,SOTAagi2030/Annoy-PyEdu-Rs-Raw,SOTAagi2030,0,0,region:us
+2026-11-23T01:14:36Z,webstk3/mis752-bonus-one-question,webstk3,0,0,license:mit; region:us; mis-752; bonus
+2026-11-23T01:14:43Z,siba4442/odia-ocr-benchmark-50,siba4442,0,0,task_categories:image-to-text; language:or; license:cc-by-nc-sa-4.0; size_categories:n<1K; region:us; ocr; odia; oriya; indic; benchmark
+2026-11-23T01:15:12Z,MIS-752/bonus-webstk3,MIS-752,0,0,license:mit; region:us; mis-752; bonus
+2026-11-23T01:15:21Z,ToanLe13/eng-fra-pytorch-translation,ToanLe13,0,0,region:us
+2026-11-23T01:17:11Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-23T01:17:11Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-23T01:19:03Z,migueldbsfnz/ncm-latent,migueldbsfnz,0,0,region:us
+2026-11-23T01:19:31Z,csoai/gspc-synthetic-dataset-mutation,csoai,0,0,language:en; license:cc-by-4.0; region:us; synthetic; dataset-integrity; ai-safety; reproducibility; data-poisoning-research
+2026-11-23T01:19:36Z,csoai/gspc-repeat-observation-integrity,csoai,0,0,language:en; license:cc-by-4.0; region:us; ai-safety; evaluation; provenance; reproducibility; dataset-integrity
+2026-11-23T01:20:01Z,csoai/gspc-evidence-coverage-feed,csoai,0,0,language:en; license:cc-by-4.0; region:us; ai-safety; evaluation; evidence-integrity; reproducibility
