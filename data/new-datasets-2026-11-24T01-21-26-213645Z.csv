@@ -1,0 +1,110 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T00:21:44Z,rmems/cyberpunk-2077-hardware-telemetry,rmems,0,0,license:mit; license:apache-2.0; region:us; telemetry; gpu; spiking-neural-network; cyberpunk-2077
+2026-11-24T00:21:47Z,boinkie/rollout_santa_ducky_v1_eval_20261123_160421,boinkie,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; operator:Gianna; eval:eval
+2026-11-24T00:23:50Z,Viviannnyang/SA-V-grounded-caption-action-temporal-train,Viviannnyang,0,0,language:en; license:cc-by-4.0; region:us; video-captioning; grounded-captioning; video-object-segmentation; action-localization; temporal-grounding
+2026-11-24T00:24:09Z,coderXP/en-small-talk-corpus,coderXP,0,0,license:cc0-1.0; region:us; small; smoke-test; chat
+2026-11-24T00:26:14Z,g1n0st/1fa55ce1a45a80e3dc31c22e84c40a7ef8783187,g1n0st,0,0,region:us
+2026-11-24T00:26:22Z,lchandraw243/tab_screw_pnp_1_20261123_161223,lchandraw243,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T00:26:53Z,averyzhao/greenblock5part6,averyzhao,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T00:28:07Z,Roxana9/Hebi,Roxana9,0,0,region:us
+2026-11-24T00:28:16Z,g1n0st/ee64301ae0bd566897cf0ee7087fae7fffdd3a94,g1n0st,0,0,region:us
+2026-11-24T00:28:24Z,g1n0st/74d447c28443c9e5f4db0d0fe5300685981e790a,g1n0st,0,0,region:us
+2026-11-24T00:28:43Z,averyzhao/greenblock5,averyzhao,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T00:28:43Z,g1n0st/20bb74086832cab557cc5877fe58716ccfb4c566,g1n0st,0,0,region:us
+2026-11-24T00:29:14Z,g1n0st/4d001a2757978b181e2d2369fff3d4d8c311ab04,g1n0st,0,0,region:us
+2026-11-24T00:29:18Z,g1n0st/bbb4ff00d73b8ea7f81006ffb3dd2b693cfa4d62,g1n0st,0,0,region:us
+2026-11-24T00:29:38Z,hackathonboys/banglaknight_dataset,hackathonboys,0,0,license:apache-2.0; region:us
+2026-11-24T00:32:23Z,yyuncong/selector-eval-summary,yyuncong,0,0,region:us
+2026-11-24T00:33:31Z,northkoreahub/dprk-access-rules,northkoreahub,0,0,language:en; license:cc-by-4.0; region:us; north-korea; dprk; travel; visa; dataset
+2026-11-24T00:33:51Z,wingx/StandWithJensen,wingx,0,0,task_categories:text-classification; task_categories:text-generation; language:en; language:zh; language:ja; language:ko; language:ru; license:cc-by-nc-4.0; size_categories:100K<n<1M; region:us; peti…
+2026-11-24T00:34:18Z,g1n0st/d38a09f85dff54986de76dfa330b188c4776aad8,g1n0st,0,0,region:us
+2026-11-24T00:34:19Z,Umang-Bansal/so101_pickbox_vr,Umang-Bansal,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T00:34:32Z,Zenodo-ML/BNB-USDT-Tick-Level-Trade-Data-21859043,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:34:57Z,uclanlp/ToolSmith-Datasets,uclanlp,0,0,task_categories:visual-question-answering; license:other; region:us
+2026-11-24T00:35:16Z,rmems/spikenaut-fpga-sessions,rmems,0,0,license:mit; license:apache-2.0; region:us; telemetry; gpu; fpga; spiking-neural-network; neuromorphic
+2026-11-24T00:35:19Z,Zenodo-ML/sigmutselcovs-TCGA-KIRC,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:35:38Z,Trommsdorff/thefiscalfinder-federal-spending-rankings,Trommsdorff,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; federal-spending; usaspending; government-contracts; public-finance; united-states; open-government-data; tabu…
+2026-11-24T00:36:03Z,laion/laion-cell-013,laion,0,0,task_categories:image-to-text; task_categories:text-to-image; task_categories:video-classification; license:other; modality:video; library:webdataset; region:us; biology; microscopy; cell-biology; hi…
+2026-11-24T00:36:21Z,g1n0st/cc4aa183fb73d99f77ca5c02c4b1145e8e039155,g1n0st,0,0,region:us
+2026-11-24T00:36:46Z,vnpornads/cdn-hls-202,vnpornads,0,0,region:us
+2026-11-24T00:36:51Z,g1n0st/200087a12c6c350f91f35e015c7cddda3cd7d49b,g1n0st,0,0,region:us
+2026-11-24T00:36:57Z,g1n0st/9576195d6368c0f37647f6327b6315e058ce78ff,g1n0st,0,0,region:us
+2026-11-24T00:37:11Z,Zenodo-ML/Open-Source-DGGS-Comparison-Data-Supplement-6634479,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:37:20Z,g1n0st/725461c7af0c3b21e192d8a122374959fa633d5c,g1n0st,0,0,region:us
+2026-11-24T00:38:30Z,coderXP/en-small-talk-corpus-b,coderXP,0,0,license:cc0-1.0; region:us; small; smoke-test; chat
+2026-11-24T00:39:23Z,zhujiaying-mcpbench/Annoy-PyEdu-Rs,zhujiaying-mcpbench,0,0,region:us
+2026-11-24T00:39:24Z,zhujiaying-mcpbench/Annoy-PyEdu-Rs-Raw,zhujiaying-mcpbench,0,0,region:us
+2026-11-24T00:39:53Z,LOTUZIN/ZRXAPI,LOTUZIN,0,1,region:us
+2026-11-24T00:42:33Z,lishuhuan/Sinan-Bench-Online,lishuhuan,0,0,region:us
+2026-11-24T00:43:46Z,g1n0st/e376cee6bcad820aa8a98873dad6a378126277d7,g1n0st,0,0,region:us
+2026-11-24T00:44:19Z,hackeronetestt/xssschema7739,hackeronetestt,0,0,region:us
+2026-11-24T00:46:09Z,Zenodo-ML/HPC-Infrastructure-Measures-Infiniband-Table,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:46:23Z,ITLL/gpt-5.1-codex-max-1000x,ITLL,0,0,language:en; size_categories:1K<n<10K; region:us
+2026-11-24T00:46:39Z,ITLL/gpt-5.2-high-reasoning-250x,ITLL,0,0,size_categories:n<1K; region:us; code
+2026-11-24T00:46:57Z,ITLL/gpt-5.1-high-reasoning-1000x,ITLL,0,0,region:us
+2026-11-24T00:47:42Z,ITLL/gpt-5-codex-1000x,ITLL,0,0,language:en; region:us
+2026-11-24T00:48:01Z,ITLL/gpt-5-codex-250x,ITLL,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; region:us
+2026-11-24T00:48:23Z,g1n0st/7d472fc8534161753e4fa8e145af123e40b7d831,g1n0st,0,0,region:us
+2026-11-24T00:48:38Z,Zenodo-ML/Title-23679528,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:48:57Z,Zenodo-ML/Bitcoin-BTC-USDT-Tick-Level-Trade-Data-21858727,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:50:19Z,ITLL/gpt-5.4-step-by-step-reasoning,ITLL,0,0,license:mit; region:us
+2026-11-24T00:51:30Z,DataDrivenAlex/rag-evidence-boundaries-benchmark,DataDrivenAlex,0,0,language:en; region:us; rag; evaluation; citations; synthetic
+2026-11-24T00:51:37Z,Ananda05/bay-area-house-cleaning-prices,Ananda05,0,0,language:en; license:cc-by-4.0; region:us; pricing; home-services; census; bay-area
+2026-11-24T00:51:48Z,dougalldeepmind/2026-11-24-da-no-weighing-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-no-weighing; constitution:claude_distilled_09_principles; smoke
+2026-11-24T00:51:52Z,obadakr/warntext,obadakr,0,0,language:en; language:es; license:other; size_categories:100K<n<1M; region:us; emergency-alerts; wireless-emergency-alerts; crisis-communication; risk-communication; communication-research
+2026-11-24T00:52:06Z,dougalldeepmind/2026-11-24-da-gptresp-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gptresp; constitution:claude_distilled_09_principles; smoke
+2026-11-24T00:52:24Z,ITLL/gpt5.5-terminal,ITLL,0,0,license:mit; region:us
+2026-11-24T00:52:53Z,Mirtsop/Manifesto_WorldCOP,Mirtsop,0,0,task_categories:text-generation; language:ru; language:en; license:cc-by-nc-sa-4.0; region:us; philosophy; ai-alignment; ontology; worldcop; manifesto; cognitive-evolution
+2026-11-24T00:53:36Z,ITLL/GPT-5.6-luna-reasoning-102881x,ITLL,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:mit; size_categories:100K<n<1M; region:us; chat; conversational; reasoning; tool-use; coding; mathematics; st…
+2026-11-24T00:54:06Z,winstonyin-ax/riemann-quiver-graph,winstonyin-ax,0,0,region:us; lean4; mathlib; formal-mathematics; theorem-proving
+2026-11-24T00:54:26Z,SentientNapkin/viobench-flights-extra,SentientNapkin,0,0,license:other; region:us; visual-inertial-odometry; drone; simulation
+2026-11-24T00:54:33Z,Penguin-N/verbosity-gen-pool,Penguin-N,0,0,license:other; region:us
+2026-11-24T00:55:00Z,SACXZ12DSA/Annoy-PyEdu-Rs,SACXZ12DSA,0,0,region:us
+2026-11-24T00:55:00Z,SACXZ12DSA/Annoy-PyEdu-Rs-Raw,SACXZ12DSA,0,0,region:us
+2026-11-24T00:56:23Z,g1n0st/ef62685c6d4e48f79d355b9a32548f4964ec7794,g1n0st,0,0,region:us
+2026-11-24T00:56:59Z,Zenodo-ML/National-Open-Access-Monitor-Ireland-Research-Product-Metadata-14513260,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:57:28Z,Assads1SAD/Annoy-PyEdu-Rs-Raw,Assads1SAD,0,0,region:us
+2026-11-24T00:57:28Z,Assads1SAD/Annoy-PyEdu-Rs,Assads1SAD,0,0,region:us
+2026-11-24T00:58:16Z,Zenodo-ML/DLD-Rent-Contracts-2025-02-19,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:58:21Z,Firworks/Nemotron-Science-v1-gemmafy,Firworks,0,0,task_categories:text-generation; task_categories:question-answering; source_datasets:nvidia/Nemotron-Science-v1; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; gemmafy; synthet…
+2026-11-24T00:58:34Z,egolearn/labeled-s-splits,egolearn,0,0,license:other; size_categories:1K<n<10K; arxiv:2007.16189; arxiv:2606.05115; arxiv:2501.12254; region:us; egolearn; saycam; developmental; representation-evaluation
+2026-11-24T00:58:36Z,egolearn/babyview-4afc,egolearn,0,0,license:cc0-1.0; size_categories:1K<n<10K; arxiv:2406.10447; region:us; egolearn; babyview; developmental; representation-evaluation
+2026-11-24T00:58:42Z,Zenodo-ML/sigmutselcovs-TCGA-THCA,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T00:59:33Z,ITLL/gpt-5.6-luna-sft-900x,ITLL,0,0,task_categories:text-generation; language:en; size_categories:n<1K; region:us; synthetic; distillation; sft; reasoning; code; instruction-following; openrouter
+2026-11-24T01:00:01Z,g1n0st/83fbdad8040440077f830be4dce813fe67ce4910,g1n0st,0,0,region:us
+2026-11-24T01:01:05Z,qompass/game_assets,qompass,0,0,license:apache-2.0; region:us
+2026-11-24T01:01:19Z,phungthanhtu/legal_terms,phungthanhtu,0,0,task_categories:text-classification; task_categories:feature-extraction; language:vi; license:other; size_categories:n<1K; region:us; legal; vietnamese; terminology; land-law; graphrag
+2026-11-24T01:01:28Z,g1n0st/7266604a41990cff99a32c12baea1f071f623a2d,g1n0st,0,0,region:us
+2026-11-24T01:01:42Z,lchandraw243/screwing_tab_base_20261123_165143,lchandraw243,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T01:01:46Z,coderXP/media-probe-corpus,coderXP,0,0,license:cc0-1.0; region:us; small; smoke-test
+2026-11-24T01:02:50Z,neerumsr/keel-pro-di-results,neerumsr,0,0,license:apache-2.0; size_categories:100K<n<1M; region:us; decision-index; evaluation; predictions; keel
+2026-11-24T01:02:57Z,chihyungwang/R1_Pick_up_the_bobbin,chihyungwang,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T01:03:53Z,ITLL/GPT-6.1-Sol-Problem-solving-Reasoning-Distilled,ITLL,0,0,task_categories:text-generation; annotations_creators:machine-generated; language:en; license:gpl-2.0; modality:text; library:datasets; region:us; reasoning; logical-reasoning; logic; problem-solving…
+2026-11-24T01:04:18Z,Zenodo-ML/LoaDiff-CER-Synthetic-Residential-Electricity-Load-Curves,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T01:04:30Z,Xu-AI4Science/marri-cannon-archive-2026-11-23,Xu-AI4Science,0,0,region:us
+2026-11-24T01:04:59Z,emma1577/test,emma1577,0,0,region:us
+2026-11-24T01:06:27Z,g1n0st/492ea84bc5d1728bb32fef1de52cec8daf4cde88,g1n0st,0,0,region:us
+2026-11-24T01:07:02Z,ITLL/Gpt-5.4-Xhigh-Reasoning-2000x,ITLL,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; reasoning; math; code; science; distillation; chain-of-thoug…
+2026-11-24T01:07:12Z,Wongyun/DexEngine,Wongyun,0,0,region:us
+2026-11-24T01:07:24Z,g1n0st/7b9bb667cc207eaf0be1bdc3eda35fe83cecf0a0,g1n0st,0,0,region:us
+2026-11-24T01:08:12Z,Liuyuan103/shapes-qwen3-8b-base-nf4-C-v2,Liuyuan103,0,0,region:us
+2026-11-24T01:08:33Z,Towa25/so101_sim_cube_bowl_booth32_noisy_rgbd_v5,Towa25,0,0,license:apache-2.0; region:us; lerobot; simulation; depth
+2026-11-24T01:09:49Z,TUaxhuiax/Annoy-PyEdu-Rs,TUaxhuiax,0,0,region:us
+2026-11-24T01:09:50Z,TUaxhuiax/Annoy-PyEdu-Rs-Raw,TUaxhuiax,0,0,region:us
+2026-11-24T01:09:58Z,AutoRLBench/armnet_lightsweep_bright_c01_20261124,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T01:10:23Z,Zenodo-ML/Gaia-Net-Gaia-XP-Gaia-RVS-Spectra-15048995,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T01:11:52Z,ia-university/errores-tipicos-respuestas-ia-es,ia-university,0,0,task_categories:text-classification; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; education; ai-literacy; hallucinations; fact-checking; spanish
+2026-11-24T01:11:53Z,antonyondonzoghe/lupita-temp-bilder,antonyondonzoghe,0,0,region:us
+2026-11-24T01:12:22Z,g1n0st/358ae5719541c0341cf805ba8b6878634e5b47cb,g1n0st,0,0,region:us
+2026-11-24T01:12:57Z,Zenodo-ML/UKFields,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T01:13:27Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.0_g2_run2,stefanocarrera,0,0,region:us
+2026-11-24T01:13:49Z,Zenodo-ML/Global-Import-Export-Lane-Risk-Monitor-1995-2024-22883503,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T01:18:01Z,coderXP/media-decode-probe,coderXP,0,0,license:cc0-1.0; region:us; small; smoke-test
+2026-11-24T01:18:12Z,g1n0st/082991cc28ffe7c745a90383ba2b3d52eaa8f935,g1n0st,0,0,region:us
+2026-11-24T01:18:54Z,toolathlon-eval-15/Annoy-PyEdu-Rs-Raw,toolathlon-eval-15,0,0,region:us
+2026-11-24T01:18:54Z,toolathlon-eval-15/Annoy-PyEdu-Rs,toolathlon-eval-15,0,0,region:us
+2026-11-24T01:19:59Z,pravaltelagi/so101_dataset_test_20261123_191943,pravaltelagi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T01:20:20Z,ITLL/Gpt-5.4-Xhigh-Reasoning-750x,ITLL,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; reasoning; math; code; science; distillation; chain-of-thought;…
+2026-11-24T01:20:31Z,arena-education/1.1-transformer-from-scratch-tinystories-tokens,arena-education,0,0,source_datasets:roneneldan/TinyStories; language:en; license:cdla-sharing-1.0; size_categories:100K<n<1M; region:us
+2026-11-24T01:20:44Z,Zenodo-ML/GTN-Spatial-Transcriptomics-Breast-Cancer-TME-EISTA-Galaxy,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T01:20:46Z,dougalldeepmind/2026-11-24-da-gptresp-synth,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gptresp; constitution:claude_distilled_09_principles
