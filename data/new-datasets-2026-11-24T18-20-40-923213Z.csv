@@ -1,0 +1,135 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T17:22:32Z,Kerimniy/ru_turbo_alpaca_refusals,Kerimniy,0,0,license:mit; region:us
+2026-11-24T17:23:01Z,belztjti/0000,belztjti,0,0,region:us
+2026-11-24T17:23:48Z,SAC-Flow/xr3-v3-robopainter-online-1300,SAC-Flow,0,0,region:us
+2026-11-24T17:24:09Z,klinek/Q875,klinek,0,0,region:us
+2026-11-24T17:24:09Z,SDFASF43534/zqforeignonly2324,SDFASF43534,0,0,region:us
+2026-11-24T17:25:01Z,Liuyuan103/shapes-qwen3-4b-base-F,Liuyuan103,0,0,region:us
+2026-11-24T17:25:23Z,veripazari/truthfull_qa-tr,veripazari,0,0,task_categories:multiple-choice; task_categories:text-generation; task_categories:question-answering; task_ids:multiple-choice-qa; task_ids:language-modeling; task_ids:open-domain-qa; annotations_cre…
+2026-11-24T17:25:32Z,HeOCR/c2-old-print-synthetic-train-v1,HeOCR,0,0,task_categories:image-to-text; language:he; license:cc0-1.0; size_categories:1K<n<10K; region:us; ocr; synthetic; historical-print
+2026-11-24T17:25:42Z,Zenodo-ML/Foundation-Models-Particulate-Matter-Prediction-22814198,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:26:17Z,veripazari/kip,veripazari,0,0,language:tr; license:mit; region:us
+2026-11-24T17:26:59Z,Zenodo-ML/mixQTL-GTEx-v8-Small-Intestine-Terminal-Ileum,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:27:10Z,armnet/cell03_ddim20_a16_lift20_base_eval_30s_20ep,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T17:27:36Z,whosouravsharma/titanic,whosouravsharma,0,0,region:us
+2026-11-24T17:27:51Z,minefarts/SmashBros-WiiU,minefarts,0,0,region:us
+2026-11-24T17:28:00Z,nnquang2026/2fa,nnquang2026,0,0,region:us
+2026-11-24T17:28:05Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-11-24T17:28:06Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-11-24T17:28:10Z,SDFASF43534/zqforeignpub2324,SDFASF43534,0,0,region:us
+2026-11-24T17:28:23Z,Zenodo-ML/ExetatDatabase-Democratic-Republic-of-the-Congo-2008-2023,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:28:38Z,kasrahabib/ARID,kasrahabib,0,0,license:other; arxiv:2611.29722; region:us
+2026-11-24T17:28:42Z,kasrahabib/SwaRD,kasrahabib,0,0,license:other; arxiv:2611.29722; region:us
+2026-11-24T17:28:48Z,tingyingwu/LaDe,tingyingwu,0,0,license:apache-2.0; size_categories:10M<n<100M; arxiv:2306.10675; region:us; Logistics; Last-mile Delivery; Spatial-Temporal; Graph
+2026-11-24T17:30:03Z,binmu203-toolathlon/Annoy-PyEdu-Rs,binmu203-toolathlon,0,0,region:us
+2026-11-24T17:30:04Z,binmu203-toolathlon/Annoy-PyEdu-Rs-Raw,binmu203-toolathlon,0,0,region:us
+2026-11-24T17:30:20Z,sejzu0123/c562207d-320a-4ae7-9c31-808735060d82,sejzu0123,0,0,region:us
+2026-11-24T17:30:25Z,Xuanyangzi/OPDtrainingdata,Xuanyangzi,0,0,license:apache-2.0; region:us
+2026-11-24T17:30:35Z,Zenodo-ML/Verzeichnis-Deutscher-Drucke-Metadata,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:30:40Z,Liuyuan103/shapes-qwen3-4b-base-F-v2,Liuyuan103,0,0,region:us
+2026-11-24T17:30:47Z,Yaseren/siniflandirma-verisi,Yaseren,0,0,license:apache-2.0; region:us
+2026-11-24T17:30:54Z,quadratogoogle/vaultgrid,quadratogoogle,0,0,region:us
+2026-11-24T17:31:01Z,seojunksk/news-media-samples,seojunksk,0,0,license:cc-by-4.0; region:us; dataset; news-media; image-text
+2026-11-24T17:31:33Z,quadratogoogle/Vaultgrid2,quadratogoogle,0,0,region:us
+2026-11-24T17:31:36Z,Liuyuan103/shapes-qwen3-4b-base-G,Liuyuan103,0,0,region:us
+2026-11-24T17:32:05Z,quadratogoogle/Vaultgridpool3,quadratogoogle,0,0,region:us
+2026-11-24T17:32:26Z,Zenodo-ML/Sea-Surface-Temperature-Salinity-Currents-East-Sea-2023-2025-CMEMS-GLORYS12V1,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:32:43Z,QiLong26/kalhana_corpus,QiLong26,0,0,license:cc-by-sa-4.0; region:us
+2026-11-24T17:34:13Z,Zenodo-ML/HuggingFace-Model-Lineage-Snapshot-2026-09-25-23004387,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:34:30Z,metadore/fly-surfer-yolo11n-dataset,metadore,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; region:us; yolo; yolo11; object-detection; roboflow; subway-surfers; fly-surfer; connectome-simulation
+2026-11-24T17:36:20Z,HuBMAP/HBM989.FSPK.593,HuBMAP,0,0,region:us
+2026-11-24T17:36:55Z,SADCXZ12DSA/Annoy-PyEdu-Rs,SADCXZ12DSA,0,0,region:us
+2026-11-24T17:36:56Z,SADCXZ12DSA/Annoy-PyEdu-Rs-Raw,SADCXZ12DSA,0,0,region:us
+2026-11-24T17:37:26Z,SDASD12SAD/Annoy-PyEdu-Rs,SDASD12SAD,0,0,region:us
+2026-11-24T17:37:26Z,SDASD12SAD/Annoy-PyEdu-Rs-Raw,SDASD12SAD,0,0,region:us
+2026-11-24T17:38:43Z,ruglyphs/RuGlyphs,ruglyphs,0,0,task_categories:image-to-text; language:ru; size_categories:1K<n<10K; modality:document; region:us; ocr; handwriting; htr; document
+2026-11-24T17:38:55Z,Zenodo-ML/uhvdb-analyze-r6-22019191,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:39:46Z,Zenodo-ML/Biomni-Datalake,Zenodo-ML,0,0,language:en; license:apache-2.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:40:35Z,Zenodo-ML/Financial-Market-Classification-Evolutionary-Quantum-Neural-Networks,Zenodo-ML,0,0,region:us
+2026-11-24T17:40:35Z,Liuyuan103/shapes-qwen3-4b-base-G-v2,Liuyuan103,0,0,region:us
+2026-11-24T17:40:36Z,sa12cse21dszxc/Annoy-PyEdu-Rs,sa12cse21dszxc,0,0,region:us
+2026-11-24T17:40:37Z,Zenodo-ML/Datajud-TRF2-Judicial-Processes-2025,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:40:37Z,sa12cse21dszxc/Annoy-PyEdu-Rs-Raw,sa12cse21dszxc,0,0,region:us
+2026-11-24T17:40:54Z,Zenodo-ML/Public-Procurement-UTES-UTEs-Candidate-Companies-Tables,Zenodo-ML,0,0,language:en; license:mit; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:41:13Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-11-24T17:41:13Z,afadfaq/Annoy-PyEdu-Rs,afadfaq,0,0,region:us
+2026-11-24T17:41:13Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-11-24T17:41:14Z,afadfaq/Annoy-PyEdu-Rs-Raw,afadfaq,0,0,region:us
+2026-11-24T17:41:59Z,wzhangek/demo-v2-sd25-inputs,wzhangek,0,0,region:us
+2026-11-24T17:42:29Z,asdfasdf3435/zqtiffpal2324,asdfasdf3435,0,0,region:us
+2026-11-24T17:43:31Z,Zenodo-ML/IEA-Wind-Task-30-OC6-Phase-III-Floating-Wind-Turbine-Rotor-Aerodynamics,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:44:05Z,swaliiiiihhhhh00/founder,swaliiiiihhhhh00,0,0,region:us
+2026-11-24T17:44:27Z,tolath/Annoy-PyEdu-Rs,tolath,0,0,region:us
+2026-11-24T17:44:44Z,tolath/Annoy-PyEdu-Rs-Raw,tolath,0,0,region:us
+2026-11-24T17:44:47Z,toolathlon-eval-17/Annoy-PyEdu-Rs,toolathlon-eval-17,0,0,region:us
+2026-11-24T17:44:49Z,toolathlon-eval-17/Annoy-PyEdu-Rs-Raw,toolathlon-eval-17,0,0,region:us
+2026-11-24T17:45:20Z,ziyadnpsf/math-audio-text-clean,ziyadnpsf,0,0,license:apache-2.0; region:us; dataset; math; audio-text
+2026-11-24T17:45:36Z,Zenodo-ML/DeepOWT-v5.25.1-Deep-Learning-Dense-Sentinel-1-Time-Series-Offshore-Wind,Zenodo-ML,0,0,language:en; license:cc-by-4.0; arxiv:2608.04706; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:45:49Z,Olibea/estimatedly-download,Olibea,0,0,region:us
+2026-11-24T17:46:24Z,armnet/cell03_ddim20_a16_lift20_steered_30s_100ep_s0,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T17:46:54Z,Zenodo-ML/Virality-Adhesion-Tie-Strength-Conspiracy-Theories-X,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:47:39Z,Zenodo-ML/PlantGeneExplainer,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:47:45Z,Zenodo-ML/Ethereum-ETH-USDT-Tick-Level-Trade-Data-22366951,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:48:03Z,allozaur/llama-chat-tracesllama-chat-demo-mwuzky5u,allozaur,0,0,region:us
+2026-11-24T17:49:10Z,AutoRLBench/armnet_c03-rlt5k-20261121-ep400_ood_28,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T17:50:15Z,g1n0st/731e995391090221744be8ed69cbc1a94f0e01d0,g1n0st,0,0,region:us
+2026-11-24T17:50:33Z,dsa1csad21dd/Annoy-PyEdu-Rs,dsa1csad21dd,0,0,region:us
+2026-11-24T17:50:33Z,dsa1csad21dd/Annoy-PyEdu-Rs-Raw,dsa1csad21dd,0,0,region:us
+2026-11-24T17:50:44Z,liufe7848/Annoy-PyEdu-Rs-Raw,liufe7848,0,0,region:us
+2026-11-24T17:50:44Z,liufe7848/Annoy-PyEdu-Rs,liufe7848,0,0,region:us
+2026-11-24T17:51:12Z,AutoRLBench/armnet_c01n-dsrl-rbmdemo-20261122-ep400_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T17:51:25Z,dougalldeepmind/2026-11-24-am-prefill-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_tools_15; mode:think; variant:prefill
+2026-11-24T17:51:44Z,dougalldeepmind/2026-11-24-da-gptresp-pressure-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gptresp-pressure; constitution:claude_distilled_09_principles; smoke
+2026-11-24T17:52:05Z,snehapatel91/fashion-pointcloud-text,snehapatel91,0,0,license:apache-2.0; region:us; dataset; fashion; pointcloud-text
+2026-11-24T17:52:48Z,SDFASF43534/zqctl2325,SDFASF43534,0,0,region:us
+2026-11-24T17:53:59Z,Tarkanozel/Fable-5.2-Turk-Veriseti,Tarkanozel,0,0,license:apache-2.0; region:us
+2026-11-24T17:54:46Z,Zenodo-ML/CPP-BT-Plenarprotokolle-18177196,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T17:55:21Z,yqcca/GSM8K-Aug,yqcca,0,0,license:mit; region:us
+2026-11-24T17:55:32Z,ASDCZX12ED/Annoy-PyEdu-Rs,ASDCZX12ED,0,0,region:us
+2026-11-24T17:55:33Z,ASDCZX12ED/Annoy-PyEdu-Rs-Raw,ASDCZX12ED,0,0,region:us
+2026-11-24T17:55:59Z,Yogesh55/items_prompts_lite,Yogesh55,0,0,region:us
+2026-11-24T17:56:27Z,allozaur/llama-chat-demo-mwuzwxcq,allozaur,0,0,region:us
+2026-11-24T17:56:35Z,dougalldeepmind/2026-11-24-da-gptresp-pressure-synth,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-gptresp-pressure; constitution:claude_distilled_09_principles
+2026-11-24T17:57:41Z,boatscorner/marina-berth-prices-poland-2026,boatscorner,0,0,language:pl; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; marina; sailing; yachting; prices; poland
+2026-11-24T17:58:09Z,ZODOGAVAJD/fundingpips-evaluation-benchmark-j9qfbu0y,ZODOGAVAJD,0,0,license:mit; region:us; finance; trading; fundingpips; prop-trading
+2026-11-24T17:59:14Z,hemanthpudami/teluglish_v2_instruct,hemanthpudami,0,0,region:us
+2026-11-24T17:59:48Z,Garv98/fairdp-results,Garv98,0,0,region:us; differential-privacy; fairness; llm-evaluation; responsible-ai
+2026-11-24T18:00:08Z,andyzhang-dg/uscis-processing-times,andyzhang-dg,0,0,license:cc0-1.0; region:us; immigration; uscis; processing-times; government-data; usa; visa
+2026-11-24T18:00:09Z,asfafa454/Annoy-PyEdu-Rs,asfafa454,0,0,region:us
+2026-11-24T18:00:10Z,asfafa454/Annoy-PyEdu-Rs-Raw,asfafa454,0,0,region:us
+2026-11-24T18:00:42Z,Zenodo-ML/US-Harmonized-Vital-Statistics-Natality-Birth-InfantDeath-FetalDeath,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:01:25Z,changjaehyun/audio-text-samples41,changjaehyun,0,0,license:cc-by-4.0; region:us; dataset; wildlife; audio-text
+2026-11-24T18:03:04Z,dzservers/humanforge-eval-protocol-v2,dzservers,0,0,region:us
+2026-11-24T18:03:12Z,KieloTony/Annoy-PyEdu-Rs-Raw,KieloTony,0,0,region:us
+2026-11-24T18:03:12Z,KieloTony/Annoy-PyEdu-Rs,KieloTony,0,0,region:us
+2026-11-24T18:03:56Z,kwintenvh/ai-regels-bachelorproef-masterproef-vlaanderen,kwintenvh,0,0,language:nl; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; generative-ai; higher-education; policy; belgium
+2026-11-24T18:04:04Z,Zenodo-ML/Ethereum-Execution-Data-Object-Centric-Process-Mining-DApps-21989580,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:04:29Z,Zenodo-ML/JUMP-Exploration-Databases-11167320,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:04:33Z,glannuzel/put-red-cube-in-green-box_act_graspproj,glannuzel,0,0,task_categories:robotics; region:us; LeRobot; grabette; gripette; grasp-projection
+2026-11-24T18:05:09Z,dougalldeepmind/2026-11-24-da-gptresp-pressure-15-mix,dougalldeepmind,0,0,region:us; training-data; kind:mixture; pipeline:da-gptresp-pressure; constitution:claude_distilled_09_principles; stage:final
+2026-11-24T18:07:56Z,AutoRLBench/armnet_c01n-dsrl-rbmdemo-20261122-ep400_ood_6,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T18:08:05Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-11-24T18:08:06Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-11-24T18:09:16Z,Zenodo-ML/Global-Land-Use-Land-Cover-Reference-Data-Harmonization-13951976,Zenodo-ML,0,0,language:en; license:cc-by-sa-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:09:24Z,Jaysonddd/owl-jev-results,Jaysonddd,0,0,region:us
+2026-11-24T18:10:06Z,asfdsaassad/Annoy-PyEdu-Rs-Raw,asfdsaassad,0,0,region:us
+2026-11-24T18:10:06Z,asfdsaassad/Annoy-PyEdu-Rs,asfdsaassad,0,0,region:us
+2026-11-24T18:11:24Z,Zenodo-ML/Twitter100m-Tweets,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:11:37Z,toolathlon-eval-03/Annoy-PyEdu-Rs,toolathlon-eval-03,0,0,region:us
+2026-11-24T18:11:38Z,toolathlon-eval-03/Annoy-PyEdu-Rs-Raw,toolathlon-eval-03,0,0,region:us
+2026-11-24T18:12:53Z,dougalldeepmind/2026-11-24-mask-prefill-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15; mode:think; variant:prefill
+2026-11-24T18:12:56Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-24T18:12:56Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-24T18:13:21Z,franciscojmavila/alba-v2-corpus-finemath,franciscojmavila,0,0,region:us
+2026-11-24T18:14:04Z,SentientNapkin/viobench-flights,SentientNapkin,0,0,license:other; region:us; visual-inertial-odometry; drone; simulation
+2026-11-24T18:14:13Z,Zenodo-ML/TreePoint-Urban-Trees-Eastern-Midwestern-United-States,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:14:18Z,centaur-io/social-trading-signal-benchmark,centaur-io,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; finance; trading; ai-agents; benchmark; social-media
+2026-11-24T18:14:26Z,jlstdio/frontview_pick_n_place_n_close_v2_20261125_030621,jlstdio,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T18:15:15Z,canzhxx/TacAtom_OXT,canzhxx,0,0,region:us
+2026-11-24T18:15:27Z,Zenodo-ML/MERFISH-VIMA-ST-demo-21535564,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:18:54Z,Zenodo-ML/Harmonized-U.S.-Natality-Linked-Infant-Death-Microdata-1990-2024-19868835,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T18:19:41Z,afdasfaa/Annoy-PyEdu-Rs,afdasfaa,0,0,region:us
+2026-11-24T18:19:41Z,sad21dsasad11/Annoy-PyEdu-Rs,sad21dsasad11,0,0,region:us
+2026-11-24T18:19:41Z,sad21dsasad11/Annoy-PyEdu-Rs-Raw,sad21dsasad11,0,0,region:us
+2026-11-24T18:19:41Z,afdasfaa/Annoy-PyEdu-Rs-Raw,afdasfaa,0,0,region:us
+2026-11-24T18:20:32Z,tiffanylewis1/charts-video-text-benchmark,tiffanylewis1,0,0,license:mit; region:us; dataset; charts; video-text
