@@ -1,0 +1,88 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T20:22:17Z,christian-hoang-04/bedbench-gpt-6-astra-results,christian-hoang-04,0,0,task_categories:visual-question-answering; language:en; arxiv:2610.39639; region:us
+2026-11-24T20:22:31Z,Zenodo-ML/Global-Import-Export-Corridor-Product-Prices-2017-2023-22875902,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:23:35Z,sejzu0123/7474622a-0a5a-4af8-90f5-f992ce767fbd,sejzu0123,0,0,region:us
+2026-11-24T20:24:25Z,alisup/panda-sort-l2,alisup,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T20:24:58Z,Nirexion/Spike-Coding-Dataset,Nirexion,0,0,region:us
+2026-11-24T20:26:43Z,Zenodo-ML/LOCUS-Precomputed-Embeddings-Validation-Test,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:27:58Z,statwharf/ecommerce-statistics-2026,statwharf,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; statistics; ecommerce
+2026-11-24T20:28:34Z,statwharf/chatgpt-statistics-2026,statwharf,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; statistics; chatgpt
+2026-11-24T20:28:38Z,DSACT1HJ46A/Annoy-PyEdu-Rs,DSACT1HJ46A,0,0,region:us
+2026-11-24T20:28:39Z,DSACT1HJ46A/Annoy-PyEdu-Rs-Raw,DSACT1HJ46A,0,0,region:us
+2026-11-24T20:29:01Z,Zenodo-ML/EU-Procurement-TED-Carbon-Panel-2012-2023-eForms-Tender-Corpus-2024-202,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:29:10Z,Zenodo-ML/Ethereum-ETH-USDT-Tick-Level-Trade-Data-21859030,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:29:15Z,statwharf/cybersecurity-statistics-2026,statwharf,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; statistics; cybersecurity
+2026-11-24T20:30:13Z,sejzu0123/48801a98-3eba-472e-ae85-8499278e01d2,sejzu0123,0,0,region:us
+2026-11-24T20:32:16Z,sdfeawqf/Annoy-PyEdu-Rs,sdfeawqf,0,0,region:us
+2026-11-24T20:32:17Z,sdfeawqf/Annoy-PyEdu-Rs-Raw,sdfeawqf,0,0,region:us
+2026-11-24T20:32:37Z,Liuyuan103/shapes-qwen3.5-4b-base-G-v2,Liuyuan103,0,0,region:us
+2026-11-24T20:33:48Z,aaguilar90/mosaic-central-highlands,aaguilar90,0,0,region:us
+2026-11-24T20:34:23Z,gavinlaw/run-inputs-20261124,gavinlaw,0,0,license:cc-by-4.0; region:us
+2026-11-24T20:36:44Z,mollangdata/MolLangData,mollangdata,0,0,language:en; license:mit; size_categories:100K<n<1M; region:us; molecular_structure_description; molecule_language_alignment
+2026-11-24T20:36:48Z,mollangdata/LangMolDiode-SFT-Corpus,mollangdata,0,0,task_categories:text-generation; language:en; region:us; chemistry; text-to-smiles; supervised-fine-tuning
+2026-11-24T20:37:21Z,flaitenberger/SpinningStrawIntoGold-SFT-Mixtures,flaitenberger,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:100K<n<1M; region:us; spinning-straw-into-gold; deduction; synthetic-data; reasoning; instruction-tuning
+2026-11-24T20:38:09Z,lgonzales/LWGG,lgonzales,0,0,region:us
+2026-11-24T20:38:39Z,auditdpo/length-subsets,auditdpo,0,0,license:mit; region:us
+2026-11-24T20:40:29Z,Zenodo-ML/PyMAUDE-Complete-Archive-2026-10-21,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:41:30Z,Zenodo-ML/Immune-Disease-Risk-Variants-CD4-T-Cell-Activation,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:41:31Z,Zenodo-ML/Dail-Eireann-Debates-1919-2013-Embeddings-Topics-Flags,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:41:47Z,armnet/cell01_h16_ckpt006000_baseline_100ep_s0,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T20:42:07Z,leonbui2000/astronomy-video-text-v2,leonbui2000,0,0,license:mit; region:us; dataset; astronomy; video-text
+2026-11-24T20:42:10Z,Zenodo-ML/FAST-ERG,Zenodo-ML,0,0,language:en; license:mit; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:42:20Z,ZeroWw/narrator-voice-atlas,ZeroWw,0,0,task_categories:text-to-speech; task_categories:audio-classification; language:en; license:other; size_categories:1K<n<10K; region:us; voice; audiobook; narration; speech
+2026-11-24T20:42:21Z,brineylab/epam-pcps,brineylab,0,0,region:us
+2026-11-24T20:42:40Z,Zenodo-ML/Ethereum-Execution-Data-Object-Centric-Process-Mining-DApps-14228751,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:43:07Z,Zenodo-ML/One-Phenomenon-Many-Hypotheses-Vadose-Zone-Lagrangian-Models-Coupled-Non,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:43:32Z,Liuyuan103/shapes-digest-gemma4-e2b-it,Liuyuan103,0,0,region:us
+2026-11-24T20:44:19Z,dougalldeepmind/2026-11-24-odcv-qwen36-0-da-gptresp-pressure-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_gptresp_pressure_15; mode:think
+2026-11-24T20:45:19Z,Juckynator/redaktion-2000-changed-headlines,Juckynator,0,0,language:de; region:us; data-visualization; infographics; matplotlib
+2026-11-24T20:46:51Z,driveclue/used-car-reliability,driveclue,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; used-cars; car-reliability; years-to-avoid; nhtsa-complaints; vehicle-recalls; transport-canada-recalls; crash-test-ratings; fuel-…
+2026-11-24T20:47:00Z,safafaf311/Annoy-PyEdu-Rs,safafaf311,0,0,region:us
+2026-11-24T20:47:00Z,safafaf311/Annoy-PyEdu-Rs-Raw,safafaf311,0,0,region:us
+2026-11-24T20:47:10Z,driveclue/car-problem-mileage,driveclue,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; car-problems-by-mileage; transmission-failure-mileage; engine-problems; nhtsa-complaints; used-cars; car-reliability
+2026-11-24T20:47:15Z,driveclue/car-complaints-by-state,driveclue,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; car-complaints-by-state; nhtsa-complaints; vehicle-defects; used-cars; state-data
+2026-11-24T20:47:22Z,driveclue/uk-mot-failure-rates,driveclue,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; mot-failure-rates; mot-results; uk-used-cars; dvsa; car-reliability; mot-test-data
+2026-11-24T20:47:56Z,g1n0st/0d448936c51e49efb5f7595e22f57cc0e28f5db8,g1n0st,0,0,region:us
+2026-11-24T20:48:17Z,mohmd95/albaha-renders,mohmd95,0,0,region:us
+2026-11-24T20:48:35Z,Zenodo-ML/XIS-Daily-Spatiotemporal-Machine-Learning-Environmental-Exposures-Contiguous,Zenodo-ML,0,0,language:en; license:cc-by-sa-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:48:48Z,AD1EASCRE1AD/Annoy-PyEdu-Rs,AD1EASCRE1AD,0,0,region:us
+2026-11-24T20:48:49Z,AD1EASCRE1AD/Annoy-PyEdu-Rs-Raw,AD1EASCRE1AD,0,0,region:us
+2026-11-24T20:49:44Z,nainiayoub/FloraNER,nainiayoub,0,0,task_categories:token-classification; task_ids:named-entity-recognition; language:fr; license:cc-by-4.0; size_categories:1K<n<10K; region:us; botany; biodiversity; flora; species-names; morphology; d…
+2026-11-24T20:50:08Z,Zenodo-ML/England-Wales-EPC-Households-PPD-Simulation,Zenodo-ML,0,0,region:us
+2026-11-24T20:51:50Z,Zenodo-ML/Sim-to-Real-Fault-Detection-Predictive-Maintenance-Collaborative-Robots-UR5e,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:53:36Z,Jalalk1/tareek-examples-matsim,Jalalk1,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; matsim; transportation; traffic-simulation; agent-based-model
+2026-11-24T20:53:49Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_145317,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T20:55:40Z,Zenodo-ML/Protein-Ligand-Cofolding-Memorisation-18366081,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T20:56:17Z,Dundalia/clap-dataset-v1,Dundalia,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:other; size_categories:1M<n<10M; region:us; interpretability; activations; probing; llm-behavior; llm-as-a-j…
+2026-11-24T20:56:26Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_145454,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T20:57:03Z,Alexey240577/github_trending_20261124,Alexey240577,0,0,region:us
+2026-11-24T20:57:47Z,Publicrecords/us-open-federal-grants,Publicrecords,0,0,task_categories:tabular-classification; task_categories:text-retrieval; language:en; license:cc0-1.0; size_categories:n<1K; region:us; grants; government; open-data; funding; grants-gov; public-recor…
+2026-11-24T20:58:11Z,Publicrecords/us-federal-contract-awards-top100,Publicrecords,0,0,language:en; license:cc0-1.0; size_categories:n<1K; region:us; government-contracts; procurement; usaspending; open-data; public-records
+2026-11-24T20:58:16Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_145739,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:00:03Z,raresense/nova-scenesmith-media,raresense,0,0,license:apache-2.0; region:us
+2026-11-24T21:00:27Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_145925,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:02:01Z,SDFASF43534/zqcacheflip22407,SDFASF43534,0,0,license:mit; region:us
+2026-11-24T21:02:05Z,nyleeaa0503/math_lighteval_train,nyleeaa0503,0,0,region:us
+2026-11-24T21:02:32Z,Towa25/so101_sim_cube_bowl_booth32_rgb_performance_preview3,Towa25,0,0,license:apache-2.0; region:us; lerobot; simulation; depth
+2026-11-24T21:02:59Z,dougalldeepmind/2026-11-24-odcv-prefill-opener-first-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36; mode:think; variant:prefill-opener-first
+2026-11-24T21:05:16Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_150212,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:05:35Z,neuralnets/SiteswapBench,neuralnets,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; reasoning; benchmark; formal-systems; state-tracking; jugglin…
+2026-11-24T21:06:47Z,oubaapp/chai-spicychat-alternatives-2026,oubaapp,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us; interactive-fiction; ai-story-apps; romance; chai-alternatives; spicychat-alternatives; benchmark
+2026-11-24T21:08:21Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_150644,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:09:01Z,malansi/emg2pose-200hz,malansi,0,0,task_categories:time-series-forecasting; source_datasets:emg2pose; language:en; license:cc-by-nc-sa-4.0; size_categories:10K<n<100K; region:us; emg; semg; electromyography; hand-pose; myo-armband; we…
+2026-11-24T21:10:34Z,wadifainfo/morocco-local-government-exam-topics,wadifainfo,0,0,language:ar; language:fr; license:cc-by-4.0; size_categories:n<1K; region:us; morocco; civil-service; local-government; exams; public-administration
+2026-11-24T21:10:35Z,wadifainfo/morocco-organic-law-113-14-communes,wadifainfo,0,0,language:ar; license:cc-by-4.0; size_categories:n<1K; region:us; morocco; law; legal; arabic; local-government
+2026-11-24T21:10:38Z,ALeclerc/ConveyorAD,ALeclerc,0,0,license:cc-by-4.0; region:us
+2026-11-24T21:10:52Z,cooper-manufacturing-robotics/Awesome_Robot_Team_3,cooper-manufacturing-robotics,0,0,region:us
+2026-11-24T21:12:21Z,zjr0001/4c4d_E3_jpeg_runs,zjr0001,0,0,region:us
+2026-11-24T21:12:54Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_151106,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:13:05Z,wadifainfo/morocco-public-exam-results-timing,wadifainfo,0,0,language:fr; language:ar; license:cc-by-4.0; size_categories:n<1K; region:us; morocco; civil-service; recruitment; public-administration
+2026-11-24T21:14:17Z,tiffanymiller/food-image-text35,tiffanymiller,0,0,license:mit; region:us; dataset; food; image-text
+2026-11-24T21:16:03Z,rbtrprjkt/rollout_6mmbearing-scoop_act150_20261124_151406,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T21:16:37Z,KTHESAT/european-used-car-market-fr-pl-ch,KTHESAT,0,0,region:us
+2026-11-24T21:17:28Z,auditdpo/selective-dpo-orderings,auditdpo,0,0,license:apache-2.0; region:us
+2026-11-24T21:17:41Z,Rivok/tesseract-heb-rivok-v2-lines,Rivok,0,0,region:us
+2026-11-24T21:18:08Z,elsankim65/social-image-audio-clean,elsankim65,0,0,license:mit; region:us; dataset; social; image-audio
+2026-11-24T21:18:17Z,shaikbasha1437/quadward-bench,shaikbasha1437,0,0,task_categories:text-classification; language:en; language:es; language:fr; language:de; language:it; language:pt; language:nl; language:ru; language:zh; language:ja; language:ko; language:ar; langua…
+2026-11-24T21:18:45Z,Publicrecords/apify-actor-openapi,Publicrecords,0,0,language:en; license:cc0-1.0; size_categories:n<1K; region:us; openapi; apify; public-records; government; mcp
+2026-11-24T21:19:03Z,KTHESAT/france-used-car-market-leboncoin,KTHESAT,0,0,region:us
