@@ -1,0 +1,123 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T14:21:51Z,thinhho40057/vanilla,thinhho40057,0,0,region:us
+2026-11-24T14:21:58Z,Zenodo-ML/sigmutselcovs-TCGA-LUSC,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:22:18Z,mikusama99/h3-15s-event-videos,mikusama99,0,0,language:en; language:zh; region:us; text-to-video; synthetic-video; visual-effects
+2026-11-24T14:22:25Z,gabguerin/openenv-daw-tasks,gabguerin,0,0,task_categories:text-generation; license:apache-2.0; library:openenv; region:us; openenv; daw; tool-use; mcp; music; reinforcement-learning
+2026-11-24T14:24:10Z,jjrussell10/pt7b-dG2_lt50,jjrussell10,0,0,region:us
+2026-11-24T14:24:12Z,jjrussell10/pt7b-random,jjrussell10,0,0,region:us
+2026-11-24T14:24:20Z,thaopham21432/apollo,thaopham21432,0,0,region:us
+2026-11-24T14:24:21Z,Zenodo-ML/HMRG-Grid,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:24:35Z,Zenodo-ML/Harmonised-Satellite-Relative-Wealth-Mali-2016-2026,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:24:48Z,jjrussell10/pt7b-dG2_ge50,jjrussell10,0,0,region:us
+2026-11-24T14:25:58Z,contra-labs/Frontier-Design-Benchmark,contra-labs,0,0,task_categories:text-generation; task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; design; web-design; code-generation; human-evaluation; preference-data; pairwi…
+2026-11-24T14:26:12Z,Zenodo-ML/EBA-Disclosures-Panel-2012-2025,Zenodo-ML,0,0,region:us
+2026-11-24T14:26:32Z,pilarclark/ball-rollout,pilarclark,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T14:26:42Z,danielpappa/g1_walk_to_target,danielpappa,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; g1; mujoco; walk; synthetic
+2026-11-24T14:26:43Z,binhvu23042/swamp,binhvu23042,0,0,region:us
+2026-11-24T14:26:44Z,MCSeekeri/Trash-Singularity,MCSeekeri,0,0,task_categories:text-generation; task_ids:dialogue-generation; annotations_creators:no-annotation; language_creators:found; multilinguality:monolingual; source_datasets:original; language:zh; license…
+2026-11-24T14:26:47Z,asdfasdf3435/zqimg1820,asdfasdf3435,0,0,region:us
+2026-11-24T14:26:55Z,pilarclark/ball-unseen-demonstration,pilarclark,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T14:27:41Z,AI-Institute-BSC/oss-cvdp-design-verification,AI-Institute-BSC,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; region:us; verilog; systemverilog; design-verification; testbench-generation; benchmark; verilator; open-source-eda
+2026-11-24T14:28:01Z,DSACZX1231EDAS/Annoy-PyEdu-Rs,DSACZX1231EDAS,0,0,region:us
+2026-11-24T14:28:02Z,DSACZX1231EDAS/Annoy-PyEdu-Rs-Raw,DSACZX1231EDAS,0,0,region:us
+2026-11-24T14:28:05Z,Zenodo-ML/Urban-NOX-Variability-Spatial-Footprints,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:28:40Z,fwfasafd/Annoy-PyEdu-Rs-Raw,fwfasafd,0,0,region:us
+2026-11-24T14:28:40Z,fwfasafd/Annoy-PyEdu-Rs,fwfasafd,0,0,region:us
+2026-11-24T14:29:03Z,Zenodo-ML/TABMON-Detections,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:29:32Z,Zenodo-ML/LAGT-10684841,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:29:39Z,khoahuynh35296/eagle,khoahuynh35296,0,0,region:us
+2026-11-24T14:29:59Z,EmilianZS/zs-astro-renders,EmilianZS,0,0,region:us
+2026-11-24T14:30:31Z,sejzu0123/b13d56bd-4a12-4fdb-acac-2eb4892ebdc0,sejzu0123,0,0,region:us
+2026-11-24T14:30:53Z,SDFASF43534/zqsqli6,SDFASF43534,0,0,region:us
+2026-11-24T14:31:44Z,Zenodo-ML/SyMBac-Escherichia-Coli-Dormancy-Exit-Imaging,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:31:56Z,phuongtran27827/cassini,phuongtran27827,0,0,region:us
+2026-11-24T14:31:59Z,kindlingai/tessera-references,kindlingai,0,0,license:mit; region:us; tessera; parity
+2026-11-24T14:32:19Z,Zenodo-ML/OpenAlex-Scientific-Corpus-Spatiotemporal-Features-Topic-Forecasts-2016-2027,Zenodo-ML,0,0,region:us
+2026-11-24T14:33:44Z,ShinSeungJ/behavert-data,ShinSeungJ,0,0,license:other; region:us; animal-behavior; pose-estimation; keypoints; mouse; rat
+2026-11-24T14:33:57Z,dooly-project/DoolyDB,dooly-project,0,0,license:mit; arxiv:2605.07985; region:us; llm-inference; profiling; vllm; simulation; gpu
+2026-11-24T14:34:03Z,AutoRLBench/armnet_c03-dsrl-rbmdemo-20261121-ep300_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T14:36:31Z,Leetjes123/objectdetectieGTC,Leetjes123,0,0,region:us
+2026-11-24T14:36:49Z,Blaze-UESTC/test,Blaze-UESTC,0,0,task_categories:text-to-image; task_categories:image-classification; language:en; license:other; region:us
+2026-11-24T14:38:55Z,zarifbinakhtar/rocks-classification-42,zarifbinakhtar,0,0,task_categories:image-classification; size_categories:n<1K; region:us; rocks; geology; igneous; metamorphic; sedimentary; yolo
+2026-11-24T14:39:13Z,reyanshpandey/astronomy-corpus-2024,reyanshpandey,0,0,license:cc-by-4.0; region:us; dataset; astronomy; pointcloud-text
+2026-11-24T14:39:16Z,lhz7891444/Annoy-PyEdu-Rs,lhz7891444,0,0,region:us
+2026-11-24T14:39:17Z,lhz7891444/Annoy-PyEdu-Rs-Raw,lhz7891444,0,0,region:us
+2026-11-24T14:40:14Z,dlthub/read_test_202611240240111874,dlthub,0,0,region:us
+2026-11-24T14:40:27Z,dlthub/State_test_b9c493809192f35d7e827d925d4eaeeC,dlthub,0,0,region:us
+2026-11-24T14:40:27Z,dlthub/test_read_interfaces_filesystem_202611240240268736,dlthub,0,0,region:us
+2026-11-24T14:40:33Z,dlthub/join_crm_202611240240325459,dlthub,0,0,region:us
+2026-11-24T14:40:36Z,Zenodo-ML/HackRep-GitHub-Hackathon-Projects,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:40:40Z,Liuyuan103/shapes-gemma4-e2b-it-B,Liuyuan103,0,0,region:us
+2026-11-24T14:44:59Z,Zenodo-ML/Foundation-Models-Particulate-Matter-Prediction-20607348,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T14:45:16Z,HuggingFaceM4/reachy-gestures-data,HuggingFaceM4,0,0,task_categories:text-classification; language:multilingual; language:en; language:es; language:fr; language:de; language:it; language:pt; language:nl; language:pl; language:ru; language:tr; language:…
+2026-11-24T14:45:23Z,Gaganreleases/gagan-releases-storage,Gaganreleases,0,0,region:us
+2026-11-24T14:46:54Z,joshua3van5/architecture-dataset17,joshua3van5,0,0,license:apache-2.0; region:us; dataset; architecture; multimodal3
+2026-11-24T14:47:03Z,RedNaiver/SoundEffectDetectorMLMiniprojectDataset,RedNaiver,0,0,region:us
+2026-11-24T14:47:23Z,RedNaiver/SoundEffectDetector-ML-Miniproject,RedNaiver,0,0,region:us
+2026-11-24T14:47:52Z,fomoguides/fomo-app-referral-code-for-new-user-theses,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; onboarding-checklist; theses
+2026-11-24T14:47:56Z,Liuyuan103/shapes-gemma4-e2b-it-C-v2,Liuyuan103,0,0,region:us
+2026-11-24T14:48:07Z,Oleksandr1337/diablo-arcan,Oleksandr1337,0,0,language:en; language:uk; license:other; region:us; game-launcher; archive; linux; wine
+2026-11-24T14:48:30Z,AutoRLBench/armnet_c01n-dsrl-rbmdemo-20261122-ep300_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T14:48:35Z,lunamint1911/english-french-translation,lunamint1911,0,0,region:us
+2026-11-24T14:48:51Z,haydendoo/so101-mimicgen-pilot,haydendoo,0,0,region:us
+2026-11-24T14:49:05Z,agoyal1642/rowbot-synthetic,agoyal1642,0,0,region:us
+2026-11-24T14:52:07Z,Juoguessr/El_Silecio_de_los_fusiles,Juoguessr,0,0,region:us
+2026-11-24T14:52:19Z,marianna13/prelude-midtrain-gptoss-traces,marianna13,0,0,task_categories:text-generation; license:other; region:us; reasoning; math; science; gpt-oss; sft; mid-training
+2026-11-24T14:52:50Z,maopin/arriendo-bogota,maopin,0,0,language:es; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; colombia; bogota; real-estate; rental-market; housing; tabular; csv
+2026-11-24T14:53:27Z,maopin/arriendo-medellin,maopin,0,0,language:es; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; colombia; medellin; real-estate; rental-market; housing; tabular; csv
+2026-11-24T14:53:30Z,maopin/arriendo-cali,maopin,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; colombia; cali; real-estate; rental-market; housing; tabular; csv
+2026-11-24T14:54:03Z,nenkoru/strudel-dj-data,nenkoru,0,0,task_categories:text-generation; language:en; license:cc-by-nc-sa-4.0; license:cc-by-sa-4.0; license:cc-by-4.0; license:cc-by-nc-4.0; license:cc0-1.0; size_categories:10M<n<100M; arxiv:2607.01849; re…
+2026-11-24T14:54:09Z,maopin/arriendo-barranquilla,maopin,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; colombia; barranquilla; real-estate; rental-market; housing; tabular; csv
+2026-11-24T14:54:35Z,maopin/arriendo-cartagena,maopin,0,0,language:es; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; colombia; cartagena; real-estate; rental-market; housing; tabular; csv
+2026-11-24T14:56:25Z,Ita73/Emerenziana-Franzoni-chi-sono,Ita73,0,0,region:us
+2026-11-24T14:57:25Z,georgefromilands/field-gap-blinds,georgefromilands,0,0,license:cc-by-4.0; region:us; bibliometrics; citation-analysis; openalex; science-of-science; co-citation; research-gap
+2026-11-24T14:58:13Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-24T14:58:14Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-24T15:00:28Z,AutoRLBench/armnet_c03-rlt5k-20261121-ep300_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:00:31Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-11-24T15:00:41Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-11-24T15:01:07Z,katsukiono/parc2026-libero-data,katsukiono,0,0,task_categories:robotics; license:other; region:us; libero; libero-plus; robot-learning; manipulation
+2026-11-24T15:01:10Z,whocallmeuk/uk-landline-business-number-lookup-reports,whocallmeuk,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; telecommunications; phone-numbers; united-kingdom; caller-id; ofcom
+2026-11-24T15:03:12Z,cadambank/superkart-sales-data,cadambank,0,0,region:us
+2026-11-24T15:04:22Z,daami/furnisher-advisor-catalog,daami,0,0,region:us
+2026-11-24T15:06:20Z,TAPTIC/unscrew_the_bottle_fs65,TAPTIC,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:06:42Z,fomoguides/fomo-app-referral-code-2026-theses-fees,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; fee-savings; theses
+2026-11-24T15:07:24Z,Liuyuan103/shapes-gemma4-e2b-it-D,Liuyuan103,0,0,region:us
+2026-11-24T15:07:32Z,AntLevee/ai-infra-debt-2026,AntLevee,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; finance; forensic-accounting; sec-filings; nport-p; asc-842; credit-risk
+2026-11-24T15:07:56Z,fomoguides/working-fomo-referral-code-theses,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; referral-troubleshooting; theses
+2026-11-24T15:08:55Z,fomoguides/fomo-app-referral-code-signup-ondex,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; signup-workflows; ondex
+2026-11-24T15:10:02Z,CarolinePascal/put-red-cube-in-green-box-pi05-25,CarolinePascal,0,0,task_categories:robotics; region:us; LeRobot; grabette; gripette; grasp-projection
+2026-11-24T15:10:07Z,fomoguides/fomo-trading-app-referral-code-ondex,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; transaction-costs; ondex
+2026-11-24T15:10:41Z,scubukov/vqg-tr,scubukov,0,0,arxiv:1603.06059; region:us
+2026-11-24T15:11:29Z,Simon0591/bg_obj_simon_backup,Simon0591,0,0,region:us
+2026-11-24T15:11:30Z,fomoguides/latest-fomo-app-referral-code-ondex,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; source-monitoring; ondex
+2026-11-24T15:12:05Z,somnangveth/test,somnangveth,0,0,region:us
+2026-11-24T15:12:26Z,fomoguides/fomo-app-referral-code-smartfigure-benefits-faq,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; beginner-concepts; smartfigure
+2026-11-24T15:12:38Z,cetiennec/asimov-pingpong-albert,cetiennec,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; asimov-1; humanoid; ping-pong; balancing
+2026-11-24T15:13:18Z,fomoguides/fomo-app-referral-code-ios-android-smartfigure,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; mobile-onboarding; smartfigure
+2026-11-24T15:14:13Z,Liuyuan103/shapes-gemma4-e2b-it-E-v2,Liuyuan103,0,0,region:us
+2026-11-24T15:14:16Z,fomoguides/fomo-referral-code-smartfigure-eligibility,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; account-eligibility; smartfigure
+2026-11-24T15:14:27Z,i7mada249/turath-literature-poetry,i7mada249,0,0,region:us
+2026-11-24T15:14:28Z,AutoRLBench/armnet_c01n-dit-20261122-ep300_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:14:29Z,toolathlon-eval-05/Annoy-PyEdu-Rs,toolathlon-eval-05,0,0,region:us
+2026-11-24T15:14:29Z,jasonren-ai2/crosssim-gpt61sol-planner-eval,jasonren-ai2,0,0,region:us
+2026-11-24T15:14:30Z,toolathlon-eval-05/Annoy-PyEdu-Rs-Raw,toolathlon-eval-05,0,0,region:us
+2026-11-24T15:14:55Z,MckenzieAslan/Annoy-PyEdu-Rs-Raw,MckenzieAslan,0,0,region:us
+2026-11-24T15:14:55Z,MckenzieAslan/Annoy-PyEdu-Rs,MckenzieAslan,0,0,region:us
+2026-11-24T15:15:37Z,MirandaAI/LimitWise-Data,MirandaAI,0,0,license:cc-by-4.0; region:us
+2026-11-24T15:16:06Z,fomoguides/best-fomo-referral-codes,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; referral-comparison; theses; ondex; sma…
+2026-11-24T15:16:33Z,Devapriyaraja/mandi-india-daily-prices-2001-2026,Devapriyaraja,0,1,language:en; license:other; region:us; agriculture; india; commodity-prices; agmarknet; time-series
+2026-11-24T15:17:00Z,sadafdas/Annoy-PyEdu-Rs,sadafdas,0,0,region:us
+2026-11-24T15:17:01Z,sadafdas/Annoy-PyEdu-Rs-Raw,sadafdas,0,0,region:us
+2026-11-24T15:17:03Z,sdafaf33/Annoy-PyEdu-Rs,sdafaf33,0,0,region:us
+2026-11-24T15:17:04Z,sdafaf33/Annoy-PyEdu-Rs-Raw,sdafaf33,0,0,region:us
+2026-11-24T15:17:23Z,fomoguides/verified-fomo-referral-codes,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; evidence-registry; theses; ondex; smart…
+2026-11-24T15:17:32Z,Zenodo-ML/HPC-Infrastructure-Measures-Net-Table,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:18:02Z,charlilou/so101_session_boite_2_20261124_160316,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:18:14Z,fomoguides/fomo-referral-code-cashback-policy-2026,fomoguides,0,1,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; cryptocurrency; fomo; referral-codes; financial-education; cashback-policy; theses; ondex; smartfi…
+2026-11-24T15:18:40Z,trangchang/mlx-quant-bench-results,trangchang,0,0,license:mit; size_categories:n<1K; region:us; quantization; mlx; apple-silicon; benchmark
+2026-11-24T15:18:49Z,sejzu0123/40d88c79-c175-430c-8081-108bc80036d8,sejzu0123,0,0,region:us
+2026-11-24T15:19:13Z,charlilou/Session_boite_1_2,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:19:27Z,liuff1568/Annoy-PyEdu-Rs,liuff1568,0,0,region:us
+2026-11-24T15:19:28Z,liuff1568/Annoy-PyEdu-Rs-Raw,liuff1568,0,0,region:us
+2026-11-24T15:19:59Z,Liuyuan103/shapes-gemma4-e2b-it-F,Liuyuan103,0,0,region:us
