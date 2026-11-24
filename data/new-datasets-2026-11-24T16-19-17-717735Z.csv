@@ -1,0 +1,166 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T15:20:57Z,Zenodo-ML/Leaf-State-Dependence-Spaceborne-Lidar-Canopy-Structure-Maps-Southeast-Asia,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:21:42Z,amanuel2/systemcard-sqldb,amanuel2,0,0,region:us
+2026-11-24T15:21:42Z,SoSolaris/infer_20261124_101819_a0b38a8f,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; solaria; infer
+2026-11-24T15:21:46Z,dronefreak/Outdoor-Rain,dronefreak,0,0,task_categories:image-to-image; language:en; license:unknown; size_categories:1K<n<10K; arxiv:1904.05050; region:us; image-restoration; deraining; rain-removal; dehazing; heavy-rain; synthetic; compu…
+2026-11-24T15:21:52Z,swiss-ai/Apertus-v1.5-Vocalized-SFT,swiss-ai,0,0,task_categories:automatic-speech-recognition; task_categories:audio-text-to-text; language:en; language:zh; language:ru; language:pt; language:fr; language:es; language:ja; language:de; language:it;…
+2026-11-24T15:21:53Z,swiss-ai/Apertus-v1.5-LNQA-Recap,swiss-ai,0,0,task_categories:visual-question-answering; task_categories:image-text-to-text; language:en; license:cc-by-4.0; size_categories:100K<n<1M; arxiv:2610.15542; region:us; synthetic; vqa; sft; apertus; lo…
+2026-11-24T15:22:43Z,SDFASF43534/zqsqli7,SDFASF43534,0,0,region:us
+2026-11-24T15:23:56Z,chiahaochang/audio-video-dataset,chiahaochang,0,0,license:apache-2.0; region:us; dataset; news-media; audio-video
+2026-11-24T15:24:11Z,sari-abdan/rollout_pi05_016000_20261124_161933,sari-abdan,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:24:19Z,AutoRLBench/armnet_c03-dsrl-20261120-ep400_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:25:35Z,Habiba2888/UniM,Habiba2888,0,0,license:cc-by-4.0; arxiv:2603.05075; region:us
+2026-11-24T15:25:59Z,samynu/dhivehi-image-bbox-prompt,samynu,0,0,task_categories:object-detection; task_categories:visual-question-answering; task_categories:image-segmentation; language:dv; license:mit; size_categories:10K<n<100K; region:us; thaana; ocr; layout;…
+2026-11-24T15:26:31Z,Liuyuan103/shapes-gemma4-e2b-it-F-v2,Liuyuan103,0,0,region:us
+2026-11-24T15:26:54Z,kammkaaadmi/mycustomdata,kammkaaadmi,0,0,region:us
+2026-11-24T15:27:29Z,Zenodo-ML/Synthetic-Hungarian-Handwritten-Text-Recognition-18277764,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:27:49Z,Liuyuan103/shapes-gemma4-e2b-it-G,Liuyuan103,0,0,region:us
+2026-11-24T15:28:28Z,AutoRLBench/armnet_c03-dsrl-20261120-ep400_ood_25,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:28:49Z,Joan-99/You,Joan-99,0,0,license:apache-2.0; region:us
+2026-11-24T15:29:58Z,Sanjay061/flux-dedup-ablation-armX0control-30B,Sanjay061,0,0,license:other; region:us; dedup-ablation; smollm2-tokenized
+2026-11-24T15:30:39Z,sejzu0123/285447f6-3bfc-4ba1-a02b-50df5484d76a,sejzu0123,0,0,region:us
+2026-11-24T15:30:50Z,charlilou/so101_session_boite_3_20261124_162136,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:31:42Z,Zenodo-ML/JUMP-Web-Programmatic-Exploration-14642120,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:31:58Z,Sanjay061/flux-dedup-ablation-armX1exact-30B,Sanjay061,0,0,region:us
+2026-11-24T15:32:11Z,glannuzel/put-red-cube-in-green-box-robot-raw,glannuzel,0,0,region:us
+2026-11-24T15:32:41Z,charlilou/Session_boite_1_2_3,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:33:00Z,CaleraLabs/medcodebench,CaleraLabs,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:n<1K; region:us; medical-coding; healthcare-rcm; icd-10-cm; icd-10-pcs; hcpcs; nc…
+2026-11-24T15:33:30Z,edithatogo/global-medicines-atlas-private-artifacts,edithatogo,0,0,region:us
+2026-11-24T15:34:00Z,gmxn/PubChemQA,gmxn,0,0,license:apache-2.0; region:us
+2026-11-24T15:34:16Z,Some-thy/CoEvoke-DeepSeek-Thinking,Some-thy,0,0,language:en; size_categories:10K<n<100K; region:us; multi-agent; collaboration; reasoning; thinking; chain-of-thought; deepseek; trajectories; sft
+2026-11-24T15:34:25Z,gmxn/UniProtQA,gmxn,0,0,license:apache-2.0; region:us
+2026-11-24T15:35:09Z,gmxn/MutaDescribe,gmxn,0,0,license:apache-2.0; region:us
+2026-11-24T15:35:40Z,Multilingual-Multimodal-NLP/VeriScope,Multilingual-Multimodal-NLP,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; verilog; rtl; code-generation; benchmark; evaluation
+2026-11-24T15:36:01Z,p3333/tts-temp-storage,p3333,0,0,region:us
+2026-11-24T15:36:05Z,milleret/sim_b1,milleret,0,0,task_categories:robotics; region:us; LeRobot; robotics; unitree-g1; dex1; retargeting
+2026-11-24T15:36:13Z,alabamamikertr/inkling-2-small-pi-slopcodebench,alabamamikertr,0,0,task_categories:text-generation; license:mit; library:harbor; region:us; slopcodebench; harbor; pi-coding-agent; inkling-2-small; evaluation; openyield
+2026-11-24T15:37:02Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-24T15:37:04Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-24T15:37:43Z,Keyvanazami/fda-510k-predicate-retrieval,Keyvanazami,0,0,task_categories:text-retrieval; task_categories:sentence-similarity; language:en; size_categories:10K<n<100K; region:us; medical-devices; fda; 510k; retrieval
+2026-11-24T15:38:22Z,Zenodo-ML/TBMM-Parliamentary-Proceedings-Speaker-Turn-Segmentation-Party-Linkage-1950-2023,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:38:26Z,qdwqwd/persian-pretraining-corpus,qdwqwd,0,0,task_categories:text-generation; language:fa; license:other; region:us; persian; farsi; pretraining; wikipedia; hplt; mathematics
+2026-11-24T15:38:30Z,gmxn/Vis-CheBI20,gmxn,0,0,license:apache-2.0; arxiv:2501.15415; region:us
+2026-11-24T15:39:25Z,counterfactual-sql/counterfactual-sql-data,counterfactual-sql,0,0,language:en; license:cc-by-nc-4.0; region:us; text-to-sql; reward-modeling; reward-hacking; grpo; counterfactual; sqlite
+2026-11-24T15:40:06Z,copytop/top-crypto-traders,copytop,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:time-series-forecasting; source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; re…
+2026-11-24T15:40:19Z,KatsuCocoa/project-gutenberg-temporal-corpus,KatsuCocoa,0,0,license:cc-by-nc-4.0; region:us
+2026-11-24T15:40:20Z,AutoRLBench/armnet_c01n-rlt5k-20261122-ep300_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:40:42Z,HeOCR/c1-synthetic-train-v1,HeOCR,0,0,language:he; license:cc0-1.0; region:us; synthetic; ocr; hebrew
+2026-11-24T15:41:17Z,OpenMedLM/AbdomenAtlas3.0Mini_1000-tar,OpenMedLM,0,0,region:us
+2026-11-24T15:41:49Z,adva-itpil/video-text-data,adva-itpil,0,0,license:mit; region:us; dataset; ecommerce; video-text
+2026-11-24T15:42:00Z,linqihao/mu-bench,linqihao,0,0,task_categories:other; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; benchmark; evaluation; speech; conversational-ai; multi-user; full-duplex; tool-use
+2026-11-24T15:42:37Z,glannuzel/put-red-cube-in-green-box-robot,glannuzel,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; lerobot; grabette
+2026-11-24T15:43:15Z,noah-bennett/pumpfun-referral-code-welcome50,noah-bennett,0,0,task_categories:tabular-classification; language:en; language:de; license:cc-by-4.0; size_categories:n<1K; region:us; solana; defi; fees; benchmark
+2026-11-24T15:43:16Z,noah-bennett/pumpfun-deposit-match-and-existing-account-rules,noah-bennett,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; solana; compliance; fees
+2026-11-24T15:43:17Z,noah-bennett/pumpfun-gebuehren-und-referral-code-2026,noah-bennett,0,0,language:de; license:cc-by-4.0; size_categories:n<1K; region:us; solana; deutsch; gebuehren
+2026-11-24T15:43:24Z,DataDrivenAlex/pg-migration-safety-fixtures,DataDrivenAlex,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; region:us; synthetic; sql; postgresql; software-testing
+2026-11-24T15:44:00Z,Zenodo-ML/Pedestrian-Dynamics-Eindhoven-Train-Station,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:44:55Z,lfeng03/Annoy-PyEdu-Rs,lfeng03,0,0,region:us
+2026-11-24T15:44:55Z,lfeng03/Annoy-PyEdu-Rs-Raw,lfeng03,0,0,region:us
+2026-11-24T15:45:09Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-24T15:45:10Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-24T15:45:22Z,datnguyentien204/VLA_2,datnguyentien204,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-24T15:45:55Z,Liuyuan103/shapes-gemma4-e2b-it-G-v2,Liuyuan103,0,0,region:us
+2026-11-24T15:46:13Z,roaddata-ai/street-crossing-challenge,roaddata-ai,0,0,task_categories:robotics; license:other; size_categories:n<1K; region:us; robotics; benchmark; leaderboard; humanoid; delivery-robot; crowd-navigation; isaac-sim; physical-ai
+2026-11-24T15:46:37Z,Zenodo-ML/sigmutselcovs-TCGA-COAD-23671115,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:49:18Z,Sarawut7766/Game-files,Sarawut7766,0,0,region:us
+2026-11-24T15:51:34Z,asdfasdf3435/zqdupdsctl1820,asdfasdf3435,0,0,region:us
+2026-11-24T15:51:42Z,Zenodo-ML/Asteroseismic-Red-Giants-Stellar-Models-2024,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:51:46Z,wolfL/round_2_20261124_160314,wolfL,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T15:53:14Z,hocdz754/zqdupdsctl1820,hocdz754,0,0,region:us
+2026-11-24T15:53:42Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-24T15:53:44Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-24T15:53:45Z,NOHAPTIC/nohaptic_trex_style_midtrain_v1,NOHAPTIC,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; tactile; panda; xhand; t-rex; teleoperation; haptic-feedback-ablation
+2026-11-24T15:53:46Z,Rayane017/movierecom-db,Rayane017,0,0,region:us
+2026-11-24T15:53:52Z,AutoRLBench/armnet_c03-dsrl-rbmdemo-20261121-ep400_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T15:54:13Z,hichoco/Group4,hichoco,0,0,task_categories:reinforcement-learning; language:ko; license:mit; size_categories:10M<n<100M; region:us; autonomous-driving; sumo; pomdp; roundabout; trajectory
+2026-11-24T15:54:42Z,SACXZ21DSA23/Annoy-PyEdu-Rs,SACXZ21DSA23,0,0,region:us
+2026-11-24T15:54:43Z,SACXZ21DSA23/Annoy-PyEdu-Rs-Raw,SACXZ21DSA23,0,0,region:us
+2026-11-24T15:55:04Z,Zenodo-ML/Unified-Cluster-Catalogue-20705026,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:55:11Z,SACXZ213EDS/Annoy-PyEdu-Rs,SACXZ213EDS,0,0,region:us
+2026-11-24T15:55:12Z,SACXZ213EDS/Annoy-PyEdu-Rs-Raw,SACXZ213EDS,0,0,region:us
+2026-11-24T15:55:42Z,HeOCR/hebrew-ocr-vlm-train-v1,HeOCR,0,0,language:he; license:cc0-1.0; region:us; ocr; hebrew; vision-language
+2026-11-24T15:56:06Z,Zenodo-ML/US-Harmonized-Vital-Statistics-Microdata-Natality-Birth-Infant-Death-Fe,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T15:56:44Z,mteb/FoleyBenchLong,mteb,0,0,region:us
+2026-11-24T15:57:09Z,mondk/LLM-free-good-no-login-sign-in,mondk,0,0,license:mit; region:us
+2026-11-24T15:57:46Z,Infinix-io/voxtral-deps,Infinix-io,0,0,region:us
+2026-11-24T15:58:16Z,tchbcb/pcguy_r,tchbcb,0,0,region:us
+2026-11-24T15:59:37Z,MarcelEsmond/Annoy-PyEdu-Rs-Raw,MarcelEsmond,0,0,region:us
+2026-11-24T15:59:37Z,MarcelEsmond/Annoy-PyEdu-Rs,MarcelEsmond,0,0,region:us
+2026-11-24T16:00:28Z,JoaoZaokk/4f3d839421349b75,JoaoZaokk,0,0,language:pt; language:en; language:de; region:us
+2026-11-24T16:00:51Z,rutgersmaterials/wildlife-image-depth,rutgersmaterials,0,0,license:cc-by-4.0; region:us; dataset; wildlife; image-depth
+2026-11-24T16:01:47Z,Zenodo-ML/IFRS9,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T16:02:19Z,Yehe/comm-match-bench,Yehe,0,0,task_categories:image-feature-extraction; task_categories:depth-estimation; task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; region:us; computer-vision; feature-matching…
+2026-11-24T16:04:34Z,Zenodo-ML/S1-S3-17320479,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T16:04:49Z,AutoRLBench/armnet_c01n-dsrl-20261122-ep400_ood_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T16:05:32Z,Santosheitor/image-depth-data,Santosheitor,0,0,license:mit; region:us; dataset; architecture; image-depth
+2026-11-24T16:06:07Z,Zenodo-ML/New-Zealand-Island-Resolved-Grid-Emission-Factors-2015-2050,Zenodo-ML,0,0,region:us
+2026-11-24T16:07:40Z,experimentalmachines/MobileAgent-SFT-v4.6,experimentalmachines,0,0,task_categories:image-text-to-text; language:en; license:other; size_categories:100K<n<1M; region:us; android; gui-agent; mobile-agent; screenshot
+2026-11-24T16:07:47Z,josc-hmitt/paper-sports,josc-hmitt,0,0,license:apache-2.0; region:us; dataset; sports; image-text
+2026-11-24T16:08:34Z,josc-hmitt/dissertation-sound-events,josc-hmitt,0,0,license:cc-by-4.0; region:us; dataset; sound-events; text-tabular
+2026-11-24T16:09:20Z,Zenodo-ML/Alter-Realkatalog-ARK-Berlin-State-Library-Metadata-12783814,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T16:09:24Z,charlilou/so101_session_boite_4_20261124_164953,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T16:09:24Z,samyakbayar/active-weather-alerts,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:09:50Z,samyakbayar/airbnb-listings,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:10:00Z,lordx555/embds,lordx555,0,0,region:us
+2026-11-24T16:10:18Z,samyakbayar/anime-catalogue,samyakbayar,0,0,region:us
+2026-11-24T16:10:19Z,samyakbayar/art-institute-collection,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:10:37Z,samyakbayar/arxiv-preprints,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:10:56Z,samyakbayar/bike-share-stations,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:11:13Z,samyakbayar/chicago-food-inspections,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:11:26Z,samyakbayar/confirmed-exoplanet-census,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:11:26Z,toolathlon4/Annoy-PyEdu-Rs-Raw,toolathlon4,0,0,region:us
+2026-11-24T16:11:26Z,toolathlon4/Annoy-PyEdu-Rs,toolathlon4,0,0,region:us
+2026-11-24T16:11:41Z,samyakbayar/countries-of-the-world,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:00Z,samyakbayar/crypto-market-snapshot,samyakbayar,0,0,region:us
+2026-11-24T16:12:03Z,nenkoru/memorilla-buried-clue,nenkoru,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; memory; personalization; memorilla; synthetic
+2026-11-24T16:12:05Z,samyakbayar/fda-device-recalls,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:14Z,samyakbayar/fda-drug-labels,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:14Z,DecAIHub/abpc,DecAIHub,0,1,license:cc-by-4.0; region:us
+2026-11-24T16:12:21Z,charlilou/so101_session_boite_5_20261124_171059,charlilou,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T16:12:22Z,samyakbayar/fda-food-recalls,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:29Z,N4irath4rv/agriculture-data87,N4irath4rv,0,0,license:apache-2.0; region:us; dataset; agriculture; multimodal3
+2026-11-24T16:12:30Z,samyakbayar/federal-contract-awards,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:39Z,samyakbayar/github-repositories,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:12:57Z,samyakbayar/global-air-quality-hourly,samyakbayar,0,0,region:us
+2026-11-24T16:12:59Z,samyakbayar/global-biodiversity-occurrences,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:13:04Z,samyakbayar/global-city-climate-daily,samyakbayar,0,0,region:us
+2026-11-24T16:13:06Z,samyakbayar/global-clinical-trials,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:13:17Z,samyakbayar/global-earthquake-catalog,samyakbayar,0,0,region:us
+2026-11-24T16:13:20Z,samyakbayar/global-flight-routes,samyakbayar,0,0,region:us
+2026-11-24T16:13:28Z,samyakbayar/global-health-panel,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; modality:tab…
+2026-11-24T16:13:33Z,samyakbayar/global-packaged-food,samyakbayar,0,0,region:us
+2026-11-24T16:13:39Z,samyakbayar/global-power-plant-inventory,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:13:56Z,LyricBobby/Annoy-PyEdu-Rs,LyricBobby,0,0,region:us
+2026-11-24T16:14:03Z,LyricBobby/Annoy-PyEdu-Rs-Raw,LyricBobby,0,0,region:us
+2026-11-24T16:14:24Z,samyakbayar/holocene-volcanoes,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:14:36Z,samyakbayar/huggingface-models,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:14:47Z,kasrahabib/ARID,kasrahabib,0,0,task_categories:text-classification; language:en; license:other; arxiv:2611.29722; region:us; requirements-engineering; automatic-requirements-identification; software-requirements
+2026-11-24T16:14:52Z,kasrahabib/SwaRD,kasrahabib,0,0,task_categories:text-classification; language:en; license:other; arxiv:2611.29722; region:us; requirements-engineering; automatic-requirements-identification; software-requirements
+2026-11-24T16:15:14Z,samyakbayar/human-gene-catalogue,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:15:24Z,samyakbayar/hurricane-database,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:15:29Z,samyakbayar/live-air-traffic,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; modal…
+2026-11-24T16:16:06Z,samyakbayar/most-cited-scholarly-works,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:16:09Z,Alakano/intro-ds-arxiv-matching,Alakano,0,0,region:us
+2026-11-24T16:16:10Z,samyakbayar/near-earth-asteroids,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:16:47Z,samyakbayar/nobel-prize-laureates,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:16:50Z,samyakbayar/nyc-311-service-requests,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:16:56Z,samyakbayar/ocean-buoys,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:16:59Z,samyakbayar/open-library-book-catalogue,samyakbayar,0,0,region:us
+2026-11-24T16:17:01Z,samyakbayar/pokemon-complete-stats,samyakbayar,0,0,region:us
+2026-11-24T16:17:02Z,samyakbayar/pubchem-compounds,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:17:07Z,patilsp370/llama-1B-fine-tuned,patilsp370,0,0,region:us
+2026-11-24T16:17:12Z,samyakbayar/python-package-ecosystem,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:17:19Z,samyakbayar/retracted-papers,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:17:22Z,Zenodo-ML/JUMP-CPG-19949901,Zenodo-ML,0,0,region:us
+2026-11-24T16:17:32Z,samyakbayar/sec-registered-companies,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:17:37Z,samyakbayar/space-launch-history,samyakbayar,0,0,region:us
+2026-11-24T16:17:39Z,samyakbayar/space-weather-timeseries,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc0-1.0; size_categories:10K<n<100K; modality:t…
+2026-11-24T16:17:43Z,samyakbayar/star-catalogue,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; modal…
+2026-11-24T16:17:55Z,sameer-s1/ball-rollout,sameer-s1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T16:17:57Z,samyakbayar/steam-games-market,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality…
+2026-11-24T16:18:01Z,samyakbayar/uk-property-sales,samyakbayar,0,0,task_categories:tabular-classification; annotations_creators:no-annotation; multilinguality:monolingual; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; modality:tab…
+2026-11-24T16:18:38Z,samyakbayar/unesco-world-heritage,samyakbayar,0,0,region:us
+2026-11-24T16:18:55Z,Zenodo-ML/GTEx-v8-Aberrant-Gene-Expression-Benchmark-8427312,Zenodo-ML,0,0,region:us
+2026-11-24T16:19:05Z,sameer-s1/ball-in-the-hole,sameer-s1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T16:19:06Z,AutoRLBench/armnet_c03-rlt5k-20261121-ep400_ood_0,AutoRLBench,0,0,region:us
+2026-11-24T16:19:13Z,sameer-s1/ball-unseen-demonstration,sameer-s1,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
