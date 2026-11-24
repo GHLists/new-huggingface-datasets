@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-24T05:23:08Z,Zenodo-ML/SDSS-DR12-Stellar-Spectra-Machine-Learning,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:25:27Z,Liuyuan103/shapes-qwen3.5-2b-base-D,Liuyuan103,0,0,region:us
+2026-11-24T05:26:05Z,AutoRLBench/armnet_c01n-rlt5k-20261122_train_92,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T05:26:14Z,TiCo-sdm/TiCo-Self-Generated-Speech-Qwen2.5-Omni-3B,TiCo-sdm,0,0,region:us
+2026-11-24T05:26:32Z,Zenodo-ML/DATASET_MULTIMODAL_V8-Brazil-Dengue-Surveillance-Nowcasting-Forecasting-2010,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:27:03Z,Zenodo-ML/GOBLIN-Irish-Grassland-Land-Use-Opportunity-Analysis-2020-2025-21922002,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:28:10Z,Zenodo-ML/Seatizen-Atlas-18211765,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:28:10Z,liodon-ai/Nemotron-PII-contamination-report,liodon-ai,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; decontamination; data-quality; benchmark-contamination
+2026-11-24T05:28:19Z,liodon-ai/Nemotron-PII-decontaminated,liodon-ai,0,0,task_categories:text-generation; license:cc-by-4.0; region:us; decontaminated; deduplicated; data-quality
+2026-11-24T05:28:28Z,SamJoshua/tool-output-injection-bench,SamJoshua,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; region:us; prompt-injection; indirect-prompt-injection; tool-use; mcp; synthetic
+2026-11-24T05:29:18Z,Zenodo-ML/NCUA-Quarterly-Credit-Union-Data-1994-2026,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:29:59Z,Liuyuan103/shapes-qwen3.5-2b-base-E,Liuyuan103,0,0,region:us
+2026-11-24T05:30:37Z,sejzu0123/0f834f89-69c6-4c76-b6e4-c1efca57fe4b,sejzu0123,0,0,region:us
+2026-11-24T05:31:08Z,Zenodo-ML/DATOS-OPTIMIZADOS-MOVEA-21636191,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:31:18Z,Zenodo-ML/Bilateral-Transport-Emission-Factors-Global-Food-Trade,Zenodo-ML,0,0,region:us
+2026-11-24T05:32:28Z,Zenodo-ML/PubChem-CID-SMILES-Topology-Classification-Snapshot-19606708,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:33:02Z,Liuyuan103/shapes-qwen3.5-2b-base-F,Liuyuan103,0,0,region:us
+2026-11-24T05:33:07Z,yinongh/insertion-curriculum-assets,yinongh,0,0,size_categories:1K<n<10K; region:us; robotics; simulation; isaac-gym; peg-in-hole; insertion
+2026-11-24T05:33:13Z,vnpornads/cdn-hls-207,vnpornads,0,0,region:us
+2026-11-24T05:33:35Z,Zenodo-ML/PubChem-CID-SMILES-Topology-Classification-Snapshot-19599658,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:34:26Z,TerryJ626/D-I-TASSER-X-JGI,TerryJ626,0,0,license:other; size_categories:100M<n<1B; region:us; biology; protein; metagenomics; multiple-sequence-alignment; protein-structure-prediction
+2026-11-24T05:34:39Z,Zenodo-ML/COSMIC-2-Ionospheric-Radio-Occultation-October-2019-December-2025,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:35:41Z,Zenodo-ML/Forms-Legal-Multilingual-Legal-Templates-Corpus,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:36:15Z,Liuyuan103/shapes-qwen3.5-2b-base-F-v2,Liuyuan103,0,0,region:us
+2026-11-24T05:36:58Z,Liuyuan103/shapes-qwen3.5-2b-base-G,Liuyuan103,0,0,region:us
+2026-11-24T05:37:25Z,AutoRLBench/armnet_c01n-rlt5k-20261122-ep100_id_0,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T05:39:23Z,rainbowrobotics/wb_real_20261124_052444,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T05:39:55Z,Log2003/eng_dataset,Log2003,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; medical; symptoms; disease-classification; healthcare; clinical-nlp
+2026-11-24T05:40:56Z,mohan45687654/human_faces,mohan45687654,0,0,region:us
+2026-11-24T05:41:16Z,RoboTrainerXR/iamrobot-libero-vr,RoboTrainerXR,0,0,region:us
+2026-11-24T05:41:26Z,DavidJones-Student/mis752-bonus-one-question,DavidJones-Student,0,0,license:mit; region:us; mis-752; bonus
+2026-11-24T05:41:56Z,TiCo-sdm/TiCo-Self-Generated-Speech-Step-Audio-2-mini,TiCo-sdm,0,0,region:us
+2026-11-24T05:42:12Z,Tinghong-Ye22/261124-supplement-code,Tinghong-Ye22,0,0,language:en; region:us; supplementary-material; reference-code; robotics; streaming-inference
+2026-11-24T05:42:58Z,Adewumi0015/Adewumi_015,Adewumi0015,0,0,region:us
+2026-11-24T05:43:01Z,zleibston/team10-test-plan-share,zleibston,0,0,region:us
+2026-11-24T05:43:29Z,MIS-752/bonus-DavidJones-Student,MIS-752,0,0,license:mit; region:us; mis-752; bonus
+2026-11-24T05:43:30Z,KusumaC/algozee_credit-risk-and-loan-default-analysis-dataset,KusumaC,0,0,license:unknown; region:us; kaggle; business; finance; data visualization; data analytics; classification
+2026-11-24T05:43:50Z,smgjch/PXRD-LatticeBench,smgjch,0,0,language:en; language:zh; license:apache-2.0; size_categories:100K<n<1M; region:us; materials-science; x-ray-diffraction; inverse-problems; synthetic; uncertainty-quantification
+2026-11-24T05:45:11Z,hlproject/Trail_1_Pick_SnowS101_20261123_203825,hlproject,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T05:45:28Z,Apokryf/Consiliariis-Polonicum-Lex,Apokryf,0,0,language:pl; language:en; license:cc-by-sa-4.0; size_categories:n<1K; region:us; law; poland; legal; llm; conversations; tool-use; mcp
+2026-11-24T05:45:41Z,hackeronetestt/dvx499140,hackeronetestt,0,0,region:us
+2026-11-24T05:46:17Z,Zenodo-ML/WiseInteract-15220346,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:47:09Z,Zenodo-ML/Governance-Reform-Decarbonization-Dead-Zones-Public-Procurement,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:47:28Z,Zenodo-ML/RDF2Vec-Synthetic-Graphs-Runtime-Comparison,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:48:57Z,AutoRLBench/armnet_c01n-rlt5k-20261122-ep100_id_10,AutoRLBench,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T05:48:59Z,Zenodo-ML/Unified-Cluster-Catalogue-19372033,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:49:00Z,Zenodo-ML/Polymarket-Bitcoin-Market-2026-06-15,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:49:32Z,Zenodo-ML/NicheNet-Ligand-Target-Dataset,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:49:40Z,FriedParrot/multi-lattice-diffusion-50k,FriedParrot,0,0,license:cc-by-4.0; size_categories:10K<n<100K; modality:3d; region:us; 3d; lattice; metamaterials; computational-mechanics
+2026-11-24T05:50:15Z,Zenodo-ML/Company-Register-ASIC-23678811,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:51:42Z,Anil123kava/NEW-WEB,Anil123kava,0,0,region:us
+2026-11-24T05:52:09Z,Zenodo-ML/ScatterPrism-Particle-Nuclear-Physics-Simulation-Inverse-Problems,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:52:09Z,EngineAI-Embodied/Awaken-Human-800h,EngineAI-Embodied,0,0,task_categories:robotics; language:en; language:zh; license:other; size_categories:10K<n<100K; modality:video; region:us; egocentric; first-person; humanoid; body-tracking; hand-tracking; temporal-ac…
+2026-11-24T05:52:10Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-24T05:52:27Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-24T05:52:27Z,Zenodo-ML/sigmutselcovs-TCGA-UCEC-23170117,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:53:21Z,hedwigai/agent-stop-points,hedwigai,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; agents; tool-use; opencode; early-stopping
+2026-11-24T05:53:26Z,hedwigai/workbook-policy-tasks,hedwigai,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; library:harbor; region:us; agents; harbor; tool-use; instruction-following
+2026-11-24T05:53:27Z,Liuyuan103/shapes-qwen3.5-2b-base-H,Liuyuan103,0,0,region:us
+2026-11-24T05:55:21Z,UniqueDomains/oneword-domains-by-ending,UniqueDomains,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; region:us; domain-names; domains; one-word-domains; tabular
+2026-11-24T05:55:27Z,UniqueDomains/oneword-domain-lists,UniqueDomains,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; domain-names; domains; one-word-domains; tabular
+2026-11-24T05:56:18Z,suny105/CIRThan,suny105,0,0,license:cc-by-4.0; region:us
+2026-11-24T05:57:03Z,Zenodo-ML/Developmental-Xenocortication-Human-Derived-Organoids-Mice,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:58:19Z,Zenodo-ML/Harmonised-Satellite-Relative-Wealth-Ghana-2016-2026,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T05:58:48Z,pratikgx/ocria-nano-1-m5-pro-mac-mini-bench,pratikgx,0,0,task_categories:image-to-text; license:cc-by-4.0; size_categories:n<1K; arxiv:1512.03385; region:us; ocr; benchmark; apple-silicon; onnx; liteparse; ocria; llamaindex
+2026-11-24T06:01:28Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-24T06:01:30Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-24T06:01:45Z,Liuyuan103/shapes-qwen3-8b-base-nf4-E-v2,Liuyuan103,0,0,region:us
+2026-11-24T06:02:44Z,shuren2/bb_20261124_135526,shuren2,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-24T06:03:12Z,NIATphysicalAI/openarm_pick_place_v2,NIATphysicalAI,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-24T06:03:17Z,Zenodo-ML/Brazilian-Road-Precarity-Spatial-Grid-2022-Census-Overture-Maps,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:03:29Z,Zenodo-ML/cellNexus-Cell-Communication-Data-Archive-HCA-2025,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:03:31Z,AudiooVideoo/audiovideodata_unclean,AudiooVideoo,0,0,region:us
+2026-11-24T06:03:40Z,pradhyumansinghrao/TinyLlama-dataset,pradhyumansinghrao,0,0,region:us
+2026-11-24T06:03:54Z,Towa25/so101_sim_cube_bowl_booth32_clean_rgbd_fixed_wrist_v1,Towa25,0,0,license:apache-2.0; region:us; lerobot; simulation; depth
+2026-11-24T06:05:32Z,Zenodo-ML/PII-Anonymization-Evaluation-Dataset-Three-Tier-Synthetic-Benchmark-Behavioral,Zenodo-ML,0,0,language:en; license:cc0-1.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:06:27Z,Zenodo-ML/Artificial-Signal-Data-Signal-Alignment-Testing-4522133,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:06:51Z,Zenodo-ML/Soil-Characterization-Cone-Penetration-Test-Soundings-Laboratory-Parameters-V1,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:06:54Z,iBlessi/ssd-and-gpu-price-observations-2026,iBlessi,0,0,license:cc-by-4.0; region:us; hardware; gpu; ssd; pricing; pc-building
+2026-11-24T06:06:55Z,Mrweb12/krishna-katha-history,Mrweb12,0,0,region:us
+2026-11-24T06:07:08Z,stefanocarrera/kic_D_train-python_Qwen3-8B_t1.0_g4_run2,stefanocarrera,0,0,region:us
+2026-11-24T06:07:51Z,pratikgx/qwen3.8-27b-super-adapter-m5-pro-mac-mini-bench,pratikgx,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; region:us; benchmark; apple-silicon; mlx; qwen; adapter; local-inference
+2026-11-24T06:07:55Z,Zenodo-ML/MicrobeNetNet-Review-Corpus-Data-Products-21940611,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:08:35Z,Zenodo-ML/OligoAI-ASO-Features-20586308,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:09:50Z,Wenboz/mri-regional-phenotype-assets,Wenboz,0,0,region:us; terminal-bench-science; mri; semi-synthetic; statistics
+2026-11-24T06:11:17Z,Liuyuan103/shapes-qwen3-8b-base-nf4-G-v2,Liuyuan103,0,0,region:us
+2026-11-24T06:11:20Z,TiCo-sdm/TiCo-Self-Generated-Speech-Qwen2.5-Omni-7B,TiCo-sdm,0,0,region:us
+2026-11-24T06:11:31Z,Zenodo-ML/eQTL-Catalogue-Release-7-Fine-Mapped-Credible-Sets,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:12:29Z,Tonic/challenge5-benchmark-results,Tonic,0,0,task_categories:audio-classification; task_categories:text-classification; license:apache-2.0; arxiv:2509.04715; arxiv:2608.14287; region:us; leaderboard; drone-detection; acoustic; c-uas; audio-clas…
+2026-11-24T06:13:46Z,luvette/DeepSeek-V4.1-Flash-SFT,luvette,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; synthetic; sft; instruction-tuning; knowledge-distillation; deeps…
+2026-11-24T06:14:23Z,Zenodo-ML/Germany-Freeway-Truck-Travel-Times-2019-FCD,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:14:44Z,Zenodo-ML/GloBI-Review-Dataset-20072186,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:15:29Z,tejas3732/radar-lab-newsletter-sponsorship-activity,tejas3732,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; newsletters; sponsorship; advertising; email-marketing; creator-economy; marketing
+2026-11-24T06:16:07Z,Zenodo-ML/ZTF-Variable-Sources-Catalog-20057104,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:16:48Z,Zenodo-ML/Standardized-Calibrated-Light-Stimuli-Head-Mounted-Displays-Non-Visual-Effects,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:17:11Z,Zenodo-ML/Global-Import-Export-Country-Availability-1995-2024-22883424,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:17:30Z,SAM834/Malignant_Breast_Cancer,SAM834,0,0,region:us
+2026-11-24T06:19:26Z,oahosoh/qwen-r10a-frozen-states,oahosoh,0,0,region:us
+2026-11-24T06:19:30Z,Zenodo-ML/FragBERTa-Fragment-Based-Molecular-Representation-Sequential-Attachment,Zenodo-ML,0,0,language:en; license:cc-by-4.0; region:us; zenodo; scientific-data; parquet
+2026-11-24T06:19:33Z,zParik/hindi-news-label-free-summ,zParik,0,0,task_categories:summarization; language:hi; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; region:us
