@@ -1,0 +1,75 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T02:21:43Z,aliadel452/fastdl,aliadel452,0,0,region:us
+2026-11-25T02:22:24Z,riman-org/riman-ca-araliadiol-anti-inflammatory-repurchase-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-25T02:22:36Z,hlproject/Plate_Round_Trip_20261124_190840,hlproject,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-25T02:23:28Z,g1n0st/e3f9657a3028fb61305ddefb33d4d73a8e146af7,g1n0st,0,0,region:us
+2026-11-25T02:24:23Z,riman-org/riman-ca-araliadiol-dropshipping-b2b-cold-start-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-25T02:24:51Z,tybbyt/VenusVaccine_TumorBinary_AlphaFold2,tybbyt,0,0,license:apache-2.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T02:26:14Z,riman-org/riman-ca-araliadiol-microclimate-barrier-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-25T02:26:51Z,sejzu0123/c4977fee-e464-4122-bb13-8bdaf2272578,sejzu0123,0,0,region:us
+2026-11-25T02:28:10Z,bunnyhop1/i92-jwtacc-a25558ca,bunnyhop1,0,0,region:us
+2026-11-25T02:28:11Z,riman-org/riman-ca-araliadiol-post-procedure-barrier-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-25T02:28:18Z,kavin734/lime_green_block,kavin734,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T02:30:03Z,riman-org/riman-ca-araliadiol-regulatory-inci-trust-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; regulatory; descending-inci; cosmetic-formulation
+2026-11-25T02:30:20Z,sejzu0123/17fbc520-bc66-4fb6-8e51-ea0fc1ae3c34,sejzu0123,0,0,region:us
+2026-11-25T02:32:46Z,dengzhe-hou/tb-science-eeg-eye-coregistration,dengzhe-hou,0,0,license:cc-by-4.0; region:us; benchmark; terminal-bench-science
+2026-11-25T02:34:57Z,bunnyhop1/i91-a-60e007eb,bunnyhop1,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T02:36:19Z,wckwan/WebShop-Olmo3-7B-NGU-nostd-s1000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T02:37:32Z,g1n0st/bd3c59ab49b7ae2721af7a35bcfd3590571a1cc5,g1n0st,0,0,region:us
+2026-11-25T02:37:34Z,g1n0st/5b28009db23e502011c9427c0ab558f5acaeb423,g1n0st,0,0,region:us
+2026-11-25T02:37:56Z,bunnyhop1/i93-gview-926cd4fc,bunnyhop1,0,0,region:us
+2026-11-25T02:38:34Z,g1n0st/55b6d9a9c879ba2f4181b03ff7100860069b47b5,g1n0st,0,0,region:us
+2026-11-25T02:38:36Z,Liuyuan103/shapes-digest-qwen3.5-4b,Liuyuan103,0,0,region:us
+2026-11-25T02:39:34Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T02:39:34Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T02:40:52Z,wckwan/WebShop-Olmo3-7B-GRPO-nostd-s1000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T02:41:53Z,Nexdata-kr/444K-Entries-Korean-Pronunciation-Dictionary-Data,Nexdata-kr,0,0,language:ko; region:us
+2026-11-25T02:42:24Z,rahasin50/pain-files,rahasin50,0,0,language:en; license:mit; region:us; free-fire; il2cpp; dump; reverse-engineering; dumper; ob55
+2026-11-25T02:43:56Z,SpeechDataAI/us-outbound-sales-calls,SpeechDataAI,0,0,task_categories:automatic-speech-recognition; language:en; license:other; modality:audio; region:us; audio; call-center; outbound-sales; telephone-speech; conversational-speech; dual-channel; commerc…
+2026-11-25T02:45:33Z,pratikgx/ternary-bonsai-2.5-27b-m5-pro-mac-mini-bench,pratikgx,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; region:us; benchmark; apple-silicon; mlx; llama-cpp; ternary; bonsai; prismml; local-inference
+2026-11-25T02:45:40Z,rainbowrobotics/wb_real_20261125_014617,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T02:45:47Z,luischica/delhi_air_quality_feature_store_processed.csv,luischica,0,0,language:en; license:apache-2.0; size_categories:1M<n<10M; region:us; climate
+2026-11-25T02:46:03Z,g1n0st/d00b20737300a3e5e246f4a83b089d7420666cc1,g1n0st,0,0,region:us
+2026-11-25T02:46:11Z,yellow-shield-1/tap_ACT,yellow-shield-1,0,0,region:us
+2026-11-25T02:47:22Z,bunnyhop1/i94-ds-xss-c14fd895,bunnyhop1,0,0,region:us
+2026-11-25T02:47:23Z,bunnyhop1/i94-gated-xss-c14fd895,bunnyhop1,0,0,region:us
+2026-11-25T02:47:31Z,g1n0st/82f6928ae4eda5262b50989648ac7f7d3526647a,g1n0st,0,0,region:us
+2026-11-25T02:49:21Z,bunnyhop1/i95-pii-gview-7c85a3b3,bunnyhop1,0,0,region:us
+2026-11-25T02:50:03Z,g1n0st/0a1ffd11d8b4ce39e22d0412d551b404b66643ea,g1n0st,0,0,region:us
+2026-11-25T02:51:31Z,SDFASF43534/zqjwtsink1795575091,SDFASF43534,0,0,region:us
+2026-11-25T02:52:27Z,g1n0st/454f7c1c9f79da56ff5a040346834c3518b2285e,g1n0st,0,0,region:us
+2026-11-25T02:52:30Z,g1n0st/8794ddb37009230ad8bd0dfbe4b567f811099673,g1n0st,0,0,region:us
+2026-11-25T02:54:55Z,rohitdhamale28/cricbase,rohitdhamale28,0,0,region:us
+2026-11-25T02:54:56Z,shuren2/iice_20261125_104910,shuren2,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-25T02:55:51Z,bunnyhop1/i94-ds2-xss-c14fd895,bunnyhop1,0,0,task_categories:text-classification; license:mit; region:us; i94ds<img src=x onerror=window.__i94dt=1>
+2026-11-25T02:55:56Z,reneeice/ingot-gate-a,reneeice,0,0,region:us
+2026-11-25T02:56:03Z,g1n0st/b5d2c7a4a3586b273526f98e7f5197f664dc98b9,g1n0st,0,0,region:us
+2026-11-25T02:56:37Z,ambrishchaurasia/xlsum,ambrishchaurasia,0,0,task_categories:summarization; task_categories:text-generation; annotations_creators:found; language_creators:found; multilinguality:multilingual; source_datasets:original; language:am; language:ar;…
+2026-11-25T02:56:48Z,ylliuzzo/gdpval,ylliuzzo,0,0,region:us
+2026-11-25T02:57:08Z,gberseth/libero_spatial_no_noops_state_lerobot,gberseth,0,0,task_categories:robotics; license:mit; region:us; LeRobot; LIBERO; libero_spatial; panda
+2026-11-25T02:57:48Z,bunnyhop1/i94-ds3-xss-c14fd895,bunnyhop1,0,0,region:us
+2026-11-25T03:00:38Z,therayelab/oncocompass-v1-53-research,therayelab,0,0,task_categories:text-generation; language:en; license:other; region:us; synthetic; oncology; research-only
+2026-11-25T03:00:57Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,region:us
+2026-11-25T03:00:59Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,region:us
+2026-11-25T03:02:48Z,SJSURoboticsTeam/eight-streams-v1,SJSURoboticsTeam,0,0,region:us
+2026-11-25T03:03:35Z,efaaefd/Annoy-PyEdu-Rs,efaaefd,0,0,region:us
+2026-11-25T03:03:36Z,efaaefd/Annoy-PyEdu-Rs-Raw,efaaefd,0,0,region:us
+2026-11-25T03:07:53Z,jmrec0/beneco,jmrec0,0,0,license:mit; region:us
+2026-11-25T03:08:14Z,ASCXZ1312/Annoy-PyEdu-Rs-Raw,ASCXZ1312,0,0,region:us
+2026-11-25T03:08:14Z,ASCXZ1312/Annoy-PyEdu-Rs,ASCXZ1312,0,0,region:us
+2026-11-25T03:10:05Z,g1n0st/6b73e751bbbf3268b1461051a5cd2f8d3ee5a602,g1n0st,0,0,region:us
+2026-11-25T03:10:17Z,Nexdata-kr/393-Hours-Korean-Children-Speech-Reading-Data-Mobile-Recording,Nexdata-kr,0,0,language:ko; region:us
+2026-11-25T03:10:40Z,zhtstar/SARLingu,zhtstar,0,0,task_categories:image-text-to-text; language:en; license:cc-by-nc-4.0; modality:geospatial; region:us; sar; remote-sensing; visual-question-answering; image-captioning
+2026-11-25T03:11:57Z,ghost233lism/stateweaver-film-workshop-media,ghost233lism,0,0,license:cc-by-nc-4.0; region:us; video-generation; multi-agent-systems
+2026-11-25T03:13:28Z,brandysandbs/real-world-chart-to-data-benchmark,brandysandbs,0,0,license:cc-by-sa-4.0; region:us
+2026-11-25T03:13:36Z,soyab113/neonclipping-url,soyab113,0,0,region:us
+2026-11-25T03:14:56Z,renhehuang/stellaris-steam-reviews,renhehuang,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:100K<n<1M; region:us; steam; game-reviews; playtime; topic-modeling; llm-annotation
+2026-11-25T03:15:07Z,playercc7/superreach-data,playercc7,0,0,region:us
+2026-11-25T03:16:40Z,bunnyhop1/i100-pub-3b4144c9,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T03:16:58Z,yutaku/Alignment-Human-CLAW,yutaku,0,0,region:us
+2026-11-25T03:18:20Z,bunnyhop1/i98-lance-dir-53d805,bunnyhop1,0,0,region:us
+2026-11-25T03:18:21Z,bunnyhop1/i98-lance-file-edf6f4,bunnyhop1,0,0,region:us
+2026-11-25T03:19:43Z,wang101611/zafulerobot,wang101611,0,0,region:us
+2026-11-25T03:19:54Z,nexiloopofficial/nexi-inkling-traces,nexiloopofficial,0,0,license:apache-2.0; region:us
+2026-11-25T03:20:39Z,a5416899360/mylib,a5416899360,0,0,region:us
+2026-11-25T03:21:04Z,Nexdata-kr/290-Hours-Korean-Conversational-Speech-Data-Mobile-Recording,Nexdata-kr,0,0,region:us
