@@ -1,0 +1,103 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T00:21:41Z,bunnyhop1/i28-card,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T00:21:54Z,bunnyhop1/i32-ref-rce-7f3a,bunnyhop1,0,0,region:us
+2026-11-25T00:22:02Z,tchbcb/pcguy_r,tchbcb,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T00:22:50Z,bunnyhop1/i32-benign-7f3a,bunnyhop1,0,0,region:us
+2026-11-25T00:22:58Z,bgdrinkware/drinkware-carton-container-specs,bgdrinkware,0,0,task_categories:tabular-regression; license:cc-by-4.0; region:us; logistics; packaging; manufacturing; drinkware
+2026-11-25T00:24:12Z,bunnyhop1/i27-e2e-d95e6f72,bunnyhop1,0,0,region:us
+2026-11-25T00:24:17Z,bunnyhop1/i27-benign-11cd91e2,bunnyhop1,0,0,region:us
+2026-11-25T00:24:24Z,bunnyhop1/i28-exfil,bunnyhop1,0,0,region:us
+2026-11-25T00:25:29Z,sadaasf/Annoy-PyEdu-Rs,sadaasf,0,0,region:us
+2026-11-25T00:25:30Z,sadaasf/Annoy-PyEdu-Rs-Raw,sadaasf,0,0,region:us
+2026-11-25T00:26:05Z,sejzu0123/108c7358-c56c-4a62-a946-22906ea75ff7,sejzu0123,0,0,region:us
+2026-11-25T00:26:09Z,g1n0st/7c9bfc6211ce94159487ab16a7125182b6f273fb,g1n0st,0,0,region:us
+2026-11-25T00:26:54Z,bunnyhop1/i37-scope-a,bunnyhop1,0,0,region:us
+2026-11-25T00:26:55Z,bunnyhop1/i37-scope-b,bunnyhop1,0,0,region:us
+2026-11-25T00:27:38Z,bunnyhop1/i26-ds-1f8cb6,bunnyhop1,0,0,region:us
+2026-11-25T00:28:31Z,bunnyhop1/i33-flip-67a20da2,bunnyhop1,0,0,region:us
+2026-11-25T00:29:00Z,mediawizards01/denwix-plag-index,mediawizards01,0,0,region:us
+2026-11-25T00:29:04Z,bunnyhop1/i37-scope-c,bunnyhop1,0,0,region:us
+2026-11-25T00:29:14Z,GustyxPower/xmsrom-oneui9.5-addons,GustyxPower,0,0,region:us
+2026-11-25T00:29:24Z,ASD12DDSAD/Annoy-PyEdu-Rs,ASD12DDSAD,0,0,region:us
+2026-11-25T00:29:25Z,ASD12DDSAD/Annoy-PyEdu-Rs-Raw,ASD12DDSAD,0,0,region:us
+2026-11-25T00:30:03Z,bunnyhop1/i31v-wds-setstate,bunnyhop1,0,0,region:us
+2026-11-25T00:30:21Z,sejzu0123/3fe81368-d71a-4125-a417-bbdf1955fb00,sejzu0123,0,0,region:us
+2026-11-25T00:31:26Z,bunnyhop1/i38-viewer,bunnyhop1,0,0,language:en; license:mit; region:us
+2026-11-25T00:31:51Z,bunnyhop1/i39-imgrefs-d8da4bae7a,bunnyhop1,0,0,region:us
+2026-11-25T00:32:10Z,bunnyhop1/i39-imgctl-d8da4bae7a,bunnyhop1,0,0,region:us
+2026-11-25T00:32:37Z,bunnyhop1/i23-lance-atk-ca55b1,bunnyhop1,0,0,region:us
+2026-11-25T00:32:54Z,bunnyhop1/i37-scope-a-new,bunnyhop1,0,0,region:us
+2026-11-25T00:32:59Z,ansarbuilds/SiriusBench,ansarbuilds,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; region:us; focus-drift; adhd; cross-encoder; benchmark; sirius
+2026-11-25T00:33:16Z,continuous-reasoning/qwen2.5-1.5b-instruct-cd3-sft,continuous-reasoning,0,0,language:en; size_categories:100K<n<1M; region:us; countdown; math; supervised-fine-tuning; latent-reasoning
+2026-11-25T00:34:09Z,bunnyhop1/i23-lance-lfr-8ac54a,bunnyhop1,0,0,region:us
+2026-11-25T00:34:10Z,bunnyhop1/i34-card-datadir,bunnyhop1,0,0,region:us
+2026-11-25T00:34:41Z,bunnyhop1/i23-lance-basepaths-a65092,bunnyhop1,0,0,region:us
+2026-11-25T00:34:50Z,bunnyhop1/i39-imgrefs-4aac97ff91,bunnyhop1,0,0,region:us
+2026-11-25T00:35:07Z,bunnyhop1/i39-imgctl-4aac97ff91,bunnyhop1,0,0,region:us
+2026-11-25T00:35:21Z,bunnyhop1/i34-card-img,bunnyhop1,0,0,region:us
+2026-11-25T00:35:42Z,wckwan/Alfworld-Qwen3-8B-GiGPO-s1000-mb1024-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T00:35:57Z,bunnyhop1/v39-imgrefs-ea4d2bb7b2,bunnyhop1,0,0,region:us
+2026-11-25T00:35:59Z,bunnyhop1/v39-imgctl-ea4d2bb7b2,bunnyhop1,0,0,region:us
+2026-11-25T00:38:09Z,spanproof-labs/spanproof-cfr-bench,spanproof-labs,0,0,task_categories:question-answering; task_categories:text-classification; language:en; license:mit; size_categories:n<1K; region:us; regulatory-compliance; cfr; deterministic-verification; ai-safety;…
+2026-11-25T00:38:49Z,g1n0st/5f530097f91bf216264969da04de818f6ef4eaf1,g1n0st,0,0,region:us
+2026-11-25T00:40:01Z,bunnyhop1/i42-xss-437712f1,bunnyhop1,0,0,language:en; license:mit; region:us; i42-xss-probe
+2026-11-25T00:41:06Z,rainbowrobotics/wb_real_20261125_003613,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T00:42:50Z,luhong123/role-playing-corpus,luhong123,0,1,region:us
+2026-11-25T00:43:03Z,g1n0st/4ea2db8ff08d70cc898b2ac665374468838b9ccd,g1n0st,0,0,region:us
+2026-11-25T00:43:19Z,AnonymousUser012/EAAI26,AnonymousUser012,0,0,license:mit; region:us
+2026-11-25T00:43:44Z,bunnyhop1/val-lance-extref-66312afa,bunnyhop1,0,0,region:us
+2026-11-25T00:43:45Z,bunnyhop1/val-lance-inline-1efd596e,bunnyhop1,0,0,region:us
+2026-11-25T00:46:35Z,g1n0st/ce36eaf977c17d9cbc34282fb0dbbd1ae3b84308,g1n0st,0,0,region:us
+2026-11-25T00:46:50Z,exea-labs/exealm-pretrain,exea-labs,0,0,task_categories:text-generation; language:en; language:ja; language:code; license:other; region:us
+2026-11-25T00:46:52Z,exea-labs/exealm-post,exea-labs,0,0,task_categories:text-generation; language:en; language:ja; language:code; license:other; region:us
+2026-11-25T00:46:53Z,exea-labs/exealm-library,exea-labs,0,0,task_categories:text-generation; language:en; language:ja; language:code; license:other; region:us
+2026-11-25T00:48:02Z,ElcaidaLabs/Captcha-5-Digits,ElcaidaLabs,0,0,region:us
+2026-11-25T00:48:50Z,WentianShaw/gamelogicbench-harbor-parity,WentianShaw,0,0,region:us
+2026-11-25T00:50:45Z,amirtaherin/hydra-edge-llm-inference,amirtaherin,0,0,license:mit; size_categories:100K<n<1M; arxiv:2608.25053; region:us; llm-inference; edge-computing; profiling; energy; jetson; workload-characterization; quantization; llama-cpp; telemetry
+2026-11-25T00:52:26Z,dougalldeepmind/2026-11-25-odcv-prefill-opener-first-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36; mode:think; variant:prefill-opener-first
+2026-11-25T00:52:50Z,bunnyhop1/i48-tar-920ac1d4,bunnyhop1,0,0,region:us
+2026-11-25T00:53:28Z,rainbowrobotics/wb_real_20261125_004333,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T00:53:33Z,bunnyhop1/i48-tar1-741e7dfa,bunnyhop1,0,0,region:us
+2026-11-25T00:55:06Z,bunnyhop1/i49-ssrf-local-a1,bunnyhop1,0,0,region:us
+2026-11-25T00:57:43Z,bunnyhop1/i47-viewer-paths-8f3a71c2,bunnyhop1,0,0,region:us
+2026-11-25T00:57:56Z,bunnyhop1/i49-ssrf-drive-a2,bunnyhop1,0,0,region:us
+2026-11-25T00:57:58Z,bunnyhop1/i49-ssrf-imds-a3,bunnyhop1,0,0,region:us
+2026-11-25T00:58:07Z,g1n0st/b94d4ee51adedb847afd072fbb41be9cabcb6183,g1n0st,0,0,region:us
+2026-11-25T00:59:25Z,rainbowrobotics/wb_real_20261125_005526,rainbowrobotics,0,0,region:us
+2026-11-25T00:59:33Z,bunnyhop1/i46-viewflip-feb99207,bunnyhop1,0,0,region:us
+2026-11-25T00:59:33Z,bunnyhop1/i52-inline-files,bunnyhop1,0,0,region:us
+2026-11-25T01:00:53Z,EthanChen72/oxpecker-negotiation-scenarios,EthanChen72,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; negotiation; fairness; scheduling; constraint-satisfaction; workp…
+2026-11-25T01:01:30Z,g1n0st/c0c88fe44972ecea30c3adc13d15701f419935cc,g1n0st,0,0,region:us
+2026-11-25T01:03:17Z,bunnyhop1/i49-control-a4,bunnyhop1,0,0,region:us
+2026-11-25T01:03:37Z,bunnyhop1/i53-cache-a-c6ed4992,bunnyhop1,0,0,region:us
+2026-11-25T01:03:38Z,bunnyhop1/i53-cache-b-c6ed4992,bunnyhop1,0,0,region:us
+2026-11-25T01:04:26Z,JonthNunnes/port-acre-radiography-benchmarks,JonthNunnes,0,0,task_categories:text-generation; language:en; language:pt; license:cc-by-4.0; size_categories:n<1K; region:us; mixture-of-experts; edge-ai; moe-offloading; ssd-streaming; structural-radiography; cont…
+2026-11-25T01:04:30Z,rainbowrobotics/wb_real_20261125_010314,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T01:05:37Z,g1n0st/c275d6fe8ab1c413f123daa98b4603a174af7e6b,g1n0st,0,0,region:us
+2026-11-25T01:06:12Z,wckwan/Alfworld-Qwen3-8B-NGU-s1000-mb1024-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T01:06:23Z,bunnyhop1/i48-csv-02a0d8bf,bunnyhop1,0,0,region:us
+2026-11-25T01:06:56Z,Brooks207/DO_1,Brooks207,0,0,language:zh; language:en; license:other; size_categories:10K<n<100K; region:us; vision-language-model; qwen3-vl; change-localization; game-bug-detection; agent
+2026-11-25T01:07:05Z,ESAUCS/CB_abstracts_papers_ES,ESAUCS,0,0,task_categories:text-classification; task_categories:translation; task_categories:feature-extraction; language:es; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; central-ba…
+2026-11-25T01:09:12Z,bunnyhop1/i35-model-flip-d5d31a,bunnyhop1,0,0,region:us
+2026-11-25T01:10:53Z,bunnyhop1/i47-bytes-8f3a71c2,bunnyhop1,0,0,region:us
+2026-11-25T01:11:09Z,bunnyhop1/i58-gated-8e6c2152,bunnyhop1,0,0,region:us
+2026-11-25T01:12:00Z,bunnyhop1/i58-manual-b1d3c5ac,bunnyhop1,0,0,region:us
+2026-11-25T01:12:41Z,huuhuyng/56-image-i113-results,huuhuyng,0,0,region:us
+2026-11-25T01:12:49Z,ESAUCS/CB_abstracts_journals_ES,ESAUCS,0,0,task_categories:text-classification; task_categories:translation; task_categories:feature-extraction; language:es; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; economics;…
+2026-11-25T01:13:42Z,coreytoolathon/Annoy-PyEdu-Rs,coreytoolathon,0,0,region:us
+2026-11-25T01:13:42Z,coreytoolathon/Annoy-PyEdu-Rs-Raw,coreytoolathon,0,0,region:us
+2026-11-25T01:13:57Z,bunnyhop1/i60-avatar,bunnyhop1,0,0,region:us
+2026-11-25T01:14:13Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-11-25T01:14:14Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-11-25T01:15:25Z,YHDGD5/state-tahoe-case,YHDGD5,0,0,region:us
+2026-11-25T01:15:56Z,bunnyhop1/i62-dup-A4-47778dd1,bunnyhop1,0,0,region:us
+2026-11-25T01:16:20Z,bunnyhop1/i58-replay-aab62ddc,bunnyhop1,0,0,region:us
+2026-11-25T01:16:25Z,bunnyhop1/i58-replay-bf862a1c,bunnyhop1,0,0,region:us
+2026-11-25T01:17:21Z,bunnyhop1/i58-replay-8c058970,bunnyhop1,0,0,region:us
+2026-11-25T01:18:04Z,zinuzoid/lerobot-card-to-green-marker_20261125_010927,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T01:18:27Z,bunnyhop1/i58-replay-e309bad1,bunnyhop1,0,0,region:us
+2026-11-25T01:19:31Z,bunnyhop1/i49-v-oob-011931,bunnyhop1,0,0,region:us
+2026-11-25T01:19:32Z,bunnyhop1/i49-v-p80-011931,bunnyhop1,0,0,region:us
+2026-11-25T01:19:33Z,bunnyhop1/i49-v-p8080-011931,bunnyhop1,0,0,region:us
+2026-11-25T01:19:34Z,bunnyhop1/i49-v-p9090-011931,bunnyhop1,0,0,region:us
+2026-11-25T01:20:14Z,davila7/cmca-holdout,davila7,0,0,license:cc-by-4.0; region:us; agents; coding-agents; benchmark; fault-injection
