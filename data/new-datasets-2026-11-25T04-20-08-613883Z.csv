@@ -1,0 +1,79 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T03:23:28Z,nberezny/lite6_seam_wp,nberezny,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; libra…
+2026-11-25T03:24:18Z,haliyikama/turkiye-hali-yikama-fiyatlari-2026,haliyikama,0,0,language:tr; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; c…
+2026-11-25T03:24:44Z,nberezny/lite6_seam_path,nberezny,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-25T03:24:45Z,EstingWan/VLA4CoDrive,EstingWan,0,0,task_categories:image-to-text; task_categories:visual-question-answering; task_categories:reinforcement-learning; task_categories:robotics; task_categories:object-detection; task_categories:depth-est…
+2026-11-25T03:25:25Z,Nexdata-kr/516-Hours-Korean-Speech-Reading-Data-Mobile-Recording,Nexdata-kr,0,0,language:ko; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T03:25:33Z,bunnyhop1/i103-jwtflip-70e2a3ae,bunnyhop1,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T03:27:23Z,sejzu0123/3eb177a4-14e5-4862-9c8a-d57e1cacf33d,sejzu0123,0,0,region:us
+2026-11-25T03:29:07Z,Towa25/so101_sim_cube_bowl_newton_firefly_test6,Towa25,0,0,license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; lerobot; simulation; depth
+2026-11-25T03:30:34Z,sejzu0123/d40a33fa-0938-4053-bfce-3d813c76918e,sejzu0123,0,0,region:us
+2026-11-25T03:31:00Z,Gom-sy/robocasa_kitchen3_multipose_480,Gom-sy,0,0,license:other; region:us; robotics; robocasa; idm; lerobot; gr00t
+2026-11-25T03:32:30Z,Nexdata-kr/357-Hours-Korean-Speech-Reading-Data-Mobile-Recording,Nexdata-kr,0,0,language:ko; region:us
+2026-11-25T03:32:54Z,datavil/cellestial-datasets,datavil,0,0,license:other; size_categories:10K<n<100K; region:us; biology; single-cell; spatial-transcriptomics; rna-velocity; anndata
+2026-11-25T03:34:12Z,kiplingliu/akg-data,kiplingliu,0,0,license:mit; region:us; triton; gpu-kernels; kernelbench; code
+2026-11-25T03:34:31Z,kiplingliu/akg-eval,kiplingliu,0,0,license:mit; region:us; triton; gpu-kernels; kernelbench; evaluation
+2026-11-25T03:35:01Z,CandorSystem/axial-commons-videos,CandorSystem,0,0,region:us
+2026-11-25T03:36:56Z,LaconicLeon/synthetic-time-interval-fixtures,LaconicLeon,0,0,language:en; license:mit; size_categories:n<1K; region:us
+2026-11-25T03:37:05Z,SYEONOEYS/KoCulture-Descriptions,SYEONOEYS,0,0,language:ko; license:cc-by-nc-sa-4.0; region:us
+2026-11-25T03:40:12Z,g1n0st/19ad9e0e5a2eeb59d73323040547c816cff1b4e2,g1n0st,0,0,region:us
+2026-11-25T03:41:42Z,wayyy/chinese-legal-cases,wayyy,0,0,language:zh; license:other; size_categories:1M<n<10M; arxiv:1807.02478; arxiv:2309.11325; region:us; legal; chinese-legal; judgment-prediction; legal-case-retrieval; sft
+2026-11-25T03:44:32Z,algo-dev99/test44,algo-dev99,0,0,license:other; region:us
+2026-11-25T03:44:32Z,efewwefwe/crushie-pixel-dataset,efewwefwe,0,0,region:us
+2026-11-25T03:45:23Z,lance-format/commonsense-qa-lance,lance-format,0,0,task_categories:question-answering; language:en; license:mit; size_categories:10K<n<100K; library:lance; region:us; lance; commonsense-reasoning; multiple-choice; information-retrieval
+2026-11-25T03:45:46Z,bunnyhop1/i110-imagefolder-bs,bunnyhop1,0,0,region:us
+2026-11-25T03:46:26Z,yil384/rtl-verilog-sft,yil384,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; region:us; rtl; verilog; hardware-design; sft; code
+2026-11-25T03:46:28Z,pixelartmaker/pixel-art-palettes,pixelartmaker,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; pixel-art; color-palette; palette; retro; pico-8; game-boy; cga; ega; gamedev
+2026-11-25T03:46:35Z,bunnyhop1/i109-cimd-93b8dd01,bunnyhop1,0,0,region:us
+2026-11-25T03:48:28Z,wckwan/WebShop-Olmo3-7B-GRPO-nostd-s2000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T03:50:35Z,bcv-commons/passage-mood-spans-model,bcv-commons,0,0,language:hbo; language:arc; language:grc; license:cc-by-sa-4.0; region:us; bible; hebrew; greek; emotion; model-generated
+2026-11-25T03:51:46Z,juuun133/Mental_Health_Knowledge_Dataset,juuun133,0,0,language:en; license:cc-by-nc-sa-4.0; region:us
+2026-11-25T03:53:31Z,lance-format/hhdc-lance,lance-format,0,0,task_categories:image-to-image; language:en; license:cc-by-4.0; size_categories:10K<n<100K; modality:geospatial; library:lance; region:us; lance; lidar; geospatial; remote-sensing; neon; canopy; info…
+2026-11-25T03:53:33Z,janette-ai/mind-forge-assets,janette-ai,0,0,license:cc-by-4.0; region:us
+2026-11-25T03:54:18Z,PCL-RSI-lab/DeepSWE-v1.1-Evaluation-Evidence-mini,PCL-RSI-lab,0,0,license:apache-2.0; region:us; code; agent; evaluation; deepswe
+2026-11-25T03:55:10Z,g1n0st/7dd0fde983ac9a7b701d9799e61360e29c34419f,g1n0st,0,0,region:us
+2026-11-25T03:55:57Z,bunnyhop1/i110-control-bs,bunnyhop1,0,0,region:us
+2026-11-25T03:57:03Z,bunnyhop1/i110-token-bs,bunnyhop1,0,0,region:us
+2026-11-25T03:58:33Z,g1n0st/641b9ec15dcbb87e7d006a2c3bcd9c3c84622a6e,g1n0st,0,0,region:us
+2026-11-25T03:59:28Z,ErnestBeckham/prime-mmm-rollouts,ErnestBeckham,0,0,region:us
+2026-11-25T04:01:25Z,Ky-Smith21/adaption-gpt-6-2-2026-11-24-gemma-capability-repair-demonstration-pilot-draft-unverified,Ky-Smith21,0,0,multilinguality:multilingual; language:en; language:es; size_categories:n<1K; region:us; adaption; instruction-tuning; code
+2026-11-25T04:01:29Z,auditdpo/panel,auditdpo,0,0,license:mit; region:us
+2026-11-25T04:02:40Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_130044_1ep,komokomo7,0,0,region:us
+2026-11-25T04:04:34Z,bunnyhop1/i115-evil-9caafbec,bunnyhop1,0,0,region:us
+2026-11-25T04:04:41Z,bunnyhop1/i115-benign-9caafbec,bunnyhop1,0,0,region:us
+2026-11-25T04:04:42Z,bunnyhop1/i115-plain-9caafbec,bunnyhop1,0,0,region:us
+2026-11-25T04:05:15Z,Nithish2410/benchmark-freshstack-angular,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-sa-4.0; region:us
+2026-11-25T04:05:29Z,Nithish2410/benchmark-freshstack-godot,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-sa-4.0; region:us
+2026-11-25T04:06:01Z,Nithish2410/benchmark-freshstack-langchain,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-sa-4.0; region:us
+2026-11-25T04:06:33Z,Nithish2410/benchmark-freshstack-laravel,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-sa-4.0; region:us
+2026-11-25T04:07:12Z,OG7407/so101_cube_bins,OG7407,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so101; smolvla; flow-matching
+2026-11-25T04:07:15Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_130256_3ep,komokomo7,0,0,region:us
+2026-11-25T04:07:16Z,Nithish2410/benchmark-freshstack-yolo,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-sa-4.0; region:us
+2026-11-25T04:08:08Z,intchous/hf,intchous,0,0,region:us
+2026-11-25T04:08:10Z,GregJacobson/greg-jacobson-books,GregJacobson,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us; books; self-help; happiness; well-being; quality-of-life; personal-development
+2026-11-25T04:09:04Z,bunnyhop1/i117-xss-eb3c4efe,bunnyhop1,0,0,region:us
+2026-11-25T04:10:09Z,bunnyhop1/i115-canary-9caafbec,bunnyhop1,0,0,region:us
+2026-11-25T04:10:13Z,Towa25/so101_sim_cube_bowl_newton_contact_test6,Towa25,0,0,license:apache-2.0; region:us; lerobot; simulation; depth
+2026-11-25T04:11:27Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_130926_1ep,komokomo7,0,0,region:us
+2026-11-25T04:12:07Z,bunnyhop1/i116-wds-tensor,bunnyhop1,0,0,region:us
+2026-11-25T04:12:11Z,bunnyhop1/i116-wds-benign,bunnyhop1,0,0,region:us
+2026-11-25T04:12:31Z,bunnyhop1/i116-wds-evil,bunnyhop1,0,0,region:us
+2026-11-25T04:13:25Z,BlackPolo/pixel-art-atlas-1.4m,BlackPolo,0,0,task_categories:text-to-image; language:en; license:cc0-1.0; size_categories:1M<n<10M; region:us; pixel-art; sprites; synthetic; ai-generated
+2026-11-25T04:13:53Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-25T04:13:55Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-25T04:14:19Z,vngjhu/test_safe1,vngjhu,0,0,arxiv:2402.02207; region:us
+2026-11-25T04:14:24Z,RioCH/all_plot_data,RioCH,0,0,region:us
+2026-11-25T04:14:40Z,tejathotasc/citation-accuracy-bench,tejathotasc,0,0,task_categories:text-classification; language:en; license:cc-by-sa-4.0; size_categories:n<1K; region:us; citations; fact-checking; attribution; benchmark; evaluation
+2026-11-25T04:15:06Z,bunnyhop1/i121-xtar-9d3f1a,bunnyhop1,0,0,region:us
+2026-11-25T04:15:28Z,bunnyhop1/i121-xplain-9d3f1a,bunnyhop1,0,0,region:us
+2026-11-25T04:16:20Z,microwave1005/choice-hmm-v1-natural-traces-2b,microwave1005,0,0,task_categories:text-generation; language:en; size_categories:n<1K; region:us; reasoning; thinking-budget; routing; item-response
+2026-11-25T04:16:49Z,Nihilux/SunFlower,Nihilux,0,0,region:us
+2026-11-25T04:17:16Z,HeOCR/htext-sefaria-by,HeOCR,0,0,language:he; license:cc-by-4.0; region:us; ocr; hebrew
+2026-11-25T04:17:30Z,HeOCR/htext-tsel-haolam,HeOCR,0,0,language:he; license:cc0-1.0; region:us; ocr; hebrew
+2026-11-25T04:18:36Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_131656_1ep,komokomo7,0,0,region:us
+2026-11-25T04:19:10Z,pointcept-bot/weatherbench2-1.0s,pointcept-bot,0,0,license:other; size_categories:10K<n<100K; arxiv:2308.15560; region:us; weather; climate; era5; reanalysis; safetensors
+2026-11-25T04:19:29Z,mikeyigupu05/Annoy-PyEdu-Rs,mikeyigupu05,0,0,region:us
+2026-11-25T04:19:31Z,mikeyigupu05/Annoy-PyEdu-Rs-Raw,mikeyigupu05,0,0,region:us
+2026-11-25T04:19:38Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T04:19:38Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T04:19:53Z,eifelnex/gse-dataset,eifelnex,0,0,task_categories:image-to-3d; license:other; size_categories:n<1K; region:us; gaussian-splatting; inverse-rendering; relighting; synthetic
