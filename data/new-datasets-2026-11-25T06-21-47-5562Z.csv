@@ -1,0 +1,131 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T05:21:07Z,sdafaf33/Annoy-PyEdu-Rs,sdafaf33,0,0,region:us
+2026-11-25T05:21:08Z,sdafaf33/Annoy-PyEdu-Rs-Raw,sdafaf33,0,0,region:us
+2026-11-25T05:21:24Z,bunnyhop1/i139-pub-3d9e21c4,bunnyhop1,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-25T05:22:00Z,matthew-ritch/gd-qwen-lineage,matthew-ritch,0,0,region:us
+2026-11-25T05:22:01Z,bunnyhop1/i143-fifo-3cf4bb44,bunnyhop1,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T05:22:02Z,bunnyhop1/i143-benign-3cf4bb44,bunnyhop1,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T05:22:37Z,SDFASF43534/zqsym1795584156,SDFASF43534,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T05:22:56Z,shrxdha/sentinel-lexsi-results,shrxdha,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; red-teaming; ai-safety; jailbreak; abliteration; refusal; legal; evaluation
+2026-11-25T05:23:12Z,real-stanford/libero_gen_spatial_combination_hdf5,real-stanford,0,0,license:mit; arxiv:2606.30457; region:us; robotics
+2026-11-25T05:23:17Z,08semi/new_new13,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:23:26Z,wckwan/WebShop-Qwen3-8B-NGU-nostd-s1000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T05:23:29Z,real-stanford/libero_gen_goal_chain_hdf5,real-stanford,0,0,license:mit; arxiv:2606.30457; region:us; robotics
+2026-11-25T05:25:02Z,bunnyhop1/i147-pub2-f7157b71,bunnyhop1,0,1,region:us
+2026-11-25T05:25:07Z,SADD1DSA21DSA/Annoy-PyEdu-Rs,SADD1DSA21DSA,0,0,region:us
+2026-11-25T05:25:08Z,SADD1DSA21DSA/Annoy-PyEdu-Rs-Raw,SADD1DSA21DSA,0,0,region:us
+2026-11-25T05:25:43Z,SDFASF43534/zqlfi1795584342,SDFASF43534,0,0,region:us
+2026-11-25T05:26:22Z,seaew/Annoy-PyEdu-Rs,seaew,0,0,region:us
+2026-11-25T05:26:23Z,seaew/Annoy-PyEdu-Rs-Raw,seaew,0,0,region:us
+2026-11-25T05:26:26Z,biscet/CodeThinker-DeepSeek-Agentic,biscet,0,0,task_categories:text-generation; annotations_creators:no-annotation; language_creators:found; language_creators:machine-generated; multilinguality:multilingual; language:ru; language:en; license:apac…
+2026-11-25T05:27:08Z,cvxc312/t2i-dataset-v1-part-009,cvxc312,0,0,region:us
+2026-11-25T05:27:55Z,sdsffs5/Annoy-PyEdu-Rs,sdsffs5,0,0,region:us
+2026-11-25T05:28:17Z,sdsffs5/Annoy-PyEdu-Rs-Raw,sdsffs5,0,0,region:us
+2026-11-25T05:28:23Z,DONGDA/pick_and_place_practice_3cam_test_20261125_142638,DONGDA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:28:25Z,sejzu0123/b564a9f3-cda7-4e2d-8993-39605f181627,sejzu0123,0,0,region:us
+2026-11-25T05:29:43Z,flatfeeweb/home-service-websites-2026,flatfeeweb,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; home-services; plumbing; hvac; small-business-websites; online-booking; field-service-software; call-tracking; advertising-pixels; cha…
+2026-11-25T05:29:48Z,safcaasd/Annoy-PyEdu-Rs-Raw,safcaasd,0,0,region:us
+2026-11-25T05:29:48Z,safcaasd/Annoy-PyEdu-Rs,safcaasd,0,0,region:us
+2026-11-25T05:30:06Z,asd12edxzcc2ed/Annoy-PyEdu-Rs,asd12edxzcc2ed,0,0,region:us
+2026-11-25T05:30:06Z,asd12edxzcc2ed/Annoy-PyEdu-Rs-Raw,asd12edxzcc2ed,0,0,region:us
+2026-11-25T05:30:14Z,sejzu0123/41ab954a-5a3b-426d-b75e-15466e6ae29a,sejzu0123,0,0,region:us
+2026-11-25T05:32:39Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-4_2026_1125_142301_10ep,komokomo7,0,0,region:us
+2026-11-25T05:33:07Z,g1n0st/b7a2371b345d238ef5bd46a2a43f0a43c279f7b5,g1n0st,0,0,region:us
+2026-11-25T05:33:44Z,bunnyhop1/i148-evil-i148-387b7f78,bunnyhop1,0,0,region:us
+2026-11-25T05:34:41Z,bunnyhop1/i148-out-i148-387b7f78,bunnyhop1,0,0,region:us
+2026-11-25T05:34:43Z,Nexdata-kr/211-Speakers-Korean-Guidance-Speech-Data-Mobile-Recording,Nexdata-kr,0,0,language:ko; region:us
+2026-11-25T05:35:48Z,zengziyun/transfer,zengziyun,0,0,region:us
+2026-11-25T05:36:39Z,SEAColdChain/southeast-asia-cold-storage-market-totals,SEAColdChain,0,0,license:cc-by-4.0; size_categories:n<1K; region:us; cold-storage; cold-chain; logistics; warehousing; southeast-asia
+2026-11-25T05:37:40Z,randi233/rollout_table-wipe-bs32-20k-20261125-052421_20261125_053416,randi233,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:37:45Z,AlienBench/alienbench,AlienBench,0,0,license:cc-by-4.0; region:us
+2026-11-25T05:37:59Z,Peplio/ai-training-opt-out-study-2026,Peplio,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; robots-txt; ai-crawlers; ai-training; opt-out; aipref; content-signals; llms-txt; gptbot; seo
+2026-11-25T05:38:05Z,Chaenn/so101_onecube_sim_drbase_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:38:09Z,bocchiiiii/vipe_model,bocchiiiii,0,0,region:us
+2026-11-25T05:39:03Z,DONGDA/pick_and_place_practice_3cam_test_20261125_143615,DONGDA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:39:14Z,koumi-property/japan-oneroom-price-data,koumi-property,0,0,language:ja; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; real-estate; japan; housing-prices; tokyo; yokohama; osaka; nagoya
+2026-11-25T05:39:18Z,Rahul2727/sciq,Rahul2727,0,0,task_categories:question-answering; task_ids:closed-domain-qa; annotations_creators:no-annotation; language_creators:crowdsourced; multilinguality:monolingual; source_datasets:original; language:en;…
+2026-11-25T05:39:38Z,bunnyhop1/i149-tarfallback-36937b43,bunnyhop1,0,0,region:us
+2026-11-25T05:39:38Z,bunnyhop1/i149-tarfallback-ctrl-36937b43,bunnyhop1,0,0,region:us
+2026-11-25T05:40:05Z,nipj/a1b2c3d4-e5f6-7890-abcd-ef1234567890,nipj,0,0,license:cc-by-4.0; region:us
+2026-11-25T05:40:38Z,Chaenn/so101_onecube_sim_drvis_low_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:41:44Z,bunnyhop1/i149-replay-tarfallback-ctrl-a9e8f229,bunnyhop1,0,0,region:us
+2026-11-25T05:41:44Z,bunnyhop1/i149-replay-tarfallback-a9e8f229,bunnyhop1,0,0,region:us
+2026-11-25T05:42:40Z,g1n0st/6230952aa497ca0c5cc5d6e40d991dc3baf37d5a,g1n0st,0,0,region:us
+2026-11-25T05:42:43Z,DONGDA/pick_and_place_practice_3cam_test_20261125_144001,DONGDA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:43:49Z,Chaenn/so101_onecube_sim_drvis_mid_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:44:24Z,bunnyhop1/i149-replay-tarfallback-ctrl-b1fbacb4,bunnyhop1,0,0,region:us
+2026-11-25T05:44:24Z,bunnyhop1/i149-replay-tarfallback-b1fbacb4,bunnyhop1,0,0,region:us
+2026-11-25T05:44:28Z,komokomo7/eval_act_sciurus17_2-ch-b-airold-4_2026_1125_143313_8ep,komokomo7,0,0,region:us
+2026-11-25T05:45:57Z,bunnyhop1/i149-val-evil-8ef638b8,bunnyhop1,0,0,region:us
+2026-11-25T05:45:58Z,bunnyhop1/i149-val-ctrl-8ef638b8,bunnyhop1,0,0,region:us
+2026-11-25T05:46:00Z,bunnyhop1/i149-val-evil_txt-8ef638b8,bunnyhop1,0,0,region:us
+2026-11-25T05:46:39Z,g1n0st/a77b35585818fb4cc14a1e454a5ce5697c0ea5c5,g1n0st,0,0,region:us
+2026-11-25T05:47:15Z,Chaenn/so101_onecube_sim_drvis_high_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:47:47Z,testosilreviews/testosil,testosilreviews,0,0,region:us
+2026-11-25T05:48:07Z,bunnyhop1/i151-evil-i151-a189617f,bunnyhop1,0,0,region:us
+2026-11-25T05:48:35Z,testosilreviews/testosilCollarPrice,testosilreviews,0,0,region:us
+2026-11-25T05:48:40Z,AI-Training-Pay/ai-training-jobs-pay,AI-Training-Pay,0,0,license:cc-by-4.0; size_categories:1K<n<10K; region:us; labor; jobs; ai-training; rlhf; data-annotation; wages
+2026-11-25T05:48:53Z,bunnyhop1/i150-evil-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:49:05Z,bunnyhop1/i150-exfil-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:49:22Z,bunnyhop1/i150-exfil-ctl-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:49:58Z,wckwan/WebShop-Qwen3-8B-GRPO-nostd-s1000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T05:50:00Z,bunnyhop1/i150-exfil-head-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:50:25Z,bunnyhop1/i150-exfil-local-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:50:35Z,bunnyhop1/i151-out-i151-a189617f,bunnyhop1,0,0,region:us
+2026-11-25T05:50:39Z,Chaenn/so101_onecube_sim_drphys_low_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:50:58Z,bunnyhop1/i150-hubreadme-4e2799db,bunnyhop1,0,0,region:us
+2026-11-25T05:52:55Z,wangxiangyu0814/UAV-Flow-flowVLA,wangxiangyu0814,0,0,region:us
+2026-11-25T05:53:24Z,Chaenn/so101_onecube_sim_drphys_mid_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:54:37Z,g1n0st/af6656342959a736a27035b6c423e15417521e2e,g1n0st,0,0,region:us
+2026-11-25T05:54:42Z,08semi/guruguru1,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:54:58Z,WesternGhats/ifsc,WesternGhats,0,0,license:cc-by-4.0; region:us
+2026-11-25T05:55:08Z,g1n0st/db264ec3c046c8a720534266ef37992f46d13491,g1n0st,0,0,region:us
+2026-11-25T05:55:50Z,komokomo7/eval_act_sciurus17_2-ch-b-airold-4_2026_1125_144748_10ep,komokomo7,0,0,region:us
+2026-11-25T05:56:30Z,Chaenn/so101_onecube_sim_drphys_high_450,Chaenn,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; simulation; mujoco; so101; onecube; domain-randomization
+2026-11-25T05:57:09Z,uva-cv-lab/AgenTAP-candidates,uva-cv-lab,0,0,license:cc-by-4.0; arxiv:2511.15706; region:us; point-tracking; correspondence
+2026-11-25T05:57:19Z,cfahlgren1/met-splats,cfahlgren1,0,0,task_categories:image-to-3d; license:cc0-1.0; size_categories:n<1K; modality:3d; region:us; gaussian-splatting; 3dgs; 3d; museum; art; cultural-heritage; idol
+2026-11-25T05:59:11Z,g1n0st/fde7a38d51cd54df1b56fe54cca136f12172502f,g1n0st,0,0,region:us
+2026-11-25T05:59:13Z,g1n0st/6b9b2a4577647244728990eecec99a54e9347e82,g1n0st,0,0,region:us
+2026-11-25T05:59:14Z,g1n0st/4f70d24e93df96bd8506062b8e397ff6f09749e0,g1n0st,0,0,region:us
+2026-11-25T05:59:16Z,g1n0st/d0e5249072aae2c9e0de833eaa6f6932d8891fe4,g1n0st,0,0,region:us
+2026-11-25T05:59:25Z,dronefreak/Siena-Scalp-EEG,dronefreak,0,0,region:us
+2026-11-25T06:01:44Z,RoboCOIN/Agilex_Cobot_Magic_pick_banana_3,RoboCOIN,0,0,region:us
+2026-11-25T06:02:13Z,bunnyhop1/i154-ctl-repo-ec28fdf1,bunnyhop1,0,0,region:us
+2026-11-25T06:02:55Z,tomyip0010/character-drawings,tomyip0010,0,0,region:us
+2026-11-25T06:03:01Z,bunnyhop1/i154-exfil-ec28fdf1,bunnyhop1,0,0,region:us
+2026-11-25T06:03:59Z,randi233/rollout_table-wipe-bs32-30k-120s-20261125-054100_20261125_055035,randi233,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T06:04:15Z,SD324DCSA/Annoy-PyEdu-Rs-Raw,SD324DCSA,0,0,region:us
+2026-11-25T06:04:15Z,SD324DCSA/Annoy-PyEdu-Rs,SD324DCSA,0,0,region:us
+2026-11-25T06:04:25Z,DONGDA/pick_and_place_practice_6_20261125_144837,DONGDA,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T06:04:33Z,k2021211255/autorsi-jev-4b-Results,k2021211255,0,0,region:us
+2026-11-25T06:05:00Z,08semi/guruguru2,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T06:05:41Z,DigitalAiWolf/Useful_tools,DigitalAiWolf,0,0,region:us
+2026-11-25T06:06:02Z,bunnyhop1/i153-dd-8c31f0a2,bunnyhop1,0,0,region:us
+2026-11-25T06:06:25Z,clippingpartner/navigating-the-landscape-of-professional-clipping-path-servi,clippingpartner,0,0,region:us
+2026-11-25T06:07:56Z,kavin734/testawdkba,kavin734,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T06:08:42Z,growthservicecost/instagram-growth-plan-terms-2026-11,growthservicecost,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; instagram; social-media; growth-services; subscriptions; refunds; cancellation
+2026-11-25T06:08:54Z,emgena/emgena_secret_key_armor_pro_suite_teaser,emgena,0,0,task_categories:text-generation; language:en; language:de; license:cc-by-nc-4.0; size_categories:n<1K; region:us; mcp; cursor; claude-desktop; security; ast-guard; apple-mlx; unsloth; emgena
+2026-11-25T06:09:01Z,adaafd/Annoy-PyEdu-Rs,adaafd,0,0,region:us
+2026-11-25T06:09:02Z,adaafd/Annoy-PyEdu-Rs-Raw,adaafd,0,0,region:us
+2026-11-25T06:09:42Z,bunnyhop1/i154-val-val-1795586979,bunnyhop1,0,0,region:us
+2026-11-25T06:09:47Z,Rowance/PRAM-features,Rowance,0,0,task_categories:feature-extraction; task_categories:zero-shot-classification; license:mit; region:us; multimodal; cross-modal-retrieval; emergent-alignment; frozen-representations; pram
+2026-11-25T06:10:13Z,g1n0st/4dc2684fb6cc74c39f753b97a7507de36ab0b4b5,g1n0st,0,0,region:us
+2026-11-25T06:11:37Z,yyuncong/pear-roboturn-roboturn_pear_v1_20261124-logs,yyuncong,0,0,region:us; reinforcement-learning; robotics; training-logs
+2026-11-25T06:11:38Z,rainbowrobotics/bobbin_20261125_045459,rainbowrobotics,0,0,region:us
+2026-11-25T06:12:49Z,devcat33/ai-workflow-and-agent-tco-benchmarks-2026,devcat33,0,0,task_categories:tabular-regression; task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; workflow-automation; ai-agents; pricing; tco; benchmarks; n8n; zapier; make…
+2026-11-25T06:13:01Z,allozaur/llama-chat-demo-mwvq85u8,allozaur,0,0,region:us
+2026-11-25T06:13:05Z,chloelee333/air_hockey_test,chloelee333,0,0,task_categories:robotics; region:us; lerobot; so101; air-hockey; robotics; imitation-learning
+2026-11-25T06:13:08Z,doanh25032004/AM_DiT_outputs_backup_public,doanh25032004,0,0,region:us
+2026-11-25T06:13:33Z,KomorAI/Reasoning-20k,KomorAI,0,0,region:us
+2026-11-25T06:14:09Z,08semi/guruguru3,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T06:14:57Z,bunnyhop1/i155-evil-s3-736b6aae,bunnyhop1,0,0,region:us
+2026-11-25T06:15:37Z,wckwan/WebShop-Qwen3-8B-GRPO-nostd-s2000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T06:16:02Z,abhinand8386/cinematch-models,abhinand8386,0,0,region:us
+2026-11-25T06:16:10Z,hindi-maithili/HindiMaithiliDataset,hindi-maithili,0,0,region:us
+2026-11-25T06:16:12Z,shrivikkaaa/Life_OS,shrivikkaaa,0,0,region:us
+2026-11-25T06:18:24Z,Adi-0-0-Gupta/NER-GRPO-dataset-V12-2,Adi-0-0-Gupta,0,0,region:us
+2026-11-25T06:19:44Z,KarimEsmond/Annoy-PyEdu-Rs,KarimEsmond,0,0,region:us
+2026-11-25T06:19:45Z,KarimEsmond/Annoy-PyEdu-Rs-Raw,KarimEsmond,0,0,region:us
+2026-11-25T06:20:53Z,mcptester0606/Annoy-PyEdu-Rs,mcptester0606,0,0,region:us
+2026-11-25T06:20:53Z,mcptester0606/Annoy-PyEdu-Rs-Raw,mcptester0606,0,0,region:us
+2026-11-25T06:21:13Z,miya-k/so101_bimanual_camera_test_20261125_151308,miya-k,0,0,region:us
