@@ -1,0 +1,76 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T21:22:28Z,zk0bot/certified-study001-five-tasks,zk0bot,0,0,license:cc-by-4.0; region:us
+2026-11-25T21:23:44Z,ragibhasan/AffectFusion,ragibhasan,0,0,task_categories:text-classification; task_ids:multi-class-classification; task_ids:sentiment-classification; annotations_creators:machine-generated; annotations_creators:expert-generated; language_cr…
+2026-11-25T21:24:16Z,cvxc312/t2i-dataset-v1-part-011,cvxc312,0,0,region:us
+2026-11-25T21:24:43Z,hinglish-orthobench/sm80-rafts,hinglish-orthobench,0,0,language:hi; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T21:25:27Z,shohdi2/dead-512bit-julia-mse-gradients-exp36,shohdi2,0,0,task_categories:other; region:us; secp256k1; keccak256; 512-bit-mpfr; gradients; julia
+2026-11-25T21:26:23Z,AfriSpeech/africa-substitution-gloss,AfriSpeech,0,0,region:us
+2026-11-25T21:27:43Z,dronefreak/HMC-Sleep-Staging,dronefreak,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:dask; library:polars; libr…
+2026-11-25T21:28:21Z,sejzu0123/12738169-1b89-4d25-b512-ce619bf6cd5a,sejzu0123,0,0,region:us
+2026-11-25T21:30:08Z,dexpoint/tilt-bottle-result-20261125,dexpoint,0,0,task_categories:robotics; region:us
+2026-11-25T21:30:25Z,sejzu0123/0409ea9d-e840-47e9-bbe8-d71a1fc34b62,sejzu0123,0,0,region:us
+2026-11-25T21:32:18Z,ssatodaiki93/food-sensor-fusion-v2,ssatodaiki93,0,0,license:apache-2.0; region:us; dataset; food; sensor-fusion
+2026-11-25T21:33:56Z,MaKaRobotics/record-test_20261125_223211,MaKaRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-25T21:34:28Z,michsethowusu/loma-speech-text,michsethowusu,0,0,task_categories:automatic-speech-recognition; language:lom; license:other; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; l…
+2026-11-25T21:34:40Z,matheuspprr/astronomy-data,matheuspprr,0,0,license:cc-by-4.0; region:us; dataset; astronomy; video-text
+2026-11-25T21:36:20Z,Nathan-Maine/cmmc-training-data-2026-11-25,Nathan-Maine,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:po…
+2026-11-25T21:36:37Z,visor-research/ai-chat-monetization-dataset-v1,visor-research,0,0,task_categories:text-classification; annotations_creators:machine-generated; language_creators:machine-generated; multilinguality:monolingual; language:en; license:mit; size_categories:10K<n<100K; fo…
+2026-11-25T21:38:42Z,PureOne/xhaielune-phase-holonomy-fourier-certified-lithography,PureOne,0,0,language:en; size_categories:n<1K; modality:document; modality:tabular; modality:text; region:us; research; mathematics; computational-lithography; semiconductor-manufacturing; high-na-euv; fourier-o…
+2026-11-25T21:41:06Z,Liuyuan103/shapes-digest-gemma4-e4b-it,Liuyuan103,0,0,region:us
+2026-11-25T21:41:08Z,Liuyuan103/shapes-qwen3-8b-base-B,Liuyuan103,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-25T21:41:52Z,BigLamed/semantic-density-protocol,BigLamed,0,1,task_categories:text-classification; language:ru; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; semantic-density; interpretability; cybernetics; human-ai-interaction; annotation-pr…
+2026-11-25T21:44:43Z,MaKaRobotics/record-test_20261125_224347,MaKaRobotics,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-25T21:46:07Z,smalltee2UPSEEN/nexgddp-cmip6-thailand,smalltee2UPSEEN,0,0,language:en; license:cc-by-4.0; region:us; climate; cmip6; downscaling; thailand; southeast-asia
+2026-11-25T21:47:32Z,nileshsarkar-ai/carla-dense-city-artifacts,nileshsarkar-ai,0,0,region:us
+2026-11-25T21:50:32Z,g1n0st/acab60907c3001642c2308b1c47389ba8cda3b26,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:50:34Z,g1n0st/f6fafd2941d94a92796e41666aa72dc3606aa7f0,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:51:01Z,g1n0st/7ddc457b947675111a96584bdff18c046a292c3b,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:51:46Z,Marwan101/egyptian-arabic-asr-stt,Marwan101,0,0,task_categories:automatic-speech-recognition; language:ar; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcroissa…
+2026-11-25T21:51:57Z,g1n0st/3e314df45acf03217f6d180c1ffc9b49983e2374,g1n0st,0,0,region:us
+2026-11-25T21:52:05Z,g1n0st/0b9f35215b20032ee3fee2b7efc19b6abfe697ff,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:52:06Z,g1n0st/dcfbf55687dec3b1a8f03261cd13ceccfe663b82,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:52:37Z,g1n0st/a49f4cd6e3e4834112dc5600ac18d4d3cc8816ae,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-25T21:53:02Z,sejzu0123/d4016657-86ee-4f4a-90ee-0962c13f1a67,sejzu0123,0,0,region:us
+2026-11-25T21:53:57Z,MaKaRobotics/record-test_20261125_224850,MaKaRobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-25T21:54:51Z,Liuyuan103/shapes-qwen3-8b-base-C-v2,Liuyuan103,0,0,region:us
+2026-11-25T21:55:51Z,kyleorgel/sp500-sustainability-report-index,kyleorgel,0,0,source_datasets:original; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sustainabi…
+2026-11-25T21:59:27Z,joeypastroni/Spoon_Test_1_20261125_155304,joeypastroni,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-25T22:00:24Z,basiekjusz/symbolic-arithmetic,basiekjusz,0,0,region:us
+2026-11-25T22:01:19Z,basiekjusz/symbolic-arithmetic-runs,basiekjusz,0,0,region:us
+2026-11-25T22:04:04Z,HatemAsa/swedish-grammaticality,HatemAsa,0,0,region:us
+2026-11-25T22:04:45Z,burakustefan29/romanian-driving-exam-finetune-v2,burakustefan29,0,0,region:us
+2026-11-25T22:05:57Z,djvanleeuwen/ocean-audio-text16,djvanleeuwen,0,0,license:cc-by-4.0; region:us; dataset; ocean; audio-text
+2026-11-25T22:06:04Z,Publicrecords/pdf-docx-to-markdown-sample,Publicrecords,0,0,task_categories:text-generation; license:cc0-1.0; modality:document; region:us; public-records; sample; pdf; ocr; rag
+2026-11-25T22:06:04Z,Publicrecords/audio-file-transcriber-sample,Publicrecords,0,0,task_categories:automatic-speech-recognition; license:cc0-1.0; region:us; public-records; sample; whisper; speech-to-text; subtitles
+2026-11-25T22:06:26Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-25T22:06:28Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-25T22:07:47Z,ZXC13ESDS/Annoy-PyEdu-Rs,ZXC13ESDS,0,0,region:us
+2026-11-25T22:07:48Z,ZXC13ESDS/Annoy-PyEdu-Rs-Raw,ZXC13ESDS,0,0,region:us
+2026-11-25T22:08:04Z,ASDBZVCZXQF/Annoy-PyEdu-Rs,ASDBZVCZXQF,0,0,region:us
+2026-11-25T22:08:12Z,liu123545/Annoy-PyEdu-Rs,liu123545,0,0,region:us
+2026-11-25T22:08:13Z,liu123545/Annoy-PyEdu-Rs-Raw,liu123545,0,0,region:us
+2026-11-25T22:08:28Z,qwrqwrqwrqr/Annoy-PyEdu-Rs,qwrqwrqwrqr,0,0,region:us
+2026-11-25T22:08:35Z,ASDBZVCZXQF/Annoy-PyEdu-Rs-Raw,ASDBZVCZXQF,0,0,region:us
+2026-11-25T22:08:39Z,afdasfaa/Annoy-PyEdu-Rs,afdasfaa,0,0,region:us
+2026-11-25T22:08:40Z,afdasfaa/Annoy-PyEdu-Rs-Raw,afdasfaa,0,0,region:us
+2026-11-25T22:08:59Z,qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw,qwrqwrqwrqr,0,0,region:us
+2026-11-25T22:09:03Z,asddcsd/Annoy-PyEdu-Rs,asddcsd,0,0,region:us
+2026-11-25T22:09:04Z,asddcsd/Annoy-PyEdu-Rs-Raw,asddcsd,0,0,region:us
+2026-11-25T22:10:11Z,Mapsgier/win11-iso,Mapsgier,0,0,region:us
+2026-11-25T22:10:14Z,Filippo/pi-five-update-eval-20261125,Filippo,0,0,region:us
+2026-11-25T22:13:05Z,LeeHakHo/armnet_dsrl-20261125-103310_ood,LeeHakHo,0,0,region:us
+2026-11-25T22:13:52Z,sdsfsfsf3435/Annoy-PyEdu-Rs,sdsfsfsf3435,0,0,region:us
+2026-11-25T22:13:53Z,sdsfsfsf3435/Annoy-PyEdu-Rs-Raw,sdsfsfsf3435,0,0,region:us
+2026-11-25T22:13:59Z,Publicrecords/url-to-markdown-sample,Publicrecords,0,0,task_categories:text-generation; license:cc0-1.0; region:us; public-records; sample; markdown; rag
+2026-11-25T22:14:00Z,Publicrecords/js-page-to-markdown-sample,Publicrecords,0,0,task_categories:text-generation; license:cc0-1.0; region:us; public-records; sample; markdown; javascript
+2026-11-25T22:14:03Z,rakesh00010/Indian-Multilingual-Bias-Dataset,rakesh00010,0,0,task_categories:text-classification; task_categories:fill-mask; task_ids:fact-checking; task_ids:semantic-similarity-scoring; multilinguality:multilingual; language:en; language:bn; language:hi; lice…
+2026-11-25T22:14:49Z,Publicrecords/email-verifier-sample,Publicrecords,0,0,task_categories:tabular-to-text; license:cc0-1.0; region:us; public-records; sample; email; dns; mx
+2026-11-25T22:15:13Z,beetwix/lami-corpus-v34,beetwix,0,0,region:us
+2026-11-25T22:15:13Z,beetwix/lami-corpus-inventory,beetwix,0,0,region:us
+2026-11-25T22:15:46Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-25T22:15:48Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-25T22:16:08Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t0.5_g5_run1,stefanocarrera,0,0,region:us
+2026-11-25T22:16:33Z,g1n0st/e1e7da700c0b21b5aab986bf69665579e01528de,g1n0st,0,0,region:us
+2026-11-25T22:17:07Z,rlundqvist/msm-secret-loyalty-run-2026-11,rlundqvist,0,0,region:us
+2026-11-25T22:17:28Z,g1n0st/949cff3d97b66e9315eefe4a19e968029ec47f60,g1n0st,0,0,region:us
+2026-11-25T22:17:37Z,emir826/vc-assets,emir826,0,0,region:us
