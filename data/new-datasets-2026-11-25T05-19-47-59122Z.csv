@@ -1,0 +1,98 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-25T04:20:11Z,RioCH/all_llm_eval,RioCH,0,0,region:us
+2026-11-25T04:20:14Z,stankotorg/band-saw-tpi,stankotorg,0,0,language:en; language:ru; license:cc-by-4.0; size_categories:n<1K; region:us; manufacturing; metalworking; band-saw
+2026-11-25T04:20:15Z,bryan7264/pangea-readout,bryan7264,0,0,region:us
+2026-11-25T04:21:23Z,kavin734/ihategreenblocks_merged,kavin734,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-25T04:21:53Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs-Raw,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T04:21:53Z,mcp-testing-jonli-nvidia/Annoy-PyEdu-Rs,mcp-testing-jonli-nvidia,0,0,region:us
+2026-11-25T04:22:17Z,bunnyhop1/i124-xss-92237310,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T04:23:25Z,Nithish2410/benchmark-lotte-lifestyle,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T04:23:26Z,bunnyhop1/i115-val-evil-vjkckd7wi,bunnyhop1,0,0,region:us
+2026-11-25T04:23:27Z,bunnyhop1/i115-val-ctl-vjkckd7wi,bunnyhop1,0,0,region:us
+2026-11-25T04:24:14Z,Nithish2410/benchmark-lotte-recreation,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-25T04:24:43Z,asdfasdf3435/zqfilecard1795580683,asdfasdf3435,0,0,region:us
+2026-11-25T04:24:44Z,asdfasdf3435/zqs3card1795580683,asdfasdf3435,0,0,region:us
+2026-11-25T04:24:44Z,asdfasdf3435/zqhttpcard1795580683,asdfasdf3435,0,0,region:us
+2026-11-25T04:24:44Z,asdfasdf3435/zqtravcard1795580683,asdfasdf3435,0,0,region:us
+2026-11-25T04:24:46Z,Nithish2410/benchmark-lotte-science,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:other; region:us
+2026-11-25T04:25:18Z,wangxiangyu0814/UAV-Flow-Sim-Env,wangxiangyu0814,0,0,region:us
+2026-11-25T04:25:40Z,bunnyhop1/i125-dotcfg-246c5dd4,bunnyhop1,0,0,region:us
+2026-11-25T04:25:46Z,Nithish2410/benchmark-lotte-technology,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:other; region:us
+2026-11-25T04:26:02Z,bunnyhop1/i115-val-evil2-vjkckd7wi,bunnyhop1,0,0,region:us
+2026-11-25T04:26:14Z,g1n0st/9513760983018cab18d3a96bf956ae647af32e7d,g1n0st,0,0,region:us
+2026-11-25T04:26:20Z,bunnyhop1/i121-jtar-9d3f1a,bunnyhop1,0,0,region:us
+2026-11-25T04:26:22Z,bunnyhop1/i121-jplain-9d3f1a,bunnyhop1,0,0,region:us
+2026-11-25T04:26:35Z,Nithish2410/benchmark-lotte-writing,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:other; region:us
+2026-11-25T04:27:15Z,uva-cv-lab/TrackingBench,uva-cv-lab,0,0,license:other; size_categories:1K<n<10K; arxiv:2211.03726; arxiv:2407.05921; arxiv:2312.09523; arxiv:2305.13786; arxiv:2510.19819; arxiv:2308.15975; arxiv:2412.04592; arxiv:2603.04989; arxiv:2511.120…
+2026-11-25T04:27:54Z,sejzu0123/78c9cbdf-650f-4c5b-9abe-4cebe8fa4562,sejzu0123,0,0,region:us
+2026-11-25T04:27:54Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_132520_1ep,komokomo7,0,0,region:us
+2026-11-25T04:28:19Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-25T04:28:22Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-25T04:28:35Z,amanuel2/torsh-vm,amanuel2,0,0,license:other; region:us
+2026-11-25T04:28:56Z,Towa25/so101_sim_cube_bowl_newton_contact_180,Towa25,0,0,license:apache-2.0; region:us; lerobot; simulation; depth
+2026-11-25T04:29:09Z,asdfasdf3435/zqoobcard1795580949,asdfasdf3435,0,0,region:us
+2026-11-25T04:29:32Z,g1n0st/e62b7c05a1d13aef926caeebf06a506d4c114028,g1n0st,0,0,region:us
+2026-11-25T04:30:28Z,sejzu0123/06d86b16-7ced-49ed-9100-044b1e7c95e2,sejzu0123,0,0,region:us
+2026-11-25T04:30:52Z,lance-format/crest-data-lance,lance-format,0,0,language:en; license:cc-by-4.0; modality:geospatial; library:lance; region:us; lance; hydrology; time-series; precipitation; geospatial; information-retrieval
+2026-11-25T04:32:18Z,g1n0st/e407d453179061f045d74fa9946fd60cc89575ad,g1n0st,0,0,region:us
+2026-11-25T04:34:10Z,g1n0st/a0956b5240cf48ad8efbd26107255b0d17d845d3,g1n0st,0,0,region:us
+2026-11-25T04:36:23Z,bunnyhop1/i125-splitdot-124da157,bunnyhop1,0,0,region:us
+2026-11-25T04:36:25Z,bunnyhop1/i125-splitenc-124da157,bunnyhop1,0,0,region:us
+2026-11-25T04:37:26Z,spacetime-ml/cad-cua-eval,spacetime-ml,0,0,language:en; license:cc-by-4.0; region:us; cua; computer-use; computer-use-agent; gui-agent; gui-grounding; ui-grounding; desktop-agent; osworld; screenspot; cad; rlvr; benchmark
+2026-11-25T04:37:27Z,jmrec0/beneco,jmrec0,0,0,license:mit; region:us
+2026-11-25T04:38:36Z,dmanningcoe/gemma4-repair-reward-2026-11-25,dmanningcoe,0,0,region:us; reinforcement-learning; alignment; error-correction
+2026-11-25T04:38:47Z,wckwan/WebShop-Qwen3-8B-GiGPO-s1000-mb256-ch028-eval-t1r8192,wckwan,0,0,region:us
+2026-11-25T04:38:57Z,bunnyhop1/i125-ctl-5f9e42ef,bunnyhop1,0,0,region:us
+2026-11-25T04:39:12Z,Nithish2410/benchmark-bright-biology,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:12Z,Nithish2410/benchmark-bright-earth-science,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:12Z,Nithish2410/benchmark-bright-economics,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:27Z,Nithish2410/benchmark-bright-psychology,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:27Z,Nithish2410/benchmark-bright-robotics,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:28Z,Nithish2410/benchmark-bright-stackoverflow,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:40Z,Nithish2410/benchmark-bright-sustainable-living,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:41Z,Nithish2410/benchmark-bright-pony,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:46Z,Nithish2410/benchmark-bright-leetcode,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:55Z,Nithish2410/benchmark-bright-aops,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:39:56Z,Nithish2410/benchmark-bright-theoremqa-questions,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:40:18Z,Nithish2410/benchmark-bright-theoremqa-theorems,Nithish2410,0,0,task_categories:text-retrieval; language:en; license:cc-by-4.0; arxiv:2407.12883; region:us
+2026-11-25T04:41:34Z,dmanningcoe/safety-ec-sampling-2026-11-25,dmanningcoe,0,0,license:cc-by-4.0; region:us; safety; red-teaming; not-for-all-audiences
+2026-11-25T04:42:47Z,dexpoint/bulb1-101-20261124,dexpoint,0,0,task_categories:robotics; region:us; rgbd; realsense; d415; raw-recordings
+2026-11-25T04:44:05Z,g1n0st/e315a35878da624de3306afd6c2b4ecca2cdd963,g1n0st,0,0,region:us
+2026-11-25T04:46:31Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_133041_5ep,komokomo7,0,0,region:us
+2026-11-25T04:46:41Z,bunnyhop1/i132-xss-ad1a1d5d,bunnyhop1,0,0,region:us
+2026-11-25T04:48:42Z,wenboluu/robotwin2-clean50-lerobot-v30-wrist-remount,wenboluu,0,0,task_categories:robotics; license:mit; arxiv:2506.18088; region:us; LeRobot; RoboTwin; aloha-agilex; wrist-camera
+2026-11-25T04:48:54Z,rainbowrobotics/wb_real_20261125_042900,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T04:50:01Z,08semi/new_new11,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T04:50:11Z,sewingwithease/sewing-machine-brands,sewingwithease,0,0,task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; sewing; sewing-machines; manufacturing; corporate-ownership; tabular
+2026-11-25T04:50:31Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_134745_1ep,komokomo7,0,0,region:us
+2026-11-25T04:51:52Z,bunnyhop1/i133-build-probe-7459a217,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T04:52:31Z,migueldbsfnz/ncm-dlm-text-ak,migueldbsfnz,0,0,region:us
+2026-11-25T04:55:29Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs,pinkiepinkiepinkie,0,0,region:us
+2026-11-25T04:55:30Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs-Raw,pinkiepinkiepinkie,0,0,region:us
+2026-11-25T04:55:35Z,Hailey-5-2026/three_objects_glue_data_diversity_20261125_135449,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T04:57:55Z,Preetm-666/mintx-pii,Preetm-666,0,0,task_categories:token-classification; language:en; license:cc-by-4.0; region:us; pii; privacy; ner; india; synthetic
+2026-11-25T04:58:59Z,komokomo7/eval_act_tactile_sciurus17_2-ch-b-airold-3_2026_1125_135459_2ep,komokomo7,0,0,region:us
+2026-11-25T04:59:50Z,introvoyz042/riemann-hypothesis,introvoyz042,0,0,license:mit; region:us
+2026-11-25T05:01:08Z,utl-embodiedai/GroundedPlanBench,utl-embodiedai,0,0,task_categories:image-text-to-text; task_categories:robotics; language:en; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2603.13433; arxiv:2403.12945; region:us; robotics; embodied-ai; task-plan…
+2026-11-25T05:02:17Z,Yousap123/403m_unique_engine_matches,Yousap123,0,0,task_categories:tabular-classification; task_categories:reinforcement-learning; license:mit; size_categories:100M<n<1B; region:us; chess; chess-engines; deduplicated; 128bit-hash; 3500-elo; parquet
+2026-11-25T05:03:36Z,bunnyhop1/i136-gated,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T05:03:39Z,zilinhuang/SealedLoop,zilinhuang,0,0,region:us; robotics; autonomous-driving; evaluation
+2026-11-25T05:03:46Z,hatakeyama8490836/yellowclip_merged,hatakeyama8490836,0,0,region:us
+2026-11-25T05:04:45Z,bunnyhop1/i140-fileindex-de626fae,bunnyhop1,0,0,license:mit; region:us
+2026-11-25T05:05:25Z,CCJJJJJJJJ/DexLabAuto_OXT,CCJJJJJJJJ,0,0,license:mit; region:us
+2026-11-25T05:08:53Z,bunnyhop1/i141-pub-acf801e1,bunnyhop1,0,0,region:us
+2026-11-25T05:09:35Z,bunnyhop1/i141-smuggle-acf801e1,bunnyhop1,0,0,region:us
+2026-11-25T05:11:24Z,bunnyhop1/i141-gated-acf801e1,bunnyhop1,0,0,region:us
+2026-11-25T05:12:23Z,yazalabed/aigradjobs-early-career-ai-hiring-index,yazalabed,0,0,language:en; license:cc-by-4.0; region:us; jobs; ai; machine-learning; labor-market; salary; internships; career
+2026-11-25T05:13:43Z,joshayowale/sroie,joshayowale,0,0,license:mit; region:us
+2026-11-25T05:15:10Z,tolath/Annoy-PyEdu-Rs-Raw,tolath,0,0,region:us
+2026-11-25T05:15:10Z,tolath/Annoy-PyEdu-Rs,tolath,0,0,region:us
+2026-11-25T05:15:25Z,toolathlon-eval-13/Annoy-PyEdu-Rs,toolathlon-eval-13,0,0,region:us
+2026-11-25T05:15:26Z,toolathlon-eval-13/Annoy-PyEdu-Rs-Raw,toolathlon-eval-13,0,0,region:us
+2026-11-25T05:15:35Z,Hailey-5-2026/three_objects_glue_data_diversity_20261125_140721,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-25T05:16:10Z,Peplio/ai-crawler-study-india-2026,Peplio,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; robots-txt; ai-crawlers; web-crawling; llms-txt; gptbot; claudebot; india; seo
+2026-11-25T05:16:32Z,davidguzmanr/multilingual-mos-listening-test,davidguzmanr,0,0,task_categories:audio-classification; language:ha; language:sw; language:yo; license:cc-by-nc-4.0; region:us; speech; tts; mos; listening-test; naturalness; intelligibility
+2026-11-25T05:16:33Z,TuanDepZai/maniskill3-push-around-wall,TuanDepZai,0,0,region:us
+2026-11-25T05:17:09Z,g1n0st/450ef99e10262bad1f6001e0fe067c71557220c7,g1n0st,0,0,region:us
+2026-11-25T05:19:01Z,PixTV/ai-video-director-prompts,PixTV,0,0,license:mit; region:us
+2026-11-25T05:19:17Z,komokomo7/eval_act_sciurus17_2-ch-b-airold-3_2026_1125_140251_10ep,komokomo7,0,0,region:us
