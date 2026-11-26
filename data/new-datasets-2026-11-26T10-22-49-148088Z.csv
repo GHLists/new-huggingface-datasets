@@ -1,0 +1,116 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T09:22:17Z,Hailey-5-2026/three_objects_glue_20261126,Hailey-5-2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-11-26T09:22:38Z,umich-fatml/scatac-feature-holdout-data,umich-fatml,0,0,region:us
+2026-11-26T09:24:17Z,Hierophant2506/arXivProject,Hierophant2506,0,0,region:us
+2026-11-26T09:24:43Z,Nortaq1/corpus-comb,Nortaq1,0,0,region:us
+2026-11-26T09:24:50Z,Meela-Amrutha07/Pick_and_Place_Test1_20261126_145121,Meela-Amrutha07,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T09:24:51Z,C3Nt0/mosaic-n2-stati,C3Nt0,0,0,region:us
+2026-11-26T09:26:01Z,heartandkarma/halo-competition-lab-results,heartandkarma,0,0,region:us
+2026-11-26T09:27:26Z,SOTAagi2030/Pinefall-Hourly-Access-Board,SOTAagi2030,0,0,region:us
+2026-11-26T09:28:59Z,Zwilliams/video-text-data,Zwilliams,0,0,license:apache-2.0; region:us; dataset; satellite; video-text
+2026-11-26T09:29:42Z,yutaku/Alignment-Soft-Base,yutaku,0,0,region:us
+2026-11-26T09:30:05Z,twanghcmut/cs238-manim,twanghcmut,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:image; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-26T09:30:21Z,sejzu0123/7ff46396-ef00-45a8-b485-af763ab0ddfa,sejzu0123,0,0,region:us
+2026-11-26T09:30:23Z,prathmesh992002/video-posts-host,prathmesh992002,0,0,region:us
+2026-11-26T09:30:26Z,rainbowrobotics/bobbin_20261126_091411,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T09:32:31Z,Kenny-LeiCH/TindoMarcoDerekJordi_Dataset_20261126_170650,Kenny-LeiCH,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T09:32:46Z,xce1xz21dsa/Annoy-PyEdu-Rs,xce1xz21dsa,0,0,region:us
+2026-11-26T09:32:47Z,xce1xz21dsa/Annoy-PyEdu-Rs-Raw,xce1xz21dsa,0,0,region:us
+2026-11-26T09:33:16Z,vis22/30fps_sim_cube_50_1_20261126_145539,vis22,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T09:33:41Z,shruti-shah/memes-corpus,shruti-shah,0,0,license:mit; region:us; dataset; memes; video-text
+2026-11-26T09:34:03Z,BruceYuan/rollout-records-71091fbc,BruceYuan,0,0,region:us; robotics; libero-plus
+2026-11-26T09:35:18Z,ShadowEddyx12/project-reload-paks,ShadowEddyx12,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T09:36:25Z,asd12sad21/Annoy-PyEdu-Rs,asd12sad21,0,0,region:us
+2026-11-26T09:36:26Z,asd12sad21/Annoy-PyEdu-Rs-Raw,asd12sad21,0,0,region:us
+2026-11-26T09:36:28Z,afdasdaf/Annoy-PyEdu-Rs,afdasdaf,0,0,region:us
+2026-11-26T09:36:28Z,afdasdaf/Annoy-PyEdu-Rs-Raw,afdasdaf,0,0,region:us
+2026-11-26T09:37:06Z,rubenhallali/meteodesk-previsions,rubenhallali,0,0,license:other; region:us; weather; forecast; grib2
+2026-11-26T09:37:06Z,asfsdavcf/Annoy-PyEdu-Rs,asfsdavcf,0,0,region:us
+2026-11-26T09:37:07Z,asfsdavcf/Annoy-PyEdu-Rs-Raw,asfsdavcf,0,0,region:us
+2026-11-26T09:38:50Z,shuiiiiyu/psyhookbench,shuiiiiyu,0,0,region:us
+2026-11-26T09:39:17Z,Meela-Amrutha07/Pick_and_Place_Test2_20261126_150458,Meela-Amrutha07,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T09:41:00Z,ARIUMX/so101_dataset,ARIUMX,0,0,region:us
+2026-11-26T09:41:06Z,sejzu0123/a142d756-ecd8-4efe-94bf-cb21b0f7d384,sejzu0123,0,0,region:us
+2026-11-26T09:41:31Z,rainbowrobotics/bobbin_20261126_1,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T09:41:44Z,DecentVLA/robocasa365_kitchen8_groot,DecentVLA,0,0,task_categories:robotics; license:mit; region:us; LeRobot; robocasa; robocasa365; gr00t; federated-learning
+2026-11-26T09:42:03Z,sejzu0123/2ac257f7-b0db-42b7-9dc0-966a4744131e,sejzu0123,0,0,region:us
+2026-11-26T09:42:27Z,ibrahimkosber3/pmie-deploy,ibrahimkosber3,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-26T09:42:30Z,aman179102/concurrency-runtime-performance-index,aman179102,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas;…
+2026-11-26T09:43:53Z,Liuyuan103/shapes-qwen3-8b-G-v2,Liuyuan103,0,0,region:us
+2026-11-26T09:44:18Z,ASD12DSAAW32/Annoy-PyEdu-Rs,ASD12DSAAW32,0,0,region:us
+2026-11-26T09:44:19Z,ASD12DSAAW32/Annoy-PyEdu-Rs-Raw,ASD12DSAAW32,0,0,region:us
+2026-11-26T09:44:30Z,qweqwrqwr145/Annoy-PyEdu-Rs,qweqwrqwr145,0,0,region:us
+2026-11-26T09:44:31Z,qweqwrqwr145/Annoy-PyEdu-Rs-Raw,qweqwrqwr145,0,0,region:us
+2026-11-26T09:45:12Z,rainbowrobotics/bobbin_20261126_2,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T09:45:33Z,therayelab/oncocompass-v1-54-research,therayelab,0,0,task_categories:text-generation; language:en; license:other; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-26T09:45:47Z,ny9813/appliance-error-codes,ny9813,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; error-codes; appliances; air-con…
+2026-11-26T09:46:27Z,g1n0st/366af5f611ba91b99d5253a9d71c7a62b74bd4eb,g1n0st,0,0,region:us
+2026-11-26T09:47:24Z,ASD12DSAZ31CZ/Annoy-PyEdu-Rs,ASD12DSAZ31CZ,0,0,region:us
+2026-11-26T09:47:24Z,ASD12DSAZ31CZ/Annoy-PyEdu-Rs-Raw,ASD12DSAZ31CZ,0,0,region:us
+2026-11-26T09:47:25Z,asd12dsa21dsa21dsa/Annoy-PyEdu-Rs,asd12dsa21dsa21dsa,0,0,region:us
+2026-11-26T09:47:25Z,asd12dsa21dsa21dsa/Annoy-PyEdu-Rs-Raw,asd12dsa21dsa21dsa,0,0,region:us
+2026-11-26T09:47:39Z,ducido/so101-real-eval3,ducido,0,0,region:us
+2026-11-26T09:48:09Z,Krako-Labs/KORA-Benchmark,Krako-Labs,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2610.35869; region:us; synthetic; bench…
+2026-11-26T09:48:26Z,SAMO35/BLUED,SAMO35,0,0,license:apache-2.0; region:us
+2026-11-26T09:48:29Z,ThanhQuy78/Layerstack,ThanhQuy78,0,0,task_categories:image-classification; license:other; size_categories:1K<n<10K; region:us; fingerprint; presentation-attack-detection; synthetic; data-augmentation
+2026-11-26T09:48:44Z,HospitalFontana/lipedema-units-plastic-surgery-hospitals-spain,HospitalFontana,0,0,language:es; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; healthcare; medical; lipedema; plastic-surgery; spain; icd-11
+2026-11-26T09:49:20Z,Natyuu/fineweb-edu-ste100,Natyuu,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:1B<n<10B; region:us; ste100; asd-ste100; simplified-technical-english; fineweb-edu; derivative-work; educational; text-ge…
+2026-11-26T09:49:34Z,environment-nature-dataset/Ozone-Nonlinear-Chemical-Response-Causal-Reasoning-Challenge-Set,environment-nature-dataset,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ozone causal reasoning; nonlinear ozone response; ozon…
+2026-11-26T09:49:59Z,afasedfasd/Annoy-PyEdu-Rs-Raw,afasedfasd,0,0,region:us
+2026-11-26T09:49:59Z,afasedfasd/Annoy-PyEdu-Rs,afasedfasd,0,0,region:us
+2026-11-26T09:50:00Z,ADSCZX12D/Annoy-PyEdu-Rs,ADSCZX12D,0,0,region:us
+2026-11-26T09:50:01Z,ADSCZX12D/Annoy-PyEdu-Rs-Raw,ADSCZX12D,0,0,region:us
+2026-11-26T09:50:10Z,environment-nature-dataset/Meteorological-Scenario-Benchmark-for-Sulfur-Dioxide-Forecasting,environment-nature-dataset,0,0,language:zh; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sulfur dioxide forecasting dataset; SO2 time series; m…
+2026-11-26T09:50:42Z,mmor-OZOV/industrial-corpus,mmor-OZOV,0,0,license:cc-by-4.0; region:us; dataset; industrial; image-depth
+2026-11-26T09:50:42Z,qizhangslam/das6-scratch-backup-20261126,qizhangslam,0,0,region:us
+2026-11-26T09:51:07Z,environment-nature-dataset/Counterfactual-QA-Dataset-on-Aerosol-Size-and-Chemical-Composition-Effects-on-Haze-Extinction,environment-nature-dataset,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; aerosol dataset; haze extinction; atmospheric visibili…
+2026-11-26T09:51:17Z,binmu203-toolathlon/Annoy-PyEdu-Rs,binmu203-toolathlon,0,0,region:us
+2026-11-26T09:51:18Z,binmu203-toolathlon/Annoy-PyEdu-Rs-Raw,binmu203-toolathlon,0,0,region:us
+2026-11-26T09:51:28Z,saaffs454/Annoy-PyEdu-Rs,saaffs454,0,0,region:us
+2026-11-26T09:51:29Z,saaffs454/Annoy-PyEdu-Rs-Raw,saaffs454,0,0,region:us
+2026-11-26T09:51:37Z,g1n0st/a1e66f4d7359a15aa6eff667d7e80552ca102a72,g1n0st,0,0,region:us
+2026-11-26T09:51:50Z,environment-nature-dataset/Ozone-Pollution-Historical-Records-and-Recurrence-Event-Extraction-Dataset,environment-nature-dataset,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ozone pollution dataset; ozone event extraction; pollu…
+2026-11-26T09:51:58Z,ppground/SN-echoes,ppground,0,0,task_categories:summarization; task_categories:translation; language:en; language:es; language:ru; language:de; language:fr; language:tr; language:it; language:pl; language:bs; language:hu; license:c…
+2026-11-26T09:52:38Z,naincy186/CIC-IDS2017,naincy186,0,0,license:other; size_categories:1M<n<10M; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T09:53:00Z,g1n0st/b2fedc5854de8991b49c7cbe1b8e1e02e66ad4a7,g1n0st,0,0,region:us
+2026-11-26T09:53:02Z,environment-nature-dataset/Nutrient-Pollution-Regulatory-Policy-Lifecycle-Event-Extraction-Dataset,environment-nature-dataset,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nutrient pollution dataset; environmental policy event…
+2026-11-26T09:53:25Z,rupindersingh1313/tomato-client-files,rupindersingh1313,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T09:53:35Z,SteveNguyen/put_red_cube_green_box_merged_graspproj_chunkrel,SteveNguyen,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T09:55:33Z,nakAnI-ai/English-Yoruba-Parallel-Translation-Corpus,nakAnI-ai,0,0,region:us
+2026-11-26T09:55:39Z,rainbowrobotics/bobbin_20261126_093203,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T09:56:50Z,rupindersingh1313/tomato-hinglish-support-pipeline-test,rupindersingh1313,0,0,language:hi; language:en; region:us; hinglish; code-mixed; customer-support; synthetic
+2026-11-26T09:57:15Z,Belkozhayeva/steam-games-dataset,Belkozhayeva,0,0,task_categories:tabular-classification; language:en; license:mit; region:us; steam; video-games; game-analytics; game-development; gamedev; dataset; csv
+2026-11-26T09:57:22Z,iikkao/fr3-training,iikkao,0,0,region:us
+2026-11-26T09:57:24Z,Sanbei101/soybean-lit,Sanbei101,0,0,task_categories:tabular-regression; language:en; license:other; region:us
+2026-11-26T09:57:28Z,Shanahancn/Annoy-PyEdu-Rs-Raw,Shanahancn,0,0,region:us
+2026-11-26T09:57:28Z,Shanahancn/Annoy-PyEdu-Rs,Shanahancn,0,0,region:us
+2026-11-26T09:57:36Z,vis22/30fps_sim_cube_50_2_20261126_151450,vis22,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T09:59:11Z,Meela-Amrutha07/Pick_and_Place_Test3_20261126_152430,Meela-Amrutha07,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-26T09:59:15Z,rodriguezmateo04/social-data,rodriguezmateo04,0,0,license:cc-by-4.0; region:us; dataset; social; pointcloud-text
+2026-11-26T10:02:13Z,DSADA123SA4FASR/Annoy-PyEdu-Rs,DSADA123SA4FASR,0,0,region:us
+2026-11-26T10:02:14Z,adqfxad/Annoy-PyEdu-Rs,adqfxad,0,0,region:us
+2026-11-26T10:02:14Z,DSADA123SA4FASR/Annoy-PyEdu-Rs-Raw,DSADA123SA4FASR,0,0,region:us
+2026-11-26T10:02:15Z,adqfxad/Annoy-PyEdu-Rs-Raw,adqfxad,0,0,region:us
+2026-11-26T10:02:21Z,thinhelzan842/NMKHDL-Group10-Thinh-24127244,thinhelzan842,0,0,region:us
+2026-11-26T10:03:24Z,nassimjp/Pashto-Legal-Context-2K-Raw-Data,nassimjp,0,0,task_categories:text-generation; task_categories:question-answering; language:ps; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; pashto; legal; us-court-of-appeals; circuit-iden…
+2026-11-26T10:04:23Z,romainkh14/brimkern-chess-games,romainkh14,0,0,license:mit; region:us; chess; reinforcement-learning; stockfish; leela-chess-zero
+2026-11-26T10:05:23Z,sddass21/Annoy-PyEdu-Rs,sddass21,0,0,region:us
+2026-11-26T10:05:24Z,sddass21/Annoy-PyEdu-Rs-Raw,sddass21,0,0,region:us
+2026-11-26T10:06:24Z,TesterOW/TestingImage,TesterOW,0,0,region:us
+2026-11-26T10:07:54Z,Meela-Amrutha07/Pick_and_Place_Test4_20261126_153436,Meela-Amrutha07,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-26T10:08:46Z,asfdasdaaa/Annoy-PyEdu-Rs,asfdasdaaa,0,0,region:us
+2026-11-26T10:08:47Z,asfdasdaaa/Annoy-PyEdu-Rs-Raw,asfdasdaaa,0,0,region:us
+2026-11-26T10:09:02Z,choisongjun/Tropical_Diseases_Repo_v3.2,choisongjun,0,0,region:us
+2026-11-26T10:09:15Z,muse-writes/lancaster-data-science-hackathon,muse-writes,0,0,region:us
+2026-11-26T10:11:41Z,sejzu0123/8e10ee8d-dd74-4511-aa6e-5bbe96c929c3,sejzu0123,0,0,region:us
+2026-11-26T10:12:22Z,environment-nature-dataset/Counterfactual-Reasoning-QA-Dataset-for-Ozone-Precursor-Emission-Controls,environment-nature-dataset,0,0,language:en; size_categories:n<1K; region:us; ozone precursors; ground-level ozone; NOx emission control; VOC reduction; counterfactual reasoning; causal reasoning QA; atmospheric chemistry; ozone re…
+2026-11-26T10:13:10Z,xXFiEsTaDeAmOnXx/openarm_pickplace_known_all,xXFiEsTaDeAmOnXx,0,0,region:us
+2026-11-26T10:13:36Z,SOTAagi2030/Metro-Service-Windows-244,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T10:14:46Z,KurniaKadir/multimodal-knowledge-agent,KurniaKadir,0,0,task_categories:image-text-to-text; task_categories:visual-question-answering; task_categories:document-question-answering; language:en; license:apache-2.0; region:us
+2026-11-26T10:15:13Z,SOTAagi2030/Community-Garden-Plot-Calendar,SOTAagi2030,0,0,region:us
+2026-11-26T10:16:38Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-26T10:16:40Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-26T10:16:44Z,rainbowrobotics/bobbin_all_1,rainbowrobotics,0,0,region:us
+2026-11-26T10:18:40Z,fisher0724/sparse-math-verification,fisher0724,0,0,region:us
+2026-11-26T10:18:49Z,xiaoyaowuyou/wildfire-forecasting-data,xiaoyaowuyou,0,0,task_categories:tabular-classification; license:cc-by-4.0; modality:geospatial; region:us; wildfire; remote-sensing; climate; greece
+2026-11-26T10:22:19Z,aiwidespace/franka-tabletop-v0,aiwidespace,0,0,region:us
