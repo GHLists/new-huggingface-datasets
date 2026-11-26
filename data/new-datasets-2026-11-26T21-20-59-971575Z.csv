@@ -1,0 +1,79 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T20:22:48Z,denys-cherniavskyi/open-gauge-keypoints,denys-cherniavskyi,0,0,task_categories:keypoint-detection; license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; analog-gauge; gauge-reading; meter-readi…
+2026-11-26T20:23:00Z,duarte3030/anim-temp,duarte3030,0,0,region:us
+2026-11-26T20:25:19Z,canibetin/kalshi-polymarket-price-gaps,canibetin,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T20:25:57Z,VL-Data-4/scanned_docs_nara_catalog_part5,VL-Data-4,0,0,task_categories:image-to-text; license:other; modality:document; region:us; ocr; document; scanned-documents; unlabeled
+2026-11-26T20:25:57Z,SOTAagi2030/CedarMuseum-Gallery-Climate-Digest,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T20:27:32Z,Olannnn/bogor-headlight-overlays,Olannnn,0,0,region:us
+2026-11-26T20:28:18Z,dronefreak/Wearable-Exam-Stress,dronefreak,0,0,task_categories:other; language:en; license:odc-by; size_categories:n<1K; format:parquet; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:po…
+2026-11-26T20:29:24Z,waterxi/gpt-image-nano-banana-seedream-2026,waterxi,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T20:29:42Z,waterxi/ai-action-figure-packaging-prompts-2026,waterxi,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T20:30:13Z,SOTAagi2030/Northline-Buoy-Quality-Release,SOTAagi2030,0,0,license:odc-by; region:us
+2026-11-26T20:30:38Z,sejzu0123/32466a0d-5900-4596-b47c-a24cd9a75549,sejzu0123,0,0,region:us
+2026-11-26T20:31:20Z,InriaXagriscienceFM/multi_crop_incl_vege_agriunion_uav_tiny_object_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; regi…
+2026-11-26T20:31:43Z,dougalldeepmind/2026-11-26-mask-qwen36-0-mada-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_mada_15; mode:think
+2026-11-26T20:32:24Z,g1n0st/d0bc52f35c76a5d6e90d578de1807ab6d7458449,g1n0st,0,0,region:us
+2026-11-26T20:32:48Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-11-26T20:32:50Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-11-26T20:33:53Z,arkokush/site-bench-recordings,arkokush,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-26T20:34:03Z,waterxi/free-ai-image-vs-payg-2026,waterxi,0,0,region:us
+2026-11-26T20:34:21Z,waterxi/adfree-webgpu-psd-viewer-2026,waterxi,0,0,region:us
+2026-11-26T20:34:27Z,MoraxCheng/saint-bible-bilingual-sft-dpo,MoraxCheng,0,0,task_categories:text-generation; language:zh; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; sft; dpo; bilingual; bible; persona; synthetic; qwen3
+2026-11-26T20:38:16Z,OMNISAVALON/avalon-shifter,OMNISAVALON,0,0,region:us
+2026-11-26T20:38:50Z,dougalldeepmind/2026-11-26-odcv-qwen36-0-mada-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_mada_15; mode:think
+2026-11-26T20:39:04Z,g1n0st/8eaf6f059a93c7c3258e8fd5219d37ed82e76b35,g1n0st,0,0,region:us
+2026-11-26T20:39:06Z,Liuyuan103/shapes-qwen3.5-9b-base-D,Liuyuan103,0,0,region:us
+2026-11-26T20:42:56Z,InriaXagriscienceFM/celery_agridatavalue_weed_celeriac_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-11-26T20:44:05Z,sejzu0123/0e04f621-92a9-491b-b90b-10b5d01a7bdb,sejzu0123,0,0,region:us
+2026-11-26T20:44:06Z,zinuzoid/rollout_lerobot-card-to-green-marker-hil_20261126_203813,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T20:44:55Z,SOTAagi2030/Civic-Seed-Germination-Release,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-26T20:45:15Z,dougalldeepmind/2026-11-26-am-prefill-that-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36; mode:think; variant:prefill-that
+2026-11-26T20:47:50Z,LIDAR-GT/pickup-1-10-rgbd-robot-curl-1p3-thumb-1p5,LIDAR-GT,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-26T20:48:03Z,g1n0st/6bde919ef7801d795c3330c1b4f15fdbf229b11b,g1n0st,0,0,region:us
+2026-11-26T20:48:06Z,InriaXagriscienceFM/grapevine_riseholme_vineyard_uav_segmentation,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-11-26T20:50:42Z,kenantabak/evren-skin-lesion-7class-detection-tr,kenantabak,0,0,task_categories:object-detection; language:tr; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polar…
+2026-11-26T20:50:51Z,kenantabak/evren-traffic-signs-40class-detection-tr,kenantabak,0,0,task_categories:object-detection; language:tr; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polar…
+2026-11-26T20:51:10Z,dougalldeepmind/2026-11-26-am-prefill-that-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_tools_15; mode:think; variant:prefill-that
+2026-11-26T20:51:39Z,WeightSpaceBench/WSB-LM,WeightSpaceBench,0,0,region:us
+2026-11-26T20:51:42Z,WeightSpaceBench/WSB-Backdoor,WeightSpaceBench,0,0,region:us
+2026-11-26T20:52:56Z,quinnlue/lm-swarm-es20-data,quinnlue,0,0,region:us
+2026-11-26T20:53:08Z,quinnlue/lm-swarm-es20-results,quinnlue,0,0,region:us
+2026-11-26T20:54:00Z,dougalldeepmind/2026-11-26-am-prefill-that-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_plain; mode:think; variant:prefill-that
+2026-11-26T20:55:04Z,SOTAagi2030/HarborArchive-Accession-Register,SOTAagi2030,0,0,region:us
+2026-11-26T20:55:05Z,averyzhao/greenblock4_20261126_124112,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T20:55:51Z,sebastian1f/Parquet2,sebastian1f,0,0,size_categories:10M<n<100M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T20:57:02Z,HeOCR/trn-phpack1-phone-captures,HeOCR,0,0,task_categories:image-to-text; language:he; license:cc0-1.0; region:us
+2026-11-26T20:57:46Z,twanghcmut/dexmanip-course,twanghcmut,0,0,license:other; region:us
+2026-11-26T20:58:02Z,dlthub/read_test_202611260856497045,dlthub,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T20:59:07Z,SOTAagi2030/River-Collection-Catalog-228,SOTAagi2030,0,0,region:us
+2026-11-26T20:59:10Z,InriaXagriscienceFM/bread_wheat_wheat_powdery_mildew_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-11-26T21:00:07Z,Ekuthon2026/eku-phy-alfajor-chocoramo-filtered,Ekuthon2026,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; libr…
+2026-11-26T21:00:23Z,g1n0st/7141ce1e450c29c4e52973518068f907d37f4281,g1n0st,0,0,region:us
+2026-11-26T21:01:00Z,autobahn247365/mmr-v1-2,autobahn247365,0,0,license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:01:22Z,dlthub/overlap_test_202611260900100113,dlthub,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:01:41Z,g1n0st/1002e1218c4012380e39079350474c3ca9ed36cc,g1n0st,0,0,region:us
+2026-11-26T21:01:54Z,XtrCom/XT-Vulture-data,XtrCom,0,0,task_categories:text-classification; license:other; region:us; security; vulnerability; cve; benchmark
+2026-11-26T21:03:20Z,XtrCom/XT-Vulture-vulnbench,XtrCom,0,0,task_categories:text-classification; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; security; vulne…
+2026-11-26T21:04:19Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-11-26T21:04:20Z,fabricioslv/omnimind-dengue-envelope-md-public,fabricioslv,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; license:cc-by-4.0; region:us; molecular-dynamics; dengue-virus; envelope-dimer; biophysics; coarse-grained; all-atom; parq…
+2026-11-26T21:04:25Z,XtrCom/XT-Vulture-results,XtrCom,0,0,task_categories:text-classification; license:other; region:us; security; vulnerability; cve; benchmark
+2026-11-26T21:04:35Z,averyzhao/greenblock4_20261126_125830,averyzhao,0,0,region:us
+2026-11-26T21:05:15Z,SOTAagi2030/Cedar-Seed-Lineage-Register,SOTAagi2030,0,0,region:us
+2026-11-26T21:07:14Z,Rtian/MiRL-train,Rtian,0,0,task_categories:text-generation; language:en; license:odc-by; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2610.35697…
+2026-11-26T21:07:16Z,Liuyuan103/shapes-qwen3.5-9b-base-E-v2,Liuyuan103,0,0,region:us
+2026-11-26T21:07:36Z,SOTAagi2030/Transit-Lift-Outages-234,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T21:08:14Z,g1n0st/8ee29f2c3c0508539c9cf34c191d9a2fbaaf0613,g1n0st,0,0,region:us
+2026-11-26T21:08:42Z,testovichok2000/text-notes-2026-c,testovichok2000,0,0,region:us
+2026-11-26T21:09:01Z,Axel229/fil-rouge-sql-metropole,Axel229,0,0,task_categories:tabular-regression; language:fr; license:cc-by-4.0; size_categories:10K<n<100K; modality:tabular; modality:text; region:us
+2026-11-26T21:09:21Z,zinuzoid/lerobot-card-to-green-marker_20261126-110-360p-trim,zinuzoid,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; modality:video; region:us; LeRobot
+2026-11-26T21:09:26Z,dougalldeepmind/2026-11-26-am-prefill-that-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_15; mode:think; variant:prefill-that
+2026-11-26T21:09:49Z,g1n0st/aa06a888ae2075819bac89871177e32588d4abd0,g1n0st,0,0,region:us
+2026-11-26T21:12:24Z,InriaXagriscienceFM/maize_corn_cornweed_detection,InriaXagriscienceFM,0,0,region:us
+2026-11-26T21:13:05Z,fabricioslv/omnimind-spimquant-iba1-public,fabricioslv,0,0,task_categories:tabular-regression; task_categories:image-segmentation; license:mit; region:us; spimquant; iba1; light-sheet; spim; mouse-brain; abav3; atlas; parquet; omnimind; multi-lattice
+2026-11-26T21:14:29Z,furucm/ai-generated,furucm,0,0,language:en; license:creativeml-openrail-m; region:us
+2026-11-26T21:14:43Z,tuffi/nerel,tuffi,0,0,region:us
+2026-11-26T21:15:28Z,erfesw/lineage-24.0-batches,erfesw,0,0,region:us
+2026-11-26T21:15:38Z,david123TJP/Annoy-PyEdu-Rs,david123TJP,0,0,region:us
+2026-11-26T21:15:41Z,david123TJP/Annoy-PyEdu-Rs-Raw,david123TJP,0,0,region:us
+2026-11-26T21:20:36Z,g1n0st/e96951bedb7791d53e32b9cfbbda6693781260eb,g1n0st,0,0,region:us
+2026-11-26T21:20:45Z,yaswanthchittepu/pop-uf,yaswanthchittepu,0,0,task_categories:text-generation; language:en; license:mit; size_categories:100K<n<1M; arxiv:2509.22851; region:us; rlhf; dpo; preference; preference-over-preferences; ultrafeedback
