@@ -1,0 +1,67 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T21:21:10Z,911RestorationDC/dc-area-storm-flood-events-noaa,911RestorationDC,0,0,language:en; license:cc0-1.0; size_categories:1K<n<10K; region:us; weather; flooding; storms; washington-dc; virginia; maryland; noaa
+2026-11-26T21:21:41Z,SOTAagi2030/Neighborhood-Market-Index-235,SOTAagi2030,0,0,task_categories:tabular-regression; license:cc-by-4.0; region:us
+2026-11-26T21:24:43Z,chino123/Solemen3micro,chino123,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:26:55Z,averyzhao/greenblock4_20261126_130917,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T21:27:22Z,HeOCR/hebrew-print-line-pairs,HeOCR,0,0,task_categories:image-to-text; language:he; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:…
+2026-11-26T21:27:32Z,g1n0st/588464f9b9329216b705d1394dfcf014c746cf23,g1n0st,0,0,region:us
+2026-11-26T21:28:30Z,ethanmorgan16/blog,ethanmorgan16,0,0,region:us
+2026-11-26T21:30:08Z,Liuyuan103/shapes-qwen3.5-9b-base-F,Liuyuan103,0,0,size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T21:30:42Z,sejzu0123/2ac327f3-2242-49b8-b857-56283a5a49d7,sejzu0123,0,0,region:us
+2026-11-26T21:31:25Z,monology/nemotron-sft-v2-eng,monology,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T21:33:48Z,InriaXagriscienceFM/pineapple_leaf_disease_field_acq_unlabeled,InriaXagriscienceFM,0,0,region:us
+2026-11-26T21:34:41Z,g1n0st/bff09190b6cc032c6d4316085d7aef486fa0b8e7,g1n0st,0,0,region:us
+2026-11-26T21:34:50Z,averyzhao/greenblock5part7,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T21:35:09Z,agentrq/task-titles-synthetic,agentrq,0,0,task_categories:summarization; task_categories:text-generation; language:en; language:de; language:es; language:fr; language:pt; language:it; language:nl; language:cs; language:tr; language:ja; langu…
+2026-11-26T21:35:35Z,ray-zhang-isrg/SurgiSR4K,ray-zhang-isrg,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-11-26T21:35:47Z,SOTAagi2030/Northstar-Digitization-Queue,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T21:38:07Z,ashish157/items_prompts_full,ashish157,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:38:18Z,averyzhao/greenblock5part8,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T21:38:33Z,SOTAagi2030/Canopy-2027-Sapling-Allocation,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T21:38:51Z,umjiayx18/ALE_science_Yixuan_tasks_tmp,umjiayx18,0,0,region:us
+2026-11-26T21:41:38Z,ClairePena/amazon-beauty-clean,ClairePena,0,0,task_categories:text-classification; source_datasets:McAuley-Lab/Amazon-Reviews-2023; language:en; license:other; size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:tabular…
+2026-11-26T21:41:41Z,averyzhao/greenblock5new,averyzhao,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T21:42:24Z,weikaih/ds-0540a216,weikaih,0,0,license:other; region:us
+2026-11-26T21:42:41Z,somehowchris/eim-latents,somehowchris,0,0,region:us
+2026-11-26T21:43:03Z,darthceltic85/mathcase-proof-certificates,darthceltic85,0,0,arxiv:2611.22032; region:us; mathematics; combinatorics; proof-certificates
+2026-11-26T21:43:14Z,qed-codex/qed-codex,qed-codex,0,0,license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:43:19Z,mendoanjoe/gnt-fig4-occlusion-eval,mendoanjoe,0,0,arxiv:2605.25174; region:us
+2026-11-26T21:44:30Z,sejzu0123/451134bd-6cfa-430f-a9e1-b4a910dc35f8,sejzu0123,0,0,region:us
+2026-11-26T21:46:58Z,ashish157/items_prompts_lite,ashish157,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T21:54:53Z,Hani-al/disease-screening-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:54:58Z,Hani-al/clinic-visit-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:54:59Z,Hani-al/match-analysis-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:13Z,Hani-al/hotel-booking-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:14Z,Hani-al/property-evaluation-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:15Z,Hani-al/store-sales-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:15Z,Hani-al/restaurant-feedback-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:16Z,Hani-al/inventory-control-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:17Z,Hani-al/api-prototype-before-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:55:17Z,Hani-al/api-updated-after-ar-dataset,Hani-al,0,0,language:ar; size_categories:n<1K; format:json; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Arabic; tabular; synthetic; tested
+2026-11-26T21:56:41Z,KreatixLabs/kreatix-math-science,KreatixLabs,0,0,task_categories:question-answering; task_categories:text-generation; language:en; language:fi; language:no; language:ja; license:apache-2.0; size_categories:100K<n<1M; format:json; modality:text; lib…
+2026-11-26T21:56:42Z,zhouzhouzz123/loralake,zhouzhouzz123,0,0,region:us
+2026-11-26T21:57:19Z,KreatixLabs/kreatix-code-verified,KreatixLabs,0,0,task_categories:text-generation; language:en; language:fi; language:no; language:ja; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; librar…
+2026-11-26T21:57:24Z,KreatixLabs/kreatix-tool-traces,KreatixLabs,0,0,task_categories:text-generation; language:en; language:fi; language:no; language:sv; language:da; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:p…
+2026-11-26T21:58:08Z,swedishvegan/podsetup,swedishvegan,0,0,region:us
+2026-11-26T21:58:09Z,KreatixLabs/kreatix-long-context,KreatixLabs,0,0,task_categories:question-answering; task_categories:text-generation; language:en; language:fi; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pand…
+2026-11-26T21:58:53Z,dougalldeepmind/2026-11-26-mask-prefill-that-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_plain; mode:think; variant:prefill-that
+2026-11-26T21:58:58Z,KreatixLabs/kreatix-nordic-corpus,KreatixLabs,0,0,task_categories:text-generation; language:fi; license:cc0-1.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us;…
+2026-11-26T22:00:59Z,cheumk/wan_showing_muscles,cheumk,0,0,license:apache-2.0; size_categories:n<1K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; text-to-video
+2026-11-26T22:01:21Z,SOTAagi2030/Calibration-Lineage-Catalog-261,SOTAagi2030,0,0,region:us
+2026-11-26T22:03:38Z,Ekuthon2026/eku-phy-chocoramo,Ekuthon2026,0,0,region:us
+2026-11-26T22:05:07Z,g1n0st/f2bc09f6b58a39c2e8384b9b3abbf1a8e72bd345,g1n0st,0,0,region:us
+2026-11-26T22:05:24Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-26T22:05:33Z,sfafas2234/Annoy-PyEdu-Rs,sfafas2234,0,0,region:us
+2026-11-26T22:05:55Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-26T22:06:04Z,sfafas2234/Annoy-PyEdu-Rs-Raw,sfafas2234,0,0,region:us
+2026-11-26T22:06:39Z,Liuyuan103/shapes-qwen3.5-9b-base-F-v2,Liuyuan103,0,0,region:us
+2026-11-26T22:06:43Z,dougalldeepmind/2026-11-26-mask-prefill-that-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15; mode:think; variant:prefill-that
+2026-11-26T22:10:49Z,dougalldeepmind/2026-11-26-mask-prefill-that-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15; mode:think; variant:prefill-that
+2026-11-26T22:11:27Z,abdelhadiab/apache-2.0,abdelhadiab,0,0,license:apache-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-26T22:15:05Z,praveens12346/bhedjaal-code,praveens12346,0,0,region:us
+2026-11-26T22:17:13Z,nielsr/hf-hub-questions-train,nielsr,0,0,task_categories:question-answering; language:en; license:apache-2.0; region:us; agent-distill; agents; hf-cli
+2026-11-26T22:17:50Z,anezu/argument_salience,anezu,0,0,license:cc-by-4.0; region:us
+2026-11-26T22:19:50Z,RockTheBoat/VoxCPM2-pol-one-voice-liczby-slownie-czyste2,RockTheBoat,0,0,task_categories:text-to-speech; language:pl; license:apache-2.0; region:us; synthetic; voxcpm2
+2026-11-26T22:19:58Z,Chennzi/openrsi-samples-orbit-runs-20261126,Chennzi,0,0,license:other; region:us
+2026-11-26T22:20:23Z,praveenkinthali003/milk10k-distillation-data,praveenkinthali003,0,0,task_categories:image-classification; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; dermatology; skin-lesion-classification; medical-imaging
+2026-11-26T22:21:21Z,hocdz754/zqpq947,hocdz754,0,0,license:mit; region:us
