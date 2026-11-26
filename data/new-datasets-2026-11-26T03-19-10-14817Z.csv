@@ -1,0 +1,110 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T02:22:46Z,monology/massive_chat_2,monology,0,0,license:mit; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T02:22:50Z,grainulation/overturn-benchmark,grainulation,0,0,task_categories:question-answering; task_categories:text-classification; language:en; license:other; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:po…
+2026-11-26T02:23:15Z,riman-org/riman-ca-berryflux-vita-regulatory-inci-trust-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; regulatory; descending-inci; cosmetic-formulation
+2026-11-26T02:23:30Z,08semi/tika4,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T02:25:07Z,riman-org/riman-ca-berryflux-vita-zero-inventory-dropship-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-26T02:27:03Z,riman-org/riman-ca-botalab-deserticola-conditioner-anti-aging-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulation
+2026-11-26T02:27:17Z,Tan300/Huntington_and_Caltech_Koi_RGB_and_Sonar,Tan300,0,0,license:mit; region:us
+2026-11-26T02:27:34Z,ty20010209/lama3_KTY_unslot_data,ty20010209,0,0,region:us
+2026-11-26T02:27:35Z,italouu/BLDC_FNO_Study,italouu,0,0,license:cc-by-4.0; region:us; neural-operator; fourier-neural-operator; graph-neural-network; magnetostatics; finite-element-method; bldc-motor
+2026-11-26T02:27:36Z,DUCDAI11/h5d_2011,DUCDAI11,0,0,region:us
+2026-11-26T02:27:37Z,Dvidia/piper-tidy-table-v01,Dvidia,0,0,language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; robotics; mujoco; manip…
+2026-11-26T02:28:30Z,sejzu0123/4262c96a-1633-4c1f-b092-338d8dae7383,sejzu0123,0,0,region:us
+2026-11-26T02:28:57Z,riman-org/riman-ca-botalab-deserticola-conditioner-barrier-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-26T02:29:05Z,LinteAI/Tet,LinteAI,0,0,region:us
+2026-11-26T02:29:27Z,sejzu0123/fcf4ee26-1c12-45d2-9b5f-03b12d188bb9,sejzu0123,0,0,region:us
+2026-11-26T02:29:28Z,rainbowrobotics/bobbin_20261126_021804,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T02:29:28Z,Haku-2004/i_20261126_110221,Haku-2004,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T02:30:09Z,sejzu0123/03bab263-1bca-4391-8436-c9f1892d9cb2,sejzu0123,0,0,region:us
+2026-11-26T02:30:56Z,riman-org/riman-ca-botalab-deserticola-conditioner-climate-barrier-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-26T02:31:33Z,LinteAI/Cf2,LinteAI,0,0,region:us
+2026-11-26T02:32:03Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs,pinkiepinkiepinkie,0,0,region:us
+2026-11-26T02:32:03Z,hairlosscompare/hair-loss-prices,hairlosscompare,0,0,task_categories:tabular-classification; task_categories:table-question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets;…
+2026-11-26T02:32:04Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs-Raw,pinkiepinkiepinkie,0,0,region:us
+2026-11-26T02:32:29Z,LinteAI/Ef0,LinteAI,0,0,region:us
+2026-11-26T02:33:28Z,youngsang-jo/tempo,youngsang-jo,0,0,region:us
+2026-11-26T02:34:01Z,dougalldeepmind/2026-11-26-gap-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:gap; model:qwen36_0_plain; mode:think
+2026-11-26T02:34:17Z,08semi/tika5,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T02:34:29Z,fronresearch/us-recreation-venue-demand,fronresearch,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; libra…
+2026-11-26T02:34:48Z,WhitzardAgent/NUWA-Loss-of-Control-Eval,WhitzardAgent,0,0,region:us; ai-safety; evaluation
+2026-11-26T02:35:13Z,ErnestBeckham/gpt-mmm-rollouts,ErnestBeckham,0,0,region:us
+2026-11-26T02:35:25Z,bbcs1225/lama3_lsm_dataset,bbcs1225,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T02:37:50Z,dougalldeepmind/2026-11-26-mask-tools-prose-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15; mode:think; variant:tools-prose
+2026-11-26T02:39:19Z,DR8803VL/vlm-change-detection-mc-eval,DR8803VL,0,0,region:us
+2026-11-26T02:40:22Z,m-rui/llm-corpus-hub,m-rui,0,0,task_categories:text-generation; task_categories:question-answering; language:zh; language:en; language:ja; license:mit; region:us; corpus; typst; scientific-documents; reasoning-chains; visual-novel
+2026-11-26T02:41:30Z,RUOXUAN123/Mindhelper,RUOXUAN123,0,2,license:apache-2.0; region:us; robotics; benchmark
+2026-11-26T02:41:55Z,esyd/libero-selftest,esyd,0,0,region:us
+2026-11-26T02:43:33Z,jsnxxx7/vnize-tools,jsnxxx7,0,0,region:us
+2026-11-26T02:44:18Z,08semi/dataset_merged_tika0_4,08semi,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T02:45:02Z,ShreyashShaurya/chess-puzzles,ShreyashShaurya,0,0,license:cc0-1.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; chess; lichess; puzzles
+2026-11-26T02:46:05Z,PYTHAI/mindX-audio,PYTHAI,0,0,region:us
+2026-11-26T02:47:11Z,yudai0209/so101_expo_snack_fusen_gum_20261126_114559,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-11-26T02:47:24Z,SAD21ZD1E/Annoy-PyEdu-Rs,SAD21ZD1E,0,0,region:us
+2026-11-26T02:47:26Z,SAD21ZD1E/Annoy-PyEdu-Rs-Raw,SAD21ZD1E,0,0,region:us
+2026-11-26T02:48:15Z,Zenodo-ML/OpenAlex-Scientific-Corpus-Spatiotemporal-Features-Topic-Forecasts-2016-2027,Zenodo-ML,0,0,language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scie…
+2026-11-26T02:48:51Z,dolphinnlp/vdo-2,dolphinnlp,0,0,task_categories:image-to-text; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; modality:document; library:datasets; library:dask; library:polars; librar…
+2026-11-26T02:49:03Z,g1n0st/262a7f2e5562948a9b8de0e1e0f76828eb839506,g1n0st,0,0,region:us
+2026-11-26T02:49:04Z,agriculture-food-systems-ai/Papaya-Cultivar-and-Fruit-Trait-Attribute-Extraction-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; papaya dataset; papaya cultivars; papaya fruit traits;…
+2026-11-26T02:50:16Z,jhu0211/lama3_jhu_unslot_data,jhu0211,0,0,region:us
+2026-11-26T02:50:26Z,Zenodo-ML/Mobility-Maps-Open-Transport-Infrastructure-Accessibility-Profiles-15878460,Zenodo-ML,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scientific-data; pa…
+2026-11-26T02:50:27Z,stefanocarrera/kic_D_train-cpp_Qwen3-8B_t0.5_g7_run1,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T02:50:51Z,SDCXZ21SDA/Annoy-PyEdu-Rs,SDCXZ21SDA,0,0,region:us
+2026-11-26T02:50:52Z,SDCXZ21SDA/Annoy-PyEdu-Rs-Raw,SDCXZ21SDA,0,0,region:us
+2026-11-26T02:50:58Z,Zenodo-ML/Stubborn-Persistence-Toxic-Solvents-Chemical-Synthesis,Zenodo-ML,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scientific-data; parquet
+2026-11-26T02:50:59Z,ZXC12EDSA/Annoy-PyEdu-Rs,ZXC12EDSA,0,0,region:us
+2026-11-26T02:51:00Z,ZXC12EDSA/Annoy-PyEdu-Rs-Raw,ZXC12EDSA,0,0,region:us
+2026-11-26T02:51:33Z,m-rui/frontier-knowledge-notes,m-rui,0,0,task_categories:text-generation; task_categories:summarization; language:zh; license:mit; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; paper…
+2026-11-26T02:51:49Z,COCOMatrix/LEAF-Bench,COCOMatrix,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; robotics; lerobot; simulation; manipulation; failure-recovery; multimodal
+2026-11-26T02:52:00Z,Zenodo-ML/Financial-Market-Classification-Evolutionary-Quantum-Neural-Networks,Zenodo-ML,0,0,language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scien…
+2026-11-26T02:52:10Z,sad21cxzc123szx/Annoy-PyEdu-Rs,sad21cxzc123szx,0,0,region:us
+2026-11-26T02:52:12Z,sad21cxzc123szx/Annoy-PyEdu-Rs-Raw,sad21cxzc123szx,0,0,region:us
+2026-11-26T02:52:16Z,Zenodo-ML/fixest-NYC-Taxi-Benchmark,Zenodo-ML,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2601.21749; regio…
+2026-11-26T02:52:18Z,Zenodo-ML/Bilateral-Transport-Emission-Factors-Global-Food-Trade,Zenodo-ML,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scient…
+2026-11-26T02:53:16Z,chimepond/tunes,chimepond,0,0,region:us
+2026-11-26T02:54:12Z,yudai0209/so101_expo_snack_fusen_gum_20261126_114726,yudai0209,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T02:54:15Z,Zenodo-ML/Global-Sporadic-E-Prediction-Climatology-Deep-Learning,Zenodo-ML,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-11-26T02:54:26Z,m-rui/figure-as-code,m-rui,0,0,task_categories:text-generation; task_categories:image-text-to-text; language:en; language:zh; license:mit; size_categories:1K<n<10K; region:us; code; typst; cetz; scientific-figures; spatial-reasoni…
+2026-11-26T02:54:37Z,dougalldeepmind/2026-11-26-dh-prose-tools-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:delegated_harm; model:qwen36_0_da_15; mode:think
+2026-11-26T02:55:48Z,SamJoshua/terse-tool-output-heldout,SamJoshua,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regio…
+2026-11-26T02:55:54Z,Fangzhewei/dolci-instruct-sft-pocket-4096-single-turn-no-reasoning,Fangzhewei,0,0,source_datasets:allenai/Dolci-Instruct-SFT; license:odc-by; arxiv:2512.13961; region:us
+2026-11-26T02:55:56Z,humanoidintelligence/hirobot-assets,humanoidintelligence,0,0,license:other; region:us; robotics; mujoco; urdf; mjcf; humanoid
+2026-11-26T02:56:07Z,SDFASF43534/zqadm025607,SDFASF43534,0,0,license:mit; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T02:56:32Z,viettmab/test_3,viettmab,0,0,region:us
+2026-11-26T02:56:54Z,Zenodo-ML/svy-Complex-Survey-Design-Analysis-Replication-Data,Zenodo-ML,0,0,language:en; license:other; size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-26T02:58:06Z,Zenodo-ML/Microgrid-Simulation-Datasets,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T02:58:07Z,Zenodo-ML/LMU-Smart-Background-AI-Lab-Course-Dataset,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T02:58:42Z,Zenodo-ML/Mobility-Maps-Open-Transport-Infrastructure-Accessibility-Profiles-19455654,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T02:59:21Z,Zenodo-ML/LIST-7993915,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T02:59:33Z,mkan/chexlow-price-spread-benchmark,mkan,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; ecommerce; retail; pricing; fashion; beauty; benchmark; price-comparison; open-data
+2026-11-26T03:00:16Z,knss12/aphelion-judge-eval-v1,knss12,0,0,task_categories:text-classification; license:mit; region:us
+2026-11-26T03:00:36Z,Zenodo-ML/CPP-BT-Plenarprotokolle-22844952,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:00:49Z,Zenodo-ML/EBA-Disclosures-Panel-2012-2025,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:01:16Z,Zenodo-ML/Astana-Summer-LST-Modelling-Dataset-Landsat-8-9-2013-2025,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:01:35Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,region:us
+2026-11-26T03:01:36Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,region:us
+2026-11-26T03:01:37Z,yshq4hf/youbot_nav_ftg_w1_a2turnR_20261126,yshq4hf,0,0,region:us
+2026-11-26T03:02:13Z,yqtang/document-extraction-84,yqtang,0,0,task_categories:question-answering; language:en; license:other; size_categories:n<1K; region:us; information-extraction; grounded-generation
+2026-11-26T03:02:31Z,tankien1/24120349-arxiv-dataset,tankien1,0,0,region:us
+2026-11-26T03:03:09Z,veripazari/OpenOrca-tr,veripazari,0,0,task_categories:text-classification; task_categories:token-classification; task_categories:table-question-answering; task_categories:question-answering; task_categories:zero-shot-classification; task…
+2026-11-26T03:03:13Z,veripazari/elchi,veripazari,0,0,language:tr; license:mit; region:us
+2026-11-26T03:03:16Z,Zenodo-ML/sigmutselcovs-TCGA-PCPG,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:03:28Z,Zenodo-ML/sigmutselcovs-TCGA-UCEC-23671908,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:03:49Z,JuniC333/act_study_demos_new,JuniC333,0,0,region:us
+2026-11-26T03:04:17Z,ushio001/Motion-Xplusplus,ushio001,0,0,region:us
+2026-11-26T03:04:20Z,JuniC333/act_study_demos_old,JuniC333,0,0,region:us
+2026-11-26T03:05:06Z,SAC-Flow/Robotwin-dataset,SAC-Flow,0,0,region:us
+2026-11-26T03:05:32Z,Zenodo-ML/Tripeptide-Ensemblify-AlphaFold-Intrinsically-Disordered-Regions,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-26T03:05:41Z,dougalldeepmind/2026-11-26-gap-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:gap; model:qwen36_0_da_15; mode:think
+2026-11-26T03:06:42Z,yudai0209/so101_expo_snack_mini_can_20261126_115953,yudai0209,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T03:09:08Z,bralynn/fineweb14b,bralynn,0,0,region:us
+2026-11-26T03:11:16Z,QingyuShi/InterEdit-PE,QingyuShi,0,0,region:us
+2026-11-26T03:13:17Z,rainbowrobotics/bobbin_20261126_030419,rainbowrobotics,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T03:13:39Z,WY1007/so101_cylinder_20261126_111225,WY1007,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T03:14:03Z,alabamamikertr/ripple-65b-pi-slopcodebench,alabamamikertr,0,0,task_categories:text-generation; license:mit; library:harbor; region:us; slopcodebench; harbor; pi-coding-agent; ripple-65b; evaluation; openyield
+2026-11-26T03:14:24Z,yrpark/seg-loom,yrpark,0,0,region:us
+2026-11-26T03:15:12Z,notsofat/20261125_lelab_full_20261125_180941,notsofat,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-11-26T03:17:47Z,RioCH/stratified_sample,RioCH,0,0,region:us
+2026-11-26T03:18:33Z,yudai0209/so101_expo_snack_bottle_sour_20261126_121225,yudai0209,0,0,region:us
+2026-11-26T03:18:43Z,orulink-Ciel/WatcherRobot-Firmware-watcher-gold-miner,orulink-Ciel,0,0,language:en; region:us; watcherobot; firmware; esp32-s3; game
+2026-11-26T03:18:49Z,XDuy3105/arxiv-project-duy,XDuy3105,0,0,region:us
