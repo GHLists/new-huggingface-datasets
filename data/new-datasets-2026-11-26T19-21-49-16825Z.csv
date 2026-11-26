@@ -1,0 +1,82 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T18:20:34Z,Vfrz/cot-control-harbor-parity,Vfrz,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; library:harbor; arxiv:2603.05706; region:us; harbor; parity-experiments; cot-control
+2026-11-26T18:21:48Z,robinrrr10/employees,robinrrr10,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T18:22:30Z,Liuyuan103/shapes-qwen3.5-9b-base-A,Liuyuan103,0,0,region:us
+2026-11-26T18:23:58Z,adoodevv/t1-condA,adoodevv,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T18:24:29Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-11-26T18:24:29Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-11-26T18:24:30Z,linxin02/text,linxin02,0,0,region:us
+2026-11-26T18:24:30Z,AD1EASCRE1AD/Annoy-PyEdu-Rs,AD1EASCRE1AD,0,0,region:us
+2026-11-26T18:24:32Z,AD1EASCRE1AD/Annoy-PyEdu-Rs-Raw,AD1EASCRE1AD,0,0,region:us
+2026-11-26T18:24:34Z,binbin992/123,binbin992,0,0,region:us
+2026-11-26T18:25:37Z,qwwsad/Annoy-PyEdu-Rs-Raw,qwwsad,0,0,region:us
+2026-11-26T18:25:37Z,qwwsad/Annoy-PyEdu-Rs,qwwsad,0,0,region:us
+2026-11-26T18:25:40Z,sad12d23edqxw/Annoy-PyEdu-Rs,sad12d23edqxw,0,0,region:us
+2026-11-26T18:25:41Z,sad12d23edqxw/Annoy-PyEdu-Rs-Raw,sad12d23edqxw,0,0,region:us
+2026-11-26T18:27:00Z,Khang109/arxiv-reference-matching-khang,Khang109,0,0,license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; arxiv; document-parsing; reference-matchi…
+2026-11-26T18:28:17Z,Geo-Expert/ZKP2,Geo-Expert,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T18:29:20Z,SOTAagi2030/Harbor-Tide-Atlas-262,SOTAagi2030,0,0,region:us
+2026-11-26T18:30:27Z,sejzu0123/cc47c515-5c14-4245-b1ed-4e8f5a40f2c3,sejzu0123,0,0,region:us
+2026-11-26T18:31:25Z,LuJingyi/lark-drive-sync,LuJingyi,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-26T18:31:48Z,hugomelo17/MovieShotClassifier,hugomelo17,0,0,region:us
+2026-11-26T18:32:19Z,g1n0st/13c2c9e3c19714a5a6b7973c469c4e2b821cec5b,g1n0st,0,0,region:us
+2026-11-26T18:33:01Z,Panga-Azazia/LFM3-TTS-TOKENIZED,Panga-Azazia,0,0,region:us
+2026-11-26T18:33:31Z,ClairePena/metropole-evenements-indice,ClairePena,0,1,language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; open-data; r…
+2026-11-26T18:35:25Z,award-dataset/award,award-dataset,0,0,task_categories:tabular-classification; task_categories:text-classification; task_categories:other; language:en; language:es; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:ta…
+2026-11-26T18:36:01Z,SOTAagi2030/Orchid-Quarantine-Sentinel-263,SOTAagi2030,0,0,region:us; orchid-health
+2026-11-26T18:36:12Z,dougalldeepmind/2026-11-26-am-prefill-leads-to-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36; mode:think; variant:prefill-leads-to
+2026-11-26T18:36:14Z,paymentdarkness/paylink-bridge-src,paymentdarkness,0,0,region:us
+2026-11-26T18:37:45Z,ocodata/free-ip-blocklist-2026-11,ocodata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; open data; free; b…
+2026-11-26T18:39:27Z,g1n0st/04685bc392e7b8fcc17ca9308cc38282e8d12868,g1n0st,0,0,region:us
+2026-11-26T18:40:05Z,dougalldeepmind/2026-11-26-am-prefill-leads-to-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_plain; mode:think; variant:prefill-leads-to
+2026-11-26T18:40:37Z,ABO-SAUD/arabic-job-ads-ner,ABO-SAUD,0,1,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T18:41:16Z,dougalldeepmind/2026-11-26-am-prefill-leads-to-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_15; mode:think; variant:prefill-leads-to
+2026-11-26T18:41:26Z,akhosrovyan/ShipCross-ID,akhosrovyan,0,0,region:us
+2026-11-26T18:42:13Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-11-26T18:42:14Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-11-26T18:43:00Z,yangzijing/a008-hand-motion-1126,yangzijing,0,0,region:us; hand-reconstruction; egocentric-video
+2026-11-26T18:43:34Z,sejzu0123/a5a8d1c8-c9a1-4306-afd2-e3965b5664e7,sejzu0123,0,0,region:us
+2026-11-26T18:44:14Z,inoova/morocco-business-document-rules,inoova,0,0,language:fr; language:ar; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; tax…
+2026-11-26T18:44:19Z,dougalldeepmind/2026-11-26-mask-prefill-nocolon-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36; mode:think; variant:prefill-nocolon
+2026-11-26T18:45:06Z,dougalldeepmind/2026-11-26-mask-prefill-nocolon-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_plain; mode:think; variant:prefill-nocolon
+2026-11-26T18:45:12Z,franciscojmavila/alba-v2-corpus-cosmopedia,franciscojmavila,0,0,region:us
+2026-11-26T18:46:32Z,barevreni/turkce-okunus-sozlugu,barevreni,0,0,task_categories:text-to-speech; language:tr; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; turk…
+2026-11-26T18:46:37Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-11-26T18:46:38Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-11-26T18:48:52Z,dougalldeepmind/2026-11-26-am-prefill-leads-to-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_tools_15; mode:think; variant:prefill-leads-to
+2026-11-26T18:50:26Z,Biontra/character-consistency-bench,Biontra,0,0,task_categories:video-classification; language:en; language:tr; license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; benchmark; video-generation; cha…
+2026-11-26T18:52:03Z,youtudou/amber-quarry-1126,youtudou,0,0,region:us
+2026-11-26T18:52:27Z,huuhuyng/56-image-i124-results,huuhuyng,0,0,region:us
+2026-11-26T18:54:18Z,SAD12XCZC/Annoy-PyEdu-Rs,SAD12XCZC,0,0,region:us
+2026-11-26T18:54:19Z,SAD12XCZC/Annoy-PyEdu-Rs-Raw,SAD12XCZC,0,0,region:us
+2026-11-26T18:54:32Z,SOTAagi2030/Museum-Loan-Custody-Snapshot,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T18:54:32Z,dfdfhhj7/Annoy-PyEdu-Rs,dfdfhhj7,0,0,region:us
+2026-11-26T18:54:33Z,dfdfhhj7/Annoy-PyEdu-Rs-Raw,dfdfhhj7,0,0,region:us
+2026-11-26T18:54:48Z,SOTAagi2030/Museum-Climate-Episodes-231,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T18:54:52Z,dougalldeepmind/2026-11-26-mask-prefill-nocolon-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15; mode:think; variant:prefill-nocolon
+2026-11-26T18:56:54Z,Giggle-Loot/DeepSleep_8.5Hours,Giggle-Loot,0,0,size_categories:n<1K; modality:video; region:us
+2026-11-26T18:57:10Z,whatflieswhere/airport-data,whatflieswhere,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; airports; avia…
+2026-11-26T18:59:05Z,dougalldeepmind/2026-11-26-mask-prefill-nocolon-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15; mode:think; variant:prefill-nocolon
+2026-11-26T19:01:37Z,SADD1DSA21DSA/Annoy-PyEdu-Rs-Raw,SADD1DSA21DSA,0,0,region:us
+2026-11-26T19:01:37Z,SADD1DSA21DSA/Annoy-PyEdu-Rs,SADD1DSA21DSA,0,0,region:us
+2026-11-26T19:01:59Z,DSA1AFG1E/Annoy-PyEdu-Rs,DSA1AFG1E,0,0,region:us
+2026-11-26T19:02:00Z,DSA1AFG1E/Annoy-PyEdu-Rs-Raw,DSA1AFG1E,0,0,region:us
+2026-11-26T19:02:35Z,g1n0st/db747d5606815ce31624fdbb36fb5b3483e86da5,g1n0st,0,0,region:us
+2026-11-26T19:03:12Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-11-26T19:03:13Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-11-26T19:09:00Z,g1n0st/3f576c36bce0031b929262b65edd5a8d563d285e,g1n0st,0,0,region:us
+2026-11-26T19:12:04Z,pepernamek/train2_OTFS,pepernamek,0,0,region:us
+2026-11-26T19:13:54Z,TUaxhuiax/Annoy-PyEdu-Rs,TUaxhuiax,0,0,region:us
+2026-11-26T19:13:56Z,TUaxhuiax/Annoy-PyEdu-Rs-Raw,TUaxhuiax,0,0,region:us
+2026-11-26T19:14:21Z,0x00lost/4268026410573855859,0x00lost,0,0,region:us
+2026-11-26T19:15:17Z,InriaXagriscienceFM/pear640_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; region:us; agml; agriculture; observation-level-canopy
+2026-11-26T19:16:08Z,thiagovelsa/inkling2-minimal-harness-data,thiagovelsa,0,0,region:us
+2026-11-26T19:16:45Z,toolathlon-eval-10/Annoy-PyEdu-Rs-Raw,toolathlon-eval-10,0,0,region:us
+2026-11-26T19:16:45Z,toolathlon-eval-10/Annoy-PyEdu-Rs,toolathlon-eval-10,0,0,region:us
+2026-11-26T19:16:54Z,franslimbergerslimberger/Dutch-Judiciary-Court-Cases-Netherlands-Rechtspraak,franslimbergerslimberger,0,0,region:us
+2026-11-26T19:17:33Z,SOTAagi2030/training-bundle-requests,SOTAagi2030,0,0,region:us; training-data; compliance
+2026-11-26T19:17:36Z,SOTAagi2030/component-rights-register,SOTAagi2030,0,0,region:us; rights-metadata; licensing
+2026-11-26T19:18:21Z,GarethFW/Cosmos_UX_Design,GarethFW,0,0,license:mit; region:us
+2026-11-26T19:19:35Z,lalangan/tdm-aiact-v1,lalangan,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; eu-ai-act; legal; compliance; synthetic; typed-decisions
+2026-11-26T19:20:47Z,seconddesk/louisiana-new-business-filings-sample,seconddesk,0,0,region:us
+2026-11-26T19:21:37Z,rsvb/glg,rsvb,0,0,license:cc0-1.0; region:us
