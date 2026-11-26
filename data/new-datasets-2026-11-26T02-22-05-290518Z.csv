@@ -1,0 +1,97 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-26T01:18:41Z,Zenodo-Temp-TEST/RASCAL-MCES-MassSpecGym-Compounds,Zenodo-Temp-TEST,0,0,language:en; license:cc-by-4.0; size_categories:100M<n<1B; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; s…
+2026-11-26T01:18:49Z,RockTheBoat/VoxCPM2-pol-one-voice-partia2-czyste,RockTheBoat,0,0,task_categories:text-to-speech; language:pl; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcr…
+2026-11-26T01:19:40Z,purdueviperlab/SimpleFood45,purdueviperlab,0,0,task_categories:image-classification; task_categories:object-detection; task_categories:image-to-3d; language:en; license:cc-by-nc-nd-4.0; size_categories:n<1K; format:imagefolder; modality:image; mo…
+2026-11-26T01:20:39Z,sudori0127/pick_strawberry,sudori0127,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T01:21:14Z,Zenodo-Temp-TEST/CPP-BT-Plenarprotokolle-22844952,Zenodo-Temp-TEST,0,0,language:en; license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; sc…
+2026-11-26T01:21:38Z,08semi/dataset_merged_guruguru,08semi,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T01:23:13Z,pablo-honey/ariafix,pablo-honey,0,0,region:us
+2026-11-26T01:24:12Z,DarkPrince5/DEVAI,DarkPrince5,0,0,license:mit; arxiv:2410.10934; region:us
+2026-11-26T01:26:03Z,toolathlon-verified/Annoy-PyEdu-Rs,toolathlon-verified,0,0,region:us
+2026-11-26T01:26:03Z,toolathlon-verified/Annoy-PyEdu-Rs-Raw,toolathlon-verified,0,0,region:us
+2026-11-26T01:27:07Z,Zenodo-Temp-TEST/sigmutselcovs-TCGA-PCPG,Zenodo-Temp-TEST,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo;…
+2026-11-26T01:27:28Z,NateInno/philology-delivery,NateInno,0,0,language:he; language:en; region:us; osworld; philology; computer-use
+2026-11-26T01:27:56Z,sejzu0123/43c4ba9f-f0d3-4657-aac1-aefe3909d9a8,sejzu0123,0,0,region:us
+2026-11-26T01:29:37Z,PritRai75/youtube-spam-collection-audited,PritRai75,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-11-26T01:30:10Z,sebas-f/Parquet_1_Limpieza_Grupo_X,sebas-f,0,0,size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T01:30:16Z,sejzu0123/5ceb503a-2050-47ae-801e-ddb960cae55e,sejzu0123,0,0,region:us
+2026-11-26T01:30:56Z,chenjh702/PanMetatlas,chenjh702,0,0,license:mit; region:us
+2026-11-26T01:33:15Z,jyrrj/ncm-image-mix-256,jyrrj,0,0,region:us
+2026-11-26T01:33:20Z,vrebreb/ncm-video-mix,vrebreb,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T01:33:20Z,stefanocarrera/kic_D_test-cpp_Qwen3-8B_t0.5_g7_run1,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T01:34:36Z,hyohyun0409/meeting-to-json-ko,hyohyun0409,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T01:34:58Z,ASCXZ12D/Annoy-PyEdu-Rs,ASCXZ12D,0,0,region:us
+2026-11-26T01:34:59Z,ASCXZ12D/Annoy-PyEdu-Rs-Raw,ASCXZ12D,0,0,region:us
+2026-11-26T01:36:16Z,g1n0st/ec592a26e9354a45146589a4cde9c53aed56d212,g1n0st,0,0,region:us
+2026-11-26T01:37:08Z,dhruvpatt/steve-prep-v1,dhruvpatt,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-26T01:38:00Z,g1n0st/10708c0a2fa2be915d945941995ff7804e3fec7c,g1n0st,0,0,region:us
+2026-11-26T01:38:22Z,Liuyuan103/shapes-digest-mistral-7b-base,Liuyuan103,0,0,region:us
+2026-11-26T01:38:30Z,g1n0st/c0e2818ede1ef1409121a1e9b1e309d535b55d30,g1n0st,0,0,region:us
+2026-11-26T01:38:32Z,g1n0st/74cc55b2b7c459ca5c0b567d0e2b98141ffcd262,g1n0st,0,0,region:us
+2026-11-26T01:38:36Z,ErnestBeckham/mamba10-mmm-rollouts,ErnestBeckham,0,0,region:us
+2026-11-26T01:39:00Z,g1n0st/e19fa8069fd16133a5787ede17df2e24769b1c94,g1n0st,0,0,region:us
+2026-11-26T01:39:55Z,Efficient-Large-Model/LongLive-assets,Efficient-Large-Model,0,0,license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; video
+2026-11-26T01:40:17Z,dsa1dsa12/Annoy-PyEdu-Rs,dsa1dsa12,0,0,region:us
+2026-11-26T01:40:20Z,dsa1dsa12/Annoy-PyEdu-Rs-Raw,dsa1dsa12,0,0,region:us
+2026-11-26T01:41:01Z,dougalldeepmind/2026-11-26-am-prefill-nocolon-qwen36-0-da-tools-15,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_da_tools_15; mode:think; variant:prefill-nocolon
+2026-11-26T01:41:03Z,dougalldeepmind/2026-11-26-am-prefill-nocolon-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:agentic_misalignment; model:qwen36_0_plain; mode:think; variant:prefill-nocolon
+2026-11-26T01:41:30Z,SOTAagi2030/Harbor-Sensor-Annotations-360,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-26T01:41:56Z,agriculture-food-systems-ai/Coffee-Roasting-Process-Sequence-and-Readiness-Verification-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; coffee roasting dataset; coffee processing workflow; o…
+2026-11-26T01:42:28Z,dougalldeepmind/2026-11-26-dh-prose-tools-qwen36-0-plain,dougalldeepmind,0,0,region:us; eval-run; eval:delegated_harm; model:qwen36_0_plain; mode:think
+2026-11-26T01:42:44Z,agriculture-food-systems-ai/Sausage-Curing-and-Fermentation-Process-Step-Verification-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; sausage process dataset; sausage curing data; sausage…
+2026-11-26T01:42:54Z,HiddenTerps/polymarket-f1-dataset,HiddenTerps,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:…
+2026-11-26T01:45:25Z,08semi/tika,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T01:47:54Z,sudori0127/pick_banana,sudori0127,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T01:48:05Z,agriculture-food-systems-ai/Cold-Brew-Coffee-Concentrate-Product-Specifications-Structured-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cold brew concentrate dataset; coffe…
+2026-11-26T01:48:05Z,kfstiger/mujoco_inspire29_obst_pick,kfstiger,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-26T01:48:20Z,pablo-honey/test_speed,pablo-honey,0,0,region:us
+2026-11-26T01:48:25Z,alabamamikertr/deepseek-v4.1-flash-1017-pi-slopcodebench,alabamamikertr,0,0,task_categories:text-generation; license:mit; library:harbor; region:us; slopcodebench; harbor; pi-coding-agent; deepseek-v4.1-flash; evaluation; openyield
+2026-11-26T01:49:06Z,agriculture-food-systems-ai/Salmon-Farming-Growth-and-Feed-Conversion-Causal-Reasoning-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; salmon farming dataset; aquaculture causal reasoning;…
+2026-11-26T01:50:33Z,namu1025/side-dataset,namu1025,0,0,region:us
+2026-11-26T01:51:03Z,phgandhi02/sock-folding_20261125_202600,phgandhi02,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T01:52:21Z,g1n0st/abb3281b971dd644a20f1923c19d8a5f02245636,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-26T01:53:12Z,petimportguide/ukrainebuilders-data,petimportguide,0,0,region:us
+2026-11-26T01:53:53Z,astune/router-training-data-short,astune,0,0,license:mit; region:us
+2026-11-26T01:54:29Z,astune/router-training-data,astune,0,0,license:mit; region:us
+2026-11-26T01:54:36Z,dougalldeepmind/2026-11-26-mask-tools-prose-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15; mode:think; variant:tools-prose
+2026-11-26T01:54:47Z,08semi/tika1,08semi,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-26T01:54:52Z,mtmtt/bigdicetower_v2,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-26T01:55:37Z,orulink-Ciel/WatcherRobot-Firmware-watcher-wifi-speaker,orulink-Ciel,0,0,region:us
+2026-11-26T01:56:50Z,scalingX/hiv-aids-benchmark,scalingX,0,0,task_categories:other; language:en; size_categories:n<1K; modality:text; library:datasets; library:harbor; library:mlcroissant; arxiv:0901.3806; arxiv:1104.3464; arxiv:1207.5684; arxiv:1406.0877; arx…
+2026-11-26T01:57:12Z,peng12345/IF-YFXJ-27B-v1-decision-index-results,peng12345,0,0,region:us
+2026-11-26T01:57:21Z,erin0327/deepsearchqa-parity-experiments,erin0327,0,0,license:apache-2.0; region:us
+2026-11-26T01:57:51Z,KSH1231/lama3_ljh_unslot_data,KSH1231,0,0,region:us
+2026-11-26T01:58:21Z,agriculture-food-systems-ai/Frozen-Prepared-Foods-Product-Catalog-Attribute-Extraction-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; frozen prepared foods dataset; product attribute extra…
+2026-11-26T01:59:32Z,agriculture-food-systems-ai/Ready-Meal-Product-Catalog-Attribute-Extraction-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ready meal dataset; product attribute extraction; food…
+2026-11-26T02:00:54Z,jammin0319/g1_inspire_stationary_grasp_desk065_A_v1,jammin0319,0,0,task_categories:robotics; license:apache-2.0; modality:video; region:us; LeRobot; unitree-g1; inspire-hand; isaac-sim; simulation; humanoid; loco-manipulation; manipulation
+2026-11-26T02:01:42Z,nqdwjsjfc/KikuyuASR_trainingdataset,nqdwjsjfc,0,0,task_categories:automatic-speech-recognition; language:ki; license:apache-2.0; size_categories:10K<n<100K; region:us; agriculture; kenya
+2026-11-26T02:03:13Z,monology/nemotron-sft-v2-eng,monology,0,0,region:us
+2026-11-26T02:03:47Z,g1n0st/0bffc14960bf4a19466380ee6db7fbae2fec6c8a,g1n0st,0,0,region:us
+2026-11-26T02:04:15Z,08semi/tika2,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T02:04:46Z,jepa-agent/point_maze_ego_large_unique,jepa-agent,0,0,license:mit; region:us; jepa-agent
+2026-11-26T02:04:59Z,zxcgvbgfdg/Annoy-PyEdu-Rs,zxcgvbgfdg,0,0,region:us
+2026-11-26T02:05:00Z,zxcgvbgfdg/Annoy-PyEdu-Rs-Raw,zxcgvbgfdg,0,0,region:us
+2026-11-26T02:05:42Z,agriculture-food-systems-ai/Post-Processing-and-Cross-Contamination-Constraint-Verification-for-Cooked-and-Ready-to-Eat-Meat,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; region:us; cooked meat post-processing dataset; ready-to-eat meat; cross-contamination verification; food safety workflow; step verification; constraint verificatio…
+2026-11-26T02:05:49Z,sdsffs5/Annoy-PyEdu-Rs,sdsffs5,0,0,region:us
+2026-11-26T02:05:49Z,sdsffs5/Annoy-PyEdu-Rs-Raw,sdsffs5,0,0,region:us
+2026-11-26T02:06:07Z,rabbitvn/arxiv-reference-matching-24120058,rabbitvn,0,0,region:us
+2026-11-26T02:09:54Z,agriculture-food-systems-ai/Frozen-Ready-Meal-Cold-Chain-Process-Compliance-Verification-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; region:us; frozen ready meals; cold-chain dataset; cold-chain compliance verification; process verifier training; food logistics; cold-chain process auditing; const…
+2026-11-26T02:10:14Z,Doshik143/student-devils-advocate,Doshik143,0,1,language:uk; license:cc-by-4.0; region:us; synthetic; ukrainian; critical-thinking; reasoning; students; cognitive-biases; education
+2026-11-26T02:11:12Z,jammin0319/g1_inspire_stationary_grasp_desk065_B_v1,jammin0319,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; unitree-g1; inspire-hand; isaac-sim; simulation; humanoid; loco-manipulation; manipulation
+2026-11-26T02:13:26Z,riman-org/riman-ca-araliadiol-retinol-substitution-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulation
+2026-11-26T02:14:07Z,duanyan/RanSift,duanyan,0,0,region:us
+2026-11-26T02:14:22Z,ashtahe666/uk-ireland-performance-review-benchmarks-2026,ashtahe666,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; human-resources; performance-management; benchmarks; united-kingdom; ireland; people-analytics
+2026-11-26T02:15:00Z,08semi/tika3,08semi,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-26T02:15:26Z,riman-org/riman-ca-berryflux-vita-anti-aging-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; growth; descending-inci; cosmetic-formulation
+2026-11-26T02:16:24Z,SDFASF43534/zqmkpub6918,SDFASF43534,0,0,region:us
+2026-11-26T02:17:20Z,riman-org/riman-ca-berryflux-vita-botanical-anti-aging-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; ontology; descending-inci; cosmetic-formulation
+2026-11-26T02:17:38Z,Jackedupbruh/the-juiced-pre-ai-code,Jackedupbruh,0,0,region:us
+2026-11-26T02:19:19Z,riman-org/riman-ca-berryflux-vita-microclimate-barrier-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-26T02:19:46Z,Mrwaan/da7ee7_sep_cleaned-8k,Mrwaan,0,0,region:us
+2026-11-26T02:20:29Z,bolechen/temple-walk-t05-figures,bolechen,0,0,license:other; modality:3d; region:us; 3d; glb; game-asset
+2026-11-26T02:20:37Z,speech-uk/yodas-tinyasr-50h,speech-uk,0,0,region:us
+2026-11-26T02:20:48Z,ty2029/lama3_KTY_unslot_data,ty2029,0,0,region:us
+2026-11-26T02:20:56Z,jammin0319/g1_inspire_stationary_grasp_desk065_C_v1,jammin0319,0,0,region:us
+2026-11-26T02:21:15Z,riman-org/riman-ca-berryflux-vita-post-procedure-study,riman-org,0,0,language:en; language:zh; language:ja; language:es; language:fr; license:cc-by-4.0; region:us; riman; incellderm; active-cream-ex; microclimate; descending-inci; cosmetic-formulation
+2026-11-26T02:21:24Z,agriculture-food-systems-ai/Giant-Freshwater-Prawn-Health-and-Mortality-Event-Causal-Reasoning-Dataset,agriculture-food-systems-ai,0,0,language:en; size_categories:n<1K; region:us; giant freshwater prawn dataset; aquaculture data; prawn health analysis; shrimp disease analysis; aquaculture mortality causes; causal reasoning Q&A; wat…
+2026-11-26T02:22:02Z,agriculture-food-systems-ai/Infant-Formula-Manufacturing-Procedure-Constraint-Verification-Dataset,agriculture-food-systems-ai,0,0,license:cc-by-nc-4.0; region:us
