@@ -1,0 +1,95 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-27T15:21:57Z,langtucod0n/arxiv_reference_matching,langtucod0n,0,0,language:en; language:vi; size_categories:1M<n<10M; region:us
+2026-11-27T15:22:21Z,InriaXagriscienceFM/hops_health_classification,InriaXagriscienceFM,0,0,task_categories:image-classification; license:odbl; size_categories:1K<n<10K; region:us; agml; agriculture; observation-level-canopy
+2026-11-27T15:22:35Z,croguana/quartz-hr,croguana,0,0,task_categories:question-answering; task_categories:text-generation; language:hr; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library…
+2026-11-27T15:22:39Z,croguana/ropes-hr,croguana,0,0,task_categories:question-answering; task_categories:text-generation; language:hr; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; libra…
+2026-11-27T15:23:43Z,croguana/sle-hr,croguana,0,0,task_categories:multiple-choice; task_categories:question-answering; language:hr; license:apache-2.0; size_categories:10K<n<100K; region:us; croatian; benchmark; evaluation; balkanbench; translated
+2026-11-27T15:24:17Z,sejzu0123/76d0b8af-c4dd-4ae6-ad6b-4e26e473cafb,sejzu0123,0,0,region:us
+2026-11-27T15:24:29Z,sejzu0123/95e94a92-265b-45d5-b10c-9a8d0db2f109,sejzu0123,0,0,region:us
+2026-11-27T15:25:27Z,g1n0st/4f551a53517f25161d0f9417f1cada0970124b47,g1n0st,0,0,region:us
+2026-11-27T15:26:15Z,TAPTIC/grasp_plastic_glasses,TAPTIC,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-27T15:26:30Z,sejzu0123/de16e88f-1516-4161-b6c1-00477a203b0a,sejzu0123,0,0,region:us
+2026-11-27T15:26:32Z,umich-fatml/multiome-depth-census-data,umich-fatml,0,0,region:us
+2026-11-27T15:26:58Z,g1n0st/8b4f757b3144fa6d7b1be3378110a3365d9b2f0b,g1n0st,0,0,region:us
+2026-11-27T15:27:12Z,review-materials-7c42/TD-HER,review-materials-7c42,0,0,license:mit; region:us
+2026-11-27T15:27:21Z,Zenodo-ML/chembed-training-dataset,Zenodo-ML,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scie…
+2026-11-27T15:27:24Z,santicas/cjfp-data,santicas,0,0,license:mit; size_categories:1K<n<10K; region:us; cosmology; cosmicfishpie; fisher-matrix; parameter-forecasting; validation; hdf5; mcmc-chains; euclid
+2026-11-27T15:27:40Z,Zenodo-ML/National-Open-Access-Monitor-Ireland-Research-Product-Metadata-11992237,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-27T15:27:55Z,eigenhand/german-nemotron-transcripts,eigenhand,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:de; license:cc-by-4.0; license:cc-by-3.0; license:cc0-1.0; size_categories:1M<n<10M; region:us; transcripts; pse…
+2026-11-27T15:28:21Z,andrepaim/wiktionary-wsd,andrepaim,0,0,task_categories:multiple-choice; source_datasets:wikimedia/wikipedia; language:en; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; lib…
+2026-11-27T15:30:18Z,MLArtiste/chesset_count,MLArtiste,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-27T15:30:30Z,TusTran/introds-arxiv-24120152,TusTran,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-27T15:30:54Z,InriaXagriscienceFM/upland_cotton_cottonweeddet3_detection,InriaXagriscienceFM,0,0,task_categories:object-detection; license:unknown; size_categories:n<1K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; agml; agricult…
+2026-11-27T15:31:17Z,Zenodo-ML/CIC-IDS-2017-Privacy-Utility-IDS-Experiments,Zenodo-ML,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; zenodo; scientific-data; pa…
+2026-11-27T15:32:02Z,Zenodo-ML/Voxel-Time-Series-Master-Dataframe,Zenodo-ML,0,0,language:en; license:other; region:us; zenodo; scientific-data; parquet
+2026-11-27T15:33:45Z,g1n0st/ba3d9f34e08801d8190b39fe2528442f9a6d183f,g1n0st,0,0,region:us
+2026-11-27T15:34:03Z,sejzu0123/d445d51c-847a-4b46-869d-15b38365b22e,sejzu0123,0,0,region:us
+2026-11-27T15:34:11Z,olumide23/nigerian-accented-english-asr-cleaned,olumide23,0,0,task_categories:automatic-speech-recognition; source_datasets:benjaminogbonna/nigerian_accented_english_dataset; language:en; license:apache-2.0; size_categories:1K<n<10K; modality:audio; region:us;…
+2026-11-27T15:34:13Z,w732857315/nncoss,w732857315,0,0,region:us
+2026-11-27T15:34:38Z,fomoreferralcode10/fomo-referral-code-offfee,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; offfee; crypto; trading-fees
+2026-11-27T15:35:00Z,RenaissanceLabsEU/hf-metadataset,RenaissanceLabsEU,0,0,language:en; license:cc0-1.0; size_categories:1M<n<10M; library:datasets; region:us; metadata; datasets; dataset-search; hub
+2026-11-27T15:35:11Z,fomoreferralcode10/fomo-referral-code-freefees,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; freefees; crypto; trading-fees; signu…
+2026-11-27T15:35:38Z,eatfreshapple/uk-dog-lifespan-by-breed,eatfreshapple,0,0,language:en; license:cc-by-4.0; modality:tabular; region:us; dogs; survival-analysis; tabular
+2026-11-27T15:36:11Z,fomoreferralcode10/biaya-fomo-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:id; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; code10; crypto; trading-fees; biaya
+2026-11-27T15:36:58Z,w732857315/nncoss-knowledge,w732857315,0,0,region:us
+2026-11-27T15:37:14Z,fomoreferralcode10/ma-gioi-thieu-fomo-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:vi; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:…
+2026-11-27T15:37:16Z,fomoreferralcode10/phi-fomo-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:vi; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; librar…
+2026-11-27T15:37:17Z,mthuphm/introDS-24127550,mthuphm,0,0,region:us
+2026-11-27T15:37:23Z,armnet/eval_busybox_push_green_button_diffusion_15h31m_27-nov-2026,armnet,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-27T15:38:15Z,fomoreferralcode10/cara-daftar-fomo-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:id; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; code10; crypto; trading-fees; cara-da…
+2026-11-27T15:38:28Z,sejzu0123/c6bb09a7-b2b2-40ed-af7c-8908bb157fe2,sejzu0123,0,0,region:us
+2026-11-27T15:38:47Z,fomoreferralcode10/fomo-referral-code-offfee-fees,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; offfee; crypto; trading-fees; fee-sch…
+2026-11-27T15:38:50Z,fomoreferralcode10/fomo-referral-code-freefees-fees,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; freefees; crypto; trading-fees; fee-s…
+2026-11-27T15:38:53Z,fomoreferralcode10/fomo-referral-code-offfee-not-working,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; offfee; crypto; troubleshooting
+2026-11-27T15:39:09Z,Brocanteur/mascara_picking_20261127_160810,Brocanteur,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-27T15:39:49Z,fomoreferralcode10/fomo-referral-code-freefees-after-signup,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; freefees; crypto; trading-fees; after…
+2026-11-27T15:40:28Z,bodhisattamaiti/SFXAtlas-10K,bodhisattamaiti,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-27T15:40:39Z,Piggy3008/IntroDS_,Piggy3008,0,0,region:us
+2026-11-27T15:40:43Z,fomoreferralcode10/kode-referral-fomo-offfee,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:id; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; offfee; crypto; trading-fees
+2026-11-27T15:40:46Z,fomoreferralcode10/kode-referral-fomo-freefees,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:id; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; freefees; crypto; trading-fees; indon…
+2026-11-27T15:40:56Z,Piggy3008/IntroDS_24127109,Piggy3008,0,0,region:us
+2026-11-27T15:41:43Z,fomoreferralcode10/cach-dang-ky-fomo-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:vi; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; code10; crypto; trading-fees; cach-da…
+2026-11-27T15:41:46Z,fomoreferralcode10/fomo-vs-jupiter,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; crypto; trading-fees; jupiter
+2026-11-27T15:42:09Z,Cryptomans/lo-sbomber-voce,Cryptomans,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-27T15:42:10Z,larsbackup/wam_weights,larsbackup,0,0,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T15:42:35Z,fomoreferralcode10/is-fomo-safe,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; safety; crypto; scam-awareness
+2026-11-27T15:42:37Z,fomoreferralcode10/fomo-tuijianma-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:zh; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; code10; crypto; trading-fees; chinese
+2026-11-27T15:43:37Z,InriaXagriscienceFM/crop_disease_classification,InriaXagriscienceFM,0,0,task_categories:image-classification; license:cc0-1.0; size_categories:10K<n<100K; region:us; agml; agriculture; observation-level-leaf
+2026-11-27T15:44:16Z,fomoreferralcode10/fomo-referralny-kod-code10,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:ru; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; code10; crypto; trading-fees; russian
+2026-11-27T15:44:30Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-27T15:45:02Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-27T15:45:13Z,fomoreferralcode10/fomo-perps-fees-explainer,fomoreferralcode10,0,0,task_categories:tabular-classification; task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; fomo; referral-code; perps; crypto; trading-fees; perpetua…
+2026-11-27T15:47:03Z,g1n0st/65a2cee7430bae5854c83d39386db7ef4674b148,g1n0st,0,0,region:us
+2026-11-27T15:47:26Z,yieldterminalpro/quarterly-earnings-results-source-linked,yieldterminalpro,0,0,language:en; license:other; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; earning…
+2026-11-27T15:48:46Z,DreamGuestAI/hanji-classical-chinese-ocr,DreamGuestAI,0,0,task_categories:text-generation; task_categories:feature-extraction; language:lzh; language:zh; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets…
+2026-11-27T15:49:33Z,AyanZaman19/jarvis-notch-dataset,AyanZaman19,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-11-27T15:50:36Z,PureOne/Xhieralune-VII-CAUSALIS-Omega,PureOne,0,0,language:en; license:unknown; size_categories:n<1K; region:us; quantum-information; network-nonlocality; causal-inference; mathematical-proofs; exact-arithmetic; reproducibility
+2026-11-27T15:52:28Z,w732857315/nncoss-qwen3-0.6b-school-r1-data,w732857315,0,0,task_categories:text-generation; language:zh; language:en; license:apache-2.0; size_categories:n<1K; region:us; nncoss; qwen3; rejection-sampling; rft; synthetic-data; k12
+2026-11-27T15:54:34Z,xuanduc1106/video-ai-the-little-match-girl,xuanduc1106,0,0,size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-27T15:54:52Z,DKU-STATS201-Autumn2026/Xinyu-Tianxiang-Shaoyu-tiald-script-fairness,DKU-STATS201-Autumn2026,0,0,task_categories:text-classification; multilinguality:monolingual; language:ti; license:cc-by-4.0; arxiv:2505.12116; region:us; tigrinya; algorithmic-fairness; abusive-language-detection; low-resource…
+2026-11-27T15:58:09Z,quantgap-packs/SmolLM2-360M-Instruct,quantgap-packs,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; qu…
+2026-11-27T15:58:22Z,sejzu0123/66538d62-3ff3-4363-b352-e9ee613e1b0f,sejzu0123,0,0,region:us
+2026-11-27T15:58:57Z,prowrestlinggoats/prowrestling-goats-ranking,prowrestlinggoats,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T15:59:02Z,sejzu0123/711ef8cf-aaaf-4233-b331-a8698f5f1db2,sejzu0123,0,0,region:us
+2026-11-27T16:00:33Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-11-27T16:00:34Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-11-27T16:02:05Z,CyanMonkey/NextGen-1.5-65-1024,CyanMonkey,0,0,region:us
+2026-11-27T16:02:48Z,DreamGuestAI/hanji-classical-chinese-full,DreamGuestAI,0,0,language:lzh; language:zh; license:other; size_categories:100K<n<1M; region:us; classical-chinese; chinese-classical; hanmun; kanbun; ocr; text-corpus; full-text-search; 古籍; 文言文; sqlite
+2026-11-27T16:03:25Z,DBERT/india-tech-hiring-and-ai-2026,DBERT,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars…
+2026-11-27T16:03:26Z,SOTAagi2030/USB-C-Charger-Watchlist,SOTAagi2030,0,0,task_categories:tabular-classification; license:cc-by-4.0; region:us
+2026-11-27T16:05:20Z,sejzu0123/8cfd7f19-e67f-4361-89bd-793d6006a6f3,sejzu0123,0,0,region:us
+2026-11-27T16:05:49Z,Publicrecords/fmf-mpp-api-comparisons,Publicrecords,0,0,task_categories:table-question-answering; task_categories:text-retrieval; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:pol…
+2026-11-27T16:06:31Z,g1n0st/f54e04b523c7a06fb6ae572899fdabd090aab09d,g1n0st,0,0,region:us
+2026-11-27T16:07:08Z,stefanocarrera/kic_D_test_python_Qwen3-8B_t0.5_g0_run0,stefanocarrera,0,0,region:us
+2026-11-27T16:08:40Z,HelaAI/sinhala-school-textbooks,HelaAI,0,0,task_categories:text-generation; task_categories:fill-mask; language:si; license:other; size_categories:10K<n<100K; region:us; sinhala; education; textbooks; sri-lanka
+2026-11-27T16:08:51Z,stefanocarrera/kic_D_train_python_Qwen3-8B_t0.5_g0_run0,stefanocarrera,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T16:08:59Z,Daankrol/ces-vials,Daankrol,0,0,modality:video; region:us
+2026-11-27T16:09:04Z,Consolatio/pick_dual_bottles_1126_crossfit_2000,Consolatio,0,0,region:us
+2026-11-27T16:09:08Z,nielsr/hfe-public,nielsr,0,0,task_categories:question-answering; task_categories:visual-question-answering; task_categories:image-text-to-text; language:en; license:cc-by-4.0; size_categories:n<1K; modality:image; library:harbor…
+2026-11-27T16:09:16Z,LuyVirak/cinepredict-processed-data,LuyVirak,0,0,license:mit; region:us
+2026-11-27T16:10:00Z,aaguilar90/mosaic-central-highlands,aaguilar90,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:geospatial; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-27T16:11:27Z,blanchon/o2laf-debug,blanchon,0,0,region:us
+2026-11-27T16:15:11Z,H1testmeownow/i5366-atk-95796080,H1testmeownow,0,0,region:us
+2026-11-27T16:16:24Z,Rymalhotra07/nlp-qa-image-depth63-2024,Rymalhotra07,0,0,license:cc-by-4.0; region:us; dataset; nlp-qa; image-depth
+2026-11-27T16:16:43Z,s7d11/chronicles-vol2-mali,s7d11,0,0,task_categories:time-series-forecasting; task_categories:text-classification; license:cc-by-4.0; region:us; mali; osint; conflict-forecasting; hawkes-process; sebeni-chronicle
+2026-11-27T16:18:40Z,Khoi123456/Group09-dataset-Khoi,Khoi123456,0,0,region:us
