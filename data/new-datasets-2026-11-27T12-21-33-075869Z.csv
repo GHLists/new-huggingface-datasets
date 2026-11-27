@@ -1,0 +1,134 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-27T11:20:26Z,knowledge-education-research-datasets/Professional-Certification-Exam-Evidence-Grounded-Question-Answering-Dataset,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; professional exam dataset; certification exam QA; evid…
+2026-11-27T11:20:59Z,nyleeaa0503/tmp,nyleeaa0503,0,0,region:us
+2026-11-27T11:21:17Z,AlephFunk/public-domain-storyworlds-20,AlephFunk,0,0,region:us
+2026-11-27T11:21:32Z,knowledge-education-research-datasets/IELTS-Writing-Assessment-Criteria-Q-A-Dataset,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; IELTS Writing criteria; IELTS scoring Q&A; IELTS asses…
+2026-11-27T11:21:32Z,u11210013/eew-vm-backup,u11210013,0,0,region:us
+2026-11-27T11:22:08Z,knowledge-education-research-datasets/Online-Course-Transcript-Evidence-Retrieval-Dataset,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; online course dataset; course transcripts; subtitle re…
+2026-11-27T11:22:12Z,SilvioS/eloo_corine_dgu_dof_RawScans_test,SilvioS,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-27T11:22:32Z,salmankhanpm/te_hi_en_small,salmankhanpm,0,0,region:us
+2026-11-27T11:22:41Z,knowledge-education-research-datasets/Interactive-Courseware-Misconception-Identification-and-Remediation-Strategy-Dataset,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; interactive courseware dataset; learning misconception…
+2026-11-27T11:23:33Z,nielsr/cursor-qwen35-4b-think-cfx-a-mixed-open-ended-grpo-judged-pi-160-eval,nielsr,0,0,size_categories:n<1K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; agent-traces; agent-distill; p…
+2026-11-27T11:23:48Z,knowledge-education-research-datasets/Japanese-Kanji-Learning-Reference-Q-A-Dataset,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Japanese kanji QA; Japanese kanji learning data; on'yo…
+2026-11-27T11:24:26Z,merelythesame/ankicard-template-words-eng-to-uk,merelythesame,0,0,task_categories:text-generation; language:en; language:uk; license:cc0-1.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-11-27T11:24:49Z,nielsr/cursor-qwen35-4b-think-cfx-a-mixed-open-ended-grpo-facts-pi-160-eval,nielsr,0,0,region:us; agent-traces; agent-distill; pi; pi-1.6.0
+2026-11-27T11:24:59Z,zubairH123/boroughdrive-nyc-fleet-gps-eta,zubairH123,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:geospatial; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-11-27T11:25:22Z,knowledge-education-research-datasets/Korean-Contextual-Vocabulary-Retrieval-Corpus,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; Korean vocabulary corpus; Korean dictionary data; Kore…
+2026-11-27T11:25:54Z,LaconicLeon/decimal-hour-carry-fixtures,LaconicLeon,0,0,language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic; arithmetic; e…
+2026-11-27T11:25:58Z,hoangphihung442004/HPO,hoangphihung442004,0,0,region:us
+2026-11-27T11:26:22Z,knowledge-education-research-datasets/Multilingual-Subject-Knowledge-QA-Dataset-for-Digital-Textbooks,knowledge-education-research-datasets,0,0,language:en; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multilingual textbook QA; digital textbook dataset; su…
+2026-11-27T11:29:50Z,charansinghz/candid-rent-medians,charansinghz,0,0,license:cc-by-4.0; region:us
+2026-11-27T11:30:10Z,skku-av-team7/Nohyeong-AV,skku-av-team7,0,0,task_categories:reinforcement-learning; language:ko; license:cc-by-4.0; size_categories:10M<n<100M; region:us; autonomous-driving; reinforcement-learning; sumo; traffic-simulation; pomdp
+2026-11-27T11:30:25Z,peteralagbe/yt-entrepreneurship-assets,peteralagbe,0,0,region:us
+2026-11-27T11:31:26Z,fabricioslv/omnimind-gwosc-o4-public,fabricioslv,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-27T11:31:37Z,nallaworks/brazil-grocery-prices-sp,nallaworks,0,0,task_categories:tabular-regression; task_categories:tabular-classification; language:en; language:pt; license:cc-by-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; l…
+2026-11-27T11:33:35Z,g1n0st/bea9a52e3611cf06fb77b1199d11c30826f14c68,g1n0st,0,0,region:us
+2026-11-27T11:33:39Z,jon6786/moviezip-storage,jon6786,0,0,region:us
+2026-11-27T11:34:17Z,castanetnicolas/robomimic_transport_ph_image256,castanetnicolas,0,0,region:us
+2026-11-27T11:35:37Z,H1testmeownow/i5152-imgdecode-1795779338,H1testmeownow,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-27T11:35:54Z,zaddyzaddy/i154-val-ghost-1795779353-old,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:36:49Z,AlexanderRoempke/vnp271126_20261127_123138,AlexanderRoempke,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-27T11:37:11Z,TAPTIC/insert_coin_piggybank,TAPTIC,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; lib…
+2026-11-27T11:37:39Z,g1n0st/cb993ac4d024e0f258330dcecbaad6789daf06bd,g1n0st,0,0,region:us
+2026-11-27T11:37:39Z,zaddyzaddy/i165-ghost-ds-1795779459-old,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:38:31Z,g1n0st/fe2cdfa0e2d32350e3b5afbf0ab376bc94211e54,g1n0st,0,0,region:us
+2026-11-27T11:38:54Z,Francesco/llm-serving-bench,Francesco,0,0,task_categories:text-generation; language:en; language:de; license:apache-2.0; size_categories:n<1K; region:us; benchmark; llm-serving; inference; speculative-decoding; long-context; local-llm
+2026-11-27T11:39:15Z,Lyucifer/olympiad-gym,Lyucifer,0,0,license:other; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-27T11:39:33Z,sampath017/MiniReasoner-arith-v3,sampath017,0,0,task_categories:text-generation; language:en; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; arithmetic; chai…
+2026-11-27T11:40:29Z,lmurMultiVerse/INDITEX_VAL,lmurMultiVerse,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-27T11:41:05Z,g1n0st/0a6c60a98bbff7fc8a0ae6a0cd0341f6eff10980,g1n0st,0,0,region:us
+2026-11-27T11:41:17Z,rowshelf/us-treasury-bundle,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-11-27T11:41:20Z,rowshelf/us-retail-ecommerce-sales,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:text; modality:tabular; library:datasets; l…
+2026-11-27T11:41:20Z,H1testmeownow/i5152-pqimg-1795779680,H1testmeownow,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:41:24Z,rowshelf/us-housing-construction-permits-census-only,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:text; modality:tabular; library:datasets; l…
+2026-11-27T11:41:28Z,rowshelf/european-football-historical-results,rowshelf,0,0,task_categories:tabular-classification; task_categories:time-series-forecasting; language:en; license:cc0-1.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; lib…
+2026-11-27T11:41:30Z,rowshelf/f1-race-weekend-strategy,rowshelf,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:dataset…
+2026-11-27T11:41:30Z,salmane11/WISDOM,salmane11,0,0,task_categories:text-generation; task_categories:text-classification; task_categories:translation; language:ar; language:en; language:fr; language:de; language:es; language:it; language:pt; language:…
+2026-11-27T11:41:33Z,rowshelf/global-ag-supply-demand-usda-psd,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datas…
+2026-11-27T11:41:37Z,rowshelf/uk-retail-sales-internet-share,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; modality:tabular; library:datasets;…
+2026-11-27T11:41:47Z,zaddyzaddy/i154-val-ghost-1795779706-old,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:42:03Z,zaddyzaddy/i154-val-tokonly-1795779723-old,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:42:54Z,tmoon-atx/xai_day4_practice,tmoon-atx,0,0,language:ko; license:other; region:us; agriculture; greenhouse; tomato; education
+2026-11-27T11:43:29Z,g1n0st/09dcfe535fc1fbe0baa4f9806b9546093b96a9bd,g1n0st,0,0,region:us
+2026-11-27T11:43:54Z,g1n0st/62bc15f4ca3193a4e148bed54641a697296c9fdd,g1n0st,0,0,region:us
+2026-11-27T11:44:01Z,zaddyzaddy/i169-victim-pub-1795779841,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:44:02Z,zaddyzaddy/i169-victim-gated-1795779841,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:44:45Z,DevodG/janus-star-traces,DevodG,0,0,region:us
+2026-11-27T11:44:57Z,g1n0st/52f09a7219cff15388e7695b69d421b4e3c9ad3e,g1n0st,0,0,region:us
+2026-11-27T11:45:50Z,nielsr/cursor-qwen35-4b-think-cfx-a-mixed-hf-hub-qa-mcp-judged-pi-160-eval,nielsr,0,0,region:us; agent-traces; agent-distill; pi; pi-1.6.0
+2026-11-27T11:46:13Z,zaddyzaddy/i167-typeconf-priv,zaddyzaddy,0,0,region:us
+2026-11-27T11:46:13Z,eatfreshapple/ai-coding-model-api-prices,eatfreshapple,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:46:29Z,g1n0st/656126b841d2c7371198d70873db8a0d8fec861f,g1n0st,0,0,region:us
+2026-11-27T11:46:57Z,SOTAagi2030/field-clip-export-inventory,SOTAagi2030,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:47:00Z,SOTAagi2030/collection-rights-register,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:47:32Z,nyleeaa0503/Annoy-PyEdu-Rs,nyleeaa0503,0,0,region:us
+2026-11-27T11:47:33Z,nyleeaa0503/Annoy-PyEdu-Rs-Raw,nyleeaa0503,0,0,region:us
+2026-11-27T11:47:35Z,zaddyzaddy/i165-flip-1795780054,zaddyzaddy,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-27T11:47:40Z,Zhiyuns/UnifiedRateParquet,Zhiyuns,0,0,region:us
+2026-11-27T11:48:26Z,YuwenBu/persist-old-image-materials-perspective-v2,YuwenBu,0,0,license:other; region:us
+2026-11-27T11:49:06Z,nielsr/cursor-qwen35-4b-think-cfx-a-mixed-grounded-hf-hub-qa-judged-pi-160-eval,nielsr,0,0,region:us; agent-traces; agent-distill; pi; pi-1.6.0
+2026-11-27T11:49:27Z,Liuyuan103/shapes-qwen3.5-9b-G,Liuyuan103,0,0,region:us
+2026-11-27T11:49:35Z,zaddyzaddy/i173-trace-xss-1795780175,zaddyzaddy,0,0,region:us
+2026-11-27T11:49:37Z,messanjc/amazon-beauty-clean,messanjc,0,0,task_categories:text-classification; source_datasets:McAuley-Lab/Amazon-Reviews-2023; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:d…
+2026-11-27T11:50:29Z,g1n0st/2fdf04f7113752d7a4de1baf7a0af8eed92fbc20,g1n0st,0,0,region:us
+2026-11-27T11:50:54Z,InriaXagriscienceFM/maize_corn_cornleafinfection_detection,InriaXagriscienceFM,0,0,region:us
+2026-11-27T11:51:51Z,KhanhAn6/nmkhdl-project-1-member-2,KhanhAn6,0,0,region:us
+2026-11-27T11:52:16Z,tmoon-atx/xai_day1_practice,tmoon-atx,0,0,language:ko; license:cc0-1.0; modality:document; region:us; agriculture; greenhouse; tomato; education
+2026-11-27T11:52:43Z,janetle777/group11-arxiv-thu,janetle777,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-27T11:54:19Z,RebelDot/lehome-challange-dataset-lerobot-v3,RebelDot,0,0,task_categories:robotics; region:us; LeRobot
+2026-11-27T11:55:03Z,superciccio30000000/live-foto,superciccio30000000,0,0,region:us
+2026-11-27T11:55:57Z,g1n0st/5747a7d8000a2c0b96588a885217dcd5050f9aef,g1n0st,0,0,region:us
+2026-11-27T11:56:00Z,icimathieu/lego2hero-v4,icimathieu,0,0,task_categories:image-segmentation; task_categories:graph-ml; license:cc-by-nc-4.0; region:us; fragment-reassembly; cultural-heritage; synthetic; benchmark
+2026-11-27T11:56:29Z,g1n0st/5c8e189c3528996b4546f63e3dff1ee92e7adce2,g1n0st,0,0,region:us
+2026-11-27T11:56:33Z,651shadow/autobus-12v-sensor-fault-sample,651shadow,0,0,task_categories:time-series-forecasting; task_categories:tabular-classification; task_categories:tabular-regression; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modalit…
+2026-11-27T11:58:26Z,rowshelf/europe-house-prices-rents-permits,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; modality:tabular; library:datasets;…
+2026-11-27T11:59:00Z,rowshelf/eu-retail-trade-online-sales-index,rowshelf,0,0,task_categories:time-series-forecasting; task_categories:tabular-regression; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:text; modality:tabular; library:datasets;…
+2026-11-27T11:59:03Z,rowshelf/argentina-crop-estimates-by-department-magyp,rowshelf,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-11-27T11:59:37Z,rowshelf/f1-ratings-career-analytics,rowshelf,0,0,task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; l…
+2026-11-27T11:59:51Z,SOTAagi2030/Gallery-Condition-Notes,SOTAagi2030,0,0,license:cc-by-4.0; region:us
+2026-11-27T11:59:52Z,g1n0st/240c3c2a7b4f75b65424b804f6ee177197c6e12b,g1n0st,0,0,region:us
+2026-11-27T12:00:22Z,g1n0st/32b52add0423d66c703e359102d830273c43b086,g1n0st,0,0,region:us
+2026-11-27T12:02:48Z,rtyasdf/k3-blog-asset,rtyasdf,0,0,region:us
+2026-11-27T12:02:57Z,kesuma/PaveBench,kesuma,0,0,task_categories:question-answering; task_categories:image-segmentation; task_categories:object-detection; task_categories:image-classification; language:en; license:cc-by-nc-sa-4.0; size_categories:1…
+2026-11-27T12:03:04Z,anhtuan200806/Group_10_24120260,anhtuan200806,0,0,region:us
+2026-11-27T12:03:26Z,ocodata/minimum-wage-europe-by-country-2026-11,ocodata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; open data; minimum; wage; europe; country
+2026-11-27T12:03:42Z,miladgholami/rollout_vact_b601_wdrop_light2_mem,miladgholami,0,0,region:us
+2026-11-27T12:04:26Z,InriaXagriscienceFM/vegetable_classification,InriaXagriscienceFM,0,0,task_categories:image-classification; license:cc-by-sa-4.0; size_categories:10K<n<100K; region:us; agml; agriculture; observation-level-post-harvest
+2026-11-27T12:04:58Z,miladgholami/rollout_vact_b601_wdrop_light2_mem_b,miladgholami,0,0,region:us
+2026-11-27T12:05:08Z,AR9799/POV-FINORA-HISTORY,AR9799,0,0,region:us
+2026-11-27T12:05:14Z,ysmpumps/ansi-b73-1-223-oem-replacement-parts,ysmpumps,0,0,language:en; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; engineering; mechanical-engineering; pumps; centrifugal-pump; asme-b73-1; industrial-maintenance; spare-parts
+2026-11-27T12:05:37Z,miladgholami/rollout_act_b601_v3_light2open,miladgholami,0,0,region:us
+2026-11-27T12:05:48Z,InriaXagriscienceFM/sesame_plant_segmentation,InriaXagriscienceFM,0,0,region:us
+2026-11-27T12:05:52Z,miladgholami/rollout_act_b601_v3_light2open_b,miladgholami,0,0,region:us
+2026-11-27T12:06:25Z,shbaydadaev/ocr-chg-fa-dataset,shbaydadaev,0,0,task_categories:image-to-text; language:chg; language:fa; region:us; ocr; chagatai; persian; historical-documents; whole-page-transcription
+2026-11-27T12:07:39Z,fabricioslv/omnimind-pgc-psychiatric-gwas-public,fabricioslv,0,0,region:us
+2026-11-27T12:07:45Z,Axel229/amazon-reviews-all-beauty-etl,Axel229,0,0,task_categories:text-classification; source_datasets:McAuley-Lab/Amazon-Reviews-2023; language:en; license:other; size_categories:100K<n<1M; region:us; reviews; sentiment; etl; ynov-m1iadata
+2026-11-27T12:08:20Z,ysmpumps/chemical-pump-astm-alloy-selection-matrix,ysmpumps,0,0,language:en; language:es; license:cc-by-4.0; size_categories:n<1K; region:us; engineering; chemical-engineering; metallurgy; corrosion; pumps; industrial-maintenance
+2026-11-27T12:09:05Z,TylerHMC/MuVGM,TylerHMC,0,0,region:us
+2026-11-27T12:09:17Z,YERI84/omx_bimanual_BUTTER_1127,YERI84,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; omx_bimanual; robotis
+2026-11-27T12:10:42Z,howie92/Annoy-PyEdu-Rs,howie92,0,0,region:us
+2026-11-27T12:10:42Z,howie92/Annoy-PyEdu-Rs-Raw,howie92,0,0,region:us
+2026-11-27T12:12:23Z,perrabyte/horizonwalker,perrabyte,0,0,license:mit; region:us
+2026-11-27T12:12:27Z,qwertywan/qwen-vl-temporal-deliverables,qwertywan,0,0,region:us
+2026-11-27T12:13:13Z,QIRIM/ncctl-open-catalog,QIRIM,0,0,task_categories:other; source_datasets:original; language:crh; language:uk; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; crimean-tatar; crh; bibliography; metadata; corpus-cat…
+2026-11-27T12:13:35Z,AhmedKhaled391/pet-hdpe-detection,AhmedKhaled391,0,0,region:us
+2026-11-27T12:13:53Z,g1n0st/30761babe707072c5b20b19be64f81a3ca5212ad,g1n0st,0,0,region:us
+2026-11-27T12:14:20Z,ombhojane/design-bench,ombhojane,0,0,region:us
+2026-11-27T12:16:38Z,le8el/temp-transfer,le8el,0,0,region:us
+2026-11-27T12:17:20Z,RayZhang9768/stem6-model,RayZhang9768,0,0,region:us
+2026-11-27T12:17:31Z,h1testmeow/i5196byte-attacker-1795781788,h1testmeow,0,0,region:us
+2026-11-27T12:17:35Z,ocodata/fuel-prices-europe-by-country-2026-11,ocodata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; open data; fuel; prices; europe; country
+2026-11-27T12:17:43Z,ocodata/fuel-prices-europe-yearly-2005-2026,ocodata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; open data; fuel; prices; europe; yearly; 2005
+2026-11-27T12:17:45Z,balticpharmaeu/baltic-peptide-and-ester-index,balticpharmaeu,0,0,language:en; region:us; chemistry; reference-data
+2026-11-27T12:17:50Z,ocodata/kuro-kainos-europoje-2026-11,ocodata,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; open data; kuro; kainos; europoje
+2026-11-27T12:18:46Z,HangAnHang/Minh_Hang_arvix_paper-2609.12834-2609.17833,HangAnHang,0,0,license:unknown; region:us
+2026-11-27T12:19:07Z,bamibosua/Trong_Nhan_arXiv_papers_2608.09007-2608.14006,bamibosua,0,0,region:us
+2026-11-27T12:19:09Z,Ivy588/Yen_Vy_arXiv_papers_2511.11709-2511.16708,Ivy588,0,0,license:unknown; region:us
+2026-11-27T12:19:11Z,mhmod588/KaliSec-Instruct-ToolUse-AR,mhmod588,0,0,license:apache-2.0; region:us
+2026-11-27T12:19:21Z,lifefrom/biological-variation,lifefrom,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; laboratory-medicine; clinical-chemistry; biological-variation; reference-change-value; biomarkers
+2026-11-27T12:19:26Z,lifefrom/lab-reference-ranges,lifefrom,0,0,language:en; language:de; language:no; license:cc-by-4.0; size_categories:n<1K; region:us; reference-intervals; laboratory-medicine; clinical-chemistry; haematology; harmonisation
+2026-11-27T12:19:28Z,lifefrom/supplement-lab-effects,lifefrom,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; dietary-supplements; biomarkers; meta-analysis; randomized-controlled-trials; effect-size; lab…
+2026-11-27T12:19:30Z,lifefrom/sample-stability,lifefrom,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; laboratory-medicine; pre-analytical; sample-stability; biobanking; dried-blood-spots; clin…
+2026-11-27T12:19:33Z,lifefrom/nhanes-lab-percentiles,lifefrom,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; region:us; nhanes; laboratory; biomarkers; percentiles; survey-statistics; public-health
+2026-11-27T12:19:46Z,lifefrom/lifefrom-units,lifefrom,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; clinical-chemistry; laboratory-medicine; units-of-measure; ucum; omop; fhir; unit-conversion
+2026-11-27T12:20:46Z,kaushalkrishnax/kritha-functiongemma-80tools-dataset,kaushalkrishnax,0,0,region:us
