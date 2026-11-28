@@ -1,0 +1,89 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-28T04:21:43Z,mishwani7/KP-AgriBench,mishwani7,0,0,task_categories:tabular-regression; task_categories:text-classification; task_categories:feature-extraction; language:en; language:ur; license:mit; size_categories:1K<n<10K; region:us; agriculture; c…
+2026-11-28T04:25:43Z,mgm136044/pick-strawberry-sim_20261128_125322,mgm136044,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-28T04:25:45Z,Stasidze/lang-obs-v66,Stasidze,0,0,task_categories:text-generation; language:ru; license:mit; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; diary; philosophy; ai-consciousness;…
+2026-11-28T04:25:51Z,wrldsuksgo2mars/agentic-quant-panel-v3,wrldsuksgo2mars,0,0,task_categories:text-generation; language:en; language:zh; language:multilingual; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:p…
+2026-11-28T04:28:02Z,eightb/omnispherepop-benchmarks,eightb,0,0,license:mit; region:us; quantization; ternary-quantization; grpo; rlvr; walsh-hadamard; safetensors; rust; qwen2.5; omnispherepop
+2026-11-28T04:29:14Z,aidancoit9203/cs2-dataset,aidancoit9203,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datase…
+2026-11-28T04:30:05Z,yrpark/seg-loom-real2,yrpark,0,0,region:us
+2026-11-28T04:30:28Z,fabricioslv/omnimind-dryad-b2rbnzsq4-bone-microct-parquets,fabricioslv,0,0,license:cc0-1.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-28T04:30:41Z,sejzu0123/6709ba12-cd80-4ca4-a38b-9dd005086cb8,sejzu0123,0,0,region:us
+2026-11-28T04:33:02Z,LANA-CyberSecurity/cisa-kev,LANA-CyberSecurity,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:34:20Z,LANA-CyberSecurity/mitre-cwe,LANA-CyberSecurity,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:34:59Z,LANA-CyberSecurity/mitre-capec,LANA-CyberSecurity,0,0,license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge; dual-use
+2026-11-28T04:35:08Z,Liuyuan103/shapes-gemma4-12b-base-D,Liuyuan103,0,0,region:us
+2026-11-28T04:35:38Z,LANA-CyberSecurity/mitre-car,LANA-CyberSecurity,0,0,license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:36:18Z,LANA-CyberSecurity/mitre-atlas,LANA-CyberSecurity,0,0,license:other; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge; dual-use
+2026-11-28T04:37:00Z,LANA-CyberSecurity/mitre-d3fend,LANA-CyberSecurity,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:37:32Z,ncxx888/downloads,ncxx888,0,0,region:us
+2026-11-28T04:37:39Z,LANA-CyberSecurity/mitre-cti-stix20,LANA-CyberSecurity,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge; dual…
+2026-11-28T04:37:58Z,Jamn0519/gargoyle-project,Jamn0519,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T04:38:20Z,LANA-CyberSecurity/cisa-csaf,LANA-CyberSecurity,0,0,license:other; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:39:01Z,LANA-CyberSecurity/mitre-attack-stix,LANA-CyberSecurity,0,0,license:other; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge; du…
+2026-11-28T04:39:03Z,Kazenowoko/telos-alpha1-shards,Kazenowoko,0,0,region:us
+2026-11-28T04:39:11Z,fabricioslv/omnimind-zenodo-3843094-skin-immune-parquets,fabricioslv,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-28T04:40:16Z,LANA-CyberSecurity/nvd-cve-fkie,LANA-CyberSecurity,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:40:16Z,zkwr1081/Angry-Claudius-9B-Dataset,zkwr1081,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-11-28T04:41:25Z,LANA-CyberSecurity/github-advisory-db,LANA-CyberSecurity,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:42:27Z,LANA-CyberSecurity/cve-list-v5,LANA-CyberSecurity,0,0,license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:43:50Z,minhphd/recording_full_gaze_fixed,minhphd,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-11-28T04:44:26Z,LANA-CyberSecurity/osv-all,LANA-CyberSecurity,0,0,license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; cybersecurity; security; vuln_knowledge
+2026-11-28T04:45:08Z,nassimjp/pashto-thai-parallel-corpus,nassimjp,0,0,task_categories:translation; multilinguality:parallel; language:ps; language:th; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars;…
+2026-11-28T04:46:27Z,aicostdesk/llm-api-pricing,aicostdesk,0,0,task_categories:tabular-classification; language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroiss…
+2026-11-28T04:47:25Z,Hongxuan111/Annoy-PyEdu-Rs,Hongxuan111,0,0,region:us
+2026-11-28T04:47:26Z,Hongxuan111/Annoy-PyEdu-Rs-Raw,Hongxuan111,0,0,region:us
+2026-11-28T04:48:11Z,DSAC12DSA21E/Annoy-PyEdu-Rs,DSAC12DSA21E,0,0,region:us
+2026-11-28T04:48:12Z,DSAC12DSA21E/Annoy-PyEdu-Rs-Raw,DSAC12DSA21E,0,0,region:us
+2026-11-28T04:48:13Z,dsa1csad21dd/Annoy-PyEdu-Rs,dsa1csad21dd,0,0,region:us
+2026-11-28T04:48:13Z,dsa1csad21dd/Annoy-PyEdu-Rs-Raw,dsa1csad21dd,0,0,region:us
+2026-11-28T04:48:50Z,ParcelSlash/us-county-property-tax-appraisal-roll-2026,ParcelSlash,0,0,task_categories:tabular-regression; task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; librar…
+2026-11-28T04:48:52Z,SeniorLegit1/cms-skilled-nursing-eb-survival-2026,SeniorLegit1,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library…
+2026-11-28T04:48:55Z,DerechoDinero/us-settlements-spanish-access-audit-2026,DerechoDinero,0,0,task_categories:tabular-classification; task_categories:question-answering; language:es; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pa…
+2026-11-28T04:48:57Z,BuiltLegit1/us-state-contractor-licensing-registry-2026,BuiltLegit1,0,0,task_categories:tabular-classification; language:en; language:es; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:pola…
+2026-11-28T04:49:26Z,getzero11/market-reports,getzero11,0,0,size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us
+2026-11-28T04:49:37Z,brian8808/cvin-cn-public-observation-ledger,brian8808,0,0,license:cc-by-4.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; cvin; gpu; gpu-collateral; compute-finance; public-ledger; suandai; china; verif…
+2026-11-28T04:50:23Z,CheezOne/toxicity-benchmark-chinese-japanese-korean,CheezOne,0,0,task_categories:text-classification; task_ids:hate-speech-detection; language:zh; language:ja; language:ko; language:en; license:cc-by-sa-4.0; license:cc-by-4.0; license:apache-2.0; license:cc0-1.0;…
+2026-11-28T04:51:23Z,xzwj-1699/scope-index-wiki35m,xzwj-1699,0,0,region:us
+2026-11-28T04:51:33Z,LANA-CyberSecurity/ctf-wiki,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T04:51:43Z,eyob7/Oromo-Number-TTS-Dataset,eyob7,0,0,task_categories:text-to-speech; language:om; license:cc-by-4.0; size_categories:10K<n<100K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; afaan-oromoo; oromo;…
+2026-11-28T04:52:26Z,LANA-CyberSecurity/ctftime-writeups,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; hf_corpus
+2026-11-28T04:52:42Z,gooningwithgonnerthetooner/orislop-data-research,gooningwithgonnerthetooner,0,0,region:us
+2026-11-28T04:53:30Z,LANA-CyberSecurity/ctfwu-firmianay-ctf-all-in-one,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T04:54:45Z,LANA-CyberSecurity/ctfwu-probiusofficial-hello-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T04:54:53Z,Pearson15/ecommerce-sales-data,Pearson15,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T04:55:28Z,LANA-CyberSecurity/devign-gdrive,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; vuln_code
+2026-11-28T04:55:40Z,DKU-STATS201-Autumn2026/Yihan_Qingyue_tech-job-postings-salary-dataset,DKU-STATS201-Autumn2026,0,0,task_categories:text-classification; task_categories:tabular-regression; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:dataset…
+2026-11-28T04:56:37Z,TUaxhuiax/Annoy-PyEdu-Rs,TUaxhuiax,0,0,region:us
+2026-11-28T04:56:39Z,TUaxhuiax/Annoy-PyEdu-Rs-Raw,TUaxhuiax,0,0,region:us
+2026-11-28T04:56:49Z,LANA-CyberSecurity/elastic-protections,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text
+2026-11-28T04:58:15Z,LANA-CyberSecurity/github-securitylab,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T04:59:31Z,DrewZhang/Big5-HCD,DrewZhang,0,0,task_categories:text-generation; source_datasets:nu-dialogue/real-persona-chat; language:en; language:ja; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:tex…
+2026-11-28T04:59:50Z,LANA-CyberSecurity/google-security-research,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T05:00:30Z,LANA-CyberSecurity/gtfobins,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; offensive; dual-use
+2026-11-28T05:00:30Z,scalingX/mujoco-lab-instruments-dataset,scalingX,0,0,task_categories:image-classification; task_categories:object-detection; language:zh; language:en; license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcr…
+2026-11-28T05:00:53Z,kotlinazen/nvazen-iso,kotlinazen,0,0,region:us
+2026-11-28T05:01:05Z,LANA-CyberSecurity/hacker-zines,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; hf_corpus
+2026-11-28T05:01:16Z,AyushJain95/items_prompts_lite,AyushJain95,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T05:01:44Z,LANA-CyberSecurity/hackerone-reports,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; hf_corpus
+2026-11-28T05:02:04Z,xploit7man/Lxfarari,xploit7man,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T05:03:38Z,LANA-CyberSecurity/hacktricks,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T05:05:14Z,jhayron/strata-s40-ensemble-fp32-part2,jhayron,0,0,license:other; region:us; weather; climate; ensemble; machine-learning; unpublished
+2026-11-28T05:05:23Z,MCurtisMcCoy/us-cell-phone-carriers,MCurtisMcCoy,0,1,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; telecommunications; mvno; cell-phone…
+2026-11-28T05:05:23Z,LANA-CyberSecurity/hacktricks-cloud,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T05:05:25Z,nbberlin/stock-quant-data,nbberlin,0,0,region:us
+2026-11-28T05:06:59Z,LANA-CyberSecurity/hacktricks-zh,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T05:08:32Z,LANA-CyberSecurity/mitre-car-repo-docs,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text
+2026-11-28T05:09:14Z,LANA-CyberSecurity/nist-cybersecurity-training,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; hf_corpus
+2026-11-28T05:11:04Z,GAOEULEE/vps-backup,GAOEULEE,0,0,region:us
+2026-11-28T05:15:56Z,LANA-CyberSecurity/nist-oscal-content,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text
+2026-11-28T05:16:23Z,purplejedi/dungeongpt-sft-dataset,purplejedi,0,0,language:en; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; tabletop-rpg; sft; dungeongpt
+2026-11-28T05:17:18Z,AbstractPowered/manifests,AbstractPowered,0,0,license:mit; region:us; abstractpowered
+2026-11-28T05:17:54Z,fabricioslv/omnimind-dryad-jv42j-v1-gamma-sync-parquets,fabricioslv,0,0,license:cc0-1.0; region:us
+2026-11-28T05:18:05Z,LANA-CyberSecurity/owasp-api-security,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text
+2026-11-28T05:18:50Z,angha11032/video-uploads,angha11032,0,0,region:us
+2026-11-28T05:18:51Z,dfsdasdD/video-uploads,dfsdasdD,0,0,region:us
+2026-11-28T05:19:05Z,sdfewgare/video-uploads,sdfewgare,0,0,region:us
+2026-11-28T05:19:06Z,dsFGM/video-uploads,dsFGM,0,0,region:us
+2026-11-28T05:19:13Z,prathmesh992002/video-uploads,prathmesh992002,0,0,region:us
+2026-11-28T05:19:44Z,velzardtempest/DORANOBIRAWFANSUB,velzardtempest,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-28T05:20:09Z,LANA-CyberSecurity/owasp-asvs,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text
