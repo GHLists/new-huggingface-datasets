@@ -1,0 +1,67 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-28T01:22:54Z,g1n0st/cb379c3557d5423998d6245fcb7dffe2d97f3d0a,g1n0st,0,0,region:us
+2026-11-28T01:29:07Z,agent-distillation-hf/lfm3-17b-think-sft-hf-hub-qa-v2-glm-53-pi-160-eval,agent-distillation-hf,0,0,region:us; agent-traces; agent-distill; pi; pi-1.6.0
+2026-11-28T01:29:43Z,auditdpo/dpo-training-sets,auditdpo,0,0,license:mit; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T01:30:41Z,artificial-mind/cogeval-v1,artificial-mind,0,0,task_categories:question-answering; task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas;…
+2026-11-28T01:30:42Z,artificial-mind/ame-eval-traces,artificial-mind,0,0,language:en; license:mit; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmarks; lo…
+2026-11-28T01:32:40Z,adewqf/Annoy-PyEdu-Rs,adewqf,0,0,region:us
+2026-11-28T01:32:41Z,adewqf/Annoy-PyEdu-Rs-Raw,adewqf,0,0,region:us
+2026-11-28T01:33:19Z,QSJMKDSFDS/Annoy-PyEdu-Rs,QSJMKDSFDS,0,0,region:us
+2026-11-28T01:33:20Z,QSJMKDSFDS/Annoy-PyEdu-Rs-Raw,QSJMKDSFDS,0,0,region:us
+2026-11-28T01:33:41Z,asd21ecxxz12/Annoy-PyEdu-Rs,asd21ecxxz12,0,0,region:us
+2026-11-28T01:33:42Z,asd21ecxxz12/Annoy-PyEdu-Rs-Raw,asd21ecxxz12,0,0,region:us
+2026-11-28T01:33:58Z,agent-distillation-hf/lfm3-17b-think-sft-hf-hub-qa-judged-glm-53-pi-160-eval,agent-distillation-hf,0,0,region:us; agent-traces; agent-distill; pi; pi-1.6.0
+2026-11-28T01:34:32Z,bnjlebron/attune-rsi-corpus-v1,bnjlebron,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-28T01:35:19Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs,ASDSAD2E12EDASD,0,0,region:us
+2026-11-28T01:35:20Z,ASDSAD2E12EDASD/Annoy-PyEdu-Rs-Raw,ASDSAD2E12EDASD,0,0,region:us
+2026-11-28T01:36:20Z,sewon/scaling-repeated-data-pretraining,sewon,0,0,license:mit; region:us
+2026-11-28T01:36:26Z,kutrat/sec,kutrat,0,0,region:us
+2026-11-28T01:36:51Z,DSAD123GFTQ/Annoy-PyEdu-Rs-Raw,DSAD123GFTQ,0,0,region:us
+2026-11-28T01:36:51Z,DSAD123GFTQ/Annoy-PyEdu-Rs,DSAD123GFTQ,0,0,region:us
+2026-11-28T01:37:19Z,asokwwe/FIRMED,asokwwe,0,0,language:en; license:other; region:us
+2026-11-28T01:37:25Z,QWDSA12SA/Annoy-PyEdu-Rs,QWDSA12SA,0,0,region:us
+2026-11-28T01:37:26Z,QWDSA12SA/Annoy-PyEdu-Rs-Raw,QWDSA12SA,0,0,region:us
+2026-11-28T01:37:27Z,EasonPing/lab3-so101-doll,EasonPing,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-11-28T01:37:56Z,jdbillio/jimmy-hoffa-fbi-index,jdbillio,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; foia; fbi-vaul…
+2026-11-28T01:38:00Z,jdbillio/canada-project-second-storey-ufo-index,jdbillio,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ufo; uap; declassi…
+2026-11-28T01:38:03Z,jdbillio/black-dahlia-case-files-index,jdbillio,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; foia; cpra; fb…
+2026-11-28T01:39:57Z,jjeccles/ltx25-food-training-packet-5391b1b3,jjeccles,0,0,region:us
+2026-11-28T01:41:26Z,ASD12SAASD12D/Annoy-PyEdu-Rs,ASD12SAASD12D,0,0,region:us
+2026-11-28T01:41:27Z,ASD12SAASD12D/Annoy-PyEdu-Rs-Raw,ASD12SAASD12D,0,0,region:us
+2026-11-28T01:42:25Z,g1n0st/50ec77bcfac181a200f8bbd4b62c6940436ceff0,g1n0st,0,0,region:us
+2026-11-28T01:43:00Z,roaddata-ai/scenario-library-starter,roaddata-ai,0,0,task_categories:video-classification; license:other; size_categories:n<1K; modality:video; region:us; autonomous-driving; dashcam; physical-ai; openscenario; opendrive; esmini; scenario-generation; s…
+2026-11-28T01:43:24Z,evaltest/ta88aceeb04849-ta88aceeb04849-Annoy-PyEdu-Rs-Raw,evaltest,0,0,region:us
+2026-11-28T01:43:24Z,evaltest/ta88aceeb04849-Annoy-PyEdu-Rs,evaltest,0,0,region:us
+2026-11-28T01:44:35Z,LeeDongGun/Auto_Driving_Project_11,LeeDongGun,0,0,license:cc-by-4.0; region:us
+2026-11-28T01:46:35Z,YassineBST/bst_data_2,YassineBST,0,0,region:us
+2026-11-28T01:46:55Z,roaddata-ai/collision-evidence-sample,roaddata-ai,0,0,task_categories:video-classification; license:other; size_categories:n<1K; modality:video; region:us; autonomous-driving; dashcam; physical-ai; collision; crash-pulse; imu; gnss; openscenario; opendr…
+2026-11-28T01:47:08Z,roaddata-ai/weather-library-sample,roaddata-ai,0,0,task_categories:video-classification; license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; autonomous-driving; dashcam; physical-ai; weather; snow; r…
+2026-11-28T01:48:08Z,elan-latif/egocentric-filter-hard-cases,elan-latif,0,1,task_categories:video-classification; license:apache-2.0; size_categories:n<1K; region:us; egocentric; robotics; data-quality; benchmark
+2026-11-28T01:48:40Z,shuren2/doii_20261128_093742,shuren2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-28T01:48:47Z,aarush22/PanCan-workstation-20261128,aarush22,0,0,region:us
+2026-11-28T01:54:29Z,Ajjsnsn/liulan,Ajjsnsn,0,0,region:us
+2026-11-28T01:55:38Z,aarush22/PanCan-workstation-20261128-part2,aarush22,0,0,region:us
+2026-11-28T01:56:15Z,DSACZX123EDS/Annoy-PyEdu-Rs,DSACZX123EDS,0,0,region:us
+2026-11-28T01:56:36Z,DSACZX123EDS/Annoy-PyEdu-Rs-Raw,DSACZX123EDS,0,0,region:us
+2026-11-28T01:57:31Z,shdlah/Annoy-PyEdu-Rs,shdlah,0,0,region:us
+2026-11-28T01:58:03Z,shdlah/Annoy-PyEdu-Rs-Raw,shdlah,0,0,region:us
+2026-11-28T02:02:57Z,factblink514/offex-studio-config,factblink514,0,0,region:us
+2026-11-28T02:03:25Z,g1n0st/12d1bb5d6c81bfb3b34f70f29e2fefe80290a6f7,g1n0st,0,0,region:us
+2026-11-28T02:04:00Z,luisluis123/xboxcover,luisluis123,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T02:04:16Z,ultragamerznews/ai-model-scoreboard,ultragamerznews,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-11-28T02:04:39Z,StarpowerTechnology/3d-Objects,StarpowerTechnology,0,0,language:en; size_categories:n<1K; format:parquet; modality:3d; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; 3d; gltf; threejs; ren…
+2026-11-28T02:04:50Z,winston-junjie-feng/orange-stressball_20261127_173200,winston-junjie-feng,0,0,region:us
+2026-11-28T02:05:56Z,ASDC12SDA/Annoy-PyEdu-Rs,ASDC12SDA,0,0,region:us
+2026-11-28T02:05:57Z,ASDC12SDA/Annoy-PyEdu-Rs-Raw,ASDC12SDA,0,0,region:us
+2026-11-28T02:10:04Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs,pinkiepinkiepinkie,0,0,region:us
+2026-11-28T02:10:05Z,pinkiepinkiepinkie/Annoy-PyEdu-Rs-Raw,pinkiepinkiepinkie,0,0,region:us
+2026-11-28T02:10:56Z,Giuliocc/doxa-wording-benchmark,Giuliocc,0,0,license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; political-discourse; media-bia…
+2026-11-28T02:15:12Z,SOTAagi2030/watershed-release-lots,SOTAagi2030,0,0,region:us
+2026-11-28T02:15:15Z,SOTAagi2030/watershed-station-permits,SOTAagi2030,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T02:15:17Z,swespot-anon/sft-v0,swespot-anon,0,0,license:mit; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T02:17:05Z,kartik123s/zju-leaper-fabric-defect-yolo,kartik123s,0,0,task_categories:image-feature-extraction; license:unknown; region:us
+2026-11-28T02:18:34Z,nanozyme/PathoVerse-Atlas,nanozyme,0,0,language:en; license:mit; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; pathology; whole-slide-images; tcga
+2026-11-28T02:19:34Z,ry-5/y1_left_pick_box,ry-5,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-11-28T02:21:39Z,g1n0st/e3e16f25977b877d70d239a5bc77286c0398ade1,g1n0st,0,0,region:us
+2026-11-28T02:21:49Z,dakr-pandas/tool-calling-conversations-mwy7sw00,dakr-pandas,0,0,task_categories:text-generation; language:multilingual; region:us
+2026-11-28T02:21:57Z,g1n0st/70e6d91160445858bdd052aaf6a617209fbad4bb,g1n0st,0,0,region:us
