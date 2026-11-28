@@ -1,0 +1,118 @@
+created_at,dataset,author,downloads,likes,tags
+2026-11-28T06:20:33Z,woosugi/so101_plate_pick_50,woosugi,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library…
+2026-11-28T06:21:38Z,taigatakano/tokyo,taigatakano,0,0,language:ja; license:other; modality:geospatial; region:us; geospatial; weather; solar-irradiance; ultraviolet
+2026-11-28T06:21:55Z,nguyenthithuvan11441/truyen29_mp3,nguyenthithuvan11441,0,0,region:us
+2026-11-28T06:22:12Z,nguyenthithuvan11441/truyen29,nguyenthithuvan11441,0,0,region:us
+2026-11-28T06:22:45Z,RHGY8597/AFL-TAD,RHGY8597,0,0,license:cc-by-nc-4.0; region:us
+2026-11-28T06:22:59Z,nguyenthithuvan11441/truyen28_mp3,nguyenthithuvan11441,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:23:06Z,nguyenthithuvan11441/truyen28,nguyenthithuvan11441,0,0,modality:audio; region:us
+2026-11-28T06:24:12Z,LANA-CyberSecurity/ctfwu-bl4de-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:24:19Z,stephenmusaic/synthetic-lending-under-imperfect-information,stephenmusaic,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic…
+2026-11-28T06:24:27Z,hanxuan2003/ForceBench,hanxuan2003,0,0,language:en; size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; library:lerobot; arxiv:2610.19604; region:us; robotics; imitation-learning; force-feedback; lerobot; forc…
+2026-11-28T06:25:46Z,afsdfg/Annoy-PyEdu-Rs,afsdfg,0,0,region:us
+2026-11-28T06:25:47Z,afsdfg/Annoy-PyEdu-Rs-Raw,afsdfg,0,0,region:us
+2026-11-28T06:25:48Z,SDCZX123WESWX/Annoy-PyEdu-Rs,SDCZX123WESWX,0,0,region:us
+2026-11-28T06:25:49Z,SDCZX123WESWX/Annoy-PyEdu-Rs-Raw,SDCZX123WESWX,0,0,region:us
+2026-11-28T06:26:22Z,fabricioslv/omnimind-dryad-38s74-brain-mri-250um-parquets,fabricioslv,0,0,region:us
+2026-11-28T06:26:25Z,wesjos/rude-sft,wesjos,0,0,task_categories:text-generation; language:en; language:zh; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars…
+2026-11-28T06:26:34Z,LANA-CyberSecurity/ctfwu-cryptogenic-exploit-writeups,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:26:50Z,Liuyuan103/shapes-gemma4-12b-base-F,Liuyuan103,0,0,region:us
+2026-11-28T06:28:22Z,longai-software/longai-software-releases,longai-software,0,0,license:other; region:us
+2026-11-28T06:29:25Z,LANA-CyberSecurity/ctfwu-ctfs-write-ups-2013,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:30:35Z,fabricioslv/omnimind-dryad-83bk3jb0v-neural-dynamics-parquets,fabricioslv,0,0,license:cc0-1.0; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T06:31:30Z,asdaasdf/Annoy-PyEdu-Rs,asdaasdf,0,0,region:us
+2026-11-28T06:31:31Z,asdaasdf/Annoy-PyEdu-Rs-Raw,asdaasdf,0,0,region:us
+2026-11-28T06:31:41Z,sadasdasdsdds/Annoy-PyEdu-Rs-Raw,sadasdasdsdds,0,0,region:us
+2026-11-28T06:31:41Z,sadasdasdsdds/Annoy-PyEdu-Rs,sadasdasdsdds,0,0,region:us
+2026-11-28T06:31:54Z,officcial/rewayaat-persian-corpus,officcial,0,0,task_categories:other; language:ar; language:en; license:apache-2.0; size_categories:10K<n<100K; region:us
+2026-11-28T06:32:32Z,DAS21321DSA/Annoy-PyEdu-Rs,DAS21321DSA,0,0,region:us
+2026-11-28T06:32:33Z,DAS21321DSA/Annoy-PyEdu-Rs-Raw,DAS21321DSA,0,0,region:us
+2026-11-28T06:32:37Z,LANA-CyberSecurity/ctfwu-ctfs-write-ups-2014,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:32:46Z,linhduong32519/andromeda,linhduong32519,0,0,region:us
+2026-11-28T06:33:46Z,GamageShahan/reuters_articles,GamageShahan,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T06:34:15Z,SDFCS12SAD/Annoy-PyEdu-Rs,SDFCS12SAD,0,0,region:us
+2026-11-28T06:34:16Z,SDFCS12SAD/Annoy-PyEdu-Rs-Raw,SDFCS12SAD,0,0,region:us
+2026-11-28T06:34:42Z,medi07/ww2-frames,medi07,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:34:47Z,tuanhoang3948/cirrus,tuanhoang3948,0,0,region:us
+2026-11-28T06:35:03Z,LANA-CyberSecurity/ctfwu-ctfs-write-ups-2015,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:36:29Z,Mind2Act-World/Mind2Act-Mini-Train,Mind2Act-World,0,0,task_categories:robotics; language:en; license:apache-2.0; arxiv:2611.26444; region:us
+2026-11-28T06:37:26Z,LANA-CyberSecurity/ctfwu-ctfs-write-ups-2016,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:37:39Z,binhle64064/pleiades,binhle64064,0,0,region:us
+2026-11-28T06:40:11Z,thinhvo25577/octopus,thinhvo25577,0,0,region:us
+2026-11-28T06:40:12Z,LANA-CyberSecurity/ctfwu-ctfs-write-ups-2017,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:40:21Z,hgaimo/d20261127070610e6f13180-3,hgaimo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:40:49Z,Distilleverymodel/community-chats,Distilleverymodel,0,0,task_categories:text-generation; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; distill-every-model; conversational
+2026-11-28T06:41:50Z,Native-ML/Stack-V3-Synaptic_Pretraining-code,Native-ML,0,0,license:odc-by; region:us
+2026-11-28T06:42:58Z,LANA-CyberSecurity/ctfwu-dest1ny-sec-des-ctf-knowledge,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:43:55Z,ShawarmaCapital/us-smallcap-hardware-defense-research-2026,ShawarmaCapital,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; equity-research; sec-…
+2026-11-28T06:43:55Z,ASDWGFG/duco_revo2_keyboard_test,ASDWGFG,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-11-28T06:43:57Z,phatvu7554/sycamore,phatvu7554,0,0,region:us
+2026-11-28T06:44:12Z,Bryan304/so101_pickplace_real_02_20261128_142034,Bryan304,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-11-28T06:45:20Z,datpham27846/metro,datpham27846,0,0,region:us
+2026-11-28T06:45:31Z,LANA-CyberSecurity/ctfwu-dvd848-ctfs,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:46:30Z,scottwb/hopwatch-burrowv2-mdanimal-labels,scottwb,0,0,size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:47:54Z,scottwb/hopwatch-burrowv2-union-labels,scottwb,0,0,size_categories:10K<n<100K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:48:08Z,LANA-CyberSecurity/ctfwu-edoardottt-tryhackme-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:48:18Z,cuongduong8932/grizzly,cuongduong8932,0,0,region:us
+2026-11-28T06:49:23Z,vdem17/rami-aldhuwaybi-qalun,vdem17,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-11-28T06:49:36Z,tuanvo97565/myrtle,tuanvo97565,0,0,region:us
+2026-11-28T06:52:28Z,linhhoang89583/elm,linhhoang89583,0,0,region:us
+2026-11-28T06:52:51Z,LANA-CyberSecurity/ctfwu-google-google-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:54:11Z,phuongtran19456/ridge,phuongtran19456,0,0,region:us
+2026-11-28T06:55:49Z,SAD1DXZDCQ/Annoy-PyEdu-Rs,SAD1DXZDCQ,0,0,region:us
+2026-11-28T06:55:50Z,SAD1DXZDCQ/Annoy-PyEdu-Rs-Raw,SAD1DXZDCQ,0,0,region:us
+2026-11-28T06:55:59Z,LANA-CyberSecurity/ctfwu-hackthissite-ctf-writeups,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T06:56:02Z,tuanbui20057/sparrow,tuanbui20057,0,0,region:us
+2026-11-28T06:56:24Z,vivicc1121/d2026112707064549605108-3,vivicc1121,0,0,region:us
+2026-11-28T06:57:33Z,zakir-smart-ai-32583/tuktuk-masr-3d,zakir-smart-ai-32583,0,0,region:us
+2026-11-28T06:57:58Z,khanhtran97407/terra,khanhtran97407,0,0,region:us
+2026-11-28T06:58:53Z,LANA-CyberSecurity/ctfwu-momenbasel-htb-writeups,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:00:01Z,brownmenmarketing/india-financial-advertising-rules-register,brownmenmarketing,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; india; advertising; complia…
+2026-11-28T07:00:09Z,liufeng145/Annoy-PyEdu-Rs,liufeng145,0,0,region:us
+2026-11-28T07:00:11Z,liufeng145/Annoy-PyEdu-Rs-Raw,liufeng145,0,0,region:us
+2026-11-28T07:00:24Z,dungvu34911/altair,dungvu34911,0,0,region:us
+2026-11-28T07:00:47Z,adityamangal98/hinglish-english-everyday-synthetic,adityamangal98,0,0,task_categories:translation; task_categories:text-generation; language:en; language:hi; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; lib…
+2026-11-28T07:00:49Z,KeLe-open-code/fluid-mechanics-practice-exam,KeLe-open-code,0,0,language:zh; region:us; education; fluid-mechanics
+2026-11-28T07:00:50Z,adityamangal98/resume-jd-match-synthetic,adityamangal98,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:…
+2026-11-28T07:01:06Z,Hafthaf/sph_dataset,Hafthaf,0,0,task_categories:image-classification; task_categories:image-segmentation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; modality:image; region:us; additive-manufacturing; laser-powder-be…
+2026-11-28T07:01:20Z,atmem/atmem-context-projection-benchmark,atmem,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; agent…
+2026-11-28T07:01:30Z,LANA-CyberSecurity/ctfwu-p4-team-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:02:47Z,ngandang20196/radar,ngandang20196,0,0,region:us
+2026-11-28T07:03:16Z,tszk/AMLScan,tszk,0,0,region:us
+2026-11-28T07:03:20Z,daniellamb1102/MixAssist,daniellamb1102,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T07:03:59Z,LANA-CyberSecurity/ctfwu-pdkt-team-ctf,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:04:58Z,khoapham32778/express,khoapham32778,0,0,region:us
+2026-11-28T07:05:48Z,chan1600/coco_train2017,chan1600,0,0,task_categories:keypoint-detection; task_categories:object-detection; license:other; region:us; coco; mirror
+2026-11-28T07:06:23Z,cuonghuynh76517/photosphere,cuonghuynh76517,0,0,region:us
+2026-11-28T07:06:30Z,imsuperkong/tinyv15-views17,imsuperkong,0,0,region:us
+2026-11-28T07:06:52Z,EtDawn/awskrug-demo,EtDawn,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T07:06:56Z,israel/HANC_dataset,israel,0,0,task_categories:text-classification; language:am; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-11-28T07:07:19Z,Schlank/hokku-hook,Schlank,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T07:07:24Z,LANA-CyberSecurity/ctfwu-perfectblue-ctf-writeups,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:07:54Z,cuongdang50334/comet,cuongdang50334,0,0,region:us
+2026-11-28T07:09:34Z,hisham-cmd/kaggle-uncensored-models,hisham-cmd,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; u…
+2026-11-28T07:09:40Z,thaoduong16953/heron,thaoduong16953,0,0,region:us
+2026-11-28T07:10:09Z,LANA-CyberSecurity/ctfwu-project-sekai-ctf-sekaictf-2022,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:12:06Z,thinhly87355/ganymede,thinhly87355,0,0,region:us
+2026-11-28T07:12:24Z,kokoai179/d20261127070631d413e095-3,kokoai179,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-11-28T07:13:12Z,LANA-CyberSecurity/ctfwu-project-sekai-ctf-sekaictf-2024,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:13:39Z,kienho78899/barracuda,kienho78899,0,0,region:us
+2026-11-28T07:13:50Z,Raushankumarj/video-storage,Raushankumarj,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-11-28T07:15:26Z,echobuild/christian-literature-rag-sample,echobuild,0,1,license:cc0-1.0; region:us
+2026-11-28T07:15:58Z,alztrk/bozkurt-corpus,alztrk,0,0,region:us
+2026-11-28T07:16:13Z,xiangnan-cai/TriMove,xiangnan-cai,0,0,license:cc-by-4.0; size_categories:n<1K; modality:text; modality:timeseries; region:us; human-activity-recognition; multimodal; timeseries; imu; plantar-pressure; estimated-pose
+2026-11-28T07:16:26Z,cclincclin/xfer-speedtest-ecde6d18,cclincclin,0,0,region:us
+2026-11-28T07:16:29Z,yanxiaodong/Annoy-PyEdu-Rs-Raw,yanxiaodong,0,0,region:us
+2026-11-28T07:16:29Z,yanxiaodong/Annoy-PyEdu-Rs,yanxiaodong,0,0,region:us
+2026-11-28T07:16:31Z,LANA-CyberSecurity/ctfwu-pwning-public-writeup,LANA-CyberSecurity,0,0,license:other; region:us; cybersecurity; security; security_text; dual-use
+2026-11-28T07:16:46Z,sdf12dsad21/Annoy-PyEdu-Rs,sdf12dsad21,0,0,region:us
+2026-11-28T07:16:47Z,sdf12dsad21/Annoy-PyEdu-Rs-Raw,sdf12dsad21,0,0,region:us
+2026-11-28T07:16:54Z,binhhoang27886/thruster,binhhoang27886,0,0,region:us
+2026-11-28T07:17:47Z,WZepher/so101_test_record_v2_20261128_161655,WZepher,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-11-28T07:17:59Z,zASE123/Annoy-PyEdu-Rs-Raw,zASE123,0,0,region:us
+2026-11-28T07:17:59Z,zASE123/Annoy-PyEdu-Rs,zASE123,0,0,region:us
+2026-11-28T07:18:11Z,v391ai/d202611270706228a34ea93-3,v391ai,0,0,region:us
+2026-11-28T07:18:13Z,lomasub/stt_thai_normalized,lomasub,0,0,task_categories:automatic-speech-recognition; language:th; license:cc-by-4.0; size_categories:1K<n<10K; arxiv:2601.13044; arxiv:2406.11546; arxiv:2205.12446; region:us
+2026-11-28T07:18:47Z,phuongpham78112/avian,phuongpham78112,0,0,region:us
+2026-11-28T07:19:47Z,gostar77/ernie-5.5-flash-calib-hessians,gostar77,0,0,region:us
+2026-11-28T07:19:47Z,sam2ai/odia-convfill-bilingual,sam2ai,0,0,task_categories:text-generation; language:or; language:en; license:cc-by-sa-4.0; arxiv:2511.07397; region:us; conversational; convfill; odia
